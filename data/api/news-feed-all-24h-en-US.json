@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770757961530,
-  "crawlUpdatedAt": 1770757961530,
+  "updatedAt": 1770761395139,
+  "crawlUpdatedAt": 1770761395139,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Rm9yZCByZXBvcnRzIHdv",
-      "title": "Ford reports worst quarterly earnings miss in four years, guides for better 2026",
+      "id": "Investing.com News-UGVnYXN5c3RlbXMgc2hh",
+      "title": "Pegasystems shares fall 5% as net income declines YoY, despite better-than-expected Q4",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/ford-motor-f-earnings-q4-2025.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770757722000,
+      "url": "https://www.investing.com/news/earnings/pegasystems-shares-fall-5-as-net-income-declines-yoy-despite-betterthanexpected-q4-93CH-4498240",
+      "source": "Investing.com News",
+      "publishedAt": 1770760526000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNv4oCZcyBBbWVy",
+      "title": "Mexico’s America Movil posts fourfold jump in Q4 profit",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/mexicos-america-movil-posts-fourfold-jump-in-q4-profit-4498239",
+      "source": "Investing.com News",
+      "publishedAt": 1770760518000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Rm9ybWVyIFRydW1wIGNh",
-      "title": "Former Trump campaign lawyer sparked FBI probe of Fulton County ballots: Affidavit",
+      "id": "Investing.com News-QXN0ZXJhIExhYnMgYW5u",
+      "title": "Astera Labs announces CFO retirement and appoints Desmond Lynch as successor",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/trump-olsen-fbi-fulton-county-ballots.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770757605000,
+      "url": "https://www.investing.com/news/sec-filings/astera-labs-announces-cfo-retirement-and-appoints-desmond-lynch-as-successor-93CH-4498237",
+      "source": "Investing.com News",
+      "publishedAt": 1770760504000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,30 +58,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UyZQIDUwMCwgTmFzZGFx",
-      "title": "S&P 500, Nasdaq dip with economic data, earnings in focus",
+      "id": "Investing.com News-Rm9yZOKAmXMgcXVhcnRl",
+      "title": "Ford’s quarterly earnings miss forecasts, CEO sees stronger year in 2026",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-pause-after-tech-rebound-upcoming-data-in-focus-4495944",
+      "url": "https://www.investing.com/news/stock-market-news/fords-quarterly-earnings-miss-forecasts-ceo-sees-stronger-year-in-2026-4497960",
       "source": "Investing.com News",
-      "publishedAt": 1770757602000,
+      "publishedAt": 1770760496000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
-      "symbols": [
-        "NDX",
-        "SPX"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UmVkIFJvY2sgUmVzb3J0",
-      "title": "Red Rock Resorts beats Q4 estimates on strong casino revenue",
+      "id": "Investing.com News-VHdvIEVsbGlvdHQtYXBw",
+      "title": "Two Elliott-appointed directors to step down from Southwest Airlines board",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/red-rock-resorts-beats-q4-estimates-on-strong-casino-revenue-93CH-4497909",
+      "url": "https://www.investing.com/news/stock-market-news/two-elliottappointed-directors-to-step-down-from-southwest-airlines-board-4498236",
       "source": "Investing.com News",
-      "publishedAt": 1770757587000,
+      "publishedAt": 1770760476000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkRBIGFwcHJvdmVzIE1l",
+      "title": "FDA approves Merck’s Keytruda for ovarian cancer treatment",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fda-approves-mercks-keytruda-for-ovarian-cancer-treatment-93CH-4498235",
+      "source": "Investing.com News",
+      "publishedAt": 1770760450000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXNwZXkgTWZnJkVsZWN0",
+      "title": "Espey Mfg&Electronics earnings beat by $0.16, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/espey-mfgelectronics-earnings-beat-by-016-revenue-fell-short-of-estimates-4498234",
+      "source": "Investing.com News",
+      "publishedAt": 1770760448000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -76,12 +118,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5hbHlzaXMtQ2hpbmEg",
-      "title": "Analysis-China tightens market oversight to create ’slow bull’ momentum",
+      "id": "Investing.com News-Rm9ybSA0MjRCNSBGbHll",
+      "title": "Form 424B5 Flyexclusive Inc For: 10 February",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysischina-tightens-market-oversight-to-create-slow-bull-momentum-4497908",
+      "url": "https://www.investing.com/news/filings/form-424b5-flyexclusive-inc-for-10-february-93CH-4498233",
       "source": "Investing.com News",
-      "publishedAt": 1770757586000,
+      "publishedAt": 1770760448000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -91,27 +133,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG93IGNsb3NlcyBhdCBh",
-      "title": "Dow closes at another record above 50,000; soft retails sales sends yields lower",
+      "id": "Investing.com News-RGlvZGVzIHNoYXJlcyBz",
+      "title": "Diodes shares surge as strong Q1 guidance outweighs earnings miss",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-dows-record-finish-jobs-cpi-data-awaited-4495378",
+      "url": "https://www.investing.com/news/earnings/diodes-shares-surge-as-strong-q1-guidance-outweighs-earnings-miss-93CH-4498232",
       "source": "Investing.com News",
-      "publishedAt": 1770757559000,
+      "publishedAt": 1770760427000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlOiBKdW1p",
-      "title": "Exclusive: Jumia goes from turnaround to scale, according to CEO Dufay",
+      "id": "Investing.com News-U291dGh3ZXN0IEFpcmxp",
+      "title": "Southwest Airlines directors representing Elliott to step down",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusive-jumia-goes-from-turnaround-to-scale-according-to-ceo-dufay-4497890",
+      "url": "https://www.investing.com/news/stock-market-news/southwest-airlines-directors-representing-elliott-to-step-down-93CH-4498231",
       "source": "Investing.com News",
-      "publishedAt": 1770757458000,
+      "publishedAt": 1770760388000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIExlYWRlciBU",
+      "title": "Senate Leader Thune throws cold water on filibuster change in push for voter-ID bill",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/senate-filibuster-thune-trump-save-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770759776000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -121,12 +178,73 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0cgUHJlY2lw",
-      "title": "Form 13G Precipio For: 10 February",
+      "id": "CNBC Markets-Rm9yZCByZXBvcnRzIHdv",
+      "title": "Ford reports worst quarterly earnings miss in four years, guides for better 2026",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-precipio-for-10-february-93CH-4497886",
-      "source": "Investing.com News",
-      "publishedAt": 1770757435000,
+      "url": "https://www.cnbc.com/2026/02/10/ford-motor-f-earnings-q4-2025.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770759655000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIEFJIHRocmVhdCB3",
+      "title": "The AI threat wrecked software stocks. Now financial stocks look next with LPL closing 8% lower",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770759356000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXN0w6llIExhdWRlciBz",
+      "title": "Estée Lauder sues Walmart alleging &apos;despicable&apos; sale of counterfeit beauty products",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/estee-lauder-lawsuit-walmart-counterfeits.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770758840000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmF0aWNhbiBCYW5rIG1h",
+      "title": "Vatican Bank makes first foray into equity indexes, setting stage for potential ETF launches",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/vatican-bank-makes-first-foray-into-equity-indexes-setting-stage-for-potential-etf-launches.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770758822000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxwaGFiZXQgYm9vc3Rz",
+      "title": "Alphabet boosts debt sale again as total raise exceeds $30 billion, sources say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/alphabet-set-to-raise-over-30-billion-in-global-debt-sale-sources.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770758740000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -137,11 +255,11 @@
     },
     {
       "id": "CNBC Markets-U3BvdGlmeSBwb3BzIDE1",
-      "title": "Spotify pops 15% on strong user growth, earnings beat",
+      "title": "Spotify pops 15%, its best day since 2019, on strong user growth",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/10/spotify-spot-q4-2025-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770757412000,
+      "publishedAt": 1770758721000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -151,57 +269,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW1lcmljYW4gRXhwcmVz",
-      "title": "American Express issues $3.5 billion in new notes across multiple maturities",
+      "id": "CNBC Markets-Rm9ybWVyIFRydW1wIGNh",
+      "title": "Former Trump campaign lawyer sparked FBI probe of Fulton County ballots: Affidavit",
       "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/american-express-issues-35-billion-in-new-notes-across-multiple-maturities-93CH-4497884",
-      "source": "Investing.com News",
-      "publishedAt": 1770757382000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0VJIEludmVzdG1lbnRz",
-      "title": "SEI Investments at UBS Conference: Strategic Moves and AI Focus",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/sei-investments-at-ubs-conference-strategic-moves-and-ai-focus-93CH-4497883",
-      "source": "Investing.com News",
-      "publishedAt": 1770757332000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFyayAmIEdyYWhhbSBl",
-      "title": "Mark & Graham expands Sanderson collaboration with bath products",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mark--graham-expands-sanderson-collaboration-with-bath-products-93CH-4497879",
-      "source": "Investing.com News",
-      "publishedAt": 1770757290000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBCQVJDTEFZ",
-      "title": "Form 6K BARCLAYS PLC For: 10 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-barclays-plc-for-10-february-93CH-4497878",
-      "source": "Investing.com News",
-      "publishedAt": 1770757279000,
+      "url": "https://www.cnbc.com/2026/02/10/trump-olsen-fbi-fulton-county-ballots.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770757605000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -243,27 +316,27 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-T3VyIER1UG9udCB0aGVz",
+      "title": "Our DuPont thesis is working according to plan. We&apos;re raising our price target",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/our-dupont-thesis-is-working-according-to-plan-were-raising-our-price-target.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770753722000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgQ29tbWVyY2Ug",
       "title": "Trump Commerce Sec. Lutnick admits visiting Epstein island during family vacation",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/10/lutnick-epstein-island-vacation-congress.html",
       "source": "CNBC Markets",
       "publishedAt": 1770753456000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXN0ZWUgTGF1ZGVyIHN1",
-      "title": "Estee Lauder sues Walmart alleging &apos;despicable&apos; sale of counterfeit beauty products",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/estee-lauder-lawsuit-walmart-counterfeits.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770753256000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -285,36 +358,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgYm9vc3Rz",
-      "title": "Alphabet boosts debt sale again as total raise exceeds $30 billion, sources say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/alphabet-set-to-raise-over-30-billion-in-global-debt-sale-sources.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770751977000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIEFJIHRocmVhdCB3",
-      "title": "The AI threat wrecked software stocks. Now financial stocks look next with LPL down 11%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770751656000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -455,21 +498,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QlAgc3VzcGVuZHMgc2hh",
-      "title": "BP suspends share buyback plan in fresh sign of oil price pressure",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/bp-earnings-q4-full-year-oil-energy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770736812000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q1ZTIHRvcHMgcXVhcnRl",
       "title": "CVS tops quarterly estimates, reaffirms profit outlook as turnaround plan takes effect",
       "summary": "",
@@ -563,21 +591,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-WW91VHViZSBzdGFyIE1y",
-      "title": "YouTube star MrBeast buys youth-focused financial services app Step",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/youtube-mrbeast-youth-financial-services-app-step-beast-industries-acquires-fintech-app.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770692595000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgYmFzaGVkIEVw",
       "title": "Trump bashed Epstein to Palm Beach police during first investigation, called Maxwell &apos;evil,&apos; record shows",
       "summary": "",
@@ -599,21 +612,6 @@
       "url": "https://www.cnbc.com/2026/02/09/tesla-exec-raj-jegannathan-leaves-automaker-after-13-years.html",
       "source": "CNBC Markets",
       "publishedAt": 1770683052000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHVsc2kgR2FiYmFyZCB0",
-      "title": "Tulsi Gabbard to testify at Senate Intelligence Committee amid election probe concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/09/tulsi-gabbard-testify-senate-intelligence-fulton-county-election.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770678874000,
       "lang": "en-US",
       "topics": [
         "macro"
