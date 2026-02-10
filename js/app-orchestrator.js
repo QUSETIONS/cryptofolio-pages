@@ -390,9 +390,27 @@ function updateRouteDocumentTitle(route) {
     document.title = `${routeTitle} | CryptoFolio`;
 }
 
+function getApiBaseOrigin() {
+    const forced = window.localStorage?.getItem('cryptofolio_api_base_origin');
+    if (forced && /^https?:\/\//i.test(forced)) {
+        return forced.replace(/\/+$/, '');
+    }
+    const host = window.location.hostname || '';
+    if (host.endsWith('github.io')) {
+        return 'https://crypto-portfolio-tracker-tan-nine.vercel.app';
+    }
+    return '';
+}
+
+function buildApiUrl(path) {
+    const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+    const base = getApiBaseOrigin();
+    return base ? `${base}${normalizedPath}` : normalizedPath;
+}
+
 async function fetchMacroSnapshot(windowKey) {
     const normalized = windowKey === '90D' ? '90D' : '30D';
-    const response = await fetch(`/api/macro-snapshot?window=${normalized}`);
+    const response = await fetch(buildApiUrl(`/api/macro-snapshot?window=${normalized}`));
     if (!response.ok) throw new Error('macro_snapshot_failed');
     return response.json();
 }
@@ -408,13 +426,13 @@ async function fetchNewsFeed(topic, since, limit, locale) {
         limit: String(normalizedLimit),
         locale: normalizedLocale
     });
-    const response = await fetch(`/api/news-feed?${query.toString()}`);
+    const response = await fetch(buildApiUrl(`/api/news-feed?${query.toString()}`));
     if (!response.ok) throw new Error('news_feed_failed');
     return response.json();
 }
 
 async function fetchNewsInsight(newsItems, locale, portfolioContext) {
-    const response = await fetch('/api/news-insight', {
+    const response = await fetch(buildApiUrl('/api/news-insight'), {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -436,7 +454,7 @@ async function fetchEconCalendar(windowKey, importance, locale) {
         importance: normalizedImportance,
         locale: normalizedLocale
     });
-    const response = await fetch(`/api/econ-calendar?${query.toString()}`);
+    const response = await fetch(buildApiUrl(`/api/econ-calendar?${query.toString()}`));
     if (!response.ok) throw new Error('econ_calendar_failed');
     return response.json();
 }

@@ -103,6 +103,12 @@
   </main>
   <script>
     (async function () {
+      const host = window.location.hostname || "";
+      const forcedOrigin = window.localStorage.getItem("cryptofolio_api_base_origin");
+      const apiBaseOrigin = forcedOrigin && /^https?:\/\//i.test(forcedOrigin)
+        ? forcedOrigin.replace(/\/+$/, "")
+        : (host.endsWith("github.io") ? "https://crypto-portfolio-tracker-tan-nine.vercel.app" : "");
+      const apiUrl = (path) => `${apiBaseOrigin}${path.startsWith("/") ? path : `/${path}`}`;
       const macroKey = "cryptofolio_macro_public_status_v1";
       const newsKey = "cryptofolio_news_public_status_v1";
       const overall = document.getElementById("overall");
@@ -176,7 +182,7 @@
       }
 
       try {
-        const newsRes = await fetch("/api/news-feed?topic=all&since=24h&limit=5&locale=en-US", { cache: "no-store" });
+        const newsRes = await fetch(apiUrl("/api/news-feed?topic=all&since=24h&limit=5&locale=en-US"), { cache: "no-store" });
         if (newsRes.ok) {
           const newsBody = await newsRes.json();
           newsUpdatedAt.textContent = new Date(Number(newsBody?.updatedAt || Date.now())).toLocaleString();
@@ -194,7 +200,7 @@
       }
 
       try {
-        const res = await fetch("/api/health", { cache: "no-store" });
+        const res = await fetch(apiUrl("/api/health"), { cache: "no-store" });
         const body = await res.json();
         const ok = Boolean(body?.ok);
         overall.textContent = ok ? "healthy" : "degraded";
@@ -212,7 +218,7 @@
         overall.textContent = "down";
         overall.classList.add("bad");
         timestamp.textContent = new Date().toLocaleString();
-        serviceList.textContent = "Failed to fetch /api/health.";
+        serviceList.textContent = "Failed to fetch health API.";
       }
     })();
   </script>
