@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CryptoFolio Status</title>
+  <meta name="description" content="CryptoFolio runtime health and service status.">
+  <style>
+    :root {
+      --bg: #fff8f4;
+      --surface: #fff;
+      --text: #251911;
+      --muted: #6e5c50;
+      --ok: #118a55;
+      --warn: #b36800;
+      --bad: #cb3a24;
+      --border: #efd8c8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+      padding: 20px;
+    }
+    .wrap { max-width: 840px; margin: 0 auto; }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      margin-bottom: 12px;
+    }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; }
+    .pill {
+      display: inline-block;
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      background: #ffe8db;
+    }
+    .ok { color: var(--ok); }
+    .warn { color: var(--warn); }
+    .bad { color: var(--bad); }
+    code {
+      background: #fff4eb;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2px 6px;
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>CryptoFolio Status</h1>
+    <div class="card">
+      <div class="row">
+        <div><strong>Overall</strong>: <span id="overall" class="pill">checking...</span></div>
+        <div><strong>Timestamp</strong>: <span id="timestamp">--</span></div>
+        <div><strong>Recent runtime errors</strong>: <span id="errorCount">0</span></div>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Service Health</h2>
+      <p>API endpoint: <code>/api/health</code></p>
+      <div id="serviceList">loading...</div>
+    </div>
+    <div class="card">
+      <h2>Macro Snapshot</h2>
+      <div class="row">
+        <div><strong>As-Of</strong>: <span id="macroAsOf">--</span></div>
+        <div><strong>Quality</strong>: <span id="macroQuality">--</span></div>
+      </div>
+      <div class="row">
+        <div><strong>Regime</strong>: <span id="macroRegime">--</span></div>
+        <div><strong>Score</strong>: <span id="macroScore">--</span></div>
+        <div><strong>Confidence</strong>: <span id="macroConfidence">--</span></div>
+      </div>
+      <p><strong>Sources</strong>: <span id="macroSources">--</span></p>
+      <p id="macroFallback" class="warn"></p>
+    </div>
+    <div class="card">
+      <h2>News Snapshot</h2>
+      <div class="row">
+        <div><strong>Updated</strong>: <span id="newsUpdatedAt">--</span></div>
+        <div><strong>Quality</strong>: <span id="newsQuality">--</span></div>
+      </div>
+      <div class="row">
+        <div><strong>Items</strong>: <span id="newsCount">0</span></div>
+        <div><strong>Crawl Count</strong>: <span id="newsCrawlCount">0</span></div>
+        <div><strong>Crawl As-Of</strong>: <span id="newsCrawlUpdatedAt">--</span></div>
+        <div><strong>Last Error</strong>: <span id="newsLastError">--</span></div>
+      </div>
+      <div class="row">
+        <div><strong>Regime Impact</strong>: <span id="newsRegime">--</span></div>
+        <div><strong>Confidence</strong>: <span id="newsConfidence">--</span></div>
+      </div>
+      <p><strong>Sources</strong>: <span id="newsSources">--</span></p>
+      <p id="newsFallback" class="warn"></p>
+    </div>
+  </main>
+  <script>
+    (async function () {
+      const macroKey = "cryptofolio_macro_public_status_v1";
+      const newsKey = "cryptofolio_news_public_status_v1";
+      const overall = document.getElementById("overall");
+      const timestamp = document.getElementById("timestamp");
+      const serviceList = document.getElementById("serviceList");
+      const errorCount = document.getElementById("errorCount");
+      const macroAsOf = document.getElementById("macroAsOf");
+      const macroQuality = document.getElementById("macroQuality");
+      const macroRegime = document.getElementById("macroRegime");
+      const macroScore = document.getElementById("macroScore");
+      const macroConfidence = document.getElementById("macroConfidence");
+      const macroSources = document.getElementById("macroSources");
+      const macroFallback = document.getElementById("macroFallback");
+      const newsUpdatedAt = document.getElementById("newsUpdatedAt");
+      const newsQuality = document.getElementById("newsQuality");
+      const newsCount = document.getElementById("newsCount");
+      const newsCrawlCount = document.getElementById("newsCrawlCount");
+      const newsCrawlUpdatedAt = document.getElementById("newsCrawlUpdatedAt");
+      const newsLastError = document.getElementById("newsLastError");
+      const newsRegime = document.getElementById("newsRegime");
+      const newsConfidence = document.getElementById("newsConfidence");
+      const newsSources = document.getElementById("newsSources");
+      const newsFallback = document.getElementById("newsFallback");
+
+      try {
+        const logs = JSON.parse(localStorage.getItem("cryptofolio_runtime_errors_v1") || "[]");
+        errorCount.textContent = String(Array.isArray(logs) ? logs.length : 0);
+      } catch (_error) {
+        errorCount.textContent = "0";
+      }
+
+      try {
+        const raw = localStorage.getItem(macroKey);
+        if (!raw) {
+          macroFallback.textContent = "No macro snapshot yet.";
+        } else {
+          const macro = JSON.parse(raw);
+          macroAsOf.textContent = new Date(Number(macro?.asOf || Date.now())).toLocaleString();
+          macroQuality.textContent = String(macro?.quality || "unknown");
+          macroRegime.textContent = String(macro?.regime || "unknown");
+          macroScore.textContent = Number(macro?.score || 0).toFixed(1);
+          macroConfidence.textContent = `${Math.round(Number(macro?.confidence || 0) * 100)}%`;
+          macroSources.textContent = Array.isArray(macro?.sources) && macro.sources.length > 0
+            ? macro.sources.join(", ")
+            : "unknown";
+        }
+      } catch (_error) {
+        macroFallback.textContent = "No macro snapshot yet.";
+      }
+
+      try {
+        const raw = localStorage.getItem(newsKey);
+        if (!raw) {
+          newsFallback.textContent = "No news snapshot yet.";
+        } else {
+          const news = JSON.parse(raw);
+          newsUpdatedAt.textContent = new Date(Number(news?.updatedAt || Date.now())).toLocaleString();
+          newsQuality.textContent = String(news?.quality || "unknown");
+          newsCount.textContent = String(Number(news?.count || 0));
+          newsCrawlCount.textContent = String(Number(news?.crawlCount || news?.count || 0));
+          newsCrawlUpdatedAt.textContent = new Date(Number(news?.crawlUpdatedAt || news?.updatedAt || Date.now())).toLocaleString();
+          newsLastError.textContent = String(news?.lastErrorCode || "--");
+          newsRegime.textContent = String(news?.regimeImpact || "balanced");
+          newsConfidence.textContent = `${Math.round(Number(news?.confidence || 0) * 100)}%`;
+          newsSources.textContent = Array.isArray(news?.sources) && news.sources.length > 0
+            ? news.sources.join(", ")
+            : "unknown";
+        }
+      } catch (_error) {
+        newsFallback.textContent = "No news snapshot yet.";
+      }
+
+      try {
+        const newsRes = await fetch("/api/news-feed?topic=all&since=24h&limit=5&locale=en-US", { cache: "no-store" });
+        if (newsRes.ok) {
+          const newsBody = await newsRes.json();
+          newsUpdatedAt.textContent = new Date(Number(newsBody?.updatedAt || Date.now())).toLocaleString();
+          newsQuality.textContent = String(newsBody?.quality || "unknown");
+          newsCount.textContent = String(Array.isArray(newsBody?.items) ? newsBody.items.length : 0);
+          newsCrawlCount.textContent = String(Number(newsBody?.crawlCount || 0));
+          newsCrawlUpdatedAt.textContent = new Date(Number(newsBody?.crawlUpdatedAt || newsBody?.updatedAt || Date.now())).toLocaleString();
+          newsLastError.textContent = String(newsBody?.lastErrorCode || "--");
+          newsSources.textContent = Array.isArray(newsBody?.sources) && newsBody.sources.length > 0
+            ? newsBody.sources.join(", ")
+            : "unknown";
+        }
+      } catch (_error) {
+        // keep local snapshot fallback
+      }
+
+      try {
+        const res = await fetch("/api/health", { cache: "no-store" });
+        const body = await res.json();
+        const ok = Boolean(body?.ok);
+        overall.textContent = ok ? "healthy" : "degraded";
+        overall.classList.add(ok ? "ok" : "warn");
+        timestamp.textContent = new Date(body?.timestamp || Date.now()).toLocaleString();
+
+        const services = body?.services || {};
+        const rows = Object.keys(services).map((key) => {
+          const item = services[key] || {};
+          const cls = item.ok ? "ok" : "bad";
+          return `<div><strong>${key}</strong>: <span class="${cls}">${item.ok ? "ok" : "down"}</span> <code>${item.status || 0}</code></div>`;
+        });
+        serviceList.innerHTML = rows.join("") || "No service details.";
+      } catch (_error) {
+        overall.textContent = "down";
+        overall.classList.add("bad");
+        timestamp.textContent = new Date().toLocaleString();
+        serviceList.textContent = "Failed to fetch /api/health.";
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+name = "cryptofolio-public-proxy"
+main = "cloudflare/proxy-worker.mjs"
+compatibility_date = "2025-11-01"
+workers_dev = true
+
+[vars]
+ORIGIN_URL = "https://crypto-portfolio-tracker-tan-nine.vercel.app"

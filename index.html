@@ -1,0 +1,742 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="app.title">CryptoFolio - Portfolio Intelligence Dashboard</title>
+    <meta name="description" content="CryptoFolio is a portfolio intelligence system for asset tracking, risk assessment, alerts, and macro market monitoring.">
+    <meta property="og:title" content="CryptoFolio - Portfolio Intelligence Dashboard">
+    <meta property="og:description" content="Portfolio intelligence system with risk analytics, alerts, bilingual UI, and macro market monitoring.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://crypto-portfolio-tracker-tan-nine.vercel.app/docs/frontend-desktop.png">
+    <meta property="og:url" content="https://crypto-portfolio-tracker-tan-nine.vercel.app/">
+    <meta property="og:locale" content="en_US">
+    <link rel="canonical" href="https://crypto-portfolio-tracker-tan-nine.vercel.app/">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Crect width='64' height='64' rx='14' fill='%23ff6b35'/%3E%3Ctext x='16' y='42' font-size='28' fill='white' font-family='Arial'%3ECF%3C/text%3E%3C/svg%3E">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">CF</span>
+                <div class="logo-copy">
+                    <h1>CryptoFolio</h1>
+                    <p>Portfolio Intelligence</p>
+                </div>
+            </div>
+            <div class="header-right">
+                <span class="market-status" id="marketStatus" data-i18n="header.marketLive">Market: Live</span>
+                <span class="demo-mode-badge hidden" id="demoModeBadge" data-i18n="settings.demo.mode.badge">DEMO</span>
+                <span class="last-update" id="lastUpdate">Last update: --:--</span>
+                <button class="header-icon-btn" id="importDataBtn" data-i18n-title="button.import" data-i18n="button.import">Import</button>
+                <button class="header-icon-btn" id="exportDataBtn" data-i18n-title="button.export" data-i18n="button.export">Export</button>
+                <button class="header-icon-btn" id="localeQuickToggleBtn" data-i18n-title="settings.locale.title" data-i18n="button.languageZh">中文</button>
+                <button class="theme-toggle-btn" id="themeToggleBtn" data-i18n-title="button.dark">Dark</button>
+                <button class="header-icon-btn" id="navCollapseBtn" data-i18n-title="button.navToggle">☰</button>
+                <button class="refresh-btn" id="refreshBtn" data-i18n-title="button.refresh">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6M1 20v-6h6"/>
+                        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                    </svg>
+                </button>
+                <button class="header-icon-btn" id="commandPaletteBtn" data-i18n-title="button.cmdk" data-i18n="button.cmdk">CmdK</button>
+            </div>
+        </header>
+
+        <div class="app-shell" id="appShell">
+        <aside class="side-nav" id="topNav">
+            <div class="nav-group">
+                <p class="nav-group-title" data-i18n="nav.group.overview">Overview</p>
+                <a class="nav-link" data-route-link="dashboard" href="#/dashboard" data-i18n="nav.dashboard">Dashboard</a>
+            </div>
+            <div class="nav-group">
+                <p class="nav-group-title" data-i18n="nav.group.portfolio">Portfolio</p>
+                <a class="nav-link" data-route-link="assets" href="#/assets" data-i18n="nav.assets">Assets</a>
+                <a class="nav-link" data-route-link="transactions" href="#/transactions" data-i18n="nav.transactions">Transactions</a>
+            </div>
+            <div class="nav-group">
+                <p class="nav-group-title" data-i18n="nav.group.intelligence">Intelligence</p>
+                <a class="nav-link" data-route-link="risk" href="#/risk" data-i18n="risk.title">Risk Snapshot</a>
+                <a class="nav-link" data-route-link="macro" href="#/macro" data-i18n="macro.title">Global Macro Pulse</a>
+                <a class="nav-link" data-route-link="news" href="#/news" data-i18n="nav.news">News</a>
+                <a class="nav-link" data-route-link="calendar" href="#/calendar" data-i18n="calendar.title">Economic Calendar</a>
+                <a class="nav-link" data-route-link="decision" href="#/decision" data-i18n="decision.title">Decision Workspace</a>
+            </div>
+            <div class="nav-group">
+                <p class="nav-group-title" data-i18n="nav.group.lab">Lab</p>
+                <a class="nav-link" data-route-link="strategy" href="#/strategy" data-i18n="nav.strategy">Strategy</a>
+                <a class="nav-link" data-route-link="stress" href="#/stress" data-i18n="nav.stress">Stress</a>
+                <a class="nav-link" data-route-link="attribution" href="#/attribution" data-i18n="nav.attribution">Attribution</a>
+            </div>
+            <div class="nav-group">
+                <p class="nav-group-title" data-i18n="nav.group.system">System</p>
+                <a class="nav-link" data-route-link="alerts" href="#/alerts" data-i18n="nav.alerts">Alerts</a>
+                <a class="nav-link" data-route-link="settings" href="#/settings" data-i18n="nav.settings">Settings</a>
+            </div>
+        </aside>
+        <button class="side-nav-overlay hidden" id="sideNavOverlay" aria-label="Close navigation"></button>
+        <main class="main-content" id="mainContent">
+        <div class="error-banner hidden" id="errorBanner">
+            <span id="errorBannerText" data-i18n="banner.marketUnavailable">Market data is temporarily unavailable. Showing last known values.</span>
+            <button type="button" id="errorBannerClose" data-i18n="button.close">Close</button>
+        </div>
+
+        <section class="hero-section view-section" data-routes="dashboard">
+            <div class="hero-main">
+                <p class="hero-eyebrow" data-i18n="hero.eyebrow">Portfolio Intelligence System</p>
+                <h2 data-i18n="hero.title">From portfolio tracking to risk decision dashboard</h2>
+                <p class="hero-desc" data-i18n="hero.desc">
+                    CryptoFolio demonstrates state management, financial visualization, and interaction engineering in a modular frontend architecture.
+                </p>
+                <div class="hero-kpi-strip">
+                    <span class="hero-chip" data-i18n="hero.chip.live">Live Pricing</span>
+                    <span class="hero-chip" data-i18n="hero.chip.risk">Risk Engine</span>
+                    <span class="hero-chip" data-i18n="hero.chip.alert">Alert Center</span>
+                </div>
+            </div>
+            <div class="hero-metrics">
+                <div class="hero-metric">
+                    <span class="hero-metric-label" data-i18n="hero.metric.value">Portfolio Value</span>
+                    <span class="hero-metric-value" id="heroTotalValue">$0.00</span>
+                </div>
+                <div class="hero-metric">
+                    <span class="hero-metric-label" data-i18n="hero.metric.assets">Active Assets</span>
+                    <span class="hero-metric-value" id="heroAssetCount">0</span>
+                </div>
+                <div class="hero-metric">
+                    <span class="hero-metric-label" data-i18n="hero.metric.drawdown">Max Drawdown</span>
+                    <span class="hero-metric-value neutral" id="heroMaxDrawdown">0.00%</span>
+                </div>
+                <div class="hero-metric">
+                    <span class="hero-metric-label" data-i18n="hero.metric.alerts">Enabled Alerts</span>
+                    <span class="hero-metric-value" id="heroEnabledAlerts">0</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="total-value-card view-section" data-routes="dashboard">
+            <div class="total-value-content">
+                <p class="label" data-i18n="summary.totalValue">Total Portfolio Value</p>
+                <div class="total-value-main">
+                    <h2 class="value" id="totalValue">$0.00</h2>
+                    <div class="sparkline-wrap">
+                        <canvas id="totalSparkline"></canvas>
+                    </div>
+                </div>
+                <div class="profit-loss" id="totalProfitLoss">
+                    <span class="profit-label" data-i18n="summary.totalPnl">Total PnL:</span>
+                    <span class="profit-value" id="profitValue">$0.00</span>
+                    <span class="profit-percent" id="profitPercent">(0.00%)</span>
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="portfolioChart"></canvas>
+            </div>
+        </section>
+
+        <section class="kpi-section view-section" data-routes="dashboard">
+            <div class="kpi-card">
+                <p class="kpi-label" data-i18n="kpi.totalCost">Total Cost</p>
+                <p class="kpi-value" id="totalCostValue">$0.00</p>
+            </div>
+            <div class="kpi-card">
+                <p class="kpi-label" data-i18n="kpi.assetCount">Asset Count</p>
+                <p class="kpi-value" id="assetCountValue">0</p>
+            </div>
+            <div class="kpi-card">
+                <p class="kpi-label" data-i18n="kpi.dailyPnl">24h PnL</p>
+                <p class="kpi-value neutral" id="dailyPnlValue">$0.00</p>
+            </div>
+            <div class="kpi-card">
+                <p class="kpi-label" data-i18n="kpi.dailyReturn">24h Return</p>
+                <p class="kpi-value neutral" id="dailyPnlPercent">0.00%</p>
+            </div>
+        </section>
+
+        <section class="performance-section view-section" data-routes="dashboard">
+            <div class="section-header">
+                <h3 data-i18n="performance.title">Performance Curve</h3>
+                <div class="section-controls">
+                    <span class="section-meta" data-i18n="performance.meta">Local snapshot based valuation</span>
+                    <div class="range-switch" id="rangeSwitch">
+                        <button type="button" data-range="1D" class="range-btn active">1D</button>
+                        <button type="button" data-range="1W" class="range-btn">1W</button>
+                        <button type="button" data-range="1M" class="range-btn">1M</button>
+                        <button type="button" data-range="ALL" class="range-btn">ALL</button>
+                    </div>
+                    <label class="method-label" for="costMethodSelect" data-i18n="performance.costMethod">Cost Method</label>
+                    <select id="costMethodSelect" class="method-select">
+                        <option value="average" data-i18n="cost.average">Average Cost</option>
+                        <option value="fifo" data-i18n="cost.fifo">FIFO</option>
+                    </select>
+                </div>
+            </div>
+            <div class="performance-chart-container">
+                <canvas id="performanceChart"></canvas>
+            </div>
+        </section>
+
+        <section class="macro-section view-section" data-routes="dashboard macro">
+            <div class="section-header">
+                <h3 data-i18n="macro.title">Global Macro Pulse</h3>
+                <div class="section-controls">
+                    <div class="range-switch" id="macroWindowSwitch">
+                        <button type="button" data-macro-window="30D" class="range-btn active">30D</button>
+                        <button type="button" data-macro-window="90D" class="range-btn">90D</button>
+                    </div>
+                    <select id="macroAnalysisModeSelect" class="method-select">
+                        <option value="brief" data-i18n="macro.modeBrief">Brief</option>
+                        <option value="pro" data-i18n="macro.modePro">Professional</option>
+                    </select>
+                    <button class="header-icon-btn" type="button" id="macroRefreshBtn" data-i18n="button.refresh">Refresh</button>
+                </div>
+            </div>
+            <div class="macro-grid">
+                <div class="macro-chart-wrap">
+                    <canvas id="macroCurveChart"></canvas>
+                </div>
+                <div class="macro-analysis">
+                    <span class="macro-regime neutral" id="macroRegimeBadge">Balanced</span>
+                    <p class="macro-score" id="macroScore">Score: --</p>
+                    <p class="macro-confidence section-meta" id="macroConfidence">Confidence: --</p>
+                    <ul class="macro-insights">
+                        <li id="macroInsight1">--</li>
+                        <li id="macroInsight2">--</li>
+                        <li id="macroInsight3">--</li>
+                    </ul>
+                    <div class="macro-factor-list hidden" id="macroFactorList">
+                        <div class="macro-factor-row"><span data-i18n="macro.driver.trend">Trend</span><div class="macro-factor-bar"><span id="macroFactorTrend"></span></div></div>
+                        <div class="macro-factor-row"><span data-i18n="macro.driver.breadth">Breadth</span><div class="macro-factor-bar"><span id="macroFactorBreadth"></span></div></div>
+                        <div class="macro-factor-row"><span data-i18n="macro.driver.volatility">Volatility</span><div class="macro-factor-bar"><span id="macroFactorVolatility"></span></div></div>
+                        <div class="macro-factor-row"><span data-i18n="macro.driver.concentration">Concentration</span><div class="macro-factor-bar"><span id="macroFactorConcentration"></span></div></div>
+                        <div class="macro-factor-row"><span data-i18n="macro.driver.liquidity">Liquidity</span><div class="macro-factor-bar"><span id="macroFactorLiquidity"></span></div></div>
+                    </div>
+                    <div class="macro-pro-details hidden" id="macroProDetails">
+                        <p class="section-meta" id="macroQualityLine">--</p>
+                        <p class="section-meta" id="macroProDriver1">--</p>
+                        <p class="section-meta" id="macroProDriver2">--</p>
+                        <p class="section-meta" id="macroProDriver3">--</p>
+                        <p class="section-meta" id="macroProEvidence1">--</p>
+                        <p class="section-meta" id="macroProEvidence2">--</p>
+                        <p class="section-meta" id="macroProMethod">--</p>
+                        <p class="section-meta" id="macroProLimit">--</p>
+                    </div>
+                    <p class="section-meta" id="macroWarnings">--</p>
+                </div>
+            </div>
+            <div class="meta-strip">
+                <span class="section-meta" id="macroSources">Sources: --</span>
+                <span class="section-meta" id="macroUpdated">Updated: --:--</span>
+                <span class="section-meta" id="macroNextRefresh">Next refresh: --</span>
+            </div>
+            <p class="section-meta" data-i18n="macro.disclaimer">Decision-support signal only, not investment advice.</p>
+        </section>
+
+        <section class="news-section view-section" data-routes="dashboard news">
+            <div class="section-header">
+                <h3 data-i18n="news.title">News & Insight</h3>
+                <div class="section-controls">
+                    <select id="newsTopicSelect" class="method-select">
+                        <option value="all" data-i18n="news.topic.all">All</option>
+                        <option value="macro" data-i18n="news.topic.macro">Macro</option>
+                        <option value="crypto" data-i18n="news.topic.crypto">Crypto</option>
+                        <option value="rates" data-i18n="news.topic.rates">Rates</option>
+                    </select>
+                    <select id="newsSinceSelect" class="method-select">
+                        <option value="1h" data-i18n="news.since.1h">1h</option>
+                        <option value="24h" data-i18n="news.since.24h">24h</option>
+                        <option value="7d" data-i18n="news.since.7d">7d</option>
+                    </select>
+                    <select id="newsAnalysisModeSelect" class="method-select">
+                        <option value="brief" data-i18n="news.mode.brief">Brief</option>
+                        <option value="pro" data-i18n="news.mode.pro">Professional</option>
+                    </select>
+                    <button class="header-icon-btn" type="button" id="newsRefreshBtn" data-i18n="button.refresh">Refresh</button>
+                </div>
+            </div>
+            <div class="news-topline">
+                <span class="news-filter-state" id="newsFilterState">--</span>
+                <span class="news-mode-hint hidden" id="newsModeHint">--</span>
+            </div>
+            <div class="news-grid">
+                <div class="news-feed-panel">
+                    <div id="newsFeedList"></div>
+                    <button class="header-icon-btn hidden" type="button" id="newsLoadMoreBtn" data-i18n="news.loadMore">Load More</button>
+                </div>
+                <div class="news-insight-panel" id="newsInsightCard"></div>
+            </div>
+            <div class="meta-strip">
+                <span class="section-meta" id="newsSources">Sources: --</span>
+                <span class="section-meta" id="newsUpdated">Updated: --:--</span>
+                <span class="section-meta" id="newsQuality">Quality: --</span>
+                <span class="section-meta" id="newsNextRefresh">Next refresh: --</span>
+            </div>
+            <p class="section-meta" data-i18n="news.disclaimer">News insight is decision-support only, not investment advice.</p>
+        </section>
+
+        <section class="calendar-section view-section" data-routes="calendar">
+            <div class="section-header">
+                <h3 data-i18n="calendar.title">Economic Calendar</h3>
+                <div class="section-controls">
+                    <select id="calendarWindowSelect" class="method-select">
+                        <option value="1d" data-i18n="calendar.window.1d">Today</option>
+                        <option value="7d" data-i18n="calendar.window.7d">This Week</option>
+                    </select>
+                    <select id="calendarImportanceSelect" class="method-select">
+                        <option value="all" data-i18n="calendar.importance.all">All</option>
+                        <option value="high" data-i18n="calendar.importance.high">High</option>
+                    </select>
+                    <button class="header-icon-btn" type="button" id="calendarRefreshBtn" data-i18n="button.refresh">Refresh</button>
+                </div>
+            </div>
+            <div id="calendarEventsList"></div>
+            <div class="section-header">
+                <span class="section-meta" id="calendarUpdated">Updated: --:--</span>
+                <span class="section-meta" id="calendarQuality">Quality: --</span>
+            </div>
+        </section>
+
+        <section class="decision-section view-section" data-routes="decision">
+            <div class="section-header">
+                <h3 data-i18n="decision.title">Decision Workspace</h3>
+                <div class="section-controls">
+                    <select id="decisionModeSelect" class="method-select">
+                        <option value="brief" data-i18n="news.mode.brief">Brief</option>
+                        <option value="pro" data-i18n="news.mode.pro">Professional</option>
+                    </select>
+                </div>
+            </div>
+            <div id="decisionWorkspaceCard"></div>
+            <p class="section-meta" data-i18n="decision.disclaimer">Outputs are risk posture suggestions only, not buy/sell instructions.</p>
+        </section>
+
+        <section class="transactions-section view-section" data-routes="transactions">
+            <div class="section-header">
+                <h3 data-i18n="transactions.title">Transactions</h3>
+                <div class="tx-filters" id="txFilters">
+                    <select id="txFilterCoin">
+                        <option value="ALL" data-i18n="filter.allCoins">All Coins</option>
+                    </select>
+                    <select id="txFilterType">
+                        <option value="ALL" data-i18n="filter.allTypes">All Types</option>
+                        <option value="BUY" data-i18n="tx.type.buy">Buy</option>
+                        <option value="SELL" data-i18n="tx.type.sell">Sell</option>
+                    </select>
+                    <select id="txFilterRange">
+                        <option value="ALL" data-i18n="filter.allTime">All Time</option>
+                        <option value="7D">7D</option>
+                        <option value="30D">30D</option>
+                        <option value="90D">90D</option>
+                    </select>
+                </div>
+            </div>
+            <form class="transaction-form" id="transactionForm">
+                <div class="form-group">
+                    <label for="txAssetSelect" data-i18n="tx.form.asset">Asset</label>
+                    <select id="txAssetSelect" required>
+                        <option value="" data-i18n="placeholder.selectAsset">Select an asset...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="txType" data-i18n="tx.form.type">Type</label>
+                    <select id="txType" required>
+                        <option value="BUY" data-i18n="tx.type.buy">Buy</option>
+                        <option value="SELL" data-i18n="tx.type.sell">Sell</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="txAmount" data-i18n="tx.form.amount">Amount</label>
+                    <input type="number" id="txAmount" min="0" step="any" required placeholder="0.00" data-i18n-placeholder="tx.form.amount">
+                </div>
+                <div class="form-group">
+                    <label for="txPrice" data-i18n="tx.form.price">Price (USD)</label>
+                    <input type="number" id="txPrice" min="0" step="any" required placeholder="0.00" data-i18n-placeholder="tx.form.price">
+                </div>
+                <div class="form-group">
+                    <label for="txFee" data-i18n="tx.form.fee">Fee (USD)</label>
+                    <input type="number" id="txFee" min="0" step="any" value="0">
+                </div>
+                <button type="submit" class="add-btn" data-i18n="tx.form.record">Record Transaction</button>
+            </form>
+            <p class="inline-error hidden" id="txInlineError"></p>
+            <div class="tx-list" id="txList">
+                <p class="tx-empty" id="txEmpty" data-i18n="tx.empty">No transaction records yet.</p>
+            </div>
+        </section>
+
+        <section class="risk-section view-section" data-routes="dashboard risk">
+            <div class="section-header">
+                <h3 data-i18n="risk.title">Risk Metrics</h3>
+                <span class="section-meta" data-i18n="risk.meta">Live portfolio exposure and risk posture</span>
+            </div>
+            <div class="risk-grid">
+                <div class="risk-card">
+                    <p class="risk-label" data-i18n="risk.maxDrawdown">Max Drawdown</p>
+                    <p class="risk-value neutral" id="maxDrawdownValue">0.00%</p>
+                    <p class="risk-hint" id="drawdownBandText" data-i18n="risk.band">Band: Low</p>
+                </div>
+                <div class="risk-card">
+                    <p class="risk-label" data-i18n="risk.top1">Top1 Concentration</p>
+                    <p class="risk-value neutral" id="top1ConcentrationValue">0.00%</p>
+                </div>
+                <div class="risk-card">
+                    <p class="risk-label" data-i18n="risk.top3">Top3 Concentration</p>
+                    <p class="risk-value neutral" id="top3ConcentrationValue">0.00%</p>
+                </div>
+                <div class="risk-card">
+                    <p class="risk-label" data-i18n="risk.volatility">Volatility</p>
+                    <p class="risk-value neutral" id="volatilityValue">0.00%</p>
+                </div>
+                <div class="risk-card">
+                    <p class="risk-label" data-i18n="risk.var95">VaR (95%)</p>
+                    <p class="risk-value neutral" id="var95Value">0.00%</p>
+                </div>
+                <div class="risk-card">
+                    <p class="risk-label" data-i18n="risk.drawdownAlerts">Drawdown Alerts</p>
+                    <p class="risk-value neutral" id="drawdownThresholdHint">8% / 15%</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="alerts-section view-section" data-routes="alerts">
+            <div class="section-header">
+                <h3 data-i18n="alerts.title">Alert Center</h3>
+                <span class="section-meta" data-i18n="alerts.meta">Price / Position / Drawdown triggers</span>
+            </div>
+            <form class="alert-form" id="alertForm">
+                <div class="form-group">
+                    <label for="alertType" data-i18n="alerts.type">Type</label>
+                    <select id="alertType" required>
+                        <option value="PRICE_ABOVE" data-i18n="alerts.priceAbove">Price Above</option>
+                        <option value="PRICE_BELOW" data-i18n="alerts.priceBelow">Price Below</option>
+                        <option value="POSITION_ABOVE" data-i18n="alerts.positionAbove">Position Above (%)</option>
+                        <option value="DRAWDOWN_ABOVE" data-i18n="alerts.drawdownAbove">Max Drawdown Above (%)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="alertCoinSelect" data-i18n="alerts.coin">Coin</label>
+                    <select id="alertCoinSelect">
+                        <option value="" data-i18n="placeholder.selectCoin">Select coin...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="alertThreshold" data-i18n="alerts.threshold">Threshold</label>
+                    <input type="number" id="alertThreshold" min="0" step="any" placeholder="e.g. 70000 / 35" data-i18n-placeholder="placeholder.alertThreshold" required>
+                </div>
+                <button type="submit" class="add-btn" data-i18n="alerts.add">Add Alert</button>
+            </form>
+            <p class="inline-error hidden" id="alertInlineError"></p>
+            <div class="alert-rules-list" id="alertRulesList">
+                <p class="tx-empty" id="alertEmpty" data-i18n="alerts.empty">No alert rules configured.</p>
+            </div>
+            <div class="alert-history" id="alertHistory"></div>
+        </section>
+
+        <section class="strategy-section view-section" data-routes="strategy">
+            <div class="section-header">
+                <h3 data-i18n="strategy.title">Strategy Lab</h3>
+                <span class="section-meta" data-i18n="strategy.meta">Target allocation and rebalance recommendations.</span>
+            </div>
+            <p class="lab-status-text" id="strategyStatusText"></p>
+            <div class="lab-controls">
+                <div class="form-group">
+                    <label for="strategyMaxSingleInput" data-i18n="strategy.maxSingle">Max Single Asset (%)</label>
+                    <input id="strategyMaxSingleInput" type="number" min="5" max="100" step="1" value="40">
+                </div>
+                <div class="form-group">
+                    <label for="strategyMinStableInput" data-i18n="strategy.minStable">Min Stable Allocation (%)</label>
+                    <input id="strategyMinStableInput" type="number" min="0" max="100" step="1" value="15">
+                </div>
+                <div class="form-group">
+                    <label for="strategyMinTradeInput" data-i18n="strategy.minTrade">Min Trade (USD)</label>
+                    <input id="strategyMinTradeInput" type="number" min="0" step="1" value="25">
+                </div>
+                <button class="header-icon-btn" type="button" id="strategyEvaluateBtn" data-i18n="strategy.evaluate">Evaluate</button>
+                <button class="header-icon-btn" type="button" id="strategyExportBtn" data-i18n="strategy.export">Export Strategy</button>
+            </div>
+            <div class="lab-targets" id="strategyTargetsList"></div>
+            <div id="strategyResultSummary"></div>
+            <div class="lab-table-wrap" id="strategyResultTable"></div>
+        </section>
+
+        <section class="stress-section view-section" data-routes="stress">
+            <div class="section-header">
+                <h3 data-i18n="stress.title">Stress Test</h3>
+                <span class="section-meta" data-i18n="stress.meta">Scenario shock and downside sensitivity.</span>
+            </div>
+            <p class="lab-status-text" id="stressStatusText"></p>
+            <div class="lab-controls">
+                <div class="form-group">
+                    <label for="stressPresetSelect" data-i18n="stress.preset">Preset</label>
+                    <select id="stressPresetSelect"></select>
+                </div>
+                <div class="form-group">
+                    <label for="stressCustomJsonInput" data-i18n="stress.custom">Custom Shock JSON</label>
+                    <input id="stressCustomJsonInput" type="text" placeholder='{"bitcoin":-10,"ethereum":-12}'>
+                </div>
+                <button class="header-icon-btn" type="button" id="stressRunBtn" data-i18n="stress.run">Run Stress</button>
+            </div>
+            <div id="stressResultSummary"></div>
+            <div class="lab-table-wrap" id="stressResultTable"></div>
+        </section>
+
+        <section class="attribution-section view-section" data-routes="attribution">
+            <div class="section-header">
+                <h3 data-i18n="attribution.title">Risk Attribution</h3>
+                <div class="section-controls">
+                    <select id="attributionWindowSelect" class="method-select">
+                        <option value="24h" data-i18n="attribution.window24h">24h</option>
+                        <option value="7d" data-i18n="attribution.window7d">7d</option>
+                    </select>
+                    <button class="header-icon-btn" type="button" id="attributionRunBtn" data-i18n="button.refresh">Refresh</button>
+                </div>
+            </div>
+            <p class="lab-status-text" id="attributionStatusText"></p>
+            <p class="section-meta" data-i18n="attribution.meta">Identify which assets drive return and volatility.</p>
+            <div id="attributionSummary"></div>
+            <div class="lab-table-wrap" id="attributionTable"></div>
+        </section>
+
+        <section class="add-asset-section view-section" data-routes="assets">
+            <h3 data-i18n="assets.addTitle">Add Asset</h3>
+            <form class="add-asset-form" id="addAssetForm">
+                <input type="hidden" id="editingId" value="">
+                <div class="form-group">
+                    <label for="coinSelect" data-i18n="assets.form.coin">Coin</label>
+                    <select id="coinSelect" required>
+                        <option value="" data-i18n="placeholder.selectCoin">Select coin...</option>
+                        <option value="bitcoin">Bitcoin (BTC)</option>
+                        <option value="ethereum">Ethereum (ETH)</option>
+                        <option value="tether">Tether (USDT)</option>
+                        <option value="binancecoin">BNB</option>
+                        <option value="solana">Solana (SOL)</option>
+                        <option value="ripple">XRP</option>
+                        <option value="cardano">Cardano (ADA)</option>
+                        <option value="dogecoin">Dogecoin (DOGE)</option>
+                        <option value="polkadot">Polkadot (DOT)</option>
+                        <option value="avalanche-2">Avalanche (AVAX)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="amount" data-i18n="assets.form.amount">Amount</label>
+                    <input type="number" id="amount" step="any" min="0" placeholder="0.00" required>
+                </div>
+                <div class="form-group">
+                    <label for="costPrice" data-i18n="assets.form.costPrice">Cost Price (USD)</label>
+                    <input type="number" id="costPrice" step="any" min="0" placeholder="0.00" required>
+                </div>
+                <button type="submit" class="add-btn" id="submitBtn" data-i18n="assets.form.add">Add Asset</button>
+                <button type="button" class="cancel-btn hidden" id="cancelEditBtn" data-i18n="assets.form.cancel">Cancel Edit</button>
+            </form>
+            <p class="inline-error hidden" id="assetInlineError"></p>
+        </section>
+
+        <section class="assets-section view-section" data-routes="assets">
+            <h3 data-i18n="assets.tableTitle">Asset Table</h3>
+            <div class="assets-table-head" id="assetsTableHead">
+                <span data-i18n="assets.col.token">Token</span>
+                <span data-i18n="assets.col.price">Price</span>
+                <span data-i18n="assets.col.change24h">24h</span>
+                <span data-i18n="assets.col.amount">Amount</span>
+                <span data-i18n="assets.col.cost">Cost</span>
+                <span data-i18n="assets.col.pnl">Unrealized PnL</span>
+                <span data-i18n="assets.col.position">Position</span>
+                <span data-i18n="assets.col.contrib">24h Contribution</span>
+                <span data-i18n="assets.col.actions">Actions</span>
+            </div>
+            <div class="assets-list" id="assetsList">
+                <div class="empty-state" id="emptyState">
+                    <span class="empty-icon">◇</span>
+                    <p data-i18n="assets.empty">No assets yet. Add your first crypto position to start analysis.</p>
+                    <button class="empty-cta-btn" id="emptyCtaBtn" type="button" data-i18n="assets.emptyCta">Add First Asset</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="settings-section view-section" data-routes="settings">
+            <div class="section-header">
+                <h3 data-i18n="settings.title">Settings & Maintenance</h3>
+                <span class="section-meta" data-i18n="settings.meta">Demo controls for reliability and portability</span>
+            </div>
+            <div class="settings-grid">
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.costMethod.title">Cost Method</p>
+                    <p class="setting-desc" data-i18n="settings.costMethod.desc">Method used for position cost basis calculation.</p>
+                    <p class="setting-meta" id="settingsCostMethod">Current: Average Cost</p>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.localData.title">Local Data</p>
+                    <p class="setting-desc" data-i18n="settings.localData.desc">Clear local assets, transactions, snapshots, and alert rules.</p>
+                    <button class="danger-btn" id="resetDataBtn" type="button" data-i18n="settings.reset">Reset Local Data</button>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.locale.title">Language</p>
+                    <p class="setting-desc" data-i18n="settings.locale.desc">Switch application language.</p>
+                    <select id="localeSelect" class="method-select">
+                        <option value="en-US" data-i18n="settings.locale.en">English</option>
+                        <option value="zh-CN" data-i18n="settings.locale.zh">简体中文</option>
+                    </select>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.demo.title">Demo Dataset</p>
+                    <p class="setting-desc" data-i18n="settings.demo.desc">Load a realistic market snapshot for a 5-minute walkthrough.</p>
+                    <label class="toggle-label" for="demoModeToggle">
+                        <input id="demoModeToggle" type="checkbox">
+                        <span data-i18n="settings.demo.mode">Enable Demo Mode</span>
+                    </label>
+                    <p class="setting-meta" id="settingsDemoModeMeta">Demo mode: Off</p>
+                    <p class="setting-meta" id="settingsLastBackupMeta">Last backup: --</p>
+                    <p class="setting-meta" id="demoAuditMeta">Demo audit: 0 events</p>
+                    <button class="header-icon-btn" id="loadDemoDataBtn" type="button" data-i18n="button.loadDemo">Load Demo Data</button>
+                    <button class="header-icon-btn" id="restoreDemoDataBtn" type="button" data-i18n="button.restoreDemo">Restore Pre-Demo State</button>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.macro.title">Macro Analysis</p>
+                    <p class="setting-desc" data-i18n="settings.macro.desc">Configure global market risk signal parameters.</p>
+                    <label class="toggle-label" for="macroEnabledToggle">
+                        <input id="macroEnabledToggle" type="checkbox">
+                        <span data-i18n="settings.macro.enabled">Enable Macro Module</span>
+                    </label>
+                    <label for="macroRefreshIntervalInput" data-i18n="settings.macro.refresh">Refresh Interval (sec)</label>
+                    <input id="macroRefreshIntervalInput" type="number" min="60" max="1800" step="30" value="300">
+                    <p class="setting-meta" id="settingsMacroMeta">Macro window: 30D / Mode: Brief</p>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.news.title">News Intelligence</p>
+                    <p class="setting-desc" data-i18n="settings.news.desc">Configure real-time news aggregation and AI insight refresh.</p>
+                    <label class="toggle-label" for="newsEnabledToggle">
+                        <input id="newsEnabledToggle" type="checkbox">
+                        <span data-i18n="settings.news.enabled">Enable News Module</span>
+                    </label>
+                    <label for="newsRefreshIntervalInput" data-i18n="settings.news.refresh">Refresh Interval (sec)</label>
+                    <input id="newsRefreshIntervalInput" type="number" min="60" max="1800" step="30" value="300">
+                    <p class="setting-meta" id="settingsNewsMeta">News topic: all / Mode: Brief</p>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.pet.title">Desktop Assistant</p>
+                    <p class="setting-desc" data-i18n="settings.pet.desc">Show a lightweight assistant with quick actions.</p>
+                    <label class="toggle-label" for="petEnabledToggle">
+                        <input id="petEnabledToggle" type="checkbox">
+                        <span data-i18n="settings.pet.enabled">Enable Desktop Assistant</span>
+                    </label>
+                </div>
+                <div class="setting-card">
+                    <p class="setting-title" data-i18n="settings.calendar.title">Economic Calendar</p>
+                    <p class="setting-desc" data-i18n="settings.calendar.desc">Configure event window and importance filters for decision timing.</p>
+                    <label class="toggle-label" for="calendarEnabledToggle">
+                        <input id="calendarEnabledToggle" type="checkbox">
+                        <span data-i18n="settings.calendar.enabled">Enable Calendar Module</span>
+                    </label>
+                    <p class="setting-meta" id="settingsCalendarMeta">Window: 7d / Importance: all</p>
+                </div>
+            </div>
+            <input type="file" id="importDataInput" accept="application/json" class="hidden">
+        </section>
+
+        <footer class="footer">
+            <p data-i18n="footer.source">Data source: CoinGecko API. For educational use only.</p>
+            <p class="made-with" data-i18n="footer.showcase">Designed for portfolio tracking, risk assessment, and alert management.</p>
+        </footer>
+        </main>
+        </div>
+    </div>
+
+    <div class="command-palette hidden" id="commandPalette">
+        <div class="command-overlay" id="commandOverlay"></div>
+        <div class="command-dialog" id="commandDialog" role="dialog" aria-modal="true" aria-label="Command Palette">
+            <input
+                id="commandInput"
+                type="text"
+                placeholder="Type a command..."
+                data-i18n-placeholder="placeholder.command"
+                autocomplete="off"
+                aria-controls="commandList"
+                aria-activedescendant=""
+            >
+            <ul id="commandList" role="listbox"></ul>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <div class="desktop-pet hidden" id="desktopPet" aria-label="Desktop assistant">
+        <button type="button" class="desktop-pet-body" id="desktopPetBody" title="Assistant">🧭</button>
+        <div class="desktop-pet-menu hidden" id="desktopPetMenu">
+            <button type="button" data-pet-action="news" data-i18n="pet.menu.news">News</button>
+            <button type="button" data-pet-action="stress" data-i18n="pet.menu.stress">Stress</button>
+            <button type="button" data-pet-action="refresh" data-i18n="pet.menu.refresh">Refresh</button>
+            <button type="button" data-pet-action="close" data-i18n="pet.menu.hide">Hide</button>
+        </div>
+    </div>
+
+    <div class="confirm-dialog hidden" id="confirmDialogRoot">
+        <div class="command-overlay" id="confirmOverlay"></div>
+        <div class="command-dialog" role="dialog" aria-modal="true" aria-label="Confirm Action">
+            <h3 id="confirmTitle">Confirm</h3>
+            <p id="confirmMessage"></p>
+            <div class="confirm-actions">
+                <button class="header-icon-btn" id="confirmCancelBtn" type="button">Cancel</button>
+                <button class="danger-btn" id="confirmOkBtn" type="button">Confirm</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/dom-elements.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/id-generator.js"></script>
+    <script src="js/i18n/messages.en.js"></script>
+    <script src="js/i18n/messages.zh.js"></script>
+    <script src="js/i18n.js"></script>
+    <script src="js/demo-seed.js"></script>
+    <script src="js/demo-state-backup.js"></script>
+    <script src="js/presentation-formatters.js"></script>
+    <script src="js/confirm-dialog.js"></script>
+    <script src="js/refresh-scheduler.js"></script>
+    <script src="js/macro-data-adapter.js"></script>
+    <script src="js/macro-scoring.js"></script>
+    <script src="js/macro-explainer.js"></script>
+    <script src="js/macro-intel.js"></script>
+    <script src="js/news-adapter.js"></script>
+    <script src="js/news-renderer.js"></script>
+    <script src="js/news-intel.js"></script>
+    <script src="js/econ-calendar-adapter.js"></script>
+    <script src="js/econ-calendar-renderer.js"></script>
+    <script src="js/econ-calendar-intel.js"></script>
+    <script src="js/decision-workspace.js"></script>
+    <script src="js/decision-renderer.js"></script>
+    <script src="js/strategy-lab.js"></script>
+    <script src="js/strategy-renderer.js"></script>
+    <script src="js/stress-presets.js"></script>
+    <script src="js/stress-test.js"></script>
+    <script src="js/stress-renderer.js"></script>
+    <script src="js/risk-attribution.js"></script>
+    <script src="js/attribution-renderer.js"></script>
+    <script src="js/error-boundary.js"></script>
+    <script src="js/demo-audit.js"></script>
+    <script src="js/router.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/domain-portfolio.js"></script>
+    <script src="js/chart-manager.js"></script>
+    <script src="js/dashboard-presenter.js"></script>
+    <script src="js/data-transfer-service.js"></script>
+    <script src="js/ui-renderers.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/error-channel.js"></script>
+    <script src="js/transaction-filters.js"></script>
+    <script src="js/command-palette.js"></script>
+    <script src="js/desktop-pet.js"></script>
+    <script src="js/orchestrator/data-bootstrap.js"></script>
+    <script src="js/orchestrator/view-routes.js"></script>
+    <script src="js/orchestrator/feature-wiring.js"></script>
+    <script src="js/orchestrator/refresh-jobs.js"></script>
+    <script src="js/app-orchestrator.js"></script>
+    <script src="js/theme-tokens.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

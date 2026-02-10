@@ -1,0 +1,40 @@
+{
+  "ci": {
+    "collect": {
+      "numberOfRuns": 1,
+      "startServerCommand": "node -e \"require('http-server').createServer({root:'.'}).listen(4173,()=>console.log('ready'))\"",
+      "startServerReadyPattern": "ready",
+      "url": [
+        "http://127.0.0.1:4173/#/dashboard",
+        "http://127.0.0.1:4173/#/assets",
+        "http://127.0.0.1:4173/#/transactions"
+      ]
+    },
+    "assert": {
+      "assertions": {
+        "largest-contentful-paint": [
+          "error",
+          {
+            "maxNumericValue": 2500
+          }
+        ],
+        "cumulative-layout-shift": [
+          "error",
+          {
+            "maxNumericValue": 0.1
+          }
+        ],
+        "interactive": [
+          "warn",
+          {
+            "maxNumericValue": 3800
+          }
+        ],
+        "unused-javascript": "warn"
+      }
+    },
+    "upload": {
+      "target": "temporary-public-storage"
+    }
+  }
+}

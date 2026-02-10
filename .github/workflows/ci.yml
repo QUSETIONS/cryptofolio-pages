@@ -1,0 +1,84 @@
+name: Frontend CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm install
+      - run: npm run check:js
+      - run: npm run check:app-size
+      - run: npm run check:modules
+      - run: npm run check:i18n-health
+      - run: npm run check:i18n-literals
+      - run: npm run check:docs
+      - run: npm run test
+      - run: npm run test:unit
+
+  e2e-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e:smoke
+      - run: npm run test:e2e:i18n-demo
+      - run: npm run test:e2e:i18n-zh-readable
+      - run: npm run test:e2e:confirm-flow
+      - run: npm run test:e2e:demo-restore
+      - run: npm run test:e2e:offline-mode
+      - run: npm run test:e2e:demo-audit
+      - run: npm run test:e2e:macro-panel
+      - run: npm run test:e2e:macro-fallback
+      - run: npm run test:e2e:macro-i18n
+      - run: npm run test:e2e:macro-mode-diff
+      - run: npm run test:e2e:news-panel
+      - run: npm run test:e2e:news-fallback
+      - run: npm run test:e2e:news-i18n
+      - run: npm run test:e2e:news-default-enabled
+      - run: npm run test:e2e:calendar-workspace
+      - run: PUBLIC_BASE_URL=https://crypto-portfolio-tracker-tan-nine.vercel.app npm run check:public
+      - run: PUBLIC_BASE_URL=https://crypto-portfolio-tracker-tan-nine.vercel.app npm run test:e2e:deploy-smoke
+      - name: Upload Playwright Artifacts
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-e2e-artifacts
+          path: |
+            playwright-report/**
+            test-results/**
+          if-no-files-found: ignore
+
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm install
+      - run: npm run lhci:ci
+      - name: Upload LHCI Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lhci-report
+          path: |
+            .lighthouseci/**
+            lhci_reports/**
+          if-no-files-found: ignore
