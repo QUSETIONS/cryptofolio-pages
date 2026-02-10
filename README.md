@@ -3,6 +3,9 @@
 CryptoFolio is a portfolio intelligence system for tracking assets, evaluating risk, monitoring alerts, and understanding macro market conditions.
 
 ## Online Access
+- Smart entry (recommended): `https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/start.html`
+- GitHub Pages: `https://qusetions.github.io/cryptofolio-pages/`
+- GitHub CDN mirror: `https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/index.html`
 - Main URL: `https://crypto-portfolio-tracker-tan-nine.vercel.app`
 - Share bridge URL: `https://crypto-portfolio-tracker-tan-nine.vercel.app/open`
 - Status page: `https://crypto-portfolio-tracker-tan-nine.vercel.app/status`
@@ -83,6 +86,9 @@ CryptoFolio 是一个加密资产组合智能系统，用于资产跟踪、风�
 - 稳定性保障：运行时错误边界、离线降级与缓存回退。
 
 ### 线上地址
+- 智能入口（推荐）：`https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/start.html`
+- GitHub Pages：`https://qusetions.github.io/cryptofolio-pages/`
+- CDN 镜像：`https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/index.html`
 - 主站：`https://crypto-portfolio-tracker-tan-nine.vercel.app`
 - 分享入口：`https://crypto-portfolio-tracker-tan-nine.vercel.app/open`
 - 运行状态：`https://crypto-portfolio-tracker-tan-nine.vercel.app/status`
