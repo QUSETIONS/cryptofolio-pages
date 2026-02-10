@@ -16,7 +16,7 @@
       font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
     }
     .card {
-      width: min(560px, 92vw);
+      width: min(620px, 92vw);
       padding: 28px 24px;
       border: 1px solid #e7d8cd;
       border-radius: 16px;
@@ -39,58 +39,93 @@
       font-size: 13px;
       color: #8b7a70;
     }
+    .rows {
+      margin-top: 14px;
+      display: grid;
+      gap: 8px;
+      font-size: 13px;
+      color: #7a6a61;
+    }
+    .row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .row code {
+      color: #7c4b2a;
+      word-break: break-all;
+    }
     .link {
       margin-top: 16px;
       word-break: break-all;
       font-size: 13px;
+    }
+    .link a {
       color: #7c4b2a;
+      text-decoration: none;
     }
   </style>
 </head>
 <body>
   <main class="card">
-    <h1>正在为你选择最稳定入口...</h1>
-    <p id="status">优先检测 GitHub Pages，可用后自动跳转；否则回退到 CDN 镜像。</p>
-    <p class="meta">若 4 秒内未自动跳转，请手动打开下方备用链接。</p>
-    <p class="link"><a id="fallbackLink" href="#">备用入口</a></p>
+    <h1>正在为你选择最快入口...</h1>
+    <p id="status">并发测速 GitHub Pages 与 CDN，自动跳转到更快且可达的地址。</p>
+    <p class="meta">若 5 秒内未自动跳转，请手动打开下方备用链接。</p>
+
+    <div class="rows">
+      <div class="row"><span>主入口</span><code id="primaryUrl"></code></div>
+      <div class="row"><span>备用入口</span><code id="fallbackUrl"></code></div>
+      <div class="row"><span>测速结果</span><code id="probeResult">待检测</code></div>
+    </div>
+
+    <p class="link"><a id="manualLink" href="#">手动打开备用入口</a></p>
   </main>
 
   <script>
     (function () {
       const PRIMARY = "https://qusetions.github.io/cryptofolio-pages/";
       const FALLBACK = "https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/index.html";
+      const probes = [
+        { name: "GitHub Pages", target: PRIMARY, probe: "https://qusetions.github.io/cryptofolio-pages/data/api/health.json" },
+        { name: "jsDelivr CDN", target: FALLBACK, probe: "https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/data/api/health.json" }
+      ];
+
       const statusEl = document.getElementById("status");
-      const fallbackLink = document.getElementById("fallbackLink");
+      const primaryUrlEl = document.getElementById("primaryUrl");
+      const fallbackUrlEl = document.getElementById("fallbackUrl");
+      const probeResultEl = document.getElementById("probeResult");
+      const manualLink = document.getElementById("manualLink");
 
-      fallbackLink.href = FALLBACK;
-      fallbackLink.textContent = FALLBACK;
+      primaryUrlEl.textContent = PRIMARY;
+      fallbackUrlEl.textContent = FALLBACK;
+      manualLink.href = FALLBACK;
+      manualLink.textContent = `手动打开：${FALLBACK}`;
 
-      function probe(url, timeoutMs) {
-        const withTs = `${url}${url.includes("?") ? "&" : "?"}cf_probe=${Date.now()}`;
-        return new Promise((resolve) => {
-          const timer = setTimeout(() => resolve(false), timeoutMs);
-          fetch(withTs, { mode: "no-cors", cache: "no-store" })
-            .then(() => {
-              clearTimeout(timer);
-              resolve(true);
-            })
-            .catch(() => {
-              clearTimeout(timer);
-              resolve(false);
-            });
-        });
+      function probeSpeed(item, timeoutMs = 3500) {
+        const start = performance.now();
+        const url = `${item.probe}${item.probe.includes("?") ? "&" : "?"}probe_t=${Date.now()}`;
+        const controller = new AbortController();
+        const timer = setTimeout(() => controller.abort(), timeoutMs);
+        return fetch(url, { mode: "no-cors", cache: "no-store", signal: controller.signal })
+          .then(() => ({ ...item, ok: true, ms: Math.round(performance.now() - start) }))
+          .catch(() => ({ ...item, ok: false, ms: timeoutMs }))
+          .finally(() => clearTimeout(timer));
       }
 
       async function run() {
-        statusEl.textContent = "正在检测 GitHub Pages 可达性...";
-        const primaryOk = await probe(PRIMARY, 2500);
-        if (primaryOk) {
-          statusEl.textContent = "已切换到主入口。";
-          window.location.replace(PRIMARY);
-          return;
-        }
-        statusEl.textContent = "主入口不可达，正在回退到 CDN 镜像...";
-        window.location.replace(FALLBACK);
+        statusEl.textContent = "正在测速，请稍候...";
+        const results = await Promise.all(probes.map(item => probeSpeed(item)));
+        const candidates = results.filter(item => item.ok).sort((a, b) => a.ms - b.ms);
+        const selected = candidates[0] || probes[1];
+
+        const resultText = results.map(item => `${item.name}:${item.ok ? `${item.ms}ms` : "不可达"}`).join(" | ");
+        probeResultEl.textContent = resultText;
+
+        statusEl.textContent = selected.ok
+          ? `已选择 ${selected.name}（${selected.ms}ms），即将跳转...`
+          : "主入口不可达，已回退到备用入口。";
+
+        setTimeout(() => window.location.replace(selected.target), 420);
       }
 
       run();
