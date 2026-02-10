@@ -39,6 +39,7 @@
     "check:docs": "node scripts/check-docs.js",
     "check:public": "node scripts/check-public-endpoints.js",
     "release:verify": "node scripts/release-verify.js",
+    "refresh:data-snapshots": "node scripts/refresh-data-snapshots.mjs",
     "deploy:cloudflare": "npx wrangler deploy",
     "cf:whoami": "npx wrangler whoami",
     "ci:all": "npm run check:js && npm run check:app-size && npm run check:modules && npm run check:i18n-health && npm run check:log-text-health && npm run check:i18n-literals && npm run check:docs && npm run test && npm run test:unit && npm run test:e2e:smoke && npm run test:e2e:i18n-demo && npm run test:e2e:i18n-zh-readable && npm run test:e2e:confirm-flow && npm run test:e2e:demo-restore && npm run test:e2e:offline-mode && npm run test:e2e:demo-audit && npm run test:e2e:macro-panel && npm run test:e2e:macro-fallback && npm run test:e2e:macro-i18n && npm run test:e2e:macro-mode-diff && npm run test:e2e:strategy-stress-attribution && npm run test:e2e:news-panel && npm run test:e2e:news-fallback && npm run test:e2e:news-i18n && npm run test:e2e:news-default-enabled && npm run test:e2e:calendar-workspace && npm run test:e2e:deploy-smoke",

@@ -109,6 +109,10 @@
         ? forcedOrigin.replace(/\/+$/, "")
         : (host.endsWith("github.io") ? "https://crypto-portfolio-tracker-tan-nine.vercel.app" : "");
       const apiUrl = (path) => `${apiBaseOrigin}${path.startsWith("/") ? path : `/${path}`}`;
+      const fallbackUrl = (path) => {
+        const clean = path.replace(/^\//, "");
+        return `data/api/${clean}.json`;
+      };
       const macroKey = "cryptofolio_macro_public_status_v1";
       const newsKey = "cryptofolio_news_public_status_v1";
       const overall = document.getElementById("overall");
@@ -196,7 +200,20 @@
             : "unknown";
         }
       } catch (_error) {
-        // keep local snapshot fallback
+        try {
+          const newsRes = await fetch(fallbackUrl("news-feed-all-24h-en-US"), { cache: "no-store" });
+          if (newsRes.ok) {
+            const newsBody = await newsRes.json();
+            newsUpdatedAt.textContent = new Date(Number(newsBody?.updatedAt || Date.now())).toLocaleString();
+            newsQuality.textContent = String(newsBody?.quality || "stale");
+            newsCount.textContent = String(Array.isArray(newsBody?.items) ? newsBody.items.length : 0);
+            newsSources.textContent = Array.isArray(newsBody?.sources) && newsBody.sources.length > 0
+              ? newsBody.sources.join(", ")
+              : "snapshot";
+          }
+        } catch (__error) {
+          // keep local snapshot fallback
+        }
       }
 
       try {
@@ -215,10 +232,26 @@
         });
         serviceList.innerHTML = rows.join("") || "No service details.";
       } catch (_error) {
-        overall.textContent = "down";
-        overall.classList.add("bad");
-        timestamp.textContent = new Date().toLocaleString();
-        serviceList.textContent = "Failed to fetch health API.";
+        try {
+          const fallback = await fetch(fallbackUrl("health"), { cache: "no-store" });
+          const body = fallback.ok ? await fallback.json() : null;
+          const ok = Boolean(body?.ok);
+          overall.textContent = ok ? "healthy" : "degraded";
+          overall.classList.add(ok ? "ok" : "warn");
+          timestamp.textContent = new Date(body?.timestamp || Date.now()).toLocaleString();
+          const services = body?.services || {};
+          const rows = Object.keys(services).map((key) => {
+            const item = services[key] || {};
+            const cls = item.ok ? "ok" : "bad";
+            return `<div><strong>${key}</strong>: <span class="${cls}">${item.ok ? "ok" : "down"}</span> <code>${item.status || 0}</code></div>`;
+          });
+          serviceList.innerHTML = rows.join("") || "No service details.";
+        } catch (__error) {
+          overall.textContent = "down";
+          overall.classList.add("bad");
+          timestamp.textContent = new Date().toLocaleString();
+          serviceList.textContent = "Failed to fetch health API.";
+        }
       }
     })();
   </script>

@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "updatedAt": 1770742734905,
+  "quality": "fresh",
+  "locale": "en-US",
+  "window": "7d",
+  "importance": "all",
+  "sources": [
+    "calendar-fallback"
+  ],
+  "events": [
+    {
+      "id": "event-fed-rate",
+      "title": "FOMC Rate Decision",
+      "country": "US",
+      "timestamp": 1770764334904,
+      "importance": "high",
+      "consensus": "5.25%",
+      "previous": "5.25%",
+      "category": "rates",
+      "relatedAssets": [
+        "BTC",
+        "ETH",
+        "DXY"
+      ]
+    },
+    {
+      "id": "event-us-cpi",
+      "title": "US CPI YoY",
+      "country": "US",
+      "timestamp": 1770843534904,
+      "importance": "high",
+      "consensus": "3.1%",
+      "previous": "3.3%",
+      "category": "inflation",
+      "relatedAssets": [
+        "BTC",
+        "XAU",
+        "DXY"
+      ]
+    },
+    {
+      "id": "event-us-nfp",
+      "title": "US Nonfarm Payrolls",
+      "country": "US",
+      "timestamp": 1770908334904,
+      "importance": "high",
+      "consensus": "190K",
+      "previous": "187K",
+      "category": "labor",
+      "relatedAssets": [
+        "BTC",
+        "ETH",
+        "SPX"
+      ]
+    },
+    {
+      "id": "event-china-pmi",
+      "title": "China Manufacturing PMI",
+      "country": "CN",
+      "timestamp": 1770973134904,
+      "importance": "medium",
+      "consensus": "50.2",
+      "previous": "49.9",
+      "category": "growth",
+      "relatedAssets": [
+        "BTC",
+        "XAU"
+      ]
+    },
+    {
+      "id": "event-us-10y-auction",
+      "title": "US 10Y Treasury Auction",
+      "country": "US",
+      "timestamp": 1770814734904,
+      "importance": "medium",
+      "consensus": "4.20%",
+      "previous": "4.28%",
+      "category": "rates",
+      "relatedAssets": [
+        "UST10Y",
+        "DXY",
+        "BTC"
+      ]
+    }
+  ]
+}

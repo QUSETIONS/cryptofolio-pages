@@ -408,11 +408,98 @@ function buildApiUrl(path) {
     return base ? `${base}${normalizedPath}` : normalizedPath;
 }
 
+function buildStaticApiSnapshotPath(kind, params = {}) {
+    if (kind === 'macro') {
+        const windowKey = params.windowKey === '90D' ? '90D' : '30D';
+        return `data/api/macro-snapshot-${windowKey}.json`;
+    }
+    if (kind === 'news') {
+        const topic = ['all', 'macro', 'crypto', 'rates'].includes(params.topic) ? params.topic : 'all';
+        const since = ['1h', '24h', '7d'].includes(params.since) ? params.since : '24h';
+        const locale = params.locale === 'zh-CN' ? 'zh-CN' : 'en-US';
+        return `data/api/news-feed-${topic}-${since}-${locale}.json`;
+    }
+    if (kind === 'calendar') {
+        const windowKey = ['1d', '7d'].includes(params.windowKey) ? params.windowKey : '7d';
+        const importance = ['all', 'high'].includes(params.importance) ? params.importance : 'all';
+        const locale = params.locale === 'zh-CN' ? 'zh-CN' : 'en-US';
+        return `data/api/econ-calendar-${windowKey}-${importance}-${locale}.json`;
+    }
+    if (kind === 'health') {
+        return 'data/api/health.json';
+    }
+    return '';
+}
+
+async function fetchJsonOrThrow(url, init) {
+    const response = await fetch(url, init);
+    if (!response.ok) {
+        throw new Error(`http_${response.status}`);
+    }
+    return response.json();
+}
+
+async function fetchApiWithStaticFallback(apiPath, staticPath, init) {
+    try {
+        return await fetchJsonOrThrow(buildApiUrl(apiPath), init);
+    } catch (_error) {
+        if (!staticPath) throw _error;
+        return fetchJsonOrThrow(staticPath, { cache: 'no-store' });
+    }
+}
+
+function buildInsightFallback(newsItems, locale, reasonCode) {
+    const normalizedLocale = locale === 'zh-CN' ? 'zh-CN' : 'en-US';
+    const items = Array.isArray(newsItems) ? newsItems : [];
+    const topTitles = items.slice(0, 3).map(item => item?.title).filter(Boolean);
+    const titleJoined = topTitles.join(' / ');
+    if (normalizedLocale === 'zh-CN') {
+        return {
+            mode: 'fallback',
+            headlineSummary: titleJoined
+                ? `过去窗口共 ${items.length} 条新闻，重点集中在 ${titleJoined}。`
+                : '当前缺少可用新闻，暂以降级模式提供解读。',
+            keyRisks: [
+                '短线波动可能因宏观数据发布而放大。',
+                '流动性与美元方向可能主导风险偏好切换。'
+            ],
+            affectedAssets: [],
+            regimeImpact: 'balanced',
+            confidence: 0.35,
+            limitations: [
+                '该解读基于新闻文本线索，不等于交易信号。',
+                `触发降级原因：${reasonCode || 'INSIGHT_FALLBACK'}.`
+            ],
+            asOf: Date.now()
+        };
+    }
+    return {
+        mode: 'fallback',
+        headlineSummary: titleJoined
+            ? `${items.length} news items observed, concentrated on ${titleJoined}.`
+            : 'No usable news items available, fallback interpretation is applied.',
+        keyRisks: [
+            'Short-term volatility may expand around macro releases.',
+            'Liquidity and USD direction can dominate risk-on/off rotation.'
+        ],
+        affectedAssets: [],
+        regimeImpact: 'balanced',
+        confidence: 0.35,
+        limitations: [
+            'This interpretation is text-based context, not a trade signal.',
+            `Fallback reason: ${reasonCode || 'INSIGHT_FALLBACK'}.`
+        ],
+        asOf: Date.now()
+    };
+}
+
 async function fetchMacroSnapshot(windowKey) {
     const normalized = windowKey === '90D' ? '90D' : '30D';
-    const response = await fetch(buildApiUrl(`/api/macro-snapshot?window=${normalized}`));
-    if (!response.ok) throw new Error('macro_snapshot_failed');
-    return response.json();
+    return fetchApiWithStaticFallback(
+        `/api/macro-snapshot?window=${normalized}`,
+        buildStaticApiSnapshotPath('macro', { windowKey: normalized }),
+        { cache: 'no-store' }
+    );
 }
 
 async function fetchNewsFeed(topic, since, limit, locale) {
@@ -426,23 +513,28 @@ async function fetchNewsFeed(topic, since, limit, locale) {
         limit: String(normalizedLimit),
         locale: normalizedLocale
     });
-    const response = await fetch(buildApiUrl(`/api/news-feed?${query.toString()}`));
-    if (!response.ok) throw new Error('news_feed_failed');
-    return response.json();
+    return fetchApiWithStaticFallback(
+        `/api/news-feed?${query.toString()}`,
+        buildStaticApiSnapshotPath('news', { topic: normalizedTopic, since: normalizedSince, locale: normalizedLocale }),
+        { cache: 'no-store' }
+    );
 }
 
 async function fetchNewsInsight(newsItems, locale, portfolioContext) {
-    const response = await fetch(buildApiUrl('/api/news-insight'), {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-            locale: locale === 'zh-CN' ? 'zh-CN' : 'en-US',
-            newsItems: Array.isArray(newsItems) ? newsItems : [],
-            portfolioContext: portfolioContext || {}
-        })
-    });
-    if (!response.ok) throw new Error('news_insight_failed');
-    return response.json();
+    const normalizedLocale = locale === 'zh-CN' ? 'zh-CN' : 'en-US';
+    try {
+        return await fetchJsonOrThrow(buildApiUrl('/api/news-insight'), {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                locale: normalizedLocale,
+                newsItems: Array.isArray(newsItems) ? newsItems : [],
+                portfolioContext: portfolioContext || {}
+            })
+        });
+    } catch (_error) {
+        return buildInsightFallback(newsItems, normalizedLocale, 'NEWS_INSIGHT_API_UNAVAILABLE');
+    }
 }
 
 async function fetchEconCalendar(windowKey, importance, locale) {
@@ -454,9 +546,11 @@ async function fetchEconCalendar(windowKey, importance, locale) {
         importance: normalizedImportance,
         locale: normalizedLocale
     });
-    const response = await fetch(buildApiUrl(`/api/econ-calendar?${query.toString()}`));
-    if (!response.ok) throw new Error('econ_calendar_failed');
-    return response.json();
+    return fetchApiWithStaticFallback(
+        `/api/econ-calendar?${query.toString()}`,
+        buildStaticApiSnapshotPath('calendar', { windowKey: normalizedWindow, importance: normalizedImportance, locale: normalizedLocale }),
+        { cache: 'no-store' }
+    );
 }
 
 /**
