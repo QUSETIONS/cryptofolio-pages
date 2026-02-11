@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770817237035,
-  "crawlUpdatedAt": 1770817237035,
+  "updatedAt": 1770822193885,
+  "crawlUpdatedAt": 1770822193885,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -14,32 +14,347 @@
   "items": [
     {
       "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBy",
-      "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment rate at 4.3%",
+      "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment down to 4.3%",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/11/jobs-report-january-2026-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770817195000,
+      "publishedAt": 1770822131000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RkFBIGhhbHRzIEVsIFBh",
-      "title": "FAA halts El Paso airport flights for 10 days, citing &apos;special security&apos; instructions",
+      "id": "CNBC Markets-S3JhZnQgSGVpbnogcGF1",
+      "title": "Kraft Heinz pauses work to split the company as new CEO says &apos;challenges are fixable&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
+      "url": "https://www.cnbc.com/2026/02/11/kraft-heinz-pauses-split-new-ceo-challenges.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770817181000,
+      "publishedAt": 1770822056000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGFyaWZmIGJpbGxzIGFj",
+      "title": "Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/inflation-affordability-trump-tariffs-midterm-elections.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770822041000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hvcGlmeSBzdG9jayBk",
+      "title": "Shopify stock drops despite revenue beat, $2 billion buyback",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/shopify-shop-earnings-q4-2025.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770821723000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2NyaXBwcyBsYXVuY2hl",
+      "title": "Scripps launches cost cutting, AI integration in latest effort to generate earnings growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/scripps-cost-cutting-ai-integration-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770821473000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkFBIGFicnVwdGx5IGxp",
+      "title": "FAA abruptly lifts order halting El Paso flights; Trump official says Defense Dept. disabled Mexican cartel drones",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770821213000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgQ2FuYWRhIHRh",
+      "title": "Trump Canada tariffs face House vote after Republican leaders fail to block rebellion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770821072000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJvbnRpZXLigJlzIDIw",
+      "title": "Frontier’s 2026 outlook points to potential profit on deep cost cuts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/frontiers-2026-outlook-points-to-potential-profit-on-deep-cost-cuts-4500262",
+      "source": "Investing.com News",
+      "publishedAt": 1770820972000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbWVyYSBJbnZlc3Rt",
+      "title": "Chimera Investment Q4 2025 slides: EPS beat, dividend hike despite revenue miss",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/chimera-investment-q4-2025-slides-eps-beat-dividend-hike-despite-revenue-miss-93CH-4500261",
+      "source": "Investing.com News",
+      "publishedAt": 1770820961000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG93ZXIgU2VtaWNvbmR1",
+      "title": "Tower Semiconductor beats quarterly profit estimates on AI-driven chip demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tower-semiconductor-beats-quarterly-profit-estimates-on-aidriven-chip-demand-4499826",
+      "source": "Investing.com News",
+      "publishedAt": 1770820954000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VElNIFE0IDIwMjUgc2xp",
+      "title": "TIM Q4 2025 slides reveal record profits, 5G leadership",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/tim-q4-2025-slides-reveal-record-profits-5g-leadership-93CH-4500260",
+      "source": "Investing.com News",
+      "publishedAt": 1770820948000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: FLEX LNG Q4 2025 beats estimates, stock dips",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-flex-lng-q4-2025-beats-estimates-stock-dips-93CH-4500259",
+      "source": "Investing.com News",
+      "publishedAt": 1770820932000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xvdWRmbGFyZSByZXZl",
+      "title": "Cloudflare revenue guidance beats expectations, shares surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/cloudflare-revenue-guidance-beats-expectations-shares-rise-after-hours-4497855",
+      "source": "Investing.com News",
+      "publishedAt": 1770820917000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIFZl",
+      "title": "Trump&apos;s Venezuela oil sales deal raises questions about which government U.S. will recognize",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/trump-venezuela-oil-revenue-qatar.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770820911000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmFpbGNhcmUgR3JvdXAg",
+      "title": "Railcare Group to wind down UK operations amid declining volumes",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/railcare-group-to-wind-down-uk-operations-amid-declining-volumes-93CH-4500257",
+      "source": "Investing.com News",
+      "publishedAt": 1770820899000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Pyxus Q3 2026 shows steady EBITDA amid sales dip",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pyxus-q3-2026-shows-steady-ebitda-amid-sales-dip-93CH-4500256",
+      "source": "Investing.com News",
+      "publishedAt": 1770820871000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2F0bHkgUTQgMjAyNSBz",
+      "title": "Oatly Q4 2025 slides: First profitable year achieved as growth strategy shifts",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/oatly-q4-2025-slides-first-profitable-year-achieved-as-growth-strategy-shifts-93CH-4500255",
+      "source": "Investing.com News",
+      "publishedAt": 1770820851000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-THlmdCBzaGFyZXMgc2x1",
+      "title": "Lyft shares slump after mixed fourth-quarter results",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/lyft-shares-drop-14-after-q4-miss-4498227",
+      "source": "Investing.com News",
+      "publishedAt": 1770820814000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkhBIG1vcnRnYWdlIGRl",
+      "title": "FHA mortgage demand rises as borrowers face affordability challenges",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/fha-mortgage-demand-rises-as-borrowers-face-affordability-challenges.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770820293000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIEludmVzdGluZyBD",
+      "title": "The Investing Club&apos;s top 10 things to watch in the stock market Wednesday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/the-investing-clubs-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770819327000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmFsdWUgaXMgdGhlIGtl",
+      "title": "Value is the key to McDonald&apos;s growth plans, but it&apos;s creating tensions with some franchisees",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/mcdonalds-value-franchisees.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770819000000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwdHJvbmlrIHJhaXNl",
+      "title": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770818402000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THlmdCBzdG9jayBmYWxs",
+      "title": "Lyft stock falls 15% on disappointing fourth-quarter results, rider numbers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/lyft-lyft-q4-2025-earnings-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770817837000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -60,177 +375,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VmFsdWUgaXMgdGhlIGtl",
-      "title": "Value is the key to McDonald&apos;s growth plans, but it&apos;s creating tensions with some franchisees",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/mcdonalds-value-franchisees.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770816730000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SGVpbmVrZW4gdG8gc2xh",
       "title": "Heineken to slash up to 6,000 jobs in AI &apos;productivity savings&apos; amid slump in beer sales",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/11/heineken-slash-6000-jobs-ai-productivity-savings-.html",
       "source": "CNBC Markets",
       "publishedAt": 1770816293000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBVcmJhbiBP",
-      "title": "Form 8K Urban One For: 11 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-urban-one-for-11-february-93CH-4499783",
-      "source": "Investing.com News",
-      "publishedAt": 1770815974000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Nod2FiIENFTyBzYXlz",
-      "title": "Schwab CEO says firm benefits from AI, surprised by stock sell-off",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/schwab-ceo-says-firm-benefits-from-ai-surprised-by-stock-selloff-93CH-4499782",
-      "source": "Investing.com News",
-      "publishedAt": 1770815945000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
-      "title": "H.C. Wainwright reiterates Buy rating on Rezolve AI stock with $12 target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-rating-on-rezolve-ai-stock-with-12-target-93CH-4499779",
-      "source": "Investing.com News",
-      "publishedAt": 1770815828000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWNjb3JkIEdlbnVp",
-      "title": "Canaccord Genuity lowers Zillow stock price target to $72 on legal costs",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/canaccord-genuity-lowers-zillow-stock-price-target-to-72-on-legal-costs-93CH-4499778",
-      "source": "Investing.com News",
-      "publishedAt": 1770815827000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSBsb3dl",
-      "title": "Guggenheim lowers Spotify stock price target to $720 on higher capital costs",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/guggenheim-lowers-spotify-stock-price-target-to-720-on-higher-capital-costs-93CH-4499777",
-      "source": "Investing.com News",
-      "publishedAt": 1770815824000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGF0YWRvZyBzdG9jayBw",
-      "title": "Datadog stock price target lowered to $185 at Canaccord on prudent growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/datadog-stock-price-target-lowered-to-185-at-canaccord-on-prudent-growth-outlook-93CH-4499776",
-      "source": "Investing.com News",
-      "publishedAt": 1770815823000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSBsb3dl",
-      "title": "Guggenheim lowers Lyft stock price target to $22 on ride growth slowdown",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/guggenheim-lowers-lyft-stock-price-target-to-22-on-ride-growth-slowdown-93CH-4499775",
-      "source": "Investing.com News",
-      "publishedAt": 1770815823000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2xvdWRmbGFyZSBzdG9j",
-      "title": "Cloudflare stock price target raised to $140 from $117 at Guggenheim",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/cloudflare-stock-price-target-raised-to-140-from-117-at-guggenheim-93CH-4499774",
-      "source": "Investing.com News",
-      "publishedAt": 1770815822000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIHJlaXRl",
-      "title": "Jefferies reiterates Buy rating on Hilton Worldwide stock with $339 target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-rating-on-hilton-worldwide-stock-with-339-target-93CH-4499773",
-      "source": "Investing.com News",
-      "publishedAt": 1770815820000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmV0YSBUZWNobm9sb2dp",
-      "title": "Beta Technologies stock upgraded to Buy by Jefferies on eVTOL contract momentum",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/beta-technologies-stock-upgraded-to-buy-by-jefferies-on-evtol-contract-momentum-93CH-4499772",
-      "source": "Investing.com News",
-      "publishedAt": 1770815820000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -255,36 +405,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-S3JhZnQgSGVpbnogcGF1",
-      "title": "Kraft Heinz pauses work to split the company as new CEO says &apos;challenges are fixable&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/kraft-heinz-pauses-split-new-ceo-challenges.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770814349000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R09QIGRlZmVjdG9ycyBo",
-      "title": "GOP defectors help spike House measure to block tariff disapproval votes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/gop-tariffs-trump-house-johnson.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770814217000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VWJlciBFYXRzIGxhdW5j",
       "title": "Uber Eats launches AI cart assistant for grocery delivery",
       "summary": "",
@@ -297,36 +417,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RkhBIG1vcnRnYWdlIGRl",
-      "title": "FHA mortgage demand rises as borrowers face affordability challenges",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/fha-mortgage-demand-rises-as-borrowers-face-affordability-challenges.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770811201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGFyaWZmIGJpbGwgaW4g",
-      "title": "Tariff bill in U.S. states hits $200 billion as affordability and Trump head into midterms showdown",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/inflation-affordability-trump-tariffs-midterm-elections.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770811139000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -357,36 +447,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIGV4ZWN1",
-      "title": "Anthropic executive takes a thinly-veiled swipe at OpenAI over spending and ads",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/anthropic-vs-openai-ads-spending-criticism.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770805603000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-THlmdCBzdG9jayBmYWxs",
-      "title": "Lyft stock falls 15% on disappointing fourth-quarter results, rider numbers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/lyft-lyft-q4-2025-earnings-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770804483000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -435,42 +495,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2hpbmEgY29uc3VtZXIg",
-      "title": "China consumer inflation rises less than expected in January as producer price deflation persists",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/china-inflation-january-cpi-ppi-deflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770779380000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TXVzayZhcG9zO3MgeEFJ",
       "title": "Musk&apos;s xAI loses second co-founder in two days",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/10/musks-xai-loses-second-co-founder-in-two-days-as-jimmy-ba-departs.html",
       "source": "CNBC Markets",
       "publishedAt": 1770774728000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9uZyBLb25nIHByb2Nl",
-      "title": "Hong Kong proceeds with stablecoin plans despite Beijing&apos;s reservations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/hong-kong-stablecoin-licenses-china-crypto-ban-usdt-usdc-cny-cnh-rmb-usd-fiat-currency.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770773278000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -570,21 +600,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIEFJIHRocmVhdCB3",
-      "title": "The AI threat wrecked software stocks. Now financial stocks look next with LPL closing 8% lower",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770759356000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VmF0aWNhbiBCYW5rIG1h",
       "title": "Vatican Bank makes first foray into equity indexes, setting stage for potential ETF launches",
       "summary": "",
@@ -598,21 +613,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3VyIER1UG9udCB0aGVz",
-      "title": "Our DuPont thesis is working according to plan. We&apos;re raising our price target",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/our-dupont-thesis-is-working-according-to-plan-were-raising-our-price-target.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770753722000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
