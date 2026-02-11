@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770838536359,
-  "crawlUpdatedAt": 1770838536359,
+  "updatedAt": 1770842991473,
+  "crawlUpdatedAt": 1770842991473,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,254 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QmlsbCBBY2ttYW4gcmV2",
-      "title": "Bill Ackman reveals stake in Meta, says it has &apos;deeply discounted valuation&apos;",
+      "id": "Investing.com News-VVMgbGF3bWFrZXJzIGxl",
+      "title": "US lawmakers learned Trump wanted to indict them through the press",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/bill-ackman-meta-valuation.html",
+      "url": "https://www.investing.com/news/politics-news/us-lawmakers-learned-trump-wanted-to-indict-them-through-the-press-4501097",
+      "source": "Investing.com News",
+      "publishedAt": 1770842927000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-REEgRGF2aWRzb24gcmVp",
+      "title": "DA Davidson reiterates Buy rating on Shopify stock amid growth momentum",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-rating-on-shopify-stock-amid-growth-momentum-93CH-4501095",
+      "source": "Investing.com News",
+      "publishedAt": 1770842699000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFtZGFuaSBjYWxscyBm",
+      "title": "Mamdani calls for 2% tax hike on wealthy New Yorkers",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/mamdani-calls-for-2-tax-hike-on-wealthy-new-yorkers-4501094",
+      "source": "Investing.com News",
+      "publishedAt": 1770842581000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield moves higher on stronger-than-expected January jobs report",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/us-treasury-yields-investors-await-delayed-january-jobs-report.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770838515000,
+      "publishedAt": 1770842579000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkFBIGFicnVwdGx5IGxp",
+      "title": "FAA abruptly lifts order halting El Paso flights, raising questions about disruption",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770842460000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIGxpdHRsZSBj",
+      "title": "Dollar little changed after blowout U.S. nonfarm payrolls report",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-firms-as-dollar-weakens-ahead-of-payrolls-yuan-steady-after-soft-cpi-4498634",
+      "source": "Investing.com News",
+      "publishedAt": 1770842339000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIEVuZXJneSBEcmlu",
+      "title": "Top Energy Drink Stocks WarrenAI Says to Watch in 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/top-energy-drink-stocks-warrenai-says-to-watch-in-2026-93CH-4501093",
+      "source": "Investing.com News",
+      "publishedAt": 1770842237000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2F0ZXMgRm91bmRhdGlv",
+      "title": "Gates Foundation says it did not make any payments to Epstein",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/gates-foundation-says-it-did-not-make-any-payments-to-epstein-4501092",
+      "source": "Investing.com News",
+      "publishedAt": 1770842213000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FuYWRpYW4gc2Nob29s",
+      "title": "Canadian school shooter identified as 18-year-old woman with mental health issues",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/canadian-school-shooter-identified-as-18yearold-woman-with-mental-health-issues-4501091",
+      "source": "Investing.com News",
+      "publishedAt": 1770842192000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVuc2tlIEF1dG9tb3Rp",
+      "title": "Penske Automotive Q4 2025 slides: Revenue dips 4% amid mixed segment performance",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/penske-automotive-q4-2025-slides-revenue-dips-4-amid-mixed-segment-performance-93CH-4501090",
+      "source": "Investing.com News",
+      "publishedAt": 1770842136000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2l0ZU9uZSBMYW5kc2Nh",
+      "title": "SiteOne Landscape Supply stock price target raised to $200 by Truist",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/siteone-landscape-supply-stock-price-target-raised-to-200-by-truist-93CH-4501089",
+      "source": "Investing.com News",
+      "publishedAt": 1770842124000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG91Z2xhcyBFbW1ldHQg",
+      "title": "Douglas Emmett Q4 2025 slides: High-barrier markets strategy offsets recent revenue miss",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/douglas-emmett-q4-2025-slides-highbarrier-markets-strategy-offsets-recent-revenue-miss-93CH-4501088",
+      "source": "Investing.com News",
+      "publishedAt": 1770842112000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: Yale bars David Gelernter from teaching classes amid review of emails",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/epstein-files-yale-david-gelernter-classeds.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770841862000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGpvYnMgcGljdHVy",
+      "title": "The jobs picture still looks muddy, even with surprisingly strong January growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/the-jobs-picture-still-looks-muddy-even-with-surprisingly-strong-january-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770841340000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmF5LUJhbiBtYWtlciBF",
+      "title": "Ray-Ban maker EssilorLuxottica says it more than tripled Meta AI glasses sales in 2025",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770840572000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGFyaWZmIHJldmVudWUg",
+      "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/tariff-revenue-soars-more-than-300percent-as-us-awaits-supreme-court-decision.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770840310000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Tm92byBOb3JkaXNrIGZh",
+      "title": "Novo Nordisk faces a defining year in the obesity drug market. It’s off to a dramatic start",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/novo-nordisk-faces-defining-year-in-the-obesity-drug-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770840184000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +275,37 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/11/mcdonalds-mcd-q4-2025-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770838415000,
+      "publishedAt": 1770839069000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2UmYXBvcztyZSByYWlz",
+      "title": "We&apos;re raising our price targets on 3 picks and shovel data center buildout stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/were-raising-our-price-targets-on-3-picks-and-shovel-data-center-buildout-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770838834000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlsbCBBY2ttYW4gcmV2",
+      "title": "Bill Ackman reveals stake in Meta, says it has &apos;deeply discounted valuation&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/bill-ackman-meta-valuation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770838515000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,78 +330,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVuIGRlYWQgYWZ0ZXIg",
-      "title": "Ten dead after shooter opens fire at Canadian high school in rare massacre",
+      "id": "CNBC Markets-VGVjaCBpbnZlc3RvciBP",
+      "title": "Tech investor Orlando Bravo says most software companies don&apos;t have enough profit",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/ten-dead-after-a-shooting-in-canadian-province-of-british-columbia-cbc-news-reports-4498610",
-      "source": "Investing.com News",
-      "publishedAt": 1770837513000,
+      "url": "https://www.cnbc.com/2026/02/11/tech-investor-orlando-bravo-software-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770837943000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hcHR5c0JpbyBzdG9j",
-      "title": "AnaptysBio stock hits 52-week high at $52.56",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/anaptysbio-stock-hits-52week-high-at-5256-93CH-4501036",
-      "source": "Investing.com News",
-      "publishedAt": 1770837483000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJlYWQgRmluYW5jaWFs",
-      "title": "Bread Financial at UBS Conference: Strategic Growth Amid Inflation",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/bread-financial-at-ubs-conference-strategic-growth-amid-inflation-93CH-4501035",
-      "source": "Investing.com News",
-      "publishedAt": 1770837432000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVudGFnb24gcHJlcGFy",
-      "title": "Pentagon prepares second carrier strike group for Middle East deployment - WSJ",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/pentagon-prepares-second-carrier-strike-group-for-middle-east-deployment--wsj-93CH-4501034",
-      "source": "Investing.com News",
-      "publishedAt": 1770837407000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW5pdHkgU29mdHdhcmUg",
-      "title": "Unity Software stock price target lowered to $41 at BTIG on ironSource shutdown",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/unity-software-stock-price-target-lowered-to-41-at-btig-on-ironsource-shutdown-93CH-4501033",
-      "source": "Investing.com News",
-      "publishedAt": 1770837343000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -145,83 +357,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aSBwdXNoZXMgYmFj",
-      "title": "Citi pushes back Fed rate cuts to May after blowout January jobs report",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/citi-pushes-back-fed-rate-cuts-to-may-after-blowout-january-jobs-report-4500833",
-      "source": "Investing.com News",
-      "publishedAt": 1770837279000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBIU0JDIEhP",
-      "title": "Form 6K HSBC HOLDINGS PLC For: 11 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-hsbc-holdings-plc-for-11-february-93CH-4501028",
-      "source": "Investing.com News",
-      "publishedAt": 1770837040000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBBcmNlbG9y",
-      "title": "Form 6K ArcelorMittal For: 11 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-arcelormittal-for-11-february-93CH-4501027",
-      "source": "Investing.com News",
-      "publishedAt": 1770837034000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1lcmlwcmlzZSBhdCBC",
-      "title": "Ameriprise at Bank of America Conference: Strategic Growth and Challenges",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/ameriprise-at-bank-of-america-conference-strategic-growth-and-challenges-93CH-4501026",
-      "source": "Investing.com News",
-      "publishedAt": 1770836975000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWljaGVsaW4gMjAyNSBz",
-      "title": "Michelin 2025 slides: Polymer solutions growth strategy advances despite challenging tire markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/michelin-2025-slides-polymer-solutions-growth-strategy-advances-despite-challenging-tire-markets-93CH-4501025",
-      "source": "Investing.com News",
-      "publishedAt": 1770836905000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -333,42 +468,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RkFBIGFicnVwdGx5IGxp",
-      "title": "FAA abruptly lifts order halting El Paso flights; Trump official says Defense Dept. disabled Mexican cartel drones",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770830946000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-THlmdCBDRU8gUmlzaGVy",
       "title": "Lyft CEO Risher says consumer is showing &apos;no softness&apos; as stock slides 15% after earnings",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/11/lyft-ceo-david-risher-earnings-stock.html",
       "source": "CNBC Markets",
       "publishedAt": 1770829542000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmVydGl2IGlnbml0ZXMg",
-      "title": "Vertiv ignites the data center trade, sending 2 of our industrials to record highs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/vertiv-ignites-the-data-center-trade-sending-2-of-our-industrials-to-record-highs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770829315000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -468,59 +573,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVpbmVrZW4gdG8gc2xh",
-      "title": "Heineken to slash up to 6,000 jobs in AI &apos;productivity savings&apos; amid slump in beer sales",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/heineken-slash-6000-jobs-ai-productivity-savings-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770824508000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-S3JhZnQgSGVpbnogcGF1",
       "title": "Kraft Heinz pauses work to split the company as new CEO says &apos;challenges are fixable&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/11/kraft-heinz-pauses-split-new-ceo-challenges.html",
       "source": "CNBC Markets",
       "publishedAt": 1770824259000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBib3VuY2Ug",
-      "title": "Bitcoin bounce fades as it hovers around $66,000",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/bitcoin-price-today-crypto-volatility.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770823377000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VWJlciBFYXRzIGxhdW5j",
-      "title": "Uber Eats launches AI cart assistant for grocery delivery",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/uber-eats-launches-ai-cart-assistant-for-grocery-delivery.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770822833000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -545,21 +603,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VmFsdWUgaXMgdGhlIGtl",
-      "title": "Value is the key to McDonald&apos;s growth plans, but it&apos;s creating tensions with some franchisees",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/mcdonalds-value-franchisees.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770819000000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXBwdHJvbmlrIHJhaXNl",
       "title": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
       "summary": "",
@@ -572,51 +615,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGdpYW50IFRvdGFs",
-      "title": "Oil giant TotalEnergies on Trump&apos;s Venezuela dream: ‘Too expensive and too polluting&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/oil-totalenergies-venezuela-energy-trump-exxon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770809753000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJlbmNoIHNvZnR3YXJl",
-      "title": "French software maker Dassault Systèmes plunges 18%, on track for worst day ever",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/dassault-systmes-share-price-earnings-software-sell-off.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770802724000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3J5cHRvJmFwb3M7cyAm",
-      "title": "Crypto&apos;s &apos;age of speculation&apos; may be over, says Galaxy CEO Mike Novogratz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/bitcoin-crypto-trading-speculation-galaxy-ceo-mike-novogratz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770764527000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
