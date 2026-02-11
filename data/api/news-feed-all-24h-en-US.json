@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770805842191,
-  "crawlUpdatedAt": 1770805842191,
+  "updatedAt": 1770810716528,
+  "crawlUpdatedAt": 1770810716528,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,162 +13,211 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-T2lsIGdpYW50IFRvdGFs",
+      "title": "Oil giant TotalEnergies on Trump&apos;s Venezuela dream: ‘Too expensive and too polluting&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/oil-totalenergies-venezuela-energy-trump-exxon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770809753000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlJmFwb3M7cyBh",
+      "title": "Europe&apos;s answer to OpenAI announces billion-dollar AI infrastructure push in Sweden",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770809354000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBOaXUg",
+      "title": "Form 13D/A Niu Technologies For: 11 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13da-niu-technologies-for-11-february-93CH-4499174",
+      "source": "Investing.com News",
+      "publishedAt": 1770809255000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgdHJlYXN1cnkgc2Vs",
+      "title": "UK treasury sells £300 million of 4¼% treasury gilt 2049",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/uk-treasury-sells-300-million-of-4-treasury-gilt-2049-93CH-4499173",
+      "source": "Investing.com News",
+      "publishedAt": 1770809204000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: GNFC’s Q3 2025 sees stock dip amid strong TDI market",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gnfcs-q3-2025-sees-stock-dip-amid-strong-tdi-market-93CH-4499172",
+      "source": "Investing.com News",
+      "publishedAt": 1770809195000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGVpbmVrZW4gdG8gY3V0",
+      "title": "Heineken to cut up to 6,000 jobs as beer demand falters",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/heinekens-annual-profit-beat-expectations-but-brewer-sets-slower-2026-growth-forecast-4498720",
+      "source": "Investing.com News",
+      "publishedAt": 1770809091000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXDigJlzIHJlcGVh",
+      "title": "Trump’s repeal of climate rule opens a ’new front’ for litigation",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trumps-repeal-of-climate-rule-opens-a-new-front-for-litigation-4499114",
+      "source": "Investing.com News",
+      "publishedAt": 1770809072000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Gujarat Pipavav Port Q3 FY26 sees strong growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gujarat-pipavav-port-q3-fy26-sees-strong-growth-93CH-4499171",
+      "source": "Investing.com News",
+      "publishedAt": 1770808998000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2lubyBHcmVlbiBMYW5k",
+      "title": "Sino Green Land Corp. completes $193,500 private placement on OTC Markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/sino-green-land-corp-completes-193500-private-placement-on-otc-markets-93CH-4499170",
+      "source": "Investing.com News",
+      "publishedAt": 1770808943000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGVpbmVrZW4gRlkyMDI1",
+      "title": "Heineken FY2025 presentation slides: Premium brands drive growth amid volume challenges",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/heineken-fy2025-presentation-slides-premium-brands-drive-growth-amid-volume-challenges-93CH-4499169",
+      "source": "Investing.com News",
+      "publishedAt": 1770808932000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGFzc2F1bHQgU3lzdMOo",
+      "title": "Dassault Systèmes Q4 2025 slides: Modest growth as AI strategy takes center stage",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/dassault-systemes-q4-2025-slides-modest-growth-as-ai-strategy-takes-center-stage-93CH-4499167",
+      "source": "Investing.com News",
+      "publishedAt": 1770808924000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29sc3RpY2UgQWR2YW5j",
+      "title": "Solstice Advanced Materials misses Q4 earnings expectations",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/solstice-advanced-materials-misses-q4-earnings-expectations-93CH-4499165",
+      "source": "Investing.com News",
+      "publishedAt": 1770808884000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBib3VuY2Ug",
+      "title": "Bitcoin bounce fades as it drops back down to just under $67,000",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/bitcoin-price-today-crypto-volatility.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770806865000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-QW50aHJvcGljIGV4ZWN1",
       "title": "Anthropic executive takes a thinly-veiled swipe at OpenAI over spending and ads",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/11/anthropic-vs-openai-ads-spending-criticism.html",
       "source": "CNBC Markets",
       "publishedAt": 1770805603000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVuIGRlYWQgYWZ0ZXIg",
-      "title": "Ten dead after shooter opens fire at Canadian high school",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/ten-dead-after-a-shooting-in-canadian-province-of-british-columbia-cbc-news-reports-4498610",
-      "source": "Investing.com News",
-      "publishedAt": 1770805106000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Barratt Redrow Q1 2025 reveals mixed results",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-barratt-redrow-q1-2025-reveals-mixed-results-93CH-4499033",
-      "source": "Investing.com News",
-      "publishedAt": 1770805084000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WmlsbG93IHN0b2NrIGRp",
-      "title": "Zillow stock dips after Q4 earnings miss, EBITDA margin headwind",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/zillow-stock-falls-after-q4-earnings-miss-4497991",
-      "source": "Investing.com News",
-      "publishedAt": 1770805073000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Gecina SA REIT Q4 2025 shows steady growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gecina-sa-reit-q4-2025-shows-steady-growth-93CH-4499031",
-      "source": "Investing.com News",
-      "publishedAt": 1770805025000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VElNIFBhcnRpY2lwYWNv",
-      "title": "TIM Participacoes earnings beat, revenue was in line with estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/tim-participacoes-earnings-beat-revenue-was-in-line-with-estimates-4499025",
-      "source": "Investing.com News",
-      "publishedAt": 1770804908000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtSW5jb21l",
-      "title": "Analysis-Income tax break adds to Lula’s economic tailwinds ahead of Brazil election",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysisincome-tax-break-adds-to-lulas-economic-tailwinds-ahead-of-brazil-election-4499009",
-      "source": "Investing.com News",
-      "publishedAt": 1770804782000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHNheXMgaXQg",
-      "title": "Russia says it won’t breach limits of expired nuclear treaty if US does the same",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/russia-says-it-wont-breach-limits-of-expired-nuclear-treaty-if-us-does-the-same-4499019",
-      "source": "Investing.com News",
-      "publishedAt": 1770804758000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Anora Group Q4 2025 sees mixed performance",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-anora-group-q4-2025-sees-mixed-performance-93CH-4499018",
-      "source": "Investing.com News",
-      "publishedAt": 1770804660000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHJpc2VzIG92ZXIg",
-      "title": "Oil rises over 1% on US–Iran tensions, better demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-holds-steady-as-usiran-tensions-provide-support-4498579",
-      "source": "Investing.com News",
-      "publishedAt": 1770804528000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWN0aXZpc3QgaW52ZXN0",
-      "title": "Activist investor Elliott takes stake in LSEG to push performance, source says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/elliott-management-builds-stake-in-london-stock-exchange-group-ft-reports-4498769",
-      "source": "Investing.com News",
-      "publishedAt": 1770804490000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -298,21 +347,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2hhcmVzIG9mIEF1c3Ry",
-      "title": "Shares of Australian biotech major CSL plunge to 8-year low after CEO departure, weak earnings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/csl-shares-ceo-departure-weak-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770770346000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXN0w6llIExhdWRlciBz",
       "title": "Estée Lauder sues Walmart alleging &apos;despicable&apos; sale of counterfeit beauty products",
       "summary": "",
@@ -340,6 +374,21 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIGdldHMgRkND",
+      "title": "Amazon gets FCC approval to launch 4,500 Leo internet satellites",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/10/amazon-gets-fcc-approval-to-launch-4500-leo-internet-satellites.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770765903000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -494,21 +543,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgQ29tbWVyY2Ug",
-      "title": "Trump Commerce Sec. Lutnick admits visiting Epstein island during family vacation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/lutnick-epstein-island-vacation-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770753456000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGFyYW1vdW50IHN3ZWV0",
       "title": "Paramount sweetens WBD bid, but stops short of raising its per-share value",
       "summary": "",
@@ -583,39 +617,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljaGFlbCBTYXlsb3Ig",
-      "title": "Michael Saylor downplays Strategy credit risk as bitcoin tumbles: &apos;We&apos;ll refinance the debt&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770734494000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIHNheXMgU3Vw",
-      "title": "Kalshi says Super Bowl trading volume surpassed $1 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/10/kalshi-super-bowl.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770734049000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
