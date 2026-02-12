@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770890604000,
-  "crawlUpdatedAt": 1770890604000,
+  "updatedAt": 1770895500127,
+  "crawlUpdatedAt": 1770895500127,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,102 +13,207 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QWR5ZW4gcGx1bW1ldHMg",
-      "title": "Adyen plummets as much as 20% after earnings report",
+      "id": "CNBC Markets-UnVzc2lhIHNocnVncyBv",
+      "title": "Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/cuba-fuel-shortage-oil-russia-trump-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770894994000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R0VPIEdyb3VwIHNoYXJl",
+      "title": "GEO Group shares edge down as Q4 earnings miss overshadows revenue beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/geo-group-shares-edge-down-as-q4-earnings-miss-overshadows-revenue-beat-93CH-4502143",
+      "source": "Investing.com News",
+      "publishedAt": 1770894889000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: RaySearch Laboratories Q4 2025 sees 16% revenue growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-raysearch-laboratories-q4-2025-sees-16-revenue-growth-93CH-4502142",
+      "source": "Investing.com News",
+      "publishedAt": 1770894881000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFkIEJ1bm554oCZcyBz",
+      "title": "Bad Bunny’s show offers cultural lifeline to a besieged Hispanic community",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/bad-bunnys-show-offers-cultural-lifeline-to-a-besieged-hispanic-community-4502123",
+      "source": "Investing.com News",
+      "publishedAt": 1770894881000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGh5c3NlbmtydXBwIENF",
+      "title": "Thyssenkrupp CEO: Tariffs boost steel sentiment, aid Jindal talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/thyssenkrupp-ceo-tariffs-boost-steel-sentiment-aid-jindal-talks-93CH-4502141",
+      "source": "Investing.com News",
+      "publishedAt": 1770894879000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5kaWHigJlzIEphbnVh",
+      "title": "India’s January retail inflation at 2.75% in first print under new data series",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/indias-january-retail-inflation-at-275-in-first-print-under-new-data-series-4502140",
+      "source": "Investing.com News",
+      "publishedAt": 1770894846000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVNlZWtp",
+      "title": "Exclusive-Seeking Mexico foothold, China’s BYD and Geely bid to buy car plant",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveseeking-mexico-foothold-chinas-byd-and-geely-bid-to-buy-car-plant-4502139",
+      "source": "Investing.com News",
+      "publishedAt": 1770894826000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FydGVsIGRyb25lcyBi",
+      "title": "Cartel drones become flashpoint between US and Mexico",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cartel-drones-become-flashpoint-between-us-and-mexico-4502138",
+      "source": "Investing.com News",
+      "publishedAt": 1770894801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UkZLIEpy4oCZcyB2YWNj",
+      "title": "RFK Jr’s vaccine agenda faces Boston judge who has handed Trump setbacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/rfk-jrs-vaccine-agenda-faces-boston-judge-who-has-handed-trump-setbacks-4502136",
+      "source": "Investing.com News",
+      "publishedAt": 1770894780000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGluY29sbiBOYXRpb25h",
+      "title": "Lincoln National earnings beat by $0.01, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/lincoln-national-earnings-beat-by-001-revenue-topped-estimates-4502135",
+      "source": "Investing.com News",
+      "publishedAt": 1770894779000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ydGlzIGJlYXRzIFE0",
+      "title": "Fortis beats Q4 earnings expectations on strong regulated utility growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/fortis-beats-q4-earnings-expectations-on-strong-regulated-utility-growth-4502133",
+      "source": "Investing.com News",
+      "publishedAt": 1770894772000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29mdEJhbmsgYm9va3Mg",
+      "title": "SoftBank books $4.2 billion gain on OpenAI bet, boosting its Vision Fund",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770894105000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIFdlYWx0aCBG",
+      "title": "Inside Wealth Family Office 15: Most active investment firms of the ultra-wealthy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/inside-wealth-family-office-15.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770894001000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWR5ZW4gc2hhcmVzIHBs",
+      "title": "Adyen shares plummet after payments giant posts weak revenue growth outlook",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/12/adyen-stock-price-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770890127000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T250ZXggc2hhcmVzIGZh",
-      "title": "Ontex shares fall as 2026 guidance disappoints amid weak Q4 results",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/ontex-shares-fall-as-2026-guidance-disappoints-amid-weak-q4-results-93CH-4501979",
-      "source": "Investing.com News",
-      "publishedAt": 1770889576000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Leonteq Q2 2025 sees net loss amid market challenges",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-leonteq-q2-2025-sees-net-loss-amid-market-challenges-93CH-4501978",
-      "source": "Investing.com News",
-      "publishedAt": 1770889490000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U1NHQSBTUERSIEVURnMg",
-      "title": "SSGA SPDR ETFs Europe II announces prospectus changes effective Feb 19",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ssga-spdr-etfs-europe-ii-announces-prospectus-changes-effective-feb-19-93CH-4501977",
-      "source": "Investing.com News",
-      "publishedAt": 1770889443000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJpb24gQmFuayBRNCAy",
-      "title": "Arion Bank Q4 2025 slides: ROE exceeds targets amid merger talks with Kvika",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/arion-bank-q4-2025-slides-roe-exceeds-targets-amid-merger-talks-with-kvika-93CH-4501976",
-      "source": "Investing.com News",
-      "publishedAt": 1770889439000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Unilever’s Q4 2025 results fall short of forecasts",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-unilevers-q4-2025-results-fall-short-of-forecasts-93CH-4501975",
-      "source": "Investing.com News",
-      "publishedAt": 1770889417000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JrbGEgcmVwb3J0cyBz",
-      "title": "Orkla reports strong Q4 results with organic growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/orkla-reports-strong-q4-results-with-organic-growth-93CH-4501974",
-      "source": "Investing.com News",
-      "publishedAt": 1770889405000,
+      "publishedAt": 1770892451000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,42 +223,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXN1enUgTW90b3JzIFEz",
-      "title": "Isuzu Motors Q3 profit beats estimates despite North America challenges",
+      "id": "CNBC Markets-TWVyY2VkZXMgaGl0IGJ5",
+      "title": "Mercedes hit by $1.2 billion in tariff costs as full-year earnings more than halve",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/isuzu-motors-q3-profit-beats-estimates-despite-north-america-challenges-93CH-4501973",
-      "source": "Investing.com News",
-      "publishedAt": 1770889403000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXNzaWxvckx1eG90dGlj",
-      "title": "EssilorLuxottica jumps on Q4 acceleration, updated mid-term outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/essilorluxottica-revenue-climbs-adrs-jump-after-strong-q4-4500874",
-      "source": "Investing.com News",
-      "publishedAt": 1770889393000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QSB5ZWFyIG9uIGZyb20g",
-      "title": "A year on from DeepSeek shock, get set for flurry of low-cost Chinese AI models",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/a-year-on-from-deepseek-shock-get-set-for-flurry-of-lowcost-chinese-ai-models-4501688",
-      "source": "Investing.com News",
-      "publishedAt": 1770889389000,
+      "url": "https://www.cnbc.com/2026/02/12/mercedes-earnings-autos-tariffs-luxury-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770891907000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,12 +238,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RHViYWkgVGF4aSByZXBv",
-      "title": "Dubai Taxi reports Q4 revenue of AED675 million, slightly above estimates",
+      "id": "CNBC Markets-V2h5IEFscGhhYmV04oCZ",
+      "title": "Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/dubai-taxi-reports-q4-revenue-of-aed675-million-slightly-above-estimates-93CH-4501972",
-      "source": "Investing.com News",
-      "publishedAt": 1770889388000,
+      "url": "https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770890986000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2Ugdm90ZXMgdG8g",
+      "title": "House votes to override Trump&apos;s Canada tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770890866000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -184,21 +274,6 @@
       "url": "https://www.cnbc.com/2026/02/12/nuveen-schroders-asset-management-takeover.html",
       "source": "CNBC Markets",
       "publishedAt": 1770889076000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWVyY2VkZXMgaGl0IGJ5",
-      "title": "Mercedes hit by $1.2 billion in tariff costs as full-year earnings more than halve",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/mercedes-earnings-autos-tariffs-luxury-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770887730000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -238,42 +313,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2llbWVucyBzaGFyZXMg",
-      "title": "Siemens shares jump 7% as AI demand boosts profit outlook; European markets trade higher",
+      "id": "CNBC Markets-VUsgZWNvbm9teSBla2Vz",
+      "title": "UK economy ekes out 0.1% growth in the fourth quarter",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/european-markets-stoxx-600-ftse-dax-cac-siemens-loreal-earnings.html",
+      "url": "https://www.cnbc.com/2026/02/12/uk-q4-gdp-economy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770887046000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29mdEJhbmsgYm9va3Mg",
-      "title": "SoftBank books $4.2 billion gain on OpenAI bet, boosting its Vision Fund",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770886948000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW4gc3RvY2tzIGV4",
-      "title": "Japan stocks extend post-election rally with Nikkei 225 breaching 58,000 for the first time",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770884490000,
+      "publishedAt": 1770881937000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -283,12 +328,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWVldCB0aGUgaGlnaC1w",
-      "title": "Meet the high-profile Emirati business leader lawmakers are linking to Epstein ‘torture’ email",
+      "id": "CNBC Markets-QlRTIGNvbWViYWNrIHRv",
+      "title": "BTS comeback tour turbocharges concert tourism, with hotel searches jumping as much as 6,700%",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/epstein-files-sultan-ahmed-bin-sulayem-dp-world-email-dubai-uae-emirati.html",
+      "url": "https://www.cnbc.com/2026/02/12/bts-global-tour-2026-concert-tourism-travel-bookings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770875351000,
+      "publishedAt": 1770881372000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -298,12 +343,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QSB5ZWFyIGludG8gVHJ1",
-      "title": "A year into Trump tariffs, Chinese factories and ports are buzzing with activity",
+      "id": "CNBC Markets-TWVldCB0aGUgaGlnaC1w",
+      "title": "Meet the high-profile Emirati business leader lawmakers are linking to Epstein ‘torture’ email",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/trump-tariffs-cny-chinese-factories-and-ports-are-buzzing-with-activity.html",
+      "url": "https://www.cnbc.com/2026/02/12/epstein-files-sultan-ahmed-bin-sulayem-dp-world-email-dubai-uae-emirati.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770872738000,
+      "publishedAt": 1770875351000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -337,36 +382,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW5lc2Ugc3RvY2tz",
-      "title": "Japanese stocks are on a record-breaking spree. But the rally may be &apos;fragile&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/japan-stocks-record-ai-yen-takaichi-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770862093000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91c2Ugdm90ZXMgdG8g",
-      "title": "House votes to override Trump&apos;s Canada tariffs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770859092000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -478,6 +493,51 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-Tm92byBOb3JkaXNrIGZh",
+      "title": "Novo Nordisk faces a defining year in the obesity drug market. It’s off to a dramatic start",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/novo-nordisk-faces-defining-year-in-the-obesity-drug-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770847302000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmF5LUJhbiBtYWtlciBF",
+      "title": "Ray-Ban maker EssilorLuxottica says it more than tripled Meta AI glasses sales in 2025",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770844973000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHRoZSBsYXJnZXN0",
+      "title": "Why the largest U.S. auto dealer isn&apos;t interested in Chinese cars — for now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/11/autos-chinese-car.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770844046000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
       "title": "Epstein files: Yale bars David Gelernter from teaching classes amid review of emails",
       "summary": "",
@@ -499,21 +559,6 @@
       "url": "https://www.cnbc.com/2026/02/11/the-jobs-picture-still-looks-muddy-even-with-surprisingly-strong-january-growth.html",
       "source": "CNBC Markets",
       "publishedAt": 1770841340000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGFyaWZmIHJldmVudWUg",
-      "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/tariff-revenue-soars-more-than-300percent-as-us-awaits-supreme-court-decision.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770840310000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -550,51 +595,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGVjaCBpbnZlc3RvciBP",
-      "title": "Tech investor Orlando Bravo says most software companies don&apos;t have enough profit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/tech-investor-orlando-bravo-software-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770837943000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBy",
-      "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment down to 4.3%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/jobs-report-january-2026-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770836825000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIGZp",
-      "title": "Here are the five key takeaways from the January jobs report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/here-are-the-five-key-takeaways-from-the-january-jobs-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770835957000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
