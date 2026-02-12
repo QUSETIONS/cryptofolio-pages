@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770923678432,
-  "crawlUpdatedAt": 1770923678432,
+  "updatedAt": 1770926500697,
+  "crawlUpdatedAt": 1770926500697,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,87 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: DOJ says it logs Congress members&apos; searches to &apos;protect&apos; victim information",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/epstein-files-doj-pam-bondi-pramila-jayapal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770926386000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IEVQQSAmYXBvcztl",
+      "title": "How EPA &apos;endangerment finding&apos; repeal could impact your wallet",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/epa-endangerment-finding-repeal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770926361000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2lzY28gc3RvY2sgaGFz",
+      "title": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770926069000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCB0aGUgRVBBJmFw",
+      "title": "What the EPA&apos;s flip on climate change means for automakers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/epa-climate-change-automakers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770925860000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration will end immigration enforcement surge in Minnesota: Homan",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/homan-trump-ice-immigration-minnesota-minneapolis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770924934000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgcmV2b2tlcyBF",
       "title": "Trump revokes EPA finding on greenhouse gas threat in huge blow to climate change regulations",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/12/trump-epa-endangerment-finding-climate-change-greenhouse-gas.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770923367000,
+      "publishedAt": 1770924462000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,27 +103,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley reiterates Overweight rating on CBRE Group stock at $180",
+      "id": "Investing.com News-RXJhc2NhIHN0b2NrIHJl",
+      "title": "Erasca stock reaches 52-week high at 12.48 USD",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-rating-on-cbre-group-stock-at-180-93CH-4503841",
+      "url": "https://www.investing.com/news/company-news/erasca-stock-reaches-52week-high-at-1248-usd-93CH-4503865",
       "source": "Investing.com News",
-      "publishedAt": 1770922950000,
+      "publishedAt": 1770924373000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgRkRBIGFwcHJvdmVz",
+      "title": "US FDA approves labeling changes to menopause hormone therapies",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/us-fda-approves-labeling-changes-to-menopause-hormone-therapies-4503858",
+      "source": "Investing.com News",
+      "publishedAt": 1770924358000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyBkb3du",
+      "title": "Oil prices down $2 a barrel on supply forecast",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-down-2-a-barrel-on-supply-forecast-4503863",
+      "source": "Investing.com News",
+      "publishedAt": 1770924303000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q1NDTywgUExUUiBhbW9u",
-      "title": "CSCO, PLTR among market cap stock movers on Thursday",
+      "id": "Investing.com News-VHJ1bXAgY2Fubm90IGVu",
+      "title": "Trump cannot end deportation protections for South Sudanese nationals, US judge rules",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/csco-pltr-among-market-cap-stock-movers-on-thursday-93CH-4503840",
+      "url": "https://www.investing.com/news/politics-news/trump-cannot-end-deportation-protections-for-south-sudanese-nationals-us-judge-rules-4503862",
       "source": "Investing.com News",
-      "publishedAt": 1770922929000,
+      "publishedAt": 1770924284000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,27 +163,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3luZGF4IGF0IEd1Z2dl",
-      "title": "Syndax at Guggenheim Summit: Strong Growth & Strategic Expansion",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Geo Group misses EPS forecast, stock drops 13%",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/syndax-at-guggenheim-summit-strong-growth--strategic-expansion-93CH-4503839",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-geo-group-misses-eps-forecast-stock-drops-13-93CH-4503861",
       "source": "Investing.com News",
-      "publishedAt": 1770922902000,
+      "publishedAt": 1770924270000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2FybmV5IHBsYW5zIHZp",
-      "title": "Carney plans visit to Tumbler Ridge on Friday as Canada grieves mass shooting",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: TELUS misses Q4 2025 forecasts, stock dips",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/carney-plans-visit-to-tumbler-ridge-as-canada-grieves-mass-shooting-4503683",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-telus-misses-q4-2025-forecasts-stock-dips-93CH-4503859",
       "source": "Investing.com News",
-      "publishedAt": 1770922892000,
+      "publishedAt": 1770924125000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +193,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFuZ2xhZGVzaOKAmXMg",
-      "title": "Bangladesh’s BNP seen heading for big election win as votes are counted",
+      "id": "Investing.com News-QW50aHJvcGljIHZhbHVl",
+      "title": "Anthropic valued at $380 billion in latest funding round",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/bangladesh-votes-in-landmark-election-after-gen-z-revolution-4501423",
+      "url": "https://www.investing.com/news/economy-news/anthropic-valued-at-380-billion-in-latest-funding-round-4503855",
       "source": "Investing.com News",
-      "publishedAt": 1770922871000,
+      "publishedAt": 1770923934000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +208,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q1BJIGRhdGEgdGFrZXMg",
-      "title": "CPI data takes center stage in Friday’s economic calendar",
+      "id": "CNBC Markets-QUkgZGlzcnVwdGlvbiBm",
+      "title": "AI disruption fears slam new corners of the market, and Google reminds us why we own it",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/cpi-data-takes-center-stage-in-fridays-economic-calendar-93CH-4503836",
+      "url": "https://www.cnbc.com/2026/02/12/ai-disruption-fears-slam-new-corners-of-the-market-and-google-reminds-us-why-we-own-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770923895000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFuIENoYW5jZWxs",
+      "title": "German Chancellor Merz rejects joint European debt issuance",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/german-chancellor-merz-rejects-joint-european-debt-issuance-93CH-4503857",
       "source": "Investing.com News",
-      "publishedAt": 1770922861000,
+      "publishedAt": 1770923855000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +238,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV3IEtyYWZ0IEhlaW56",
-      "title": "New Kraft Heinz CEO’s difficult choice: Split or double down",
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. needs Iran deal, sees potential agreement within month",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/new-kraft-heinz-ceos-difficult-choice-split-or-double-down-4503657",
+      "url": "https://www.investing.com/news/world-news/trump-says-us-needs-iran-deal-sees-potential-agreement-within-month-93CH-4503856",
       "source": "Investing.com News",
-      "publishedAt": 1770922854000,
+      "publishedAt": 1770923728000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgU2VuYXRlIGJsb2Nr",
+      "title": "US Senate blocks Homeland Security funding, raising likelihood of shutdown",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-senate-blocks-homeland-security-funding-raising-likelihood-of-shutdown-4503854",
+      "source": "Investing.com News",
+      "publishedAt": 1770923572000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,57 +268,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmludGVjaCBDbGVhciBT",
-      "title": "Fintech Clear Street slashes US IPO size by 65% as caution grips investors",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-broker-clear-street-cuts-us-ipo-valuation-target-to-72-billion-4502653",
-      "source": "Investing.com News",
-      "publishedAt": 1770922836000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW50aHJvcGljIGNsb3Nl",
       "title": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
       "source": "CNBC Markets",
       "publishedAt": 1770922835000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FmcmFuLCBOYXR3ZXN0",
-      "title": "Safran, Natwest, Tokio Marine and more to report earnings Friday",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/safran-natwest-tokio-marine-and-more-to-report-earnings-friday-93CH-4503835",
-      "source": "Investing.com News",
-      "publishedAt": 1770922822000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyB1",
-      "title": "Raymond James upgrades Oscar Health on valuation and margin recovery outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/raymond-james-upgrades-oscar-health-on-valuation-and-margin-recovery-outlook-4503834",
-      "source": "Investing.com News",
-      "publishedAt": 1770922815000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -330,21 +420,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2lzY28mYXBvcztzIG1l",
-      "title": "Cisco&apos;s memory-price warning is having ripple effects across the tech sector",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/ciscos-memory-price-warning-is-having-ripple-effects-across-the-tech-sector.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770916467000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIGNoYWlyIGRyYW1h",
       "title": "Fed chair drama: Tillis pours cold water on off-ramp for Powell criminal probe",
       "summary": "",
@@ -359,21 +434,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration will end immigration enforcement surge in Minnesota: Homan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/homan-trump-ice-immigration-minnesota-minneapolis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770915439000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -392,57 +452,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
-      "title": "Epstein files: AG Pam Bondi seemed to have Rep. Jayapal&apos;s DOJ database search history at hearing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/epstein-files-pam-bondi-jayapal-search-history-doj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770911519000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmVhbHRvcnMgcmVwb3J0",
       "title": "Realtors report a &apos;new housing crisis&apos; as January home sales tank more than 8%",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/12/january-homes-sales.html",
       "source": "CNBC Markets",
       "publishedAt": 1770910661000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlsbCBBY2ttYW4gcmV2",
-      "title": "Bill Ackman reveals stake in Meta, says it has &apos;deeply discounted valuation&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/11/bill-ackman-meta-valuation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770909835000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSB5ZWFyIGludG8gVHJ1",
-      "title": "A year into Trump tariffs, Chinese factories and ports are buzzing with activity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/trump-tariffs-cny-chinese-factories-and-ports-are-buzzing-with-activity.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770909379000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -548,21 +563,6 @@
       "url": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
       "source": "CNBC Markets",
       "publishedAt": 1770901201000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhIHNocnVncyBv",
-      "title": "Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/cuba-fuel-shortage-oil-russia-trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770894994000,
       "lang": "zh-CN",
       "topics": [
         "macro"
