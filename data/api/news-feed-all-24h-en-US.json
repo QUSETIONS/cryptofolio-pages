@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1770969283775,
-  "crawlUpdatedAt": 1770969283775,
+  "updatedAt": 1770972923004,
+  "crawlUpdatedAt": 1770972923004,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,194 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-SG93IENoaW5hJmFwb3M7",
+      "title": "How China&apos;s &apos;unruly&apos; speculators might be fueling the frenzy in gold market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/13/china-gold-volatility-bessent-etfs-leverage-margin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770972801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2t54oCZcyBJVFYgYWNx",
+      "title": "Sky’s ITV acquisition talks slow amid Warner Bros Discovery battle",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/skys-itv-acquisition-talks-slow-amid-warner-bros-discovery-battle-93CH-4504515",
+      "source": "Investing.com News",
+      "publishedAt": 1770972395000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TOKAmU9yw6lhbCBzaGFy",
+      "title": "L’Oréal shares slump as Q4 LFL growth misses expectations",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/loreal-shares-fall-as-fullyear-sales-miss-expectations-4503752",
+      "source": "Investing.com News",
+      "publishedAt": 1770972391000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xlYXIgQ2FwaXRhbCBN",
+      "title": "Clear Capital Markets initiates research on Georgina Energy",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/clear-capital-markets-initiates-research-on-georgina-energy-93CH-4504514",
+      "source": "Investing.com News",
+      "publishedAt": 1770972372000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWxrZW0gdG8gZGl2ZXN0",
+      "title": "Elkem to divest silicones business in share swap with Bluestar",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/elkem-to-divest-silicones-business-in-share-swap-with-bluestar-93CH-4504513",
+      "source": "Investing.com News",
+      "publishedAt": 1770972359000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3dpc3MgaW5mbGF0aW9u",
+      "title": "Swiss inflation holds at 0.1% in January, SNB rate cut expected",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/swiss-inflation-holds-at-01-in-january-snb-rate-cut-expected-93CH-4504512",
+      "source": "Investing.com News",
+      "publishedAt": 1770972307000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFzdGlnaGV0cyBBQiBU",
+      "title": "Fastighets AB Trianon reports strong 2025 results with dividend return",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fastighets-ab-trianon-reports-strong-2025-results-with-dividend-return-93CH-4504510",
+      "source": "Investing.com News",
+      "publishedAt": 1770972233000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlLCBBc2lhIGxl",
+      "title": "Europe, Asia lead equity fund inflows as US records weekly outflow",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/europe-asia-lead-equity-fund-inflows-as-us-records-weekly-outflow-4504501",
+      "source": "Investing.com News",
+      "publishedAt": 1770972193000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlc2UgZm91ciBjaGFy",
+      "title": "These four charts show how reliant Europe is on U.S. digital infrastructure",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/13/four-charts-europes-reliance-us-digital-infrastructure.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1770972192000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
+      "title": "European shares slip as AI-disruption worries, mixed earnings weigh",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-aidisruption-worries-mixed-earnings-weigh-4504509",
+      "source": "Investing.com News",
+      "publishedAt": 1770972173000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGFrZSBGaXZlOiBHaWRk",
+      "title": "Take Five: Giddy Up",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/take-five-giddy-up-4504433",
+      "source": "Investing.com News",
+      "publishedAt": 1770972154000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Teleste’s Q4 2025 highlights stable revenue, EPS improvement",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-telestes-q4-2025-highlights-stable-revenue-eps-improvement-93CH-4504508",
+      "source": "Investing.com News",
+      "publishedAt": 1770972065000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks head for mixed open after latest AI Wall Street sell-off",
+      "title": "European stocks open lower after latest AI Wall Street sell-off",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/13/europe-markets-stoxx-600-ftse-100-metals-ai-sell-off.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770967653000,
+      "publishedAt": 1770970959000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +215,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/13/asia-markets-live-today-friday-nikkei-kospi-hang-seng-ai-fears.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770967517000,
+      "publishedAt": 1770970122000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,164 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RyYXRlZ2ljIE1pbmVy",
-      "title": "Strategic Minerals grants options to directors and employees",
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIEJh",
+      "title": "China&apos;s Baidu adds OpenClaw AI into search app for 700 million users ahead of Lunar New Year",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/strategic-minerals-grants-options-to-directors-and-employees-93CH-4504386",
-      "source": "Investing.com News",
-      "publishedAt": 1770967491000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IENoaW5hJmFwb3M7",
-      "title": "How China&apos;s &apos;unruly&apos; speculators might be fueling the frenzy in gold market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/china-gold-volatility-bessent-etfs-leverage-margin.html",
+      "url": "https://www.cnbc.com/2026/02/13/baidu-openclaw-ai-search-app-integration-china-lunar-new-year.html",
       "source": "CNBC Markets",
-      "publishedAt": 1770967417000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WExTTUFSVCBRNCAyMDI1",
-      "title": "XLSMART Q4 2025 slides: revenue surges 32% YoY despite subscriber decline",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/xlsmart-q4-2025-slides-revenue-surges-32-yoy-despite-subscriber-decline-93CH-4504385",
-      "source": "Investing.com News",
-      "publishedAt": 1770967326000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm9yc2sgSHlkcm8gUTQg",
-      "title": "Norsk Hydro Q4 earnings beat estimates on aluminum price surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/norsk-hydro-q4-earnings-beat-estimates-on-aluminum-price-surge-4504384",
-      "source": "Investing.com News",
-      "publishedAt": 1770967138000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FwZ2VtaW5pIGV4Y2Vl",
-      "title": "Capgemini exceeds revenue target as newly acquired WNS drives AI growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/capgemini-exceeds-revenue-target-as-ai-bookings-grow-4504357",
-      "source": "Investing.com News",
-      "publishedAt": 1770967127000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFuIHdob2xlc2Fs",
-      "title": "German wholesale prices rise 1.2% in January",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/german-wholesale-prices-rise-12-in-january-4504383",
-      "source": "Investing.com News",
-      "publishedAt": 1770967108000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Wm90ZWZvYW1zIGV4ZWN1",
-      "title": "Zotefoams executives acquire shares through company incentive plan",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/zotefoams-executives-acquire-shares-through-company-incentive-plan-93CH-4504382",
-      "source": "Investing.com News",
-      "publishedAt": 1770967071000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF0V2VzdCBNYXJrZXRz",
-      "title": "NatWest Markets reports profit surge to £275 million for 2025",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/natwest-markets-reports-profit-surge-to-275-million-for-2025-93CH-4504381",
-      "source": "Investing.com News",
-      "publishedAt": 1770966650000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um9rdSBzdG9jayBtYWlu",
-      "title": "Roku stock maintains Overweight rating at JPMorgan on platform growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/roku-stock-maintains-overweight-rating-at-jpmorgan-on-platform-growth-93CH-4504380",
-      "source": "Investing.com News",
-      "publishedAt": 1770966580000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFuIHdob2xlc2Fs",
-      "title": "German wholesale prices rise 1.2% year-on-year in January",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/german-wholesale-prices-rise-12-yearonyear-in-january-93CH-4504379",
-      "source": "Investing.com News",
-      "publishedAt": 1770966537000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluZSBleHBlY3Rz",
-      "title": "Ukraine expects final IMF deal approval in coming weeks",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ukraine-expects-final-imf-deal-approval-in-coming-weeks-4504378",
-      "source": "Investing.com News",
-      "publishedAt": 1770966412000,
+      "publishedAt": 1770969804000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -515,21 +545,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50aHJvcGljIGNsb3Nl",
-      "title": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770929044000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
       "title": "One year after DOGE cuts, former federal workers find new roles",
       "summary": "",
@@ -543,21 +558,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
-      "title": "American Airlines flight attendants picket as CEO tries to calm frustrated employees",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/12/american-airlines-ceo-pressure-flight-attendants-picket.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1770928271000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
