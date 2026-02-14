@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771101403053,
-  "crawlUpdatedAt": 1771101403053,
-  "crawlCount": 33,
+  "updatedAt": 1771104771506,
+  "crawlUpdatedAt": 1771104771506,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4507266",
+      "source": "Investing.com News",
+      "publishedAt": 1771104003000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAsIE5ldGFueWFo",
+      "title": "Trump, Netanyahu agreed US should press Iran to cut oil sales to China, Axios reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-netanyahu-agreed-us-should-press-iran-to-cut-oil-sales-to-china-axios-reports-4507265",
+      "source": "Investing.com News",
+      "publishedAt": 1771103909000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-NSBTdGVwcyB0byBCdWls",
       "title": "5 Steps to Build a Pre-IPO Portfolio Using IPO Genie’s AI Platform",
@@ -139,36 +169,6 @@
       "url": "https://www.investing.com/news/economy-news/ecb-makes-euro-backstop-global-to-bolster-currencys-role-4507256",
       "source": "Investing.com News",
       "publishedAt": 1771088091000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1FQ0Igb3Bl",
-      "title": "Factbox-ECB opens up euro lifeline in bid to boost global role",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/factboxecb-opens-up-euro-lifeline-in-bid-to-boost-global-role-4507257",
-      "source": "Investing.com News",
-      "publishedAt": 1771088074000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kaWFuIGxlbmRlciBN",
-      "title": "Indian lender Manappuram gets RBI nod for Bain Capital to take joint control",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/indian-lender-manappuram-gets-rbi-nod-for-bain-capital-to-take-joint-control-4507255",
-      "source": "Investing.com News",
-      "publishedAt": 1771086629000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -475,36 +475,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Um9rdSBzdG9jayBzdXJn",
-      "title": "Roku stock surges on earnings beat, record quarter for premium subscriptions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/roku-stock-earnings-premium-subscriptions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771017120000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBz",
-      "title": "Nvidia&apos;s stock is down and AMD is up. The culprit may be Arista.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/nvidias-stock-is-down-and-amd-is-up-the-culprit-may-be-arista-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771015107000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
