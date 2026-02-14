@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771097508444,
-  "crawlUpdatedAt": 1771097508444,
-  "crawlCount": 34,
+  "updatedAt": 1771101403053,
+  "crawlUpdatedAt": 1771101403053,
+  "crawlCount": 33,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-NSBTdGVwcyB0byBCdWls",
+      "title": "5 Steps to Build a Pre-IPO Portfolio Using IPO Genie’s AI Platform",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/5-steps-to-build-a-preipo-portfolio-using-ipo-genies-ai-platform-4507263",
+      "source": "Investing.com News",
+      "publishedAt": 1771099259000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-RXVyb3BlYW4gYWxsaWVz",
       "title": "European allies say Navalny was poisoned by dart frog toxin; Russia rejects claims",
@@ -154,21 +169,6 @@
       "url": "https://www.investing.com/news/stock-market-news/indian-lender-manappuram-gets-rbi-nod-for-bain-capital-to-take-joint-control-4507255",
       "source": "Investing.com News",
       "publishedAt": 1771086629000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlYW4gcmVhY3Rp",
-      "title": "European reaction to Rubio’s speech on transatlantic ties at Munich Security Conference",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/european-reaction-to-rubios-speech-on-transatlantic-ties-at-munich-security-conference-4507253",
-      "source": "Investing.com News",
-      "publishedAt": 1771082318000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -505,21 +505,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZeKAmXMgdGhlIGlu",
-      "title": "Here’s the inflation breakdown for January 2026 — in one chart",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/heres-the-inflation-breakdown-for-january-2026-in-one-chart.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771013063000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
