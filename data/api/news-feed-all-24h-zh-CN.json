@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771167356539,
-  "crawlUpdatedAt": 1771167356539,
+  "updatedAt": 1771169652446,
+  "crawlUpdatedAt": 1771169652446,
   "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SW4gYml0Y29pbiBwcmlj",
+      "title": "In bitcoin price plummet, ETF flows are down but aren&apos;t signaling &apos;crypto winter&apos; investor panic",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771169088000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2F5cyBpdCBpbnRl",
+      "title": "US says it interdicted and boarded vessel defying Trump’s quarantine",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-says-it-interdicted-and-boarded-vessel-defying-trumps-quarantine-4507287",
+      "source": "Investing.com News",
+      "publishedAt": 1771168350000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxsIGV5ZXMgb24gTWlk",
+      "title": "All eyes on MidWestOne earnings as Nicolet merger looms",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/all-eyes-on-midwestone-earnings-as-nicolet-merger-looms-93CH-4507297",
+      "source": "Investing.com News",
+      "publishedAt": 1771167278000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-UmV0aXJlbWVudCBsYXcg",
       "title": "Retirement law lets employers pair emergency savings and 401(k)s, but few are doing so",
@@ -224,36 +271,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.21%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-021-4507288",
-      "source": "Investing.com News",
-      "publishedAt": 1771159504000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluaWFuIGFudGkt",
-      "title": "Ukrainian anti-graft authorities detain ex-minister in major case",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/ukrainian-antigraft-authorities-detain-exminister-in-major-case-4507285",
-      "source": "Investing.com News",
-      "publishedAt": 1771158628000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2xvYmFsIHdlZWsgYWhl",
       "title": "Global week ahead: Markets brace for more AI noise and &apos;scare trading&apos;",
       "summary": "",
@@ -290,21 +307,6 @@
       "url": "https://www.cnbc.com/2026/02/14/here-are-3-factors-that-drove-the-big-swings-in-the-stock-market-last-week.html",
       "source": "CNBC Markets",
       "publishedAt": 1771089488000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MyBzaWducyB5b3UgYW5k",
-      "title": "3 signs you and your partner may be financially incompatible",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/14/signs-you-and-your-partner-are-financially-incompatible.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771081201000,
       "lang": "zh-CN",
       "topics": [
         "macro"
