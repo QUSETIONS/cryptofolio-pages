@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771112008041,
-  "crawlUpdatedAt": 1771112008041,
-  "crawlCount": 24,
+  "updatedAt": 1771125286181,
+  "crawlUpdatedAt": 1771125286181,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UGVudGFnb24gdGhyZWF0",
+      "title": "Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/pentagon-threatens-to-cut-off-anthropic-in-ai-safeguards-dispute-axios-reports-4507269",
+      "source": "Investing.com News",
+      "publishedAt": 1771122653000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSnVzdGljZSBEZXBh",
+      "title": "US Justice Department sends letter regarding Epstein files redactions to lawmakers, Politico reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/us-justice-department-sends-letter-regarding-epstein-files-redactions-to-lawmakers-politico-reports-4507268",
+      "source": "Investing.com News",
+      "publishedAt": 1771116519000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVVTIG1p",
+      "title": "Exclusive-US military preparing for potentially weeks-long Iran operations",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/exclusiveus-military-preparing-for-potentially-weekslong-iran-operations-4506989",
+      "source": "Investing.com News",
+      "publishedAt": 1771114346000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -73,21 +118,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLVVTIG1p",
-      "title": "Exclusive-US military preparing for potentially weeks-long Iran operations",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/exclusiveus-military-preparing-for-potentially-weekslong-iran-operations-4506989",
-      "source": "Investing.com News",
-      "publishedAt": 1771094908000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-Q2FybmV5IHRlbGxzIFR1",
       "title": "Carney tells Tumbler Ridge residents that Canadians ’will always be with you’ following mass shooting",
       "summary": "",
@@ -139,36 +169,6 @@
       "url": "https://www.cnbc.com/2026/02/14/here-are-3-factors-that-drove-the-big-swings-in-the-stock-market-last-week.html",
       "source": "CNBC Markets",
       "publishedAt": 1771089488000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNzYWlsYW50cyBraWxs",
-      "title": "Assailants kill at least 30 in northwest Nigeria villages, residents say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/assailants-kill-at-least-30-in-northwest-nigeria-villages-residents-say-4507258",
-      "source": "Investing.com News",
-      "publishedAt": 1771088092000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RUNCIG1ha2VzIGV1cm8g",
-      "title": "ECB makes euro backstop global to bolster currency’s role",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ecb-makes-euro-backstop-global-to-bolster-currencys-role-4507256",
-      "source": "Investing.com News",
-      "publishedAt": 1771088091000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -319,51 +319,6 @@
       "url": "https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html",
       "source": "CNBC Markets",
       "publishedAt": 1771051654000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNrJmFwb3M7",
-      "title": "Elon Musk&apos;s xAI faces threat of NAACP lawsuit over air pollution from Mississippi data center",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/musks-xai-faces-threat-of-naacp-lawsuit-over-pollution-in-mississippi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771035585000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXZlcmFnZSBJUlMgdGF4",
-      "title": "Average IRS tax refund is up 10.9% so far this season, early filing data shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771031863000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSB3",
-      "title": "Trump says he will issue executive order to get voter-ID requirements before midterms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/13/trump-congress-voter-id-midterms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771027124000,
       "lang": "en-US",
       "topics": [
         "macro"
