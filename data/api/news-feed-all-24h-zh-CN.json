@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771194867837,
-  "crawlUpdatedAt": 1771194867837,
-  "crawlCount": 21,
+  "updatedAt": 1771198520586,
+  "crawlUpdatedAt": 1771198520586,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,111 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SHVhbmcgYW5kIFBpY2hh",
+      "title": "Huang and Pichai among tech CEOs heading to India for major AI summit in a key market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771197345000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlcyBm",
+      "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/epstein-files-fallout-goldman-ruemmler-harvard-yale.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771197135000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0YW55YWh1IHNheXMg",
+      "title": "Netanyahu says US deal with Iran must dismantle nuclear infrastructure",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/netanyahu-deal-with-iran-must-dismantle-nuclear-infrastructure-not-just-stop-enrichment-process-4507303",
+      "source": "Investing.com News",
+      "publishedAt": 1771196068000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdHJhZGUgYWR2",
+      "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to &apos;internalize&apos; costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771196032000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3BlbkNsYXcgZm91bmRl",
+      "title": "OpenClaw founder Steinberger joins OpenAI, open-source bot becomes foundation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/openclaw-founder-steinberger-joins-openai-opensource-bot-becomes-foundation-4507315",
+      "source": "Investing.com News",
+      "publishedAt": 1771194990000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FybmVyIEJyb3MuIG1h",
+      "title": "Warner Bros. may reopen sale talks with Paramount following new deal terms, Bloomberg reports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/warner-bros-discovery-paramount-netflix.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771194837000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhbiB0YWtl",
+      "title": "Australian takeover target BlueScope sees stronger 2H; 1H profit beats estimate",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australian-takeover-target-bluescope-beats-estimate-with-firsthalf-earnings-4507313",
+      "source": "Investing.com News",
+      "publishedAt": 1771194625000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VHJlYXN1cnkgV2luZeKA",
       "title": "Treasury Wine’s first-half profit halves, interim dividend suspended",
@@ -27,21 +132,6 @@
         "UST10Y"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhbiB0YWtl",
-      "title": "Australian takeover target BlueScope beats estimate with first-half earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/australian-takeover-target-bluescope-beats-estimate-with-firsthalf-earnings-4507313",
-      "source": "Investing.com News",
-      "publishedAt": 1771192830000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -105,21 +195,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdHJhZGUgYWR2",
-      "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to &apos;internalize&apos; costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771187466000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-TmV3IFplYWxhbmTigJlz",
       "title": "New Zealand’s a2 Milk posts 9.4% rise in interim earnings",
       "summary": "",
@@ -150,44 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJlYXN1cnkgb2ZmaWNp",
-      "title": "Treasury official Hurley set to leave his post after friction with Bessent, Bloomberg News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/treasury-official-hurley-set-to-leave-his-post-after-friction-with-bessent-bloomberg-news-reports-4507305",
-      "source": "Investing.com News",
-      "publishedAt": 1771179155000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIEFJIHRyYWRlIGhh",
       "title": "The AI trade has entered a puzzling phase. Do we know who the winners are anymore?",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/15/jim-cramer-weighs-in-on-the-anthropic-fueled-software-stock-sell-off-.html",
       "source": "CNBC Markets",
       "publishedAt": 1771177891000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0YW55YWh1IHNheXMg",
-      "title": "Netanyahu says US deal with Iran must dismantle nuclear infrastructure",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/netanyahu-deal-with-iran-must-dismantle-nuclear-infrastructure-not-just-stop-enrichment-process-4507303",
-      "source": "Investing.com News",
-      "publishedAt": 1771177382000,
       "lang": "zh-CN",
       "topics": [
         "macro"
