@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771191196559,
-  "crawlUpdatedAt": 1771191196559,
+  "updatedAt": 1771194867672,
+  "crawlUpdatedAt": 1771194867672,
   "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,83 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VHJlYXN1cnkgV2luZeKA",
+      "title": "Treasury Wine’s first-half profit halves, interim dividend suspended",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/treasury-wines-firsthalf-profit-halves-interim-dividend-suspended-4507314",
+      "source": "Investing.com News",
+      "publishedAt": 1771192847000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhbiB0YWtl",
+      "title": "Australian takeover target BlueScope beats estimate with first-half earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australian-takeover-target-bluescope-beats-estimate-with-firsthalf-earnings-4507313",
+      "source": "Investing.com News",
+      "publishedAt": 1771192830000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IFplYWxhbmQgaG9t",
+      "title": "New Zealand home prices dip in January, holiday lull hits demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/new-zealand-home-prices-dip-in-january-holiday-lull-hits-demand-4507312",
+      "source": "Investing.com News",
+      "publishedAt": 1771191390000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkJJIGNvbmZpcm1zIERO",
+      "title": "FBI confirms DNA recovered from glove found near Nancy Guthrie’s home",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/fbi-confirms-dna-recovered-from-glove-found-near-nancy-guthries-home-4507311",
+      "source": "Investing.com News",
+      "publishedAt": 1771190666000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4507310",
+      "source": "Investing.com News",
+      "publishedAt": 1771190403000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2FybmVyIEJyb3Mgd2Vp",
       "title": "Warner Bros weighs reopening sale talks with Paramount, Bloomberg News reports",
@@ -120,87 +197,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VWtyYWluaWFuIGFudGkt",
-      "title": "Ukrainian anti-graft authorities detain ex-minister in major case",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/ukrainian-antigraft-authorities-detain-exminister-in-major-case-4507285",
-      "source": "Investing.com News",
-      "publishedAt": 1771177369000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3JpY2tldC1JbmRpYSB0",
-      "title": "Cricket-India thump Pakistan in grudge match to sail into Super Eight",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/cricketno-handshake-as-pakistan-elect-to-field-against-india-4507296",
-      "source": "Investing.com News",
-      "publishedAt": 1771177350000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsaSBjYWJpbmV0",
-      "title": "Israeli cabinet approves West Bank land registration, Palestinians condemn ’de-facto annexation’",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-defacto-annexation-4507300",
-      "source": "Investing.com News",
-      "publishedAt": 1771177010000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdG9sZCBOZXRh",
-      "title": "Trump told Netanyahu in December he would support Israeli strikes on Iran’s missile program, CBS News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-told-netanyahu-in-december-he-would-support-israeli-strikes-on-irans-missile-program-cbs-news-reports-4507304",
-      "source": "Investing.com News",
-      "publishedAt": 1771176991000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RnJvbSBIeWF0dCB0byBI",
       "title": "From Hyatt to Holiday Inn, America&apos;s free hotel breakfast is facing a K-shaped economic threat",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/15/hotel-free-breakfast-hyatt-holiday-inn-marriott-cost-cuts.html",
       "source": "CNBC Markets",
       "publishedAt": 1771175888000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtRXVyb3Bl",
-      "title": "Analysis-Europe aims to rely less on US defence after Trump’s Greenland push",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/analysiseurope-aims-to-rely-less-on-us-defence-after-trumps-greenland-push-4507301",
-      "source": "Investing.com News",
-      "publishedAt": 1771174827000,
       "lang": "en-US",
       "topics": [
         "macro"
