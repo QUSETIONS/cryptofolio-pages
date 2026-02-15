@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771176819836,
-  "crawlUpdatedAt": 1771176819836,
-  "crawlCount": 19,
+  "updatedAt": 1771181378598,
+  "crawlUpdatedAt": 1771181378598,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RnJvbSBIeWF0dCB0byBI",
-      "title": "From Hyatt to Holiday Inn, America&apos;s free hotel breakfast is facing a K-shaped economic threat",
+      "id": "Investing.com News-VHJlYXN1cnkgb2ZmaWNp",
+      "title": "Treasury official Hurley set to leave his post after friction with Bessent, Bloomberg News reports",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/hotel-free-breakfast-hyatt-holiday-inn-marriott-cost-cuts.html",
+      "url": "https://www.investing.com/news/stock-market-news/treasury-official-hurley-set-to-leave-his-post-after-friction-with-bessent-bloomberg-news-reports-4507305",
+      "source": "Investing.com News",
+      "publishedAt": 1771179155000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIEFJIHRyYWRlIGhh",
+      "title": "The AI trade has entered a puzzling phase. Do we know who the winners are anymore?",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/jim-cramer-weighs-in-on-the-anthropic-fueled-software-stock-sell-off-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771175888000,
+      "publishedAt": 1771177891000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +45,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV0YW55YWh1OiBEZWFs",
-      "title": "Netanyahu: Deal with Iran must dismantle nuclear infrastructure, not just stop enrichment process",
+      "id": "Investing.com News-TmV0YW55YWh1IHNheXMg",
+      "title": "Netanyahu says US deal with Iran must dismantle nuclear infrastructure",
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/netanyahu-deal-with-iran-must-dismantle-nuclear-infrastructure-not-just-stop-enrichment-process-4507303",
       "source": "Investing.com News",
-      "publishedAt": 1771175547000,
+      "publishedAt": 1771177382000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +60,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsaSBjYWJpbmV0",
-      "title": "Israeli cabinet approves West Bank land registration, Palestinians condemn ’de-facto annexation’",
+      "id": "Investing.com News-VWtyYWluaWFuIGFudGkt",
+      "title": "Ukrainian anti-graft authorities detain ex-minister in major case",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-defacto-annexation-4507300",
+      "url": "https://www.investing.com/news/world-news/ukrainian-antigraft-authorities-detain-exminister-in-major-case-4507285",
       "source": "Investing.com News",
-      "publishedAt": 1771175203000,
+      "publishedAt": 1771177369000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -63,13 +80,58 @@
       "summary": "",
       "url": "https://www.investing.com/news/world-news/cricketno-handshake-as-pakistan-elect-to-field-against-india-4507296",
       "source": "Investing.com News",
-      "publishedAt": 1771175188000,
+      "publishedAt": 1771177350000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsaSBjYWJpbmV0",
+      "title": "Israeli cabinet approves West Bank land registration, Palestinians condemn ’de-facto annexation’",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-defacto-annexation-4507300",
+      "source": "Investing.com News",
+      "publishedAt": 1771177010000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdG9sZCBOZXRh",
+      "title": "Trump told Netanyahu in December he would support Israeli strikes on Iran’s missile program, CBS News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-told-netanyahu-in-december-he-would-support-israeli-strikes-on-irans-missile-program-cbs-news-reports-4507304",
+      "source": "Investing.com News",
+      "publishedAt": 1771176991000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJvbSBIeWF0dCB0byBI",
+      "title": "From Hyatt to Holiday Inn, America&apos;s free hotel breakfast is facing a K-shaped economic threat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/hotel-free-breakfast-hyatt-holiday-inn-marriott-cost-cuts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771175888000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -150,36 +212,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgc2F5cyBpdCBpbnRl",
-      "title": "US says it interdicted and boarded vessel defying Trump’s quarantine",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-says-it-interdicted-and-boarded-vessel-defying-trumps-quarantine-4507287",
-      "source": "Investing.com News",
-      "publishedAt": 1771168350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxsIGV5ZXMgb24gTWlk",
-      "title": "All eyes on MidWestOne earnings as Nicolet merger looms",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/all-eyes-on-midwestone-earnings-as-nicolet-merger-looms-93CH-4507297",
-      "source": "Investing.com News",
-      "publishedAt": 1771167278000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmV0aXJlbWVudCBsYXcg",
       "title": "Retirement law lets employers pair emergency savings and 401(k)s, but few are doing so",
       "summary": "",
@@ -216,21 +248,6 @@
       "url": "https://www.cnbc.com/2026/02/15/the-hottest-new-la-coffee-shop-granada-in-is-in-this-couples-backyard.html",
       "source": "CNBC Markets",
       "publishedAt": 1771164901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RHJ1emhiYSBvaWwgc3Vw",
-      "title": "Druzhba oil supplies subject to political blackmail by Kyiv, Slovak PM says",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/druzhba-oil-supplies-subject-to-political-blackmail-by-kyiv-slovak-pm-says-4507295",
-      "source": "Investing.com News",
-      "publishedAt": 1771164055000,
       "lang": "zh-CN",
       "topics": [
         "macro"
