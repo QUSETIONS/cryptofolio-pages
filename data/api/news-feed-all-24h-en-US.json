@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771198520282,
-  "crawlUpdatedAt": 1771198520282,
-  "crawlCount": 24,
+  "updatedAt": 1771210445451,
+  "crawlUpdatedAt": 1771210445451,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SHVhbmcgYW5kIFBpY2hh",
-      "title": "Huang and Pichai among tech CEOs heading to India for major AI summit in a key market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771197345000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXBzdGVpbiBmaWxlcyBm",
       "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/15/epstein-files-fallout-goldman-ruemmler-harvard-yale.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771197135000,
+      "publishedAt": 1771210391000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +28,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV0YW55YWh1IHNheXMg",
-      "title": "Netanyahu says US deal with Iran must dismantle nuclear infrastructure",
+      "id": "Investing.com News-WWVuIHNvZnRlbnMgYWZ0",
+      "title": "Yen softens after strong week, dollar steady as traders weigh rate outlook",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/netanyahu-deal-with-iran-must-dismantle-nuclear-infrastructure-not-just-stop-enrichment-process-4507303",
+      "url": "https://www.investing.com/news/economy-news/yen-softens-after-strong-week-dollar-steady-as-traders-weigh-rate-outlook-4507337",
       "source": "Investing.com News",
-      "publishedAt": 1771196068000,
+      "publishedAt": 1771208667000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgdXNlZCBBbnRocm9w",
+      "title": "US used Anthropic’s Claude during the Venezuela raid, WSJ reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-used-anthropics-claude-during-thevenezuela-raid-wsj-reports-4507336",
+      "source": "Investing.com News",
+      "publishedAt": 1771208305000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,27 +58,149 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdHJhZGUgYWR2",
-      "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to &apos;internalize&apos; costs",
+      "id": "Investing.com News-VVMgaGVhbHRoIHJlZ3Vs",
+      "title": "US health regulators to consider safety status of processed ingredients, RFK Jr. says",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
+      "url": "https://www.investing.com/news/stock-market-news/us-health-regulators-to-consider-safety-status-of-processed-ingredients-rfk-jr-says-4507331",
+      "source": "Investing.com News",
+      "publishedAt": 1771207635000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW7igJlzIGVjb25v",
+      "title": "Japan’s economy limps back to scant growth in Q4, raises test for Takaichi",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/japans-economy-barely-grew-in-q4-misses-forecasts-4507323",
+      "source": "Investing.com News",
+      "publishedAt": 1771207617000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGRyaWZ0cyBhaGVh",
+      "title": "Oil drifts ahead of US-Iran nuclear talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-drifts-ahead-of-usiran-nuclear-talks-4507335",
+      "source": "Investing.com News",
+      "publishedAt": 1771207595000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9ydGggS29yZWHigJlz",
+      "title": "North Korea’s new Congress to reset arms goals as gaps seen in 2021 plan",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/north-koreas-new-congress-to-reset-arms-goals-as-gaps-seen-in-2021-plan-4507334",
+      "source": "Investing.com News",
+      "publishedAt": 1771207230000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBwcmljZXMgc3Rl",
+      "title": "Gold prices steady above $5k/oz, more rate cues awaited",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-prices-steady-above-5koz-more-rate-cues-awaited-4507333",
+      "source": "Investing.com News",
+      "publishedAt": 1771206921000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtRXVyb3Bl",
+      "title": "Analysis-Europe aims to rely less on US defence after Trump’s Greenland push",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/analysiseurope-aims-to-rely-less-on-us-defence-after-trumps-greenland-push-4507301",
+      "source": "Investing.com News",
+      "publishedAt": 1771206554000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxsZWdlZCBCb25kaSBC",
+      "title": "Alleged Bondi Beach gunman makes first court appearance",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/alleged-bondi-beach-gunman-makes-first-court-appearance-4507332",
+      "source": "Investing.com News",
+      "publishedAt": 1771206514000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW7igJlzIGp1bmlv",
+      "title": "Japan’s junior coalition head warns against political meddling in BOJ policy",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/japans-junior-coalition-head-warns-against-political-meddling-in-boj-policy-4507330",
+      "source": "Investing.com News",
+      "publishedAt": 1771205813000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFwYW4mYXBvcztzIGVj",
+      "title": "Japan&apos;s economy avoids technical recession, but fourth-quarter rebound misses expectations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/16/japan-fourth-quarter-gdp-reverses-into-growth-but-misses-expectations-as-rebound-underwhelms.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771196032000,
+      "publishedAt": 1771204902000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T3BlbkNsYXcgZm91bmRl",
-      "title": "OpenClaw founder Steinberger joins OpenAI, open-source bot becomes foundation",
+      "id": "CNBC Markets-QXVzdHJhbGlh4oCZcyBR",
+      "title": "Australia’s Qube Holdings’ shares jump to record high on Macquarie-led $8.3 billion takeover deal",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/openclaw-founder-steinberger-joins-openai-opensource-bot-becomes-foundation-4507315",
-      "source": "Investing.com News",
-      "publishedAt": 1771194990000,
+      "url": "https://www.cnbc.com/2026/02/16/qube-holdings-shares-after-macquarie-8point3-billion-takeover-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771203518000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -93,7 +215,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/15/warner-bros-discovery-paramount-netflix.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771194837000,
+      "publishedAt": 1771199889000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,44 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXVzdHJhbGlhbiB0YWtl",
-      "title": "Australian takeover target BlueScope sees stronger 2H; 1H profit beats estimate",
+      "id": "CNBC Markets-VHJ1bXAgdHJhZGUgYWR2",
+      "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to &apos;internalize&apos; costs",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/australian-takeover-target-bluescope-beats-estimate-with-firsthalf-earnings-4507313",
-      "source": "Investing.com News",
-      "publishedAt": 1771194625000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJlYXN1cnkgV2luZeKA",
-      "title": "Treasury Wine’s first-half profit halves, interim dividend suspended",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/treasury-wines-firsthalf-profit-halves-interim-dividend-suspended-4507314",
-      "source": "Investing.com News",
-      "publishedAt": 1771192847000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IFplYWxhbmQgaG9t",
-      "title": "New Zealand home prices dip in January, holiday lull hits demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/new-zealand-home-prices-dip-in-january-holiday-lull-hits-demand-4507312",
-      "source": "Investing.com News",
-      "publishedAt": 1771191390000,
+      "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771199865000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,72 +240,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RkJJIGNvbmZpcm1zIERO",
-      "title": "FBI confirms DNA recovered from glove found near Nancy Guthrie’s home",
+      "id": "CNBC Markets-T3BlbkNsYXcgY3JlYXRv",
+      "title": "OpenClaw creator Peter Steinberger joining OpenAI, Altman Says",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/fbi-confirms-dna-recovered-from-glove-found-near-nancy-guthries-home-4507311",
-      "source": "Investing.com News",
-      "publishedAt": 1771190666000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4507310",
-      "source": "Investing.com News",
-      "publishedAt": 1771190403000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FybmVyIEJyb3Mgd2Vp",
-      "title": "Warner Bros weighs reopening sale talks with Paramount, Bloomberg News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/warner-bros-weighs-reopening-sale-talks-with-paramount-bloomberg-news-reports-4507308",
-      "source": "Investing.com News",
-      "publishedAt": 1771188871000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IFplYWxhbmTigJlz",
-      "title": "New Zealand’s a2 Milk posts 9.4% rise in interim earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-94-rise-in-interim-earnings-4507307",
-      "source": "Investing.com News",
-      "publishedAt": 1771184907000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVtb2NyYXRzIHdpbGxp",
-      "title": "Democrats willing to spend tens of millions to reshape Virginia voting maps, top lawmaker says",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/democrats-willing-to-spend-tens-of-millions-to-reshape-virginia-voting-maps-top-lawmaker-says-4507306",
-      "source": "Investing.com News",
-      "publishedAt": 1771182766000,
+      "url": "https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771199795000,
       "lang": "en-US",
       "topics": [
         "macro"
