@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771264105764,
-  "crawlUpdatedAt": 1771264105764,
-  "crawlCount": 28,
+  "updatedAt": 1771268244295,
+  "crawlUpdatedAt": 1771268244295,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,162 +13,177 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QXBwbGUgdGFrZXMgb24g",
+      "title": "Apple takes on YouTube and Spotify with new video podcasting push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/16/apple-takes-on-youtube-and-spotify-with-new-video-podcasting-push.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771267550000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SHlhdHQgQ0VPIEhvcGxh",
+      "title": "Hyatt CEO Hoplamazian to succeed Pritzker as board chairman",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/hyatt-ceo-hoplamazian-to-succeed-pritzker-as-board-chairman-93CH-4507759",
+      "source": "Investing.com News",
+      "publishedAt": 1771266335000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29sb21iaWEgaWRlbnRp",
+      "title": "Colombia identifies remains of rebel group priest killed in 1966",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/colombia-identifies-remains-of-rebel-group-priest-killed-in-1966-4507758",
+      "source": "Investing.com News",
+      "publishedAt": 1771266284000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9iZXJ0IER1dmFsbCwg",
+      "title": "Robert Duvall, star of ‘The Godfather’ and ‘Apocalypse Now’, dies at 95, Variety reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/robert-duvall-star-of-the-godfather-and-apocalypse-now-dies-at-95-variety-reports-4507757",
+      "source": "Investing.com News",
+      "publishedAt": 1771266283000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyB1cCAx",
+      "title": "Oil prices up 1% ahead of US-Iran nuclear talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-drifts-ahead-of-usiran-nuclear-talks-4507335",
+      "source": "Investing.com News",
+      "publishedAt": 1771266268000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xpbWF0ZSBDaGFsbGVu",
+      "title": "Climate Challenge: A Decade After Paris Agreement",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/climate-challenge-a-decade-after-paris-agreement-4507755",
+      "source": "Investing.com News",
+      "publishedAt": 1771265553000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW5lcmdlYW4gY29ycmVj",
+      "title": "Energean corrects TASE ex-dividend date for Q4 2025 payout",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/energean-corrects-tase-exdividend-date-for-q4-2025-payout-93CH-4507754",
+      "source": "Investing.com News",
+      "publishedAt": 1771265324000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SHlhdHQgSG90ZWxzIGNo",
+      "title": "Hyatt Hotels chairman Thomas Pritzker to retire, cites Epstein ties",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/hyatt-hotels-chairman-thomas-pritzker-to-retire-cites-epstein-ties-93CH-4507753",
+      "source": "Investing.com News",
+      "publishedAt": 1771265111000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmlnZXJpYSBzYXlzIDEw",
+      "title": "Nigeria says 100 US forces arrive, expanding mission",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/nigeria-says-100-us-forces-arrive-expanding-mission-4507751",
+      "source": "Investing.com News",
+      "publishedAt": 1771264472000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gRW1lcmdp",
+      "title": "JPMorgan Emerging EMEA Securities provides update on Russian lawsuits",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jpmorgan-emerging-emea-securities-provides-update-on-russian-lawsuits-93CH-4507750",
+      "source": "Investing.com News",
+      "publishedAt": 1771264244000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U1RPWFggNjAwIGVkZ2Vz",
+      "title": "STOXX 600 edges higher on financial gains ahead of key earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-buoyed-by-financials-4507464",
+      "source": "Investing.com News",
+      "publishedAt": 1771264104000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VGhlIE5GTCBqdXN0IHdy",
       "title": "The NFL just wrapped a record-breaking season. Here’s why next year’s going to be even bigger",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/15/nfl-just-had-record-breaking-season-next-year-will-be-bigger.html",
       "source": "CNBC Markets",
       "publishedAt": 1771263336000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9ubmVsbGV5IEZpbmFu",
-      "title": "Donnelley Financial earnings on deck: Can IPO rebound help?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/donnelley-financial-earnings-on-deck-can-ipo-rebound-help-93CH-4507747",
-      "source": "Investing.com News",
-      "publishedAt": 1771262880000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
-      "title": "FTSE 100 today: UK shares start week in green ahead of key data; SkinBio slumps",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-uk-shares-start-week-in-green-ahead-of-key-data-skinbio-slumps-4507589",
-      "source": "Investing.com News",
-      "publishedAt": 1771262768000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJvbSBPcGVuQUkgdG8g",
-      "title": "From OpenAI to Google, India hosts global AI summit",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/from-openai-to-google-india-hosts-global-ai-summit-4507461",
-      "source": "Investing.com News",
-      "publishedAt": 1771262667000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JlYXQgTGFrZXMgRHJl",
-      "title": "Great Lakes Dredge earnings on deck as Saltchuk deal looms",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/great-lakes-dredge-earnings-on-deck-as-saltchuk-deal-looms-93CH-4507746",
-      "source": "Investing.com News",
-      "publishedAt": 1771262663000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TEdJIEhvbWVzIHNldCB0",
-      "title": "LGI Homes set to report earnings amid housing market squeeze",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/lgi-homes-set-to-report-earnings-amid-housing-market-squeeze-93CH-4507745",
-      "source": "Investing.com News",
-      "publishedAt": 1771262581000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmVvR2Vub21pY3MgZWFy",
-      "title": "NeoGenomics earnings in the spotlight as analysts eye profitability",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/neogenomics-earnings-in-the-spotlight-as-analysts-eye-profitability-93CH-4507744",
-      "source": "Investing.com News",
-      "publishedAt": 1771262495000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGlsbG1hbiBlYXJuaW5n",
-      "title": "Hillman earnings in spotlight: Can housing rebound drive 2026?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/hillman-earnings-in-spotlight-can-housing-rebound-drive-2026-93CH-4507743",
-      "source": "Investing.com News",
-      "publishedAt": 1771262400000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S3JlbWxpbiByZWplY3Rz",
-      "title": "Kremlin rejects claim it poisoned Navalny with dart frog toxin, widow says truth is out",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/kremlin-rejects-claim-it-poisoned-navalny-with-dart-frog-toxin-widow-says-truth-is-out-4507742",
-      "source": "Investing.com News",
-      "publishedAt": 1771262311000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGx1czUwMCBleGVjdXRp",
-      "title": "Plus500 executives to sell 1.5 million shares for personal planning",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/plus500-executives-to-sell-15-million-shares-for-personal-planning-93CH-4507741",
-      "source": "Investing.com News",
-      "publishedAt": 1771262290000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-ZVRvcm8gZWFybmluZ3Mg",
-      "title": "eToro earnings on deck: Can social trading edge survive rivals?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/etoro-earnings-on-deck-can-social-trading-edge-survive-rivals-93CH-4507740",
-      "source": "Investing.com News",
-      "publishedAt": 1771262273000,
       "lang": "zh-CN",
       "topics": [
         "macro"
