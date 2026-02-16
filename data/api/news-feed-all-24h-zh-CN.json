@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771249695659,
-  "crawlUpdatedAt": 1771249695659,
-  "crawlCount": 32,
+  "updatedAt": 1771253558637,
+  "crawlUpdatedAt": 1771253558637,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,44 +13,134 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England to cut rates in March, timing of further cuts unclear: Reuters poll",
+      "id": "Investing.com News-VHJpcGxlIFBvaW50IFZl",
+      "title": "Triple Point Venture VCT announces new share allotment",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bank-of-england-to-cut-rates-in-march-timing-of-further-cuts-unclear-reuters-poll-4507651",
+      "url": "https://www.investing.com/news/company-news/triple-point-venture-vct-announces-new-share-allotment-93CH-4507673",
       "source": "Investing.com News",
-      "publishedAt": 1771248268000,
+      "publishedAt": 1771252353000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-aVNoYXJlcyBQaHlzaWNh",
-      "title": "iShares Physical Metals issues new tranche of gold ETC securities",
+      "id": "Investing.com News-TWVyY3VyeSBHZW5lcmFs",
+      "title": "Mercury General earnings on deck as margins face test",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ishares-physical-metals-issues-new-tranche-of-gold-etc-securities-93CH-4507652",
+      "url": "https://www.investing.com/news/earnings/mercury-general-earnings-on-deck-as-margins-face-test-93CH-4507672",
       "source": "Investing.com News",
-      "publishedAt": 1771248148000,
+      "publishedAt": 1771252326000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3dpc3MgRmlybXVwIExh",
+      "title": "Swiss Firmup Launches as a Prop Firm Focused on Transparent Futures Trading",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/swiss-firmup-launches-as-a-prop-firm-focused-on-transparent-futures-trading-4507671",
+      "source": "Investing.com News",
+      "publishedAt": 1771252246000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG9uZy10ZXJtIHVuZW1w",
+      "title": "Long-term unemployment is becoming &apos;a status quo&apos; in today&apos;s job market: It&apos;s a &apos;mental war,&apos; job seeker says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/16/long-term-unemployment-becoming-a-status-quo-in-todays-job-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771252201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFyZW50cyB3aXRoIHN0",
+      "title": "Parents with student loans have a short window to secure affordable repayment and forgiveness",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/16/student-loan-parent-plus-forgiveness.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771252201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RFVCQUkgLSBPTU5JWUFU",
+      "title": "DUBAI - OMNIYAT Group reports record $5.4 billion in sales for 2025",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/dubai--omniyat-group-reports-record-54-billion-in-sales-for-2025-93CH-4507668",
+      "source": "Investing.com News",
+      "publishedAt": 1771251406000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3R0ZXIgVGFpbCBlYXJu",
+      "title": "Otter Tail earnings on deck: Can diversified model deliver growth?",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/otter-tail-earnings-on-deck-can-diversified-model-deliver-growth-93CH-4507667",
+      "source": "Investing.com News",
+      "publishedAt": 1771251397000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3JlZW5Qb3dlciBNb3Rv",
+      "title": "GreenPower Motor regains compliance with Nasdaq listing requirements",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/greenpower-motor-regains-compliance-with-nasdaq-listing-requirements-93CH-4507666",
+      "source": "Investing.com News",
+      "publishedAt": 1771250731000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [
-        "XAU"
+        "NDX"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qnl0ZURhbmNlIHBsZWRn",
-      "title": "ByteDance pledges to prevent unauthorised IP use on AI video tool after Disney threat",
+      "id": "Investing.com News-UEpNIGFwcHJvdmVzIG1h",
+      "title": "PJM approves major transmission project for central Ohio",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/disney-sends-ceaseanddesist-to-bytedance-over-aigenerated-videos-4507348",
+      "url": "https://www.investing.com/news/company-news/pjm-approves-major-transmission-project-for-central-ohio-93CH-4507665",
       "source": "Investing.com News",
-      "publishedAt": 1771247546000,
+      "publishedAt": 1771250711000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -60,12 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-aVNoYXJlcyBQaHlzaWNh",
-      "title": "iShares Physical Metals issues new tranche of silver ETC securities",
+      "id": "Investing.com News-UEpNIGFwcHJvdmVzIG1h",
+      "title": "PJM approves major electric transmission project for central Ohio",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ishares-physical-metals-issues-new-tranche-of-silver-etc-securities-93CH-4507647",
+      "url": "https://www.investing.com/news/company-news/pjm-approves-major-electric-transmission-project-for-central-ohio-93CH-4507664",
       "source": "Investing.com News",
-      "publishedAt": 1771247334000,
+      "publishedAt": 1771250705000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -75,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Vm9sa3N3YWdlbiBwbGFu",
-      "title": "Volkswagen plans to cut costs by 20% by end 2028, Manager Magazin reports",
+      "id": "CNBC Markets-SGVyZeKAmXMgaG93IG11",
+      "title": "Here’s how much athletes at the 2026 Winter Olympics get for winning medals",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/volkswagen-plans-to-cut-costs-by-20-by-end-2028-manager-magazin-reports-4507390",
-      "source": "Investing.com News",
-      "publishedAt": 1771247186000,
+      "url": "https://www.cnbc.com/2026/02/16/2026-winter-olympics-medal-bonus-payouts-by-country-athletes-milano-cortina.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771250576000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -90,12 +180,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q29tcGFzcyBQYXRod2F5",
-      "title": "Compass Pathways to release new clinical data on psilocybin trials",
+      "id": "Investing.com News-VmVydGlHSVMgYWNxdWlz",
+      "title": "VertiGIS acquisition of 1Spatial sees reduction in supporting shares",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/compass-pathways-to-release-new-clinical-data-on-psilocybin-trials-93CH-4507643",
+      "url": "https://www.investing.com/news/company-news/vertigis-acquisition-of-1spatial-sees-reduction-in-supporting-shares-93CH-4507663",
       "source": "Investing.com News",
-      "publishedAt": 1771247107000,
+      "publishedAt": 1771250558000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29ub2NvIGZhY2VzIGVh",
+      "title": "Sonoco faces earnings test as metal packaging pivot continues",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/sonoco-faces-earnings-test-as-metal-packaging-pivot-continues-93CH-4507662",
+      "source": "Investing.com News",
+      "publishedAt": 1771250528000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,63 +210,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2Fybml2YWwgdHJpYnV0",
-      "title": "Carnival tribute to Brazil’s Lula in Rio sparks political backlash",
+      "id": "CNBC Markets-U29mdHdhcmUgbWFrZXIg",
+      "title": "Software maker Dassault Systèmes falls 7% as AI fears persist; Europe markets edge higher",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/carnival-tribute-to-brazils-lula-in-rio-sparks-political-backlash-4507641",
-      "source": "Investing.com News",
-      "publishedAt": 1771246848000,
+      "url": "https://www.cnbc.com/2026/02/16/europe-markets-stoxx-600-ftse-100-msc-defense.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771250132000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNzYWlsYW50cyBraWxs",
-      "title": "Assailants kill at least 30 in northwest Nigeria villages, residents say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/assailants-kill-at-least-30-in-northwest-nigeria-villages-residents-say-4507640",
-      "source": "Investing.com News",
-      "publishedAt": 1771246832000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Fub2ZpIHRvIGV4cGFu",
-      "title": "Sanofi to expand India operations, add jobs",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sanofi-to-expand-india-operations-add-jobs-93CH-4507639",
-      "source": "Investing.com News",
-      "publishedAt": 1771246707000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF0V2VzdCBzaGFyZXMg",
-      "title": "NatWest shares climb after UBS raises earnings forecasts",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/natwest-shares-climb-after-ubs-raises-earnings-forecasts-4507638",
-      "source": "Investing.com News",
-      "publishedAt": 1771246448000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -177,36 +237,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCZhcG9zO3MgbmV4",
-      "title": "What&apos;s next for Cuba? Trump turns the screws as the island runs out of jet fuel",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/14/cuba-fuel-shortage-trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771240655000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29mdHdhcmUgbWFrZXIg",
-      "title": "Software maker Dassault Systèmes falls 8% as AI fears persist; Europe markets edge higher",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/16/europe-markets-stoxx-600-ftse-100-msc-defense.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771238773000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -276,21 +306,6 @@
       "url": "https://www.cnbc.com/2026/02/16/bytedance-safegaurds-seedance-ai-copyright-disney-mpa-netflix-paramount-sony-universal.html",
       "source": "CNBC Markets",
       "publishedAt": 1771231141000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZeKAmXMgaG93IG11",
-      "title": "Here’s how much athletes at the 2026 Winter Olympics get for winning medals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/16/2026-winter-olympics-medal-bonus-payouts-by-country-athletes-milano-cortina.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771226785000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -449,51 +464,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmV0aXJlbWVudCBsYXcg",
-      "title": "Retirement law lets employers pair emergency savings and 401(k)s, but few are doing so",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/emergency-savings-401ks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771166992000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SSZhcG9zO20gYSBwc3lj",
-      "title": "I&apos;m a psychologist who studies couples—people in the happiest relationships never underestimate 5 &apos;powerful&apos; habits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/psychologist-people-in-the-happiest-relationships-never-underestimate-5-habits.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771166286000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIGhvdHRlc3QgbmV3",
-      "title": "The hottest new LA coffee shop is in this couple&apos;s backyard: &apos;People really want community&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/the-hottest-new-la-coffee-shop-granada-in-is-in-this-couples-backyard.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771164901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
