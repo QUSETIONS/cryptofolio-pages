@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771281502229,
-  "crawlUpdatedAt": 1771281502229,
-  "crawlCount": 31,
+  "updatedAt": 1771285069420,
+  "crawlUpdatedAt": 1771285069420,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,83 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RnJvbSBIeWF0dCB0byBI",
+      "title": "From Hyatt to Holiday Inn, America&apos;s free hotel breakfast is facing a K-shaped economic threat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/15/hotel-free-breakfast-hyatt-holiday-inn-marriott-cost-cuts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771284980000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SHlhdHQgQ2hhaXJtYW4g",
+      "title": "Hyatt Chairman Pritzker leaves board over Epstein ties",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/16/hyatt-chairman-pritzker-leaves-board-over-epstein-ties.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771284177000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJlYXN1cnkgV2luZSBw",
+      "title": "Treasury Wine pauses dividend after large writedown on US business",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/treasury-wine-pauses-dividend-after-large-writedown-on-us-business-4507788",
+      "source": "Investing.com News",
+      "publishedAt": 1771281807000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlZGVyaWNrIFdpc2Vt",
+      "title": "Frederick Wiseman, American documentary filmmaker, dies at 96",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/frederick-wiseman-american-documentary-filmmaker-dies-at-96-4507787",
+      "source": "Investing.com News",
+      "publishedAt": 1771281763000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3V0aHJpZSBmYW1pbHkg",
+      "title": "Guthrie family members not suspects in Arizona kidnapping, sheriff says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/guthrie-family-not-suspects-in-arizona-kidnapping-sheriff-says-4507783",
+      "source": "Investing.com News",
+      "publishedAt": 1771281747000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-RXBzdGVpbiBmaWxlcyBm",
       "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
@@ -28,33 +105,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SHlhdHQgQ2hhaXJtYW4g",
-      "title": "Hyatt Chairman Pritzker leaves board over Epstein ties",
+      "id": "Investing.com News-QkhQIEdyb3Vw4oCZcyBm",
+      "title": "BHP Group’s first-half profit jumps 22%, topping estimates",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/16/hyatt-chairman-pritzker-leaves-board-over-epstein-ties.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771281243000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJlZGVyaWNrIFdpc2Vt",
-      "title": "Frederick Wiseman, American documentary filmmaker, dies at 96",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/frederick-wiseman-american-documentary-filmmaker-dies-at-96-4507787",
+      "url": "https://www.investing.com/news/stock-market-news/bhp-groups-firsthalf-profit-jumps-22-on-higher-commodity-prices-4507785",
       "source": "Investing.com News",
-      "publishedAt": 1771279954000,
+      "publishedAt": 1771280663000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -79,36 +141,6 @@
       "url": "https://www.cnbc.com/2026/02/16/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
       "source": "CNBC Markets",
       "publishedAt": 1771279323000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QkhQIEdyb3Vw4oCZcyBm",
-      "title": "BHP Group’s first-half profit jumps 22% on higher commodity prices",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bhp-groups-firsthalf-profit-jumps-22-on-higher-commodity-prices-4507785",
-      "source": "Investing.com News",
-      "publishedAt": 1771278885000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3V0aHJpZSBmYW1pbHkg",
-      "title": "Guthrie family not suspects in Arizona kidnapping, sheriff says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/guthrie-family-not-suspects-in-arizona-kidnapping-sheriff-says-4507783",
-      "source": "Investing.com News",
-      "publishedAt": 1771278867000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -186,21 +218,6 @@
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-019-4507777",
       "source": "Investing.com News",
       "publishedAt": 1771276802000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aSBzYXlzIGdlb3Bv",
-      "title": "Citi says geopolitics to support oil near term; peace deals seen lowering prices",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/citi-says-geopolitics-to-support-oil-near-term-peace-deals-seen-lowering-prices-4507776",
-      "source": "Investing.com News",
-      "publishedAt": 1771275987000,
       "lang": "en-US",
       "topics": [
         "macro"
