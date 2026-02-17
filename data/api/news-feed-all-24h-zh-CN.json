@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771314890725,
-  "crawlUpdatedAt": 1771314890725,
-  "crawlCount": 28,
+  "updatedAt": 1771318693790,
+  "crawlUpdatedAt": 1771318693790,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets set to open lower as earnings remain in focus",
+      "id": "CNBC Markets-U3RlcmxpbmcgZmFsbHMg",
+      "title": "Sterling falls as UK unemployment hits highest rate in five years",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/17/european-markets-stoxx-600-ftse-dax-cac-miner-earnings-data.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771314636000,
+      "publishedAt": 1771318553000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SVRNIFBvd2VyIGxpZnRz",
+      "title": "ITM Power lifts revenue guidance for FY26; stock gains 4%",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/itm-power-lifts-revenue-guidance-for-fy26-stock-gains-4-4508023",
+      "source": "Investing.com News",
+      "publishedAt": 1771318415000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,27 +43,134 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnJhZW1hciBhcHBvaW50",
-      "title": "Braemar appoints Grant Foley as new CEO as James Gundy steps down",
+      "id": "Investing.com News-SW50ZXNhIFNhbnBhb2xv",
+      "title": "Intesa Sanpaolo completes €1.25 billion AT1 notes offering without stabilization",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/braemar-appoints-grant-foley-as-new-ceo-as-james-gundy-steps-down-93CH-4507920",
+      "url": "https://www.investing.com/news/company-news/intesa-sanpaolo-completes-125-billion-at1-notes-offering-without-stabilization-93CH-4508022",
       "source": "Investing.com News",
-      "publishedAt": 1771313762000,
+      "publishedAt": 1771318386000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWV0YSwgVGlrVG9rIGFu",
-      "title": "Meta, TikTok and X face Spanish probe over AI-generated child abuse",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields move lower as investors look ahead to more delayed data",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/meta-tiktok-and-x-face-spanish-probe-over-aigenerated-child-abuse-93CH-4507918",
+      "url": "https://www.cnbc.com/2026/02/17/us-treasury-yields-investors-look-ahead-to-more-delayed-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771318214000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QVhBIHN0b2NrIHJhdGlu",
+      "title": "AXA stock rating initiated at Outperform by RBC Capital on business transformation",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/axa-stock-rating-initiated-at-outperform-by-rbc-capital-on-business-transformation-93CH-4508018",
       "source": "Investing.com News",
-      "publishedAt": 1771313561000,
+      "publishedAt": 1771317900000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGViZW5oYW1zIEdyb3Vw",
+      "title": "Debenhams Group secures over £24 million in support for fundraise",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/debenhams-group-secures-over-24-million-in-support-for-fundraise-93CH-4507990",
+      "source": "Investing.com News",
+      "publishedAt": 1771317816000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
+      "title": "European shares steady as geopolitical uncertainty dominates mood",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-steady-as-geopolitical-uncertainty-dominates-mood-4507989",
+      "source": "Investing.com News",
+      "publishedAt": 1771317763000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5kaWEmYXBvcztzIEFk",
+      "title": "India&apos;s Adani to invest $100 billion in AI data centers over the next decade",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771317645000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2FyYW50aSBCQlZBIHNl",
+      "title": "Garanti BBVA selects EY as external auditor for 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/garanti-bbva-selects-ey-as-external-auditor-for-2026-93CH-4507987",
+      "source": "Investing.com News",
+      "publishedAt": 1771317587000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFuIGVjb25vbXkg",
+      "title": "German economy remains stuck, 1.0% growth in 2026 expected, DIHK says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/german-economy-remains-stuck-10-growth-in-2026-expected-dihk-says-4507983",
+      "source": "Investing.com News",
+      "publishedAt": 1771317389000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIHJlaXRl",
+      "title": "Jefferies reiterates Buy rating on Albemarle stock with $230 price target",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-rating-on-albemarle-stock-with-230-price-target-93CH-4507981",
+      "source": "Investing.com News",
+      "publishedAt": 1771317305000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -58,123 +180,33 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SUhHIHBvc3RzIDE2JSBF",
-      "title": "IHG posts 16% EPS growth but Americas RevPAR falls amid travel slowdown",
+      "id": "Investing.com News-SmVmZmVyaWVzIGRvd25n",
+      "title": "Jefferies downgrades Enbridge stock to Hold despite price target increase",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/ihg-posts-16-eps-growth-but-americas-revpar-falls-amid-travel-slowdown-4507917",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-enbridge-stock-to-hold-despite-price-target-increase-93CH-4507980",
       "source": "Investing.com News",
-      "publishedAt": 1771313496000,
+      "publishedAt": 1771317304000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2lyaXVzIFJlYWwgRXN0",
-      "title": "Sirius Real Estate plans £75m equity raise to fund expansion",
+      "id": "Investing.com News-SmVmZmVyaWVzIGFzc3Vt",
+      "title": "Jefferies assumes coverage on Cellectis stock with Buy rating",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sirius-real-estate-plans-75m-equity-raise-to-fund-expansion-93CH-4507916",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-assumes-coverage-on-cellectis-stock-with-buy-rating-93CH-4507979",
       "source": "Investing.com News",
-      "publishedAt": 1771313490000,
+      "publishedAt": 1771317302000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG9nZXRoZXIgRmluYW5j",
-      "title": "Together Financial Services reports loan book growth to £8.1bn",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/together-financial-services-reports-loan-book-growth-to-81bn-93CH-4507914",
-      "source": "Investing.com News",
-      "publishedAt": 1771313366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGFja3NhdyByZXBvcnRz",
-      "title": "Hacksaw reports strong Q4 with 31% revenue growth, announces buyback",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hacksaw-reports-strong-q4-with-31-revenue-growth-announces-buyback-93CH-4507913",
-      "source": "Investing.com News",
-      "publishedAt": 1771313276000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW50b2ZhZ2FzdGEgcmVw",
-      "title": "Antofagasta reports record EBITDA, keeps 2026 output outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/antofagasta-reports-record-ebitda-keeps-2026-output-outlook-4507912",
-      "source": "Investing.com News",
-      "publishedAt": 1771313108000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLUZvcmVp",
-      "title": "Exclusive-Foreign cars flow to Russia through China, skirting Ukraine war sanctions",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveforeign-cars-flow-to-russia-through-china-skirting-ukraine-war-sanctions-4507904",
-      "source": "Investing.com News",
-      "publishedAt": 1771312708000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3R0b2JvY2sgcmVwb3J0",
-      "title": "Ottobock reports strong Q4, confirms 2026 outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ottobock-reports-strong-q4-confirms-2026-outlook-93CH-4507910",
-      "source": "Investing.com News",
-      "publishedAt": 1771312642000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW50ZXJDb250aW5lbnRh",
-      "title": "InterContinental Hotels Group launches $950 million share buyback",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/intercontinental-hotels-group-launches-950-million-share-buyback-93CH-4507909",
-      "source": "Investing.com News",
-      "publishedAt": 1771312559000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -183,7 +215,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771298438000,
+      "publishedAt": 1771315448000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -409,21 +441,6 @@
       "url": "https://www.cnbc.com/2026/02/15/some-europeans-welcome-rubios-warm-words-others-remain-cautious.html",
       "source": "CNBC Markets",
       "publishedAt": 1771232399000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qnl0ZURhbmNlIHNheXMg",
-      "title": "ByteDance says it will add safeguards to Seedance 2.0 following Hollywood backlash",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/16/bytedance-safegaurds-seedance-ai-copyright-disney-mpa-netflix-paramount-sony-universal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771231141000,
       "lang": "zh-CN",
       "topics": [
         "macro"
