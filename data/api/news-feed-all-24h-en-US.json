@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771436142302,
-  "crawlUpdatedAt": 1771436142302,
-  "crawlCount": 40,
+  "updatedAt": 1771441628713,
+  "crawlUpdatedAt": 1771441628713,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,15 +13,259 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgSnIuIGNhbGxz",
-      "title": "Trump Jr. calls banking a &apos;Ponzi scheme&apos; that forced family to create crypto business",
+      "id": "CNBC Markets-RmVkIG9mZmljaWFscyBz",
+      "title": "Fed officials split on where interest rates should go, minutes say",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/trump-world-liberty-stablecoin-crypto-banks-ponzi.html",
+      "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771435368000,
+      "publishedAt": 1771441609000,
       "lang": "en-US",
       "topics": [
-        "crypto"
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-WnVja2VyYmVyZyB0ZXN0",
+      "title": "Zuckerberg testimony: Judge threatens to hold anyone recording with AI glasses in contempt",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771441605000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIGlzIGNs",
+      "title": "Anthropic is clashing with the Pentagon over AI use. Here&apos;s what each side wants",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/anthropic-pentagon-ai-defense-war-surveillance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771441151000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3BwZW5oZWltZXIgcmFp",
+      "title": "Oppenheimer raises Travel + Leisure stock price target on earnings beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-raises-travel--leisure-stock-price-target-on-earnings-beat-93CH-4511847",
+      "source": "Investing.com News",
+      "publishedAt": 1771440670000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBUcmVhc3VyeSBj",
+      "title": "U.S. Treasury clarifies payment rules for companies in Venezuelan oil",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-treasury-clarifies-payment-rules-for-companies-in-venezuelan-oil-93CH-4511845",
+      "source": "Investing.com News",
+      "publishedAt": 1771440597000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGVrc3Ryb20sIFN0cmVh",
+      "title": "Lekstrom, Streamex executive chairman, buys $50k in STEX",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/lekstrom-streamex-executive-chairman-buys-50k-in-stex-93CH-4511844",
+      "source": "Investing.com News",
+      "publishedAt": 1771440559000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUl2b3J5",
+      "title": "Exclusive-Ivory Coast considers following Ghana with cocoa price cut, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/exclusiveivory-coast-considers-following-ghana-with-cocoa-price-cut-sources-say-4511843",
+      "source": "Investing.com News",
+      "publishedAt": 1771440553000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2F5cyBvaWwgY29t",
+      "title": "US says oil companies must pay local taxes, fees to Venezuelan government",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-says-oil-companies-must-pay-local-taxes-fees-to-venezuelan-government-4511841",
+      "source": "Investing.com News",
+      "publishedAt": 1771440515000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBQUkUgMTRBIFNw",
+      "title": "Form PRE 14A Spire Inc For: 18 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-pre-14a-spire-inc-for-18-february-93CH-4511840",
+      "source": "Investing.com News",
+      "publishedAt": 1771440496000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hpdGUgSG91c2Ugc2F5",
+      "title": "White House says Iran would be wise to make deal to avoid conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/white-house-says-iran-would-be-wise-to-make-deal-to-avoid-conflict-93CH-4511839",
+      "source": "Investing.com News",
+      "publishedAt": 1771440425000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQ2JvZSBH",
+      "title": "Form 144 Cboe Global Markets For: 18 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-cboe-global-markets-for-18-february-93CH-4511837",
+      "source": "Investing.com News",
+      "publishedAt": 1771440316000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBDbG91",
+      "title": "Form 13D/A Clough Global Equity Fund For: 18 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13da-clough-global-equity-fund-for-18-february-93CH-4511836",
+      "source": "Investing.com News",
+      "publishedAt": 1771440309000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9ydGhsYW5kIGRvd25n",
+      "title": "Northland downgrades Camtek stock rating despite raising price target",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/northland-downgrades-camtek-stock-rating-despite-raising-price-target-93CH-4511832",
+      "source": "Investing.com News",
+      "publishedAt": 1771440181000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgQUkgcHV0cyB0aGUg",
+      "title": "As AI puts the squeeze on entry-level jobs, teens remain optimistic about their future employability, report finds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/as-ai-puts-the-squeeze-on-entry-level-jobs-teens-remain-optimistic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771438948000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkRBIGFncmVlcyB0byBy",
+      "title": "FDA agrees to review Moderna’s mRNA flu vaccine application in a reversal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/fda-agrees-to-review-modernas-flu-shot-application-after-refusal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771438864000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGVzIFdleG5lciBzYXlz",
+      "title": "Les Wexner says &apos;diabolical&apos; Jeffrey Epstein &apos;duped&apos; him, denies wrongdoing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771438130000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7Q3JhcCZhcG9z",
+      "title": "&apos;Crap&apos;: Stephen Colbert blasts CBS for denying it blocked James Talarico interview from air",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/stephen-colbert-cbs-james-talarico-paramount-fcc-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771437117000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -58,203 +302,17 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmV0Qmx1ZSBhdCBCYXJj",
-      "title": "JetBlue at Barclays Conference: Strategic Outlook and Growth Plans",
+      "id": "CNBC Markets-MSBidXkgYW5kIDIgc2Fs",
+      "title": "1 buy and 2 sales — how we&apos;re using recent stock market swings to our advantage",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/jetblue-at-barclays-conference-strategic-outlook-and-growth-plans-93CH-4511740",
-      "source": "Investing.com News",
-      "publishedAt": 1771434835000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkNDIGNoYWlyIGRlbmll",
-      "title": "FCC chair denies censoring Colbert interview, confirms investigating ABC’s ’The View’",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fcc-chair-denies-censoring-colbert-interview-confirms-investigating-abcs-the-view-4511723",
-      "source": "Investing.com News",
-      "publishedAt": 1771434832000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9vZHnigJlzIGV4ZWN1",
-      "title": "Moody’s executives dismiss AI fears after upbeat 2026 forecast, shares rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/moodys-forecasts-upbeat-2026-profit-on-strong-demand-for-credit-ratings-4510892",
-      "source": "Investing.com News",
-      "publishedAt": 1771434793000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0YeKAmXMgWnVja2Vy",
-      "title": "Meta’s Zuckerberg faces questioning at youth addiction trial",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/metas-zuckerberg-faces-questioning-at-youth-addiction-trial-4510360",
-      "source": "Investing.com News",
-      "publishedAt": 1771434779000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBleHBhbmRzIGxv",
-      "title": "BofA expands loyalty program to attract more customers",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-expands-loyalty-program-to-attract-more-customers-4511738",
-      "source": "Investing.com News",
-      "publishedAt": 1771434757000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3dlZGJhbmsgYW5ub3Vu",
-      "title": "Swedbank announces annual general meeting for March 24",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/swedbank-announces-annual-general-meeting-for-march-24-93CH-4511737",
-      "source": "Investing.com News",
-      "publishedAt": 1771434747000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJlbGFuZCBtdWxscyBz",
-      "title": "Ireland mulls social media ban for teens as part of AI strategy - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ireland-mulls-social-media-ban-for-teens-as-part-of-ai-strategy--bloomberg-93CH-4511736",
-      "source": "Investing.com News",
-      "publishedAt": 1771434727000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
-      "title": "FTSE 100 today: Stocks jump on cooling inflation, pound lower; BAE, Glencore rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-up-as-uk-inflation-cools-pound-rebounds-bae-glencore-in-focus-4510188",
-      "source": "Investing.com News",
-      "publishedAt": 1771434691000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: OneSpaWorld Q4 2025 earnings miss, stock dips",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-onespaworld-q4-2025-earnings-miss-stock-dips-93CH-4511735",
-      "source": "Investing.com News",
-      "publishedAt": 1771434677000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9sbGFyIHJpc2VzIGFo",
-      "title": "Dollar rises ahead of Fed minutes; sterling turns lower as traders parse CPI",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/dollar-edges-higher-ahead-of-fed-minutes-sterling-gains-post-cpi-4510274",
-      "source": "Investing.com News",
-      "publishedAt": 1771434663000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-WnVja2VyYmVyZyB3YWxr",
-      "title": "Zuckerberg walks into court, flanked by entourage in Meta Ray-Ban AI smart glasses",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html",
+      "url": "https://www.cnbc.com/2026/02/18/1-buy-and-2-sales-how-were-using-recent-stock-market-swings-to-advantage.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771434422000,
+      "publishedAt": 1771434612000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVyIGlzIGxvb2tp",
-      "title": "Cramer is looking to nibble on a software stock and bail on a health-care name",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/cramer-looks-to-nibble-on-a-software-stock-bail-on-a-health-care-name-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771434058000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGFzc2V0dCBzYXlzIGF1",
-      "title": "Hassett says authors of New York Fed tariff study should be disciplined: &apos;Worst paper I&apos;ve ever seen&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/hassett-says-authors-of-new-york-fed-tariff-study-should-be-disciplined-worst-paper-ive-ever-seen.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771432365000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -289,72 +347,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RkRBIGFncmVlcyB0byBy",
-      "title": "FDA agrees to review Moderna’s mRNA flu vaccine application in a reversal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/fda-agrees-to-review-modernas-flu-shot-application-after-refusal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771431435000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlsbGlvbmFpcmUgTGVz",
-      "title": "Billionaire Les Wexner&apos;s congressional deposition over Jeffrey Epstein ties is underway",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771431048000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RkRBIGNoaWVmIE1hcnR5",
       "title": "FDA chief Marty Makary says &apos;everything should be over the counter&apos; unless drug is unsafe or addictive",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/18/fda-chief-marty-makary-more-drugs-should-be-over-the-counter.html",
       "source": "CNBC Markets",
       "publishedAt": 1771429729000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIGlzIHBhcnRu",
-      "title": "Nvidia is partnering with major Indian VC firms in search for the country&apos;s next AI start-ups",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/nvidia-india-ai-vc-data-center-partners.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771428061000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7Q3JhcCZhcG9z",
-      "title": "&apos;Crap&apos;: Stephen Colbert blasts CBS for denying it blocked James Talarico interview from air",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/stephen-colbert-cbs-james-talarico-paramount-fcc-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771426552000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -603,21 +601,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIHJlbGVh",
-      "title": "Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771353518000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
