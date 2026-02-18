@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771441629066,
-  "crawlUpdatedAt": 1771441629066,
+  "updatedAt": 1771445087345,
+  "crawlUpdatedAt": 1771445087345,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771441609000,
+      "publishedAt": 1771444968000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -31,16 +31,268 @@
     },
     {
       "id": "CNBC Markets-WnVja2VyYmVyZyB0ZXN0",
-      "title": "Zuckerberg testimony: Judge threatens to hold anyone recording with AI glasses in contempt",
+      "title": "Zuckerberg testimony: Upping engagement on Instagram was not a company goal",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771441605000,
+      "publishedAt": 1771444905000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGp1bXBzIDQlIGFm",
+      "title": "Oil jumps 4% after Vance says Iran ignored key U.S. demands, military strikes on the table",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/oil-prices-today-iran-trump-nuclear-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771444836000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWVyeiB0byBzZWVrIHN0",
+      "title": "Merz to seek strategic partnerships with China amid US tariff push",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/merz-to-seek-strategic-partnerships-with-china-amid-us-tariff-push-93CH-4511924",
+      "source": "Investing.com News",
+      "publishedAt": 1771444693000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3BlbkFJIGxhdW5jaGVz",
+      "title": "OpenAI launches EVMbench to test AI agents on smart contract security",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/openai-launches-evmbench-to-test-ai-agents-on-smart-contract-security-93CH-4511923",
+      "source": "Investing.com News",
+      "publishedAt": 1771444645000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWxsZW4gQnJ5YW50LCBF",
+      "title": "Ellen Bryant, EZCORP chief legal officer, sells $500k in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ellen-bryant-ezcorp-chief-legal-officer-sells-500k-in-stock-93CH-4511922",
+      "source": "Investing.com News",
+      "publishedAt": 1771444542000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgUklDSFRF",
+      "title": "Form 144 RICHTECH ROBOTICS INC. For: 18 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-richtech-robotics-inc-for-18-february-93CH-4511920",
+      "source": "Investing.com News",
+      "publishedAt": 1771444462000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBD",
+      "title": "Goldman Sachs CEO David Solomon reveals he owns Bitcoin - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/goldman-sachs-ceo-david-solomon-reveals-he-owns-bitcoin--bloomberg-93CH-4511919",
+      "source": "Investing.com News",
+      "publishedAt": 1771444448000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29jYS1Db2xhIEJvdHRs",
+      "title": "Coca-Cola Bottling stock hits all-time high at 169.5 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cocacola-bottling-stock-hits-alltime-high-at-1695-usd-93CH-4511918",
+      "source": "Investing.com News",
+      "publishedAt": 1771444421000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VhdHRsZSBTZWFoYXdr",
+      "title": "Seattle Seahawks up for sale in what could be NFL’s biggest deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/seattle-seahawks-up-for-sale-in-what-could-be-nfls-biggest-deal-93CH-4511917",
+      "source": "Investing.com News",
+      "publishedAt": 1771444252000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJpZ2h0c3ByaW5nIEhl",
+      "title": "Brightspring Health Services stock hits all-time high at 41.4 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/brightspring-health-services-stock-hits-alltime-high-at-414-usd-93CH-4511916",
+      "source": "Investing.com News",
+      "publishedAt": 1771444242000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIG1pbnV0ZXMgc2hv",
+      "title": "Fed minutes show support for pause, flags possible hikes to fight inflation",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-minutes-show-strong-support-for-decision-to-hold-rates-steady-4511741",
+      "source": "Investing.com News",
+      "publishedAt": 1771444194000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIG1pbnV0ZXMgc2hv",
+      "title": "Fed minutes show split, and talk of rate hikes, beneath January policy pause",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-minutes-could-highlight-shift-in-balance-of-risks-as-policymakers-put-rates-on-hold-4510370",
+      "source": "Investing.com News",
+      "publishedAt": 1771444146000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29sZG1hbiBTYWNocyBD",
+      "title": "Goldman Sachs CEO Solomon calls rule-based system for crypto &apos;very, very important&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/goldman-sachs-david-solomon-crypto-trump-world-liberty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771444046000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBkZWFsIGZvciBt",
+      "title": "Meta deal for millions of Nvidia chips is big — these 2 charts illustrate why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/meta-deal-for-nvidia-chips-is-a-big-deal-these-2-charts-illustrate-why.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771443587000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VhdHRsZSBTZWFoYXdr",
+      "title": "Seattle Seahawks begin sale process after Super Bowl win",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/seattle-seahawks-sale-super-bowl.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771442529000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGVzIFdleG5lciBzYXlz",
+      "title": "Les Wexner says &apos;diabolical&apos; Jeffrey Epstein &apos;duped&apos; him, denies wrongdoing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771442281000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGFzc2V0dCBzYXlzIGF1",
+      "title": "Hassett says authors of New York Fed tariff study should be disciplined: &apos;Worst paper I&apos;ve ever seen&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/hassett-says-authors-of-new-york-fed-tariff-study-should-be-disciplined-worst-paper-ive-ever-seen.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771442169000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -57,158 +309,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BwZW5oZWltZXIgcmFp",
-      "title": "Oppenheimer raises Travel + Leisure stock price target on earnings beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-raises-travel--leisure-stock-price-target-on-earnings-beat-93CH-4511847",
-      "source": "Investing.com News",
-      "publishedAt": 1771440670000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBUcmVhc3VyeSBj",
-      "title": "U.S. Treasury clarifies payment rules for companies in Venezuelan oil",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-treasury-clarifies-payment-rules-for-companies-in-venezuelan-oil-93CH-4511845",
-      "source": "Investing.com News",
-      "publishedAt": 1771440597000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGVrc3Ryb20sIFN0cmVh",
-      "title": "Lekstrom, Streamex executive chairman, buys $50k in STEX",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/lekstrom-streamex-executive-chairman-buys-50k-in-stex-93CH-4511844",
-      "source": "Investing.com News",
-      "publishedAt": 1771440559000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLUl2b3J5",
-      "title": "Exclusive-Ivory Coast considers following Ghana with cocoa price cut, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/exclusiveivory-coast-considers-following-ghana-with-cocoa-price-cut-sources-say-4511843",
-      "source": "Investing.com News",
-      "publishedAt": 1771440553000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgc2F5cyBvaWwgY29t",
-      "title": "US says oil companies must pay local taxes, fees to Venezuelan government",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-says-oil-companies-must-pay-local-taxes-fees-to-venezuelan-government-4511841",
-      "source": "Investing.com News",
-      "publishedAt": 1771440515000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBQUkUgMTRBIFNw",
-      "title": "Form PRE 14A Spire Inc For: 18 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-pre-14a-spire-inc-for-18-february-93CH-4511840",
-      "source": "Investing.com News",
-      "publishedAt": 1771440496000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hpdGUgSG91c2Ugc2F5",
-      "title": "White House says Iran would be wise to make deal to avoid conflict",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/white-house-says-iran-would-be-wise-to-make-deal-to-avoid-conflict-93CH-4511839",
-      "source": "Investing.com News",
-      "publishedAt": 1771440425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ2JvZSBH",
-      "title": "Form 144 Cboe Global Markets For: 18 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-cboe-global-markets-for-18-february-93CH-4511837",
-      "source": "Investing.com News",
-      "publishedAt": 1771440316000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBDbG91",
-      "title": "Form 13D/A Clough Global Equity Fund For: 18 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-clough-global-equity-fund-for-18-february-93CH-4511836",
-      "source": "Investing.com News",
-      "publishedAt": 1771440309000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm9ydGhsYW5kIGRvd25n",
-      "title": "Northland downgrades Camtek stock rating despite raising price target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/northland-downgrades-camtek-stock-rating-despite-raising-price-target-93CH-4511832",
-      "source": "Investing.com News",
-      "publishedAt": 1771440181000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -242,21 +342,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TGVzIFdleG5lciBzYXlz",
-      "title": "Les Wexner says &apos;diabolical&apos; Jeffrey Epstein &apos;duped&apos; him, denies wrongdoing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771438130000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7Q3JhcCZhcG9z",
       "title": "&apos;Crap&apos;: Stephen Colbert blasts CBS for denying it blocked James Talarico interview from air",
       "summary": "",
@@ -272,42 +357,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIGp1bXBzIDQlIGFm",
-      "title": "Oil jumps 4% after Vance says Iran ignored key U.S. demands, military strikes on the table",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/oil-prices-today-iran-trump-nuclear-talks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771435292000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGFsbyBBbHRvIHNoYXJl",
       "title": "Palo Alto shares sink 7%, CEO defends cybersecurity&apos;s position as AI hits software stocks",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/18/palo-alto-stock-cybersecurity-ai-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1771434966000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MSBidXkgYW5kIDIgc2Fs",
-      "title": "1 buy and 2 sales — how we&apos;re using recent stock market swings to our advantage",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/1-buy-and-2-sales-how-were-using-recent-stock-market-swings-to-advantage.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771434612000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -437,21 +492,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-4oCYQSBtYXR0ZXIgb2Yg",
-      "title": "‘A matter of national survival’: European governments on how they&apos;re accelerating digital sovereignty as geopolitical tensions ramp up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/europe-digital-sovereignty-geopolitical-tensions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771417535000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QnJpdGFpbuKAmXMgQkFF",
       "title": "Britain’s BAE Systems sets sights on defense spending boom amid record order backlog",
       "summary": "",
@@ -493,23 +533,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2VybWFueeKAmXMgbG9u",
-      "title": "Germany’s long-awaited fiscal stimulus is finally here — but there’s a defense spending catch, says Goldman Sachs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/goldman-sachs-germany-defense-spending-military-fiscal-stimulus-equities.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771394401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -586,21 +609,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlcyBm",
-      "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/15/epstein-files-fallout-goldman-ruemmler-harvard-yale.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771358579000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
