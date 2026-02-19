@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771487657092,
-  "crawlUpdatedAt": 1771487657092,
-  "crawlCount": 40,
+  "updatedAt": 1771491411343,
+  "crawlUpdatedAt": 1771491411343,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks set to open mixed as investors parse Airbus, Renault earnings",
+      "id": "CNBC Markets-TmVzdGxlIHBsYW5zIHNh",
+      "title": "Nestle plans sale of ice cream business as fourth-quarter sales growth beats estimates",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/european-markets-stoxx-600-ftse-dax-cac-nestle-earnings.html",
+      "url": "https://www.cnbc.com/2026/02/19/nestle-q4-earnings-sales-ice-cream.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771487549000,
+      "publishedAt": 1771491172000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmVzZSB0ZWNoIGNv",
+      "title": "Chinese tech companies progress &apos;remarkable,&apos; OpenAI&apos;s Altman tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/openai-sam-altman-india-ai-summit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771490832000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,162 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Rm9ybWVyIFNvdXRoIEtv",
-      "title": "Former South Korean president Yoon Suk Yeol gets life sentence over martial law attempt",
+      "id": "Investing.com News-U3RyYWJhZyBzaGFyZXMg",
+      "title": "Strabag shares drop as major shareholder sells stake at discount",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/south-korea-ex-president-yoon-suk-yeol-life-sentence-guilty-insurrection-death-sentence-martial-law-verdict.html",
+      "url": "https://www.investing.com/news/stock-market-news/strabag-shares-drop-as-major-shareholder-sells-stake-at-discount-93CH-4512761",
+      "source": "Investing.com News",
+      "publishedAt": 1771490721000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmluY2FudGllcmkgc2hh",
+      "title": "Fincantieri shares drop 8% after launching capital increase",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fincantieri-shares-drop-8-after-launching-capital-increase-93CH-4512760",
+      "source": "Investing.com News",
+      "publishedAt": 1771490709000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFueSB3aWxsIHNl",
+      "title": "Germany will seek strategic partnerships with China amid US tariffs, Merz says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/germany-will-seek-strategic-partnerships-with-china-amid-us-tariffs-merz-says-4511930",
+      "source": "Investing.com News",
+      "publishedAt": 1771490611000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwbGFpbmVyLVdoYXQg",
+      "title": "Explainer-What you need to know about trials faced by South Korea’s former president Yoon",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/explainerwhat-you-need-to-know-about-trials-faced-by-south-koreas-former-president-yoon-4512755",
+      "source": "Investing.com News",
+      "publishedAt": 1771490575000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5IGV2ZW50cyBpbiBT",
+      "title": "Key events in South Korean ex-President Yoon’s route from martial law to life in prison",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/key-events-in-south-korean-expresident-yoons-route-from-martial-law-to-life-in-prison-4512759",
+      "source": "Investing.com News",
+      "publishedAt": 1771490551000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVycm92aWFsIHNoYXJl",
+      "title": "Ferrovial shares slip as 407 ETR results trail expectations",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/ferrovial-shares-slip-as-407-etr-results-trail-expectations-4512758",
+      "source": "Investing.com News",
+      "publishedAt": 1771490500000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
+      "title": "European shares drop on mixed earnings, US-Iran tensions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-drop-on-mixed-earnings-usiran-tensions-4512753",
+      "source": "Investing.com News",
+      "publishedAt": 1771490267000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVybm9kIFJpY2FyZOKA",
+      "title": "Pernod Ricard’s sales, profits slide on demand slump in main markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/pernod-ricards-sales-fell-in-first-half-trend-improved-in-second-quarter-4512632",
+      "source": "Investing.com News",
+      "publishedAt": 1771490250000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tmlzc2FuIHRvIHJlY2Fs",
+      "title": "Nissan to recall about 643,000 U.S. vehicles",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nissan-to-recall-about-643000-us-vehicles-4512752",
+      "source": "Investing.com News",
+      "publishedAt": 1771490228000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlbmNoIHRheCBoaWtl",
+      "title": "French tax hikes tapped out, spending cuts inevitable, says audit office",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/french-tax-hikes-tapped-out-spending-cuts-inevitable-says-audit-office-4512757",
+      "source": "Investing.com News",
+      "publishedAt": 1771490214000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBzYXlzIFRlaHJh",
+      "title": "U.S. says Tehran would be ‘very wise’ to make a deal as Russia, Iran hold naval drills",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/trump-us-iran-nuclear-talks-oil-prices-russia.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771487323000,
+      "publishedAt": 1771489862000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +213,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/19/asia-pacific-markets-kospi-nikkei-225-nifty-50.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771487232000,
+      "publishedAt": 1771489680000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +223,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgRVFVSVRZ",
-      "title": "Form 144 EQUITY RESIDENTIAL For: 19 February",
+      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks open lower as investors parse Airbus, Renault earnings",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-equity-residential-for-19-february-93CH-4512691",
-      "source": "Investing.com News",
-      "publishedAt": 1771486574000,
+      "url": "https://www.cnbc.com/2026/02/19/european-markets-stoxx-600-ftse-dax-cac-nestle-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771489577000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,138 +238,48 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWlyIEZyYW5jZS1LTE0g",
-      "title": "Air France-KLM posts record €2 bln profit but misses green bond target",
+      "id": "CNBC Markets-JmFwb3M7RG8gbm90IGdp",
+      "title": "&apos;Do not give away Diego Garcia&apos;: Trump attacks the UK over Chagos Islands deal, again",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/air-franceklm-posts-record-2-bln-profit-but-misses-green-bond-target-4512690",
-      "source": "Investing.com News",
-      "publishedAt": 1771486476000,
+      "url": "https://www.cnbc.com/2026/02/19/trump-us-chagos-islands-deal-diego-garcia-uk-starmer.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771489416000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2FmZXN0b3JlIHJlcG9y",
-      "title": "Safestore reports 6.3% revenue growth in Q1, expands footprint",
+      "id": "CNBC Markets-Rm9ybWVyIFNvdXRoIEtv",
+      "title": "Former South Korean president Yoon Suk Yeol gets life sentence over martial law attempt",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/safestore-reports-63-revenue-growth-in-q1-expands-footprint-93CH-4512689",
-      "source": "Investing.com News",
-      "publishedAt": 1771486376000,
+      "url": "https://www.cnbc.com/2026/02/19/south-korea-ex-president-yoon-suk-yeol-life-sentence-guilty-insurrection-death-sentence-martial-law-verdict.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771489351000,
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VkdQIHJlcG9ydHMgbWl4",
-      "title": "VGP reports mixed 2025 results with recurring EPS up 33%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/vgp-reports-mixed-2025-results-with-recurring-eps-up-33-93CH-4512688",
-      "source": "Investing.com News",
-      "publishedAt": 1771486318000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RUtGIERpYWdub3N0aWNz",
-      "title": "EKF Diagnostics launches share buyback program of up to 5 million shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ekf-diagnostics-launches-share-buyback-program-of-up-to-5-million-shares-93CH-4512687",
-      "source": "Investing.com News",
-      "publishedAt": 1771486293000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T+KAmVNoZWEgSmVubmlm",
-      "title": "O’Shea Jennifer L buys strategic acquisitions (STQN) shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/oshea-jennifer-l-buys-strategic-acquisitions-stqn-shares-93CH-4512685",
-      "source": "Investing.com News",
-      "publishedAt": 1771486261000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9uZXkgRXhwbyBNZXhp",
-      "title": "Money Expo Mexico 2026 Starts with Historic Footfall in Latin America",
+      "id": "CNBC Markets-QWlyYnVzIGZhbGxzIDUl",
+      "title": "Airbus falls 5% after targeting only 870 deliveries this year as Boeing competition tightens",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/money-expo-mexico-2026-starts-with-historic-footfall-in-latin-america-4512684",
-      "source": "Investing.com News",
-      "publishedAt": 1771486245000,
+      "url": "https://www.cnbc.com/2026/02/19/airbus-earnings-fy-q4-boeing-deliveries-a320-airbus-2026-boeing-recovery.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771488520000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UlNGIGFjdGlvbnMgaW4g",
-      "title": "RSF actions in Sudan’s al-Fashir points to genocide, UN probe says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/rsf-actions-in-sudans-alfashir-points-to-genocide-un-probe-says-4512670",
-      "source": "Investing.com News",
-      "publishedAt": 1771486245000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVybm9kIFJpY2FyZOKA",
-      "title": "Pernod Ricard’s sales fell in first half, trend improved in second quarter",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/pernod-ricards-sales-fell-in-first-half-trend-improved-in-second-quarter-4512632",
-      "source": "Investing.com News",
-      "publishedAt": 1771486230000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R1BFIGZ1bGx5IGxldHMg",
-      "title": "GPE fully lets first phase of City Tower managed space",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/gpe-fully-lets-first-phase-of-city-tower-managed-space-93CH-4512683",
-      "source": "Investing.com News",
-      "publishedAt": 1771486058000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -223,42 +298,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWlyYnVzIHRhcmdldHMg",
-      "title": "Airbus targets 870 deliveries this year, below estimates as Boeing competition tightens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/airbus-earnings-fy-q4-boeing-deliveries-a320-airbus-2026-boeing-recovery.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771480297000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2FsbWFydCB3aWxsIHJl",
       "title": "Walmart will report earnings before the bell. Here&apos;s what to expect",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/19/walmart-wmt-q4-2026-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1771477261000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z04oCZcyBC",
-      "title": "Microsoft’s Brad Smith says U.S. tech should ‘worry a little’ about Chinese firms&apos; government subsidies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/microsoft-president-brad-smith-chinese-ai-subsidies.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771475414000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -422,21 +467,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TGVzIFdleG5lciBzYXlz",
-      "title": "Les Wexner says &apos;diabolical&apos; Jeffrey Epstein &apos;duped&apos; him, denies wrongdoing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771451400000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2FkZW5jZSBEZXNpZ24g",
       "title": "Cadence Design Systems shares pop on earnings beat, custom chip optimism",
       "summary": "",
@@ -465,21 +495,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGVhdml0dDogVHJ1bXAg",
-      "title": "Leavitt: Trump concerned with Potomac River sewage stench, with America 250 celebrations planned for summer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/trump-potomac-river-sewage-stench-america-250.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771446433000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -513,21 +528,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VhdHRsZSBTZWFoYXdr",
-      "title": "Seattle Seahawks begin sale process after Super Bowl win",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/seattle-seahawks-sale-super-bowl.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771445680000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -602,21 +602,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9yZSB0aGFuIDUwJSBv",
-      "title": "More than 50% of enterprise software could switch to AI, Mistral CEO says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771403795000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
