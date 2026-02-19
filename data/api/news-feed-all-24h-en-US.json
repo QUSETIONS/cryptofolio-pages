@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771516715601,
-  "crawlUpdatedAt": 1771516715601,
+  "updatedAt": 1771520834361,
+  "crawlUpdatedAt": 1771520834361,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-S2luZyBDaGFybGVzJmFw",
-      "title": "King Charles&apos; brother Andrew arrested on suspicion of misconduct",
+      "id": "CNBC Markets-RmlnbWEgc2hhcmVzIGNs",
+      "title": "Figma shares climb on earnings beat, but analysts note that AI risk remains",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/prince-andrew-arrest-misconduct-epstein-mountbatten-windsor.html",
+      "url": "https://www.cnbc.com/2026/02/19/figma-stock-earnings-ai-risk.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771516152000,
+      "publishedAt": 1771520686000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBzYXlzIFRlaHJh",
+      "title": "U.S. says Tehran would be ‘very wise’ to make a deal as Russia, Iran hold naval drills",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/trump-us-iran-nuclear-talks-oil-prices-russia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771520622000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SFNCQyBpbml0aWF0ZXMg",
-      "title": "HSBC initiates PicPay stock coverage with buy rating, $21 target",
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says this stock is &apos;the one to buy&apos; because AI makes its business stronger",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hsbc-initiates-picpay-stock-coverage-with-buy-rating-21-target-93CH-4514316",
-      "source": "Investing.com News",
-      "publishedAt": 1771516011000,
+      "url": "https://www.cnbc.com/2026/02/19/jim-cramer-buy-this-tech-stock-because-ai-makes-its-business-stronger.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771520235000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,102 +58,108 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q01FIEdyb3VwIHRvIG9m",
-      "title": "CME Group to offer 24/7 trading for crypto derivatives starting May 29",
+      "id": "CNBC Markets-VS5TLiB0cmFkZSBkZWZp",
+      "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump&apos;s tariffs",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/cme-group-to-offer-247-trading-for-crypto-derivatives-starting-may-29-4514315",
-      "source": "Investing.com News",
-      "publishedAt": 1771515999000,
+      "url": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771519794000,
       "lang": "en-US",
       "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Ivanhoe Mines Q4 2025 reveals mixed results",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ivanhoe-mines-q4-2025-reveals-mixed-results-93CH-4514451",
+      "source": "Investing.com News",
+      "publishedAt": 1771519620000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Oceaneering Q4 2025 beats EPS estimates, stock rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-oceaneering-q4-2025-beats-eps-estimates-stock-rises-93CH-4514450",
+      "source": "Investing.com News",
+      "publishedAt": 1771519578000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Radian Group Q4 2025 beats expectations with EPS growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-radian-group-q4-2025-beats-expectations-with-eps-growth-93CH-4514449",
+      "source": "Investing.com News",
+      "publishedAt": 1771519535000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuLiBXYXJyZW4gdGVs",
+      "title": "Sen. Warren tells Fed and Treasury: No bailout for crypto billionaires",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/18/warren-fed-treasury-crypto-billionaires-bailout-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771519493000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
         "crypto"
       ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWlyIExlYXNlIENvcnAg",
-      "title": "Air Lease Corp stock hits all-time high at 64.83 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/air-lease-corp-stock-hits-alltime-high-at-6483-usd-93CH-4514314",
-      "source": "Investing.com News",
-      "publishedAt": 1771515986000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+      "symbols": [
+        "UST10Y",
+        "FED"
       ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UnR4IENvcnAgc3RvY2sg",
-      "title": "Rtx Corp stock hits all-time high of 206.51 USD",
+      "id": "Investing.com News-R29sZCBhbmQgYWVyb3Nw",
+      "title": "Gold and aerospace surge narrows Canadian trade deficit",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/rtx-corp-stock-hits-alltime-high-of-20651-usd-93CH-4514313",
+      "url": "https://www.investing.com/news/economy-news/gold-and-aerospace-surge-narrows-canadian-trade-deficit-4514448",
       "source": "Investing.com News",
-      "publishedAt": 1771515926000,
+      "publishedAt": 1771519448000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF0aW9uYWwgRW5lcmd5",
-      "title": "National Energy Services Reunited stock hits all-time high at 25.15 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/national-energy-services-reunited-stock-hits-alltime-high-at-2515-usd-93CH-4514312",
-      "source": "Investing.com News",
-      "publishedAt": 1771515843000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+      "symbols": [
+        "XAU"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aSBzYXlzIGdyb3d0",
-      "title": "Citi says growth–cyclical barbell still favored as earnings broaden in 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/citi-says-growthcyclical-barbell-still-favored-as-earnings-broaden-in-2026-4514311",
-      "source": "Investing.com News",
-      "publishedAt": 1771515816000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: C3is Q4 2026 sees 481% net income surge",
+      "id": "Investing.com News-V2FsbCBTdCBkaXBzIG9u",
+      "title": "Wall St dips on mixed economic data, US-Iran tensions boost crude, gold",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-c3is-q4-2026-sees-481-net-income-surge-93CH-4514310",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-get-tech-lift-as-iran-rate-uncertainty-loom-over-markets-4512497",
       "source": "Investing.com News",
-      "publishedAt": 1771515813000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Alamos Gold Q4 2025 sees stock rise despite misses",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alamos-gold-q4-2025-sees-stock-rise-despite-misses-93CH-4514309",
-      "source": "Investing.com News",
-      "publishedAt": 1771515794000,
+      "publishedAt": 1771519369000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,12 +171,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLUJhaW4g",
-      "title": "Exclusive-Bain Capital explores sale or IPO of Dessert Holdings, sources say",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Teekay Tankers Q4 2025 sees robust earnings",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivebain-capital-explores-sale-or-ipo-of-dessert-holdings-sources-say-4514307",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-teekay-tankers-q4-2025-sees-robust-earnings-93CH-4514447",
       "source": "Investing.com News",
-      "publishedAt": 1771515771000,
+      "publishedAt": 1771519366000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -165,15 +186,90 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U29sYXIgaW5kdXN0cnkg",
-      "title": "Solar industry accelerates shift from silver as costs soar",
+      "id": "CNBC Markets-RG9vcmRhc2ggc3RvY2sg",
+      "title": "Doordash stock rallies as investment cycle starts showing signs of a payoff",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/solar-industry-accelerates-shift-from-silver-as-costs-soar-4514306",
-      "source": "Investing.com News",
-      "publishedAt": 1771515756000,
+      "url": "https://www.cnbc.com/2026/02/19/doordash-stock-investment-ai-tech-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771519351000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUJhaW4g",
+      "title": "Exclusive-Bain Capital explores sale or IPO of Dessert Holdings, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivebain-capital-explores-sale-or-ipo-of-dessert-holdings-sources-say-4514307",
+      "source": "Investing.com News",
+      "publishedAt": 1771519351000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: One Gas Q4 2025 beats EPS, stock rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-one-gas-q4-2025-beats-eps-stock-rises-93CH-4514446",
+      "source": "Investing.com News",
+      "publishedAt": 1771519339000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Teekay Tankers beats Q4 2025 estimates with strong EPS and revenue",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-teekay-tankers-beats-q4-2025-estimates-with-strong-eps-and-revenue-93CH-4514445",
+      "source": "Investing.com News",
+      "publishedAt": 1771519291000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVlcmUgUTEgMjAyNiBz",
+      "title": "Deere Q1 2026 slides: Strong revenue growth despite profit headwinds",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/deere-q1-2026-slides-strong-revenue-growth-despite-profit-headwinds-93CH-4514444",
+      "source": "Investing.com News",
+      "publishedAt": 1771519183000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2luZyBDaGFybGVzJmFw",
+      "title": "King Charles&apos; brother Andrew arrested on suspicion of misconduct",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/prince-andrew-arrest-misconduct-epstein-mountbatten-windsor.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771516152000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -216,21 +312,6 @@
       "url": "https://www.cnbc.com/2026/02/19/wayfair-w-earnings-q4-2025.html",
       "source": "CNBC Markets",
       "publishedAt": 1771515551000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiB0cmFkZSBkZWZp",
-      "title": "U.S. trade deficit totaled $901 billion in 2025 despite Trump&apos;s tariffs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771515377000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -294,21 +375,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RG9vcmRhc2ggc3RvY2sg",
-      "title": "Doordash stock rallies as investment cycle starts showing signs of a payoff",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/doordash-stock-investment-ai-tech-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771512520000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -390,21 +456,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiBzYXlzIFRlaHJh",
-      "title": "U.S. says Tehran would be ‘very wise’ to make a deal as Russia, Iran hold naval drills",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/trump-us-iran-nuclear-talks-oil-prices-russia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771507145000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Rm9ybWVyIFNvdXRoIEtv",
       "title": "Former South Korean president Yoon Suk Yeol gets life sentence over martial law attempt",
       "summary": "",
@@ -480,46 +531,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2VuLiBXYXJyZW4gdGVs",
-      "title": "Sen. Warren tells Fed and Treasury: No bailout for crypto billionaires",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/18/warren-fed-treasury-crypto-billionaires-bailout-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771505952000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "UST10Y",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
       "title": "United Airlines is paring back rewards for travelers who don&apos;t have its credit card in MileagePlus overhaul",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/19/united-airlines-frequent-flyer-mileage-plus-program-credit-card.html",
       "source": "CNBC Markets",
       "publishedAt": 1771505753000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhpcyBtYXJrZXTigJlz",
-      "title": "This market’s big problem: nobody knows the right price for stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/jim-cramer-on-the-software-sell-off-and-multiple-compression.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771499849000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -541,21 +558,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RHVlbGluZyBQQUNzIHRh",
-      "title": "Dueling PACs take center stage in midterm elections over AI regulation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/dueling-pacs-take-center-stage-in-midterm-elections-over-ai-regulation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771495201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
