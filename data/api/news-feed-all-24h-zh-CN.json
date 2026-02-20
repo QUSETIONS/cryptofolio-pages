@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771596720453,
-  "crawlUpdatedAt": 1771596720453,
+  "updatedAt": 1771600206180,
+  "crawlUpdatedAt": 1771600206180,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VHJ1bXAgcHJldmlld2Vk",
+      "title": "Trump previewed weak GDP on Truth Social ahead of official data release",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/trump-gdp-weak-powell-fed-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771600088000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBz",
+      "title": "Supreme Court strikes down Trump tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-ruling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771599987000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBhbmQgQXBwbGUg",
+      "title": "Meta and Apple face serious questions about child safety and privacy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/meta-apple-child-safety-zuckerberg-cook.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771599608000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyB0YXgg",
+      "title": "Trump says tax refunds are &apos;substantially greater than ever before.&apos; What filers can expect",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/trump-tax-refunds.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771599303000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Rm91cnRoLXF1YXJ0ZXIg",
       "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771596415000,
+      "publishedAt": 1771599299000,
       "lang": "zh-CN",
       "topics": [
         "rates",
@@ -29,162 +89,163 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-V2VzdGVybiBVbmlvbiBm",
+      "title": "Western Union faces earnings test on digital transformation",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/western-union-faces-earnings-test-on-digital-transformation-93CH-4516513",
+      "source": "Investing.com News",
+      "publishedAt": 1771598939000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMganVkZ2UgdXBob2xk",
+      "title": "US judge upholds $243 million verdict against Tesla over fatal Autopilot crash",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-upholds-243-million-verdict-against-tesla-over-fatal-autopilot-crash-4516484",
+      "source": "Investing.com News",
+      "publishedAt": 1771598924000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdCBkaXBzIGFm",
+      "title": "Wall St dips after weaker-than-expected GDP, higher inflation data",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-muted-ahead-of-economic-data-4515720",
+      "source": "Investing.com News",
+      "publishedAt": 1771598911000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UTIgSG9sZGluZ3Mgc3Rv",
+      "title": "Q2 Holdings stock hits 52-week low at 51.34 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/q2-holdings-stock-hits-52week-low-at-5134-usd-93CH-4516512",
+      "source": "Investing.com News",
+      "publishedAt": 1771598901000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VydmljZXMgUE1JIERp",
+      "title": "Services PMI Dips Lower, Falling Short of Predicted Growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/services-pmi-dips-lower-falling-short-of-predicted-growth-93CH-4516511",
+      "source": "Investing.com News",
+      "publishedAt": 1771598901000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2Vuc2F0YSBUZWNobm9s",
+      "title": "Sensata Technologies stock hits 52-week high at 38.1 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/sensata-technologies-stock-hits-52week-high-at-381-usd-93CH-4516510",
+      "source": "Investing.com News",
+      "publishedAt": 1771598887000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9veiBBbGxlbiBIYW1p",
+      "title": "Booz Allen Hamilton stock hits 52-week low at 76.25 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/booz-allen-hamilton-stock-hits-52week-low-at-7625-usd-93CH-4516509",
+      "source": "Investing.com News",
+      "publishedAt": 1771598886000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW1lcmEgZWFybmluZ3Mg",
+      "title": "Emera earnings on deck: Can utility maintain dividend streak?",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/emera-earnings-on-deck-can-utility-maintain-dividend-streak-93CH-4516508",
+      "source": "Investing.com News",
+      "publishedAt": 1771598885000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9taW5pb24gRW5lcmd5",
+      "title": "Dominion Energy set to report earnings as wind project costs mount",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/dominion-energy-set-to-report-earnings-as-wind-project-costs-mount-93CH-4516507",
+      "source": "Investing.com News",
+      "publishedAt": 1771598831000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBwbGllZCBNYXRlcmlh",
+      "title": "Applied Materials stock hits all-time high at 376.34 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/applied-materials-stock-hits-alltime-high-at-37634-usd-93CH-4516504",
+      "source": "Investing.com News",
+      "publishedAt": 1771598789000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
       "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
       "source": "CNBC Markets",
       "publishedAt": 1771596130000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um9zZW5ibGF0dCBjdXRz",
-      "title": "Rosenblatt cuts Gemini Space Station stock price target on restructuring",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-gemini-space-station-stock-price-target-on-restructuring-93CH-4516277",
-      "source": "Investing.com News",
-      "publishedAt": 1771596087000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: EuroDry Q4 2025 posts strong EPS beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-eurodry-q4-2025-posts-strong-eps-beat-93CH-4516274",
-      "source": "Investing.com News",
-      "publishedAt": 1771596075000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FmZSBQcm8gR3JvdXAg",
-      "title": "Safe Pro Group wins $1M U.S. government AI systems subcontract",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/safe-pro-group-wins-1m-us-government-ai-systems-subcontract-93CH-4516271",
-      "source": "Investing.com News",
-      "publishedAt": 1771596052000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBNb2xlY3Vs",
-      "title": "Form 8K Moleculin Biotech Inc For: 20 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-moleculin-biotech-inc-for-20-february-93CH-4516270",
-      "source": "Investing.com News",
-      "publishedAt": 1771596034000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFuZ29jZXV0aWNhbHMg",
-      "title": "Mangoceuticals stock surges on TRT program growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/mangoceuticals-stock-surges-on-trt-program-growth-93CH-4516269",
-      "source": "Investing.com News",
-      "publishedAt": 1771595860000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um9zZW5ibGF0dCByYWlz",
-      "title": "Rosenblatt raises Harmonic stock price target on broadband strength",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rosenblatt-raises-harmonic-stock-price-target-on-broadband-strength-93CH-4516268",
-      "source": "Investing.com News",
-      "publishedAt": 1771595845000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIGN1dHMgV29ya2l2",
-      "title": "BMO cuts Workiva stock price target on lower comps despite solid results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-cuts-workiva-stock-price-target-on-lower-comps-despite-solid-results-93CH-4516267",
-      "source": "Investing.com News",
-      "publishedAt": 1771595836000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWNjb3JkIEdlbnVp",
-      "title": "Canaccord Genuity lowers iRhythm stock price target on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/canaccord-genuity-lowers-irhythm-stock-price-target-on-valuation-93CH-4516266",
-      "source": "Investing.com News",
-      "publishedAt": 1771595832000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIHJhaXNlcyBUYXJn",
-      "title": "BMO raises Targa Resources stock price target on Permian strength",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-targa-resources-stock-price-target-on-permian-strength-93CH-4516265",
-      "source": "Investing.com News",
-      "publishedAt": 1771595828000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWNjb3JkIEdlbnVp",
-      "title": "Canaccord Genuity cuts Grail stock price target on trial results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/canaccord-genuity-cuts-grail-stock-price-target-on-trial-results-93CH-4516264",
-      "source": "Investing.com News",
-      "publishedAt": 1771595824000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -215,21 +276,6 @@
       "url": "https://www.cnbc.com/2026/02/20/us-auto-sales-tax-season-test.html",
       "source": "CNBC Markets",
       "publishedAt": 1771595392000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJpdmFjeSBpcyBhdCB0",
-      "title": "Privacy is at the center of child safety accusations against Apple and Meta. Here’s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/meta-apple-child-safety-zuckerberg-cook.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771594533000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -275,21 +321,6 @@
       "url": "https://www.cnbc.com/2026/02/20/oil-prices-trump-us-iran-conflict-strikes-energy.html",
       "source": "CNBC Markets",
       "publishedAt": 1771592015000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyB0YXgg",
-      "title": "Trump says tax refunds are &apos;substantially greater than ever before.&apos; What filers can expect",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/trump-tax-refunds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771591621000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -574,21 +605,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHBpY2sg",
-      "title": "Democrats pick Virginia Gov. Spanberger to give State of the Union rebuttal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/democrats-pick-gov-spanberger-to-give-state-of-the-union-rebuttal-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771531073000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VS5TLiB0cmFkZSBkZWZp",
       "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump&apos;s tariffs",
       "summary": "",
@@ -601,21 +617,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IFlvcmsgR292LiBI",
-      "title": "New York Gov. Hochul drops robotaxi service proposal for outside NYC in blow to Waymo",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/new-york-driverless-rideshare-nyc-waymo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771526270000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
