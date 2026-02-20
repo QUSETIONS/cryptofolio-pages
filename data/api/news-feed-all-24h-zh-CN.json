@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771600206180,
-  "crawlUpdatedAt": 1771600206180,
+  "updatedAt": 1771603429553,
+  "crawlUpdatedAt": 1771603429553,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,57 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgcHJldmlld2Vk",
-      "title": "Trump previewed weak GDP on Truth Social ahead of official data release",
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBU",
+      "title": "Supreme Court Trump tariffs ruling could put U.S. on hook for $175 billion in refunds, estimate says",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/trump-gdp-weak-powell-fed-interest-rates.html",
+      "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-us-refunds.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771600088000,
+      "publishedAt": 1771603380000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGlzIGluIHRh",
+      "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771603154000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S29zbW9zIEVuZXJneSBz",
+      "title": "Kosmos Energy stock surges 16% on Ghana license extensions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/kosmos-energy-stock-surges-16-on-ghana-license-extensions-93CH-4516702",
+      "source": "Investing.com News",
+      "publishedAt": 1771603091000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q0cgT25jb2xvZ3kgc3Rv",
+      "title": "CG Oncology stock hits all-time high at 57.92 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cg-oncology-stock-hits-alltime-high-at-5792-usd-93CH-4516700",
+      "source": "Investing.com News",
+      "publishedAt": 1771603080000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +73,207 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-U05DRiBjb25zaWRlcnMg",
+      "title": "SNCF considers stake sale in Rail Logistics Europe unit - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sncf-considers-stake-sale-in-rail-logistics-europe-unit--bloomberg-93CH-4516699",
+      "source": "Investing.com News",
+      "publishedAt": 1771603064000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Onto Innovation stock rating on packaging growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-onto-innovation-stock-rating-on-packaging-growth-93CH-4516698",
+      "source": "Investing.com News",
+      "publishedAt": 1771603028000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgcHJldmlld2Vk",
+      "title": "Trump previewed weak GDP on Truth Social ahead of official data release",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/trump-gdp-weak-powell-fed-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771603023000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Materialise stock rating on solid Q4 results",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-materialise-stock-rating-on-solid-q4-results-93CH-4516697",
+      "source": "Investing.com News",
+      "publishedAt": 1771603023000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RpZmVsIGxvd2VycyBF",
+      "title": "Stifel lowers Etsy stock price target to $55 on Depop sale",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/stifel-lowers-etsy-stock-price-target-to-55-on-depop-sale-93CH-4516696",
+      "source": "Investing.com News",
+      "publishedAt": 1771603023000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald raises Quanta Services stock price target on backlog",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-quanta-services-stock-price-target-on-backlog-93CH-4516695",
+      "source": "Investing.com News",
+      "publishedAt": 1771603018000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9yd2F5IHN0b2NrcyBo",
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.59%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-059-4516694",
+      "source": "Investing.com News",
+      "publishedAt": 1771602940000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsIHN0b2NrcyBo",
+      "title": "Israel stocks higher at close of trade; TA 35 up 0.52%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-052-4516693",
+      "source": "Investing.com News",
+      "publishedAt": 1771602903000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMganVkZ2UgdXBob2xk",
+      "title": "US judge upholds $243 million verdict against Tesla over fatal Autopilot crash",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-upholds-243-million-verdict-against-tesla-over-fatal-autopilot-crash-4516484",
+      "source": "Investing.com News",
+      "publishedAt": 1771602884000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBz",
-      "title": "Supreme Court strikes down Trump tariffs",
+      "title": "Supreme Court strikes down Trump tariffs, rebuking president&apos;s signature economic policy",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-ruling.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771599987000,
+      "publishedAt": 1771602696000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
+      "title": "Trump says he&apos;s considering limited military strike against Iran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/trump-says-hes-considering-limited-military-strike-against-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771602156000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiB0cmFkZSBkZWZp",
+      "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump&apos;s tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771601958000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJvbSAmYXBvczt2YW5s",
+      "title": "From &apos;vanlords&apos; to safe parking sites: How RVs became Silicon Valley&apos;s housing safety net",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/20/how-rvs-became-silicon-valleys-housing-safety-net.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771600700000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIHN1cnBhc3Nl",
+      "title": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771600316000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -89,163 +329,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2VzdGVybiBVbmlvbiBm",
-      "title": "Western Union faces earnings test on digital transformation",
+      "id": "CNBC Markets-V2UmYXBvcztyZSBleGl0",
+      "title": "We&apos;re exiting our position in this restaurant stock — here&apos;s why",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/western-union-faces-earnings-test-on-digital-transformation-93CH-4516513",
-      "source": "Investing.com News",
-      "publishedAt": 1771598939000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMganVkZ2UgdXBob2xk",
-      "title": "US judge upholds $243 million verdict against Tesla over fatal Autopilot crash",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-upholds-243-million-verdict-against-tesla-over-fatal-autopilot-crash-4516484",
-      "source": "Investing.com News",
-      "publishedAt": 1771598924000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdCBkaXBzIGFm",
-      "title": "Wall St dips after weaker-than-expected GDP, higher inflation data",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-stock-futures-muted-ahead-of-economic-data-4515720",
-      "source": "Investing.com News",
-      "publishedAt": 1771598911000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UTIgSG9sZGluZ3Mgc3Rv",
-      "title": "Q2 Holdings stock hits 52-week low at 51.34 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/q2-holdings-stock-hits-52week-low-at-5134-usd-93CH-4516512",
-      "source": "Investing.com News",
-      "publishedAt": 1771598901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2VydmljZXMgUE1JIERp",
-      "title": "Services PMI Dips Lower, Falling Short of Predicted Growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/services-pmi-dips-lower-falling-short-of-predicted-growth-93CH-4516511",
-      "source": "Investing.com News",
-      "publishedAt": 1771598901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Vuc2F0YSBUZWNobm9s",
-      "title": "Sensata Technologies stock hits 52-week high at 38.1 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/sensata-technologies-stock-hits-52week-high-at-381-usd-93CH-4516510",
-      "source": "Investing.com News",
-      "publishedAt": 1771598887000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9veiBBbGxlbiBIYW1p",
-      "title": "Booz Allen Hamilton stock hits 52-week low at 76.25 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/booz-allen-hamilton-stock-hits-52week-low-at-7625-usd-93CH-4516509",
-      "source": "Investing.com News",
-      "publishedAt": 1771598886000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW1lcmEgZWFybmluZ3Mg",
-      "title": "Emera earnings on deck: Can utility maintain dividend streak?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/emera-earnings-on-deck-can-utility-maintain-dividend-streak-93CH-4516508",
-      "source": "Investing.com News",
-      "publishedAt": 1771598885000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9taW5pb24gRW5lcmd5",
-      "title": "Dominion Energy set to report earnings as wind project costs mount",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/dominion-energy-set-to-report-earnings-as-wind-project-costs-mount-93CH-4516507",
-      "source": "Investing.com News",
-      "publishedAt": 1771598831000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGllZCBNYXRlcmlh",
-      "title": "Applied Materials stock hits all-time high at 376.34 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/applied-materials-stock-hits-alltime-high-at-37634-usd-93CH-4516504",
-      "source": "Investing.com News",
-      "publishedAt": 1771598789000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "url": "https://www.cnbc.com/2026/02/20/were-exiting-our-position-in-this-restaurant-stock-heres-why.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771596130000,
+      "publishedAt": 1771596014000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -330,51 +419,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RnJvbSAmYXBvczt2YW5s",
-      "title": "From &apos;vanlords&apos; to safe parking sites: How RVs became Silicon Valley&apos;s housing safety net",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/how-rvs-became-silicon-valleys-housing-safety-net.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771590601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIGlzIGluIHRh",
-      "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771589373000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCBhIFN1cHJlbWUg",
-      "title": "What a Supreme Court tariff ruling may mean for your money",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/supreme-court-tariff-ruling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771589275000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmF0aCAmIEJvZHkgV29y",
       "title": "Bath & Body Works starts selling on Amazon as more brands embrace its logistics network",
       "summary": "",
@@ -450,21 +494,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmFwYW4gaW5mbGF0aW9u",
-      "title": "Japan inflation falls below BOJ&apos;s 2% target for first time since March 2022",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/japan-core-inflation-january-boj-target-gdp-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771554530000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TGFib3IgU2VjcmV0YXJ5",
       "title": "Labor Secretary&apos;s husband barred from HQ after claims he sexually assaulted women there: MS Now",
       "summary": "",
@@ -509,21 +538,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1hem9uIHN1cnBhc3Nl",
-      "title": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771541497000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -601,21 +615,6 @@
       "symbols": [
         "UST10Y"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiB0cmFkZSBkZWZp",
-      "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump&apos;s tariffs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771526822000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
