@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771699728218,
-  "crawlUpdatedAt": 1771699728218,
-  "crawlCount": 37,
+  "updatedAt": 1771702349590,
+  "crawlUpdatedAt": 1771702349590,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-TW9yZSB0aGFuIDE1NTAg",
+      "title": "More than 1550 requests have been received under Venezuela amnesty law",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/more-than-1550-requests-have-been-received-under-venezuela-amnesty-law-4517529",
+      "source": "Investing.com News",
+      "publishedAt": 1771701868000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhvdXNhbmRzIG1hcmNo",
+      "title": "Thousands march in Lyon after French far-right activist killed last week",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
+      "source": "Investing.com News",
+      "publishedAt": 1771701150000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdG8gaGlrZSBn",
+      "title": "Trump to hike global tariffs to 15% from 10%, &apos;effective immediately&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771699769000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBkaXBzIGFm",
       "title": "Bitcoin dips after Trump tariff hike announcement, then recovers",
@@ -75,21 +120,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdG8gaGlrZSBn",
-      "title": "Trump to hike global tariffs to 15% from 10%, &apos;effective immediately&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771695877000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QWlybGluZXMgd2FpdmUg",
       "title": "Airlines waive change fees ahead of another monster winter storm",
       "summary": "",
@@ -126,21 +156,6 @@
       "url": "https://www.investing.com/news/commodities-news/blizzard-warnings-issued-for-new-york-area-as-storm-heads-to-east-coast-4517524",
       "source": "Investing.com News",
       "publishedAt": 1771693962000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhvdXNhbmRzIG1hcmNo",
-      "title": "Thousands march in Lyon after French far-right activist killed last week",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
-      "source": "Investing.com News",
-      "publishedAt": 1771692872000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -201,21 +216,6 @@
       "url": "https://www.cnbc.com/2026/02/21/berkshire-was-a-net-seller-of-stocks-in-buffetts-final-quarter-as-ceo.html",
       "source": "CNBC Markets",
       "publishedAt": 1771691718000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TkFTQSBtYXkgdGFrZSBt",
-      "title": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/nasa-to-roll-back-artemis-ii-spacecraft-impacting-march-launch-window-4517519",
-      "source": "Investing.com News",
-      "publishedAt": 1771691426000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -524,51 +524,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2l0aCBUcnVtcCZhcG9z",
-      "title": "With Trump&apos;s &apos;reciprocal&apos; tariffs struck down, here are the industries still facing higher rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771615386000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHJlam9p",
-      "title": "Democrats rejoice in Supreme Court rebuke of Trump tariffs they have called illegal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/congress-scotus-trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771615195000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcHJldmlld2Vk",
-      "title": "Trump previewed weak GDP on Truth Social ahead of official data release",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/trump-gdp-weak-powell-fed-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771615121000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
