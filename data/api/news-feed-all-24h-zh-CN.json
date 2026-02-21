@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771659523608,
-  "crawlUpdatedAt": 1771659523608,
+  "updatedAt": 1771663273475,
+  "crawlUpdatedAt": 1771663273475,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,81 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SG9uZyBLb25nIHBsYW5z",
+      "title": "Hong Kong plans to buy homes devastated in deadly high-rise fire",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/hong-kong-plans-to-buy-homes-devastated-in-deadly-highrise-fire-4517489",
+      "source": "Investing.com News",
+      "publishedAt": 1771662267000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9yIEV1cm9wZSBJbmMs",
+      "title": "For Europe Inc, US tariff relief comes with a sting in the tail",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/for-europe-inc-us-tariff-relief-comes-with-a-sting-in-the-tail-4517485",
+      "source": "Investing.com News",
+      "publishedAt": 1771661550000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlIHdhcnkgYXMg",
+      "title": "Europe wary as SCOTUS ruling triggers a ‘new round’ of trade uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/europe-wary-as-scotus-ruling-triggers-a-new-round-of-trade-uncertainty-4517488",
+      "source": "Investing.com News",
+      "publishedAt": 1771661465000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUkgdnMgSHVtYW46IGNv",
+      "title": "AI vs Human: code red and the software engineers’ endgame",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ai-vs-human-code-red-and-the-software-engineers-endgame-4507696",
+      "source": "Investing.com News",
+      "publishedAt": 1771660802000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYW4gZWNvbm9taWVz",
+      "title": "Asian economies weigh impact of fresh Trump tariff moves, confusion",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/asian-economies-weigh-impact-of-fresh-trump-tariff-moves-confusion-4517487",
+      "source": "Investing.com News",
+      "publishedAt": 1771660112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VGVjaCBnaWFudHMgY29t",
       "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
@@ -41,21 +116,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9yIEV1cm9wZSBJbmMs",
-      "title": "For Europe Inc, US tariff relief comes with a sting in the tail",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/for-europe-inc-us-tariff-relief-comes-with-a-sting-in-the-tail-4517485",
-      "source": "Investing.com News",
-      "publishedAt": 1771655785000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -111,66 +171,6 @@
       "url": "https://www.investing.com/news/insider-trading-news/clean-harbors-clh-director-welch-sells-204802-in-stock-93CH-4517481",
       "source": "Investing.com News",
       "publishedAt": 1771650995000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2xlYW4gSGFyYm9ycyBF",
-      "title": "Clean Harbors EVP Gabriel sells $998k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/clean-harbors-evp-gabriel-sells-998k-in-stock-93CH-4517480",
-      "source": "Investing.com News",
-      "publishedAt": 1771650367000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2xlYW4gSGFyYm9ycyBF",
-      "title": "Clean Harbors EVP Dugas sells $784k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/clean-harbors-evp-dugas-sells-784k-in-shares-93CH-4517479",
-      "source": "Investing.com News",
-      "publishedAt": 1771650102000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJhdmVsZXJzIENvcyBF",
-      "title": "Travelers Cos EVP Lefebvre sells $1.74 million in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/travelers-cos-evp-lefebvre-sells-174-million-in-shares-93CH-4517478",
-      "source": "Investing.com News",
-      "publishedAt": 1771650092000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VuYXN5cyBkaXJlY3Rv",
-      "title": "Genasys director Dodd buys shares worth $50k",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/genasys-director-dodd-buys-shares-worth-50k-93CH-4517477",
-      "source": "Investing.com News",
-      "publishedAt": 1771650091000,
       "lang": "zh-CN",
       "topics": [
         "macro"
