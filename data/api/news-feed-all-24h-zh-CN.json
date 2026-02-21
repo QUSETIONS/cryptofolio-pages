@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771656908225,
-  "crawlUpdatedAt": 1771656908225,
+  "updatedAt": 1771659523608,
+  "crawlUpdatedAt": 1771659523608,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VGVjaCBnaWFudHMgY29t",
+      "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771659035000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHNldHMgYm9sZCAk",
+      "title": "UBS sets bold $6,200 gold target as Middle East tensions rise",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/ubs-sets-bold-6200-gold-target-as-middle-east-tensions-rise-4517486",
+      "source": "Investing.com News",
+      "publishedAt": 1771657504000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-Rm9yIEV1cm9wZSBJbmMs",
       "title": "For Europe Inc, US tariff relief comes with a sting in the tail",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/for-europe-inc-us-tariff-relief-comes-with-a-sting-in-the-tail-4517485",
       "source": "Investing.com News",
-      "publishedAt": 1771655069000,
+      "publishedAt": 1771655785000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -145,21 +177,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0c2NvdXQgU3lzdGVt",
-      "title": "Netscout Systems EVP Downing sells $87,540 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/netscout-systems-evp-downing-sells-87540-in-stock-93CH-4517476",
-      "source": "Investing.com News",
-      "publishedAt": 1771650091000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -538,21 +555,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyB0YXgg",
-      "title": "Trump says tax refunds are &apos;substantially greater than ever before.&apos; What filers can expect",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/trump-tax-refunds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771599303000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
