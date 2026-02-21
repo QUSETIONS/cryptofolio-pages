@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771702349390,
-  "crawlUpdatedAt": 1771702349390,
-  "crawlCount": 34,
+  "updatedAt": 1771706072765,
+  "crawlUpdatedAt": 1771706072765,
+  "crawlCount": 33,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-TW9yZSB0aGFuIDE1NTAg",
-      "title": "More than 1550 requests have been received under Venezuela amnesty law",
+      "id": "Investing.com News-U2Fsc2EgbGVnZW5kIFdp",
+      "title": "Salsa legend Willie Colón dies at age 75, family says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/salsa-legend-willie-colon-dies-at-age-75-family-says-4517531",
+      "source": "Investing.com News",
+      "publishedAt": 1771704389000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmVuZXp1ZWxhIGhhcyBy",
+      "title": "Venezuela has received more than 1,550 requests under amnesty law",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/more-than-1550-requests-have-been-received-under-venezuela-amnesty-law-4517529",
       "source": "Investing.com News",
-      "publishedAt": 1771701868000,
+      "publishedAt": 1771702583000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -192,21 +207,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdG8gcmFpc2Ug",
-      "title": "Trump to raise global tariff rate to 15% after Supreme Court ruling",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-to-raise-global-tariff-rate-to-15-after-supreme-court-ruling-4517522",
-      "source": "Investing.com News",
-      "publishedAt": 1771692084000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -509,21 +509,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRoZSBTdXByZW1l",
-      "title": "How the Supreme Court&apos;s decision affects Apple and its $3.3 billion tariff bill",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/supreme-court-tariff-decision-apple-trump-cook-iphone.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771619053000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
