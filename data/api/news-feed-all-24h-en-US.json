@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771679178435,
-  "crawlUpdatedAt": 1771679178435,
+  "updatedAt": 1771682386546,
+  "crawlUpdatedAt": 1771682386546,
   "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VWtyYWluaWFucywgc2Nh",
+      "title": "Ukrainians, scattered across Europe, trapped in limbo by war",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/ukrainians-scattered-across-europe-trapped-in-limbo-by-war-4517494",
+      "source": "Investing.com News",
+      "publishedAt": 1771681014000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0NPVFVTIHN0cmlrZSBk",
+      "title": "SCOTUS strike down of Trump tariffs: What’s the impact on IT Hardware/Networking",
+      "summary": "",
+      "url": "https://www.investing.com/news/technology-news/scotus-strike-down-of-trump-tariffs-whats-the-impact-on-it-hardwarenetworking-4517509",
+      "source": "Investing.com News",
+      "publishedAt": 1771679933000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VW5kZXIgbW91bnRpbmcg",
+      "title": "Under mounting toy pressures, Hasbro has a secret sauce that Mattel hasn&apos;t matched",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/21/hasbro-vs-mattel-toy-industry-pressures-make-digital-the-star.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771678801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Vz",
       "title": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official",
@@ -139,36 +184,6 @@
       "url": "https://www.investing.com/news/world-news/exclusivecuban-security-forces-exit-venezuela-as-us-pressure-mounts-4517500",
       "source": "Investing.com News",
       "publishedAt": 1771671991000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rmx1b3Igc3VyZ2VzIDcx",
-      "title": "Fluor surges 71% after InvestingPro Fair Value identified opportunity",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/fluor-surges-71-after-investingpro-fair-value-identified-opportunity-93CH-4517499",
-      "source": "Investing.com News",
-      "publishedAt": 1771671817000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJhbmNl4oCZcyBNYWNy",
-      "title": "France’s Macron calls for calm ahead of march for far-right activist killed last week",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
-      "source": "Investing.com News",
-      "publishedAt": 1771671629000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -547,21 +562,6 @@
       "url": "https://www.cnbc.com/2026/02/19/supreme-court-tariffs-furniture-retailers-threat.html",
       "source": "CNBC Markets",
       "publishedAt": 1771600803000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGVyc29uYWwgbG9hbnMg",
-      "title": "Personal loans surge amid affordability struggles: It&apos;s &apos;the middle-class refinancing option,&apos; expert says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/subprime-borrowers-personal-loans.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771594201000,
       "lang": "en-US",
       "topics": [
         "macro"
