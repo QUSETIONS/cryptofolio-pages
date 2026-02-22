@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771774446883,
-  "crawlUpdatedAt": 1771774446883,
+  "updatedAt": 1771778447363,
+  "crawlUpdatedAt": 1771778447363,
   "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXJtZWQgbWFuIGtpbGxl",
-      "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
+      "id": "Investing.com News-VVNBIGJlYXRzIENhbmFk",
+      "title": "USA beats Canada in overtime to win Olympic hockey gold after dramatic finish",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/trump-secret-service-shooting-mar-a-lago.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771773250000,
+      "url": "https://www.investing.com/news/general-news/usa-beats-canada-in-overtime-to-win-olympic-hockey-gold-after-dramatic-finish-4517605",
+      "source": "Investing.com News",
+      "publishedAt": 1771778036000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RpZmVsIGN1dHMgSkZy",
+      "title": "Stifel cuts JFrog stock price target on AI security concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-jfrog-stock-price-target-on-ai-security-concerns-93CH-4517604",
+      "source": "Investing.com News",
+      "publishedAt": 1771778016000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +45,44 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXJtZWQgbWFuIHNob3Qg",
-      "title": "Armed man shot dead at Mar-a-Lago after secured area breach, Secret Service says",
+      "id": "Investing.com News-UnVzc2lhIGhpdHMgVWty",
+      "title": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says",
       "summary": "",
-      "url": "https://www.investing.com/news/general-news/armed-man-shot-dead-at-maralago-after-secured-area-breach-secret-service-says-4517594",
+      "url": "https://www.investing.com/news/world-news/russia-hits-ukraine-energy-infrastructure-with-major-missile-drone-strikes-kyiv-says-4517557",
       "source": "Investing.com News",
-      "publishedAt": 1771773069000,
+      "publishedAt": 1771777849000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2x5bXBpY3MtSWNlIGhv",
+      "title": "Olympics-Ice hockey-US claim long-awaited gold with win against Canada in overtime",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/olympicsice-hockeyunited-states-beat-canada-in-overtime-for-mens-gold-4517599",
+      "source": "Investing.com News",
+      "publishedAt": 1771777830000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VFNBIFByZUNoZWNrIGlz",
+      "title": "TSA PreCheck is open at airports, agency says, hours after DHS announced suspension",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/tsa-airlines-weather-shutdown-blizzard-dhs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771777536000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +97,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/world-news/us-secret-service-agents-killed-man-trying-tounlawfully-enter-trumps-maralago-4517583",
       "source": "Investing.com News",
-      "publishedAt": 1771772794000,
+      "publishedAt": 1771777494000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +107,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R3JlZW5sYW5kIHByaW1l",
-      "title": "Greenland prime minister says ’no thanks’ to Trump’s hospital ship",
+      "id": "Investing.com News-VVMgcmV2ZXJzZXMgY291",
+      "title": "US reverses course and will keep TSA PreCheck program operational",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/greenland-prime-minister-says-no-thanks-to-trumps-hospital-ship-4517593",
+      "url": "https://www.investing.com/news/economy-news/us-homeland-security-tsa-precheck-still-operational-reversesearlier-announcement-4517595",
       "source": "Investing.com News",
-      "publishedAt": 1771772428000,
+      "publishedAt": 1771777475000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,83 +122,107 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyBh",
-      "title": "Bitcoin slips after earlier gains amid tariff volatility",
+      "id": "CNBC Markets-QXJtZWQgbWFuIGtpbGxl",
+      "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576",
-      "source": "Investing.com News",
-      "publishedAt": 1771772402000,
+      "url": "https://www.cnbc.com/2026/02/22/trump-secret-service-shooting-mar-a-lago.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771777376000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZGVtYW5kcyBO",
+      "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/trump-demands-netflix-fire-susan-rice-as-doj-probes-warner-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771777217000,
       "lang": "en-US",
       "topics": [
         "crypto"
       ],
-      "symbols": [
-        "BTC"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-REhTIHN1c3BlbmRzIFRT",
-      "title": "DHS suspends TSA Precheck, Global Entry as airlines brace for blizzard",
+      "id": "Investing.com News-RVUgdGVsbHMgVS5TLiDi",
+      "title": "EU tells U.S. “a deal is a deal” as tariff uncertainty grows after court ruling",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/tsa-airlines-weather-shutdown-blizzard-dhs.html",
+      "url": "https://www.investing.com/news/economy-news/eu-tells-us-a-deal-is-a-deal-as-tariff-uncertainty-grows-after-court-ruling-4517603",
+      "source": "Investing.com News",
+      "publishedAt": 1771776945000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVUgc2F5cyBpdCB3aWxs",
+      "title": "EU says it will accept no increase in US tariffs after Supreme Court ruling: ’a deal is a deal’",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/eu-says-it-will-accept-no-increase-in-us-tariffs-after-supreme-court-ruling-a-deal-is-a-deal-4517602",
+      "source": "Investing.com News",
+      "publishedAt": 1771776773000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZnaGFuaXN0YW7igJlz",
+      "title": "Afghanistan’s ruling Taliban says Pakistan strikes kill, injure dozens",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/afghanistans-ruling-taliban-says-pakistan-strikes-kill-injure-dozens-4517581",
+      "source": "Investing.com News",
+      "publishedAt": 1771776753000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9vbkxha2UgcmVwb3J0",
+      "title": "MoonLake reports positive phase 2 axial spondyloarthritis data",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/moonlake-reports-positive-phase-2-axial-spondyloarthritis-data-93CH-4517601",
+      "source": "Investing.com News",
+      "publishedAt": 1771776314000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-4oCYUGVhbnV0IGJ1dHRl",
+      "title": "‘Peanut butter’ pay raises could cost companies their top performers, according to experts: &apos;It&apos;s such a shortsighted strategy&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771771145000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IEdvbGQgaW4gc3Bv",
-      "title": "New Gold in spotlight as final earnings loom before merger",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/new-gold-in-spotlight-as-final-earnings-loom-before-merger-93CH-4517590",
-      "source": "Investing.com News",
-      "publishedAt": 1771770968000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-THVmYXggZWFybmluZ3Mg",
-      "title": "Lufax earnings ahead Monday as China fintech eyes leadership shift",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/lufax-earnings-ahead-monday-as-china-fintech-eyes-leadership-shift-93CH-4517589",
-      "source": "Investing.com News",
-      "publishedAt": 1771770907000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVjaG5pY2FsIHN0cmF0",
-      "title": "Technical strategist says S&P 500 \"appears coiled for a significant move\" soon",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/technical-strategist-says-sp-500-appears-coiled-for-a-significant-move-soon-4517588",
-      "source": "Investing.com News",
-      "publishedAt": 1771770791000,
+      "publishedAt": 1771772401000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
-      "symbols": [
-        "SPX"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -160,51 +233,6 @@
       "url": "https://www.cnbc.com/2026/02/22/cost-of-credit-reports-for-mortgages-center-of-debate-what-to-know-.html",
       "source": "CNBC Markets",
       "publishedAt": 1771770601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgdHJhZGUgY2hpZWYg",
-      "title": "US trade chief says no countries plan to exit tariff deals",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-trade-chief-says-no-countries-plan-to-exit-tariff-deals-4517587",
-      "source": "Investing.com News",
-      "publishedAt": 1771770290000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3dpdHplcmxhbmQgbWF5",
-      "title": "Switzerland may need to accept US tariffs as permanent, trade chief says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/switzerland-may-need-to-accept-us-tariffs-as-permanent-trade-chief-says-4517586",
-      "source": "Investing.com News",
-      "publishedAt": 1771769962000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLi1JcmFuIHRhbGtz",
-      "title": "U.S.-Iran talks expected Friday if Iran sends nuclear proposal soon, Axios reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/usiran-talks-expected-friday-if-iran-sends-nuclear-proposal-soon-axios-reports-4517585",
-      "source": "Investing.com News",
-      "publishedAt": 1771769909000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -343,36 +371,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVya3NoaXJlIHdhcyBh",
-      "title": "Berkshire was a net seller of stocks in Buffett&apos;s final quarter as CEO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/berkshire-was-a-net-seller-of-stocks-in-buffetts-final-quarter-as-ceo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771691718000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFya2V0IHZvbGF0aWxp",
-      "title": "Market volatility trap? Why this income-first strategy may &apos;leave a lot on the table&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/market-volatility-trap-this-investment-strategy-may-hurt-investors-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771689601000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
