@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771781587706,
-  "crawlUpdatedAt": 1771781587706,
+  "updatedAt": 1771786141831,
+  "crawlUpdatedAt": 1771786141831,
   "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,15 +13,90 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgZGVtYW5kcyBO",
-      "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+      "id": "CNBC Markets-QXJtZWQgbWFuIGtpbGxl",
+      "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/trump-demands-netflix-fire-susan-rice-as-doj-probes-warner-deal.html",
+      "url": "https://www.cnbc.com/2026/02/22/trump-secret-service-shooting-mar-a-lago.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771780371000,
+      "publishedAt": 1771785509000,
       "lang": "en-US",
       "topics": [
-        "crypto"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-REFFIENhcGl0YWwgbmVh",
+      "title": "DAE Capital nears deal to buy aircraft leasing firm Macquarie Airfinance, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/dae-capital-nears-deal-to-buy-aircraft-leasing-firm-macquarie-airfinance-sources-say-4517615",
+      "source": "Investing.com News",
+      "publishedAt": 1771785029000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmV2ZXJzaW5nIGNvdXJz",
+      "title": "Reversing course, US will keep TSA PreCheck program operational",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-homeland-security-tsa-precheck-still-operational-reversesearlier-announcement-4517595",
+      "source": "Investing.com News",
+      "publishedAt": 1771784309000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVRlaHJh",
+      "title": "Exclusive-Tehran is ready for nuclear concessions if US meets demands, Iranian official says",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters-4517560",
+      "source": "Investing.com News",
+      "publishedAt": 1771783608000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
+      "title": "Mexican drug lord \"El Mencho\" killed in military operation, says government source",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operation-says-government-source-4517614",
+      "source": "Investing.com News",
+      "publishedAt": 1771783591000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
+      "title": "Mexican drug lord \"El Mencho\" killed in military operation-government source",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operationgovernment-source-4517613",
+      "source": "Investing.com News",
+      "publishedAt": 1771783233000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -33,13 +108,75 @@
       "summary": "",
       "url": "https://www.investing.com/news/world-news/us-secret-service-agents-killed-man-trying-tounlawfully-enter-trumps-maralago-4517583",
       "source": "Investing.com News",
-      "publishedAt": 1771780366000,
+      "publishedAt": 1771782866000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
+      "title": "Mexican drug lord \"El Mencho\" targeted in military operation, local news outlets report",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-targeted-in-military-operation-local-news-outlets-report-4517612",
+      "source": "Investing.com News",
+      "publishedAt": 1771782517000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZGVtYW5kcyBO",
+      "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/trump-demands-netflix-fire-susan-rice-as-doj-probes-warner-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771782391000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgdHJhZGUgY2hpZWYg",
+      "title": "US trade chief says not seeing countries move to pull out of tariff deals",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-trade-chief-says-no-countries-have-said-they-will-withdraw-from-tariff-deals-4517584",
+      "source": "Investing.com News",
+      "publishedAt": 1771781785000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2x5bXBpY3MtSWNlIGhv",
+      "title": "Olympics-Ice hockey-US claim long-awaited gold by beating rivals Canada in overtime thriller",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/olympicsice-hockeyunited-states-beat-canada-in-overtime-for-mens-gold-4517599",
+      "source": "Investing.com News",
+      "publishedAt": 1771781424000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -73,132 +210,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFuY2EgR2VuZXJhbGkg",
-      "title": "Banca Generali FY 2025 slides: record profit, €2.9 dividend proposed",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/banca-generali-fy-2025-slides-record-profit-29-dividend-proposed-93CH-4517611",
-      "source": "Investing.com News",
-      "publishedAt": 1771780007000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2x5bXBpY3MtSWNlIGhv",
-      "title": "Olympics-Ice hockey-US claim long-awaited gold by beating Canada in overtime thriller",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/olympicsice-hockeyunited-states-beat-canada-in-overtime-for-mens-gold-4517599",
-      "source": "Investing.com News",
-      "publishedAt": 1771779275000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmVoaWNsZXMgdG9yY2hl",
-      "title": "Vehicles torched in Mexico’s Jalisco following federal operation",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/vehicles-torched-in-mexicos-jalisco-following-federal-operation-4517609",
-      "source": "Investing.com News",
-      "publishedAt": 1771779250000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBhZ3JlZWQgc2Vj",
-      "title": "Iran agreed secret shoulder-fired missile deal with Russia, FT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/iran-agreed-secret-shoulderfired-missile-deal-with-russia-ft-reports-4517608",
-      "source": "Investing.com News",
-      "publishedAt": 1771778527000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Banca Generali Q4 2025 sees record profit but stock dips",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-banca-generali-q4-2025-sees-record-profit-but-stock-dips-93CH-4517607",
-      "source": "Investing.com News",
-      "publishedAt": 1771778312000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SkZyb2cgcHJpY2UgdGFy",
-      "title": "JFrog price target cut to $52 by Stifel after AI-driven selloff, keeps Buy rating",
-      "summary": "",
-      "url": "https://www.investing.com/news/technology-news/jfrog-price-target-cut-to-52-by-stifel-after-aidriven-selloff-keeps-buy-rating-4517606",
-      "source": "Investing.com News",
-      "publishedAt": 1771778218000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVNBIGJlYXRzIENhbmFk",
-      "title": "USA beats Canada in overtime to win Olympic hockey gold after dramatic finish",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/usa-beats-canada-in-overtime-to-win-olympic-hockey-gold-after-dramatic-finish-4517605",
-      "source": "Investing.com News",
-      "publishedAt": 1771778036000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIGN1dHMgSkZy",
-      "title": "Stifel cuts JFrog stock price target on AI security concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-jfrog-stock-price-target-on-ai-security-concerns-93CH-4517604",
-      "source": "Investing.com News",
-      "publishedAt": 1771778016000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VFNBIFByZUNoZWNrIGlz",
       "title": "TSA PreCheck is open at airports, agency says, hours after DHS announced suspension",
       "summary": "",
@@ -214,12 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXJtZWQgbWFuIGtpbGxl",
-      "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDUg",
+      "title": "Here are the 5 big things we&apos;re watching in the stock market this week",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/trump-secret-service-shooting-mar-a-lago.html",
+      "url": "https://www.cnbc.com/2026/02/22/here-are-the-5-big-things-were-watching-in-the-stock-market-this-week.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771777376000,
+      "publishedAt": 1771776702000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -355,21 +366,6 @@
       "url": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
       "source": "CNBC Markets",
       "publishedAt": 1771699769000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgMyBmb3Jj",
-      "title": "Here are 3 forces that drove the stock market during Wall Street’s comeback week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/3-forces-that-drove-the-stock-market-during-wall-streets-comeback-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771696011000,
       "lang": "en-US",
       "topics": [
         "macro"
