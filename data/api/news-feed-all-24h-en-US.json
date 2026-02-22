@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771786141831,
-  "crawlUpdatedAt": 1771786141831,
-  "crawlCount": 24,
+  "updatedAt": 1771788798371,
+  "crawlUpdatedAt": 1771788798371,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-REhTIGFicnVwdGx5IHJl",
+      "title": "DHS abruptly reverses suspension of TSA PreCheck",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/tsa-airlines-weather-shutdown-blizzard-dhs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771787473000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
+      "title": "Mexican drug lord \"El Mencho\" killed in military operation, says government source",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operation-says-government-source-4517614",
+      "source": "Investing.com News",
+      "publishedAt": 1771786101000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWlyIENhbmFkYSB0ZW1w",
+      "title": "Air Canada temporarily suspends operations in Mexico’s Puerto Vallarta",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/air-canada-temporarily-suspends-operations-in-mexicos-puerto-vallarta-4517617",
+      "source": "Investing.com News",
+      "publishedAt": 1771785847000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9sbHMtUm95Y2UgdG8g",
+      "title": "Rolls-Royce to return as much as $2 billion to shareholders in buyback, Sky News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/rollsroyce-to-return-as-much-as-2-billion-to-shareholders-in-buyback-sky-news-reports-4517616",
+      "source": "Investing.com News",
+      "publishedAt": 1771785750000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QXJtZWQgbWFuIGtpbGxl",
       "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
@@ -64,21 +124,6 @@
       "url": "https://www.investing.com/news/commodities-news/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters-4517560",
       "source": "Investing.com News",
       "publishedAt": 1771783608000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
-      "title": "Mexican drug lord \"El Mencho\" killed in military operation, says government source",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operation-says-government-source-4517614",
-      "source": "Investing.com News",
-      "publishedAt": 1771783591000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,59 +208,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2x5bXBpY3MtSWNlIGhv",
-      "title": "Olympics-Ice hockey-US claim long-awaited gold by beating rivals Canada in overtime thriller",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/olympicsice-hockeyunited-states-beat-canada-in-overtime-for-mens-gold-4517599",
-      "source": "Investing.com News",
-      "publishedAt": 1771781424000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbmlhbiBzdHVkZW50",
-      "title": "Iranian students protest for second day at some universities",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/iranian-students-protest-for-second-day-at-some-universities-4517610",
-      "source": "Investing.com News",
-      "publishedAt": 1771780349000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXMgQW1lcmljYW4gR2ly",
       "title": "As American Girl turns 40, Mattel grapples with bringing dolls into a new era",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/22/american-girl-40th-anniversary-sales-mattel.html",
       "source": "CNBC Markets",
       "publishedAt": 1771780028000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VFNBIFByZUNoZWNrIGlz",
-      "title": "TSA PreCheck is open at airports, agency says, hours after DHS announced suspension",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/tsa-airlines-weather-shutdown-blizzard-dhs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771777536000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -351,21 +349,6 @@
       "url": "https://www.cnbc.com/2026/02/21/trump-accounts.html",
       "source": "CNBC Markets",
       "publishedAt": 1771709809000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gaGlrZSBn",
-      "title": "Trump to hike global tariffs to 15% from 10%, &apos;effective immediately&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771699769000,
       "lang": "en-US",
       "topics": [
         "macro"
