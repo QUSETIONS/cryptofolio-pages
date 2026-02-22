@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771772053478,
-  "crawlUpdatedAt": 1771772053478,
-  "crawlCount": 23,
+  "updatedAt": 1771774447275,
+  "crawlUpdatedAt": 1771774447275,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-REhTIHN1c3BlbmRzIFRT",
-      "title": "DHS suspends TSA Precheck, Global Entry as airlines brace for blizzard",
+      "id": "CNBC Markets-QXJtZWQgbWFuIGtpbGxl",
+      "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/tsa-airlines-weather-shutdown-blizzard-dhs.html",
+      "url": "https://www.cnbc.com/2026/02/22/trump-secret-service-shooting-mar-a-lago.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771771145000,
+      "publishedAt": 1771773250000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,74 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgU2VjcmV0IFNlcnZp",
-      "title": "US Secret Service agents killed man trying to unlawfully enter Trump’s Mar-a-Lago resort",
+      "id": "Investing.com News-QXJtZWQgbWFuIHNob3Qg",
+      "title": "Armed man shot dead at Mar-a-Lago after secured area breach, Secret Service says",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/armed-man-shot-dead-at-maralago-after-secured-area-breach-secret-service-says-4517594",
+      "source": "Investing.com News",
+      "publishedAt": 1771773069000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGF3IGVuZm9yY2VtZW50",
+      "title": "Law enforcement kills armed man seeking to enter Trump’s Mar-a-Lago resort, officials say",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/us-secret-service-agents-killed-man-trying-tounlawfully-enter-trumps-maralago-4517583",
       "source": "Investing.com News",
-      "publishedAt": 1771770995000,
+      "publishedAt": 1771772794000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3JlZW5sYW5kIHByaW1l",
+      "title": "Greenland prime minister says ’no thanks’ to Trump’s hospital ship",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/greenland-prime-minister-says-no-thanks-to-trumps-hospital-ship-4517593",
+      "source": "Investing.com News",
+      "publishedAt": 1771772428000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyBh",
+      "title": "Bitcoin slips after earlier gains amid tariff volatility",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576",
+      "source": "Investing.com News",
+      "publishedAt": 1771772402000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-REhTIHN1c3BlbmRzIFRT",
+      "title": "DHS suspends TSA Precheck, Global Entry as airlines brace for blizzard",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/tsa-airlines-weather-shutdown-blizzard-dhs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771771145000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -92,6 +154,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SG9tZWJ1eWVycyBhcmUg",
+      "title": "Homebuyers are paying more for mortgage credit checks. Here’s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/cost-of-credit-reports-for-mortgages-center-of-debate-what-to-know-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771770601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-VVMgdHJhZGUgY2hpZWYg",
       "title": "US trade chief says no countries plan to exit tariff deals",
       "summary": "",
@@ -137,36 +214,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgdHJhZGUgY2hpZWYg",
-      "title": "US trade chief says no countries have said they will withdraw from tariff deals",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-trade-chief-says-no-countries-have-said-they-will-withdraw-from-tariff-deals-4517584",
-      "source": "Investing.com News",
-      "publishedAt": 1771769190000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3dpc3Mgb2ZmaWNpYWwg",
-      "title": "Swiss official says country may have to accept US tariffs as permanent",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/swiss-official-says-country-may-have-to-accept-us-tariffs-as-permanent-4517582",
-      "source": "Investing.com News",
-      "publishedAt": 1771768829000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QWRvcHQgdGhpcyBzaW1w",
       "title": "Adopt this simple sleep habit if you&apos;re tired of rushing, says time management expert: It&apos;s &apos;the least sexy, but the most impactful&apos;",
       "summary": "",
@@ -194,21 +241,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3VwcmVtZSBDb3VydCB3",
-      "title": "Supreme Court wades into US-Cuba business disputes, with billions at stake",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/supreme-court-wades-into-uscuba-business-disputes-with-billions-at-stake-4517573",
-      "source": "Investing.com News",
-      "publishedAt": 1771765971000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -341,21 +373,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIDE4IGhpZ2hlc3Qt",
-      "title": "The 18 highest-paying college majors 5 years after graduation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/highest-paying-college-majors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771686001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
