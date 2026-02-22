@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771753210898,
-  "crawlUpdatedAt": 1771753210898,
+  "updatedAt": 1771756514485,
+  "crawlUpdatedAt": 1771756514485,
   "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SW5kaWEgZGVsYXlzIFdh",
+      "title": "India delays Washington trade visit as U.S. tariff policy shifts, source tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/trump-tariffs-india-trade-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771755625000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5kaWEgZGVsYXlzIFUu",
+      "title": "India delays U.S. trade talks after Supreme Court rejects Trump tariffs, source says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/india-delays-us-trade-talks-after-supreme-court-rejects-trump-tariffs-source-says-4517567",
+      "source": "Investing.com News",
+      "publishedAt": 1771755145000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IFN3aXR6ZXJsYW5k",
+      "title": "How Switzerland is quietly pulling ahead of Europe in the AI race",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/how-switzerland-is-quietly-pulling-ahead-of-europe-in-the-ai-race-4514540",
+      "source": "Investing.com News",
+      "publishedAt": 1771754402000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WGkgZ2FpbnMgc3RyYXRl",
+      "title": "Xi gains strategic edge ahead of Trump summit as U.S. tariff regime stumbles",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/xi-gains-strategic-edge-ahead-of-trump-summit-as-us-tariff-regime-stumbles-4517566",
+      "source": "Investing.com News",
+      "publishedAt": 1771753469000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-R2FyYW50aSBCQlZBIHNl",
       "title": "Garanti BBVA sells TL 3.5 billion non-performing loan portfolio",
@@ -109,53 +169,6 @@
       "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-stock-likely-to-outperform-in-2h26-4516514",
       "source": "Investing.com News",
       "publishedAt": 1771750803000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IEVzc2lsb3JMdXhv",
-      "title": "Why EssilorLuxottica stock is falling",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-essilorluxottica-stock-is-falling-4513416",
-      "source": "Investing.com News",
-      "publishedAt": 1771750803000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuIGdvbGQgcmlzZSB0",
-      "title": "Can gold rise to new highs above $5,600 in 2026?",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/can-gold-rise-to-new-highs-above-5600-in-2026-4511861",
-      "source": "Investing.com News",
-      "publishedAt": 1771750802000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIGhpdHMgVWty",
-      "title": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/russia-hits-ukraine-energy-infrastructure-with-major-missile-drone-strikes-kyiv-says-4517557",
-      "source": "Investing.com News",
-      "publishedAt": 1771750468000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -327,21 +340,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiB0cmFkaW5nIHBh",
-      "title": "U.S. trading partners cheer Supreme Court tariff ruling — but businesses must still navigate &apos;murky waters&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/20/supreme-court-tariff-ruling-trade-world-leaders-react-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771667852000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
