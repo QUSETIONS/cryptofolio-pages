@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1771815249589,
-  "crawlUpdatedAt": 1771815249589,
+  "updatedAt": 1771823162259,
+  "crawlUpdatedAt": 1771823162259,
   "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-SW5kb25lc2lhIGJ1ZGdl",
+      "title": "Indonesia budget deficit at 0.21% of GDP in January, Finance Minister says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/indonesia-budget-deficit-at-021-of-gdp-in-january-finance-minister-says-4517716",
+      "source": "Investing.com News",
+      "publishedAt": 1771822480000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdW52ZWlscyDi",
+      "title": "Trump unveils ‘Tech Corps’ to promote American AI abroad",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771821778000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
+      "title": "South Korea&apos;s Kospi hits fresh high as Asian markets brush off Trump&apos;s latest tariff moves",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/asia-pacific-markets-hang-seng-index-nifty-50-kospi-trump-tariffs-15-percent-supreme-court.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771820596000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGRyb3BzIGFtaWQg",
+      "title": "Oil drops amid Iran nuclear talks, US tariff uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-slides-as-us-tariff-hike-raise-jitters-over-global-economy-4517638",
+      "source": "Investing.com News",
+      "publishedAt": 1771820307000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Qml0Y29pbiBmYWxscyBi",
       "title": "Bitcoin falls below $65,000 as Trump tariff moves raise uncertainty",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771815064000,
+      "publishedAt": 1771819545000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
@@ -30,12 +90,104 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIFBlYWNlIENvcnBz",
-      "title": "The Peace Corps gets AI-revamp: Trump launches ‘Tech Corps’ to boost U.S. influence",
+      "id": "Investing.com News-U291dGggS29yZWEgdXJn",
+      "title": "South Korea urges Russian embassy to remove ’victory’ banner as Ukraine war anniversary nears",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771814605000,
+      "url": "https://www.investing.com/news/world-news/south-korea-urges-russian-embassy-to-remove-victory-banner-as-ukraine-war-anniversary-nears-4517704",
+      "source": "Investing.com News",
+      "publishedAt": 1771819241000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVUgc2F5cyBpdCB3aWxs",
+      "title": "EU says it will accept no increase in US tariffs after Supreme Court ruling: ’a deal is a deal’",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/eu-says-it-will-accept-no-increase-in-us-tariffs-after-supreme-court-ruling-a-deal-is-a-deal-4517602",
+      "source": "Investing.com News",
+      "publishedAt": 1771819226000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSB0",
+      "title": "Bitcoin price today: tumbles below $65k amid whale selling, US tariff jitters",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-tumbles-below-65k-amid-whale-selling-us-tariff-jitters-4517703",
+      "source": "Investing.com News",
+      "publishedAt": 1771818333000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgZXZhbHVhdGlu",
+      "title": "China evaluating Trump tariff ruling, Commerce Ministry says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/china-considering-trump-tariff-ruling-commerce-ministry-says-4517702",
+      "source": "Investing.com News",
+      "publishedAt": 1771817942000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYSBzdG9ja3Mgc2tp",
+      "title": "Asia stocks skittish on Trump tariff jitters; Hong Kong, S. Korea advance",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-skittish-on-trump-tariff-jitters-hong-kong-s-korea-advance-4517701",
+      "source": "Investing.com News",
+      "publishedAt": 1771815961000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgaXMgbWFraW5n",
+      "title": "China is making ’full assessment’ of US Supreme Court tariff ruling, commerce ministry says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/china-is-making-full-assessment-of-us-supreme-court-tariff-ruling-commerce-ministry-says-4517700",
+      "source": "Investing.com News",
+      "publishedAt": 1771815630000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBtaWxpdGFy",
+      "title": "Mexican military kills cartel boss ’El Mencho’ in US-backed raid",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operation-says-government-source-4517614",
+      "source": "Investing.com News",
+      "publishedAt": 1771814933000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -57,157 +209,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk9KIG1heSByYWlzZSBy",
-      "title": "BOJ may raise rates in March if yen resumes slide, says ex-policymaker",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/boj-may-raise-rates-in-march-if-yen-resumes-slide-says-expolicymaker-4517698",
-      "source": "Investing.com News",
-      "publishedAt": 1771814183000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
-      "title": "Mexican drug lord killing sparks revenge attacks; cars and businesses set ablaze, highways blocked",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-killing-sparks-revenge-attacks-cars-and-businesses-set-ablaze-highways-blocked-4517697",
-      "source": "Investing.com News",
-      "publishedAt": 1771812761000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBzbGlw",
-      "title": "Oil prices slip on US-Iran nuclear talks, Trump tariff uncertainty",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-slip-on-usiran-nuclear-talks-trump-tariff-uncertainty-4517696",
-      "source": "Investing.com News",
-      "publishedAt": 1771812487000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdGFsIEZZMjAyNiBI",
-      "title": "Austal FY2026 H1 slides: 34% revenue surge clouded by margin concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/austal-fy2026-h1-slides-34-revenue-surge-clouded-by-margin-concerns-93CH-4517695",
-      "source": "Investing.com News",
-      "publishedAt": 1771811507000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Ftc3VuZyBzaGFyZXMg",
-      "title": "Samsung shares hit record high on Nvidia supplier speculation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-shares-hit-record-high-on-nvidia-supplier-speculation-4517694",
-      "source": "Investing.com News",
-      "publishedAt": 1771810575000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Austal Q1 2026 reveals strong growth amid challenges",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-austal-q1-2026-reveals-strong-growth-amid-challenges-93CH-4517693",
-      "source": "Investing.com News",
-      "publishedAt": 1771810534000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF2aWdhdG9yIEdsb2Jh",
-      "title": "Navigator Global H1 FY26 slides: 17% earnings growth, cautious outlook ahead",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/navigator-global-h1-fy26-slides-17-earnings-growth-cautious-outlook-ahead-93CH-4517692",
-      "source": "Investing.com News",
-      "publishedAt": 1771810411000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tmlja2VsIE1pbmVzIDIw",
-      "title": "Nickel Mines 2025 presentation: resilience amid downturn, growth ahead",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nickel-mines-2025-presentation-resilience-amid-downturn-growth-ahead-93CH-4517691",
-      "source": "Investing.com News",
-      "publishedAt": 1771810301000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGF0YTMgMUggRlkyNiBz",
-      "title": "Data3 1H FY26 slides: revenue climbs 9% as margins face pressure",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/data3-1h-fy26-slides-revenue-climbs-9-as-margins-face-pressure-93CH-4517690",
-      "source": "Investing.com News",
-      "publishedAt": 1771810212000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
-      "title": "South Korea&apos;s Kospi hits fresh high as Asian markets brush off Trump&apos;s latest tariff moves",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/asia-pacific-markets-hang-seng-index-nifty-50-kospi-trump-tariffs-15-percent-supreme-court.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771807311000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
