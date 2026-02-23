@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771823162259,
-  "crawlUpdatedAt": 1771823162259,
-  "crawlCount": 27,
+  "updatedAt": 1771828965678,
+  "crawlUpdatedAt": 1771828965678,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,89 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SW5kb25lc2lhIGJ1ZGdl",
-      "title": "Indonesia budget deficit at 0.21% of GDP in January, Finance Minister says",
+      "id": "CNBC Markets-JmFwb3M7U2l0IHN0aWxs",
+      "title": "&apos;Sit still and do nothing&apos;: Trump&apos;s latest tariff salvos leave markets unfazed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/trumps-tariffs-market-reaction-stocks-bitcoin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771828334000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtVVMgdGFy",
+      "title": "Analysis-US tariff turmoil leaves Treasury markets dazed",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/analysisus-tariff-turmoil-leaves-treasury-markets-dazed-4517755",
+      "source": "Investing.com News",
+      "publishedAt": 1771828229000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIGluaXRp",
+      "title": "Jefferies initiates York Space Systems stock with buy rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-york-space-systems-stock-with-buy-rating-93CH-4517793",
+      "source": "Investing.com News",
+      "publishedAt": 1771828146000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks to start the week lower as markets react to new Trump tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-reaction.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771828035000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGkgQXJhbWNvIHNl",
+      "title": "Saudi Aramco sells first Jafurah condensate cargoes to US firms, India, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/saudi-aramco-sells-first-jafurah-condensate-cargoes-to-us-firms-india-sources-say-4517792",
+      "source": "Investing.com News",
+      "publishedAt": 1771827963000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5kb25lc2lh4oCZcyBn",
+      "title": "Indonesia’s government spending jumps 26% in January",
       "summary": "",
       "url": "https://www.investing.com/news/economy-news/indonesia-budget-deficit-at-021-of-gdp-in-january-finance-minister-says-4517716",
       "source": "Investing.com News",
-      "publishedAt": 1771822480000,
+      "publishedAt": 1771827871000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,13 +110,150 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771821778000,
+      "publishedAt": 1771827815000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U291dGggS29yZWEsIEJy",
+      "title": "South Korea, Brazil agree to expand cooperation in key minerals, trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/south-korea-brazil-agree-to-expand-cooperation-in-key-minerals-trade-4517791",
+      "source": "Investing.com News",
+      "publishedAt": 1771827509000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R0RJIFByb3BlcnR5IEgx",
+      "title": "GDI Property H1 2026 slides: FFO surges 29% on leasing momentum",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/gdi-property-h1-2026-slides-ffo-surges-29-on-leasing-momentum-93CH-4517790",
+      "source": "Investing.com News",
+      "publishedAt": 1771827305000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgY3VzdG9tcyBzYXlz",
+      "title": "US customs says it will stop collecting Trump tariffs from Feb 24 after SC ruling",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-customs-says-it-will-stop-collecting-trump-tariffs-from-feb-24-after-sc-ruling-4517781",
+      "source": "Investing.com News",
+      "publishedAt": 1771827219000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gdXBncmFk",
+      "title": "JPMorgan upgrades Sun Hung Kai Properties stock rating on valuation shift",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-sun-hung-kai-properties-stock-rating-on-valuation-shift-93CH-4517780",
+      "source": "Investing.com News",
+      "publishedAt": 1771827187000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gdXBncmFk",
+      "title": "JPMorgan upgrades Thai Union stock rating on tariff clarity",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-thai-union-stock-rating-on-tariff-clarity-93CH-4517779",
+      "source": "Investing.com News",
+      "publishedAt": 1771827178000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2l0aCBVUyB0YXJpZmYg",
+      "title": "With US tariff rates up in the air, the economic fog again thickens",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/with-us-tariff-rates-up-in-the-air-the-economic-fog-again-thickens-4517777",
+      "source": "Investing.com News",
+      "publishedAt": 1771826792000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IHRoZSBBSSBkZWJ0",
+      "title": "How the AI debt binge shattered hyperscalers’ ‘unspoken contract’ with investors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/big-techs-ai-bond-binge-shatters-unspoken-contract-with-investors.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771826782000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmHigJlzIGxldmVy",
+      "title": "China’s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/trumps-tariff-setback-in-supreme-court-ruling-boosts-china-april-summit-leverage-xi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771825964000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBmYWxscyBv",
+      "title": "Bitcoin falls over 3% as Trump tariff moves raise uncertainty",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771824186000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -55,160 +269,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIGRyb3BzIGFtaWQg",
-      "title": "Oil drops amid Iran nuclear talks, US tariff uncertainty",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-slides-as-us-tariff-hike-raise-jitters-over-global-economy-4517638",
-      "source": "Investing.com News",
-      "publishedAt": 1771820307000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBmYWxscyBi",
-      "title": "Bitcoin falls below $65,000 as Trump tariff moves raise uncertainty",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771819545000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGggS29yZWEgdXJn",
-      "title": "South Korea urges Russian embassy to remove ’victory’ banner as Ukraine war anniversary nears",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/south-korea-urges-russian-embassy-to-remove-victory-banner-as-ukraine-war-anniversary-nears-4517704",
-      "source": "Investing.com News",
-      "publishedAt": 1771819241000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RVUgc2F5cyBpdCB3aWxs",
-      "title": "EU says it will accept no increase in US tariffs after Supreme Court ruling: ’a deal is a deal’",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/eu-says-it-will-accept-no-increase-in-us-tariffs-after-supreme-court-ruling-a-deal-is-a-deal-4517602",
-      "source": "Investing.com News",
-      "publishedAt": 1771819226000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBwcmljZSB0",
-      "title": "Bitcoin price today: tumbles below $65k amid whale selling, US tariff jitters",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-tumbles-below-65k-amid-whale-selling-us-tariff-jitters-4517703",
-      "source": "Investing.com News",
-      "publishedAt": 1771818333000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgZXZhbHVhdGlu",
-      "title": "China evaluating Trump tariff ruling, Commerce Ministry says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/china-considering-trump-tariff-ruling-commerce-ministry-says-4517702",
-      "source": "Investing.com News",
-      "publishedAt": 1771817942000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBzdG9ja3Mgc2tp",
-      "title": "Asia stocks skittish on Trump tariff jitters; Hong Kong, S. Korea advance",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-skittish-on-trump-tariff-jitters-hong-kong-s-korea-advance-4517701",
-      "source": "Investing.com News",
-      "publishedAt": 1771815961000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgaXMgbWFraW5n",
-      "title": "China is making ’full assessment’ of US Supreme Court tariff ruling, commerce ministry says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/china-is-making-full-assessment-of-us-supreme-court-tariff-ruling-commerce-ministry-says-4517700",
-      "source": "Investing.com News",
-      "publishedAt": 1771815630000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNhbiBtaWxpdGFy",
-      "title": "Mexican military kills cartel boss ’El Mencho’ in US-backed raid",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operation-says-government-source-4517614",
-      "source": "Investing.com News",
-      "publishedAt": 1771814933000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVnaXMgSGVhbHRoY2Fy",
-      "title": "Regis Healthcare shares surge on strong first-half earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/regis-healthcare-shares-surge-on-strong-firsthalf-earnings-4517699",
-      "source": "Investing.com News",
-      "publishedAt": 1771814476000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
