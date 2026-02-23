@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771803268357,
-  "crawlUpdatedAt": 1771803268357,
-  "crawlCount": 23,
+  "updatedAt": 1771815249589,
+  "crawlUpdatedAt": 1771815249589,
+  "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-TWV4aWNhbiBjYXJ0ZWwg",
-      "title": "Mexican cartel boss ’El Mencho’ killed in military raid",
+      "id": "CNBC Markets-Qml0Y29pbiBmYWxscyBi",
+      "title": "Bitcoin falls below $65,000 as Trump tariff moves raise uncertainty",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-el-mencho-killed-in-military-operation-says-government-source-4517614",
-      "source": "Investing.com News",
-      "publishedAt": 1771803063000,
+      "url": "https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771815064000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIFBlYWNlIENvcnBz",
+      "title": "The Peace Corps gets AI-revamp: Trump launches ‘Tech Corps’ to boost U.S. influence",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771814605000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +45,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLU5ldyBV",
-      "title": "Exclusive-New US military-led group aided Mexico’s hunt for ’El Mencho’ cartel boss",
+      "id": "Investing.com News-UmVnaXMgSGVhbHRoY2Fy",
+      "title": "Regis Healthcare shares surge on strong first-half earnings",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/exclusivenew-us-militaryled-group-aided-mexicos-hunt-for-el-mencho-cartel-boss-4517626",
+      "url": "https://www.investing.com/news/stock-market-news/regis-healthcare-shares-surge-on-strong-firsthalf-earnings-4517699",
       "source": "Investing.com News",
-      "publishedAt": 1771803044000,
+      "publishedAt": 1771814476000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +60,28 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q29wIHR1cm5lZCBjcmlt",
-      "title": "Cop turned crime boss, Nemesio ’El Mencho’ Oseguera leaves bloody legacy",
+      "id": "Investing.com News-Qk9KIG1heSByYWlzZSBy",
+      "title": "BOJ may raise rates in March if yen resumes slide, says ex-policymaker",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/cop-turned-crime-boss-nemesio-el-mencho-oseguera-leaves-bloody-legacy-4517623",
+      "url": "https://www.investing.com/news/economy-news/boj-may-raise-rates-in-march-if-yen-resumes-slide-says-expolicymaker-4517698",
       "source": "Investing.com News",
-      "publishedAt": 1771803027000,
+      "publishedAt": 1771814183000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBkcnVnIGxv",
+      "title": "Mexican drug lord killing sparks revenge attacks; cars and businesses set ablaze, highways blocked",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexican-drug-lord-killing-sparks-revenge-attacks-cars-and-businesses-set-ablaze-highways-blocked-4517697",
+      "source": "Investing.com News",
+      "publishedAt": 1771812761000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,42 +91,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TnVpeCAxSDI2IHByZXNl",
-      "title": "Nuix 1H26 presentation: Neo platform surges 148%, cash flow turns positive",
+      "id": "Investing.com News-T2lsIHByaWNlcyBzbGlw",
+      "title": "Oil prices slip on US-Iran nuclear talks, Trump tariff uncertainty",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/nuix-1h26-presentation-neo-platform-surges-148-cash-flow-turns-positive-93CH-4517641",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-slip-on-usiran-nuclear-talks-trump-tariff-uncertainty-4517696",
       "source": "Investing.com News",
-      "publishedAt": 1771802967000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWNNaWxsYW4gU2hha2Vz",
-      "title": "McMillan Shakespeare 1HFY26 slides: revenue up 11%, buyback announced",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mcmillan-shakespeare-1hfy26-slides-revenue-up-11-buyback-announced-93CH-4517640",
-      "source": "Investing.com News",
-      "publishedAt": 1771802761000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJhZW1pdW0gMUgyNiBz",
-      "title": "Praemium 1H26 slides: EBITDA jumps 18% as Spectrum gains traction",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/praemium-1h26-slides-ebitda-jumps-18-as-spectrum-gains-traction-93CH-4517639",
-      "source": "Investing.com News",
-      "publishedAt": 1771802741000,
+      "publishedAt": 1771812487000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +106,132 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIHNsaWRlcyBhcyBV",
-      "title": "Oil slides as US tariff hike raise jitters over global economy",
+      "id": "Investing.com News-QXVzdGFsIEZZMjAyNiBI",
+      "title": "Austal FY2026 H1 slides: 34% revenue surge clouded by margin concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-slides-as-us-tariff-hike-raise-jitters-over-global-economy-4517638",
+      "url": "https://www.investing.com/news/company-news/austal-fy2026-h1-slides-34-revenue-surge-clouded-by-margin-concerns-93CH-4517695",
       "source": "Investing.com News",
-      "publishedAt": 1771802669000,
+      "publishedAt": 1771811507000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2Ftc3VuZyBzaGFyZXMg",
+      "title": "Samsung shares hit record high on Nvidia supplier speculation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-shares-hit-record-high-on-nvidia-supplier-speculation-4517694",
+      "source": "Investing.com News",
+      "publishedAt": 1771810575000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Austal Q1 2026 reveals strong growth amid challenges",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-austal-q1-2026-reveals-strong-growth-amid-challenges-93CH-4517693",
+      "source": "Investing.com News",
+      "publishedAt": 1771810534000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF2aWdhdG9yIEdsb2Jh",
+      "title": "Navigator Global H1 FY26 slides: 17% earnings growth, cautious outlook ahead",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/navigator-global-h1-fy26-slides-17-earnings-growth-cautious-outlook-ahead-93CH-4517692",
+      "source": "Investing.com News",
+      "publishedAt": 1771810411000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tmlja2VsIE1pbmVzIDIw",
+      "title": "Nickel Mines 2025 presentation: resilience amid downturn, growth ahead",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/nickel-mines-2025-presentation-resilience-amid-downturn-growth-ahead-93CH-4517691",
+      "source": "Investing.com News",
+      "publishedAt": 1771810301000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGF0YTMgMUggRlkyNiBz",
+      "title": "Data3 1H FY26 slides: revenue climbs 9% as margins face pressure",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/data3-1h-fy26-slides-revenue-climbs-9-as-margins-face-pressure-93CH-4517690",
+      "source": "Investing.com News",
+      "publishedAt": 1771810212000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
+      "title": "South Korea&apos;s Kospi hits fresh high as Asian markets brush off Trump&apos;s latest tariff moves",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/asia-pacific-markets-hang-seng-index-nifty-50-kospi-trump-tariffs-15-percent-supreme-court.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771807311000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmxpenphcmQgc25hcmxz",
+      "title": "Blizzard snarls air travel along U.S. East Coast as airlines cancel thousands of flights",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771803487000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXMgcHJpdmF0ZSBlcXVp",
+      "title": "Is private equity the next market crisis? How we got here and what&apos;s next",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/22/jim-cramer-looks-at-whether-private-equity-the-next-market-crisis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771803119000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -130,51 +253,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: G8 Education faces challenges in H2 2025",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-g8-education-faces-challenges-in-h2-2025-93CH-4517637",
-      "source": "Investing.com News",
-      "publishedAt": 1771802593000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29tdml0YSBIMSBGWTI2",
-      "title": "Comvita H1 FY26 slides: turnaround gains momentum, stock surges 17%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/comvita-h1-fy26-slides-turnaround-gains-momentum-stock-surges-17-93CH-4517636",
-      "source": "Investing.com News",
-      "publishedAt": 1771802351000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VuZXNpcyBFbmVyZ3kg",
-      "title": "Genesis Energy H1 FY26 slides: record earnings fuel renewable expansion",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/genesis-energy-h1-fy26-slides-record-earnings-fuel-renewable-expansion-93CH-4517635",
-      "source": "Investing.com News",
-      "publishedAt": 1771802157000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -214,21 +292,6 @@
       "url": "https://www.cnbc.com/2026/02/22/laura-vanderkam-sleep-habit-more-free-time.html",
       "source": "CNBC Markets",
       "publishedAt": 1771791523000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmxpenphcmQgc25hcmxz",
-      "title": "Blizzard snarls air travel along U.S. East Coast as airlines cancel thousands of flights",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771789128000,
       "lang": "zh-CN",
       "topics": [
         "macro"
