@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771888161750,
-  "crawlUpdatedAt": 1771888161750,
-  "crawlCount": 38,
+  "updatedAt": 1771890943525,
+  "crawlUpdatedAt": 1771890943525,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,89 +13,76 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QmlvTWFyaW4gUTQgMjAy",
-      "title": "BioMarin Q4 2025 slides: 17% revenue growth amid ROCTAVIAN charges",
+      "id": "CNBC Markets-RmVkRXggc3VlcyBVLlMu",
+      "title": "FedEx sues U.S. seeking full refund of Trump tariffs days after Supreme Court ruling",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/biomarin-q4-2025-slides-17-revenue-growth-amid-roctavian-charges-93CH-4520226",
-      "source": "Investing.com News",
-      "publishedAt": 1771887375000,
+      "url": "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771890479000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZGVuIEhlYXZlbiBH",
-      "title": "Golden Heaven Group announces $18 million private placement and warrant amendments",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/golden-heaven-group-announces-18-million-private-placement-and-warrant-amendments-93CH-4520225",
-      "source": "Investing.com News",
-      "publishedAt": 1771887327000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [
-        "XAU"
+        "FED"
       ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVtb2NyYXRzIG91dHBh",
-      "title": "Democrats outpace Republicans in fundraising for key US House races",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/democrats-outpace-republicans-in-fundraising-for-key-us-house-races-4520208",
-      "source": "Investing.com News",
-      "publishedAt": 1771887317000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbWFydCBFVlAgTmlj",
-      "title": "Walmart EVP Nicholas sells $4.1 million in WMT stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/walmart-evp-nicholas-sells-41-million-in-wmt-stock-93CH-4520224",
-      "source": "Investing.com News",
-      "publishedAt": 1771887294000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration steps up efforts to scrutinize foreign funding of universities",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-administration-steps-up-efforts-to-scrutinize-foreign-funding-of-universities-4520223",
-      "source": "Investing.com News",
-      "publishedAt": 1771887293000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: DMC Global Q4 2025 misses EPS forecast, revenue steady",
+      "title": "Earnings call transcript: Abacus Group’s H1 2026 shows resilience amid strategic shifts",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dmc-global-q4-2025-misses-eps-forecast-revenue-steady-93CH-4520222",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-abacus-groups-h1-2026-shows-resilience-amid-strategic-shifts-93CH-4520286",
       "source": "Investing.com News",
-      "publishedAt": 1771887273000,
+      "publishedAt": 1771890225000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkRXggc3VlcyBVUyBm",
+      "title": "FedEx sues US for refund on Trump’s emergency tariffs",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fedex-sues-us-for-refund-on-trumps-emergency-tariffs-4520245",
+      "source": "Investing.com News",
+      "publishedAt": 1771890161000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFjaWZpYyBDdXJyZW50",
+      "title": "Pacific Current H1 FY26 slides: profit drops 56% despite debt-free status",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/pacific-current-h1-fy26-slides-profit-drops-56-despite-debtfree-status-93CH-4520285",
+      "source": "Investing.com News",
+      "publishedAt": 1771890150000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: U.S. Global Investors Q2 2025 sees mixed results",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-us-global-investors-q2-2025-sees-mixed-results-93CH-4520284",
+      "source": "Investing.com News",
+      "publishedAt": 1771889995000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -105,42 +92,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBhYnJk",
-      "title": "Form 13D/A abrdn Life Sciences Investors For: 23 February",
+      "id": "Investing.com News-RmVkZXggc3VlcyBVUyBn",
+      "title": "Fedex sues US govt seeking full refund on Trump’s emergency tariffs",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-abrdn-life-sciences-investors-for-23-february-93CH-4520221",
+      "url": "https://www.investing.com/news/stock-market-news/fedex-sues-us-govt-seeking-full-refund-on-trumps-emergency-tariffs-4520283",
       "source": "Investing.com News",
-      "publishedAt": 1771887268000,
+      "publishedAt": 1771889984000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQmxhY2ti",
-      "title": "Form 144 Blackbaud Inc For: 23 February",
+      "id": "Investing.com News-SlBNb3JnYW4gc2VlcyBz",
+      "title": "JPMorgan sees strong first-quarter growth in dealmaking, trading",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-blackbaud-inc-for-23-february-93CH-4520220",
+      "url": "https://www.investing.com/news/economy-news/jpmorgan-maintains-2026-expense-outlook-rotce-target-at-17-4519937",
       "source": "Investing.com News",
-      "publishedAt": 1771887254000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXZlclF1b3RlIFE0IDIw",
-      "title": "EverQuote Q4 2025 slides: 327% EPS beat drives profitability surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/everquote-q4-2025-slides-327-eps-beat-drives-profitability-surge-93CH-4520219",
-      "source": "Investing.com News",
-      "publishedAt": 1771887235000,
+      "publishedAt": 1771889791000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,12 +124,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Summit Therapeutics Q4 2025 reports significant EPS miss",
+      "id": "Investing.com News-QUNWIEF1Y3Rpb25zIFE0",
+      "title": "ACV Auctions Q4 2025 slides: revenue growth continues amid profitability concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-summit-therapeutics-q4-2025-reports-significant-eps-miss-93CH-4520218",
+      "url": "https://www.investing.com/news/company-news/acv-auctions-q4-2025-slides-revenue-growth-continues-amid-profitability-concerns-93CH-4520282",
       "source": "Investing.com News",
-      "publishedAt": 1771887132000,
+      "publishedAt": 1771889708000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2NlbnRyZSBHcm91cCAy",
+      "title": "Scentre Group 2025 slides: record occupancy drives FFO growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/scentre-group-2025-slides-record-occupancy-drives-ffo-growth-93CH-4520281",
+      "source": "Investing.com News",
+      "publishedAt": 1771889647000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xlYXJ3YXkgRW5lcmd5",
+      "title": "Clearway Energy Q4 2025 slides: CAFD hits guidance high, eyes 19% growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/clearway-energy-q4-2025-slides-cafd-hits-guidance-high-eyes-19-growth-93CH-4520280",
+      "source": "Investing.com News",
+      "publishedAt": 1771889615000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFja2JsYXplIFE0IDIw",
+      "title": "Backblaze Q4 2025 slides: first profitable quarter, $15M AI deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/backblaze-q4-2025-slides-first-profitable-quarter-15m-ai-deal-93CH-4520279",
+      "source": "Investing.com News",
+      "publishedAt": 1771889569000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -225,21 +244,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7T2xkIGVjb25v",
-      "title": "&apos;Old economy&apos; stocks look expensive and software screams cheap. Is that enough to end the rotation?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/old-economy-stocks-look-expensive-software-screams-cheap-how-to-proceed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771883646000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
       "title": "Epstein files: Longevity guru Peter Attia quits CBS News after email fallout",
       "summary": "",
@@ -267,6 +271,21 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SUJNIGlzIHRoZSBsYXRl",
+      "title": "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771881737000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -366,6 +385,21 @@
       "url": "https://www.cnbc.com/2026/02/23/trump-report-jack-smith-judge-aileen-cannon-mar-a-lago.html",
       "source": "CNBC Markets",
       "publishedAt": 1771878347000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3liZXJzZWN1cml0eSBz",
+      "title": "Cybersecurity stock selling deepens on AI threat concerns. Why we&apos;re not bailing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/cybersecurity-stock-selling-deepens-on-ai-threat-concerns-why-were-not-bailing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771877606000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -533,21 +567,6 @@
       "url": "https://www.cnbc.com/2026/02/23/eli-lilly-launches-zepbound-obesity-drug-pen-one-month-doses.html",
       "source": "CNBC Markets",
       "publishedAt": 1771864762000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmVlc2UgV2l0aGVyc3Bv",
-      "title": "Reese Witherspoon has some career advice you might not want to hear: &apos;Don&apos;t chase your dreams&apos;—do this instead",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/reese-witherspoon-dont-chase-your-dreams-do-this-instead.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771857902000,
       "lang": "en-US",
       "topics": [
         "macro"
