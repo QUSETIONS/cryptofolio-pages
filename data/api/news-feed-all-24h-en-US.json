@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771876840150,
-  "crawlUpdatedAt": 1771876840150,
-  "crawlCount": 37,
+  "updatedAt": 1771881848065,
+  "crawlUpdatedAt": 1771881848065,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -14,11 +14,313 @@
   "items": [
     {
       "id": "CNBC Markets-SUJNIGlzIHRoZSBsYXRl",
-      "title": "IBM is the latest AI casualty. Shares are tanking 11% on Anthropic programming language threat",
+      "title": "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771876575000,
+      "publishedAt": 1771881737000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVzbGEgc3VlcyBDYWxp",
+      "title": "Tesla sues California DMV to reverse ruling that company engaged in false advertising on FSD",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771881606000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV4aWNvIHZpb2xlbmNl",
+      "title": "Mexico violence after cartel boss killing slows cross-border trade, hitting air freight, trucking, ports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771881574000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIG9kZHMgb2YgVHJ1",
+      "title": "The odds of Trump&apos;s $2,000 tariff dividend checks are &apos;now effectively zero,&apos; expert says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771881069000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29vZ2xlIHBhcnRuZXJz",
+      "title": "Google partners with ISTE+ASCD to train 6 million U.S. educators on AI",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/google-partners-with-isteascd-to-train-6-million-us-educators-on-ai-93CH-4519775",
+      "source": "Investing.com News",
+      "publishedAt": 1771880879000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgc2xp",
+      "title": "Wall Street slides on Trump tariff turmoil, AI disruption research report",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-on-trump-tariff-turmoil-nvidia-earnings-awaited-4517669",
+      "source": "Investing.com News",
+      "publishedAt": 1771880866000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3liZXJzZWN1cml0eSBz",
+      "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771880830000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgYW50aXRydXN0IGVu",
+      "title": "US antitrust enforcers to revamp guidelines on rivals collaborating",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-antitrust-enforcers-to-revamp-guidelines-on-rivals-collaborating-4519725",
+      "source": "Investing.com News",
+      "publishedAt": 1771880829000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgZW5k",
+      "title": "Wall Street ends sharply lower amid AI displacement fears and revived tariff angst",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-as-tariff-doubts-hit-risk-appetite-4518016",
+      "source": "Investing.com News",
+      "publishedAt": 1771880810000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VW5wcmVjZWRlbnRlZCBt",
+      "title": "Unprecedented military raid is risky gamble for Mexico’s Sheinbaum",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/analysisunprecedented-military-raid-is-risky-gamble-for-mexicos-sheinbaum-4519741",
+      "source": "Investing.com News",
+      "publishedAt": 1771880791000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VW5pdGVkIEJhbmtzaGFy",
+      "title": "United Bankshares declares $0.38 quarterly dividend",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/united-bankshares-declares-038-quarterly-dividend-93CH-4519757",
+      "source": "Investing.com News",
+      "publishedAt": 1771880729000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXN0ZWMgSW5kdXN0cmll",
+      "title": "Astec Industries declares $0.13 quarterly dividend",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/astec-industries-declares-013-quarterly-dividend-93CH-4519755",
+      "source": "Investing.com News",
+      "publishedAt": 1771880706000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGF0IHNpeC1tb250",
+      "title": "Oil at six-month high with nuclear talks and US tariffs in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-slides-as-us-tariff-hike-raise-jitters-over-global-economy-4517638",
+      "source": "Investing.com News",
+      "publishedAt": 1771880502000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxMFEgWWluZnUg",
+      "title": "Form 10Q Yinfu Gold Corporation For: 23 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-10q-yinfu-gold-corporation-for-23-february-93CH-4519749",
+      "source": "Investing.com News",
+      "publishedAt": 1771880497000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxMFEgSEFXS0VZ",
+      "title": "Form 10Q HAWKEYE SYSTEMS For: 23 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-10q-hawkeye-systems-for-23-february-93CH-4519748",
+      "source": "Investing.com News",
+      "publishedAt": 1771880489000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVtb2NyYXRzIGFyZSBw",
+      "title": "Democrats are pushing for refunds after Supreme Court blocks Trump tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/congress-democrats-trump-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771880276000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: Longevity guru Peter Attia quits CBS News after email fallout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-attia-cbs-news.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771879722000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771879224000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
+      "title": "Mortgage rates fall below 6%—how to decide if refinancing is worth it for you",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/mortgage-rates-fall-bellow-6-percent-how-to-decide-if-refinancing-is-worth-it-for-you.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771878832000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3R1ZGVudCBsb2FuIGZv",
+      "title": "Student loan forgiveness is taxable again. How to plan for a five-figure IRS bill",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/student-loan-forgiveness-irs-bill.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771878513000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIHJl",
+      "title": "Judge blocks release of Trump documents case report by special counsel Jack Smith",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/trump-report-jack-smith-judge-aileen-cannon-mar-a-lago.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771878347000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,30 +345,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0YgU29ub21h",
-      "title": "Form 13F Sonoma Allocations LLC For: 23 February",
+      "id": "CNBC Markets-VGhlIG1hcmtldCBpcyBz",
+      "title": "The market is so on edge about AI that it&apos;s selling off Monday on an unlikely source",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-sonoma-allocations-llc-for-23-february-93CH-4519680",
-      "source": "Investing.com News",
-      "publishedAt": 1771875954000,
+      "url": "https://www.cnbc.com/2026/02/23/the-market-is-so-on-edge-about-ai-that-its-selling-off-monday-on-an-unlikely-source.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771876015000,
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
-      "title": "Wolfe Research reiterates Peerperform on PayPal stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-paypal-stock-93CH-4519679",
-      "source": "Investing.com News",
-      "publishedAt": 1771875927000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -85,128 +372,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TUtTIEluYyBkaXJlY3Rv",
-      "title": "MKS Inc director Moloney sells $205k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/mks-inc-director-moloney-sells-205k-in-stock-93CH-4519678",
-      "source": "Investing.com News",
-      "publishedAt": 1771875798000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TUtTIEluYyBFVlAgV2ls",
-      "title": "MKS Inc EVP Williams sells $523k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/mks-inc-evp-williams-sells-523k-in-stock-93CH-4519677",
-      "source": "Investing.com News",
-      "publishedAt": 1771875789000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG93IHNsaWRlcyA4MDAg",
-      "title": "Dow slides 800 points on Trump tariff turmoil, Nasdaq falls on AI research report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-on-trump-tariff-turmoil-nvidia-earnings-awaited-4517669",
-      "source": "Investing.com News",
-      "publishedAt": 1771875744000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBTLTMgTW9yZ2Fu",
-      "title": "Form S-3 Morgan Stanley For: 23 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-s3-morgan-stanley-for-23-february-93CH-4519675",
-      "source": "Investing.com News",
-      "publishedAt": 1771875742000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgT2xlbWEg",
-      "title": "Form 144 Olema Pharmaceuticals For: 23 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-olema-pharmaceuticals-for-23-february-93CH-4519674",
-      "source": "Investing.com News",
-      "publishedAt": 1771875737000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TUtTIEluYyBFVlAgQnVy",
-      "title": "MKS Inc EVP Burke sells $1.06m in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/mks-inc-evp-burke-sells-106m-in-stock-93CH-4519673",
-      "source": "Investing.com News",
-      "publishedAt": 1771875424000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmxpenphcmQgc2xhbXMg",
-      "title": "Blizzard slams US Northeast, closing roads and canceling flights",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/powerful-winter-storm-shuts-schools-disrupts-travel-across-us-northeast-4517722",
-      "source": "Investing.com News",
-      "publishedAt": 1771875384000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgUkFESUFO",
-      "title": "Form 144 RADIAN GROUP INC For: 23 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-radian-group-inc-for-23-february-93CH-4519672",
-      "source": "Investing.com News",
-      "publishedAt": 1771875375000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -264,81 +429,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIG9kZHMgb2YgVHJ1",
-      "title": "The odds of Trump&apos;s $2,000 tariff dividend checks are &apos;now effectively zero&apos;, expert says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771874026000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIHJl",
-      "title": "Judge blocks release of Trump documents case report by special counsel Jack Smith",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/trump-report-jack-smith-judge-aileen-cannon-mar-a-lago.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771874006000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3R1ZGVudCBsb2FuIGZv",
-      "title": "Student loan forgiveness is taxable again. How to plan for a five-figure IRS bill",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/student-loan-forgiveness-irs-bill.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771872629000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3liZXJzZWN1cml0eSBz",
-      "title": "Cybersecurity stock selling deepens on AI threat concerns. Why we&apos;re not bailing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/cybersecurity-stock-selling-deepens-on-ai-threat-concerns-why-were-not-bailing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771872450000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZGVtYW5kcyBO",
-      "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/trump-demands-netflix-fire-susan-rice-as-doj-probes-warner-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771871846000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -407,36 +497,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
-      "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771869622000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3liZXJzZWN1cml0eSBz",
-      "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771868273000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Tm92byBOb3JkaXNrIHNp",
       "title": "Novo Nordisk sinks 15% after weight loss drug fails to match Eli Lilly&apos;s in trial",
       "summary": "",
@@ -452,21 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHNlZWsg",
-      "title": "Democrats seek to force refunds after Supreme Court blocks Trump tariffs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/congress-democrats-trump-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771865205000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RWxpIExpbGx5IGxhdW5j",
       "title": "Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen",
       "summary": "",
@@ -479,21 +524,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBpbXBvcnRlcnMg",
-      "title": "U.S. importers still paying Trump&apos;s illegal tariffs even after Supreme Court ruling",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/22/trump-tariffs-ieepa-supreme-court.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771859901000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -533,21 +563,6 @@
       "url": "https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html",
       "source": "CNBC Markets",
       "publishedAt": 1771855556000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCB0aGUgVHJ1bXAg",
-      "title": "What the Trump administration’s Harvard lawsuit could mean for future applicants",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/trump-harvard-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771853401000,
       "lang": "en-US",
       "topics": [
         "macro"
