@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1771890943689,
-  "crawlUpdatedAt": 1771890943689,
-  "crawlCount": 39,
+  "updatedAt": 1771901541289,
+  "crawlUpdatedAt": 1771901541289,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,61 +13,179 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RmVkRXggc3VlcyBVLlMu",
-      "title": "FedEx sues U.S. seeking full refund of Trump tariffs days after Supreme Court ruling",
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson released on bail after arrest",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html",
+      "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
       "source": "CNBC Markets",
-      "publishedAt": 1771890479000,
+      "publishedAt": 1771901164000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Abacus Group’s H1 2026 shows resilience amid strategic shifts",
+      "id": "Investing.com News-Q2hpbmVzZSBzdG9ja3Mg",
+      "title": "Chinese stocks reopen higher on tariff relief hopes, Lunar New Year spending",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-abacus-groups-h1-2026-shows-resilience-amid-strategic-shifts-93CH-4520286",
+      "url": "https://www.investing.com/news/stock-market-news/chinese-stocks-reopen-higher-on-tariff-relief-hopes-lunar-new-year-spending-4520422",
       "source": "Investing.com News",
-      "publishedAt": 1771890225000,
+      "publishedAt": 1771900625000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9tYW50aWMgdHJ5c3Qg",
+      "title": "Romantic tryst led to Mexican cartel leader’s capture, death",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/at-least-25-soldiers-died-after-raid-on-mexicos-most-wanted-cartel-leader-4519032",
+      "source": "Investing.com News",
+      "publishedAt": 1771900605000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VuY28gc2hpcHBpbmcg",
+      "title": "Genco shipping CFO Allen sells $315,005 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/genco-shipping-cfo-allen-sells-315005-in-shares-93CH-4520421",
+      "source": "Investing.com News",
+      "publishedAt": 1771900331000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VuY28gU2hpcHBpbmfi",
+      "title": "Genco Shipping’s CCO Christensen sells $436k in GNK stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/genco-shippings-cco-christensen-sells-436k-in-gnk-stock-93CH-4520420",
+      "source": "Investing.com News",
+      "publishedAt": 1771900315000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBzbmFwcyA0LWRh",
+      "title": "Gold snaps 4-day winning streak amid profit-taking; tariff tensions linger",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-snaps-4day-winning-streak-amid-profittaking-tariff-tensions-linger-4520419",
+      "source": "Investing.com News",
+      "publishedAt": 1771900103000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RVUgcG9zdHBvbmVzIHZv",
+      "title": "EU postpones vote on U.S. trade deal after Trump’s latest tariff threat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771900037000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBTT1VU",
+      "title": "Form 13D/A SOUTHWEST AIRLINES CO For: 23 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13da-southwest-airlines-co-for-23-february-93CH-4520418",
+      "source": "Investing.com News",
+      "publishedAt": 1771900031000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WmlmZiBEYXZpcyBlYXJu",
+      "title": "Ziff Davis earnings missed by $0.15, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/ziff-davis-earnings-missed-by-015-revenue-fell-short-of-estimates-4520417",
+      "source": "Investing.com News",
+      "publishedAt": 1771900019000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWRlaWEgZWFybmluZ3Mg",
+      "title": "Adeia earnings beat by $0.21, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/adeia-earnings-beat-by-021-revenue-topped-estimates-4520416",
+      "source": "Investing.com News",
+      "publishedAt": 1771900018000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmVkRXggc3VlcyBVUyBm",
-      "title": "FedEx sues US for refund on Trump’s emergency tariffs",
+      "id": "Investing.com News-TWVkaWFhbHBoYSBlYXJu",
+      "title": "Mediaalpha earnings beat by $0.26, revenue fell short of estimates",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fedex-sues-us-for-refund-on-trumps-emergency-tariffs-4520245",
+      "url": "https://www.investing.com/news/earnings/mediaalpha-earnings-beat-by-026-revenue-fell-short-of-estimates-4520415",
       "source": "Investing.com News",
-      "publishedAt": 1771890161000,
+      "publishedAt": 1771900010000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGFjaWZpYyBDdXJyZW50",
-      "title": "Pacific Current H1 FY26 slides: profit drops 56% despite debt-free status",
+      "id": "CNBC Markets-SmFtaWUgRGltb24gc2F5",
+      "title": "Jamie Dimon says &apos;watch out’ as lofty asset prices add to economic risks: ‘My anxiety is high’",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/pacific-current-h1-fy26-slides-profit-drops-56-despite-debtfree-status-93CH-4520285",
-      "source": "Investing.com News",
-      "publishedAt": 1771890150000,
+      "url": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771899945000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -77,27 +195,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: U.S. Global Investors Q2 2025 sees mixed results",
+      "id": "Investing.com News-R29sZCBmYWxscyBmcm9t",
+      "title": "Gold falls from three-week high as dollar firms",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-us-global-investors-q2-2025-sees-mixed-results-93CH-4520284",
+      "url": "https://www.investing.com/news/economy-news/gold-falls-from-threeweek-high-as-dollar-firms-4520414",
       "source": "Investing.com News",
-      "publishedAt": 1771889995000,
+      "publishedAt": 1771899893000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmVkZXggc3VlcyBVUyBn",
-      "title": "Fedex sues US govt seeking full refund on Trump’s emergency tariffs",
+      "id": "CNBC Markets-RmVkRXggc3VlcyBmb3Ig",
+      "title": "FedEx sues for refund of Trump tariffs, days after Supreme Court ruling",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fedex-sues-us-govt-seeking-full-refund-on-trumps-emergency-tariffs-4520283",
-      "source": "Investing.com News",
-      "publishedAt": 1771889984000,
+      "url": "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771898771000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -105,79 +225,34 @@
       "symbols": [
         "FED"
       ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFuYW1hIGNhbmNlbHMg",
+      "title": "Panama cancels China-linked port deal, hands canal terminals to Maersk, MSC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/24/panama-officially-voids-annuls-ck-hutchison-contracts-interim-control-maersk-msc-canal-dispute.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771898559000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SlBNb3JnYW4gc2VlcyBz",
-      "title": "JPMorgan sees strong first-quarter growth in dealmaking, trading",
+      "id": "CNBC Markets-Q2hpbmEgbGVhdmVzIGJl",
+      "title": "China leaves benchmark lending rates unchanged as Beijing signals tolerance for stronger yuan",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/jpmorgan-maintains-2026-expense-outlook-rotce-target-at-17-4519937",
-      "source": "Investing.com News",
-      "publishedAt": 1771889791000,
+      "url": "https://www.cnbc.com/2026/02/24/china-central-bank-pboc-loan-prime-rates-yuan-strength-growth-slows.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1771895717000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUNWIEF1Y3Rpb25zIFE0",
-      "title": "ACV Auctions Q4 2025 slides: revenue growth continues amid profitability concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/acv-auctions-q4-2025-slides-revenue-growth-continues-amid-profitability-concerns-93CH-4520282",
-      "source": "Investing.com News",
-      "publishedAt": 1771889708000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2NlbnRyZSBHcm91cCAy",
-      "title": "Scentre Group 2025 slides: record occupancy drives FFO growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/scentre-group-2025-slides-record-occupancy-drives-ffo-growth-93CH-4520281",
-      "source": "Investing.com News",
-      "publishedAt": 1771889647000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2xlYXJ3YXkgRW5lcmd5",
-      "title": "Clearway Energy Q4 2025 slides: CAFD hits guidance high, eyes 19% growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/clearway-energy-q4-2025-slides-cafd-hits-guidance-high-eyes-19-growth-93CH-4520280",
-      "source": "Investing.com News",
-      "publishedAt": 1771889615000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFja2JsYXplIFE0IDIw",
-      "title": "Backblaze Q4 2025 slides: first profitable quarter, $15M AI deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/backblaze-q4-2025-slides-first-profitable-quarter-15m-ai-deal-93CH-4520279",
-      "source": "Investing.com News",
-      "publishedAt": 1771889569000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -220,21 +295,6 @@
       "url": "https://www.cnbc.com/2026/02/23/uber-acquiring-spothero.html",
       "source": "CNBC Markets",
       "publishedAt": 1771884366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
-      "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771883667000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -484,21 +544,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RVUgcG9zdHBvbmVzIHZv",
-      "title": "EU postpones vote on U.S. trade deal after Trump’s latest tariff threat",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771870770000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV3IEplZXAgQ2hlcm9r",
       "title": "New Jeep Cherokee set to lead Stellantis&apos; U.S. sales turnaround",
       "summary": "",
@@ -546,21 +591,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Tm92byBOb3JkaXNrIHNp",
-      "title": "Novo Nordisk sinks 15% after weight loss drug fails to match Eli Lilly&apos;s in trial",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/novo-nordisk-stock-cagrisema-trial-fails-weight-loss.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771866146000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RWxpIExpbGx5IGxhdW5j",
       "title": "Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen",
       "summary": "",
@@ -582,21 +612,6 @@
       "url": "https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html",
       "source": "CNBC Markets",
       "publishedAt": 1771855556000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIHNwaW5vdXQg",
-      "title": "Google spinout Aalyria valued at $1.3 billion as investors pour into space-based communications",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1771853401000,
       "lang": "zh-CN",
       "topics": [
         "macro"
