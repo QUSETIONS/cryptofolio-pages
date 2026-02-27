@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772224702021,
-  "crawlUpdatedAt": 1772224702021,
+  "updatedAt": 1772228209770,
+  "crawlUpdatedAt": 1772228209770,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,15 +13,287 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-V0JEIGFuZCBQYXJhbW91",
-      "title": "WBD and Paramount may have an easier time winning regulatory approval than Netflix",
+      "id": "CNBC Markets-V0JEIGVtcGxveWVlcyBm",
+      "title": "WBD employees fear coming wave of job losses as Paramount tops Netflix&apos;s bid to acquire company",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/warner-bros-paramount-skydance-netflix-deal.html",
+      "url": "https://www.cnbc.com/2026/02/27/warner-bros-employees-paramount.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772223893000,
+      "publishedAt": 1772228001000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgb3JkZXJzIGZl",
+      "title": "Trump orders federal agencies to stop using Anthropic AI tech &apos;immediately&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772227898000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgZGlzbWlzc2Vz",
+      "title": "Judge dismisses Trump officials’ bid to end student loan repayment plan used by millions of borrowers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/judge-dismisses-trump-officials-bid-to-end-save-plan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772227718000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW4gUGVudGFnb24tQW50",
+      "title": "In Pentagon-Anthropic standoff, AI is real-time testing the balance of power in future of warfare",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772227599000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciB5aWVsZCBm",
+      "title": "10-year yield falls below 4% on stagflation risk following hot producer prices reading",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772227105000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVsbCBzaGFyZXMgY2xp",
+      "title": "Dell shares climb 22% on earnings beat as company navigates rising memory costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772226625000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBz",
+      "title": "Nvidia&apos;s stock wraps up tough week as Wall Street focuses more on competition than growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772226208000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29yZVdlYXZlIENFTyBk",
+      "title": "CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets 18%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772226168000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2tzdG9uZSBwbGFu",
+      "title": "Blackstone plans public vehicle to buy AI data centers - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/blackstone-plans-public-vehicle-to-buy-ai-data-centers--bloomberg-93CH-4532602",
+      "source": "Investing.com News",
+      "publishedAt": 1772225858000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQW1lcmlj",
+      "title": "Form 144 American Financial Group For: 27 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-american-financial-group-for-27-february-93CH-4532601",
+      "source": "Investing.com News",
+      "publishedAt": 1772225842000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTElOQ09M",
+      "title": "Form 144 LINCOLN EDUCATIONAL SERVICES CORP For: 27 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-lincoln-educational-services-corp-for-27-february-93CH-4532600",
+      "source": "Investing.com News",
+      "publishedAt": 1772225836000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVudGFnb24gY2hpZWYg",
+      "title": "Pentagon chief Hegseth says officers will stop attending Ivy League programs",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/hegseth-says-pentagon-to-end-ivy-league-attendance-from-202627-academic-year-4532573",
+      "source": "Investing.com News",
+      "publishedAt": 1772225725000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgYWdlbmN5IGFwcHJv",
+      "title": "US agency approves Charter Communications’ $34.5 billion deal to buy Cox",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-agency-approves-charter-communications-345-billion-deal-to-buy-cox-4532599",
+      "source": "Investing.com News",
+      "publishedAt": 1772225709000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVdhcm5l",
+      "title": "Exclusive-Warner Bros signs $110 billion deal with Paramount, its executive discloses in townhall",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivewarner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-in-townhall-4532465",
+      "source": "Investing.com News",
+      "publishedAt": 1772225690000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FuYWRhIHBvc3RzIGEg",
+      "title": "Canada posts a budget deficit of C$26.14 billion over first nine months of 2025/26",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/canada-posts-a-budget-deficit-of-c2614-billion-over-first-nine-months-of-202526-4532587",
+      "source": "Investing.com News",
+      "publishedAt": 1772225673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIHN0YXlzIGNh",
+      "title": "Mizuho stays cautious on Beyond Meat stock ahead of earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-stays-cautious-on-beyond-meat-stock-ahead-of-earnings-93CH-4532598",
+      "source": "Investing.com News",
+      "publishedAt": 1772225621000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBvbGxvIEdsb2JhbCBu",
+      "title": "Apollo Global nets $250 million on xAI debt investment - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/apollo-global-nets-250-million-on-xai-debt-investment--bloomberg-93CH-4532597",
+      "source": "Investing.com News",
+      "publishedAt": 1772225593000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmVlZGhhbSBjdXRzIFJv",
+      "title": "Needham cuts Rocket Lab stock price target on Neutron delay",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/needham-cuts-rocket-lab-stock-price-target-on-neutron-delay-93CH-4532596",
+      "source": "Investing.com News",
+      "publishedAt": 1772225582000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2UgRGVtb2NyYXRz",
+      "title": "House Democrats grapple with Trump’s threats to U.S. elections: “This is a five-alarm fire”",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/trumps-election-threats-democrats-save-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772225047000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -40,186 +312,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V0JEIGVtcGxveWVlcyBm",
-      "title": "WBD employees fear coming wave of job losses as Paramount tops Netflix&apos;s bid to acquire company",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/warner-bros-employees-paramount.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772223468000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2RvbnRvcHJldiBRNCAy",
-      "title": "Odontoprev Q4 2025 slides: margin expansion drives value creation",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/odontoprev-q4-2025-slides-margin-expansion-drives-value-creation-93CH-4532564",
-      "source": "Investing.com News",
-      "publishedAt": 1772223425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgSG9yaXpv",
-      "title": "Form 13G Horizon Space Acquisition II Corp. For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-horizon-space-acquisition-ii-corp-for-27-february-93CH-4532563",
-      "source": "Investing.com News",
-      "publishedAt": 1772223340000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWduaWNvLUVhZ2xlIE1p",
-      "title": "Agnico-Eagle Mines stock hits all-time high at 251.6 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/agnicoeagle-mines-stock-hits-alltime-high-at-2516-usd-93CH-4532562",
-      "source": "Investing.com News",
-      "publishedAt": 1772223239000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1waGFzdGFyIHN0b2Nr",
-      "title": "Amphastar stock hits 52-week low at $20.38",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/amphastar-stock-hits-52week-low-at-2038-93CH-4532561",
-      "source": "Investing.com News",
-      "publishedAt": 1772223015000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ0hFRlMg",
-      "title": "Form 144 CHEFS WHSE INC COM For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-chefs-whse-inc-com-for-27-february-93CH-4532560",
-      "source": "Investing.com News",
-      "publishedAt": 1772222959000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgVEFOR0VS",
-      "title": "Form 144 TANGER INC. For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-tanger-inc-for-27-february-93CH-4532559",
-      "source": "Investing.com News",
-      "publishedAt": 1772222958000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgUmluZ2Nl",
-      "title": "Form 144 Ringcentral Inc. For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-ringcentral-inc-for-27-february-93CH-4532558",
-      "source": "Investing.com News",
-      "publishedAt": 1772222956000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIGN1dHMgTklR",
-      "title": "Stifel cuts NIQ Global Intelligence stock price target on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-niq-global-intelligence-stock-price-target-on-valuation-93CH-4532556",
-      "source": "Investing.com News",
-      "publishedAt": 1772222843000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BwZW5oZWltZXIgcmFp",
-      "title": "Oppenheimer raises argenx stock price target to $1,060 on sales growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-raises-argenx-stock-price-target-to-1060-on-sales-growth-93CH-4532555",
-      "source": "Investing.com News",
-      "publishedAt": 1772222837000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgSkFOVVMg",
-      "title": "Form 144 JANUS HENDERSON GROUP PLC For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-janus-henderson-group-plc-for-27-february-93CH-4532554",
-      "source": "Investing.com News",
-      "publishedAt": 1772222794000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29yZVdlYXZlIENFTyBk",
-      "title": "CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets nearly 22%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772222234000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -268,21 +360,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBz",
-      "title": "Nvidia&apos;s stock wrapping up tough week as Wall Street focuses more on competition than growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772221359000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SGVyZSZhcG9zO3MgYW4g",
       "title": "Here&apos;s an update on our 4th Industrial Revolution stocks and the rest of the portfolio",
       "summary": "",
@@ -295,21 +372,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW4gUGVudGFnb24tQW50",
-      "title": "In Pentagon-Anthropic standoff, AI is real-time testing the balance of power in future of warfare",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772218740000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -328,21 +390,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-MTAteWVhciB5aWVsZCBm",
-      "title": "10-year yield falls below 4% on stagflation risk following hot producer prices reading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772217575000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
       "title": "Trump says he&apos;d &apos;love not to&apos; attack Iran, &apos;but sometimes you have to&apos;",
       "summary": "",
@@ -355,21 +402,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVsbCBzaGFyZXMgY2xp",
-      "title": "Dell shares climb 20% on earnings beat as company navigates rising memory costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772215800000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -463,21 +495,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TmV0ZmxpeCBDRU8gU2Fy",
-      "title": "Netflix CEO Sarandos visited White House right before streamer said WBD deal is off",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/26/netflix-sarandos-trump-white-house-wbd-paramount.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772204832000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW50aHJvcGljIGZhY2Vz",
       "title": "Anthropic faces lose-lose scenario in Pentagon conflict as deadline for policy change looms",
       "summary": "",
@@ -532,21 +549,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2VuIFogaXMgZW1icmFj",
-      "title": "Gen Z is embracing the prenup, says family law attorney: ‘The taboo of divorces is long gone’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/gen-z-is-embracing-the-prenup-says-family-law-attorney.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772200801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
