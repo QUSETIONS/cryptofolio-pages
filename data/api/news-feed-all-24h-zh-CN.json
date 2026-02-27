@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772211982095,
-  "crawlUpdatedAt": 1772211982095,
-  "crawlCount": 40,
+  "updatedAt": 1772215395038,
+  "crawlUpdatedAt": 1772215395038,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QmlsbCBDbGludG9uIG9u",
-      "title": "Bill Clinton on Jeffrey Epstein: &apos;I saw nothing, and I did nothing wrong&apos;",
+      "id": "CNBC Markets-RGVsbCBzaGFyZXMgY2xp",
+      "title": "Dell shares climb 20% on earnings beat as company navigates rising memory costs",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/bill-clinton-jeffrey-epstein-oversight-committee.html",
+      "url": "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772211929000,
+      "publishedAt": 1772215074000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBtb3Jl",
+      "title": "Trump says more Iran talks expected on Friday",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-says-more-iran-talks-expected-on-friday-4532409",
+      "source": "Investing.com News",
+      "publishedAt": 1772214906000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,194 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2hh",
-      "title": "Here&apos;s what drove big moves in our top and bottom stocks over the past month",
+      "id": "Investing.com News-V29tZW4gYXQgcmlzayBh",
+      "title": "Women at risk as Taliban curbs hit Afghan healthcare, UN expert warns",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/what-drove-big-moves-in-our-top-and-bottom-stocks-over-the-past-month.html",
+      "url": "https://www.investing.com/news/world-news/women-at-risk-as-taliban-curbs-hit-afghan-healthcare-un-expert-warns-4532281",
+      "source": "Investing.com News",
+      "publishedAt": 1772214872000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgU1RBTkRF",
+      "title": "Form 144 STANDEX INTERNATIONAL CORP/DE/ For: 27 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-standex-international-corpde-for-27-february-93CH-4532408",
+      "source": "Investing.com News",
+      "publishedAt": 1772214850000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xlYXJmaWVsZCBzaGFy",
+      "title": "Clearfield shareholders elect directors and approve proposals at annual meeting",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/clearfield-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-4532405",
+      "source": "Investing.com News",
+      "publishedAt": 1772214780000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQWlyYm5i",
+      "title": "Form 144 Airbnb For: 27 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-airbnb-for-27-february-93CH-4532404",
+      "source": "Investing.com News",
+      "publishedAt": 1772214683000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BNB"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RpZmVsIHJhaXNlcyBT",
+      "title": "Stifel raises Syndax Pharmaceuticals stock price target on drug sales",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/stifel-raises-syndax-pharmaceuticals-stock-price-target-on-drug-sales-93CH-4532403",
+      "source": "Investing.com News",
+      "publishedAt": 1772214655000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1aXN0IHJhaXNlcyBM",
+      "title": "Truist raises Lantheus stock price target on growth prospects",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/truist-raises-lantheus-stock-price-target-on-growth-prospects-93CH-4532401",
+      "source": "Investing.com News",
+      "publishedAt": 1772214650000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXZlcmNvcmUgSVNJIHJh",
+      "title": "Evercore ISI raises Frontline stock price target on strong tanker rates",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-raises-frontline-stock-price-target-on-strong-tanker-rates-93CH-4532400",
+      "source": "Investing.com News",
+      "publishedAt": 1772214648000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley cuts TaskUs stock price target on dividend adjustment",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-taskus-stock-price-target-on-dividend-adjustment-93CH-4532399",
+      "source": "Investing.com News",
+      "publishedAt": 1772214648000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBHU0sgcGxj",
+      "title": "Form 6K GSK plc For: 27 February",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-gsk-plc-for-27-february-93CH-4532398",
+      "source": "Investing.com News",
+      "publishedAt": 1772214642000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: Rep. Mace says she&apos;ll call Trump Commerce chief Lutnick to testify",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/epstein-trump-lutnick-mace-clinton.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772211868000,
+      "publishedAt": 1772214016000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BpbmlvbjogQmxvY2sm",
+      "title": "Opinion: Block&apos;s layoffs might just be the biggest story of a tumultuous week. Here&apos;s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/block-layoffs-ai-jack-dorsey-jobs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772213560000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29yZVdlYXZlIENFTyBk",
+      "title": "CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets nearly 20%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772213559000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlsbCBDbGludG9uIG9u",
+      "title": "Bill Clinton on Jeffrey Epstein: &apos;I saw nothing, and I did nothing wrong&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/bill-clinton-jeffrey-epstein-oversight-committee.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772213038000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,21 +255,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
-      "title": "Epstein files: Rep. Mace says she&apos;ll call Trump Commerce chief Lutnick to testify",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/epstein-trump-lutnick-mace-clinton.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772211655000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VUJTIGRvd25ncmFkZXMg",
       "title": "UBS downgrades the U.S. stock market. Here&apos;s what has the investment bank worried",
       "summary": "",
@@ -88,177 +270,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VFNBIG9mZmljZXJzIGdl",
-      "title": "TSA officers get fractional pay as government shutdown drags",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/tsa-officers-get-fractional-pay-as-government-shutdown-drags-4532301",
-      "source": "Investing.com News",
-      "publishedAt": 1772211310000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXRyb24gU1ZQLCBSZWV2",
-      "title": "Itron SVP, Reeves, sells $51k in ITRI stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/itron-svp-reeves-sells-51k-in-itri-stock-93CH-4532300",
-      "source": "Investing.com News",
-      "publishedAt": 1772211305000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXZpZGJhbmsgaG9sZGlu",
-      "title": "Avidbank holdings director Rosinus sells $103k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/avidbank-holdings-director-rosinus-sells-103k-in-stock-93CH-4532299",
-      "source": "Investing.com News",
-      "publishedAt": 1772211300000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1Y2tzIG9mIHNveWJl",
-      "title": "Trucks of soybeans back up at Brazil river port, slowing export of record harvest",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/trucks-of-soybeans-back-up-at-brazil-river-port-slowing-export-of-record-harvest-4532258",
-      "source": "Investing.com News",
-      "publishedAt": 1772211291000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmxvY2sgY3V0cyBhYm91",
       "title": "Block cuts about half its workforce — how to move forward after a mass layoff, career experts say",
       "summary": "",
       "url": "https://www.cnbc.com/2026/02/27/block-mass-layoffs.html",
       "source": "CNBC Markets",
       "publishedAt": 1772211284000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0ZmxpeCBzdXJnZXMg",
-      "title": "Netflix surges as investors cheer decision to exit Warner Bros race",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/netflix-paramount-shares-jump-as-monthslong-fight-for-warner-bros-ends-4530653",
-      "source": "Investing.com News",
-      "publishedAt": 1772211276000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rml0Y2ggY3V0cyBIdW50",
-      "title": "Fitch cuts Huntsman rating on weak profitability outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fitch-cuts-huntsman-rating-on-weak-profitability-outlook-93CH-4532298",
-      "source": "Investing.com News",
-      "publishedAt": 1772211260000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBTLTMgV2VzdCBC",
-      "title": "Form S-3 West Bancorporation For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-s3-west-bancorporation-for-27-february-93CH-4532297",
-      "source": "Investing.com News",
-      "publishedAt": 1772211256000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Delek US Holdings Q4 2025 surprises with strong EPS",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-delek-us-holdings-q4-2025-surprises-with-strong-eps-93CH-4532295",
-      "source": "Investing.com News",
-      "publishedAt": 1772211178000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: The Trade Desk Q4 2025 beats earnings expectations",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-trade-desk-q4-2025-beats-earnings-expectations-93CH-4532294",
-      "source": "Investing.com News",
-      "publishedAt": 1772211148000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: St. Joe Company Q4 2025 shows strong growth, stock rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-st-joe-company-q4-2025-shows-strong-growth-stock-rises-93CH-4532293",
-      "source": "Investing.com News",
-      "publishedAt": 1772211125000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29yZVdlYXZlIENFTyBk",
-      "title": "CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets nearly 20%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772210825000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -280,21 +297,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVsbCBzaGFyZXMgY2xp",
-      "title": "Dell shares climb 19% on earnings beat as company navigates rising memory costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772210425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -352,21 +354,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BpbmlvbjogQmxvY2sm",
-      "title": "Opinion: Block&apos;s layoffs might just be the biggest story of a tumultuous week. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/block-layoffs-ai-jack-dorsey-jobs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772204630000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
