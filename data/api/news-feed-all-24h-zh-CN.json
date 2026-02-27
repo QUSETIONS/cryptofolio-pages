@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772171930683,
-  "crawlUpdatedAt": 1772171930683,
+  "updatedAt": 1772176106639,
+  "crawlUpdatedAt": 1772176106639,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,59 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QW4gSW5kaWFuIGNvbXBh",
-      "title": "An Indian company is set to build a $2 billion AI hub with Nvidia’s GPUs and go public. Here&apos;s what we know so far",
+      "id": "Investing.com News-SlBNb3JnYW4gZG93bmdy",
+      "title": "JPMorgan downgrades Cars.com stock rating on growth uncertainty",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/india-yotta-nvidia-ai-gpu-demand-data-centers-investment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772171693000,
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-carscom-stock-rating-on-growth-uncertainty-93CH-4530485",
+      "source": "Investing.com News",
+      "publishedAt": 1772174996000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9ybmluZyBCaWQ6IEFJ",
-      "title": "Morning Bid: AI woes and ’open war’",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-ai-woes-and-open-war-4530466",
-      "source": "Investing.com News",
-      "publishedAt": 1772170952000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhIHN0b2Nr",
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.25%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-025-4530465",
-      "source": "Investing.com News",
-      "publishedAt": 1772170203000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U291dGggS29yZWEgYXBw",
-      "title": "South Korea approves Google bid to export high-precision map data",
+      "id": "Investing.com News-UGFraXN0YW4gYm9tYnMg",
+      "title": "Pakistan bombs targets in Afghan cities, minister calls it ’open war’",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/south-korea-approves-google-bid-to-export-highprecision-map-data-4530464",
+      "url": "https://www.investing.com/news/world-news/pakistan-strikes-afghanistan-targets-as-clashes-intensify-4530441",
       "source": "Investing.com News",
-      "publishedAt": 1772169504000,
+      "publishedAt": 1772174548000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -80,7 +48,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/economy-news/analysisai-boom-will-be-no-free-pass-for-debtladen-major-economies-4530463",
       "source": "Investing.com News",
-      "publishedAt": 1772169148000,
+      "publishedAt": 1772174188000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -90,27 +58,89 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U291dGggS29yZWEgZXhw",
-      "title": "South Korea exports set to rise for ninth month on chip surge: Reuters Poll",
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
+      "title": "Asia markets trade mixed after Wall Street pullback on Nvidia slump",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/south-korea-exports-set-to-rise-for-ninth-month-on-chip-surge-reuters-poll-4530462",
-      "source": "Investing.com News",
-      "publishedAt": 1772168786000,
+      "url": "https://www.cnbc.com/2026/02/27/asia-markets-nikkei-225-kospi-nifty-50.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772173877000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QkFTRiAyMDI1IEVCSVRE",
+      "title": "BASF 2025 EBITDA drops 9.5% as chemicals weaken, capex cuts lift FCF",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/basf-2025-ebitda-drops-95-as-chemicals-weaken-capex-cuts-lift-fcf-4530484",
+      "source": "Investing.com News",
+      "publishedAt": 1772173869000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgbmVlZHMgbW9y",
+      "title": "China needs more proactive and coordinated policies, Politburo says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/china-needs-more-proactive-and-coordinated-policies-politburo-says-4530483",
+      "source": "Investing.com News",
+      "publishedAt": 1772173855000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYW4gc2hhcmVzIHdv",
+      "title": "Asian shares wobble, yen and Treasuries rise on AI, geopolitical woes",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/asian-shares-fall-yen-and-treasuries-rise-as-ai-iran-concerns-weigh-4530367",
+      "source": "Investing.com News",
+      "publishedAt": 1772173838000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBmYWxscyBi",
+      "title": "Bitcoin falls back below $68k as rebound stalls, set for 5th straight monthly loss",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-below-68k-as-rebound-stalls-set-for-5th-straight-monthly-loss-4530480",
+      "source": "Investing.com News",
+      "publishedAt": 1772172995000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RW1iYXJyYXNzaW5nIGRl",
-      "title": "Embarrassing defeat for UK’s Starmer as Greens seize Labour stronghold",
+      "id": "Investing.com News-Q3ViYSBzbGFtcyBVUyBm",
+      "title": "Cuba slams US for ’impunity’ on speedboat attack suspects",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/embarrassing-defeat-for-uks-starmer-as-greens-seize-labour-stronghold-4530461",
+      "url": "https://www.investing.com/news/economy-news/cuba-vows-to-defend-itself-against-terrorist-mercenary-aggression-4528170",
       "source": "Investing.com News",
-      "publishedAt": 1772168436000,
+      "publishedAt": 1772172413000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -120,12 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXNpYSBGWCB3ZWFrZW5z",
-      "title": "Asia FX weakens; Aussie heads for strong Feb, yen nurses losses",
+      "id": "Investing.com News-QW5hbHlzaXMtVW5kZXIg",
+      "title": "Analysis-Under siege from politics, central bankers fight back - at a cost",
       "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-weakens-aussie-heads-for-strong-feb-yen-nurses-losses-4530460",
+      "url": "https://www.investing.com/news/economy-news/analysisunder-siege-from-politics-central-bankers-fight-back--at-a-cost-4530470",
       "source": "Investing.com News",
-      "publishedAt": 1772168193000,
+      "publishedAt": 1772172393000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -135,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLU5pbnRl",
-      "title": "Exclusive-Nintendo plans around $1.9 billion share sale by Kyoto bank and others, sources say",
+      "id": "Investing.com News-SG9sY2ltIHBvc3RzIHJl",
+      "title": "Holcim posts record 2025 margin after spinoff, signs two deals",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivenintendo-plans-around-19-billion-share-sale-by-kyoto-bank-and-others-sources-say-4530418",
+      "url": "https://www.investing.com/news/earnings/holcim-posts-record-2025-margin-after-spinoff-signs-two-deals-4530468",
       "source": "Investing.com News",
-      "publishedAt": 1772168085000,
+      "publishedAt": 1772172163000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -150,27 +180,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGFraXN0YW4gYm9tYnMg",
-      "title": "Pakistan bombs targets in Afghan cities, minister calls it ’open war’",
+      "id": "CNBC Markets-QW4gSW5kaWFuIGNvbXBh",
+      "title": "An Indian company is set to build a $2 billion AI hub with Nvidia’s GPUs and go public. Here&apos;s what we know so far",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/pakistan-strikes-afghanistan-targets-as-clashes-intensify-4530441",
-      "source": "Investing.com News",
-      "publishedAt": 1772168066000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHVsYXRpZS1IYWhuLCBJ",
-      "title": "Pulatie-Hahn, Itron SVP, HR, sells $16,687 in ITRI stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/pulatiehahn-itron-svp-hr-sells-16687-in-itri-stock-93CH-4530459",
-      "source": "Investing.com News",
-      "publishedAt": 1772167737000,
+      "url": "https://www.cnbc.com/2026/02/27/india-yotta-nvidia-ai-gpu-demand-data-centers-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772171693000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -207,21 +222,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIG9w",
-      "title": "Asia markets open mixed after Wall Street pullback on Nvidia slump",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/asia-markets-nikkei-225-kospi-nifty-50.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772156800000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
