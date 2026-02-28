@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772299671014,
-  "crawlUpdatedAt": 1772299671014,
-  "crawlCount": 37,
+  "updatedAt": 1772300940319,
+  "crawlUpdatedAt": 1772300940319,
+  "crawlCount": 36,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -19,6 +19,36 @@
       "url": "https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html",
       "source": "CNBC Markets",
       "publishedAt": 1772299222000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVya3NoaXJlIEhhdGhh",
+      "title": "Berkshire Hathaway profit falls on lower insurance income, Occidental writedown",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-profit-falls-on-writedowns-lower-insurance-income-4533406",
+      "source": "Investing.com News",
+      "publishedAt": 1772299122000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVByaW9y",
+      "title": "Exclusive-Prior to Iran attacks, CIA assessed Khamenei would be replaced by IRCG elements if killed, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/exclusiveprior-to-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-ircg-elements-if-killed-sources-say-4533422",
+      "source": "Investing.com News",
+      "publishedAt": 1772299107000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -154,36 +184,6 @@
       "url": "https://www.investing.com/news/world-news/targeted-by-airstrikes-ayatollah-khamenei-has-iran-in-iron-grip-4533423",
       "source": "Investing.com News",
       "publishedAt": 1772294455000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLVByaW9y",
-      "title": "Exclusive-Prior to Iran attacks, CIA assessed Khamenei would be replaced by IRCG elements if killed, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/exclusiveprior-to-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-ircg-elements-if-killed-sources-say-4533422",
-      "source": "Investing.com News",
-      "publishedAt": 1772294434000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVya3NoaXJlIENFTyBB",
-      "title": "Berkshire CEO Abel assures investors after taking baton from Buffett, with ’fortress-like’ balance sheet",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-profit-falls-on-writedowns-lower-insurance-income-4533406",
-      "source": "Investing.com News",
-      "publishedAt": 1772293347000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -544,21 +544,6 @@
       "url": "https://www.cnbc.com/2026/02/27/bill-clinton-jeffrey-epstein-oversight-committee.html",
       "source": "CNBC Markets",
       "publishedAt": 1772218490000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
-      "title": "Epstein files: Rep. Mace says she&apos;ll call Trump Commerce chief Lutnick to testify",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/epstein-trump-lutnick-mace-clinton.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772214016000,
       "lang": "zh-CN",
       "topics": [
         "macro"
