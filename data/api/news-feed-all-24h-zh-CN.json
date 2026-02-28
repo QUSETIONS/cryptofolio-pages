@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772261608385,
-  "crawlUpdatedAt": 1772261608385,
-  "crawlCount": 38,
+  "updatedAt": 1772264082233,
+  "crawlUpdatedAt": 1772264082233,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,98 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VS5TLiBvZmZpY2lhbCBj",
+      "title": "U.S. official confirms strikes against Iran underway: Reuters",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772263902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiB0cmFkaW5n",
+      "title": "Bitcoin trading below $67k, set for fifth straight red month as crypto suffers",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-below-68k-as-rebound-stalls-set-for-5th-straight-monthly-loss-4530480",
+      "source": "Investing.com News",
+      "publishedAt": 1772262867000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsIHNheXMgaXQg",
+      "title": "Israel says it launched pre-emptive attack against Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/israel-says-it-launched-preemptive-attack-against-iran-4533235",
+      "source": "Investing.com News",
+      "publishedAt": 1772262770000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVs4oCZcyBvcGVy",
+      "title": "Israel’s operation against Iran was coordinated with US, Israeli official says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/israels-operation-against-iran-was-coordinated-with-us-israeli-official-says-4533236",
+      "source": "Investing.com News",
+      "publishedAt": 1772262750000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsIG1vdmVzIGFn",
+      "title": "Israel moves against Iran, ending diplomatic hopes",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/geopolitical-shock-israel-moves-against-iran-ending-diplomatic-hopes-4533234",
+      "source": "Investing.com News",
+      "publishedAt": 1772262584000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FyZGFubyBGYWxscyAx",
+      "title": "Cardano Falls 10% In Rout",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-rout-4533233",
+      "source": "Investing.com News",
+      "publishedAt": 1772261815000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-TGl0aGl1bSBib3R0b20g",
       "title": "Lithium bottom is in: global demand set to jump 25% as EV market recovers",
@@ -90,72 +182,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ09OU09M",
-      "title": "Form 144 CONSOLIDATED EDISON INC For: 27 February",
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gYmxh",
+      "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-consolidated-edison-inc-for-27-february-93CH-4533227",
-      "source": "Investing.com News",
-      "publishedAt": 1772254656000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEFk",
-      "title": "Form DEF 14A Adobe Inc. For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-adobe-inc-for-27-february-93CH-4533226",
-      "source": "Investing.com News",
-      "publishedAt": 1772254103000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQUxOWUxB",
-      "title": "Form 144 ALNYLAM PHARMACEUTICALS For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-alnylam-pharmaceuticals-for-27-february-93CH-4533225",
-      "source": "Investing.com News",
-      "publishedAt": 1772254100000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgU09VVEhF",
-      "title": "Form 144 SOUTHERN COPPER CORPORATION For: 27 February",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-southern-copper-corporation-for-27-february-93CH-4533224",
-      "source": "Investing.com News",
-      "publishedAt": 1772254097000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmV5b25kIHRoZSBHUFU6",
-      "title": "Beyond the GPU: Nvidia taps Groq tech to power next-gen AI agents",
-      "summary": "",
-      "url": "https://www.investing.com/news/technology-news/beyond-the-gpu-nvidia-taps-groq-tech-to-power-nextgen-ai-agents-4533209",
-      "source": "Investing.com News",
-      "publishedAt": 1772253950000,
+      "url": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772253153000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -171,6 +203,21 @@
       "url": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1772252734000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGVudGFnb24tQW50aHJv",
+      "title": "Pentagon-Anthropic AI standoff is real-time testing balance of power in future of warfare",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772250682000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -510,21 +557,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UnVzc2lhIGFuZCBVa3Jh",
-      "title": "Russia and Ukraine agree local truce to allow repairs at Europe’s largest nuclear power plant",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/russia-ukraine-war-local-ceasefire-zaporizhzhia-nuclear-power-plant.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772203379000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29yZSB3aG9sZXNhbGUg",
       "title": "Core wholesale prices rose 0.8% in January, much more than expected",
       "summary": "",
@@ -567,21 +599,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBhbmQgSXJhbiB3",
-      "title": "U.S. and Iran wrap up &apos;most intense&apos; nuclear talks with no deal — more negotiations ahead",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772197876000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
