@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772267958254,
-  "crawlUpdatedAt": 1772267958254,
+  "updatedAt": 1772271268354,
+  "crawlUpdatedAt": 1772271268354,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,57 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. military has begun major combat operations in Iran, Bahrain says U.S. 5th fleet subject to missile attack",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772270991000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1XaGF0IGFy",
+      "title": "Factbox-What are the main US military bases in the Middle East?",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/factboxwhat-are-the-main-us-military-bases-in-the-middle-east-4533319",
+      "source": "Investing.com News",
+      "publishedAt": 1772269951000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW52ZXN0aW5nLmNvbeKA",
+      "title": "Investing.com’s stocks of the week",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4532494",
+      "source": "Investing.com News",
+      "publishedAt": 1772269202000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-VVMsIElzcmFlbCBzdHJp",
-      "title": "US, Israel strike Iran, here’s what is known so far",
+      "title": "US, Israel strike Iran — what is known so far",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/us-israel-strike-iran-heres-what-is-known-so-far-4533316",
       "source": "Investing.com News",
-      "publishedAt": 1772267783000,
+      "publishedAt": 1772268078000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -70,21 +115,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. military has begun major combat operations in Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772266554000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -144,38 +174,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsIHNheXMgaXQg",
-      "title": "Israel says it launched pre-emptive attack against Iran",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israel-says-it-launched-preemptive-attack-against-iran-4533235",
-      "source": "Investing.com News",
-      "publishedAt": 1772264551000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiB0cmFkaW5n",
-      "title": "Bitcoin trading below $67k, set for fifth straight red month as crypto suffers",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-below-68k-as-rebound-stalls-set-for-5th-straight-monthly-loss-4530480",
-      "source": "Investing.com News",
-      "publishedAt": 1772263127000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
