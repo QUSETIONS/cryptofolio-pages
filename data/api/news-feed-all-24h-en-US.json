@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772404404953,
-  "crawlUpdatedAt": 1772404404953,
+  "updatedAt": 1772407934087,
+  "crawlUpdatedAt": 1772407934087,
   "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,126 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
+      "title": "U.S. crude oil jumps more than 7%, topping $72 a barrel on fears of Iran supply disruption",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772407553000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IHRvIHRoaW5rIGFi",
+      "title": "How to think about everything presumably wrong with stocks and what to do about it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/01/cramer-how-to-think-about-whats-presumably-wrong-with-stocks-and-what-to-do-about-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772407242000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtQXMgcGFy",
+      "title": "Analysis-As parliament meets, China is yet to pass last year’s economic reform test",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/analysisas-parliament-meets-china-is-yet-to-pass-last-years-economic-reform-test-4533567",
+      "source": "Investing.com News",
+      "publishedAt": 1772406746000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljaGFlbCBIaWxsIEZZ",
+      "title": "Michael Hill FY26H1 presentation: EBIT surges 28.6% on efficiency gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/michael-hill-fy26h1-presentation-ebit-surges-286-on-efficiency-gains-93CH-4533566",
+      "source": "Investing.com News",
+      "publishedAt": 1772405934000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkJJIHByb2JlcyBwb3Nz",
+      "title": "FBI probes possible terror link to Texas shooting that left three dead, 14 injured",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/three-dead-14-injured-after-shooting-in-austin-texas-4533500",
+      "source": "Investing.com News",
+      "publishedAt": 1772405682000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsIGhpdHMgVGVo",
+      "title": "Israel hits Tehran again after killing Khamenei, leadership council takes over",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/more-strikes-aimed-at-iran-after-us-israeli-assault-kills-supreme-leader-4533465",
+      "source": "Investing.com News",
+      "publishedAt": 1772405667000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Michael Hill Q1 2026 shows solid growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-michael-hill-q1-2026-shows-solid-growth-93CH-4533565",
+      "source": "Investing.com News",
+      "publishedAt": 1772405571000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBo",
+      "title": "Australia’s home prices keep rising in February, defying rate hike",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/australias-home-prices-keep-rising-in-february-defying-rate-hike-4533564",
+      "source": "Investing.com News",
+      "publishedAt": 1772404589000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VUvigJlzIFN0YXJtZXIg",
       "title": "UK’s Starmer says US can use British bases for defensive strikes against Iran missiles",
@@ -28,57 +148,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsIGhpdHMgVGVo",
-      "title": "Israel hits Tehran again after killing Khamenei, leadership council takes over",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/more-strikes-aimed-at-iran-after-us-israeli-assault-kills-supreme-leader-4533465",
-      "source": "Investing.com News",
-      "publishedAt": 1772403868000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
-      "title": "U.S. crude oil set to top $70 a barrel when trading begins on fears of Iran supply disruption",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772403553000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-VVMgZ2Fzb2xpbmUgcHJp",
       "title": "US gasoline prices to rise after attack on Iran, analysts warn",
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/us-gasoline-prices-to-rise-after-attack-on-iran-analysts-warn-4533562",
       "source": "Investing.com News",
       "publishedAt": 1772402448000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkJJIHByb2JlcyBwb3Nz",
-      "title": "FBI probes possible terror link to Texas shooting that left three dead, 14 injured",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/three-dead-14-injured-after-shooting-in-austin-texas-4533500",
-      "source": "Investing.com News",
-      "publishedAt": 1772401346000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -109,66 +184,6 @@
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4533560",
       "source": "Investing.com News",
       "publishedAt": 1772400003000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgbGF3bWFrZXJzIHNl",
-      "title": "US lawmakers see no Trump plan for Iran following strikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/us-lawmakers-see-no-trump-plan-for-iran-following-strikes-4533550",
-      "source": "Investing.com News",
-      "publishedAt": 1772399907000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLUF1c3Ry",
-      "title": "Exclusive-Australia says it may go after app stores, search engines in AI age crackdown",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveaustralia-says-it-may-go-after-app-stores-search-engines-in-ai-age-crackdown-4533559",
-      "source": "Investing.com News",
-      "publishedAt": 1772399545000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBjb25m",
-      "title": "Trump says conflict with Iran could last four weeks, Daily Mail reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-says-conflict-with-iran-could-last-four-weeks-daily-mail-reports-4533558",
-      "source": "Investing.com News",
-      "publishedAt": 1772398829000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluZeKAmXMgWmVs",
-      "title": "Ukraine’s Zelenskiy says Iranian changes must be used properly",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-iranian-changes-must-be-used-properly-4533557",
-      "source": "Investing.com News",
-      "publishedAt": 1772397071000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -244,21 +259,6 @@
       "url": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
       "source": "CNBC Markets",
       "publishedAt": 1772382057000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDUg",
-      "title": "Here are the 5 big things we&apos;re watching in the stock market this week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/01/here-are-the-5-big-things-were-watching-in-the-stock-market-this-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772379864000,
       "lang": "en-US",
       "topics": [
         "macro"
