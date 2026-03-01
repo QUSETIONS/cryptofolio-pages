@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772386206271,
-  "crawlUpdatedAt": 1772386206271,
+  "updatedAt": 1772387518110,
+  "crawlUpdatedAt": 1772387518110,
   "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SXJhbiBhZnRlciBLaGFt",
+      "title": "Iran after Khamenei: What&apos;s next and what it means for the country?",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772386891000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-V2hhdCB0cmF2ZWxlcnMg",
       "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
@@ -201,21 +216,6 @@
       "url": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
       "source": "CNBC Markets",
       "publishedAt": 1772382057000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBhZnRlciBLaGFt",
-      "title": "Iran after Khamenei: What&apos;s next and what it means for the country?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772382034000,
       "lang": "zh-CN",
       "topics": [
         "macro"
