@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772547098004,
-  "crawlUpdatedAt": 1772547098004,
+  "updatedAt": 1772551665992,
+  "crawlUpdatedAt": 1772551665992,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,337 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
+      "id": "CNBC Markets-VGhlIFN0cmFpdCBvZiBI",
+      "title": "The Strait of Hormuz is facing a blockade. These countries will be most impacted",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "url": "https://www.cnbc.com/2026/03/03/strait-of-hormuz-closure-which-countries-will-be-hit-the-most.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772546757000,
+      "publishedAt": 1772551460000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7TWlzdGFrZXMg",
+      "title": "&apos;Mistakes were made,&apos; Grassley tells Noem about Trump&apos;s immigration crackdown",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/dhs-noem-immigration-minneapolis-senate-judiciary-hearing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772551061000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzdCBCdXnigJlzIGhv",
+      "title": "Best Buy’s holiday sales disappoint, but retailer shows progress in growing profits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/best-buy-bby-q4-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772550900000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S29zbW9zIEVuZXJneSBz",
+      "title": "Kosmos Energy stock hits 52-week high at 2.54 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/kosmos-energy-stock-hits-52week-high-at-254-usd-93CH-4538375",
+      "source": "Investing.com News",
+      "publishedAt": 1772550843000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9tYmFyZG1lbnQgdW5s",
+      "title": "Bombardment unleashes terror in Tehran with no sign of protests",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/bombardment-unleashes-terror-in-tehran-with-no-sign-of-protests-4538351",
+      "source": "Investing.com News",
+      "publishedAt": 1772550822000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdCBmYWxscyAy",
+      "title": "Wall St falls 2% as Middle East conflict stokes inflation worries",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-fall-as-middle-east-conflict-stokes-inflation-worries-4536930",
+      "source": "Investing.com News",
+      "publishedAt": 1772550808000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q291cnQgY29uZmVyZW5j",
+      "title": "Court conference in US case against Halkbank adjourned",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/court-conference-in-us-case-against-turkeys-halkbank-scheduled-on-tuesday-4537222",
+      "source": "Investing.com News",
+      "publishedAt": 1772550790000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBTY2htaWQ6",
+      "title": "Fed’s Schmid: inflation too hot, no room to be complacent",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-schmid-inflation-too-hot-no-room-to-be-complacent-4538373",
+      "source": "Investing.com News",
+      "publishedAt": 1772550760000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgS3JhZnQg",
+      "title": "Form 144 Kraft Heinz Co For: 3 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-kraft-heinz-co-for-3-march-93CH-4538372",
+      "source": "Investing.com News",
+      "publishedAt": 1772550732000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIFRlY2ggU3RvY2tz",
+      "title": "Top Tech Stocks Show Strong Upside Potential, WarrenAI Says",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/top-tech-stocks-show-strong-upside-potential-warrenai-says-4538371",
+      "source": "Investing.com News",
+      "publishedAt": 1772550678000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlnaXRhbCBSZWFsdHkg",
+      "title": "Digital Realty at Raymond James Conference: Strategic Expansion and Challenges",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/digital-realty-at-raymond-james-conference-strategic-expansion-and-challenges-93CH-4538370",
+      "source": "Investing.com News",
+      "publishedAt": 1772550655000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBFbmkgU3BB",
+      "title": "Form 6K Eni SpA ADR For: 3 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-eni-spa-adr-for-3-march-93CH-4538368",
+      "source": "Investing.com News",
+      "publishedAt": 1772550639000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3lhbkNvbm5vZGUgdGFr",
+      "title": "CyanConnode takeover deadline extended to March 31",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cyanconnode-takeover-deadline-extended-to-march-31-93CH-4538367",
+      "source": "Investing.com News",
+      "publishedAt": 1772550638000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IFlvcmsgRmVkJmFw",
+      "title": "New York Fed&apos;s Williams says tariff burden falls &apos;overwhelmingly&apos; on U.S. businesses and consumers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772549779000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-NDMlIG9mIHdvcmtlcnMg",
+      "title": "43% of workers want to change careers this year, survey finds — but few may actually do it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/career-change-ai-layoffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772549383000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGludGVyZXN0IHNoYXJl",
+      "title": "Pinterest shares pop 6% as activist Elliott Management takes $1 billion stake",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/pinterest-pins-elliott-management.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772549074000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB3YXIgcHJlZGlj",
+      "title": "Iran war prediction market bets draw heat: &apos;Insane this is legal&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/02/prediction-markets-iran-strikes-khamenei.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772548801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkNDIGNoaWVmIHRlbGxz",
+      "title": "FCC chief tells CNBC WBD-Paramount merger deal is ‘cleaner’ than Netflix&apos;s, will be approved &apos;quickly&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/fcc-chair-brendan-carr-wbd-paramount-merger-deal-netflix.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772548725000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmVyc2FudCBkZWJ1dCBl",
+      "title": "Versant debut earnings report shows continued pay TV pressure, digital growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/versant-vsnt-debut-earnings-report-digital-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772548398000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FuYWRhIGFuZCBJbmRp",
+      "title": "Canada and India move to reset ties as trust in U.S. falters",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/canada-india-modi-carney-relationship-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772548134000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xlIGVtcGxveWVl",
+      "title": "Google employees call for military limits on AI amid Iran strikes, Anthropic fallout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772547782000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3dpc3Mgc25lYWtlciBt",
+      "title": "Swiss sneaker maker plunges 14% on weak guidance, slower than expected 2026 growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/03/on-onon-stock-q4-earnings-record-sales-guidance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772547463000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -43,177 +362,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV1cm9vbmUgbWVkaWNh",
-      "title": "Neuroone medical chief business officer buys $670k in NMTC",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/neuroone-medical-chief-business-officer-buys-670k-in-nmtc-93CH-4538030",
-      "source": "Investing.com News",
-      "publishedAt": 1772546113000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIENh",
-      "title": "Form DEF 14A Carrier Global Corporation For: 3 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-carrier-global-corporation-for-3-march-93CH-4538029",
-      "source": "Investing.com News",
-      "publishedAt": 1772546064000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmluRmFzdCB1bnZlaWxz",
-      "title": "VinFast unveils two ultra-luxury models, restructures brands",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vinfast-unveils-two-ultraluxury-models-restructures-brands-93CH-4538028",
-      "source": "Investing.com News",
-      "publishedAt": 1772545980000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIHJlaXRl",
-      "title": "Jefferies reiterates Viking Holdings stock rating on strong bookings",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-viking-holdings-stock-rating-on-strong-bookings-93CH-4538026",
-      "source": "Investing.com News",
-      "publishedAt": 1772545978000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley reiterates Overweight on Target stock, $125 target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-target-stock-125-target-93CH-4538025",
-      "source": "Investing.com News",
-      "publishedAt": 1772545976000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVFbGVtZW50IGZpbGVz",
-      "title": "ReElement files patent for lithium purification technology",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/reelement-files-patent-for-lithium-purification-technology-93CH-4538024",
-      "source": "Investing.com News",
-      "publishedAt": 1772545975000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3VzcXVlaGFubmEgaW5p",
-      "title": "Susquehanna initiates Carpenter Technology stock with Positive rating",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/susquehanna-initiates-carpenter-technology-stock-with-positive-rating-93CH-4538023",
-      "source": "Investing.com News",
-      "publishedAt": 1772545972000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIHJlaXRl",
-      "title": "Bernstein reiterates Zillow stock rating after CFO conference talk",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-zillow-stock-rating-after-cfo-conference-talk-93CH-4538022",
-      "source": "Investing.com News",
-      "publishedAt": 1772545971000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIFNvY0dl",
-      "title": "Bernstein SocGen cuts Amadeus IT stock price target on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-amadeus-it-stock-price-target-on-valuation-93CH-4538021",
-      "source": "Investing.com News",
-      "publishedAt": 1772545970000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TVZCIEZpbmFuY2lhbCBy",
-      "title": "MVB Financial redeems $40 million in subordinated notes using credit line and cash",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/mvb-financial-redeems-40-million-in-subordinated-notes-using-credit-line-and-cash-93CH-4538020",
-      "source": "Investing.com News",
-      "publishedAt": 1772545911000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGFyZ2V0IHNheXMgaXQm",
       "title": "Target says it&apos;s on track to end its sales slump after another lackluster quarter",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/03/target-tgt-q4-2025-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1772545863000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGludGVyZXN0IHNoYXJl",
-      "title": "Pinterest shares pop 8% as activist Elliott Management takes $1 billion stake",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/03/pinterest-pins-elliott-management.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772545619000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -235,36 +389,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmVyc2FudCBkZWJ1dCBl",
-      "title": "Versant debut earnings report shows continued pay TV pressure, digital growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/03/versant-vsnt-debut-earnings-report-digital-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772545200000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVzdCBCdXnigJlzIGhv",
-      "title": "Best Buy’s holiday sales disappoint, but retailer shows progress in growing profits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/03/best-buy-bby-q4-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772542419000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -310,21 +434,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3dpc3Mgc25lYWtlciBt",
-      "title": "Swiss sneaker maker falls 11% after record sales, as guidance falls short of expectations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/03/on-onon-stock-q4-earnings-record-sales-guidance.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772532503000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -403,36 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
-      "title": "Anthropic&apos;s Claude sees &apos;elevated errors&apos; as it tops Apple&apos;s free apps after Pentagon clash",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772500470000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV4dCBwaGFzZSBvZiBJ",
-      "title": "Next phase of Iran war ‘will be even more punishing’: Rubio, Trump officials brief Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/rubio-trump-brief-congress-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772496999000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Rmlyc3QgZmxpZ2h0cyB0",
       "title": "First flights take off from Dubai after Iran strikes, but service is &apos;limited&apos;",
       "summary": "",
@@ -478,72 +557,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiB3YXIgcHJlZGlj",
-      "title": "Iran war prediction market bets draw heat: &apos;Insane this is legal&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/prediction-markets-iran-strikes-khamenei.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772490910000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVya3NoaXJlIEhhdGhh",
-      "title": "Berkshire Hathaway shares drop nearly 5% after poor fourth-quarter results, no bold moves by new CEO Abel",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/berkshire-hathaway-shares-drop-4percent-after-poor-fourth-quarter-results.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772485266000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXMgVHJ1bXAgZGVjbGFy",
       "title": "As Trump declares inflation tamed, Iran conflict threatens new price pressures",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/02/as-trump-declares-inflation-tamed-iran-conflict-threatens-new-price-pressures.html",
       "source": "CNBC Markets",
       "publishedAt": 1772483094000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCBzdHVkZW50IGxv",
-      "title": "What student loan borrowers need to know about judge&apos;s ruling on SAVE plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/student-loan-borrowers-save-ruling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772482196000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week&apos;s decline",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/mortgage-rates-jump-sharply-higher-after-iran-strikes-reversing-last-weeks-decline.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772481613000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -574,21 +593,6 @@
       "url": "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html",
       "source": "CNBC Markets",
       "publishedAt": 1772471463000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFyYW1vdW50IHRvIGNv",
-      "title": "Paramount to combine HBO Max and Paramount+ into one streaming service after WBD merger",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/02/hbo-max-paramount-plus-streaming-services-merge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772470868000,
       "lang": "en-US",
       "topics": [
         "macro"
