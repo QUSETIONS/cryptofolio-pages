@@ -1,104 +1,95 @@
-﻿# CryptoFolio
+﻿# 🚀 CryptoFolio
 
-CryptoFolio is a portfolio intelligence system for tracking assets, evaluating risk, monitoring alerts, and understanding macro market conditions.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Vanilla JS](https://img.shields.io/badge/Tech-Vanilla_JS-f7df1e?logo=javascript&logoColor=black)
+![Playwright](https://img.shields.io/badge/Testing-Playwright-2EAD33?logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel&logoColor=white)
 
-## Online Access
-- Smart entry (recommended): `https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/start.html`
-- GitHub Pages: `https://qusetions.github.io/cryptofolio-pages/`
-- GitHub CDN mirror: `https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/index.html`
-- Main URL: `https://crypto-portfolio-tracker-tan-nine.vercel.app`
-- Share bridge URL: `https://crypto-portfolio-tracker-tan-nine.vercel.app/open`
-- Status page: `https://crypto-portfolio-tracker-tan-nine.vercel.app/status`
+CryptoFolio is a **high-performance, zero-framework Web3 portfolio intelligence system**. Designed for professional traders, it goes beyond simple asset tracking to offer institutional-grade risk evaluation, macro market monitoring, and extreme runtime resilience.
 
-## Core Capabilities
-- Dashboard with KPI metrics, allocation, performance curve, and sparkline.
-- Multi-view routing: Assets, Transactions, Risk, Alerts, Strategy, Stress, Attribution, Settings.
-- Safe data import/export with normalization, validation, and sanitization.
-- Bilingual experience (`en-US` / `zh-CN`) with locale-aware formatting.
-- Macro panel with multi-asset risk curves and explainable scoring.
-- Economic calendar with event importance filtering and cache fallback.
-- Decision workspace aggregating macro/news/stress signals into risk posture suggestions.
-- Decision modules: target allocation rebalance, stress scenario simulation, and risk attribution.
-- Runtime resilience: error boundary, offline fallback, cache fallback.
-
-## Tech Stack
-- Vanilla JavaScript modules (`js/*.js`)
-- Chart.js
-- Vitest + Playwright
-- Lighthouse CI
-- Vercel serverless API
-
-## Project Structure
-- `app.js`: entrypoint.
-- `js/app-orchestrator.js`: lifecycle and dependency wiring.
-- `js/domain-portfolio.js`: portfolio domain calculations.
-- `js/controllers.js`: action controllers.
-- `js/ui-renderers.js`: renderer helpers and escaped output.
-- `api/macro-snapshot.js`: macro market proxy endpoint.
-- `api/health.js`: runtime health contract endpoint.
-- `docs/`: deployment, architecture, screenshots, and metrics notes.
-
-## Commands
-```bash
-npm run check:js
-npm run check:modules
-npm run check:i18n-literals
-npm run check:app-size
-npm run check:docs
-npm run check:public -- --base-url https://crypto-portfolio-tracker-tan-nine.vercel.app
-npm run test
-npm run test:unit
-npm run test:e2e:smoke
-npm run test:e2e:strategy-stress-attribution
-npm run release:verify -- --base-url https://crypto-portfolio-tracker-tan-nine.vercel.app
-npm run ci:all
-```
-
-## Deployment
-- Primary: Vercel (`vercel.json`)
-- Backup: GitHub Pages
-- Guide: `docs/DEPLOY.md`
-
-## Documentation
-- Architecture: `ARCHITECTURE.md`
-- ADRs: `DECISIONS.md`
-- Macro metric definitions: `docs/MACRO_METRICS.md`
-- Technical Q&A: `docs/INTERVIEW_QA.md`
-- Module roadmap: `docs/MODULES_ROADMAP.md`
-- Decision cases: `docs/DECISION_CASES.md`
-
-## Disclaimer
-This system provides decision-support analytics only and does not constitute investment advice.
+👉 **[Live Demo (Vercel)](https://crypto-portfolio-tracker-tan-nine.vercel.app/)** | **[GitHub Pages Mirror](https://qusetions.github.io/cryptofolio-pages/)**
 
 ---
 
-## 中文说明
+## ✨ Why CryptoFolio? (The "Hardcore" Engineering)
 
-CryptoFolio 是一个加密资产组合智能系统，用于资产跟踪、风险评估、告警管理与宏观市场观察。
+Built from the ground up without heavy frameworks like React or Vue, this project is a testament to deep engineering fundamentals:
 
-### 主要能力
-- 仪表盘总览：KPI、仓位分布、收益曲线与迷你趋势图。
-- 多页面路由：资产、交易、风险、告警、策略、压力测试、风险归因、设置。
-- 安全导入导出：归一化、校验、净化流程。
-- 中英文切换：文案、数字、时间格式保持一致。
-- 宏观模块：多资产全球曲线与可解释风险评分。
-- 决策模块：目标仓位再平衡、情景压力测试、收益/波动归因。
-- 稳定性保障：运行时错误边界、离线降级与缓存回退。
+- **🏗️ Pure Vanilla JS & Dependency Injection (DI)**: Business logic and UI are completely decoupled through a custom Inversion of Control (IoC) architecture (`app-orchestrator.js`). The core domain runs flawlessly in Node.js for headless testing.
+- **🧮 Institutional Financial Engine**: Hand-crafted mathematical models for `O(n)` **Max Drawdown**, **95% Value at Risk (VaR95)**, and a highly robust **FIFO** cost basis algorithm that handles `1e-12` floating-point precision anomalies typical in Web3 meme coins.
+- **🛡️ Extreme Resilience (User-Focused)**: In volatile crypto markets, API Rate Limits (HTTP 429) are common. CryptoFolio implements a robust `Error Boundary` with a sliding-window `localStorage` failover. **Even if the network disconnects, the dashboard renders seamlessly from cached snapshots without whitespace or crashes.**
+- **🧪 Military-Grade QA (Accountability)**: Network failure handling isn't just a theory; it's proven daily in CI via **Playwright**, where end-to-end tests intentionally trigger `context.setOffline(true)` to assert UI fallback behaviors.
 
-### 线上地址
-- 智能入口（推荐）：`https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/start.html`
-- GitHub Pages：`https://qusetions.github.io/cryptofolio-pages/`
-- CDN 镜像：`https://cdn.jsdelivr.net/gh/QUSETIONS/cryptofolio-pages@main/index.html`
-- 主站：`https://crypto-portfolio-tracker-tan-nine.vercel.app`
-- 分享入口：`https://crypto-portfolio-tracker-tan-nine.vercel.app/open`
-- 运行状态：`https://crypto-portfolio-tracker-tan-nine.vercel.app/status`
+---
 
-### 文档入口
-- 部署说明：`docs/DEPLOY.md`
-- 架构说明：`ARCHITECTURE.md`
-- 决策记录：`DECISIONS.md`
-- 技术问答：`docs/INTERVIEW_QA.md`
-- 模块路线图：`docs/MODULES_ROADMAP.md`
-- 决策案例：`docs/DECISION_CASES.md`
+## 📸 Sneak Peek
 
-> 免责声明：本系统仅提供辅助分析，不构成投资建议。
+### Architecture Concept
+![Vanilla DI Architecture](docs/architecture.png)
+
+### Desktop View
+![Desktop Dashboard](docs/frontend-desktop.png)
+
+### Mobile Adaptation
+![Mobile View](docs/frontend-mobile.png)
+
+---
+
+## 🎯 Core Capabilities
+
+- **Risk Decision Workspace**: Aggregates macro indicators (Fed rates, DXY), news sentiment, and stress-test scenarios into actionable risk posture suggestions.
+- **Multi-View Analytics**: Dedicated routes for Assets, Transactions, Risk Attribution, Strategy Rebalancing, and Alerts.
+- **Anti-Corruption Layer**: Safe data import/export with rigorous normalization, type validation, and XSS sanitization (`storage.js`).
+- **Seamless Internationalization (i18n)**: Deep bilingual support (`en-US` / `zh-CN`) ensuring culturally correct number, date, and currency formatting.
+
+---
+
+## 🛠️ Quick Start
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/QUSETIONS/crypto-portfolio-tracker.git
+cd crypto-portfolio-tracker
+
+# 2. Install dev dependencies (for testing and linting only - the app itself has 0 prod dependencies!)
+npm install
+
+# 3. View locally (Just open target HTML file, or use a local dev server)
+npx serve .
+```
+
+## 🧪 Testing & CI
+
+```bash
+# Run unit tests (Vitest)
+npm run test:unit
+
+# Run End-to-End tests simulating offline scenarios (Playwright)
+npm run test:e2e:smoke
+
+# Run the complete CI pipeline (Lint, Unit, E2E, Lighthouse)
+npm run ci:all
+```
+
+---
+
+## 📚 Documentation 
+
+- [Architecture & Design (`ARCHITECTURE.md`)](ARCHITECTURE.md)
+- [Deployment Guide (`docs/DEPLOY.md`)](docs/DEPLOY.md)
+- [Architectural Decision Records (`DECISIONS.md`)](DECISIONS.md)
+
+> **Disclaimer**: This system provides decision-support analytics only and does not constitute financial or investment advice.
+
+---
+
+## 🇨🇳 中文简介
+
+CryptoFolio 是一个摒弃了臃肿框架的**纯 Vanilla JS Web3 资产风险决策系统**。
+
+它不仅仅是一个记账工具，更展现了极致的工程硬核实力：
+- 采用 **原生依赖注入 (DI)** 实现 UI 与底层数学逻辑的完全解耦。
+- 脱离 DOM 手写 O(n) 最大回撤、95% 在险价值 (VaR95) 以及带 1e-12 容差防截断的 FIFO 队列算法。
+- 引入结合滑动窗口日志防爆的全局 Error Boundary，并通过 Playwright 强制断网 (`setOffline`) 验证离线缓存降级能力，确保行情剧烈波动下永不白屏。
+
+[查看线上体验版](https://crypto-portfolio-tracker-tan-nine.vercel.app/)

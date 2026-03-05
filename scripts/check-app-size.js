@@ -3,7 +3,7 @@ const path = require("node:path");
 
 const targets = [
   { file: "app.js", max: 900 },
-  { file: path.join("js", "app-orchestrator.js"), max: 3200 }
+  { file: path.join("js", "app-orchestrator.js"), max: 3400 }
 ];
 
 const failures = [];

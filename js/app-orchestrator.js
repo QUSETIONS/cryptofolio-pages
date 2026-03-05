@@ -537,6 +537,31 @@ async function fetchNewsInsight(newsItems, locale, portfolioContext) {
     }
 }
 
+async function fetchNewsTranslate(items, locale) {
+    const normalizedLocale = locale === 'zh-CN' ? 'zh-CN' : 'en-US';
+    try {
+        return await fetchJsonOrThrow(buildApiUrl('/api/news-translate'), {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                locale: normalizedLocale,
+                items: Array.isArray(items) ? items : []
+            })
+        });
+    } catch (_error) {
+        return {
+            ok: false,
+            quality: 'rule',
+            items: Array.isArray(items) ? items.map(item => ({
+                id: item?.id || '',
+                titleZh: item?.translatedTitle || item?.title || '',
+                summaryZh: item?.translatedSummary || item?.summary || '',
+                quality: 'rule'
+            })) : []
+        };
+    }
+}
+
 async function fetchEconCalendar(windowKey, importance, locale) {
     const normalizedWindow = ['1d', '7d'].includes(windowKey) ? windowKey : '7d';
     const normalizedImportance = ['all', 'high'].includes(importance) ? importance : 'all';
@@ -1253,21 +1278,52 @@ function buildStrategyTargetInputs() {
             };
         })
         .filter(item => item.value > 0);
-    const uniqueCoins = [...new Set(byCoin.map(item => item.coinId))];
+    const dynamicCoins = [...new Set(byCoin.map(item => item.coinId))];
+    const manualRows = Array.isArray(settings.strategyManualTargets) ? settings.strategyManualTargets : [];
+    const manualCoins = manualRows.map(item => item.coinId).filter(Boolean);
+    const uniqueCoins = [...new Set([...dynamicCoins, ...manualCoins])];
+    const sortedCoinOptions = Object.entries(COIN_INFO)
+        .sort((a, b) => a[1].symbol.localeCompare(b[1].symbol))
+        .map(([coinId, info]) => `<option value="${escapeHtml(coinId)}">${escapeHtml(info.symbol)} - ${escapeHtml(info.name)}</option>`)
+        .join('');
 
     if (uniqueCoins.length === 0 || totalValue <= 0) {
-        elements.strategyTargetsList.innerHTML = `<p class="section-meta">${tr('strategy.empty')}</p>`;
+        const firstManual = manualRows[0] || { coinId: 'bitcoin', weight: 20 };
+        elements.strategyTargetsList.innerHTML = `
+            <p class="section-meta">${tr('strategy.emptyManualHint')}</p>
+            <div class="lab-target-item is-manual">
+                <label>${tr('strategy.manual.coin')}</label>
+                <select data-strategy-target-select>
+                    ${sortedCoinOptions}
+                </select>
+                <label>${tr('strategy.manual.weight')}</label>
+                <input
+                    type="number"
+                    min="0"
+                    max="100"
+                    step="0.1"
+                    data-strategy-target-manual
+                    value="${Number(firstManual.weight || 20).toFixed(2)}"
+                />
+            </div>
+        `;
+        const select = elements.strategyTargetsList.querySelector('select[data-strategy-target-select]');
+        if (select) select.value = firstManual.coinId || 'bitcoin';
         return;
     }
 
     const html = uniqueCoins.map(coinId => {
         const symbol = COIN_INFO[coinId]?.symbol || 'UNK';
         const currentValue = byCoin.filter(item => item.coinId === coinId).reduce((sum, item) => sum + item.value, 0);
-        const defaultWeight = (currentValue / totalValue) * 100;
+        const defaultWeight = totalValue > 0 ? (currentValue / totalValue) * 100 : 0;
+        const manualWeight = Number((manualRows.find(item => item.coinId === coinId) || {}).weight);
         const savedWeight = Number(settings.strategyTargets?.[coinId]);
-        const nextValue = Number.isFinite(savedWeight) ? savedWeight : defaultWeight;
+        const nextValue = Number.isFinite(savedWeight)
+            ? savedWeight
+            : (Number.isFinite(manualWeight) ? manualWeight : defaultWeight);
+        const isManual = !dynamicCoins.includes(coinId);
         return `
-            <div class="lab-target-item">
+            <div class="lab-target-item ${isManual ? 'is-manual' : ''}">
                 <label>${escapeHtml(symbol)}</label>
                 <input
                     type="number"
@@ -1277,6 +1333,7 @@ function buildStrategyTargetInputs() {
                     data-strategy-target="${coinId}"
                     value="${nextValue.toFixed(2)}"
                 />
+                ${isManual ? `<button class="mini-btn" type="button" data-strategy-remove="${escapeHtml(coinId)}">${tr('strategy.manual.remove')}</button>` : ''}
             </div>
         `;
     }).join('');
@@ -1294,7 +1351,55 @@ function readStrategyTargetsFromInputs() {
             targets[coinId] = value;
         }
     });
+    const manualInput = elements.strategyTargetsList.querySelector('input[data-strategy-target-manual]');
+    const manualSelect = elements.strategyTargetsList.querySelector('select[data-strategy-target-select]');
+    if (manualInput && manualSelect) {
+        const coinId = String(manualSelect.value || '');
+        const value = Number(manualInput.value);
+        if (coinId && Number.isFinite(value) && value >= 0) {
+            targets[coinId] = value;
+            settings.strategyManualTargets = [{ coinId, weight: value }];
+        }
+    } else {
+        const manualTargets = [];
+        elements.strategyTargetsList.querySelectorAll('input[data-strategy-target]').forEach(input => {
+            const coinId = String(input.getAttribute('data-strategy-target') || '');
+            if (!coinId || assets.some(asset => asset.coinId === coinId)) return;
+            const value = Number(input.value);
+            if (Number.isFinite(value) && value >= 0) {
+                manualTargets.push({ coinId, weight: value });
+            }
+        });
+        settings.strategyManualTargets = manualTargets;
+    }
     return targets;
+}
+
+function handleStrategyTargetsListClick(event) {
+    const removeButton = event.target.closest('[data-strategy-remove]');
+    if (!removeButton) return;
+    const coinId = String(removeButton.getAttribute('data-strategy-remove') || '');
+    if (!coinId) return;
+    settings.strategyManualTargets = (settings.strategyManualTargets || []).filter(item => item.coinId !== coinId);
+    delete settings.strategyTargets[coinId];
+    saveSettings();
+    buildStrategyTargetInputs();
+    setLabActionState('strategy', 'idle');
+}
+
+function handleStrategyAddTarget() {
+    const manualTargets = Array.isArray(settings.strategyManualTargets) ? settings.strategyManualTargets.slice() : [];
+    const availableCoin = Object.keys(COIN_INFO).find(coinId => !manualTargets.some(item => item.coinId === coinId));
+    if (!availableCoin) {
+        showToast(tr('strategy.manual.limit'), 'error');
+        return;
+    }
+    manualTargets.push({ coinId: availableCoin, weight: 0 });
+    settings.strategyManualTargets = manualTargets;
+    settings.strategyTargets[availableCoin] = settings.strategyTargets[availableCoin] || 0;
+    saveSettings();
+    buildStrategyTargetInputs();
+    setLabActionState('strategy', 'idle');
 }
 
 function evaluateStrategyLab() {
@@ -2171,6 +2276,23 @@ function handleDesktopPetAction(action) {
     }
 }
 
+function handleLabCtaClick(event) {
+    const button = event.target.closest('[data-lab-cta]');
+    if (!button) return;
+    const action = button.getAttribute('data-lab-cta');
+    if (action === 'import-assets') {
+        elements.importDataInput?.click();
+        return;
+    }
+    if (action === 'load-demo') {
+        loadDemoData();
+        return;
+    }
+    if (action === 'refresh-prices') {
+        refreshData();
+    }
+}
+
 function getNewsPortfolioContext() {
     const stats = calculatePortfolioStats();
     const topAssets = assets
@@ -2749,6 +2871,7 @@ function initializeControllers() {
                 calendarImportance: 'all',
                 decisionMode: 'brief',
                 strategyTargets: {},
+                strategyManualTargets: [],
                 stressLastScenarioId: 'risk_off',
                 attributionWindow: '24h',
                 navCollapsed: false,
@@ -2876,6 +2999,7 @@ async function init() {
         showToast,
         fetchNewsFeed,
         fetchNewsInsight,
+        fetchNewsTranslate,
         parseNewsPayload,
         renderNewsFeed,
         renderNewsInsight,
@@ -2968,10 +3092,15 @@ async function init() {
     elements.decisionModeSelect?.addEventListener('change', handleDecisionModeChange);
     elements.strategyEvaluateBtn?.addEventListener('click', handleStrategyEvaluate);
     elements.strategyExportBtn?.addEventListener('click', handleStrategyExport);
+    elements.strategyAddTargetBtn?.addEventListener('click', handleStrategyAddTarget);
+    elements.strategyTargetsList?.addEventListener('click', handleStrategyTargetsListClick);
+    elements.strategyResultTable?.addEventListener('click', handleLabCtaClick);
     elements.stressPresetSelect?.addEventListener('change', handleStressPresetChange);
     elements.stressRunBtn?.addEventListener('click', handleStressRun);
+    elements.stressResultTable?.addEventListener('click', handleLabCtaClick);
     elements.attributionWindowSelect?.addEventListener('change', handleAttributionWindowChange);
     elements.attributionRunBtn?.addEventListener('click', handleAttributionRun);
+    elements.attributionTable?.addEventListener('click', handleLabCtaClick);
     elements.localeQuickToggleBtn?.addEventListener('click', handleQuickLocaleToggle);
     elements.cancelEditBtn.addEventListener('click', () => setFormMode('add'));
     elements.assetsList.addEventListener('click', handleAssetActionClick);

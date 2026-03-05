@@ -30,7 +30,16 @@
     function buildAttributionRows(result, helpers) {
         const { formatCurrency, formatPercent, t } = helpers;
         if (!result || !Array.isArray(result.rows) || result.rows.length === 0) {
-            return `<p class="section-meta">${t("attribution.empty")}</p>`;
+            return `
+                <div class="news-empty-card">
+                    <p class="section-meta">${t("attribution.empty")}</p>
+                    <p class="section-meta">${t("attribution.emptyGuide")}</p>
+                    <div class="news-tags-row">
+                        <button class="header-icon-btn" type="button" data-lab-cta="import-assets">${t("lab.cta.import")}</button>
+                        <button class="header-icon-btn" type="button" data-lab-cta="refresh-prices">${t("lab.cta.refresh")}</button>
+                    </div>
+                </div>
+            `;
         }
         const rows = result.rows.map(row => `
             <tr>

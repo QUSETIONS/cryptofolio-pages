@@ -7,7 +7,15 @@
             t
         } = helpers;
         if (!result || !Array.isArray(result.rows) || result.rows.length === 0) {
-            return `<p class="section-meta">${t("strategy.empty")}</p>`;
+            return `
+                <div class="news-empty-card">
+                    <p class="section-meta">${t("strategy.empty")}</p>
+                    <div class="news-tags-row">
+                        <button class="header-icon-btn" type="button" data-lab-cta="import-assets">${t("lab.cta.import")}</button>
+                        <button class="header-icon-btn" type="button" data-lab-cta="load-demo">${t("lab.cta.demo")}</button>
+                    </div>
+                </div>
+            `;
         }
 
         const rows = result.rows.map(row => {

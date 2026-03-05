@@ -11,6 +11,7 @@
             showToast,
             fetchNewsFeed,
             fetchNewsInsight,
+            fetchNewsTranslate,
             parseNewsPayload,
             renderNewsFeed,
             renderNewsInsight,
@@ -27,6 +28,7 @@
         let countdownTimer = null;
         let modeHintTimer = null;
         let lastRenderedMode = null;
+        let localViewOpen = false;
 
         function hasContainer() {
             return Boolean(
@@ -161,6 +163,67 @@
             lastRenderedMode = mode;
         }
 
+        function openLocalView(item) {
+            if (!elements?.newsLocalModal || !item) return;
+            const locale = localeGetter();
+            const titleZh = item.translatedTitle || item.title || "--";
+            const summaryZh = item.translatedSummary || item.summary || t("news.noSummary");
+            elements.newsLocalModalSource.textContent = `${item.source || t("news.unknown")}  ${formatTime(item.publishedAt, locale)}`;
+            elements.newsLocalModalTitleZh.textContent = titleZh;
+            elements.newsLocalModalTitleEn.textContent = item.title || "--";
+            elements.newsLocalModalSummaryZh.textContent = summaryZh;
+            elements.newsLocalModalSummaryEn.textContent = item.summary || t("news.noSummary");
+            elements.newsLocalModalQuality.textContent = t("news.localView.quality", {
+                value: item.translationQuality === "rule" ? t("news.localView.ruleQuality") : t("news.localView.machineQuality")
+            });
+            elements.newsLocalModalLink.href = item.url || "#";
+            elements.newsLocalModal.classList.remove("hidden");
+            elements.newsLocalModal.setAttribute("aria-hidden", "false");
+            localViewOpen = true;
+        }
+
+        function closeLocalView() {
+            if (!elements?.newsLocalModal) return;
+            elements.newsLocalModal.classList.add("hidden");
+            elements.newsLocalModal.setAttribute("aria-hidden", "true");
+            localViewOpen = false;
+        }
+
+        async function translateItemsIfNeeded(adapter) {
+            const locale = localeGetter();
+            if (!adapter || locale !== "zh-CN") return adapter;
+            const rawItems = Array.isArray(adapter.items) ? adapter.items : [];
+            const needTranslate = rawItems.filter(item => !item.translatedTitle && !item.translatedSummary).slice(0, 10);
+            if (needTranslate.length === 0) return adapter;
+            if (typeof fetchNewsTranslate !== "function") return adapter;
+            try {
+                const translated = await fetchNewsTranslate(needTranslate, locale);
+                const translatedMap = new Map((translated?.items || []).map(item => [String(item.id), item]));
+                const nextItems = rawItems.map(item => {
+                    const hit = translatedMap.get(String(item.id));
+                    if (!hit) return item;
+                    return {
+                        ...item,
+                        translatedTitle: hit.titleZh || item.translatedTitle || item.title,
+                        translatedSummary: hit.summaryZh || item.translatedSummary || item.summary,
+                        translationQuality: hit.quality || "machine"
+                    };
+                });
+                return {
+                    ...adapter,
+                    items: nextItems
+                };
+            } catch (_error) {
+                return {
+                    ...adapter,
+                    items: rawItems.map(item => ({
+                        ...item,
+                        translationQuality: item.translationQuality || "rule"
+                    }))
+                };
+            }
+        }
+
         function updateCountdown() {
             if (!state || !elements.newsNextRefresh) return;
             const settings = getSettings();
@@ -218,7 +281,8 @@
 
             try {
                 const payload = await fetchNewsFeed(settings.newsTopic, settings.newsSince, 50, localeGetter());
-                const adapter = parseNewsPayload(payload);
+                const parsed = parseNewsPayload(payload);
+                const adapter = await translateItemsIfNeeded(parsed);
                 if (!adapter.ok) {
                     state = {
                         adapter,
@@ -285,6 +349,23 @@
                 const symbol = symbolButton.getAttribute("data-news-jump-symbol");
                 if (!symbol) return;
                 onJumpToSymbol?.(symbol);
+            });
+
+            elements.newsFeedList?.addEventListener("click", event => {
+                const viewButton = event.target.closest("[data-news-local-view]");
+                if (!viewButton || !state?.adapter?.items) return;
+                const itemId = viewButton.getAttribute("data-news-local-view");
+                const item = state.adapter.items.find(news => String(news.id) === String(itemId));
+                if (!item) return;
+                openLocalView(item);
+            });
+
+            elements.newsLocalModalOverlay?.addEventListener("click", closeLocalView);
+            elements.newsLocalModalCloseBtn?.addEventListener("click", closeLocalView);
+            window.addEventListener("keydown", event => {
+                if (event.key === "Escape" && localViewOpen) {
+                    closeLocalView();
+                }
             });
         }
 

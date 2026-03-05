@@ -76,9 +76,14 @@
         const source = item.source || "新闻源";
         const localizedTitle = localizeHeadlineZh(item.title || "");
         if (!localizedTitle) {
-            return `来自${source}的市场快讯，建议结合价格与风险指标交叉判断。`;
+            return `来自${source}的快讯：暂无细节，建议查看原文并结合仓位判断影响。`;
         }
-        return `要点：${localizedTitle}。来源：${source}。建议结合仓位与风险信号综合判断。`;
+        const concise = localizedTitle
+            .replace(/\s+/g, " ")
+            .replace(/[;:]+/g, "，")
+            .replace(/[。！？]+$/g, "")
+            .slice(0, 90);
+        return `发生了什么：${concise}。可能影响：关注相关资产短线波动。`;
     }
 
     function localizeNewsItem(item, locale) {
@@ -90,7 +95,11 @@
         if (!next.summary) {
             next.summary = buildFallbackSummaryZh(next);
         } else if (looksMostlyAscii(next.summary)) {
-            next.summary = `摘要：${localizeHeadlineZh(next.summary)}`;
+            const localizedSummary = localizeHeadlineZh(next.summary)
+                .replace(/\s+/g, " ")
+                .replace(/[;:]+/g, "，")
+                .slice(0, 120);
+            next.summary = `发生了什么：${localizedSummary}`;
         }
         return next;
     }
@@ -102,6 +111,8 @@
             .map(item => {
                 const title = sanitizeText(item?.title, 220);
                 const summary = sanitizeText(item?.summary, 360);
+                const titleZh = sanitizeText(item?.translatedTitle || item?.titleZh || "", 220);
+                const summaryZh = sanitizeText(item?.translatedSummary || item?.summaryZh || "", 360);
                 const source = sanitizeText(item?.source, 80);
                 const url = String(item?.url || "").trim();
                 const publishedAt = Number(item?.publishedAt || Date.now());
@@ -114,6 +125,9 @@
                     source: source || "Unknown",
                     publishedAt: Number.isFinite(publishedAt) ? publishedAt : Date.now(),
                     lang: item?.lang === "zh-CN" ? "zh-CN" : "en-US",
+                    translatedTitle: titleZh,
+                    translatedSummary: summaryZh,
+                    translationQuality: String(item?.translationQuality || item?.quality || "none"),
                     topics: Array.isArray(item?.topics) ? item.topics.filter(Boolean).slice(0, 6) : [],
                     symbols: Array.isArray(item?.symbols) ? item.symbols.filter(Boolean).slice(0, 6) : [],
                     sentimentHint: ["positive", "negative", "neutral"].includes(item?.sentimentHint) ? item.sentimentHint : "neutral",

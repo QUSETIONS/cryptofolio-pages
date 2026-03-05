@@ -82,6 +82,7 @@
             calendarImportance: 'all',
             decisionMode: 'brief',
             strategyTargets: {},
+            strategyManualTargets: [],
             stressLastScenarioId: 'risk_off',
             attributionWindow: '24h',
             navCollapsed: false,
@@ -163,6 +164,14 @@
                 }
             });
             next.strategyTargets = normalizedTargets;
+        }
+        if (parsed && Array.isArray(parsed.strategyManualTargets)) {
+            next.strategyManualTargets = parsed.strategyManualTargets
+                .map(item => ({
+                    coinId: String(item?.coinId || ''),
+                    weight: Number(item?.weight)
+                }))
+                .filter(item => item.coinId && Number.isFinite(item.weight) && item.weight >= 0);
         }
         if (parsed && typeof parsed.stressLastScenarioId === 'string' && parsed.stressLastScenarioId) {
             next.stressLastScenarioId = parsed.stressLastScenarioId;

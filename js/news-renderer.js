@@ -26,6 +26,12 @@
                 .join("");
 
             const cardClass = index === 0 ? "news-item featured" : "news-item standard";
+            const displayTitle = locale === "zh-CN"
+                ? (item.translatedTitle || item.title)
+                : item.title;
+            const displaySummary = locale === "zh-CN"
+                ? (item.translatedSummary || item.summary || t("news.noSummary"))
+                : (item.summary || t("news.noSummary"));
 
             return `
                 <article class="${cardClass}" data-news-item-id="${escapeHtml(item.id)}">
@@ -35,13 +41,14 @@
                         <span class="news-quality">${escapeHtml(t(`news.quality.${item.quality || quality}`))}</span>
                     </div>
                     <div class="news-item-head">
-                        <a class="news-title" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+                        <a class="news-title" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(displayTitle)}</a>
                         <span class="news-sentiment news-${item.sentimentHint}">${escapeHtml(t(`news.sentiment.${item.sentimentHint}`))}</span>
                     </div>
-                    <p class="news-summary">${escapeHtml(item.summary || t("news.noSummary"))}</p>
+                    <p class="news-summary">${escapeHtml(displaySummary)}</p>
                     <div class="news-tags-row">
                         ${topicBadges}
                         ${symbols}
+                        <button class="news-local-view-btn" data-news-local-view="${escapeHtml(item.id)}" type="button">${escapeHtml(t("news.localView.open"))}</button>
                     </div>
                 </article>
             `;

@@ -458,6 +458,7 @@
                 </div>
                 <button class="header-icon-btn" type="button" id="strategyEvaluateBtn" data-i18n="strategy.evaluate">Evaluate</button>
                 <button class="header-icon-btn" type="button" id="strategyExportBtn" data-i18n="strategy.export">Export Strategy</button>
+                <button class="header-icon-btn" type="button" id="strategyAddTargetBtn" data-i18n="strategy.addTarget">Add Target</button>
             </div>
             <div class="lab-targets" id="strategyTargetsList"></div>
             <div id="strategyResultSummary"></div>
@@ -663,6 +664,25 @@
     </div>
 
     <div class="toast" id="toast"></div>
+
+    <div class="news-local-modal hidden" id="newsLocalModal" aria-hidden="true">
+        <div class="news-local-modal-overlay" id="newsLocalModalOverlay"></div>
+        <section class="news-local-modal-panel" role="dialog" aria-modal="true" aria-labelledby="newsLocalModalTitle">
+            <header class="news-local-modal-header">
+                <h3 id="newsLocalModalTitle" data-i18n="news.localView.title">Local News View</h3>
+                <button class="header-icon-btn" type="button" id="newsLocalModalCloseBtn" data-i18n="button.close">Close</button>
+            </header>
+            <div class="news-local-modal-body">
+                <p class="section-meta" id="newsLocalModalSource">--</p>
+                <h4 class="news-local-headline" id="newsLocalModalTitleZh">--</h4>
+                <p class="section-meta" id="newsLocalModalTitleEn">--</p>
+                <p class="news-local-summary" id="newsLocalModalSummaryZh">--</p>
+                <p class="section-meta" id="newsLocalModalSummaryEn">--</p>
+                <p class="section-meta" id="newsLocalModalQuality">--</p>
+                <a class="header-icon-btn" id="newsLocalModalLink" href="#" target="_blank" rel="noopener noreferrer" data-i18n="news.card.read">Read Source</a>
+            </div>
+        </section>
+    </div>
 
     <div class="desktop-pet hidden" id="desktopPet" aria-label="Desktop assistant">
         <button type="button" class="desktop-pet-body" id="desktopPetBody" title="Assistant">🧭</button>
