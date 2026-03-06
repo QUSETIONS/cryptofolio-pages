@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772806089402,
-  "crawlUpdatedAt": 1772806089402,
+  "updatedAt": 1772809569649,
+  "crawlUpdatedAt": 1772809569649,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,257 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyB0aGVy",
-      "title": "Trump says there will be no deal with Iran except &apos;unconditional surrender&apos;",
+      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyB1",
+      "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772809451000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2xvYmFsIG9pbCBiZW5j",
+      "title": "Global oil benchmark Brent crude breaks above $90 a barrel amid Iran war, U.S. crude tops $89",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772809351000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SWNlbGFuZCBwbGFucyBu",
+      "title": "Iceland plans now or never referendum on EU negotiations",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/iceland-plans-now-or-never-referendum-on-eu-negotiations-4547231",
+      "source": "Investing.com News",
+      "publishedAt": 1772808931000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG95b3RhLCBIeXVuZGFp",
+      "title": "Toyota, Hyundai and Chinese automakers expected to be most impacted by Iran war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/06/iran-war-automakers-toyota-hyundai-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772808930000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9iaW5ob29k4oCZcyAk",
+      "title": "Robinhood’s $658 million private markets fund for retail investors goes public",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/robinhoods-658-million-private-markets-fund-for-retail-investors-goes-public-4547210",
+      "source": "Investing.com News",
+      "publishedAt": 1772808913000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgYWdlbmN5IHRvIGhv",
+      "title": "US agency to hold self-driving safety forum with CEOs of Waymo, Zoox, Aurora",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-agency-to-hold-selfdriving-safety-forum-with-ceos-of-waymo-zoox-aurora-4547230",
+      "source": "Investing.com News",
+      "publishedAt": 1772808901000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGlvbnNnYXRlIFN0dWRp",
+      "title": "Lionsgate Studios Holding Corp stock hits 52-week high at 10.1 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/lionsgate-studios-holding-corp-stock-hits-52week-high-at-101-usd-93CH-4547229",
+      "source": "Investing.com News",
+      "publishedAt": 1772808892000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnkgb2ls",
+      "title": "US Treasury oil futures plan under consideration, but no immediate announcement, administration official says",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-officials-ruling-out-treasury-oil-futures-trades-for-now-bloomberg-news-reports-4546084",
+      "source": "Investing.com News",
+      "publishedAt": 1772808874000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTkxJR0hU",
+      "title": "Form 144 NLIGHT For: 6 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-nlight-for-6-march-93CH-4547228",
+      "source": "Investing.com News",
+      "publishedAt": 1772808854000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFNv",
+      "title": "Form DEF 14A Solitron Devices For: 6 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-solitron-devices-for-6-march-93CH-4547227",
+      "source": "Investing.com News",
+      "publishedAt": 1772808852000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgU1BFQ0lB",
+      "title": "Form 144 SPECIAL OPPORTUNITIES FUND For: 6 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-special-opportunities-fund-for-6-march-93CH-4547226",
+      "source": "Investing.com News",
+      "publishedAt": 1772808850000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-REEgRGF2aWRzb24gcmVp",
+      "title": "DA Davidson reiterates CPI Card Group stock Buy on solid Q4 results",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-cpi-card-group-stock-buy-on-solid-q4-results-93CH-4547223",
+      "source": "Investing.com News",
+      "publishedAt": 1772808776000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RC5BLiBEYXZpZHNvbiBr",
+      "title": "D.A. Davidson keeps Neutral on Alta Equipment stock on weather impact",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-keeps-neutral-on-alta-equipment-stock-on-weather-impact-93CH-4547222",
+      "source": "Investing.com News",
+      "publishedAt": 1772808769000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBubyBk",
+      "title": "Trump says no deal with Iran to end war without &apos;unconditional surrender&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772806061000,
+      "publishedAt": 1772808657000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VXNlZCB2ZWhpY2xlIHBy",
+      "title": "Used vehicle prices jump ahead of spring selling season optimism",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/06/used-vehicle-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772807882000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2FuIEZyYW5jaXNjbyBG",
+      "title": "San Francisco Fed&apos;s Daly says jobs report complicates interest rate call",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772807643000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkRBIG9mZmljaWFsIGNh",
+      "title": "FDA official calls UniQure&apos;s gene therapy a &apos;failed&apos; treatment for Huntington&apos;s disease",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/05/fda-uniqure-gene-therapy-huntingtons-disease.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772806380000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,187 +278,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/06/united-airlines-ceo-scott-kirby.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772806038000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyB1",
-      "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772806003000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXA6IG5vIElyYW4g",
-      "title": "Trump: no Iran deal except unconditional surrender",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-no-iran-deal-except-unconditional-surrender-4547072",
-      "source": "Investing.com News",
-      "publishedAt": 1772805968000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGFybGV5LURhdmlkc29u",
-      "title": "Harley-Davidson plans share repurchase under new trading plan",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/harleydavidson-plans-share-repurchase-under-new-trading-plan-93CH-4547063",
-      "source": "Investing.com News",
-      "publishedAt": 1772805771000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJvcG9zZWQgVS5TLiBB",
-      "title": "Proposed U.S. AI chip export licensing could slow global adoption, Bernstein says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/proposed-us-ai-chip-export-licensing-could-slow-global-adoption-bernstein-says-4547061",
-      "source": "Investing.com News",
-      "publishedAt": 1772805704000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9uZXl3ZWxsIEFlcm9z",
-      "title": "Honeywell Aerospace launches $16B debt offering ahead of spinoff",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/honeywell-aerospace-launches-16b-debt-offering-ahead-of-spinoff-93CH-4547058",
-      "source": "Investing.com News",
-      "publishedAt": 1772805662000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2FyYW50aSBCQlZBIGFw",
-      "title": "Garanti BBVA applies to issue debt instruments up to TL 50 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/garanti-bbva-applies-to-issue-debt-instruments-up-to-tl-50-billion-93CH-4547057",
-      "source": "Investing.com News",
-      "publishedAt": 1772805656000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBIYXJsZXkg",
-      "title": "Form 8K Harley Davidson For: 6 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-harley-davidson-for-6-march-93CH-4547056",
-      "source": "Investing.com News",
-      "publishedAt": 1772805653000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBCaW9teCBJ",
-      "title": "Form 8K Biomx Inc For: 6 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-biomx-inc-for-6-march-93CH-4547055",
-      "source": "Investing.com News",
-      "publishedAt": 1772805640000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBNYXJyaW90",
-      "title": "Form 8K Marriott Vacations Worldwide Corp For: 6 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-marriott-vacations-worldwide-corp-for-6-march-93CH-4547054",
-      "source": "Investing.com News",
-      "publishedAt": 1772805639000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBBVEFJIEJl",
-      "title": "Form 8K ATAI Beckley Inc For: 6 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-atai-beckley-inc-for-6-march-93CH-4547053",
-      "source": "Investing.com News",
-      "publishedAt": 1772805639000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBEYXkgT25l",
-      "title": "Form 8K Day One Biopharmaceuticals Inc For: 6 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-day-one-biopharmaceuticals-inc-for-6-march-93CH-4547052",
-      "source": "Investing.com News",
-      "publishedAt": 1772805639000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2xvYmFsIG9pbCBiZW5j",
-      "title": "Global oil benchmark Brent crude breaks above $90 a barrel amid Iran war, U.S. crude tops $87",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772805614000,
+      "publishedAt": 1772806088000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -388,21 +453,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RkRBIG9mZmljaWFsIGNh",
-      "title": "FDA official calls UniQure&apos;s gene therapy a &apos;failed&apos; treatment for Huntington&apos;s disease",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/05/fda-uniqure-gene-therapy-huntingtons-disease.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772763877000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2h5IHRoZSB3b3JsZCZh",
       "title": "Why the world&apos;s top-performing stock market in 2025 is seeing historic volatility",
       "summary": "",
@@ -439,21 +489,6 @@
       "url": "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html",
       "source": "CNBC Markets",
       "publishedAt": 1772760312000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSByYWlz",
-      "title": "We&apos;re raising our Costco price target after a good but not great quarter. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/05/were-raising-our-costco-price-target-after-a-good-but-not-great-quarter-heres-why.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772756840000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -523,21 +558,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2VzdGVybiBhdXRvbWFr",
-      "title": "Western automakers outsourced supply chains for decades — now Chinese rivals have the cost edge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/06/china-ev-cost-advantage-vertical-integration-byd-tesla-rhodium-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772752271000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiBmb3JlaWduIG1p",
       "title": "Iran foreign minister: Not seeking ceasefire, warns U.S. invasion would be &apos;big disaster for them&apos;",
       "summary": "",
@@ -565,21 +585,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhdGVzIGxlZCBieSBO",
-      "title": "States led by New York sue to block Trump&apos;s latest tariffs, calling them an illegal end run around Supreme Court",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772741965000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
