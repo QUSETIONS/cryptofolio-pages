@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1772882906020,
-  "crawlUpdatedAt": 1772882906020,
+  "updatedAt": 1772884096951,
+  "crawlUpdatedAt": 1772884096951,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SXJhbiBzYXlzIGl0IHN0",
+      "title": "Iran says it struck UAE air base shortly after Iranian president&apos;s vow not to hit neighbors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772883314000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-T21uaVBhY3QgU2VjdXJl",
       "title": "OmniPact Secures $50 Million to Advance Trust Infrastructure",
@@ -157,21 +172,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiZhcG9zO3MgcHJl",
-      "title": "Iran&apos;s president vows not to hit neighbors as U.S.-Israeli strikes continue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772874889000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
