@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772912866771,
-  "crawlUpdatedAt": 1772912866771,
-  "crawlCount": 34,
+  "updatedAt": 1772915713870,
+  "crawlUpdatedAt": 1772915713870,
+  "crawlCount": 33,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SXJhbiBzYXlzIGl0IHN0",
+      "title": "Iran says it struck UAE air base shortly after Iranian president&apos;s vow not to hit neighbors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772914774000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
+      "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772914143000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIGhpdHMgVWty",
+      "title": "Russia hits Ukraine with drones, missiles, killing at least 10 in Kharkiv",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/russian-strike-kills-seven-including-two-children-in-ukraines-kharkiv-governor-says-4548381",
+      "source": "Investing.com News",
+      "publishedAt": 1772913632000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCAkMTAwL2JibCBv",
+      "title": "What $100/bbl oil could mean for China",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-100bbl-oil-could-mean-for-china-4548531",
+      "source": "Investing.com News",
+      "publishedAt": 1772913602000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-T3ZlciAzMCBodXJ0IGlu",
       "title": "Over 30 hurt in Peru after nightclub explosion causes chaos",
@@ -49,21 +109,6 @@
       "url": "https://www.investing.com/news/politics-news/as-irans-retaliation-began-us-officials-scrambled--to-arrange-evacuations-4548536",
       "source": "Investing.com News",
       "publishedAt": 1772911862000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBzYXlzIGl0IHN0",
-      "title": "Iran says it struck UAE air base shortly after Iranian president&apos;s vow not to hit neighbors",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772911606000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -115,21 +160,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
-      "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772910299000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -220,36 +250,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiB3YXIgdGhyZWF0",
-      "title": "Iran war threatens prolonged hit to global energy markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-war-threatens-prolonged-hit-to-global-energy-markets-4548529",
-      "source": "Investing.com News",
-      "publishedAt": 1772906067000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbmlhbiBoYXJkbGlu",
-      "title": "Iranian hardline clerics seek swift naming of new supreme leader",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/iranian-hardline-clerics-seek-swift-naming-of-new-supreme-leader-4548528",
-      "source": "Investing.com News",
-      "publishedAt": 1772905707000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -499,21 +499,6 @@
       "url": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
       "source": "CNBC Markets",
       "publishedAt": 1772831775000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIGpvaW5zIE1p",
-      "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772826815000,
       "lang": "en-US",
       "topics": [
         "macro"
