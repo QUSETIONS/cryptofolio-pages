@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772920136453,
-  "crawlUpdatedAt": 1772920136453,
-  "crawlCount": 32,
+  "updatedAt": 1772922737716,
+  "crawlUpdatedAt": 1772922737716,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIGhpdHMgVWty",
+      "title": "Russia hits Ukraine with drones, missiles, killing at least 10 in Kharkiv",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/russian-strike-kills-seven-including-two-children-in-ukraines-kharkiv-governor-says-4548381",
+      "source": "Investing.com News",
+      "publishedAt": 1772921187000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgYnlwYXNzZXMgY29u",
+      "title": "US bypasses congressional review to approve munitions sale to Israel",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-skips-congressional-review-to-approve-munitions-sale-to-israel-4548281",
+      "source": "Investing.com News",
+      "publishedAt": 1772920468000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SGlzdG9yeSBzaG93cyB0",
       "title": "History shows that oil price shocks tend to reward these currencies",
@@ -160,36 +190,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIGhpdHMgVWty",
-      "title": "Russia hits Ukraine with drones, missiles, killing at least 10 in Kharkiv",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/russian-strike-kills-seven-including-two-children-in-ukraines-kharkiv-governor-says-4548381",
-      "source": "Investing.com News",
-      "publishedAt": 1772913632000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCAkMTAwL2JibCBv",
-      "title": "What $100/bbl oil could mean for China",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/what-100bbl-oil-could-mean-for-china-4548531",
-      "source": "Investing.com News",
-      "publishedAt": 1772913602000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -475,21 +475,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXZlcmFnZSBJUlMgdGF4",
-      "title": "Average IRS tax refund is up 10.6%, early filing data shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/06/average-irs-tax-refund.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772834652000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
