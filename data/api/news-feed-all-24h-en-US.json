@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772922737716,
-  "crawlUpdatedAt": 1772922737716,
-  "crawlCount": 31,
+  "updatedAt": 1772926257760,
+  "crawlUpdatedAt": 1772926257760,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SXJhbiB2b3dzIGl0IHdv",
+      "title": "Iran vows it won&apos;t surrender as war with the U.S. and Israel enters second week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772925790000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9ybmFkb2VzIGtpbGwg",
+      "title": "Tornadoes kill four, injure more than a dozen in rural Michigan",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/tornadoes-kill-four-injure-more-than-a-dozen-in-ruralmichigan-4548333",
+      "source": "Investing.com News",
+      "publishedAt": 1772925525000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdGVsbHMgQnJp",
+      "title": "Trump tells Britain he does not need its help to win Iran war",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-tells-britain-he-does-not-need-its-help-to-win-iran-war-4548545",
+      "source": "Investing.com News",
+      "publishedAt": 1772924437000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UnVzc2lhIGhpdHMgVWty",
       "title": "Russia hits Ukraine with drones, missiles, killing at least 10 in Kharkiv",
@@ -64,21 +109,6 @@
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4548543",
       "source": "Investing.com News",
       "publishedAt": 1772918403000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBzYXlzIGl0IHN0",
-      "title": "Iran says it struck UAE air base shortly after Iranian president&apos;s vow not to hit neighbors",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772917355000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,57 +178,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsIHdhcm5zIExl",
-      "title": "Israel warns Lebanon of ’disastrous repercussions’ as week’s death toll nears 300",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/israel-carries-out-rare-airborne-raid-in-lebanon-16-killed-in-strikes-4548483",
-      "source": "Investing.com News",
-      "publishedAt": 1772916159000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UkJDIHN0YXlzIGJ1bGxp",
-      "title": "RBC stays bullish on copper as prices defy rising inventories",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/rbc-stays-bullish-on-copper-as-prices-defy-rising-inventories-4548532",
-      "source": "Investing.com News",
-      "publishedAt": 1772915401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
       "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
       "source": "CNBC Markets",
       "publishedAt": 1772914143000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S3V3YWl0IGN1dHMgb2ls",
-      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/kuwait-oil-cut-iran-war-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772911910000,
       "lang": "en-US",
       "topics": [
         "macro"
