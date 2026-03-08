@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773009197018,
-  "crawlUpdatedAt": 1773009197018,
+  "updatedAt": 1773012745734,
+  "crawlUpdatedAt": 1773012745734,
   "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SXJhbiBuYW1lcyBBeWF0",
-      "title": "Iran names Ayatollah Khamenei&apos;s son, Mojtaba, as new supreme leader: Media reports",
+      "id": "CNBC Markets-T2lsIHN1cmdlcyBhYm92",
+      "title": "Oil surges above $100 a barrel; Trump says &apos;small price to pay&apos; for defeating Iran",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773008892000,
+      "publishedAt": 1773011847000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,18 +28,63 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyB0b3Ag",
-      "title": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
+      "id": "CNBC Markets-SXJhbiBuYW1lcyBBeWF0",
+      "title": "Iran names Ayatollah Khamenei&apos;s son, Mojtaba, as new supreme leader: Media reports",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773008864000,
+      "publishedAt": 1773010988000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHNvYXJzLCBzaGFy",
+      "title": "Oil soars, shares slide in Asia as Middle East conflict rages",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/oil-soars-shares-slide-in-asia-as-middle-east-conflict-rages-4548645",
+      "source": "Investing.com News",
+      "publishedAt": 1773010126000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBuYW1lcyBLaGFt",
+      "title": "Iran names Khamenei’s hardline son Mojtaba as new supreme leader, oil surges",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders-4548554",
+      "source": "Investing.com News",
+      "publishedAt": 1773010107000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgb2lsIHByaWNlcyBq",
+      "title": "US oil prices jump on supply fears amid expanding U.S.-Israeli war with Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-oil-prices-jump-on-supply-fears-amid-expanding-usisraeli-war-with-iran-4548644",
+      "source": "Investing.com News",
+      "publishedAt": 1773009748000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -70,21 +115,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBuYW1lcyBLaGFt",
-      "title": "Iran names Khamenei’s hardline son Mojtaba as new supreme leader",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders-4548554",
-      "source": "Investing.com News",
-      "publishedAt": 1773005791000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -163,42 +193,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q291bGQgQUktcG93ZXJl",
-      "title": "Could AI-powered property management transform hotel stays?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/could-aipowered-property-management-transform-hotel-stays-4548635",
-      "source": "Investing.com News",
-      "publishedAt": 1773000024000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgdm93cyBsZWdp",
       "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
       "source": "CNBC Markets",
       "publishedAt": 1772998967000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2Fuc2FzIENpdHkgSW50",
-      "title": "Kansas City International Airport reopens after brief closure due to unspecified threat",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/kansas-city-international-airport-reopens-after-brief-closure-due-to-unspecified-threat-4548634",
-      "source": "Investing.com News",
-      "publishedAt": 1772998928000,
       "lang": "en-US",
       "topics": [
         "macro"
