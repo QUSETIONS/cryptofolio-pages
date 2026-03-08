@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773002194496,
-  "crawlUpdatedAt": 1773002194496,
+  "updatedAt": 1773005521071,
+  "crawlUpdatedAt": 1773005521071,
   "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SXJhbiBjb250aW51ZXMg",
-      "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
+      "id": "CNBC Markets-SXJhbiBuYW1lcyBBeWF0",
+      "title": "Iran names Ayatollah Khamenei&apos;s son, Mojtaba, as new supreme leader: Media reports",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773002163000,
+      "publishedAt": 1773005288000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VjdXJpdHkgbGluZXMg",
+      "title": "Security lines at some US airports hit three hours as TSA absences rise",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/security-lines-at-some-us-airports-hit-three-hours-as-tsa-absences-rise-4548637",
+      "source": "Investing.com News",
+      "publishedAt": 1773003285000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -205,23 +220,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QlRJR+KAmXMgS3JpbnNr",
-      "title": "BTIG’s Krinsky flags a ’buyable’ level in S&P 500",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/btigs-krinsky-flags-a-buyable-level-in-sp-500-4548589",
-      "source": "Investing.com News",
-      "publishedAt": 1772993947000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
