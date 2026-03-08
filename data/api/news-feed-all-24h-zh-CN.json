@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772998290872,
-  "crawlUpdatedAt": 1772998290872,
-  "crawlCount": 20,
+  "updatedAt": 1773002194496,
+  "crawlUpdatedAt": 1773002194496,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-V2FyIGRpc3J1cHRpb25z",
-      "title": "War disruptions may send oil to $150 to $200 a barrel. Here&apos;s my advice for stock investors",
+      "id": "CNBC Markets-SXJhbiBjb250aW51ZXMg",
+      "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
+      "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
       "source": "CNBC Markets",
-      "publishedAt": 1772998071000,
+      "publishedAt": 1773002163000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VuaW9yIElyYW5pYW4g",
+      "title": "Senior Iranian cleric suggests Khamenei’s hardline son to be supreme leader",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders-4548554",
+      "source": "Investing.com News",
+      "publishedAt": 1773001107000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,102 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2VuaW9yIElyYW5pYW4g",
-      "title": "Senior Iranian cleric suggests Khamenei’s hardline son to be supreme leader",
+      "id": "Investing.com News-TmV3IFlvcmsgQ2l0eSBw",
+      "title": "New York City police identify device outside Mamdani’s home as explosive",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders-4548554",
+      "url": "https://www.investing.com/news/politics-news/new-york-city-police-identify-device-outside-mamdanis-home-as-explosive-4548636",
       "source": "Investing.com News",
-      "publishedAt": 1772996787000,
+      "publishedAt": 1773000388000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGViYW5lc2UgbWFuIGZs",
+      "title": "Lebanese man flees hometown, months after repairing home damaged in last war",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/lebanese-man-flees-hometown-months-after-repairing-home-damaged-in-last-war-4548575",
+      "source": "Investing.com News",
+      "publishedAt": 1773000026000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q291bGQgQUktcG93ZXJl",
+      "title": "Could AI-powered property management transform hotel stays?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/could-aipowered-property-management-transform-hotel-stays-4548635",
+      "source": "Investing.com News",
+      "publishedAt": 1773000024000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdm93cyBsZWdp",
+      "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772998967000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2Fuc2FzIENpdHkgSW50",
+      "title": "Kansas City International Airport reopens after brief closure due to unspecified threat",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/kansas-city-international-airport-reopens-after-brief-closure-due-to-unspecified-threat-4548634",
+      "source": "Investing.com News",
+      "publishedAt": 1772998928000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S0tSIGV5ZXMgbXVsdGli",
+      "title": "KKR eyes multibillion-dollar sale of CoolIT Systems, FT reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/kkr-eyes-multibilliondollar-sale-of-data-center-cooling-company-ft-reports-4548581",
+      "source": "Investing.com News",
+      "publishedAt": 1772998590000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FyIGRpc3J1cHRpb25z",
+      "title": "War disruptions may send oil to $150 to $200 a barrel. Here&apos;s my advice for stock investors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772998071000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -116,96 +221,6 @@
       "symbols": [
         "SPX"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZW5lcmd5IGNoaWVm",
-      "title": "US energy chief says oil rally reflects ‘fear premium’, will fade",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-energy-chief-says-oil-rally-reflects-fear-premium--will-fade-4548617",
-      "source": "Investing.com News",
-      "publishedAt": 1772993928000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Ug",
-      "title": "Israeli strike kills three Palestinians in Gaza City, medics say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-two-palestinians-in-a-car-in-gaza-medics-say-4548615",
-      "source": "Investing.com News",
-      "publishedAt": 1772993547000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WGVub24gUGhhcm1hY2V1",
-      "title": "Xenon Pharmaceuticals to report epilepsy drug trial results Monday",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/xenon-pharmaceuticals-to-report-epilepsy-drug-trial-results-monday-93CH-4548629",
-      "source": "Investing.com News",
-      "publishedAt": 1772993100000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIHNlZXMgcmlzaW5n",
-      "title": "UBS sees rising opportunity for analog semis in AI data center power",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ubs-sees-rising-opportunity-for-analog-semis-in-ai-data-center-power-4548598",
-      "source": "Investing.com News",
-      "publishedAt": 1772992802000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TlRTQiBib2FyZCBtZW1i",
-      "title": "NTSB board member Inman says he was fired by White House",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ntsb-board-member-inman-says-he-was-fired-by-white-house-4548627",
-      "source": "Investing.com News",
-      "publishedAt": 1772992490000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBjb250aW51ZXMg",
-      "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772990232000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
