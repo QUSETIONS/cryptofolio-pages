@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1772995661725,
-  "crawlUpdatedAt": 1772995661725,
-  "crawlCount": 22,
+  "updatedAt": 1772998290872,
+  "crawlUpdatedAt": 1772998290872,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-V2FyIGRpc3J1cHRpb25z",
+      "title": "War disruptions may send oil to $150 to $200 a barrel. Here&apos;s my advice for stock investors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772998071000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VuaW9yIElyYW5pYW4g",
+      "title": "Senior Iranian cleric suggests Khamenei’s hardline son to be supreme leader",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders-4548554",
+      "source": "Investing.com News",
+      "publishedAt": 1772996787000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
+      "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1772996416000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TnZpZGlhIEdUQzogSW52",
+      "title": "Nvidia GTC: Investors will focus on these 6 things",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/nvidia-gtc-investors-will-focus-on-these-6-things-4548630",
+      "source": "Investing.com News",
+      "publishedAt": 1772995748000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-RGF5IDg6IElyYW4gaGl0",
       "title": "Day 8: Iran hits Gulf infrastructure as US, Israel strike Tehran fuel sites",
@@ -135,57 +195,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVocmFuIGluZGljYXRl",
-      "title": "Tehran indicates Khamenei’s son will be named supreme leader as Israel expands Iran strikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders-4548554",
-      "source": "Investing.com News",
-      "publishedAt": 1772992471000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgd2VpZ2hzIHNwZWNp",
-      "title": "US weighs special forces mission to seize Iran uranium, Bloomberg reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-weighs-special-forces-mission-to-seize-iran-uranium-bloomberg-reports-4548626",
-      "source": "Investing.com News",
-      "publishedAt": 1772990874000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiBjb250aW51ZXMg",
       "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
       "source": "CNBC Markets",
       "publishedAt": 1772990232000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDQg",
-      "title": "Here are the 4 big things we&apos;re watching in the stock market in the week ahead",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772986271000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -297,51 +312,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
-      "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772914143000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIHRoZSBib29t",
-      "title": "Inside the booming business of wellness third spaces and membership clubs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772909526000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MiBjb25maWRlbmNlLWJ1",
-      "title": "2 confidence-building tools for parents to set kids up for &apos;a lifetime of success,&apos; from a mental performance coach",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/confidence-building-tools-parents-help-kids-succeed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772909361000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
