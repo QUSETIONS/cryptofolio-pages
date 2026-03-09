@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773057490583,
-  "crawlUpdatedAt": 1773057490583,
-  "crawlCount": 25,
+  "updatedAt": 1773063389740,
+  "crawlUpdatedAt": 1773063389740,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,57 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIHN1cmdlcyBhYm92",
-      "title": "Oil surges above $100 as Gulf states cut back production; WTI nearly touched $120 a barrel at high",
+      "id": "Investing.com News-Rm9ybSBTLTMgOTA4IERl",
+      "title": "Form S-3 908 Devices Inc For: 9 March",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773056028000,
+      "url": "https://www.investing.com/news/filings/form-s3-908-devices-inc-for-9-march-93CH-4549835",
+      "source": "Investing.com News",
+      "publishedAt": 1773062845000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgdG8gZGVzaWduYXRl",
+      "title": "US to designate Sudanese Muslim Brotherhood a foreign terrorist organization, State Department says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-to-designate-sudanese-muslim-brotherhood-a-foreign-terrorist-organization-state-department-says-4549815",
+      "source": "Investing.com News",
+      "publishedAt": 1773062813000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmlyaWRpYW4gVGhlcmFw",
+      "title": "Viridian Therapeutics at Leerink Conference: Eyeing Market Expansion",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/viridian-therapeutics-at-leerink-conference-eyeing-market-expansion-93CH-4549832",
+      "source": "Investing.com News",
+      "publishedAt": 1773062793000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWlybGluZSBzaGFyZXMg",
+      "title": "Airline shares battered, airfares surge as Iran war pushes oil above $100",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/airline-shares-battered-as-oil-prices-spike-iran-war-intensifies-4548679",
+      "source": "Investing.com News",
+      "publishedAt": 1773062793000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +73,73 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2FsbCBTdCBmdXR1cmVz",
-      "title": "Wall St futures slide as Middle East conflict stokes inflation worries",
+      "id": "Investing.com News-VHJ1bXAgYm91Z2h0IE5l",
+      "title": "Trump bought Netflix and Warner Bros bonds at height of bidding war with Paramount",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slump-as-iran-war-drags-on-oil-near-120-stokes-inflation-worries-4548817",
+      "url": "https://www.investing.com/news/stock-market-news/trump-bought-netflix-and-warner-bros-bonds-at-height-of-bidding-war-with-paramount-4549831",
       "source": "Investing.com News",
-      "publishedAt": 1773055498000,
+      "publishedAt": 1773062761000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hpcHBlciBNU0MgaW50",
+      "title": "Shipper MSC introduces emergency fuel surcharges",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/shipper-msc-introduces-emergency-fuel-surcharges-4549830",
+      "source": "Investing.com News",
+      "publishedAt": 1773062742000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGl2ZSBOYXRpb24gcmVh",
+      "title": "Live Nation reaches settlement with DOJ in antitrust case",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/live-nation-nears-settlement-in-us-antitrust-lawsuit-bloomberg-news-reports-4548695",
+      "source": "Investing.com News",
+      "publishedAt": 1773062704000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1hem9u4oCZcyBab294",
+      "title": "Amazon’s Zoox to launch command hub in Arizona, expand testing to Dallas and Phoenix",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/amazons-zoox-to-launch-command-hub-in-arizona-expand-testing-to-dallas-and-phoenix-4549829",
+      "source": "Investing.com News",
+      "publishedAt": 1773062684000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2xsaWXigJlzIEJhcmdh",
+      "title": "Ollie’s Bargain Outlet stock rating reiterated at RBC Capital",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/ollies-bargain-outlet-stock-rating-reiterated-at-rbc-capital-93CH-4549828",
+      "source": "Investing.com News",
+      "publishedAt": 1773062457000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -43,27 +149,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SGFsbGlidXJ0b24gc3Vy",
-      "title": "Halliburton surges 70% after InvestingPro Fair Value call",
+      "id": "Investing.com News-QmlvZnJvbnRlcmEgcmVw",
+      "title": "Biofrontera reports Phase 2b acne trial results for Ameluz PDT",
       "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/halliburton-surges-70-after-investingpro-fair-value-call-93CH-4549355",
+      "url": "https://www.investing.com/news/company-news/biofrontera-reports-phase-2b-acne-trial-results-for-ameluz-pdt-93CH-4549827",
       "source": "Investing.com News",
-      "publishedAt": 1773055495000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGllZCBPcHRvZWxl",
-      "title": "Applied Optoelectronics receives $200M order for 1.6T transceivers",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/applied-optoelectronics-receives-200m-order-for-16t-transceivers-93CH-4549354",
-      "source": "Investing.com News",
-      "publishedAt": 1773055493000,
+      "publishedAt": 1773062457000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,89 +164,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsaSBhaXIgYW5k",
-      "title": "Israeli air and tank strikes kills six Palestinians in Gaza, medics say",
+      "id": "CNBC Markets-Q29uZ3Jlc3Npb25hbCBE",
+      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-two-palestinians-in-a-car-in-gaza-medics-say-4548615",
-      "source": "Investing.com News",
-      "publishedAt": 1773055480000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWRpdGFzIE1lZGljaW5l",
-      "title": "Editas Medicine stock rises 2% after Q4 earnings and revenue beats",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/editas-medicine-stock-rises-2-after-q4-earnings-and-revenue-beats-93CH-4549346",
-      "source": "Investing.com News",
-      "publishedAt": 1773055398000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBLRSBIb2xk",
-      "title": "Form 6K KE Holdings Inc. For: 9 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-ke-holdings-inc-for-9-march-93CH-4549345",
-      "source": "Investing.com News",
-      "publishedAt": 1773055382000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBFbGVkb24g",
-      "title": "Form 6K Eledon Pharmaceuticals Inc For: 9 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-eledon-pharmaceuticals-inc-for-9-march-93CH-4549344",
-      "source": "Investing.com News",
-      "publishedAt": 1773055376000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IEFtZXJpY2Fu",
-      "title": "Form 4 American Bitcoin Corp For: 9 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-american-bitcoin-corp-for-9-march-93CH-4549343",
-      "source": "Investing.com News",
-      "publishedAt": 1773055375000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWNjbyBCcmFuZHMgZWFy",
-      "title": "Acco Brands earnings matched, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/acco-brands-earnings-matched-revenue-fell-short-of-estimates-4549342",
-      "source": "Investing.com News",
-      "publishedAt": 1773055306000,
+      "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773062282000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -170,7 +184,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/09/us-treasury-yields-investors-monitor-iran-war-and-soaring-oil-price.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773055303000,
+      "publishedAt": 1773062149000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -182,15 +196,165 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-WklNIEludGVncmF0ZWQg",
-      "title": "ZIM Integrated Shipping Services earnings beat by $1.31, revenue topped estimates",
+      "id": "CNBC Markets-SGltcyAmIEhlcnMgc2hh",
+      "title": "Hims & Hers shares surge 50% after Novo Nordisk drops patent infringement case over compounded weight loss drugs",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/zim-integrated-shipping-services-earnings-beat-by-131-revenue-topped-estimates-4549341",
-      "source": "Investing.com News",
-      "publishedAt": 1773055282000,
+      "url": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773062037000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiZhcG9zO3Mgc3Ry",
+      "title": "Iran&apos;s strategic oil island thrust into the spotlight as Middle East conflict escalates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773061843000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2UmYXBvcztyZSBtYWtp",
+      "title": "We&apos;re making a small trim to boost our cash position in case the sell-off worsens",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/were-making-a-small-trim-to-boost-our-cash-position-in-case-the-sell-off-worsens.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773061837000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IENoaW5hIGNhbiB3",
+      "title": "Why China can withstand oil&apos;s surge past $100 more easily than other countries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773061429000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773061394000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBa",
+      "title": "Amazon&apos;s Zoox expands robotaxi testing to Phoenix and Dallas",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/amazon-zoox-robotaxi-testing-phoenix-dallas.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773061376000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IGFkZHMg",
+      "title": "Microsoft adds higher-priced Office tier with Copilot as it tries to juice sales with AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/microsoft-office-365-e7-copilot-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773061201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T25saW5lIGFnZS12ZXJp",
+      "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773059420000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U21hbGwgNDAxKGspcyBt",
+      "title": "Small 401(k)s may automatically follow workers to their next job — except Roth money",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/401k-auto-portability-roth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773059401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGJhY2tzIEFJ",
+      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773059111000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHN1cmdlcyBhYm92",
+      "title": "Oil surges above $100 as Gulf states cut back production; WTI nearly touched $120 a barrel at high",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773057643000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
@@ -212,21 +376,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiZhcG9zO3Mgc3Ry",
-      "title": "Iran&apos;s strategic oil island thrust into the spotlight as Middle East conflict escalates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773052906000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VS5TLiBvcmRlcnMgc3Rh",
       "title": "U.S. orders staff to leave Saudi Arabia as war spreads; Iran rules out immediate ceasefire",
       "summary": "",
@@ -239,51 +388,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29uZ3Jlc3Npb25hbCBE",
-      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773049450000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIGJhY2tzIEFJ",
-      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773047790000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IENoaW5hIGNhbiB3",
-      "title": "Why China can withstand oil&apos;s surge past $100 more easily than other countries",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773046629000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -338,51 +442,6 @@
       "url": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
       "source": "CNBC Markets",
       "publishedAt": 1772998967000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FyIGRpc3J1cHRpb25z",
-      "title": "War disruptions may send oil to $150 to $200 a barrel. Here&apos;s my advice for stock investors",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772998071000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T25saW5lIGFnZS12ZXJp",
-      "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772981110000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW4gYSBqb2JzIGFwb2Nh",
-      "title": "In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772976601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
