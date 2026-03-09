@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773038260413,
-  "crawlUpdatedAt": 1773038260413,
-  "crawlCount": 25,
+  "updatedAt": 1773042868283,
+  "crawlUpdatedAt": 1773042868283,
+  "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,15 +13,135 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-U2hhcmVzIHNraWQgYXMg",
-      "title": "Shares skid as oil surge threatens inflation shock",
+      "id": "CNBC Markets-VS5TLiBvcmRlcnMgc3Rh",
+      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $100",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/oil-soars-shares-slide-in-asia-as-middle-east-conflict-rages-4548645",
-      "source": "Investing.com News",
-      "publishedAt": 1773037827000,
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773042846000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBwdWxs",
+      "title": "Oil prices pull back after breaching $110 as G7 nations consider tapping emergency reserves",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773042693000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gdHVybnMg",
+      "title": "JPMorgan turns bearish on EMEA mining, steel stocks amid Middle East risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-turns-bearish-on-emea-mining-steel-stocks-amid-middle-east-risks-4548791",
+      "source": "Investing.com News",
+      "publishedAt": 1773042272000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgYWQgYW5kIG1hcmtl",
+      "title": "UK ad and marketing firm M&C Saatchi’s CEO steps down",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/uk-ad-and-marketing-firm-mc-saatchis-ceo-steps-down-4548790",
+      "source": "Investing.com News",
+      "publishedAt": 1773042249000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBjb25mbGljdCBm",
+      "title": "Iran conflict forces central banks into sharp policy rethink",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/iran-conflict-forces-central-banks-into-sharp-policy-rethink-4548705",
+      "source": "Investing.com News",
+      "publishedAt": 1773042187000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SWduaXRpcyBncnVwxJcg",
+      "title": "Ignitis grupė receives updated shareholder expectations letter",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ignitis-grup-receives-updated-shareholder-expectations-letter-93CH-4548785",
+      "source": "Investing.com News",
+      "publishedAt": 1773042179000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBvbGxvIHRvIGNsb3Nl",
+      "title": "Apollo to close acquisition of Atletico Madrid stake this week, says Expansion",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/apollo-to-close-acquisition-of-atletico-madrid-stake-this-week-says-expansion-4548780",
+      "source": "Investing.com News",
+      "publishedAt": 1773042167000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R292ZXJubWVudHMgc2Ny",
+      "title": "Governments scramble to limit fallout of Iran war as oil prices surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/governments-scramble-to-limit-fallout-of-iran-war-as-oil-prices-surge-4548745",
+      "source": "Investing.com News",
+      "publishedAt": 1773042152000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFyY2xheXMgdXBncmFk",
+      "title": "Barclays upgrades four EU airlines, sees jet fuel falling as Iran war eases",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-upgrades-four-eu-airlines-sees-jet-fuel-falling-as-iran-war-eases-4548784",
+      "source": "Investing.com News",
+      "publishedAt": 1773042124000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
@@ -33,7 +153,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773037550000,
+      "publishedAt": 1773042105000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -43,12 +163,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBjb25mbGljdCBm",
-      "title": "Iran conflict forces central banks into sharp policy rethink",
+      "id": "Investing.com News-Qm9yciBEcmlsbGluZyBz",
+      "title": "Borr Drilling suspends Arabian Gulf operations amid hostilities",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-conflict-forces-central-banks-into-sharp-policy-rethink-4548705",
+      "url": "https://www.investing.com/news/company-news/borr-drilling-suspends-arabian-gulf-operations-amid-hostilities-93CH-4548783",
       "source": "Investing.com News",
-      "publishedAt": 1773037482000,
+      "publishedAt": 1773042069000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +178,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5hbHlzaXMtQWN0aXZp",
-      "title": "Analysis-Activist threat pushes Japanese companies to unwind cross-shareholdings",
+      "id": "Investing.com News-T2lsIHBhcmVzIGdhaW5z",
+      "title": "Oil pares gains but still on track for record surge as Iran war escalates",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysisactivist-threat-pushes-japanese-companies-to-unwind-crossshareholdings-4548707",
+      "url": "https://www.investing.com/news/commodities-news/us-oil-prices-jump-on-supply-fears-amid-expanding-usisraeli-war-with-iran-4548644",
       "source": "Investing.com News",
-      "publishedAt": 1773037467000,
+      "publishedAt": 1773041855000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gQXNzZXQg",
+      "title": "JPMorgan Asset Management reduces stake in Wickes Group",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jpmorgan-asset-management-reduces-stake-in-wickes-group-93CH-4548781",
+      "source": "Investing.com News",
+      "publishedAt": 1773041853000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyBEYWlseSBPcGVu",
+      "title": "CNBC Daily Open: Oil storms past $100 for first time since 2022",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/cnbc-daily-open-oil-storms-past-100-for-first-time-since-2022.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773041808000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,30 +223,30 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-S2hhbWVuZWnigJlzIGhh",
-      "title": "Khamenei’s hardline son Mojtaba appointed Iran’s new leader, Pope Leo warns of Middle East ’hatred and fear’",
+      "id": "CNBC Markets-V2h5IENoaW5hIGNhbiB3",
+      "title": "Why China can withstand oil&apos;s surge past $100 more easily than other countries",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/khameneis-hardline-son-mojtaba-appointed-irans-new-leader-pope-leo-warns-of-middle-east-hatred-and-fear-4548711",
-      "source": "Investing.com News",
-      "publishedAt": 1773037110000,
+      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773039987000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SU1G4oCZcyBHZW9yZ2ll",
-      "title": "IMF’s Georgieva says Middle East conflict poses upside risks to inflation",
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets set to slump on Middle East turmoil as oil price surges",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-middle-east-conflict-poses-upside-risks-to-inflation-4548710",
-      "source": "Investing.com News",
-      "publishedAt": 1773037081000,
+      "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773038604000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
@@ -115,96 +265,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhbnMgcmVh",
-      "title": "Australians reach for VPNs, find porn sites blocked as online age-restrictions take effect",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/vpns-up-porn-websites-down-as-australia-brings-in-new-online-agerestrictions-4548676",
-      "source": "Investing.com News",
-      "publishedAt": 1773036404000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGl2ZSBOYXRpb24gY2xv",
-      "title": "Live Nation close to settling US antitrust suit without Ticketmaster sale, Bloomberg News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/live-nation-nears-settlement-in-us-antitrust-lawsuit-bloomberg-news-reports-4548695",
-      "source": "Investing.com News",
-      "publishedAt": 1773036385000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RzcgZmluYW5jZSBtaW5p",
-      "title": "G7 finance ministers to discuss joint oil reserve release - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/g7-finance-ministers-to-discuss-joint-oil-reserve-release--report-4548704",
-      "source": "Investing.com News",
-      "publishedAt": 1773036127000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZG9sbGFyIHN1cmdl",
-      "title": "US dollar surges as Middle East war sends oil to cusp of $120",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-surges-as-usiran-war-pushes-oil-past-100-a-barrel-4548648",
-      "source": "Investing.com News",
-      "publishedAt": 1773036076000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGF3eWVycyBmb3IgQm9u",
-      "title": "Lawyers for Bondi Beach shooting suspect seek gag order to protect family",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/lawyers-for-bondi-beach-shooting-suspect-seek-gag-order-to-protect-family-4548703",
-      "source": "Investing.com News",
-      "publishedAt": 1773036059000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvcmRlcnMgc3Rh",
-      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $110",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773033725000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -229,21 +289,6 @@
       "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
       "source": "CNBC Markets",
       "publishedAt": 1773025709000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHN1cmdlcyBhYm92",
-      "title": "Oil surges above $110 a barrel; Trump says &apos;small price to pay&apos; for defeating Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773022288000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -364,21 +409,6 @@
       "url": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
       "source": "CNBC Markets",
       "publishedAt": 1772974567000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgc2F5cyAmYXBv",
-      "title": "China says &apos;thorough preparations&apos; needed as Trump-Xi meeting hangs in the balance amid Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1772954273000,
       "lang": "zh-CN",
       "topics": [
         "macro"
