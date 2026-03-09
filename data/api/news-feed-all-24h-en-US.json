@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773042868051,
-  "crawlUpdatedAt": 1773042868051,
-  "crawlCount": 27,
+  "updatedAt": 1773046576026,
+  "crawlUpdatedAt": 1773046576026,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,209 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-QnJpdGlzaCBnb3Zlcm5t",
+      "title": "British government bonds drop as oil surge revives inflation fears",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/british-government-bonds-drop-as-oil-surge-revives-inflation-fears-93CH-4548863",
+      "source": "Investing.com News",
+      "publishedAt": 1773046526000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFyY2xheXMgdXBncmFk",
+      "title": "Barclays upgrades Leonardo stock rating on earnings outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/barclays-upgrades-leonardo-stock-rating-on-earnings-outlook-93CH-4548862",
+      "source": "Investing.com News",
+      "publishedAt": 1773046515000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gZ2FzIHN1",
+      "title": "European gas surges as Middle East war disrupts LNG supplies",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/european-gas-surges-as-middle-east-war-disrupts-lng-supplies-4548860",
+      "source": "Investing.com News",
+      "publishedAt": 1773046287000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
+      "title": "FTSE 100 today: UK stocks open lower, pound at $1.33; oil tops $100 amid conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-uk-stocks-open-lower-pound-at-133-oil-tops-100-amid-conflict-4548859",
+      "source": "Investing.com News",
+      "publishedAt": 1773046208000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIGRvd24gYWZ0ZXIg",
+      "title": "UBS down after warning Swiss rules may require $22 bln in Capital",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/ubs-down-after-warning-swiss-rules-may-require-22-bln-in-capital-4548857",
+      "source": "Investing.com News",
+      "publishedAt": 1773045948000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks slip as oil prices spike amid ongoing Iran conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-oil-prices-spike-amid-ongoing-iran-conflict-4548821",
+      "source": "Investing.com News",
+      "publishedAt": 1773045830000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets fall over 2% on Middle East turmoil as oil price surges",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773045821000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyBjb29s",
+      "title": "Oil prices cool 30% rally on G7 emergency reserve talks; Iran supply fears mount",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-jump-to-111barrel-as-iran-war-sparks-heightened-supply-fears-4548649",
+      "source": "Investing.com News",
+      "publishedAt": 1773045813000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBwcmljZXMgdHJp",
+      "title": "Gold prices trim early losses; Iran war escalation sparks rally in oil, dollar",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-prices-fall-as-iran-war-escalation-sparks-rally-in-oil-dollar-4548657",
+      "source": "Investing.com News",
+      "publishedAt": 1773045807000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVybyB6b25lIGJvbmRz",
+      "title": "Euro zone bonds slump as Middle East war spurs oil price spike, stoking market jitters",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/euro-zone-bonds-slump-as-middle-east-war-spurs-oil-price-spike-stoking-market-jitters-4548854",
+      "source": "Investing.com News",
+      "publishedAt": 1773045774000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBvbGxvIHRvIGNsb3Nl",
+      "title": "Apollo to close acquisition of Atletico Madrid stake this week, says Expansion",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/apollo-to-close-acquisition-of-atletico-madrid-stake-this-week-says-expansion-4548780",
+      "source": "Investing.com News",
+      "publishedAt": 1773045751000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgY29uc3VtZXIg",
+      "title": "China consumer inflation hits three-year high as producer deflation eases",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/china-february-inflation-cpi-producer-prices-stimulus-economy-ppi-factory-consumer.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773044940000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VS5TLiBvcmRlcnMgc3Rh",
       "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $100",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773042846000,
+      "publishedAt": 1773044655000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGJhY2tzIEFJ",
+      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773044530000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,118 +230,13 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773042693000,
+      "publishedAt": 1773043613000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNb3JnYW4gdHVybnMg",
-      "title": "JPMorgan turns bearish on EMEA mining, steel stocks amid Middle East risks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-turns-bearish-on-emea-mining-steel-stocks-amid-middle-east-risks-4548791",
-      "source": "Investing.com News",
-      "publishedAt": 1773042272000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUsgYWQgYW5kIG1hcmtl",
-      "title": "UK ad and marketing firm M&C Saatchi’s CEO steps down",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/uk-ad-and-marketing-firm-mc-saatchis-ceo-steps-down-4548790",
-      "source": "Investing.com News",
-      "publishedAt": 1773042249000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBjb25mbGljdCBm",
-      "title": "Iran conflict forces central banks into sharp policy rethink",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-conflict-forces-central-banks-into-sharp-policy-rethink-4548705",
-      "source": "Investing.com News",
-      "publishedAt": 1773042187000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SWduaXRpcyBncnVwxJcg",
-      "title": "Ignitis grupė receives updated shareholder expectations letter",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ignitis-grup-receives-updated-shareholder-expectations-letter-93CH-4548785",
-      "source": "Investing.com News",
-      "publishedAt": 1773042179000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBvbGxvIHRvIGNsb3Nl",
-      "title": "Apollo to close acquisition of Atletico Madrid stake this week, says Expansion",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apollo-to-close-acquisition-of-atletico-madrid-stake-this-week-says-expansion-4548780",
-      "source": "Investing.com News",
-      "publishedAt": 1773042167000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R292ZXJubWVudHMgc2Ny",
-      "title": "Governments scramble to limit fallout of Iran war as oil prices surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/governments-scramble-to-limit-fallout-of-iran-war-as-oil-prices-surge-4548745",
-      "source": "Investing.com News",
-      "publishedAt": 1773042152000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFyY2xheXMgdXBncmFk",
-      "title": "Barclays upgrades four EU airlines, sees jet fuel falling as Iran war eases",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/barclays-upgrades-four-eu-airlines-sees-jet-fuel-falling-as-iran-war-eases-4548784",
-      "source": "Investing.com News",
-      "publishedAt": 1773042124000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -160,51 +252,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9yciBEcmlsbGluZyBz",
-      "title": "Borr Drilling suspends Arabian Gulf operations amid hostilities",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/borr-drilling-suspends-arabian-gulf-operations-amid-hostilities-93CH-4548783",
-      "source": "Investing.com News",
-      "publishedAt": 1773042069000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHBhcmVzIGdhaW5z",
-      "title": "Oil pares gains but still on track for record surge as Iran war escalates",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-oil-prices-jump-on-supply-fears-amid-expanding-usisraeli-war-with-iran-4548644",
-      "source": "Investing.com News",
-      "publishedAt": 1773041855000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNb3JnYW4gQXNzZXQg",
-      "title": "JPMorgan Asset Management reduces stake in Wickes Group",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/jpmorgan-asset-management-reduces-stake-in-wickes-group-93CH-4548781",
-      "source": "Investing.com News",
-      "publishedAt": 1773041853000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -238,21 +285,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets set to slump on Middle East turmoil as oil price surges",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773038604000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2xvYmFsIHdlZWsgYWhl",
       "title": "Global week ahead: Diplomacy in ruins as G7 meets on Iran",
       "summary": "",
@@ -265,21 +297,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgY29uc3VtZXIg",
-      "title": "China consumer inflation hits three-year high as producer deflation eases",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/china-february-inflation-cpi-producer-prices-stimulus-economy-ppi-factory-consumer.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773032297000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
