@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773050564441,
-  "crawlUpdatedAt": 1773050564441,
-  "crawlCount": 24,
+  "updatedAt": 1773054656966,
+  "crawlUpdatedAt": 1773054656966,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,61 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VS5TLiBvcmRlcnMgc3Rh",
-      "title": "U.S. orders staff to leave Saudi Arabia as war spreads; Iran rules out immediate ceasefire",
+      "id": "Investing.com News-QkVUQSBUZWNobm9sb2dp",
+      "title": "BETA Technologies stock falls 4% on wider loss despite revenue beat",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773050325000,
+      "url": "https://www.investing.com/news/earnings/beta-technologies-stock-falls-4-on-wider-loss-despite-revenue-beat-93CH-4549276",
+      "source": "Investing.com News",
+      "publishedAt": 1773054272000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TkFTREFRIHBsYW5zIGVx",
+      "title": "NASDAQ plans equity tokenization design for issuers",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/nasdaq-plans-equity-tokenization-design-for-issuers-432SI-4549274",
+      "source": "Investing.com News",
+      "publishedAt": 1773054187000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
+      "title": "Goldman Sachs resumes Fidelity National Information Services stock coverage with buy rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-resumes-fidelity-national-information-services-stock-coverage-with-buy-rating-93CH-4549273",
+      "source": "Investing.com News",
+      "publishedAt": 1773054177000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
+      "title": "Wolfe Research initiates Cava stock coverage with outperform rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-initiates-cava-stock-coverage-with-outperform-rating-93CH-4549272",
+      "source": "Investing.com News",
+      "publishedAt": 1773054176000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,18 +77,170 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHN1cmdlcyBhYm92",
-      "title": "Oil surges above $100 as Gulf states cut back production; G7 nations consider tapping reserves",
+      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
+      "title": "Wolfe Research initiates Starbucks stock coverage with Peerperform rating",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773049774000,
+      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-initiates-starbucks-stock-coverage-with-peerperform-rating-93CH-4549271",
+      "source": "Investing.com News",
+      "publishedAt": 1773054176000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
+      "title": "Wolfe Research initiates Portillo’s stock coverage at Peerperform",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-initiates-portillos-stock-coverage-at-peerperform-93CH-4549270",
+      "source": "Investing.com News",
+      "publishedAt": 1773054175000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
+      "title": "Wolfe Research initiates Brinker stock coverage with outperform rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-initiates-brinker-stock-coverage-with-outperform-rating-93CH-4549268",
+      "source": "Investing.com News",
+      "publishedAt": 1773054173000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2luZ3N0b3DigJlzIDQy",
+      "title": "Wingstop’s 42% decline validates InvestingPro overvaluation warning",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/wingstops-42-decline-validates-investingpro-overvaluation-warning-93CH-4549259",
+      "source": "Investing.com News",
+      "publishedAt": 1773054115000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S29ybiBGZXJyeSBlYXJu",
+      "title": "Korn Ferry earnings beat by $0.05, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/korn-ferry-earnings-beat-by-005-revenue-topped-estimates-4549257",
+      "source": "Investing.com News",
+      "publishedAt": 1773054108000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rmx1b3IgYWRkcyBmb3Jt",
+      "title": "Fluor adds former SNC-Lavalin CEO to board of directors",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fluor-adds-former-snclavalin-ceo-to-board-of-directors-93CH-4549255",
+      "source": "Investing.com News",
+      "publishedAt": 1773054104000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
+      "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773053971000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiZhcG9zO3Mgc3Ry",
+      "title": "Iran&apos;s strategic oil island thrust into the spotlight as Middle East conflict escalates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773052906000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields climb higher as investors monitor Iran war and soaring oil price",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/us-treasury-yields-investors-monitor-iran-war-and-soaring-oil-price.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773052595000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHN1cmdlcyBhYm92",
+      "title": "Oil surges above $100 as Gulf states cut back production; WTI nearly touched $120 a barrel at high",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773052274000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBvcmRlcnMgc3Rh",
+      "title": "U.S. orders staff to leave Saudi Arabia as war spreads; Iran rules out immediate ceasefire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773051257000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -55,156 +256,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVybyB6b25lIGludmVz",
-      "title": "Euro zone investor morale falls in March as Iran war casts doubt on EU recovery",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/euro-zone-investor-morale-falls-in-march-as-iran-war-casts-doubt-on-eu-recovery-4548966",
-      "source": "Investing.com News",
-      "publishedAt": 1773049008000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdCBmdXR1cmVz",
-      "title": "Wall St futures slide as Middle East conflict stokes inflation worries",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slump-as-iran-war-drags-on-oil-near-120-stokes-inflation-worries-4548817",
-      "source": "Investing.com News",
-      "publishedAt": 1773048987000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIGluaXRpYXRl",
-      "title": "Stifel initiates Anadarko Petroleum stock with buy on growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-initiates-anadarko-petroleum-stock-with-buy-on-growth-outlook-93CH-4548962",
-      "source": "Investing.com News",
-      "publishedAt": 1773048891000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SHV0Y2htZWQgd2l0aGRy",
-      "title": "Hutchmed withdraws cancer drug Tazverik in China",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hutchmed-withdraws-cancer-drug-tazverik-in-china-93CH-4548961",
-      "source": "Investing.com News",
-      "publishedAt": 1773048832000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmlyaXNlOiBCdWlsZGlu",
-      "title": "Nirise: Building a Transparent Investment Ecosystem at the Intersection of Fintech, AI, and Digital Assets",
-      "summary": "",
-      "url": "https://www.investing.com/news/press-releases/nirise-building-a-transparent-investment-ecosystem-at-the-intersection-of-fintech-ai-and-digital-assets-4548958",
-      "source": "Investing.com News",
-      "publishedAt": 1773048686000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZG9sbGFyIHN1cmdl",
-      "title": "US dollar surges as Middle East war sends oil to cusp of $120",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-surges-as-usiran-war-pushes-oil-past-100-a-barrel-4548648",
-      "source": "Investing.com News",
-      "publishedAt": 1773048653000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbuKAmXMgY2hvaWNl",
-      "title": "Iran’s choice of Mojtaba Khamenei appears to close path to swift end to war, oil soars",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/khameneis-hardline-son-mojtaba-appointed-irans-new-leader-pope-leo-warns-of-middle-east-hatred-and-fear-4548711",
-      "source": "Investing.com News",
-      "publishedAt": 1773048631000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHVya2V5IGRlcGxveXMg",
-      "title": "Turkey deploys F-16s to northern Cyprus amid Middle East tensions",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/turkey-deploys-f16s-to-northern-cyprus-amid-middle-east-tensions-93CH-4548956",
-      "source": "Investing.com News",
-      "publishedAt": 1773048469000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNb3JnYW4gdHVybnMg",
-      "title": "JPMorgan turns bearish on EMEA mining, steel stocks on Middle East conflict risks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-turns-bearish-on-emea-mining-steel-stocks-amid-middle-east-risks-4548791",
-      "source": "Investing.com News",
-      "publishedAt": 1773048450000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBjb29s",
-      "title": "Oil prices cool 30% rally on G7 emergency reserve talks; Iran supply fears mount",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-jump-to-111barrel-as-iran-war-sparks-heightened-supply-fears-4548649",
-      "source": "Investing.com News",
-      "publishedAt": 1773048338000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -238,21 +289,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiZhcG9zO3Mgc3Ry",
-      "title": "Iran&apos;s strategic oil island thrust into the spotlight as Middle East conflict escalates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773045952000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmEgY29uc3VtZXIg",
       "title": "China consumer inflation hits three-year high as producer deflation eases",
       "summary": "",
@@ -262,21 +298,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T25lIHllYXIgYWZ0ZXIg",
-      "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773025709000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
