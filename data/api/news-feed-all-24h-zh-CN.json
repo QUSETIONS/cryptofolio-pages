@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773239314099,
-  "crawlUpdatedAt": 1773239314099,
+  "updatedAt": 1773242810061,
+  "crawlUpdatedAt": 1773242810061,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,59 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-SG93IFN0cmFpdCBvZiBI",
+      "title": "How Strait of Hormuz closure can become tipping point for global economy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773242769000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5kdXJpbCBleHBhbmRz",
+      "title": "Anduril expands into space as defense tech angles to support Trump&apos;s Golden Dome",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/11/anduril-acquires-exoanalytic-solutions-i-trump-golden-dome.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773242685000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIHN0b2NrIHNw",
+      "title": "Oracle stock spikes 12% as strong Q3 earnings answer Wall Street AI buildout concerns",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773242285000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-SUVBIGFncmVlcyB0byBy",
       "title": "IEA agrees to release record 400 million barrels of oil to address Iran war supply disruption",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773239151000,
+      "publishedAt": 1773242030000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,15 +75,74 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SUVBIHByb3Bvc2VzIHJl",
-      "title": "IEA proposes record release of strategic stocks in response to Iran war oil price surge",
+      "id": "Investing.com News-WmV2cmEgYXQgQ2l0aXpl",
+      "title": "Zevra at Citizens Life Sciences: Strategic Growth and Expansion",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iea-proposes-largest-ever-oil-release-from-strategic-reserves-wsj-reports-4553387",
+      "url": "https://www.investing.com/news/transcripts/zevra-at-citizens-life-sciences-strategic-growth-and-expansion-93CH-4555002",
       "source": "Investing.com News",
-      "publishedAt": 1773239135000,
+      "publishedAt": 1773241674000,
       "lang": "zh-CN",
       "topics": [
-        "rates",
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgbmF2eSBhaXJjcmFm",
+      "title": "US navy aircraft transits Taiwan Strait ahead of Trump’s planned China visit",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-navy-aircraft-transits-taiwan-strait-ahead-of-trumps-planned-china-visit-4554135",
+      "source": "Investing.com News",
+      "publishedAt": 1773241594000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTmF0aW9u",
+      "title": "Form 144 National Vision Holdings For: 11 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-national-vision-holdings-for-11-march-93CH-4555000",
+      "source": "Investing.com News",
+      "publishedAt": 1773241578000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IEZpZGVsaXR5",
+      "title": "Form 4 Fidelity D&D Bancorp Inc For: 11 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-fidelity-dd-bancorp-inc-for-11-march-93CH-4554999",
+      "source": "Investing.com News",
+      "publishedAt": 1773241556000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Rheinmetall AG reports strong Q4 2025 growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-rheinmetall-ag-reports-strong-q4-2025-growth-93CH-4554998",
+      "source": "Investing.com News",
+      "publishedAt": 1773241538000,
+      "lang": "zh-CN",
+      "topics": [
         "macro"
       ],
       "symbols": [],
@@ -44,12 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmFjdGJveC1Ib3cgbWFu",
-      "title": "Factbox-How many ships have been attacked in the Gulf since start of Iran war?",
+      "id": "Investing.com News-S2V5c2lnaHQgbGF1bmNo",
+      "title": "Keysight launches test solution for high-speed interconnects",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-ships-have-been-attacked-in-the-gulf-since-start-of-iran-war-4554909",
+      "url": "https://www.investing.com/news/company-news/keysight-launches-test-solution-for-highspeed-interconnects-93CH-4554997",
       "source": "Investing.com News",
-      "publishedAt": 1773239120000,
+      "publishedAt": 1773241511000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -59,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGVvbiBCbGFjayBjb3Vs",
-      "title": "Leon Black could be deposed in Epstein accusers’ lawsuit against Bank of America, judge says",
+      "id": "CNBC Markets-VGhyZWUgY2FyZ28gc2hp",
+      "title": "Three cargo ships struck off Iran&apos;s coast, UK says, including one in Strait of Hormuz",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/leon-black-could-be-deposed-in-epstein-accusers-lawsuit-against-bank-of-america-judge-says-4554908",
-      "source": "Investing.com News",
-      "publishedAt": 1773239098000,
+      "url": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773241509000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -74,12 +180,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TnhnIE5leHRHZW4gQ0VP",
-      "title": "Nxg NextGen CEO Musgrave buys $20,800 in company stock",
+      "id": "Investing.com News-QXZpZGJhbmsgYWRkcyBm",
+      "title": "Avidbank adds former Fortinet CFO to board of directors",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/nxg-nextgen-ceo-musgrave-buys-20800-in-company-stock-93CH-4554907",
+      "url": "https://www.investing.com/news/company-news/avidbank-adds-former-fortinet-cfo-to-board-of-directors-93CH-4554996",
       "source": "Investing.com News",
-      "publishedAt": 1773239089000,
+      "publishedAt": 1773241501000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -89,12 +195,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnJlZWRvbSBIb2xkaW5n",
-      "title": "Freedom Holding to acquire 99.32% of Turkish Bank A.Ş.",
+      "id": "Investing.com News-QWR2YW5jZWQgRW5lcmd5",
+      "title": "Advanced Energy launches compact 200W power supplies",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/freedom-holding-to-acquire-9932-of-turkish-bank-as-93CH-4554906",
+      "url": "https://www.investing.com/news/company-news/advanced-energy-launches-compact-200w-power-supplies-93CH-4554994",
       "source": "Investing.com News",
-      "publishedAt": 1773239088000,
+      "publishedAt": 1773241489000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RlMgS0tSIENhcGl0YWwg",
+      "title": "FS KKR Capital Corp stock hits 52-week low at $10.27",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fs-kkr-capital-corp-stock-hits-52week-low-at-1027-93CH-4554993",
+      "source": "Investing.com News",
+      "publishedAt": 1773241461000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -104,12 +225,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VS5TLiBzdG9ja3MgbWl4",
-      "title": "U.S. stocks mixed as post-earnings jump in Oracle offsets concerns around Iran war",
+      "id": "Investing.com News-U2F0ZWxsb2dpYyBzdG9j",
+      "title": "Satellogic stock initiated at buy by Freedom Capital on growth outlook",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-up-ahead-of-cpi-data-traders-assess-iran-war-outlook-4553398",
+      "url": "https://www.investing.com/news/analyst-ratings/satellogic-stock-initiated-at-buy-by-freedom-capital-on-growth-outlook-93CH-4554992",
       "source": "Investing.com News",
-      "publishedAt": 1773239087000,
+      "publishedAt": 1773241386000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmViaXVzIHN0b2NrIHBv",
+      "title": "Nebius stock pops 14% on Nvidia $2 billion investment announcement",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773241170000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -119,57 +255,44 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEdy",
-      "title": "Form DEF 14A Graco Inc. For: 11 March",
+      "id": "CNBC Markets-SGVyZSZhcG9zO3MgdGhl",
+      "title": "Here&apos;s the inflation breakdown for February 2026 — in one chart",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-graco-inc-for-11-march-93CH-4554905",
-      "source": "Investing.com News",
-      "publishedAt": 1773239055000,
+      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-february-2026-breakdown.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773241140000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGltIFNjb3R0IGhvcGVz",
+      "title": "Tim Scott hopes Fed Chair Powell investigation &apos;goes away&apos; to clear Kevin Warsh confirmation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/11/fed-powell-warsh-tim-scott.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773240074000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SUVBIGFubm91bmNlcyBs",
-      "title": "IEA announces largest ever, 400M barrels oil reserve release",
+      "id": "CNBC Markets-V2hvIGlzIE1hcmt3YXlu",
+      "title": "Who is Markwayne Mullin? Trump ally will bring conservative immigration policies to DHS",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iea-announces-largest-ever-400m-barrels-oil-reserve-release-4554904",
-      "source": "Investing.com News",
-      "publishedAt": 1773239050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVycmlnbyBzdG9jayBo",
-      "title": "Perrigo stock hits 52-week low at 9.9 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/perrigo-stock-hits-52week-low-at-99-usd-93CH-4554903",
-      "source": "Investing.com News",
-      "publishedAt": 1773239027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S0tSIHNlZXMgb3Bwb3J0",
-      "title": "KKR sees opportunity in non-traded credit funds amid BDC pressure",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kkr-sees-opportunity-in-nontraded-credit-funds-amid-bdc-pressure-93CH-4554902",
-      "source": "Investing.com News",
-      "publishedAt": 1773238990000,
+      "url": "https://www.cnbc.com/2026/03/11/trump-markwayne-mullin-dhs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773239776000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -185,21 +308,6 @@
       "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html",
       "source": "CNBC Markets",
       "publishedAt": 1773238888000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hvIGlzIE1hcmt3YXlu",
-      "title": "Who is Markwayne Mullin? Trump ally will bring conservative immigration policies to DHS",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/trump-markwayne-mullin-dhs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773238318000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -236,66 +344,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhyZWUgY2FyZ28gc2hp",
-      "title": "Three cargo ships struck off Iran&apos;s coast, UK says, including one in Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773237097000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmViaXVzIHN0b2NrIHBv",
-      "title": "Nebius stock pops 14% on Nvidia $2 billion investment announcement",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773236603000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG93ZXJpbmcgQUk6IEV1",
-      "title": "Powering AI: Europe switches on its first microgrid-connected data center",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/data-center-microgrid-power-ireland-ai-boom-avk-pure-dc.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773236430000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3MgdGhl",
-      "title": "Here&apos;s the inflation breakdown for February 2026 — in one chart",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-february-2026-breakdown.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773235989000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -365,21 +413,6 @@
       "url": "https://www.cnbc.com/2026/03/11/rheinmetall-rhm-fy-earnings-stock-2025.html",
       "source": "CNBC Markets",
       "publishedAt": 1773231383000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3JhY2xlIHN0b2NrIGp1",
-      "title": "Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773230517000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -479,23 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW5kdXJpbCBleHBhbmRz",
-      "title": "Anduril expands into space as defense tech angles to support Trump&apos;s Golden Dome",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/anduril-acquires-exoanalytic-solutions-i-trump-golden-dome.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773201661000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
       "title": "Trump says U.S. will build first refinery in 50 years with investment from India&apos;s Reliance Industries",
       "summary": "",
@@ -579,21 +595,6 @@
       "url": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
       "source": "CNBC Markets",
       "publishedAt": 1773175173000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2FzIHByaWNlcyB0aHJl",
-      "title": "Gas prices threaten Republican lawmaker&apos;s plans to win on affordability",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/10/gas-prices-election-republians-affordability.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773172735000,
       "lang": "zh-CN",
       "topics": [
         "macro"
