@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773316318986,
-  "crawlUpdatedAt": 1773316318986,
+  "updatedAt": 1773321637567,
+  "crawlUpdatedAt": 1773321637567,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,183 +13,290 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-RGljayZhcG9zO3MgU3Bv",
+      "title": "Dick&apos;s Sporting Goods issues weak profit guidance as Foot Locker merger weighs on bottom line",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/dicks-sporting-goods-dks-earnings-q4-2025.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773321509000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RW5lcmd5IFNlY3JldGFy",
+      "title": "Energy Secretary Wright says U.S. &apos;not ready&apos; to escort oil tankers through Strait of Hormuz yet",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773321336000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGlj4oCZcyBD",
+      "title": "Anthropic’s Claude would ‘pollute’ defense supply chain: Pentagon CTO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/anthropic-claude-emil-michael-defense.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773321000000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xlIGJyaW5ncyBt",
+      "title": "Google brings more AI to navigation with &apos;Ask Maps&apos; feature that lets users ask complex questions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/google-brings-more-gemini-ai-to-navigation-with-ask-maps-feature.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773320998000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFydmVsbCBwYXJ0bmVy",
+      "title": "Marvell partners with Mojo Vision on micro-LED optical interconnects",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/marvell-partners-with-mojo-vision-on-microled-optical-interconnects-93CH-4557174",
+      "source": "Investing.com News",
+      "publishedAt": 1773320704000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIHJhaXNl",
+      "title": "Bernstein raises SLB stock price target on supportive sector outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-slb-stock-price-target-on-supportive-sector-outlook-93CH-4557173",
+      "source": "Investing.com News",
+      "publishedAt": 1773320702000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WW9yayBTcGFjZSBTeXN0",
+      "title": "York Space Systems acquires Orbion Space Technology",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/york-space-systems-acquires-orbion-space-technology-93CH-4557172",
+      "source": "Investing.com News",
+      "publishedAt": 1773320698000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q1hBcHAgcmVjZWl2ZXMg",
+      "title": "CXApp receives Nasdaq extension to regain $1 minimum bid price",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cxapp-receives-nasdaq-extension-to-regain-1-minimum-bid-price-93CH-4557171",
+      "source": "Investing.com News",
+      "publishedAt": 1773320697000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UFJPQ0VQVCBCaW9Sb2Jv",
+      "title": "PROCEPT BioRobotics launches HYDROS system in UK",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/procept-biorobotics-launches-hydros-system-in-uk-93CH-4557170",
+      "source": "Investing.com News",
+      "publishedAt": 1773320697000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley reiterates Equalweight on Alliance Laundry stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-equalweight-on-alliance-laundry-stock-93CH-4557169",
+      "source": "Investing.com News",
+      "publishedAt": 1773320696000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmV0Qmx1ZSBleHBhbmRz",
+      "title": "JetBlue expands Fort Lauderdale service with new daily routes",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jetblue-expands-fort-lauderdale-service-with-new-daily-routes-93CH-4557168",
+      "source": "Investing.com News",
+      "publishedAt": 1773320695000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGV0cmEgVGVjaCB3aW5z",
+      "title": "Tetra Tech wins $99M Navy contract for engineering services",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/tetra-tech-wins-99m-navy-contract-for-engineering-services-93CH-4557167",
+      "source": "Investing.com News",
+      "publishedAt": 1773320695000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5c2lnaHQsIFNhbGll",
+      "title": "Keysight, Salience Labs partner on optical switch testing",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/keysight-salience-labs-partner-on-optical-switch-testing-93CH-4557166",
+      "source": "Investing.com News",
+      "publishedAt": 1773320693000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW90b3JvbGEgU29sdXRp",
+      "title": "Motorola Solutions acquires Exacom for recording tech",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/motorola-solutions-acquires-exacom-for-recording-tech-93CH-4557165",
+      "source": "Investing.com News",
+      "publishedAt": 1773320693000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1pZCBNaWRkbGUgRWFz",
+      "title": "Amid Middle East conflict and new tax incentives, more family offices look to Hong Kong",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/middle-east-conflict-new-tax-breaks-family-offices-hong-kong.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773320402000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773320340000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIHR3byBvaWwgcGlw",
+      "title": "The two oil pipelines helping Saudi Arabia and UAE bypass the Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-oil-pipelines-iran-war-saudi-arabia-uae.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773319942000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmludGVuZG8gaGFzIGp1",
+      "title": "Nintendo has jumped 18% this week as a surprise Pokémon hit drove hope it could boost Switch 2 sales",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/12/pokemon-pokopia-nintendo-share-price-rise-switch-2.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773316732000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VFNBIHdvcmtlcnMgc2V0",
       "title": "TSA workers set to miss first paycheck of shutdown as Senate bickers over DHS funding",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/12/senate-dhs-homeland-shutdown-funding-tsa-immigration.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773316212000,
+      "publishedAt": 1773316480000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGlmZXRpbWUgQnJhbmRz",
-      "title": "Lifetime Brands stock surges nearly 27% on fourth quarter earnings beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/lifetime-brands-stock-surges-nearly-27-on-fourth-quarter-earnings-beat-93CH-4556720",
-      "source": "Investing.com News",
-      "publishedAt": 1773314993000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
-      "title": "H.C. Wainwright raises Franco Nevada stock price target on strong growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-franco-nevada-stock-price-target-on-strong-growth-93CH-4556716",
-      "source": "Investing.com News",
-      "publishedAt": 1773314841000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
-      "title": "H.C. Wainwright cuts UR-Energy stock price target to $2.30 on dilution",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-cuts-urenergy-stock-price-target-to-230-on-dilution-93CH-4556715",
-      "source": "Investing.com News",
-      "publishedAt": 1773314822000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
-      "title": "H.C. Wainwright raises Minerva Neurosciences price target on trial design",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-minerva-neurosciences-price-target-on-trial-design-93CH-4556714",
-      "source": "Investing.com News",
-      "publishedAt": 1773314812000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgbXVzdCBhZGRyZXNz",
-      "title": "US must address issues with anti-drone laser system, senator says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-must-address-issues-with-antidrone-laser-system-senator-says-4556702",
-      "source": "Investing.com News",
-      "publishedAt": 1773314705000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXgtZW1wbG95ZWVzIHN1",
-      "title": "Ex-employees sue Deutsche Bank for $800 million over Monte dei Paschi case",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/former-deutsche-bank-employees-seek-800-million-in-damages-in-monte-dei-paschi-case-4556148",
-      "source": "Investing.com News",
-      "publishedAt": 1773314687000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FyZUNsb3VkIGVhcm5p",
-      "title": "CareCloud earnings beat by $0.05, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/carecloud-earnings-beat-by-005-revenue-topped-estimates-4556713",
-      "source": "Investing.com News",
-      "publishedAt": 1773314679000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S0xBIHN0b2NrIGdhaW5z",
-      "title": "KLA stock gains after $7B buyback and dividend boost",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kla-stock-gains-after-7b-buyback-and-dividend-boost-93CH-4556712",
-      "source": "Investing.com News",
-      "publishedAt": 1773314633000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGlja+KAmXMgU3BvcnRp",
-      "title": "Dick’s Sporting Goods earnings beat by $0.42, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/dicks-sporting-goods-earnings-beat-by-042-revenue-topped-estimates-4556711",
-      "source": "Investing.com News",
-      "publishedAt": 1773314574000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGlmZXRpbWUgQnJhbmRz",
-      "title": "Lifetime Brands earnings beat by $0.73, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/lifetime-brands-earnings-beat-by-073-revenue-fell-short-of-estimates-4556710",
-      "source": "Investing.com News",
-      "publishedAt": 1773314558000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyB0b3Vj",
-      "title": "Oil prices touch $100 again as Iran ramps up shipping attacks in the Persian Gulf",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773314181000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -205,21 +312,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGljayZhcG9zO3MgU3Bv",
-      "title": "Dick&apos;s Sporting Goods issues weak profit guidance as Foot Locker merger weighs on bottom line",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/12/dicks-sporting-goods-dks-earnings-q4-2025.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773313337000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -276,21 +368,6 @@
       "url": "https://www.cnbc.com/2026/03/12/south-korea-350-billion-investment-special-bill-us-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1773302172000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBnbG9iYWwgZm9vZCBw",
-      "title": "A global food price shock looms as Middle East war rages on. Here&apos;s who will be hit hardest",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/12/iran-war-food-prices-fertilizer-hormuz-countries-impacted-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773287138000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -390,21 +467,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2hvIGlzIE1hcmt3YXlu",
-      "title": "Who is Markwayne Mullin? Trump ally will bring conservative immigration policies to DHS",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/trump-markwayne-mullin-dhs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773264563000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIG1lbW9yeSBzdG9j",
       "title": "The memory stock cycle of boom-bust-repeat is over, executives say",
       "summary": "",
@@ -416,23 +478,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGltIFNjb3R0IGhvcGVz",
-      "title": "Tim Scott hopes Fed Chair Powell investigation &apos;goes away&apos; to clear Kevin Warsh confirmation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/fed-powell-warsh-tim-scott.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773262008000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -449,21 +494,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmlrZSBsYW5kcyBhbiAm",
-      "title": "Nike lands an &apos;unconventional upgrade&apos; from Wall Street. Why we&apos;re still believers too",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/nike-lands-an-unconventional-upgrade-from-wall-street-why-were-still-believers-too-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773260703000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -542,21 +572,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3JhY2xlIHN0b2NrIHNw",
-      "title": "Oracle stock spikes 9% as strong Q3 earnings answer Wall Street AI build-out concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773250248000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW52ZXN0b3IgYmFuIG9u",
       "title": "Investor ban on buying homes stalls housing affordability bill",
       "summary": "",
@@ -584,21 +599,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSByb2xscyBvdXQg",
-      "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/11/meta-ai-mtia-chip-data-center.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773237601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
