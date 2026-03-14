@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773514326057,
-  "crawlUpdatedAt": 1773514326057,
-  "crawlCount": 30,
+  "updatedAt": 1773516881243,
+  "crawlUpdatedAt": 1773516881243,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-V2hhdCBpcyB0aGUgaW1w",
+      "title": "What is the impact of $100+ oil on airlines?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-is-the-impact-of-100-oil-on-airlines-4561502",
+      "source": "Investing.com News",
+      "publishedAt": 1773515705000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiB0aHJlYXRlbnMg",
       "title": "Iran threatens to retaliate against region for US Kharg Island attack",
@@ -145,21 +160,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBsaWZ0cyBtZW1v",
-      "title": "BofA lifts memory chip forecasts, expects no supply cuts from Iran conflict",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bofa-lifts-memory-chip-forecasts-expects-no-supply-cuts-from-iran-conflict-4561494",
-      "source": "Investing.com News",
-      "publishedAt": 1773505528000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -446,21 +446,6 @@
       "url": "https://www.cnbc.com/2026/03/13/starbucks-workers-united-union-contract-proposal.html",
       "source": "CNBC Markets",
       "publishedAt": 1773431144000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBH",
-      "title": "Nvidia&apos;s GTC will mark an AI chip pivot. Here&apos;s why the CPU is taking center stage",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773428452000,
       "lang": "zh-CN",
       "topics": [
         "macro"
