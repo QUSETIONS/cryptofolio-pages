@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773502609769,
-  "crawlUpdatedAt": 1773502609769,
-  "crawlCount": 39,
+  "updatedAt": 1773506517780,
+  "crawlUpdatedAt": 1773506517780,
+  "crawlCount": 36,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,111 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qm9mQSBsaWZ0cyBtZW1v",
+      "title": "BofA lifts memory chip forecasts, expects no supply cuts from Iran conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bofa-lifts-memory-chip-forecasts-expects-no-supply-cuts-from-iran-conflict-4561494",
+      "source": "Investing.com News",
+      "publishedAt": 1773505528000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvdGVzdGVycyBpbiBD",
+      "title": "Protesters in Cuba attack Communist Party office in rare riot over blackouts",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/protesters-in-cuba-attack-communist-party-office-in-rare-riot-over-blackouts-4561487",
+      "source": "Investing.com News",
+      "publishedAt": 1773504746000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rml2ZSBraWxsZWQgaW4g",
+      "title": "Five killed in Russian air attacks on Ukraine",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/four-killed-in-russian-air-attack-on-kyiv-region-officials-say-4561450",
+      "source": "Investing.com News",
+      "publishedAt": 1773504746000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VlayBpbiByZXZpZXc6",
+      "title": "Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/14/week-in-review-how-we-navigated-the-iran-war-driven-surge-in-oil-that-slammed-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773504713000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsLCBMZWJhbm9u",
+      "title": "Israel, Lebanon expected to hold direct talks in coming days, Haaretz reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/israel-lebanon-expected-to-hold-direct-talks-in-coming-days-haaretz-reports-4561493",
+      "source": "Investing.com News",
+      "publishedAt": 1773503467000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmlyZSBhdCBVQUUgb2ls",
+      "title": "Fire at UAE oil hub as Iran vows retaliation for US attack on Kharg Island",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-threatens-to-strike-irans-kharg-island-oil-network-if-shipping-lanes-remain-blocked-4561301",
+      "source": "Investing.com News",
+      "publishedAt": 1773502586000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hpY2ggZW5lcmd5IHN0",
+      "title": "Which energy stocks have led and lagged since the Iran conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/which-energy-stocks-have-led-and-lagged-since-the-iran-conflict-4561491",
+      "source": "Investing.com News",
+      "publishedAt": 1773501911000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
       "title": "Trump says U.S. &apos;obliterated&apos; military targets on Iran&apos;s Kharg Island but didn&apos;t &apos;wipe out&apos; oil infrastructure",
@@ -43,6 +148,26 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-Qml0Y29pbiBiZWF0IHRo",
+      "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773500401000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "XAU",
+        "NDX",
+        "SPX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-S2Fsc2hpIGNvLWZvdW5k",
       "title": "Kalshi co-founder Luana Lopes Lara on the biggest prediction markets risks she has ever taken",
       "summary": "",
@@ -55,21 +180,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmlyZSBhdCBVQUXigJlz",
-      "title": "Fire at UAE’s major Fujairah oil hub, as Iran vows retaliation for US attack on Kharg Island",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-threatens-to-strike-irans-kharg-island-oil-network-if-shipping-lanes-remain-blocked-4561301",
-      "source": "Investing.com News",
-      "publishedAt": 1773499342000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -124,84 +234,6 @@
       "url": "https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html",
       "source": "CNBC Markets",
       "publishedAt": 1773498461000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJvdGVzdGVycyBpbiBD",
-      "title": "Protesters in Cuba attack Communist party office in rare riot over blackouts",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/protesters-in-cuba-attack-communist-party-office-in-rare-riot-over-blackouts-4561487",
-      "source": "Investing.com News",
-      "publishedAt": 1773497907000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhemls4oCZcyBIYWRk",
-      "title": "Brazil’s Haddad sees up to 1% first-quarter growth, 2026 depends on rates",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/brazils-haddad-sees-up-to-1-firstquarter-growth-2026-depends-on-rates-4561486",
-      "source": "Investing.com News",
-      "publishedAt": 1773497906000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgbGV2ZWxzIEly",
-      "title": "Trump levels Iranian military sites on Kharg Island; spares oil terminals",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-levels-iranian-military-sites-on-kharg-island-spares-oil-terminals-4561203",
-      "source": "Investing.com News",
-      "publishedAt": 1773497499000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiB3YXJucyBT",
-      "title": "Goldman warns S&P 500 could decline to 6300 if growth weakens",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/goldman-warns-sp-500-could-decline-to-6300-if-growth-weakens-4561478",
-      "source": "Investing.com News",
-      "publishedAt": 1773496636000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU",
-        "SPX"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgZGVuaWVzIHJl",
-      "title": "Trump denies reports U.S. refueling planes were destroyed in Saudi strike",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-denies-reports-us-tanker-planes-were-destroyed-in-saudi-strike-4561483",
-      "source": "Investing.com News",
-      "publishedAt": 1773496320000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -483,36 +515,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5zaWRlIEpQTW9yZ2Fu",
-      "title": "Inside JPMorgan Chase&apos;s push to become the startup world’s new Silicon Valley Bank",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773424946000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWF0b24gZmluYWxpemVz",
-      "title": "Eaton finalizes a smart acquisition to advance its AI data center ambitions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/eaton-finalizes-a-smart-acquisition-to-advance-its-ai-data-center-ambitions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773424701000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgY2FuJmFwb3M7",
       "title": "Trump can&apos;t &apos;drill, baby, drill&apos; his way out of this Iran-inspired oil crisis: Experts",
       "summary": "",
@@ -556,51 +558,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRoZSBJcmFuIHdh",
-      "title": "How the Iran war could start to impact U.S. retail prices",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/iran-war-retail-prices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773419943000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSB0",
-      "title": "Trump says he thinks Putin is helping Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773419090000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1hem9uIHRvIGhpa2Ug",
-      "title": "Amazon to hike price of ad-free Prime Video tier by $2 a month",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/amazon-to-hike-price-of-ad-free-prime-video-tier-by-2-a-month.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773419003000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
