@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773586664989,
-  "crawlUpdatedAt": 1773586664989,
-  "crawlCount": 23,
+  "updatedAt": 1773589139423,
+  "crawlUpdatedAt": 1773589139423,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VHJ1bXAgd2FybnMgb2Yg",
+      "title": "Trump warns of more strikes on Iran’s Kharg Island, pressures allies to secure oil chokepoint",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-warns-of-more-strikes-on-irans-kharg-island-pressures-allies-to-secure-oil-chokepoint-4561541",
+      "source": "Investing.com News",
+      "publishedAt": 1773587910000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1Ib3cgbWFu",
+      "title": "Factbox-How many people have been killed in the US-Israeli war on Iran?",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4561564",
+      "source": "Investing.com News",
+      "publishedAt": 1773587187000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SG93IHdpbGwgdGhlIG9p",
       "title": "How will the oil disruption matter for consumer spending?",
@@ -195,36 +225,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hhdCB3aWxsIGhhcHBl",
-      "title": "What will happen to U.S. retail stores in the next decade?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/what-will-happen-to-us-retail-stores-in-the-next-decade-4561555",
-      "source": "Investing.com News",
-      "publishedAt": 1773578799000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.06%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-006-4561554",
-      "source": "Investing.com News",
-      "publishedAt": 1773578703000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2xvYmFsIHdlZWsgYWhl",
       "title": "Global week ahead: Price pressure in the pipeline",
       "summary": "",
@@ -344,26 +344,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBiZWF0IHRo",
-      "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773500401000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC",
-        "XAU",
-        "NDX",
-        "SPX"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
