@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773545036968,
-  "crawlUpdatedAt": 1773545036968,
+  "updatedAt": 1773551948233,
+  "crawlUpdatedAt": 1773551948233,
   "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RE9KIHRvIGFwcGVhbCBq",
+      "title": "DOJ to appeal judge&apos;s block of subpoenas to Fed in Jerome Powell criminal investigation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773547978000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9saXRpY2FsIFBpdm90",
+      "title": "Political Pivot: Kazakhstan votes on unicameral shift and vice president post",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/political-pivot-kazakhstan-votes-on-unicameral-shift-and-vice-president-post-4561527",
+      "source": "Investing.com News",
+      "publishedAt": 1773546082000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SmFrYXJ0YTogU3Vic2lk",
       "title": "Jakarta: Subsidy bill looms over Prabowo’s growth goals amid oil spike",
@@ -103,23 +135,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RE9KIHRvIGFwcGVhbCBq",
-      "title": "DOJ to appeal judge&apos;s block of subpoenas to Fed in Jerome Powell criminal investigation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773538699000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R3JlZXIgc2F5cyBUcnVt",
       "title": "Greer says Trump tariffs refunds should go to companies&apos; workers as bonuses or raises",
       "summary": "",
@@ -192,23 +207,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbjogQUkgUENz",
-      "title": "Goldman: AI PCs to buck 10% market slump as ‘edge computing’ demand accelerates",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/goldman-ai-pcs-to-buck-10-market-slump-as-edge-computing-demand-accelerates-4561513",
-      "source": "Investing.com News",
-      "publishedAt": 1773533268000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
