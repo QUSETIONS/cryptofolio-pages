@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773603356635,
-  "crawlUpdatedAt": 1773603356635,
-  "crawlCount": 22,
+  "updatedAt": 1773607143753,
+  "crawlUpdatedAt": 1773607143753,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,57 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-Rm9udGVycmEgQ0VPIE1p",
+      "title": "Fonterra CEO Miles Hurrell resigns after eight years in role",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fonterra-ceo-miles-hurrell-to-step-down-4561584",
+      "source": "Investing.com News",
+      "publishedAt": 1773606311000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgb2ZmaWNpYWxzIHBy",
+      "title": "US officials predict quick end to Iran war, while Tehran says it can outlast foes",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-warns-of-more-strikes-on-irans-kharg-island-pressures-allies-to-secure-oil-chokepoint-4561541",
+      "source": "Investing.com News",
+      "publishedAt": 1773606290000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsLCBMZWJhbm9u",
+      "title": "Israel, Lebanon expected to hold talks on ceasefire, Hezbollah disarmament",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/israel-has-no-plans-for-talks-with-lebanese-government-foreign-minister-says-4561548",
+      "source": "Investing.com News",
+      "publishedAt": 1773605389000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-QWZnaGFuIGFzeWx1bS1z",
       "title": "Afghan asylum-seeker dies in ICE custody, US advocacy group says",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/afghan-asylumseeker-dies-in-ice-custody-us-advocacy-group-says-4561581",
       "source": "Investing.com News",
-      "publishedAt": 1773601585000,
+      "publishedAt": 1773604832000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,15 +73,30 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgb2ZmaWNpYWxzIHBy",
-      "title": "US officials predict quick end to Iran war, while Tehran says it can outlast foes",
+      "id": "Investing.com News-SXNyYWVsIGFuZCBMZWJh",
+      "title": "Israel and Lebanon expected to hold talks soon, Israeli officials say",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-warns-of-more-strikes-on-irans-kharg-island-pressures-allies-to-secure-oil-chokepoint-4561541",
+      "url": "https://www.investing.com/news/world-news/israel-and-lebanon-expected-to-hold-talks-soon-israeli-officials-say-4561585",
       "source": "Investing.com News",
-      "publishedAt": 1773600507000,
+      "publishedAt": 1773604492000,
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHRoZSBVbml0ZWQg",
+      "title": "Why the United Arab Emirates is a target for Iran&apos;s aggression",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/15/iran-us-war-uae-target-aggression.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773602266000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -127,51 +187,6 @@
       "url": "https://www.cnbc.com/2026/03/15/bank-stocks-have-been-crushed-this-year-2-of-our-names-should-weather-the-storm.html",
       "source": "CNBC Markets",
       "publishedAt": 1773596027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0YW55YWh1IHBvc3Rz",
-      "title": "Netanyahu posts video in response to Iran rumours that he is dead",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/netanyahu-posts-video-in-response-to-iran-rumours-that-he-is-dead-4561579",
-      "source": "Investing.com News",
-      "publishedAt": 1773595832000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3NjYXJz4oCZIHRvcCBw",
-      "title": "Oscars’ top prize up for grabs as unease hangs over Hollywood",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/oscars-top-prize-up-for-grabs-as-unease-hangs-over-hollywood-4561578",
-      "source": "Investing.com News",
-      "publishedAt": 1773595124000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWZyaWNhbiBuYXRpb25z",
-      "title": "African nations tiptoe around recruitment of citizens by Russian networks",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/african-nations-tiptoe-around-recruitment-of-citizens-by-russian-networks-4561577",
-      "source": "Investing.com News",
-      "publishedAt": 1773595107000,
       "lang": "zh-CN",
       "topics": [
         "macro"
