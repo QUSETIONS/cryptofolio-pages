@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773760304179,
-  "crawlUpdatedAt": 1773760304179,
-  "crawlCount": 40,
+  "updatedAt": 1773765722451,
+  "crawlUpdatedAt": 1773765722451,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U29tZSBlY29ub21pc3Rz",
-      "title": "Some economists are warning about &apos;stagflation.&apos; What it could mean for your money",
+      "id": "CNBC Markets-U2VuYXRlIERlbW9jcmF0",
+      "title": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/stagflation-and-your-money.html",
+      "url": "https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773760017000,
+      "publishedAt": 1773765535000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9sYW5kIHN0b2NrcyBo",
+      "title": "Poland stocks higher at close of trade; WIG30 up 2.21%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-221-4566270",
+      "source": "Investing.com News",
+      "publishedAt": 1773765303000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2Vja28gUm9ib3RpY3Mg",
+      "title": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773765171000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +58,222 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-TVAgTWF0ZXJpYWxzIGF0",
+      "title": "MP Materials at JPMorgan Industrials: Rare Earth Magnetics Strategy",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/mp-materials-at-jpmorgan-industrials-rare-earth-magnetics-strategy-93CH-4566268",
+      "source": "Investing.com News",
+      "publishedAt": 1773765169000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2Fsc2hpIGNoYXJnZWQg",
+      "title": "Kalshi charged criminally in Arizona for operating illegal gambling business",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/kalshi-charged-criminally-in-arizona-for-operating-illegal-gambling-business-4566267",
+      "source": "Investing.com News",
+      "publishedAt": 1773765086000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxMFEgRnJlcXVl",
+      "title": "Form 10Q Frequency Electronics Inc For: 17 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-10q-frequency-electronics-inc-for-17-march-93CH-4566266",
+      "source": "Investing.com News",
+      "publishedAt": 1773765068000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFpZHUgam9pbnMgQ2hp",
+      "title": "Baidu joins China’s OpenClaw frenzy with new AI agents",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/baidu-joins-chinas-openclaw-frenzy-with-new-ai-agents-4566265",
+      "source": "Investing.com News",
+      "publishedAt": 1773765065000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBDaXRpZ3Jv",
+      "title": "Form 6K Citigroup Inc DRC For: 17 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-citigroup-inc-drc-for-17-march-93CH-4566263",
+      "source": "Investing.com News",
+      "publishedAt": 1773765049000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjb3VudGVydGVy",
+      "title": "U.S. counterterrorism director Joe Kent resigns over war: &apos;Iran posed no imminent threat&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773765048000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBDQU5BRElB",
+      "title": "Form 6K CANADIAN IMPERIAL BANK OF COMMERCE /CAN/ For: 17 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-canadian-imperial-bank-of-commerce-can-for-17-march-93CH-4566262",
+      "source": "Investing.com News",
+      "publishedAt": 1773765043000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RHJvbmUtc29mdHdhcmUg",
+      "title": "Drone-software company Swarmer surges 450% in IPO debut after opening at $12.50",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/dronesoftware-company-swarmer-surges-250-in-ipo-debut-after-opening-at-1250-4566200",
+      "source": "Investing.com News",
+      "publishedAt": 1773765041000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVubWFyayBzdG9ja3Mg",
+      "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.52%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-052-4566261",
+      "source": "Investing.com News",
+      "publishedAt": 1773765003000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
+      "title": "Raymond James reiterates Strong Buy on Kalaris stock, $23 target",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-kalaris-stock-23-target-93CH-4566260",
+      "source": "Investing.com News",
+      "publishedAt": 1773764980000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IHNoYWtl",
+      "title": "Microsoft shakes up Copilot AI leadership team, freeing up Suleyman to build new models",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/microsoft-copilot-ai-suleyman.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773764198000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VGltIENvb2sgc3F1YXNo",
       "title": "Tim Cook squashes retirement rumors, says he &apos;can&apos;t imagine life without Apple&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773759976000,
+      "publishedAt": 1773763617000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2h5",
+      "title": "Here&apos;s why we&apos;re looking past Boeing&apos;s disappointing update on margins",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/heres-why-were-looking-past-boeings-disappointing-update-on-margins.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773763343000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlybGluZXMgcmFpc2Ug",
+      "title": "Airlines raise revenue guidance despite rising fuel costs, citing growth in demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773762050000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29tZSBlY29ub21pc3Rz",
+      "title": "Some economists are warning about &apos;stagflation.&apos; What it could mean for your money",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/stagflation-and-your-money.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773760017000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,171 +298,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Wm90ZWZvYW1zIDIwMjUg",
-      "title": "Zotefoams 2025 presentation: profit surges 26% on margin expansion",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/zotefoams-2025-presentation-profit-surges-26-on-margin-expansion-93CH-4566102",
-      "source": "Investing.com News",
-      "publishedAt": 1773759484000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgTUFYSU1V",
-      "title": "Form 144 MAXIMUS For: 17 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-maximus-for-17-march-93CH-4566101",
-      "source": "Investing.com News",
-      "publishedAt": 1773759434000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IEhpZ2ggUm9s",
-      "title": "Form 4 High Roller Tech Inc For: 17 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-high-roller-tech-inc-for-17-march-93CH-4566100",
-      "source": "Investing.com News",
-      "publishedAt": 1773759385000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVhZCBvZiBOb3J3YXni",
-      "title": "Head of Norway’s $2 trillion fund says Europe must unify markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/head-of-norways-2-trillion-fund-says-europe-must-unify-markets-4566099",
-      "source": "Investing.com News",
-      "publishedAt": 1773759385000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgZXh0",
-      "title": "Wall Street extends solid start to the week even as oil prices remain elevated",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-subdued-as-irandriven-oil-price-climb-remains-in-focus-4565442",
-      "source": "Investing.com News",
-      "publishedAt": 1773759340000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJ0aXZpb24gYXQgT3Bw",
-      "title": "Artivion at Oppenheimer Conference: Strategic Growth Insights",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/artivion-at-oppenheimer-conference-strategic-growth-insights-93CH-4566098",
-      "source": "Investing.com News",
-      "publishedAt": 1773759330000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IFVTRCBpcyB0aGUg",
-      "title": "Why USD is the only safe haven in FX",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/why-usd-is-the-only-safe-haven-in-fx-4566097",
-      "source": "Investing.com News",
-      "publishedAt": 1773759284000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNvIG9wZW4gdG8g",
-      "title": "Mexico open to hosting Iran’s World Cup games, president says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexico-open-to-hosting-irans-world-cup-games-president-says-4566096",
-      "source": "Investing.com News",
-      "publishedAt": 1773759274000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3luZ24gY2xvc2VzICQ5",
-      "title": "Cyngn closes $9.65 million registered direct offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/cyngn-closes-965-million-registered-direct-offering-93CH-4566095",
-      "source": "Investing.com News",
-      "publishedAt": 1773759212000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWlybGluZXMgcmFpc2Ug",
-      "title": "Airlines raise revenue guidance despite rising fuel costs, citing growth in demand",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773759202000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Summit Midstream Q4 2025 results highlight growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-summit-midstream-q4-2025-results-highlight-growth-93CH-4566094",
-      "source": "Investing.com News",
-      "publishedAt": 1773759153000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWFzdGVyY2FyZCBzYXlz",
       "title": "Mastercard says it&apos;s acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
       "summary": "",
@@ -235,21 +310,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjb3VudGVydGVy",
-      "title": "U.S. counterterrorism director Joe Kent resigns over war: &apos;Iran posed no imminent threat&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773758229000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -316,36 +376,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHBhcmVzIGdhaW5z",
-      "title": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773756086000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2Vja28gUm9ib3RpY3Mg",
-      "title": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773755593000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-MjUteWVhci1vbGQgZ290",
       "title": "25-year-old got a job by mailing in her resume and a &apos;cringy&apos; note: &apos;Everyone was impressed,&apos; says the boss who hired her",
       "summary": "",
@@ -370,21 +400,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773753350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -577,36 +592,6 @@
       "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
       "source": "CNBC Markets",
       "publishedAt": 1773690255000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGVsb3RvbiBpcyBsYXVu",
-      "title": "Peloton is launching bikes and treadmills for gyms, accelerating commercial strategy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/16/peloton-launches-bike-and-tread-for-gyms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773676841000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBpcyBhbGxvd2lu",
-      "title": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/16/us-is-allowing-iranian-tankers-through-strait-of-hormuz-says-bessent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773675409000,
       "lang": "zh-CN",
       "topics": [
         "macro"
