@@ -6,13 +6,14 @@
   <title>Chenyu Zhang</title>
   <style>
     :root {
-      --bg: #edf2ff;
+      --bg: #eef4ff;
       --card: #ffffff;
       --text: #0b1220;
       --sub: #334155;
       --accent: #0f766e;
-      --line: #d8e3f1;
-      --chip-bg: #eff6ff;
+      --accent-2: #1d4ed8;
+      --line: #d9e5f4;
+      --chip-bg: #eef5ff;
     }
     * { box-sizing: border-box; }
     body {
@@ -21,8 +22,8 @@
       font-family: "Avenir Next", "Noto Sans CJK SC", "PingFang SC", "Helvetica Neue", sans-serif;
       background:
         radial-gradient(900px 380px at 8% -10%, #dbeafe 0%, transparent 60%),
-        radial-gradient(900px 420px at 95% -20%, #dcfce7 0%, transparent 58%),
-        var(--bg);
+        radial-gradient(880px 420px at 96% -18%, #dcfce7 0%, transparent 58%),
+        linear-gradient(180deg, #f8fbff 0%, #eef4ff 100%);
       line-height: 1.65;
     }
     .wrap {
@@ -36,7 +37,7 @@
       border-radius: 20px;
       padding: 24px;
       margin-bottom: 18px;
-      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);
       animation: fadeUp 0.55s ease both;
     }
     .card:nth-child(2) { animation-delay: 0.04s; }
@@ -47,6 +48,16 @@
     .card:nth-child(7) { animation-delay: 0.24s; }
     .card:nth-child(8) { animation-delay: 0.28s; }
     .card:nth-child(9) { animation-delay: 0.32s; }
+    h1, h2, h3 {
+      margin: 0 0 10px;
+      line-height: 1.3;
+    }
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.18rem; }
+    h3 { font-size: 1.02rem; color: #0f2747; }
+    p { margin: 0 0 10px; color: var(--sub); }
+    ul { margin: 0; padding-left: 18px; color: var(--sub); }
+    li { margin-bottom: 6px; }
     .hero {
       display: grid;
       grid-template-columns: 1.65fr 1fr;
@@ -57,38 +68,28 @@
     .hero::after {
       content: "";
       position: absolute;
-      right: -80px;
-      top: -80px;
-      width: 240px;
-      height: 240px;
+      right: -90px;
+      top: -90px;
+      width: 250px;
+      height: 250px;
       border-radius: 50%;
-      background: radial-gradient(circle, rgba(15, 118, 110, 0.16), rgba(15, 118, 110, 0));
+      background: radial-gradient(circle, rgba(29, 78, 216, 0.12), rgba(29, 78, 216, 0));
       pointer-events: none;
     }
-    h1, h2, h3 {
-      margin: 0 0 10px;
-      line-height: 1.3;
-    }
-    h1 { font-size: 2rem; }
-    h2 { font-size: 1.2rem; }
-    h3 { font-size: 1.02rem; }
-    p { margin: 0 0 10px; color: var(--sub); }
-    ul { margin: 0; padding-left: 18px; color: var(--sub); }
-    li { margin-bottom: 6px; }
     .chips { margin-top: 12px; }
     .chip {
       display: inline-block;
       padding: 5px 10px;
       margin: 0 8px 8px 0;
       border-radius: 999px;
-      border: 1px solid #bfdbfe;
-      color: #1d4ed8;
+      border: 1px solid #c7ddff;
+      color: var(--accent-2);
       background: var(--chip-bg);
       font-size: 0.82rem;
       font-weight: 600;
     }
     .meta {
-      border: 1px dashed #bfdbfe;
+      border: 1px dashed #b6d3ff;
       background: #f8fbff;
       border-radius: 14px;
       padding: 12px;
@@ -107,8 +108,34 @@
       grid-template-columns: 1fr 1fr;
       gap: 14px;
     }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .stat {
+      border: 1px solid #d7f5ea;
+      background: #f0fdfa;
+      border-radius: 12px;
+      padding: 12px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .stat:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 18px rgba(15, 118, 110, 0.12);
+    }
+    .stat strong {
+      display: block;
+      font-size: 1.02rem;
+      color: #065f46;
+      margin-bottom: 4px;
+    }
+    .stat span {
+      color: #0f766e;
+      font-size: 0.87rem;
+    }
     .item {
-      border-left: 3px solid #99f6e4;
+      border-left: 3px solid #7dd3fc;
       padding-left: 10px;
       margin-bottom: 12px;
     }
@@ -116,32 +143,6 @@
     .caption {
       font-size: 0.92rem;
       color: #64748b;
-    }
-    .stats {
-      display: grid;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-      gap: 10px;
-    }
-    .stat {
-      border: 1px solid #d1fae5;
-      background: #f0fdfa;
-      border-radius: 12px;
-      padding: 10px 12px;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-    .stat:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 8px 18px rgba(30, 64, 175, 0.12);
-    }
-    .stat strong {
-      display: block;
-      font-size: 1.05rem;
-      color: #065f46;
-      margin-bottom: 2px;
-    }
-    .stat span {
-      color: #0f766e;
-      font-size: 0.86rem;
     }
     .timeline {
       border-left: 2px solid #bfdbfe;
@@ -176,10 +177,7 @@
       padding: 14px;
       background: #fbfdff;
     }
-    .cap-card h3 {
-      margin-bottom: 8px;
-      color: #0f4c81;
-    }
+    .cap-card h3 { margin-bottom: 8px; }
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
@@ -200,30 +198,28 @@
         <h1>Chenyu Zhang</h1>
         <p><strong>Biomedical Engineering Undergraduate</strong> | Beijing Institute of Technology</p>
         <p>
-          我目前的研究兴趣集中在多模态智能系统、可靠推理与真实场景中的模型稳健性。
-          虽然已有工作主要落在医学影像与医疗 AI 应用中，但我更希望把这些经验迁移到
-          trustworthy multimodal AI、agentic workflows、retrieval-enhanced reasoning 这类方向，
-          以 RA 角色在真实问题中做稳定、可复现、可累积的研究贡献。
+          我希望以 RA 身份切入多模态智能系统、可靠推理与真实场景评测相关研究。
+          现有经历主要来自医学影像与医疗 AI 应用，但我更关注这些经验如何迁移到
+          trustworthy multimodal AI、agent workflows、retrieval-enhanced reasoning 以及
+          reproducible evaluation 这类更方法驱动的问题中。
         </p>
         <div class="chips">
           <span class="chip">Trustworthy AI</span>
-          <span class="chip">Computer Vision</span>
           <span class="chip">Multimodal Learning</span>
           <span class="chip">Multimodal Agents</span>
           <span class="chip">Retrieval-Augmented Reasoning</span>
-          <span class="chip">Cross-domain Generalization</span>
-          <span class="chip">Semi-supervised Learning</span>
-          <span class="chip">Reproducible ML</span>
           <span class="chip">Medical AI (Applied)</span>
+          <span class="chip">Reproducible ML</span>
+          <span class="chip">Benchmark Thinking</span>
           <span class="chip">AI Engineering Workflow</span>
         </div>
       </div>
       <aside class="meta">
         <p><strong>GPA:</strong> 84-85/100</p>
-        <p><strong>iGEM:</strong> Team Captain, Gold Medal</p>
-        <p><strong>Scholarship:</strong> BIT Outstanding Academic Scholarship ×2</p>
+        <p><strong>Availability:</strong> 20-25 hrs/week in semester, full-time in breaks</p>
+        <p><strong>Scholarship:</strong> BIT Outstanding Academic Scholarship x2</p>
         <p><strong>Internships:</strong> BIBR, MiraclePlus, Binance</p>
-        <p><strong>Keywords:</strong> PyTorch, SAM2, FAISS, FastAPI, OpenSlide, evaluation pipelines</p>
+        <p><strong>Keywords:</strong> PyTorch, FastAPI, FAISS, OpenSlide, evaluation pipelines</p>
         <p class="contact">
           <a href="mailto:zcy3141592004@163.com">Email</a>
           <a href="mailto:zcy3141592004@163.com?subject=CV%20Request">CV</a>
@@ -233,22 +229,22 @@
     </section>
 
     <section class="card">
-      <h2>导师申请导向 Mentor-fit Statement</h2>
+      <h2>Mentor-fit Statement</h2>
       <div class="grid-2">
         <div>
-          <h3>拟合作方向</h3>
+          <h3>适合切入的研究任务</h3>
           <ul>
-            <li>多模态系统中的稳健推理、表示对齐与知识整合</li>
-            <li>面向真实场景的 agent workflows、tool use 与 retrieval-enhanced pipelines</li>
-            <li>可靠性评估、误差分析与可复现实验基础设施</li>
+            <li>多模态系统中的表示对齐、稳健推理与错误分析</li>
+            <li>tool use、RAG、agent workflows 的实现与评测</li>
+            <li>benchmark 构建、数据整理、实验复现与评测设计</li>
           </ul>
         </div>
         <div>
-          <h3>RA投入方式</h3>
+          <h3>我能提供的工作方式</h3>
           <ul>
-            <li>学期可投入 20-25 小时/周，假期可全职</li>
-            <li>优先承担可拆分模块：数据构建、训练实现、评测设计、复现验证</li>
-            <li>适合从 benchmark building、pipeline implementation、error analysis 等基础工作切入</li>
+            <li>先完成可验证的小模块，再持续扩展到完整研究问题</li>
+            <li>重视代码可读性、实验可追踪性与结果复现</li>
+            <li>适合承担实现、评估、复现、数据与错误分析类工作</li>
           </ul>
         </div>
       </div>
@@ -258,20 +254,20 @@
       <h2>Profile Highlights</h2>
       <div class="stats">
         <div class="stat">
+          <strong>RA-ready</strong>
+          <span>Can contribute on data, training, evaluation, and reproduction</span>
+        </div>
+        <div class="stat">
           <strong>ISBI 2026</strong>
-          <span>Accepted paper (co-first author)</span>
+          <span>Accepted paper in semi-supervised medical vision</span>
         </div>
         <div class="stat">
-          <strong>PRL</strong>
-          <span>Under review (second author)</span>
+          <strong>Agent + Multimodal</strong>
+          <span>Hands-on experience with agent workflows and multimodal pipelines</span>
         </div>
         <div class="stat">
-          <strong>Competition Track</strong>
-          <span>iGEM Gold + multiple national-level prizes</span>
-        </div>
-        <div class="stat">
-          <strong>Project Portfolio</strong>
-          <span>7+ AI/engineering projects with end-to-end delivery</span>
+          <strong>Reliability</strong>
+          <span>Ablation, error analysis, and benchmark-style testing discipline</span>
         </div>
       </div>
     </section>
@@ -283,18 +279,17 @@
           <h3>Methodology</h3>
           <ul>
             <li>Reliable learning under distribution shift, noise, and incomplete supervision</li>
-            <li>Multimodal representation learning and retrieval-augmented system design</li>
+            <li>Multimodal representation learning and retrieval-enhanced system design</li>
             <li>Transparent evaluation, benchmark thinking, and reproducible experimentation</li>
             <li>Agent-oriented workflow design in real application settings</li>
           </ul>
         </div>
         <div>
-          <h3>Project Experience</h3>
+          <h3>Current Applied Experience</h3>
           <ul>
+            <li>Medical datasets including ultrasound, pathology, and OCTA</li>
             <li>Semi-supervised and multimodal modeling for structured reasoning tasks</li>
-            <li>View-conditioned representation design and data-to-model pipeline construction</li>
             <li>Ablation-driven robustness evaluation, failure analysis, and result tracing</li>
-            <li>Applied experience on biomedical datasets (ultrasound, pathology, OCTA)</li>
             <li>Agent/tool-oriented prototyping from backend logic to usable interface</li>
           </ul>
         </div>
@@ -306,7 +301,7 @@
       <div class="timeline">
         <div class="item">
           <p><strong>AI/Vision Research Training</strong></p>
-          <p>Implemented end-to-end model training/evaluation workflows in Python/PyTorch with ablation and structured error analysis.</p>
+          <p>Implemented end-to-end model training and evaluation workflows in Python/PyTorch with ablation and structured error analysis.</p>
         </div>
         <div class="item">
           <p><strong>Research Internship | Beijing Institute of Brain Science and Brain-Inspired Intelligence (BIBR)</strong></p>
@@ -320,54 +315,104 @@
           <p><strong>Front-end Development Internship | Binance</strong></p>
           <p>Contributed to product modules with API integration and feature iteration, strengthening debugging and engineering delivery discipline.</p>
         </div>
-        <div class="item">
-          <p><strong>iGEM Team Captain</strong></p>
-          <p>Led interdisciplinary coordination, milestone planning, and project execution to final gold-medal delivery.</p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Core Projects For RA Fit</h2>
+      <div class="item">
+        <p><strong>Healthy Agent for World 医疗多智能体系统</strong></p>
+        <p>实现分诊、诊断与安全子代理协同，支持多轮诊疗、工具调用与证据链输出，体现了 agent workflow 设计与可审计交付能力。</p>
+        <p class="caption">EN: Healthy Agent for World | Python, FastAPI, CLI, JSON/CSV reporting</p>
+      </div>
+      <div class="item">
+        <p><strong>胎儿心脏超声半监督协同学习</strong></p>
+        <p>围绕半监督医学视觉问题，设计 view-conditioned 协同框架与一致性约束，完成分阶段验证并形成论文产出。</p>
+        <p class="caption">EN: View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis | Accepted at ISBI 2026 Challenge Track (Co-first author)</p>
+      </div>
+      <div class="item">
+        <p><strong>病理图像智能标注工具</strong></p>
+        <p>面向 WSI 构建人机协同标注闭环，整合配准、分割、检索与持久化工作流，提升标注效率与一致性。</p>
+        <p class="caption">EN: Pathology Intelligent Annotation Tool | Python, OpenSlide, SAM2, FAISS, Streamlit, SQLite</p>
+      </div>
+      <div class="item">
+        <p><strong>OCTA 血管网络分析系统</strong></p>
+        <p>参与 OCTA 数据导入、标注、训练、推理与三维可视化导出的端到端流程构建。</p>
+        <p class="caption">EN: OCTA Vessel Network Analysis System | React, Electron, FastAPI, PyTorch, Three.js</p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Selected Additional Projects</h2>
+      <div class="item">
+        <p><strong>CellSAM 病理 GUI 系统</strong></p>
+        <p>完成 WSI 读取、细胞核检测、特征提取与报告生成的图形化流程落地。</p>
+        <p class="caption">EN: CellSAM Pathology GUI | Python, CellSAM, OpenSlide, SQLite</p>
+      </div>
+      <div class="item">
+        <p><strong>病理图像标注系统（Web）</strong></p>
+        <p>开发 Web 标注平台，支持多项目管理、标注统计与导出，并接入视觉辅助评分流程。</p>
+        <p class="caption">EN: Pathology Annotation System (Web) | Hono, Cloudflare Workers/D1, Tailwind, Canvas</p>
+      </div>
+      <div class="item">
+        <p><strong>OpenCode 自动回退插件</strong></p>
+        <p>针对 Agent 对话模型不可用场景，设计自动回退与恢复策略，以提升多模型系统稳定性。</p>
+        <p class="caption">EN: OpenCode Auto Fallback Plugin | TypeScript</p>
+      </div>
+      <div class="item">
+        <p><strong>CryptoFolio Web3 资产风险决策系统</strong></p>
+        <p>实现模块化前端架构、离线容灾与端到端质量门禁，训练了可靠工程交付与 benchmark-style testing 习惯。</p>
+        <p class="caption">EN: CryptoFolio Web3 Risk Decision System | Vanilla JS, Playwright, Vercel</p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>技术栈与能力矩阵 Technical Stack & Capability Matrix</h2>
+      <div class="cap-grid">
+        <div class="cap-card">
+          <h3>编程与数据 Programming & Data</h3>
+          <ul>
+            <li>Python, C, MATLAB, R</li>
+            <li>NumPy, pandas, SQLite</li>
+            <li>Experiment logging and reproducible reporting pipelines</li>
+          </ul>
+        </div>
+        <div class="cap-card">
+          <h3>深度学习与多模态 Deep Learning & Multimodal</h3>
+          <ul>
+            <li>PyTorch, SAM2, OpenCV, scikit-image</li>
+            <li>Semi-supervised learning and multimodal representation workflows</li>
+            <li>Ablation design, robustness evaluation, and error categorization</li>
+          </ul>
+        </div>
+        <div class="cap-card">
+          <h3>医学影像与 Agent 工程 Medical Imaging & Agent Engineering</h3>
+          <ul>
+            <li>OpenSlide, pydicom, SimpleITK, nibabel, FAISS</li>
+            <li>WSI/OCTA-oriented preprocessing, registration, retrieval, and analysis flows</li>
+            <li>End-to-end pipeline ownership from data processing to tool-calling workflows</li>
+          </ul>
+        </div>
+        <div class="cap-card">
+          <h3>应用开发 Application Development</h3>
+          <ul>
+            <li>FastAPI, React, Electron, Three.js, Streamlit</li>
+            <li>Hono, Cloudflare Workers/D1, Tailwind, Canvas</li>
+            <li>TypeScript, Playwright, Vercel deployment, and CI-oriented testing</li>
+          </ul>
         </div>
       </div>
     </section>
 
     <section class="card">
-      <h2>项目经历 Projects</h2>
+      <h2>Publications</h2>
       <div class="item">
-        <p><strong>Healthy Agent for World 医疗多智能体系统</strong></p>
-        <p>实现分诊、诊断与安全子代理协同，支持多轮诊疗、工具调用与证据链输出，训练了 agent workflow 设计与可审计交付能力。</p>
-        <p class="caption">EN: Healthy Agent for World (Healthy-agent-for-world-) | Stack: Python, FastAPI, CLI, JSON/CSV reporting</p>
+        <p><strong>View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis</strong></p>
+        <p>Accepted at ISBI 2026 Challenge Track | Co-first author</p>
       </div>
       <div class="item">
-        <p><strong>胎儿心脏超声半监督协同学习</strong></p>
-        <p>围绕半监督医学视觉问题，设计 view-conditioned 协同框架与一致性约束，完成分阶段验证并形成论文产出。</p>
-        <p class="caption">EN: View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis | Outcome: Accepted at ISBI 2026 Challenge Track (Co-first author)</p>
-      </div>
-      <div class="item">
-        <p><strong>病理图像智能标注工具</strong></p>
-        <p>面向 WSI 构建人机协同标注闭环，整合配准、分割、检索与持久化工作流，提升标注效率与一致性。</p>
-        <p class="caption">EN: Pathology Intelligent Annotation Tool (pathology_annotator) | Stack: Python, OpenSlide, SAM2, FAISS, Streamlit, SQLite</p>
-      </div>
-      <div class="item">
-        <p><strong>OCTA 血管网络分析系统</strong></p>
-        <p>参与 OCTA 数据导入、标注、训练、推理与三维可视化导出的端到端流程构建。</p>
-        <p class="caption">EN: OCTA Vessel Network Analysis System (octa-vessel-analyzer) | Stack: React, Electron, FastAPI, PyTorch, Three.js</p>
-      </div>
-      <div class="item">
-        <p><strong>CellSAM 病理 GUI 系统</strong></p>
-        <p>完成 WSI 读取、细胞核检测、特征提取与报告生成的图形化流程落地。</p>
-        <p class="caption">EN: CellSAM Pathology GUI (cellsam_pathology) | Stack: Python, CellSAM, OpenSlide, SQLite</p>
-      </div>
-      <div class="item">
-        <p><strong>病理图像标注系统（Web）</strong></p>
-        <p>开发 Web 标注平台，支持多项目管理、标注统计与导出，并接入视觉辅助评分流程。</p>
-        <p class="caption">EN: Pathology Annotation System (Web) | Stack: Hono, Cloudflare Workers/D1, Tailwind, Canvas</p>
-      </div>
-      <div class="item">
-        <p><strong>OpenCode 自动回退插件</strong></p>
-        <p>针对 Agent 对话模型不可用场景，设计自动回退与恢复策略，以提升多模型系统的稳定性与可恢复性。</p>
-        <p class="caption">EN: OpenCode Auto Fallback Plugin (opencode-auto-fallback) | Stack: TypeScript</p>
-      </div>
-      <div class="item">
-        <p><strong>CryptoFolio Web3 资产风险决策系统</strong></p>
-        <p>实现模块化前端架构、离线容灾与端到端质量门禁，训练了高可靠工程交付与 benchmark-style testing 习惯。</p>
-        <p class="caption">EN: CryptoFolio Web3 Risk Decision System (crypto-portfolio-tracker) | Stack: Vanilla JS, Playwright, Vercel</p>
+        <p><strong>Timescale Coalescence Suppresses Detectability of a Hidden Persistent Driver</strong></p>
+        <p>Submitted / under review at Physical Review Letters (PRL) | Second author</p>
       </div>
     </section>
 
@@ -393,71 +438,6 @@
         <p><strong>ISBI 2026 Challenge Track 论文接收（共一）</strong></p>
         <p>半监督医学视觉方向方法论文获得同行评审接收。</p>
         <p class="caption">EN: Accepted paper at ISBI 2026 Challenge Track (Co-first author)</p>
-      </div>
-      <div class="item">
-        <p><strong>“析光知理” 快速病理学脑瘤诊断系统</strong></p>
-        <p>京彩大创一等奖、挑战杯全国二等奖、中国国际大学生创新大赛高教主赛道三等奖。</p>
-        <p class="caption">EN: Jingcai DACHUANG First Prize; Challenge Cup National Second Prize; China International College Students Innovation Competition Third Prize</p>
-      </div>
-      <div class="item">
-        <p><strong>“智瘤方舟” 生物医学多模态生成式 AI 转化平台</strong></p>
-        <p>北大医学首届大学生创新转化大赛三等奖，2025“校友杯”AI 赋能创新创业大赛优秀奖。</p>
-        <p class="caption">EN: PKU Medicine Innovation Translation Competition Third Prize; 2025 Alumni Cup AI Innovation Competition Excellence Award</p>
-      </div>
-      <div class="item">
-        <p><strong>科普与社会实践荣誉</strong></p>
-        <p>第四届“北大医学杯”学生科普展示大赛三等奖，并获北京市红十字协会多项表彰。</p>
-        <p class="caption">EN: PKU Medicine Cup Science Communication Competition Third Prize; multiple commendations from Beijing Red Cross Association</p>
-      </div>
-    </section>
-
-    <section class="card">
-      <h2>技术栈与能力矩阵 Technical Stack & Capability Matrix</h2>
-      <div class="cap-grid">
-        <div class="cap-card">
-          <h3>编程与数据 Programming & Data</h3>
-          <ul>
-            <li>Python, C, MATLAB, R</li>
-            <li>NumPy, pandas, SQLite</li>
-            <li>Experiment logging and reproducible reporting pipelines</li>
-          </ul>
-        </div>
-        <div class="cap-card">
-          <h3>深度学习与多模态 Deep Learning & Multimodal Learning</h3>
-          <ul>
-            <li>PyTorch, SAM2, OpenCV, scikit-image</li>
-            <li>Semi-supervised learning, multimodal representation learning, and structured reasoning workflows</li>
-            <li>Ablation design, robustness evaluation, and error categorization</li>
-          </ul>
-        </div>
-        <div class="cap-card">
-          <h3>医学影像与 Agent 工程 Medical Imaging & Agent Engineering</h3>
-          <ul>
-            <li>OpenSlide, pydicom, SimpleITK, nibabel, FAISS</li>
-            <li>WSI/OCTA-oriented preprocessing, registration, retrieval, and analysis flows</li>
-            <li>End-to-end pipeline ownership from data processing to model inference and tool-calling workflows</li>
-          </ul>
-        </div>
-        <div class="cap-card">
-          <h3>应用开发 Application Development</h3>
-          <ul>
-            <li>FastAPI, React, Electron, Three.js, Streamlit</li>
-            <li>Hono, Cloudflare Workers/D1, Tailwind, Canvas</li>
-            <li>TypeScript, Playwright, Vercel deployment and CI-oriented testing</li>
-          </ul>
-        </div>
-      </div>
-    </section>
-
-    <section class="card">
-      <h2>Publications</h2>
-      <div class="item">
-        <p><strong>View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis</strong></p>
-        <p>Accepted at ISBI 2026 Challenge Track | Co-first author</p>
-      </div>
-      <div class="item">
-        <p><strong>Timescale Coalescence Suppresses Detectability of a Hidden Persistent Driver</strong></p>
-        <p>Submitted / under review at Physical Review Letters (PRL) | Second author</p>
       </div>
     </section>
 
