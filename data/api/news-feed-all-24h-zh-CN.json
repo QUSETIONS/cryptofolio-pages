@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773749128275,
-  "crawlUpdatedAt": 1773749128275,
-  "crawlCount": 40,
+  "updatedAt": 1773756029185,
+  "crawlUpdatedAt": 1773756029185,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,27 +13,90 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RGVsdGEgcmFpc2VzIHJl",
-      "title": "Delta raises revenue guidance as CEO says travel demand has been &apos;really, really great&apos;",
+      "id": "CNBC Markets-T2lsIHBhcmVzIGdhaW5z",
+      "title": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773755883000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2Vja28gUm9ib3RpY3Mg",
+      "title": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773755593000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields edge lower as investors weigh rising oil price, Iran attacks and looming Fed decision",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/treasury-yields-middle-east-tensions-fed-decision.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773755587000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGllc2VsIHByaWNlcyBz",
+      "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773755351000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29tZSBlY29ub21pc3Rz",
+      "title": "Some economists are warning about ‘stagflation.’ What it could mean for your money",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/stagflation-and-your-money.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773755069000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVsdGEsIEFtZXJpY2Fu",
+      "title": "Delta, American raise revenue guidance, citing growth in demand",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773748847000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SENXIEJpb2xvZ2ljcyBy",
-      "title": "HCW Biologics receives $7M upfront fee from China licensee",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hcw-biologics-receives-7m-upfront-fee-from-china-licensee-93CH-4565449",
-      "source": "Investing.com News",
-      "publishedAt": 1773748637000,
+      "publishedAt": 1773754647000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,149 +106,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIHByaWNlcyBob3Zl",
-      "title": "Oil prices hover above $100 a barrel as Iran supply fears persist",
+      "id": "CNBC Markets-MjAyNiBKdXN0IENhcGl0",
+      "title": "2026 Just Capital rankings: See the companies on the annual list of corporate leaders",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-jump-2-brent-stays-above-100barrel-as-iran-supply-fears-persis-4564393",
-      "source": "Investing.com News",
-      "publishedAt": 1773748637000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9venQgcGFydG5lcnMg",
-      "title": "Boozt partners with NuORDER to centralize buying operations",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/boozt-partners-with-nuorder-to-centralize-buying-operations-93CH-4565448",
-      "source": "Investing.com News",
-      "publishedAt": 1773748622000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZGVuIFJvY2sgR2xv",
-      "title": "Golden Rock Global raises £455,000 via convertible loan notes",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/golden-rock-global-raises-455000-via-convertible-loan-notes-93CH-4565447",
-      "source": "Investing.com News",
-      "publishedAt": 1773748588000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXRhbHnigJlzIGFudGl0",
-      "title": "Italy’s antitrust watchdog launches fact‑finding inquiry into quantum computing sector",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/italys-antitrust-watchdog-launches-factfinding-inquiry-into-quantum-computing-sector-4565445",
-      "source": "Investing.com News",
-      "publishedAt": 1773748472000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1Ib3cgbWFu",
-      "title": "Factbox-How many ships have been attacked in the Gulf since start of Iran war?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-ships-have-been-attacked-in-the-gulf-since-start-of-iran-war-4565444",
-      "source": "Investing.com News",
-      "publishedAt": 1773748471000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IEN1c3RvbWVy",
-      "title": "Form 4 Customers Bancorp Inc For: 17 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-customers-bancorp-inc-for-17-march-93CH-4565443",
-      "source": "Investing.com News",
-      "publishedAt": 1773748457000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBzdG9jayBmdXR1",
-      "title": "U.S. stock futures subdued as Iran-driven oil price climb remains in focus",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-subdued-as-irandriven-oil-price-climb-remains-in-focus-4565442",
-      "source": "Investing.com News",
-      "publishedAt": 1773748450000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R0RTIEhvbGRpbmdzIGZh",
-      "title": "GDS Holdings falls 2% on fourth quarter revenue miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/gds-holdings-falls-2-on-fourth-quarter-revenue-miss-93CH-4565441",
-      "source": "Investing.com News",
-      "publishedAt": 1773748400000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29ycG9yYWNpb24gQW1l",
-      "title": "Corporacion America Airports earnings beat by $0.29, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/corporacion-america-airports-earnings-beat-by-029-revenue-topped-estimates-4565440",
-      "source": "Investing.com News",
-      "publishedAt": 1773748353000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXNyYWVsIHNheXMgSXJh",
-      "title": "Israel says Iran’s security chief, Ali Larijani, has been killed in a strike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
+      "url": "https://www.cnbc.com/2026/03/17/2026-just-100-rankings-companies-just-capital-list.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773747790000,
+      "publishedAt": 1773754347000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773753350000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -200,25 +141,10 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773746840000,
+      "publishedAt": 1773751716000,
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MjAyNiBKdXN0IENhcGl0",
-      "title": "2026 Just Capital rankings: See the companies on the annual list of corporate leaders",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/2026-just-100-rankings-companies-just-capital-list.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773746060000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -270,54 +196,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R2Vja28gUm9ib3RpY3Mg",
-      "title": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773738001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields tick up as investors weigh oil surge, Iran tensions and looming Fed decision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/treasury-yields-middle-east-tensions-fed-decision.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773737432000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y",
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGp1bXBzIDQlIGFz",
-      "title": "Oil jumps 4% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773737088000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXVzdHJhbGlhIGNlbnRy",
       "title": "Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks",
       "summary": "",
@@ -345,21 +223,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MiBvZiBvdXIgYmlnZ2Vz",
-      "title": "2 of our biggest takeaways from Nvidia CEO Jensen Huang&apos;s GTC keynote speech",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/16/2-of-our-biggest-takeaways-from-nvidia-ceo-jensen-huangs-gtc-keynote-speech.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773706803000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -510,21 +373,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz standoff puts supply of America&apos;s generic drug prescriptions at risk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773684257000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
