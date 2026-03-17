@@ -200,17 +200,21 @@
         <h1>Chenyu Zhang</h1>
         <p><strong>Biomedical Engineering Undergraduate</strong> | Beijing Institute of Technology</p>
         <p>
-          我目前以医学 AI 研究为主线，重点关注多模态表征学习、跨场景泛化与可复现实验流程。
-          对于目标导师课题，我更希望从 RA 角色切入，在真实数据与研究问题中做稳定、可交付的增量贡献。
+          我目前的研究兴趣集中在多模态智能系统、可靠推理与真实场景中的模型稳健性。
+          虽然已有工作主要落在医学影像与医疗 AI 应用中，但我更希望把这些经验迁移到
+          trustworthy multimodal AI、agentic workflows、retrieval-enhanced reasoning 这类方向，
+          以 RA 角色在真实问题中做稳定、可复现、可累积的研究贡献。
         </p>
         <div class="chips">
-          <span class="chip">Medical AI</span>
+          <span class="chip">Trustworthy AI</span>
           <span class="chip">Computer Vision</span>
           <span class="chip">Multimodal Learning</span>
+          <span class="chip">Multimodal Agents</span>
+          <span class="chip">Retrieval-Augmented Reasoning</span>
           <span class="chip">Cross-domain Generalization</span>
           <span class="chip">Semi-supervised Learning</span>
           <span class="chip">Reproducible ML</span>
-          <span class="chip">Medical Agent Systems</span>
+          <span class="chip">Medical AI (Applied)</span>
           <span class="chip">AI Engineering Workflow</span>
         </div>
       </div>
@@ -234,17 +238,17 @@
         <div>
           <h3>拟合作方向</h3>
           <ul>
-            <li>多模态表征对齐与跨中心/跨设备泛化</li>
-            <li>临床流程约束下的模型稳健性与误差分析</li>
-            <li>可复现实验管线与可审计研究交付</li>
+            <li>多模态系统中的稳健推理、表示对齐与知识整合</li>
+            <li>面向真实场景的 agent workflows、tool use 与 retrieval-enhanced pipelines</li>
+            <li>可靠性评估、误差分析与可复现实验基础设施</li>
           </ul>
         </div>
         <div>
           <h3>RA投入方式</h3>
           <ul>
             <li>学期可投入 20-25 小时/周，假期可全职</li>
-            <li>优先承担可拆分模块：数据/训练/评估/复现</li>
-            <li>以“先产出稳定中间结果，再迭代论文目标”为节奏</li>
+            <li>优先承担可拆分模块：数据构建、训练实现、评测设计、复现验证</li>
+            <li>适合从 benchmark building、pipeline implementation、error analysis 等基础工作切入</li>
           </ul>
         </div>
       </div>
@@ -278,20 +282,20 @@
         <div>
           <h3>Methodology</h3>
           <ul>
-            <li>Reliable learning under distribution shift and noisy labels</li>
-            <li>Data-efficient training under limited annotation settings</li>
-            <li>Transparent evaluation and reproducible experiment design</li>
-            <li>Agent-oriented system design for clinical decision workflows</li>
+            <li>Reliable learning under distribution shift, noise, and incomplete supervision</li>
+            <li>Multimodal representation learning and retrieval-augmented system design</li>
+            <li>Transparent evaluation, benchmark thinking, and reproducible experimentation</li>
+            <li>Agent-oriented workflow design in real application settings</li>
           </ul>
         </div>
         <div>
           <h3>Project Experience</h3>
           <ul>
-            <li>Semi-supervised learning for structured visual understanding</li>
-            <li>View-conditioned and multimodal representation modeling</li>
-            <li>Ablation-driven robustness evaluation and error analysis</li>
+            <li>Semi-supervised and multimodal modeling for structured reasoning tasks</li>
+            <li>View-conditioned representation design and data-to-model pipeline construction</li>
+            <li>Ablation-driven robustness evaluation, failure analysis, and result tracing</li>
             <li>Applied experience on biomedical datasets (ultrasound, pathology, OCTA)</li>
-            <li>Full-stack AI tool prototyping from algorithm to product interface</li>
+            <li>Agent/tool-oriented prototyping from backend logic to usable interface</li>
           </ul>
         </div>
       </div>
@@ -326,6 +330,11 @@
     <section class="card">
       <h2>项目经历 Projects</h2>
       <div class="item">
+        <p><strong>Healthy Agent for World 医疗多智能体系统</strong></p>
+        <p>实现分诊、诊断与安全子代理协同，支持多轮诊疗、工具调用与证据链输出，训练了 agent workflow 设计与可审计交付能力。</p>
+        <p class="caption">EN: Healthy Agent for World (Healthy-agent-for-world-) | Stack: Python, FastAPI, CLI, JSON/CSV reporting</p>
+      </div>
+      <div class="item">
         <p><strong>胎儿心脏超声半监督协同学习</strong></p>
         <p>围绕半监督医学视觉问题，设计 view-conditioned 协同框架与一致性约束，完成分阶段验证并形成论文产出。</p>
         <p class="caption">EN: View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis | Outcome: Accepted at ISBI 2026 Challenge Track (Co-first author)</p>
@@ -341,11 +350,6 @@
         <p class="caption">EN: OCTA Vessel Network Analysis System (octa-vessel-analyzer) | Stack: React, Electron, FastAPI, PyTorch, Three.js</p>
       </div>
       <div class="item">
-        <p><strong>Healthy Agent for World 医疗多智能体系统</strong></p>
-        <p>实现分诊/诊断/安全子代理协同，支持多轮诊疗与工具调用，输出可审计诊断链路。</p>
-        <p class="caption">EN: Healthy Agent for World (Healthy-agent-for-world-) | Stack: Python, FastAPI, CLI, JSON/CSV reporting</p>
-      </div>
-      <div class="item">
         <p><strong>CellSAM 病理 GUI 系统</strong></p>
         <p>完成 WSI 读取、细胞核检测、特征提取与报告生成的图形化流程落地。</p>
         <p class="caption">EN: CellSAM Pathology GUI (cellsam_pathology) | Stack: Python, CellSAM, OpenSlide, SQLite</p>
@@ -356,14 +360,14 @@
         <p class="caption">EN: Pathology Annotation System (Web) | Stack: Hono, Cloudflare Workers/D1, Tailwind, Canvas</p>
       </div>
       <div class="item">
-        <p><strong>CryptoFolio Web3 资产风险决策系统</strong></p>
-        <p>实现模块化前端架构、离线容灾与端到端质量门禁，训练了高可靠工程交付能力。</p>
-        <p class="caption">EN: CryptoFolio Web3 Risk Decision System (crypto-portfolio-tracker) | Stack: Vanilla JS, Playwright, Vercel</p>
+        <p><strong>OpenCode 自动回退插件</strong></p>
+        <p>针对 Agent 对话模型不可用场景，设计自动回退与恢复策略，以提升多模型系统的稳定性与可恢复性。</p>
+        <p class="caption">EN: OpenCode Auto Fallback Plugin (opencode-auto-fallback) | Stack: TypeScript</p>
       </div>
       <div class="item">
-        <p><strong>OpenCode 自动回退插件</strong></p>
-        <p>针对 Agent 对话模型不可用场景，设计自动回退与恢复策略以提升稳定性。</p>
-        <p class="caption">EN: OpenCode Auto Fallback Plugin (opencode-auto-fallback) | Stack: TypeScript</p>
+        <p><strong>CryptoFolio Web3 资产风险决策系统</strong></p>
+        <p>实现模块化前端架构、离线容灾与端到端质量门禁，训练了高可靠工程交付与 benchmark-style testing 习惯。</p>
+        <p class="caption">EN: CryptoFolio Web3 Risk Decision System (crypto-portfolio-tracker) | Stack: Vanilla JS, Playwright, Vercel</p>
       </div>
     </section>
 
@@ -419,19 +423,19 @@
           </ul>
         </div>
         <div class="cap-card">
-          <h3>深度学习与视觉 Deep Learning & Vision</h3>
+          <h3>深度学习与多模态 Deep Learning & Multimodal Learning</h3>
           <ul>
             <li>PyTorch, SAM2, OpenCV, scikit-image</li>
-            <li>Semi-supervised and multimodal representation learning workflows</li>
+            <li>Semi-supervised learning, multimodal representation learning, and structured reasoning workflows</li>
             <li>Ablation design, robustness evaluation, and error categorization</li>
           </ul>
         </div>
         <div class="cap-card">
-          <h3>医学影像与AI工程 Medical Imaging & AI Engineering</h3>
+          <h3>医学影像与 Agent 工程 Medical Imaging & Agent Engineering</h3>
           <ul>
             <li>OpenSlide, pydicom, SimpleITK, nibabel, FAISS</li>
             <li>WSI/OCTA-oriented preprocessing, registration, retrieval, and analysis flows</li>
-            <li>End-to-end pipeline ownership from data processing to model inference</li>
+            <li>End-to-end pipeline ownership from data processing to model inference and tool-calling workflows</li>
           </ul>
         </div>
         <div class="cap-card">
