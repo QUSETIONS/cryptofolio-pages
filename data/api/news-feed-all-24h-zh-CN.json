@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773723571097,
-  "crawlUpdatedAt": 1773723571097,
+  "updatedAt": 1773727794509,
+  "crawlUpdatedAt": 1773727794509,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgR3JvY2Vy",
-      "title": "Form 144 Grocery Outlet Holding Corp. For: 17 March",
+      "id": "Investing.com News-QXVzdHJhbGlhIGNlbnRy",
+      "title": "Australia central bank hikes rates in tight call as Iran war stokes inflation risk",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-grocery-outlet-holding-corp-for-17-march-93CH-4564633",
+      "url": "https://www.investing.com/news/economy-news/australias-central-bank-raises-rates-again-in-knifeedge-decision-4564571",
       "source": "Investing.com News",
-      "publishedAt": 1773722729000,
+      "publishedAt": 1773726871000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZnaGFuaXN0YW4gc2F5",
+      "title": "Afghanistan says 400 killed in Pakistan air strike on Kabul hospital, Pakistan rejects claim",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/afghan-taliban-says-400-killed-250-injured-in-pakistan-air-strike-on-kabul-hospital-4564438",
+      "source": "Investing.com News",
+      "publishedAt": 1773726505000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgU3Byb3V0",
-      "title": "Form 144 Sprouts Farmers Market For: 17 March",
+      "id": "Investing.com News-Qmx1ZSBPd2wgdGlwcGVk",
+      "title": "Blue Owl tipped UK mortgage lender Century into insolvency- FT",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-sprouts-farmers-market-for-17-march-93CH-4564632",
+      "url": "https://www.investing.com/news/stock-market-news/blue-owl-tipped-uk-mortgage-lender-century-into-insolvency-ft-4564639",
       "source": "Investing.com News",
-      "publishedAt": 1773722360000,
+      "publishedAt": 1773726237000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBQUkUgMTRBIE5v",
-      "title": "Form PRE 14A Now Inc For: 17 March",
+      "id": "Investing.com News-SU1GIHJhaXNlcyBjb25j",
+      "title": "IMF raises concern over Ukraine’s access to $8.1 billion aid, Bloomberg News reports",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-pre-14a-now-inc-for-17-march-93CH-4564631",
+      "url": "https://www.investing.com/news/economy-news/imf-raises-concern-over-ukraines-access-to-81-billion-aid-bloomberg-news-reports-4564638",
       "source": "Investing.com News",
-      "publishedAt": 1773722355000,
+      "publishedAt": 1773726164000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +73,108 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgVm9pcC1w",
-      "title": "Form 144 Voip-pal.com Inc For: 17 March",
+      "id": "Investing.com News-TW9ybmluZyBCaWQ6IENl",
+      "title": "Morning Bid: Central banks gird for oil shocks as RBA votes 5-4 to hike",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-voippalcom-inc-for-17-march-93CH-4564630",
+      "url": "https://www.investing.com/news/economy-news/morning-bid-central-banks-gird-for-oil-shocks-as-rba-votes-54-to-hike-4564637",
       "source": "Investing.com News",
-      "publishedAt": 1773722178000,
+      "publishedAt": 1773725789000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhIHN0b2Nr",
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.36%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-036-4564636",
+      "source": "Investing.com News",
+      "publishedAt": 1773725703000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSB0",
+      "title": "Bitcoin price today: pulls back after jumping near $76k; Iran war, Fed meet eyed",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-pulls-back-after-jumping-near-76k-iran-war-fed-meet-eyed-4564635",
+      "source": "Investing.com News",
+      "publishedAt": 1773725203000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qmx1ZSBPd2wgdGlwcGVk",
+      "title": "Blue Owl tipped UK lender into insolvency after discrepancy concerns, FT reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/blue-owl-tipped-uk-lender-into-insolvency-after-discrepancy-concerns-ft-reports-4564634",
+      "source": "Investing.com News",
+      "publishedAt": 1773725086000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFuayBvZiBKYXBhbiBj",
+      "title": "Bank of Japan chief stresses need to hit 2% inflation backed by wage gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/japans-underlying-inflation-accelerating-toward-boj-target-governor-ueda-says-4564378",
+      "source": "Investing.com News",
+      "publishedAt": 1773725070000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U2lnbmlmaWNh",
+      "title": "&apos;Significant, but not catastrophic&apos;: A fall in Chinese visitors barely dents tourism numbers to Japan",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/17/japan-tourism-visits-from-china-down-60percent-in-january-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773724643000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1IYWxmIGEg",
+      "title": "Factbox-Half a million lose power as storms batter US Midwest, Mid-Atlantic and South",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/factboxstorms-knock-out-power-to-500000-across-us-midwest-midatlantic-and-south-4562684",
+      "source": "Investing.com News",
+      "publishedAt": 1773724352000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -85,96 +196,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGFtaWx0b24sIEtvZGlh",
-      "title": "Hamilton, Kodiak Gas Services EVP, sells $264k in KGS stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/hamilton-kodiak-gas-services-evp-sells-264k-in-kgs-stock-93CH-4564629",
-      "source": "Investing.com News",
-      "publishedAt": 1773721562000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzc2llIGRvbGxhciBl",
-      "title": "Aussie dollar eases as RBA hikes rate; currencies drift on war uncertainty",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/currency-markets-drift-ahead-of-rba-meeting-as-oil-uncertainty-weighs-4564430",
-      "source": "Investing.com News",
-      "publishedAt": 1773721506000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMganVkZ2UgdXBlbmRz",
-      "title": "US judge upends Kennedy’s overhaul of childhood vaccine policies",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-blocks-efforts-to-reshape-childhood-vaccine-policy-4563631",
-      "source": "Investing.com News",
-      "publishedAt": 1773721470000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29uc3VtZXJzIEJhbmNv",
-      "title": "Consumers Bancorp director Paden buys $5654 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/consumers-bancorp-director-paden-buys-5654-in-stock-93CH-4564628",
-      "source": "Investing.com News",
-      "publishedAt": 1773721350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQkVUVEVS",
-      "title": "Form 144 BETTER HOME& FINANCE HOLDING CO For: 17 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-better-home-finance-holding-co-for-17-march-93CH-4564627",
-      "source": "Investing.com News",
-      "publishedAt": 1773721276000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IEtpbmdzd2F5",
-      "title": "Form 4 Kingsway Financial Services Inc For: 17 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-kingsway-financial-services-inc-for-17-march-93CH-4564626",
-      "source": "Investing.com News",
-      "publishedAt": 1773721224000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -561,21 +582,6 @@
       "url": "https://www.cnbc.com/2026/03/16/leadership-training-course-how-to-becom-great-boss-manager.html",
       "source": "CNBC Markets",
       "publishedAt": 1773666301000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUFF4oCZcyBGdWphaXJh",
-      "title": "UAE’s Fujairah oil trading hub targeted by a drone attack, causing large fire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/16/uae-fujairah-oil-hub-drone-fire-iran-war-us-israel-middle-east.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773652007000,
       "lang": "zh-CN",
       "topics": [
         "macro"
