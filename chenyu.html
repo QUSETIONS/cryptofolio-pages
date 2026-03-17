@@ -92,9 +92,31 @@
       font-size: 0.92rem;
       color: #64748b;
     }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .stat {
+      border: 1px solid #d1fae5;
+      background: #f0fdfa;
+      border-radius: 12px;
+      padding: 10px 12px;
+    }
+    .stat strong {
+      display: block;
+      font-size: 1.05rem;
+      color: #065f46;
+      margin-bottom: 2px;
+    }
+    .stat span {
+      color: #0f766e;
+      font-size: 0.86rem;
+    }
     @media (max-width: 860px) {
       .hero { grid-template-columns: 1fr; }
       .grid-2 { grid-template-columns: 1fr; }
+      .stats { grid-template-columns: 1fr 1fr; }
       h1 { font-size: 1.72rem; }
     }
   </style>
@@ -122,6 +144,7 @@
       <aside class="meta">
         <p><strong>GPA:</strong> 84-85/100</p>
         <p><strong>iGEM:</strong> Team Captain, Gold Medal</p>
+        <p><strong>Internship:</strong> Front-end Intern, Binance</p>
         <p><strong>Keywords:</strong> PyTorch, model evaluation, ablation, error analysis</p>
         <p class="contact">
           <a href="mailto:zcy3141592004@163.com">Email</a>
@@ -129,6 +152,28 @@
           <a href="#" target="_blank" rel="noreferrer">Google Scholar</a>
         </p>
       </aside>
+    </section>
+
+    <section class="card">
+      <h2>Profile Highlights</h2>
+      <div class="stats">
+        <div class="stat">
+          <strong>ISBI 2026</strong>
+          <span>Accepted paper (co-first author)</span>
+        </div>
+        <div class="stat">
+          <strong>PRL</strong>
+          <span>Under review (second author)</span>
+        </div>
+        <div class="stat">
+          <strong>iGEM Gold</strong>
+          <span>Team Captain and project lead</span>
+        </div>
+        <div class="stat">
+          <strong>Industry</strong>
+          <span>Front-end internship at Binance</span>
+        </div>
+      </div>
     </section>
 
     <section class="card">
@@ -151,6 +196,31 @@
             <li>Applied experience on biomedical datasets (ultrasound and related imaging)</li>
           </ul>
         </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Research & Internship Experience</h2>
+      <div class="item">
+        <p><strong>AI/Vision Research Training</strong></p>
+        <p>
+          Implemented end-to-end model training and evaluation workflows in Python/PyTorch,
+          including experiment tracking, controlled ablation studies, and structured error analysis.
+        </p>
+      </div>
+      <div class="item">
+        <p><strong>Front-end Development Internship | Binance</strong></p>
+        <p>
+          Participated in product-facing front-end tasks with cross-team collaboration, requirement handoff,
+          and engineering communication in a fast-paced industry environment.
+        </p>
+      </div>
+      <div class="item">
+        <p><strong>iGEM Team Captain</strong></p>
+        <p>
+          Led project planning, role coordination, and milestone execution across wet-lab and computational members.
+          Delivered a complete project pipeline that won the Gold Medal.
+        </p>
       </div>
     </section>
 
@@ -182,6 +252,18 @@
     </section>
 
     <section class="card">
+      <h2>Awards & Recognition</h2>
+      <div class="item">
+        <p><strong>iGEM Gold Medal</strong> | Team Captain</p>
+        <p>Recognized for leading a full-cycle interdisciplinary project from planning to final delivery.</p>
+      </div>
+      <div class="item">
+        <p><strong>ISBI 2026 Challenge Track</strong> | Accepted Paper (Co-first author)</p>
+        <p>Peer-reviewed acceptance for method-oriented work in semi-supervised visual analysis.</p>
+      </div>
+    </section>
+
+    <section class="card">
       <h2>Publications</h2>
       <div class="item">
         <p><strong>View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis</strong></p>
@@ -190,6 +272,14 @@
       <div class="item">
         <p><strong>Timescale Coalescence Suppresses Detectability of a Hidden Persistent Driver</strong></p>
         <p>Submitted / under review at Physical Review Letters (PRL) | Second author</p>
+      </div>
+      <div class="item">
+        <p><strong>Medical AI Review Manuscript #1</strong></p>
+        <p>First author | In preparation / planned submission</p>
+      </div>
+      <div class="item">
+        <p><strong>Medical Imaging Research Manuscript #1</strong></p>
+        <p>First author / Co-first | In preparation / planned submission</p>
       </div>
     </section>
 
