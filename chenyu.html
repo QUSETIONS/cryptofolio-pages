@@ -46,9 +46,10 @@
     .card:nth-child(6) { animation-delay: 0.20s; }
     .card:nth-child(7) { animation-delay: 0.24s; }
     .card:nth-child(8) { animation-delay: 0.28s; }
+    .card:nth-child(9) { animation-delay: 0.32s; }
     .hero {
       display: grid;
-      grid-template-columns: 1.6fr 1fr;
+      grid-template-columns: 1.65fr 1fr;
       gap: 16px;
       position: relative;
       overflow: hidden;
@@ -199,25 +200,24 @@
         <h1>Chenyu Zhang</h1>
         <p><strong>Biomedical Engineering Undergraduate</strong> | Beijing Institute of Technology</p>
         <p>
-          I build AI models for visual understanding and multimodal learning, with a strong focus on
-          robust generalization, semi-supervised training, and reproducible experimentation.
-          My work combines methodological rigor with practical engineering execution.
+          我目前以医学 AI 研究为主线，重点关注多模态表征学习、跨场景泛化与可复现实验流程。
+          对于目标导师课题，我更希望从 RA 角色切入，在真实数据与研究问题中做稳定、可交付的增量贡献。
         </p>
         <div class="chips">
+          <span class="chip">Medical AI</span>
           <span class="chip">Computer Vision</span>
           <span class="chip">Multimodal Learning</span>
-          <span class="chip">Medical Agent Systems</span>
-          <span class="chip">Representation Learning</span>
+          <span class="chip">Cross-domain Generalization</span>
           <span class="chip">Semi-supervised Learning</span>
           <span class="chip">Reproducible ML</span>
-          <span class="chip">Biomedical Imaging (Applied)</span>
+          <span class="chip">Medical Agent Systems</span>
           <span class="chip">AI Engineering Workflow</span>
         </div>
       </div>
       <aside class="meta">
         <p><strong>GPA:</strong> 84-85/100</p>
         <p><strong>iGEM:</strong> Team Captain, Gold Medal</p>
-        <p><strong>Scholarship:</strong> BIT Academic Scholarship ×2</p>
+        <p><strong>Scholarship:</strong> BIT Outstanding Academic Scholarship ×2</p>
         <p><strong>Internships:</strong> BIBR, MiraclePlus, Binance</p>
         <p><strong>Keywords:</strong> PyTorch, SAM2, FAISS, FastAPI, OpenSlide, evaluation pipelines</p>
         <p class="contact">
@@ -226,6 +226,28 @@
           <a href="#" target="_blank" rel="noreferrer">Google Scholar</a>
         </p>
       </aside>
+    </section>
+
+    <section class="card">
+      <h2>导师申请导向 Mentor-fit Statement</h2>
+      <div class="grid-2">
+        <div>
+          <h3>拟合作方向</h3>
+          <ul>
+            <li>多模态表征对齐与跨中心/跨设备泛化</li>
+            <li>临床流程约束下的模型稳健性与误差分析</li>
+            <li>可复现实验管线与可审计研究交付</li>
+          </ul>
+        </div>
+        <div>
+          <h3>RA投入方式</h3>
+          <ul>
+            <li>学期可投入 20-25 小时/周，假期可全职</li>
+            <li>优先承担可拆分模块：数据/训练/评估/复现</li>
+            <li>以“先产出稳定中间结果，再迭代论文目标”为节奏</li>
+          </ul>
+        </div>
+      </div>
     </section>
 
     <section class="card">
@@ -245,13 +267,13 @@
         </div>
         <div class="stat">
           <strong>Project Portfolio</strong>
-          <span>7 cross-domain AI/engineering projects delivered</span>
+          <span>7+ AI/engineering projects with end-to-end delivery</span>
         </div>
       </div>
     </section>
 
     <section class="card">
-        <h2>AI Focus</h2>
+      <h2>AI Focus</h2>
       <div class="grid-2">
         <div>
           <h3>Methodology</h3>
@@ -268,7 +290,7 @@
             <li>Semi-supervised learning for structured visual understanding</li>
             <li>View-conditioned and multimodal representation modeling</li>
             <li>Ablation-driven robustness evaluation and error analysis</li>
-            <li>Applied experience on biomedical datasets (ultrasound and related imaging)</li>
+            <li>Applied experience on biomedical datasets (ultrasound, pathology, OCTA)</li>
             <li>Full-stack AI tool prototyping from algorithm to product interface</li>
           </ul>
         </div>
@@ -280,39 +302,23 @@
       <div class="timeline">
         <div class="item">
           <p><strong>AI/Vision Research Training</strong></p>
-          <p>
-            Implemented end-to-end model training and evaluation workflows in Python/PyTorch,
-            including experiment tracking, controlled ablation studies, and structured error analysis.
-          </p>
+          <p>Implemented end-to-end model training/evaluation workflows in Python/PyTorch with ablation and structured error analysis.</p>
         </div>
         <div class="item">
           <p><strong>Research Internship | Beijing Institute of Brain Science and Brain-Inspired Intelligence (BIBR)</strong></p>
-          <p>
-            Participated in AI-oriented research practice with emphasis on method implementation,
-            reproducible experimentation, and research problem decomposition.
-          </p>
+          <p>Participated in AI-oriented research practice, focusing on reproducible experimentation and problem decomposition.</p>
         </div>
         <div class="item">
           <p><strong>Frontier Bio/Tech Research Practice | MiraclePlus (Qiji Chuangtan)</strong></p>
-          <p>
-            Conducted frontier biomedical technology content research and synthesis, strengthening
-            literature digestion, technical communication, and trend analysis capabilities.
-          </p>
+          <p>Conducted frontier biomedical technology research synthesis and technical communication support.</p>
         </div>
         <div class="item">
           <p><strong>Front-end Development Internship | Binance</strong></p>
-          <p>
-            Contributed to product-facing front-end modules with API integration and feature iteration.
-            This strengthened transferable capabilities for AI research engineering: rapid debugging,
-            reproducible implementation habits, and clear cross-team technical communication.
-          </p>
+          <p>Contributed to product modules with API integration and feature iteration, strengthening debugging and engineering delivery discipline.</p>
         </div>
         <div class="item">
           <p><strong>iGEM Team Captain</strong></p>
-          <p>
-            Led project planning, role coordination, and milestone execution across interdisciplinary members,
-            driving the team to a Gold Medal outcome.
-          </p>
+          <p>Led interdisciplinary coordination, milestone planning, and project execution to final gold-medal delivery.</p>
         </div>
       </div>
     </section>
@@ -320,81 +326,44 @@
     <section class="card">
       <h2>项目经历 Projects</h2>
       <div class="item">
-        <p><strong>CryptoFolio Web3 资产风险决策系统</strong></p>
-        <p>
-          搭建模块化 Vanilla JS 架构，完成领域逻辑与界面层解耦；引入离线容灾与 Playwright 稳定性门禁，
-          在高波动场景下保障系统可用性与可恢复性。
-        </p>
-        <p class="caption">EN: CryptoFolio Web3 Risk Decision System (crypto-portfolio-tracker) | Stack: Vanilla JS, Playwright, Vercel</p>
+        <p><strong>胎儿心脏超声半监督协同学习</strong></p>
+        <p>围绕半监督医学视觉问题，设计 view-conditioned 协同框架与一致性约束，完成分阶段验证并形成论文产出。</p>
+        <p class="caption">EN: View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis | Outcome: Accepted at ISBI 2026 Challenge Track (Co-first author)</p>
       </div>
       <div class="item">
         <p><strong>病理图像智能标注工具</strong></p>
-        <p>
-          面向 WSI 场景构建“人机协同标注”闭环，融合 IHC-HE 配准、分割、相似性检索与流程持久化管理，
-          提升标注效率与一致性。
-        </p>
+        <p>面向 WSI 构建人机协同标注闭环，整合配准、分割、检索与持久化工作流，提升标注效率与一致性。</p>
         <p class="caption">EN: Pathology Intelligent Annotation Tool (pathology_annotator) | Stack: Python, OpenSlide, SAM2, FAISS, Streamlit, SQLite</p>
       </div>
       <div class="item">
         <p><strong>OCTA 血管网络分析系统</strong></p>
-        <p>
-          参与 OCTA 数据导入、标注、训练、推理到三维可视化导出的端到端流程构建，
-          支持多格式医学影像处理与工程化协作。
-        </p>
+        <p>参与 OCTA 数据导入、标注、训练、推理与三维可视化导出的端到端流程构建。</p>
         <p class="caption">EN: OCTA Vessel Network Analysis System (octa-vessel-analyzer) | Stack: React, Electron, FastAPI, PyTorch, Three.js</p>
       </div>
       <div class="item">
-        <p><strong>胎儿心脏超声半监督协同学习</strong></p>
-        <p>
-          设计 view-conditioned 协同框架，用于半监督视觉建模；通过分阶段优化与一致性约束，
-          强化模型在真实任务中的泛化稳定性。
-        </p>
-        <p class="caption">EN: View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis | Outcome: Accepted at ISBI 2026 Challenge Track (Co-first author)</p>
-      </div>
-      <div class="item">
-        <p><strong>iGEM 项目统筹与交付</strong></p>
-        <p>
-          作为队长负责项目拆解、里程碑推进与跨角色协作，构建实验与计算任务联动流程，
-          最终获得 iGEM 金奖。
-        </p>
-        <p class="caption">EN: iGEM Project Leadership and Delivery | Outcome: iGEM Gold Medal (Team Captain)</p>
-      </div>
-      <div class="item">
-        <p><strong>可复现 AI 训练与评估工作流</strong></p>
-        <p>
-          构建 Python/PyTorch 训练评估流水线，完善实验日志、失效分析与 ablation 报告，
-          支持模型迭代的可追踪与可复验。
-        </p>
-        <p class="caption">EN: Reproducible AI Experiment and Evaluation Workflow</p>
-      </div>
-      <div class="item">
-        <p><strong>CellSAM 病理 GUI 系统</strong></p>
-        <p>
-          落地病理图像图形化流程，支持 WSI 读取、细胞核检测、特征提取、本地数据库记录与报告生成。
-        </p>
-        <p class="caption">EN: CellSAM Pathology GUI (cellsam_pathology) | Stack: Python, CellSAM, OpenSlide, SQLite</p>
-      </div>
-      <div class="item">
-        <p><strong>OpenCode 自动回退插件</strong></p>
-        <p>
-          针对 Agent 对话中模型不可用场景，设计自动回退与恢复策略，降低会话中断率并提升系统稳定性。
-        </p>
-        <p class="caption">EN: OpenCode Auto Fallback Plugin (opencode-auto-fallback) | Stack: TypeScript</p>
-      </div>
-      <div class="item">
         <p><strong>Healthy Agent for World 医疗多智能体系统</strong></p>
-        <p>
-          构建分诊、诊断与安全子代理协同框架，支持多轮诊疗与工具调用，并输出可审计、可解释的诊断链路。
-        </p>
+        <p>实现分诊/诊断/安全子代理协同，支持多轮诊疗与工具调用，输出可审计诊断链路。</p>
         <p class="caption">EN: Healthy Agent for World (Healthy-agent-for-world-) | Stack: Python, FastAPI, CLI, JSON/CSV reporting</p>
       </div>
       <div class="item">
+        <p><strong>CellSAM 病理 GUI 系统</strong></p>
+        <p>完成 WSI 读取、细胞核检测、特征提取与报告生成的图形化流程落地。</p>
+        <p class="caption">EN: CellSAM Pathology GUI (cellsam_pathology) | Stack: Python, CellSAM, OpenSlide, SQLite</p>
+      </div>
+      <div class="item">
         <p><strong>病理图像标注系统（Web）</strong></p>
-        <p>
-          开发 Web 端病理标注平台，支持点/多边形标注、项目管理、统计与导出，
-          并接入云存储与视觉辅助评分流程。
-        </p>
+        <p>开发 Web 标注平台，支持多项目管理、标注统计与导出，并接入视觉辅助评分流程。</p>
         <p class="caption">EN: Pathology Annotation System (Web) | Stack: Hono, Cloudflare Workers/D1, Tailwind, Canvas</p>
+      </div>
+      <div class="item">
+        <p><strong>CryptoFolio Web3 资产风险决策系统</strong></p>
+        <p>实现模块化前端架构、离线容灾与端到端质量门禁，训练了高可靠工程交付能力。</p>
+        <p class="caption">EN: CryptoFolio Web3 Risk Decision System (crypto-portfolio-tracker) | Stack: Vanilla JS, Playwright, Vercel</p>
+      </div>
+      <div class="item">
+        <p><strong>OpenCode 自动回退插件</strong></p>
+        <p>针对 Agent 对话模型不可用场景，设计自动回退与恢复策略以提升稳定性。</p>
+        <p class="caption">EN: OpenCode Auto Fallback Plugin (opencode-auto-fallback) | Stack: TypeScript</p>
       </div>
     </section>
 
@@ -439,10 +408,10 @@
     </section>
 
     <section class="card">
-      <h2>Technical Stack & Capability Matrix</h2>
+      <h2>技术栈与能力矩阵 Technical Stack & Capability Matrix</h2>
       <div class="cap-grid">
         <div class="cap-card">
-          <h3>Programming & Data</h3>
+          <h3>编程与数据 Programming & Data</h3>
           <ul>
             <li>Python, C, MATLAB, R</li>
             <li>NumPy, pandas, SQLite</li>
@@ -450,7 +419,7 @@
           </ul>
         </div>
         <div class="cap-card">
-          <h3>Deep Learning & Vision</h3>
+          <h3>深度学习与视觉 Deep Learning & Vision</h3>
           <ul>
             <li>PyTorch, SAM2, OpenCV, scikit-image</li>
             <li>Semi-supervised and multimodal representation learning workflows</li>
@@ -458,7 +427,7 @@
           </ul>
         </div>
         <div class="cap-card">
-          <h3>Medical Imaging & AI Engineering</h3>
+          <h3>医学影像与AI工程 Medical Imaging & AI Engineering</h3>
           <ul>
             <li>OpenSlide, pydicom, SimpleITK, nibabel, FAISS</li>
             <li>WSI/OCTA-oriented preprocessing, registration, retrieval, and analysis flows</li>
@@ -466,7 +435,7 @@
           </ul>
         </div>
         <div class="cap-card">
-          <h3>Application Development</h3>
+          <h3>应用开发 Application Development</h3>
           <ul>
             <li>FastAPI, React, Electron, Three.js, Streamlit</li>
             <li>Hono, Cloudflare Workers/D1, Tailwind, Canvas</li>
@@ -489,20 +458,18 @@
     </section>
 
     <section class="card">
-      <h2>Research Outputs & Innovation</h2>
+      <h2>科研产出与创新 Research Outputs & Innovation</h2>
       <div class="item">
-        <p><strong>First-author conference submission in Medical AI governance and oncology diagnosis</strong></p>
-        <p>
-          First-author work selected for youth forum display at the 4th CSBME Medical AI Conference (Suzhou, 2025).
-        </p>
+        <p><strong>医学 AI 临床治理与肿瘤诊疗方向论文</strong></p>
+        <p>第一作者工作入选中国生物医学工程学会（CSBME）第四届医学人工智能大会青年论坛展示（苏州，2025）。</p>
       </div>
       <div class="item">
-        <p><strong>SAT and drug-screening R&D track</strong></p>
-        <p>Project lead for AI-driven Silica Affinity Tag (SAT) and related drug-screening technology exploration.</p>
+        <p><strong>SAT 与药物筛选研发方向</strong></p>
+        <p>作为项目负责人推进 AI 驱动 Silica Affinity Tag（SAT）与相关药筛技术探索。</p>
       </div>
       <div class="item">
-        <p><strong>OCTA 3D vessel denoising and imaging track</strong></p>
-        <p>Project lead for OCTA-based 3D vessel artifact reduction and imaging technology, with patent work in progress.</p>
+        <p><strong>OCTA 三维血管去伪影与成像方向</strong></p>
+        <p>作为项目负责人推进 OCTA 三维血管成像与去伪影技术，相关专利工作在进行中。</p>
       </div>
     </section>
 
