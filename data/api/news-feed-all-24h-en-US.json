@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773841518817,
-  "crawlUpdatedAt": 1773841518817,
+  "updatedAt": 1773846876599,
+  "crawlUpdatedAt": 1773846876599,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,308 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TWFjeSZhcG9zO3Mgc3Rv",
-      "title": "Macy&apos;s store revamp shows progress, but company expects sales to fall this year",
+      "id": "CNBC Markets-T2lsIHByaWNlcyB0b3Ag",
+      "title": "Oil prices top $109 after Iran threatens oil facilities in Saudi Arabia, UAE and Qatar",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html",
+      "url": "https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773841317000,
+      "publishedAt": 1773846729000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks turn lower amid upcoming Fed decision, ongoing Iran conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-open-higher-amid-upcoming-fed-decision-ongoing-iran-conflict-4567694",
+      "source": "Investing.com News",
+      "publishedAt": 1773845784000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgc2VjdXJpdHkgYWR2",
+      "title": "UK security adviser was not part of final US-Iran talks, says Starmer’s spokesperson",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/uk-security-adviser-was-not-part-of-final-usiran-talks-says-starmers-spokesperson-4568767",
+      "source": "Investing.com News",
+      "publishedAt": 1773845730000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZmFjdG9yeSBvcmRl",
+      "title": "US factory orders barely rise in January",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/us-factory-orders-barely-rise-in-january-4568766",
+      "source": "Investing.com News",
+      "publishedAt": 1773845710000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIFJlcHVibGljYW4g",
+      "title": "Top Republican calls out Trump’s Homeland nominee over inflammatory rhetoric",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trumps-homeland-nominee-testifies-before-senate-panel-with-immigration-under-spotlight-4567826",
+      "source": "Investing.com News",
+      "publishedAt": 1773845694000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFuayBvZiBDYW5hZGEg",
+      "title": "Bank of Canada holds rates, would hike to prevent persistent inflation",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bank-of-canada-holds-rates-says-it-would-hike-them-to-prevent-persistent-inflation-4568634",
+      "source": "Investing.com News",
+      "publishedAt": 1773845674000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTkVXTU9O",
+      "title": "Form 144 NEWMONT Corp /DE/ For: 18 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-newmont-corp-de-for-18-march-93CH-4568765",
+      "source": "Investing.com News",
+      "publishedAt": 1773845655000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: One Stop Systems beats Q4 2025 EPS forecast",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-one-stop-systems-beats-q4-2025-eps-forecast-93CH-4568764",
+      "source": "Investing.com News",
+      "publishedAt": 1773845628000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Alvopetro Energy Q4 2025 shows strong growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alvopetro-energy-q4-2025-shows-strong-growth-93CH-4568763",
+      "source": "Investing.com News",
+      "publishedAt": 1773845446000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Tecogen Inc. Q4 2025 reports wider loss, stock drops",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tecogen-inc-q4-2025-reports-wider-loss-stock-drops-93CH-4568762",
+      "source": "Investing.com News",
+      "publishedAt": 1773845404000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1XaGljaCBr",
+      "title": "Factbox-Which key Iranian figures have been killed in US-Israeli strikes?",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/factboxwhich-key-iranian-figures-have-been-killed-in-usisraeli-strikes-4568101",
+      "source": "Investing.com News",
+      "publishedAt": 1773845363000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgd2FpdmVzIFUu",
+      "title": "Trump waives U.S. shipping law for 60 days to steady oil market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773845142000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGlzbmV5IGVtYmFya3Mg",
+      "title": "Disney embarks on new chapter as Josh D&apos;Amaro takes over as CEO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773845117000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXhwZWN0YXRpb25zIGZv",
+      "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773845045000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IHRoZSByZWQtaG90",
+      "title": "How the red-hot AI data center boom is igniting demand for a new, lucrative career path: trade workers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773844679000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFjeSZhcG9zO3Mgc3Rv",
+      "title": "Macy&apos;s store revamp shows progress, but company expects sales to fall this year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773844371000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXNyYWVsIHNheXMgaXQg",
+      "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773843685000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TXVsbGluIGFuZCBQYXVs",
+      "title": "Mullin and Paul get off to testy start at DHS confirmation hearing: &apos;We just don&apos;t get along&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/markwayne-mullin-dhs-confirmation-senate-immigration.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773843094000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2xvYmFsIGhlZGdlIGZ1",
+      "title": "Global hedge funds suffer worst losses since &apos;liberation day&apos; on Iran war turmoil",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/hedge-funds-suffer-worst-losses-since-liberation-day-on-iran-war-turmoil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773842921000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmHigJlzIOKAmEFJ",
+      "title": "China’s ‘AI tigers’ see shares surge after Nvidia CEO touts OpenClaw as ‘next ChatGPT’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773842866000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -43,186 +333,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyB0b3Ag",
-      "title": "Oil prices top $108 on report Israel bombed natural gas infrastructure in Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773840920000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T25kYXMgZm9ybXMgR2Vy",
-      "title": "Ondas forms German joint venture for drone defense systems",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ondas-forms-german-joint-venture-for-drone-defense-systems-93CH-4568537",
-      "source": "Investing.com News",
-      "publishedAt": 1773840299000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SWxsdW1pbmEgYW5kIExh",
-      "title": "Illumina and Labcorp expand cancer testing collaboration",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/illumina-and-labcorp-expand-cancer-testing-collaboration-93CH-4568536",
-      "source": "Investing.com News",
-      "publishedAt": 1773840295000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-US9DIFRlY2hub2xvZ2ll",
-      "title": "Q/C Technologies launches optical computing chip initiative",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/qc-technologies-launches-optical-computing-chip-initiative-93CH-4568535",
-      "source": "Investing.com News",
-      "publishedAt": 1773840291000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmluZ2VyTW90aW9uIHRv",
-      "title": "FingerMotion to acquire Telforge for up to 7.3M shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/fingermotion-to-acquire-telforge-for-up-to-73m-shares-93CH-4568534",
-      "source": "Investing.com News",
-      "publishedAt": 1773840286000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-THVsdWxlbW9uIGZvdW5k",
-      "title": "Lululemon founder Wilson backs director exit, presses for board overhaul",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lululemon-ceo-void-keeps-investors-on-edge-as-levis-veteran-tapped-for-board-4567890",
-      "source": "Investing.com News",
-      "publishedAt": 1773840285000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgaGFzIGZ1bGwg",
-      "title": "Trump has full confidence in Gabbard, Leavitt says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-has-full-confidence-in-gabbard-leavitt-says-4568533",
-      "source": "Investing.com News",
-      "publishedAt": 1773840271000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Macy’s Q4 2025 earnings beat forecasts, shares surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-macys-q4-2025-earnings-beat-forecasts-shares-surge-93CH-4568532",
-      "source": "Investing.com News",
-      "publishedAt": 1773840235000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2xhcmtzb25zIGFjcXVp",
-      "title": "Clarksons acquires US oil brokerage Link Group for $80 million",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/clarksons-acquires-us-oil-brokerage-link-group-for-80-million-93CH-4568531",
-      "source": "Investing.com News",
-      "publishedAt": 1773840231000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T25kYXMgSW5jLiBmaWxl",
-      "title": "Ondas Inc. files prospectus supplement for resale of shares tied to Bird Aerosystems acquisition",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/ondas-inc-files-prospectus-supplement-for-resale-of-shares-tied-to-bird-aerosystems-acquisition-93CH-4568530",
-      "source": "Investing.com News",
-      "publishedAt": 1773840176000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2lsbGlhbSBCbGFpciBy",
-      "title": "William Blair reiterates Outperform on Nvidia stock after GTC conference",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/william-blair-reiterates-outperform-on-nvidia-stock-after-gtc-conference-93CH-4568529",
-      "source": "Investing.com News",
-      "publishedAt": 1773840105000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXNyYWVsIHNheXMgaXQg",
-      "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773839750000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V05CQSBhbmQgcGxheWVy",
       "title": "WNBA and players&apos; union reach verbal agreement on landmark new CBA deal",
       "summary": "",
@@ -238,57 +348,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2hvbGVzYWxlIHByaWNl",
-      "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773839589000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiB3YXIgcG9zZXMg",
       "title": "Iran war poses challenges to high-margin Middle East car market",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/18/iran-war-poses-challenges-to-high-margin-middle-east-car-market.html",
       "source": "CNBC Markets",
       "publishedAt": 1773839505000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRoZSByZWQtaG90",
-      "title": "How the red-hot AI data center boom is igniting demand for a new, lucrative career path: trade workers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773839307000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGlzbmV5IGVtYmFya3Mg",
-      "title": "Disney embarks on new chapter as Josh D&apos;Amaro takes over as CEO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773839042000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -342,21 +407,6 @@
         "FED"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-REhTIG5vbWluZWUgTWFy",
-      "title": "DHS nominee Markwayne Mullin gets Senate hearing Wednesday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/markwayne-mullin-dhs-confirmation-senate-immigration.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773837148000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -462,51 +512,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSZhcG9zO3MgTWFu",
-      "title": "Meta&apos;s Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773821076000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmHigJlzIOKAmEFJ",
-      "title": "China’s ‘AI tigers’ see shares surge after Nvidia CEO touts OpenClaw as ‘next ChatGPT’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773820061000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2xvYmFsIGhlZGdlIGZ1",
-      "title": "Global hedge funds suffer worst losses since &apos;liberation day&apos; on Iran war turmoil",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/hedge-funds-suffer-worst-losses-since-liberation-day-on-iran-war-turmoil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773813567000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
