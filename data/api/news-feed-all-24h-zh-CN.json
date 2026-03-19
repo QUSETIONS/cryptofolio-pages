@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1773920565962,
-  "crawlUpdatedAt": 1773920565962,
-  "crawlCount": 40,
+  "updatedAt": 1773926724364,
+  "crawlUpdatedAt": 1773926724364,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIGJyaWVmbHkgaGl0",
-      "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+      "id": "CNBC Markets-R29sZCBhbmQgc2lsdmVy",
+      "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773920352000,
+      "publishedAt": 1773926571000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gQ2VudHJh",
+      "title": "European Central Bank holds rates steady, warns outlook is &apos;significantly more uncertain&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773926327000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VWJlciB0byBpbnZlc3Qg",
+      "title": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773926291000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,15 +60,184 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIElyYW4gd2FyIGlz",
-      "title": "The Iran war is adding to Europe&apos;s central banks rate-decision headaches",
+      "id": "CNBC Markets-SGVnc2V0aCBzYXlzIHBv",
+      "title": "Hegseth says potential $200 billion Iran war spending request could shift: &apos;Takes money to kill bad guys&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+      "url": "https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773920214000,
+      "publishedAt": 1773926240000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
+      "title": "JPMorgan Chase taps A&apos;ja Wilson, Tom Brady for new athlete wealth management push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773926232000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5mdVN5c3RlbSBIb2xk",
+      "title": "InfuSystem Holdings appoints Grant Thornton as new auditor, replacing Deloitte",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/infusystem-holdings-appoints-grant-thornton-as-new-auditor-replacing-deloitte-93CH-4570778",
+      "source": "Investing.com News",
+      "publishedAt": 1773926071000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdCBzZXQgdG8g",
+      "title": "Wall St set to open lower as soaring oil prices, Fed caution rattle investors",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-dip-as-soaring-oil-prices-fed-outlook-spook-investors-4570046",
+      "source": "Investing.com News",
+      "publishedAt": 1773926001000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljcm9uIHNoYXJlcyBz",
+      "title": "Micron shares slip as hefty spending plans eclipse strong AI-fueled earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/micron-shares-slip-as-hefty-spending-plans-eclipse-strong-aifueled-earnings-4569945",
+      "source": "Investing.com News",
+      "publishedAt": 1773925986000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2sgUm9jayBDb2Zm",
+      "title": "Black Rock Coffee Bar opens 13th Dallas location in Frisco",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/black-rock-coffee-bar-opens-13th-dallas-location-in-frisco-93CH-4570777",
+      "source": "Investing.com News",
+      "publishedAt": 1773925970000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2FsbHkgQmVhdXR5IGxh",
+      "title": "Sally Beauty launches on TikTok Shop with over 1,000 products",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/sally-beauty-launches-on-tiktok-shop-with-over-1000-products-93CH-4570776",
+      "source": "Investing.com News",
+      "publishedAt": 1773925969000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW5lcmd5IHByaWNlcyBz",
+      "title": "Energy prices surge as Iran targets Gulf energy facilities after Israel struck its key gas field",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/iran-targets-energy-facilities-across-gulf-after-israel-struck-its-key-gas-installations-4570640",
+      "source": "Investing.com News",
+      "publishedAt": 1773925969000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RlZDQmFua2NvcnAgZGly",
+      "title": "FVCBankcorp director Wills sells $169,706 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/fvcbankcorp-director-wills-sells-169706-in-stock-93CH-4570775",
+      "source": "Investing.com News",
+      "publishedAt": 1773925968000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hlY2sgUG9pbnQgU29m",
+      "title": "Check Point Software forms executive advisory board",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/check-point-software-forms-executive-advisory-board-93CH-4570774",
+      "source": "Investing.com News",
+      "publishedAt": 1773925967000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2F1enkgYXBwb2ludHMg",
+      "title": "Gauzy appoints Joseph Tenne to board, regains Nasdaq compliance",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/gauzy-appoints-joseph-tenne-to-board-regains-nasdaq-compliance-93CH-4570773",
+      "source": "Investing.com News",
+      "publishedAt": 1773925965000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9vckRhc2ggcGFydG5l",
+      "title": "DoorDash partners with Foot Locker for on-demand delivery",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/doordash-partners-with-foot-locker-for-ondemand-delivery-93CH-4570772",
+      "source": "Investing.com News",
+      "publishedAt": 1773925964000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -48,7 +249,97 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773919598000,
+      "publishedAt": 1773925909000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGJyaWVmbHkgaGl0",
+      "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773925824000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773925160000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgd2FybnMgd2ls",
+      "title": "Trump warns will &apos;blow up&apos; South Pars gas field in Iran if strikes against Qatar energy continue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773924506000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIERI",
+      "title": "Trump&apos;s DHS pick Markwayne Mullin to get Senate committee vote",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773922257000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxpIExpbGx54oCZcyBu",
+      "title": "Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773921974000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxpYmFiYSByZXZlbnVl",
+      "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773921137000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -71,156 +362,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBBbHZvdGVj",
-      "title": "Form 6K Alvotech For: 19 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-alvotech-for-19-march-93CH-4570350",
-      "source": "Investing.com News",
-      "publishedAt": 1773919374000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBBcmNvcyBE",
-      "title": "Form 6K Arcos Dorados Holdings Inc For: 19 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-arcos-dorados-holdings-inc-for-19-march-93CH-4570349",
-      "source": "Investing.com News",
-      "publishedAt": 1773919369000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBJbm5hdGUg",
-      "title": "Form 6K Innate Pharma For: 19 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-innate-pharma-for-19-march-93CH-4570348",
-      "source": "Investing.com News",
-      "publishedAt": 1773919367000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RUtGIERpYWdub3N0aWNz",
-      "title": "EKF Diagnostics buys back 142,000 shares at 25p each",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ekf-diagnostics-buys-back-142000-shares-at-25p-each-93CH-4570347",
-      "source": "Investing.com News",
-      "publishedAt": 1773919362000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVzdGluYXRpb24gWEwg",
-      "title": "Destination XL Group earnings missed by $0.08, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/destination-xl-group-earnings-missed-by-008-revenue-fell-short-of-estimates-4570346",
-      "source": "Investing.com News",
-      "publishedAt": 1773919334000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSByZWl0",
-      "title": "Guggenheim reiterates Johnson & Johnson stock rating on FDA approval",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-johnson--johnson-stock-rating-on-fda-approval-93CH-4570345",
-      "source": "Investing.com News",
-      "publishedAt": 1773919300000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxpZ24gVGVjaG5vbG9n",
-      "title": "Align Technology stock jumps on Elliott Investment stake report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/align-technology-stock-jumps-on-elliott-investment-stake-report-93CH-4570344",
-      "source": "Investing.com News",
-      "publishedAt": 1773919288000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgTmF0dXJhbCBS",
-      "title": "China Natural Resources signs LOI to acquire stake in AI firm",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/china-natural-resources-signs-loi-to-acquire-stake-in-ai-firm-93CH-4570343",
-      "source": "Investing.com News",
-      "publishedAt": 1773919286000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEFm",
-      "title": "Form DEF 14A Aflac Incorporated For: 19 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-aflac-incorporated-for-19-march-93CH-4570342",
-      "source": "Investing.com News",
-      "publishedAt": 1773919281000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW92YWRvIEdyb3VwIGJl",
-      "title": "Movado Group beats revenue but misses profit estimates in Q4 amid tariff pressures",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/movado-group-beats-revenue-but-misses-profit-estimates-in-q4-amid-tariff-pressures-93CH-4570337",
-      "source": "Investing.com News",
-      "publishedAt": 1773919189000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -254,53 +395,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R29sZCBhbmQgc2lsdmVy",
-      "title": "Gold and silver sell off as inflation fears grip global markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773917239000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxpIExpbGx54oCZcyBu",
-      "title": "Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773917101000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxpYmFiYSByZXZlbnVl",
-      "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773916278000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SERGQyBCYW5rIHNoYXJl",
       "title": "HDFC Bank shares fall over 5% as part-time chair of India’s largest private bank resigns over &apos;ethics&apos;",
       "summary": "",
@@ -313,21 +407,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2FybnMgd2ls",
-      "title": "Trump warns will &apos;blow up&apos; South Pars gas field in Iran if strikes against Qatar energy continue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773914695000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -438,21 +517,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1hem9uIHNheXMgVS5T",
-      "title": "Amazon says U.S. Postal Service &apos;walked away at the eleventh hour&apos; in negotiations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773866408000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW5hbHlzaXM6IFRoZSBG",
       "title": "Analysis: The Fed&apos;s Powell just delivered a new blow to Warsh&apos;s plans for swift rate cuts",
       "summary": "",
@@ -470,21 +534,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
-      "title": "JPMorgan Chase taps Dwyane Wade, Tom Brady for new athlete wealth management push",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773864924000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VmljZSBQcmVzaWRlbnQg",
       "title": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
       "summary": "",
@@ -497,38 +546,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG93ZWxsIHNheXMgaGUg",
-      "title": "Powell says he will stay on as head of the Fed until Warsh is confirmed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/powell-says-he-will-stay-on-as-head-of-the-fed-until-warsh-is-confirmed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773864576000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVhbHRoeSBSZXR1cm5z",
-      "title": "Healthy Returns: Stopping GLP-1s raises risk of heart attack, stroke and death, study says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/stopping-glp-1s-raises-cardiovascular-risks-study.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773863967000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -591,36 +608,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXNyYWVsIHNheXMgaXQg",
-      "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773850569000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXQmYXBvcztzIG5vdCBq",
-      "title": "It&apos;s not just oil: Aluminum prices have surged as Iran conflict chokes supply",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773838109000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
