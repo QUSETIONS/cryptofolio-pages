@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773877050677,
-  "crawlUpdatedAt": 1773877050677,
+  "updatedAt": 1773889005539,
+  "crawlUpdatedAt": 1773889005539,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Rm9ybSAxM0cgUG9ubyBD",
-      "title": "Form 13G Pono Capital Four For: 18 March",
+      "id": "CNBC Markets-QmFuayBvZiBKYXBhbiBr",
+      "title": "Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-pono-capital-four-for-18-march-93CH-4569605",
+      "url": "https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773888866000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TXVzayBzYXlzIFNwYWNl",
+      "title": "Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-at-scale-4569708",
       "source": "Investing.com News",
-      "publishedAt": 1773875760000,
+      "publishedAt": 1773888145000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEpC",
-      "title": "Form DEF 14A JBG SMITH PROPERTIES For: 18 March",
+      "id": "Investing.com News-UmV2aXZhIFBoYXJtYWNl",
+      "title": "Reviva Pharmaceuticals prices $10M public offering at $1.50",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-jbg-smith-properties-for-18-march-93CH-4569604",
+      "url": "https://www.investing.com/news/company-news/reviva-pharmaceuticals-prices-10m-public-offering-at-150-93CH-4569724",
       "source": "Investing.com News",
-      "publishedAt": 1773875753000,
+      "publishedAt": 1773888124000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBTcGVj",
-      "title": "Form 13D/A Spectral AI For: 18 March",
+      "id": "Investing.com News-QXBwbGXigJlzIENoaW5h",
+      "title": "Apple’s China smartphone sales jump 23% to start 2026, bucking industry trend",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-spectral-ai-for-18-march-93CH-4569603",
+      "url": "https://www.investing.com/news/stock-market-news/apples-china-smartphone-sales-jump-23-to-start-2026-bucking-industry-trend-4569722",
       "source": "Investing.com News",
-      "publishedAt": 1773875742000,
+      "publishedAt": 1773887117000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +73,44 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgU291dGhl",
-      "title": "Form 144 Southern Company For: 18 March",
+      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBl",
+      "title": "Australia’s employment jumps in February, jobless rate still rises",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-southern-company-for-18-march-93CH-4569602",
+      "url": "https://www.investing.com/news/economy-news/australias-employment-jumps-in-february-jobless-rate-still-rises-4569721",
       "source": "Investing.com News",
-      "publishedAt": 1773875737000,
+      "publishedAt": 1773887097000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBwcmljZXMgcmlz",
+      "title": "Gold prices rise but still pinned below $4,900/oz amid inflation, Iran uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-prices-rise-but-still-pinned-below-4900oz-amid-inflation-iran-uncertainty-4569720",
+      "source": "Investing.com News",
+      "publishedAt": 1773886876000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RE9KIHJlamVjdHMgcG9s",
+      "title": "DOJ rejects political bias in Paramount-Warner Bros deal review - Reuters",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/doj-rejects-political-bias-in-paramountwarner-bros-deal-review--reuters-4569719",
+      "source": "Investing.com News",
+      "publishedAt": 1773886805000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +120,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgZW5k",
-      "title": "Wall Street ends sharply lower after Fed keeps rates unchanged",
+      "id": "Investing.com News-QWx2b3RlY2ggZWFybmlu",
+      "title": "Alvotech earnings beat by $0.11, revenue topped estimates",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/wall-st-futures-gain-as-oil-prices-slip-focus-on-fed-outlook-4567793",
+      "url": "https://www.investing.com/news/earnings/alvotech-earnings-beat-by-011-revenue-topped-estimates-4569718",
       "source": "Investing.com News",
-      "publishedAt": 1773875552000,
+      "publishedAt": 1773886754000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkLCBCb0Mgc3RyaWtl",
+      "title": "Fed, BoC strike hawkish tones as top central banks convene in war’s shadow",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/fed-boc-strike-hawkish-tones-as-top-central-banks-convene-in-wars-shadow-4569618",
+      "source": "Investing.com News",
+      "publishedAt": 1773886348000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -86,16 +148,16 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEh1",
-      "title": "Form DEF 14A Hubbell Inc For: 18 March",
+      "id": "Investing.com News-U3BhY2VYLCBUZXNsYSB0",
+      "title": "SpaceX, Tesla to continue ordering Nvidia chips at scale- Musk",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-hubbell-inc-for-18-march-93CH-4569601",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-tesla-to-continue-ordering-nvidia-chips-at-scale-musk-4569717",
       "source": "Investing.com News",
-      "publishedAt": 1773875541000,
+      "publishedAt": 1773886189000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -105,12 +167,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VmF4Y3l0ZSBTVlAsIGZp",
-      "title": "Vaxcyte SVP, finance & CAO Cowan sells $105k in stock",
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBOZXd0",
+      "title": "Form 13D/A Newton Golf Company For: 18 March",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/vaxcyte-svp-finance--cao-cowan-sells-105k-in-stock-93CH-4569600",
+      "url": "https://www.investing.com/news/filings/form-13da-newton-golf-company-for-18-march-93CH-4569716",
       "source": "Investing.com News",
-      "publishedAt": 1773875436000,
+      "publishedAt": 1773885800000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -120,12 +182,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2xlbyBGaWVsZHMgZnJv",
-      "title": "Cleo Fields from Louisiana’s 6th district invests in Microsoft Corporation",
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
+      "title": "Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ rate decision on deck",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/cleo-fields-from-louisianas-6th-district-invests-in-microsoft-corporation-93CH-4569599",
-      "source": "Investing.com News",
-      "publishedAt": 1773875407000,
+      "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773885072000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGp1bXBzIDQlIGFz",
+      "title": "Oil jumps 4% as Iranian retaliatory strikes on Qatar’s key energy facility stoke supply worries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773884154000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IENoaW5hIGlzIGdl",
+      "title": "How China is getting everyone on OpenClaw, from gearheads to grandmas",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773884079000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -135,12 +227,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFVO",
-      "title": "Form DEF 14A UNITED BANCORP For: 18 March",
+      "id": "CNBC Markets-SXJhbiBtaXNzaWxlIGF0",
+      "title": "Iran missile attack on Qatar causes &apos;extensive damage&apos; to facility housing huge gas plant",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-united-bancorp-for-18-march-93CH-4569598",
-      "source": "Investing.com News",
-      "publishedAt": 1773875359000,
+      "url": "https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773878745000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,12 +242,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmVhbCBEdW5uIHRyYWRl",
-      "title": "Neal Dunn trades in Cadence Bank for Huntington Bancshares in IRA account",
+      "id": "CNBC Markets-QSBMYWJ1YnUgbW92aWUg",
+      "title": "A Labubu movie is on its way as Pop Mart expands the iconic toy franchise",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/neal-dunn-trades-in-cadence-bank-for-huntington-bancshares-in-ira-account-93CH-4569597",
-      "source": "Investing.com News",
-      "publishedAt": 1773875344000,
+      "url": "https://www.cnbc.com/2026/03/18/a-labubu-movie-is-on-its-way-as-pop-mart-expands-the-toy-franchise.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773878461000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -180,42 +272,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiBtaXNzaWxlIGF0",
-      "title": "Iran missile attack on Qatar causes &apos;extensive damage&apos; to facility housing huge gas plant",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773873766000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWljcm9uIHJldmVudWUg",
       "title": "Micron revenue almost triples, tops estimates as demand for memory soars",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
       "source": "CNBC Markets",
       "publishedAt": 1773873077000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IENoaW5hIGlzIGdl",
-      "title": "How China is getting everyone on OpenClaw, from gearheads to grandmas",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773869772000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -416,21 +478,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyB0b3Ag",
-      "title": "Oil prices top $107 after Iran threatens oil facilities in Saudi Arabia, UAE and Qatar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773860106000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QUksIGNyeXB0byBpbmR1",
       "title": "AI, crypto industries dump millions into Illinois primaries to mixed results",
       "summary": "",
@@ -467,21 +514,6 @@
       "url": "https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html",
       "source": "CNBC Markets",
       "publishedAt": 1773854254000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V05CQSBhbmQgcGxheWVy",
-      "title": "WNBA and players&apos; union reach verbal agreement on landmark new CBA deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773853813000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -593,38 +625,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXQmYXBvcztzIG5vdCBq",
-      "title": "It&apos;s not just oil: Aluminum prices have surged as Iran conflict chokes supply",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773838109000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIHRvIHN0aWxsIGN1",
-      "title": "Fed to still cut rates this year, even as high oil prices spark an uptick in inflation: CNBC Fed Survey",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773837296000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
