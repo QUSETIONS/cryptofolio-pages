@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773896502299,
-  "crawlUpdatedAt": 1773896502299,
+  "updatedAt": 1773902141539,
+  "crawlUpdatedAt": 1773902141539,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,31 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SnVkZ2UgZW5kcyBhc3ls",
-      "title": "Judge ends asylum claim of Minnesotan boy detained by ICE, report says",
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSB0",
+      "title": "Bitcoin price today: slides below $71k as traders pare Fed cut bets",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/judge-ends-asylum-claim-of-minnesotan-boy-detained-by-ice-report-says-4569741",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slides-below-71k-as-traders-pare-fed-cut-bets-4569793",
       "source": "Investing.com News",
-      "publishedAt": 1773896074000,
+      "publishedAt": 1773901870000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF0aW9uYWwgQUcgbWFy",
+      "title": "Rational AG margin holds flat in 2025 despite €13 mln U.S. tariff hit",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/rational-ag-margin-holds-flat-in-2025-despite-13-mln-us-tariff-hit-4569792",
+      "source": "Investing.com News",
+      "publishedAt": 1773901834000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,18 +47,258 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgdm93cyBubyBt",
-      "title": "Trump vows no more attacks by Israel on Iran gas field after it ’violently lashed out’",
+      "id": "Investing.com News-VVMgZXhwbG9yZWQgbGlu",
+      "title": "US explored linking Hormuz naval escorts to government insurance- FT",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-vows-no-more-attacks-by-israel-on-iran-gas-field-after-it-violently-lashed-out-4569734",
+      "url": "https://www.investing.com/news/stock-market-news/us-explored-linking-hormuz-naval-escorts-to-government-insurance-ft-93CH-4569789",
       "source": "Investing.com News",
-      "publishedAt": 1773895750000,
+      "publishedAt": 1773901568000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgd2FybnMgdG8g",
+      "title": "Trump warns to &apos;blow up&apos; South Pars gas field in Iran if strikes against Qatar energy continue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773901250000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhhaWxhbmTigJlzIEFu",
+      "title": "Thailand’s Anutin reelected PM after crushing rival in parliamentary vote",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/thailands-anutin-reelected-pm-after-crushing-rival-in-parliamentary-vote-4569776",
+      "source": "Investing.com News",
+      "publishedAt": 1773901110000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmFuayBvZiBKYXBhbiBr",
+      "title": "Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773900970000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets set to slump at the open as Iran war intensifies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773900768000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhhaWxhbmTigJlzIEFu",
+      "title": "Thailand’s Anutin returns to power with broad backing and nationalist push",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/thailands-anutin-returns-to-power-with-broad-backing-and-nationalist-push-4569775",
+      "source": "Investing.com News",
+      "publishedAt": 1773900747000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5QmFuYyBOYW1lcyBC",
+      "title": "KeyBanc Names Best Oil Stocks to Buy as Crude Surges Past $80 a Barrel",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/keybanc-names-best-oil-stocks-to-buy-as-crude-surges-past-80-a-barrel-93CH-4569774",
+      "source": "Investing.com News",
+      "publishedAt": 1773900460000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGFpd2FuIHN0b2NrcyBo",
+      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.48%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-148-4569773",
+      "source": "Investing.com News",
+      "publishedAt": 1773900303000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpcCBidXllcnMgaW4g",
+      "title": "Chip buyers in Europe are paying more and tapping backup stores as Iran war hits air freight",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773900209000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlJmFwb3M7cyBj",
+      "title": "Europe&apos;s central banks are no longer in a &apos;good place&apos; as Iran war upends forecasts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773900055000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFwYW4gcmVqZWN0cyBV",
+      "title": "Japan rejects U.S. intel assessment that Takaichi&apos;s Taiwan remarks represent &apos;significant shift&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/japan-rejects-us-intelligence-taiwan-policy-shift-takaichi-energy-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773899939000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWlnaHQgc3RhdGVzIHN1",
+      "title": "Eight states sue to block Nexstar’s plan to acquire rival Tegna",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/eight-states-sue-to-block-nexstars-plan-to-acquire-rival-tegna-4569753",
+      "source": "Investing.com News",
+      "publishedAt": 1773899671000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYSB0ZWNoIHN0b2Nr",
+      "title": "Asia tech stocks sink as oil spike and Qatar attacks threaten chip supply chain",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/tech-stocks-qatar-attack-semiconductor-supply-chain-lng-helium.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773899251000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFsYXlzaWHigJlzIGV4",
+      "title": "Malaysia’s exports rise 10.8% in February on manufactured goods demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/malaysias-exports-rise-108-in-february-on-manufactured-goods-demand-93CH-4569752",
+      "source": "Investing.com News",
+      "publishedAt": 1773899242000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SERGQyBCYW5rIHNoYXJl",
+      "title": "HDFC Bank shares fall 5% as part-time chair of India’s largest private bank resigns over &apos;ethics&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773898957000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVuY2VudCBzaGFyZXMg",
+      "title": "Tencent shares slide as AI spending plans overshadow strong Q4 earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tencent-shares-slide-as-ai-spending-plans-overshadow-strong-q4-earnings-4569751",
+      "source": "Investing.com News",
+      "publishedAt": 1773898884000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJlbnQganVtcHMgb3Zl",
+      "title": "Brent jumps over 4% as Iranian retaliatory strikes on Qatar’s key energy facility stoke supply worries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773897032000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -52,111 +311,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0b3JzIHJlYWN0",
-      "title": "Investors react to BOJ’s decision to hold rates",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/investors-react-to-bojs-decision-to-hold-rates-4569728",
-      "source": "Investing.com News",
-      "publishedAt": 1773895379000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgc2V0IHRvIGtl",
-      "title": "China set to keep rates steady as Mideast war clouds inflation outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/china-set-to-keep-rates-steady-as-mideast-war-clouds-inflation-outlook-4569740",
-      "source": "Investing.com News",
-      "publishedAt": 1773895007000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SERGQyBCYW5rIHNoYXJl",
-      "title": "HDFC Bank shares fall 5% as part-time chair of India’s largest private bank resigns over &apos;ethics&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773894967000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHJpc2VzIGFmdGVy",
-      "title": "Oil rises after Iran strikes Middle East energy facilities",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-3-after-iran-strikes-middle-east-energy-facilities-4569714",
-      "source": "Investing.com News",
-      "publishedAt": 1773894627000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T0ZTIENyZWRpdCBlYXJu",
-      "title": "OFS Credit earnings missed by $1.13, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/ofs-credit-earnings-missed-by-113-revenue-fell-short-of-estimates-4569739",
-      "source": "Investing.com News",
-      "publishedAt": 1773894222000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens to ’blow up’ South Pars gas field if Iran attacks Qatar again",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-threatens-to-blow-up-south-pars-gas-field-if-iran-attacks-qatar-again-4569738",
-      "source": "Investing.com News",
-      "publishedAt": 1773894092000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3Rva2UgVGhlcmFwZXV0",
-      "title": "Stoke Therapeutics earnings missed by $0.21, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/stoke-therapeutics-earnings-missed-by-021-revenue-fell-short-of-estimates-4569737",
-      "source": "Investing.com News",
-      "publishedAt": 1773893958000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -177,68 +331,6 @@
         "XAU"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9yZ1dhcm5lciBhdCBC",
-      "title": "BorgWarner at Bank of America Summit: Adapting to Market Shifts",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/borgwarner-at-bank-of-america-summit-adapting-to-market-shifts-93CH-4569736",
-      "source": "Investing.com News",
-      "publishedAt": 1773892898000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBGWCBtdXRlZCBh",
-      "title": "Asia FX muted as Fed, Iran jitters boost dollar; yen steady after BOJ holds",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-muted-as-fed-iran-jitters-boost-dollar-yen-steady-after-boj-holds-4569735",
-      "source": "Investing.com News",
-      "publishedAt": 1773892894000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2FybnMgdG8g",
-      "title": "Trump warns to &apos;blow up&apos; South Pars gas field in Iran if strikes against Qatar energy continue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773891477000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFuayBvZiBKYXBhbiBr",
-      "title": "Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773889990000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -273,21 +365,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGp1bXBzIDQlIGFz",
-      "title": "Oil jumps 4% as Iranian retaliatory strikes on Qatar’s key energy facility stoke supply worries",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773884154000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -413,21 +490,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVhbHRoeSBSZXR1cm5z",
-      "title": "Healthy Returns: Stopping GLP-1s raises risk of heart attack, stroke and death, study says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/stopping-glp-1s-raises-cardiovascular-risks-study.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773863967000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgd2FpdmVzIEpv",
       "title": "Trump waives Jones Act shipping rules for 60 days to steady oil market",
       "summary": "",
@@ -523,21 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RkRBIGFwcHJvdmVzIHBz",
-      "title": "FDA approves psoriasis pill from J&J that rivals shots Tremfya, Skyrizi",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773854254000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXMgQW1lcmljYW5zIHN0",
       "title": "As Americans struggle with rising costs, many states’ unemployment benefits fall short, analysis finds",
       "summary": "",
@@ -568,63 +615,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSBpcyBzaHV0dGlu",
-      "title": "Meta is shutting down VR social platform Horizon Worlds in further pivot away from the metaverse",
+      "id": "CNBC Markets-SXQmYXBvcztzIG5vdCBq",
+      "title": "It&apos;s not just oil: Aluminum prices have surged as Iran conflict chokes supply",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html",
+      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773850325000,
+      "publishedAt": 1773838109000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSB3aWxsIHBheSBJ",
-      "title": "Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773849601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZmZpYyBpcyB0cmlj",
-      "title": "Traffic is trickling through Strait of Hormuz: Who&apos;s moving and who&apos;s stranded",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773849372000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiB3YXIgcG9zZXMg",
-      "title": "Iran war poses challenges to high-margin Middle East car market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/iran-war-poses-challenges-to-high-margin-middle-east-car-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773839505000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
