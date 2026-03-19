@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773906748734,
-  "crawlUpdatedAt": 1773906748734,
+  "updatedAt": 1773910509374,
+  "crawlUpdatedAt": 1773910509374,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,177 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QnJlbnQgY3J1ZGUgdXAg",
-      "title": "Brent crude up 6%, gas prices soar 30% after attacks on energy facilities in Qatar, Iran",
+      "id": "CNBC Markets-QnJlbnQgaGl0cyAkMTE2",
+      "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773906431000,
+      "publishedAt": 1773910328000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets slump as Iran war intensifies; miners lead losses",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773909805000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGp1bXBzIGFib3Zl",
+      "title": "Oil jumps above $115/bbl after attacks on Mideast energy assets multiply",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-3-after-iran-strikes-middle-east-energy-facilities-4569714",
+      "source": "Investing.com News",
+      "publishedAt": 1773909405000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TXVzayBzYXlzIFRlc2xh",
+      "title": "Musk says Tesla may ’tape out’ next-generation AI6 chips in December",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-tesla-may-tape-out-nextgeneration-ai6-chips-in-december-4569918",
+      "source": "Investing.com News",
+      "publishedAt": 1773909387000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpcCBidXllcnMgaW4g",
+      "title": "Chip buyers in Europe are paying more and tapping backup stores as Iran war hits air freight",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773909268000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um90aHNjaGlsZCBSZWRi",
+      "title": "Rothschild Redburn upgrades Moonlake stock on regulatory clarity",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-upgrades-moonlake-stock-on-regulatory-clarity-93CH-4569925",
+      "source": "Investing.com News",
+      "publishedAt": 1773909202000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBk",
+      "title": "Raymond James downgrades Xponential Fitness stock rating on Club Pilates weakness",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-xponential-fitness-stock-rating-on-club-pilates-weakness-93CH-4569924",
+      "source": "Investing.com News",
+      "publishedAt": 1773909186000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
+      "title": "European shares decline as Mideast war worsens, focus shifts to ECB decision",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision-4569919",
+      "source": "Investing.com News",
+      "publishedAt": 1773909087000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIGNlbnRyYWwgYmFu",
+      "title": "Top central banks strike hawkish tone as they convene in war’s shadow",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/fed-boc-strike-hawkish-tones-as-top-central-banks-convene-in-wars-shadow-4569618",
+      "source": "Investing.com News",
+      "publishedAt": 1773909054000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5kb25lc2lhIHN0b2Nr",
+      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.20%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-120-4569917",
+      "source": "Investing.com News",
+      "publishedAt": 1773909003000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
+      "title": "Raymond James raises Nvidia stock price target on GPU sales outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-nvidia-stock-price-target-on-gpu-sales-outlook-93CH-4569900",
+      "source": "Investing.com News",
+      "publishedAt": 1773908854000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlJmFwb3M7cyBj",
+      "title": "Europe&apos;s central banks are no longer in a &apos;good place&apos; as Iran war upends forecasts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773908730000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +198,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773906139000,
+      "publishedAt": 1773908501000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +208,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RUNCIHRvIHRhbGsgdG91",
-      "title": "ECB to talk tough as Iran war raises inflation fears",
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
+      "title": "Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ecb-to-talk-tough-as-iran-war-raises-inflation-fears-4569594",
-      "source": "Investing.com News",
-      "publishedAt": 1773905806000,
+      "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773908401000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -58,57 +223,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGFsYWNlIENhcGl0YWwg",
-      "title": "Palace Capital declares 3.75p dividend to clear rental profit balance",
+      "id": "Investing.com News-VHJ1bXDigJlzIGVudm95",
+      "title": "Trump’s envoy Coale meets Belarus leader Lukashenko, seeking to win more prisoner releases",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/palace-capital-declares-375p-dividend-to-clear-rental-profit-balance-93CH-4569862",
+      "url": "https://www.investing.com/news/world-news/trumps-envoy-coale-meets-belarus-leader-lukashenko-seeking-to-win-more-prisoner-releases-4569897",
       "source": "Investing.com News",
-      "publishedAt": 1773905781000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBoYXBwZW5zIG5l",
-      "title": "What happens next in Hormuz? ING outlines three scenarios",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/what-happens-next-in-hormuz-ing-outlines-three-scenarios-4569861",
-      "source": "Investing.com News",
-      "publishedAt": 1773905530000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UXVhZHJpc2UgYXBwb2lu",
-      "title": "Quadrise appoints Michael Covington as non-executive director",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/quadrise-appoints-michael-covington-as-nonexecutive-director-93CH-4569860",
-      "source": "Investing.com News",
-      "publishedAt": 1773905513000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJvbG9uZ2VkIElyYW4g",
-      "title": "Prolonged Iran crisis to push buyers to non-Mideast supply, JERA executive says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/prolonged-iran-crisis-to-push-buyers-to-nonmideast-supply-jera-executive-says-4569859",
-      "source": "Investing.com News",
-      "publishedAt": 1773905449000,
+      "publishedAt": 1773908324000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,78 +238,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUsgd2FnZXMgcmlzZSBh",
-      "title": "UK wages rise at slowest pace in over five years",
+      "id": "Investing.com News-Q2VudHJhbCBBc2lhIE1l",
+      "title": "Central Asia Metals 2025 revenue beats estimates on steady copper output",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/uk-wage-growth-slows-to-38-in-3-months-to-january-4569825",
+      "url": "https://www.investing.com/news/stock-market-news/central-asia-metals-2025-revenue-beats-estimates-on-steady-copper-output-93CH-4569896",
       "source": "Investing.com News",
-      "publishedAt": 1773905428000,
+      "publishedAt": 1773908311000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIGluaXRp",
-      "title": "Jefferies initiates Aligos Therapeutics stock rating at Buy on hepatitis B drug potential",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-aligos-therapeutics-stock-rating-at-buy-on-hepatitis-b-drug-potential-93CH-4569857",
-      "source": "Investing.com News",
-      "publishedAt": 1773905251000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm90c3dhbmEgTWluZXJh",
-      "title": "Botswana Minerals identifies copper and lead-zinc targets in AI study",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/botswana-minerals-identifies-copper-and-leadzinc-targets-in-ai-study-93CH-4569856",
-      "source": "Investing.com News",
-      "publishedAt": 1773905091000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGFueGVzcyByZXBvcnRz",
-      "title": "Lanxess reports fourth quarter earnings, issues 2026 guidance",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lanxess-reports-fourth-quarter-earnings-issues-2026-guidance-93CH-4569855",
-      "source": "Investing.com News",
-      "publishedAt": 1773905013000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJpc2l0eSBRNCBzYWxl",
-      "title": "Irisity Q4 sales jump as EBITDA loss narrows on restructuring",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/irisity-q4-sales-jump-as-ebitda-loss-narrows-on-restructuring-93CH-4569852",
-      "source": "Investing.com News",
-      "publishedAt": 1773904815000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -208,21 +268,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
-      "title": "Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773902780000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmFuayBvZiBKYXBhbiBr",
       "title": "Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation",
       "summary": "",
@@ -232,51 +277,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets set to slump at the open as Iran war intensifies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773900768000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpcCBidXllcnMgaW4g",
-      "title": "Chip buyers in Europe are paying more and tapping backup stores as Iran war hits air freight",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773900209000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlJmFwb3M7cyBj",
-      "title": "Europe&apos;s central banks are no longer in a &apos;good place&apos; as Iran war upends forecasts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773900055000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
