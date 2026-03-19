@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773954306754,
-  "crawlUpdatedAt": 1773954306754,
+  "updatedAt": 1773957421505,
+  "crawlUpdatedAt": 1773957421505,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RmVkRXggYmVhdHMgb24g",
+      "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773955636000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB3YXItaW5kdWNl",
+      "title": "Iran war-induced fertilizer shortage threatens Republicans in farm states ahead of midterms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773954854000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SGVyc2hleSBDRk8gVm9z",
       "title": "Hershey CFO Voskuil sells $325,065 in company stock",
@@ -183,23 +215,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RmVkRXggYmVhdHMgb24g",
-      "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773952024000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXBwbGUgYmVhcnMgYXJl",
       "title": "Apple bears are proven wrong yet again as iPhone defies the China slump narrative",
       "summary": "",
@@ -298,21 +313,6 @@
       "url": "https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html",
       "source": "CNBC Markets",
       "publishedAt": 1773948059000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbi1pbmR1Y2VkIGZl",
-      "title": "Iran-induced fertilizer shortage threatens Republicans in farm states ahead of midterms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773945992000,
       "lang": "zh-CN",
       "topics": [
         "macro"
