@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773957421505,
-  "crawlUpdatedAt": 1773957421505,
+  "updatedAt": 1773960008396,
+  "crawlUpdatedAt": 1773960008396,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,87 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VS5TLiB0ZWNoIGV4ZWNz",
+      "title": "U.S. tech execs smuggled Nvidia chips to China, prosecutors say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773959908000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SEhTIOKAi2NoaWVmIGNv",
+      "title": "HHS ​chief counselor says encouraged by candidates vying to lead CDC",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/hhs-chief-counselor-says-encouraged-by-candidates-vying-to-lead-cdc-4572046",
+      "source": "Investing.com News",
+      "publishedAt": 1773959426000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FnbmVyLCBBbGlnbm1l",
+      "title": "Wagner, Alignment healthcare CHRO, sells $425k in ALHC stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/wagner-alignment-healthcare-chro-sells-425k-in-alhc-stock-93CH-4572051",
+      "source": "Investing.com News",
+      "publishedAt": 1773959285000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3l0b21YIFRoZXJhcGV1",
+      "title": "CytomX Therapeutics SVP Belvin sells $202k in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/cytomx-therapeutics-svp-belvin-sells-202k-in-stock-93CH-4572050",
+      "source": "Investing.com News",
+      "publishedAt": 1773959284000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1aXN0IHJlaXRlcmF0",
+      "title": "Truist reiterates Buy on Scholar Rock stock after Roche halts rival drug",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-scholar-rock-stock-after-roche-halts-rival-drug-93CH-4572049",
+      "source": "Investing.com News",
+      "publishedAt": 1773959218000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-RmVkRXggYmVhdHMgb24g",
       "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773955636000,
+      "publishedAt": 1773959193000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -26,6 +101,126 @@
       "symbols": [
         "FED"
       ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: CTT Correios de Portugal misses EPS but beats on revenue in Q4 2025",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ctt-correios-de-portugal-misses-eps-but-beats-on-revenue-in-q4-2025-93CH-4572048",
+      "source": "Investing.com News",
+      "publishedAt": 1773959181000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmlnbWEmYXBvcztzIHN0",
+      "title": "Figma&apos;s stock drops 12% in two days after Google releases &apos;vibe design&apos; product",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/figma-stock-drops-11percent-after-google-releases-vibe-design-product-stitch.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773959106000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVsbCBUZWNobm9sb2dp",
+      "title": "Dell Technologies (DELL) shares sold by Silver Lake totaling $36.7 million",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/dell-technologies-dell-shares-sold-by-silver-lake-totaling-367-million-93CH-4572047",
+      "source": "Investing.com News",
+      "publishedAt": 1773959094000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2dkZW4sIEN5dG9tWCBU",
+      "title": "Ogden, CytomX Therapeutics CFO, sells $124k in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ogden-cytomx-therapeutics-cfo-sells-124k-in-shares-93CH-4572045",
+      "source": "Investing.com News",
+      "publishedAt": 1773959088000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BLTyBIZWFsdGggYXBw",
+      "title": "OPKO Health appoints Subbarao V. Uppaluri to board of directors",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/opko-health-appoints-subbarao-v-uppaluri-to-board-of-directors-93CH-4572044",
+      "source": "Investing.com News",
+      "publishedAt": 1773959079000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVVBXT1JL",
+      "title": "Form 144 UPWORK INC For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-upwork-inc-for-19-march-93CH-4572043",
+      "source": "Investing.com News",
+      "publishedAt": 1773959065000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFRo",
+      "title": "Form DEF 14A The Gabelli Healthcare & WellnessRx Trust For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-the-gabelli-healthcare--wellnessrxtrust-for-19-march-93CH-4572042",
+      "source": "Investing.com News",
+      "publishedAt": 1773959058000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIGFjcXVpcmVz",
+      "title": "Amazon acquires startup Rivr to test robots for &apos;doorstep delivery&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773957939000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
@@ -45,173 +240,20 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SGVyc2hleSBDRk8gVm9z",
-      "title": "Hershey CFO Voskuil sells $325,065 in company stock",
+      "id": "CNBC Markets-R29sZCBhbmQgc2lsdmVy",
+      "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/hershey-cfo-voskuil-sells-325065-in-company-stock-93CH-4571793",
-      "source": "Investing.com News",
-      "publishedAt": 1773953914000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGV4YXMgQ2FwaXRhbCBp",
-      "title": "Texas Capital initiates Strategy stock with buy rating on bitcoin exposure",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/texas-capital-initiates-strategy-stock-with-buy-rating-on-bitcoin-exposure-93CH-4571791",
-      "source": "Investing.com News",
-      "publishedAt": 1773953856000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSByZWl0ZXJhdGVz",
-      "title": "BofA reiterates Align Technology stock rating after Elliott stake",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-reiterates-align-technology-stock-rating-after-elliott-stake-93CH-4571790",
-      "source": "Investing.com News",
-      "publishedAt": 1773953832000,
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773952027000,
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVyZW8gQmlvUGhhcm1h",
-      "title": "Mereo BioPharma stock maintained at Buy by BTIG on regulatory pathway",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/mereo-biopharma-stock-maintained-at-buy-by-btig-on-regulatory-pathway-93CH-4571789",
-      "source": "Investing.com News",
-      "publishedAt": 1773953826000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
-      "title": "Goldman Sachs raises Enterprise Products stock price target on higher commodity prices",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-enterprise-products-stock-price-target-on-higher-commodity-prices-93CH-4571788",
-      "source": "Investing.com News",
-      "publishedAt": 1773953824000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [
         "XAU"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW5pdmVyc2FsIExvZ2lz",
-      "title": "Universal Logistics Holdings announces change in independent auditor",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/universal-logistics-holdings-announces-change-in-independent-auditor-93CH-4571787",
-      "source": "Investing.com News",
-      "publishedAt": 1773953698000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FsaWZvcm5pYSBsYXdt",
-      "title": "California lawmakers seek to remove Cesar Chavez’s name from holiday",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/california-lawmakers-seek-to-remove-cesar-chavezs-name-from-holiday-4571563",
-      "source": "Investing.com News",
-      "publishedAt": 1773953671000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UFNCIEhvbGRpbmdzIHJh",
-      "title": "PSB Holdings raises quarterly dividend 6%, shifts to quarterly",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/psb-holdings-raises-quarterly-dividend-6-shifts-to-quarterly-93CH-4571786",
-      "source": "Investing.com News",
-      "publishedAt": 1773953571000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmlyZWZseSBBZXJvc3Bh",
-      "title": "Firefly Aerospace leaps 7% on Q4 beat, strong 2026 outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/firefly-aerospace-leaps-7-on-q4-beat-strong-2026-outlook-93CH-4571785",
-      "source": "Investing.com News",
-      "publishedAt": 1773953542000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBBU1NVUkVE",
-      "title": "Form 8K ASSURED GUARANTY LTD. For: 19 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-assured-guarantyltd-for-19-march-93CH-4571782",
-      "source": "Investing.com News",
-      "publishedAt": 1773953472000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmlnbWEmYXBvcztzIHN0",
-      "title": "Figma&apos;s stock drops 12% in two days after Google releases &apos;vibe design&apos; product",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/figma-stock-drops-11percent-after-google-releases-vibe-design-product-stitch.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773952999000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -221,36 +263,6 @@
       "url": "https://www.cnbc.com/2026/03/19/apple-bears-proven-wrong-yet-again-as-iphone-defies-china-slump-narrative.html",
       "source": "CNBC Markets",
       "publishedAt": 1773951990000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JDE2NiBhIGJhcnJlbD8g",
-      "title": "$166 a barrel? Middle East oil gives clue to where all prices could be headed if Iran war drags on",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773951736000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV0YW55YWh1IHNheXMg",
-      "title": "Netanyahu says Iran is being &apos;decimated&apos; but revolution requires &apos;ground component&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773950657000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -607,23 +619,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIGZp",
-      "title": "Here are the five key takeaways from this week&apos;s Fed meeting",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773889287000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
