@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773910509604,
-  "crawlUpdatedAt": 1773910509604,
+  "updatedAt": 1773914171412,
+  "crawlUpdatedAt": 1773914171412,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QnJlbnQgaGl0cyAkMTE2",
-      "title": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+      "id": "CNBC Markets-QWxpYmFiYSByZXZlbnVl",
+      "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773913864000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHJpc2VzIGJleW9u",
+      "title": "Oil rises beyond $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773910328000,
+      "publishedAt": 1773913829000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,47 +43,185 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets slump as Iran war intensifies; miners lead losses",
+      "id": "Investing.com News-V2hhdCBoYXBwZW5zIG5l",
+      "title": "What happens next in Hormuz? ING outlines three scenarios",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html",
+      "url": "https://www.investing.com/news/economy-news/what-happens-next-in-hormuz-ing-outlines-three-scenarios-4569861",
+      "source": "Investing.com News",
+      "publishedAt": 1773913081000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVVEQSBIZWFsdGggZXhl",
+      "title": "EUDA Health executes 1-for-20 reverse stock split",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/euda-health-executes-1for20-reverse-stock-split-93CH-4569990",
+      "source": "Investing.com News",
+      "publishedAt": 1773913043000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2l0aeKAmXMgc3VycHJp",
+      "title": "Citi’s surprise index shows longest upside run since financial crisis, awaits war impact",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/citis-surprise-index-shows-longest-upside-run-since-financial-crisis-awaits-war-impact-4569989",
+      "source": "Investing.com News",
+      "publishedAt": 1773913022000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgZW52b3kgbWVl",
+      "title": "Trump envoy meets Lukashenko in bid to negotiate more prisoner releases in Belarus",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trumps-envoy-coale-meets-belarus-leader-lukashenko-seeking-to-win-more-prisoner-releases-4569897",
+      "source": "Investing.com News",
+      "publishedAt": 1773912991000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFyY2xheXMgY3V0cyBB",
+      "title": "Barclays cuts AkzoNobel to “equal weight,” slashes PT 32% on pricing, merger risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-cuts-akzonobel-to-equal-weight-slashes-pt-32-on-pricing-merger-risks-4569985",
+      "source": "Investing.com News",
+      "publishedAt": 1773912811000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks open lower amid central bank rate decisions, oil price surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-open-lower-amid-central-bank-rate-decisions-oil-price-surge-4569830",
+      "source": "Investing.com News",
+      "publishedAt": 1773912804000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZlbnRyYSBleHBsb3Jl",
+      "title": "Afentra explores potential sale amid Angola asset growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/afentra-explores-potential-sale-amid-angola-asset-growth-93CH-4569982",
+      "source": "Investing.com News",
+      "publishedAt": 1773912749000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29pbnppbGxhIE5hbWVk",
+      "title": "Coinzilla Named Best Crypto Ad Network at Crypto Expo Europe 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/coinzilla-named-best-crypto-ad-network-at-crypto-expo-europe-2026-4569981",
+      "source": "Investing.com News",
+      "publishedAt": 1773912682000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Energean reports strong production amid net loss in H2 2025",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-energean-reports-strong-production-amid-net-loss-in-h2-2025-93CH-4569978",
+      "source": "Investing.com News",
+      "publishedAt": 1773912530000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Investec outlines strategic growth in Q4 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-investec-outlines-strategic-growth-in-q4-2026-93CH-4569977",
+      "source": "Investing.com News",
+      "publishedAt": 1773912522000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIElyYW4gd2FyIGlz",
+      "title": "The Iran war is adding to Europe&apos;s central banks rate-decision headaches",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773909805000,
+      "publishedAt": 1773911580000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIGp1bXBzIGFib3Zl",
-      "title": "Oil jumps above $115/bbl after attacks on Mideast energy assets multiply",
+      "id": "CNBC Markets-R29sZCBhbmQgc2lsdmVy",
+      "title": "Gold and silver sell off as inflation fears grip global markets",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-3-after-iran-strikes-middle-east-energy-facilities-4569714",
-      "source": "Investing.com News",
-      "publishedAt": 1773909405000,
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773910877000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXVzayBzYXlzIFRlc2xh",
-      "title": "Musk says Tesla may ’tape out’ next-generation AI6 chips in December",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-tesla-may-tape-out-nextgeneration-ai6-chips-in-december-4569918",
-      "source": "Investing.com News",
-      "publishedAt": 1773909387000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
+      "symbols": [
+        "XAU"
       ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -79,171 +232,6 @@
       "url": "https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html",
       "source": "CNBC Markets",
       "publishedAt": 1773909268000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um90aHNjaGlsZCBSZWRi",
-      "title": "Rothschild Redburn upgrades Moonlake stock on regulatory clarity",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-upgrades-moonlake-stock-on-regulatory-clarity-93CH-4569925",
-      "source": "Investing.com News",
-      "publishedAt": 1773909202000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBk",
-      "title": "Raymond James downgrades Xponential Fitness stock rating on Club Pilates weakness",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-xponential-fitness-stock-rating-on-club-pilates-weakness-93CH-4569924",
-      "source": "Investing.com News",
-      "publishedAt": 1773909186000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
-      "title": "European shares decline as Mideast war worsens, focus shifts to ECB decision",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision-4569919",
-      "source": "Investing.com News",
-      "publishedAt": 1773909087000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG9wIGNlbnRyYWwgYmFu",
-      "title": "Top central banks strike hawkish tone as they convene in war’s shadow",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/fed-boc-strike-hawkish-tones-as-top-central-banks-convene-in-wars-shadow-4569618",
-      "source": "Investing.com News",
-      "publishedAt": 1773909054000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kb25lc2lhIHN0b2Nr",
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.20%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-120-4569917",
-      "source": "Investing.com News",
-      "publishedAt": 1773909003000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
-      "title": "Raymond James raises Nvidia stock price target on GPU sales outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-nvidia-stock-price-target-on-gpu-sales-outlook-93CH-4569900",
-      "source": "Investing.com News",
-      "publishedAt": 1773908854000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlJmFwb3M7cyBj",
-      "title": "Europe&apos;s central banks are no longer in a &apos;good place&apos; as Iran war upends forecasts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773908730000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2FybnMgdG8g",
-      "title": "Trump warns to &apos;blow up&apos; South Pars gas field in Iran if strikes against Qatar energy continue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773908501000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
-      "title": "Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773908401000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXDigJlzIGVudm95",
-      "title": "Trump’s envoy Coale meets Belarus leader Lukashenko, seeking to win more prisoner releases",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trumps-envoy-coale-meets-belarus-leader-lukashenko-seeking-to-win-more-prisoner-releases-4569897",
-      "source": "Investing.com News",
-      "publishedAt": 1773908324000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2VudHJhbCBBc2lhIE1l",
-      "title": "Central Asia Metals 2025 revenue beats estimates on steady copper output",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/central-asia-metals-2025-revenue-beats-estimates-on-steady-copper-output-93CH-4569896",
-      "source": "Investing.com News",
-      "publishedAt": 1773908311000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -310,23 +298,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: Gold loans are thriving in India — and attracting global investors",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/gold-loan-demand-rises-india.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773893169000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -439,6 +410,23 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-QW5hbHlzaXM6IFRoZSBG",
+      "title": "Analysis: The Fed&apos;s Powell just delivered a new blow to Warsh&apos;s plans for swift rate cuts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/fedjerome-powell-interest-rates-kevin-warsh-iran-war-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773865773000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
       "title": "JPMorgan Chase taps Dwyane Wade, Tom Brady for new athlete wealth management push",
       "summary": "",
@@ -483,6 +471,21 @@
         "FED"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVhbHRoeSBSZXR1cm5z",
+      "title": "Healthy Returns: Stopping GLP-1s raises risk of heart attack, stroke and death, study says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/18/stopping-glp-1s-raises-cardiovascular-risks-study.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773863967000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -566,12 +569,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGlzbmV5IGVtYmFya3Mg",
-      "title": "Disney embarks on new chapter as Josh D&apos;Amaro takes over as CEO",
+      "id": "CNBC Markets-RkRBIGFwcHJvdmVzIHBz",
+      "title": "FDA approves psoriasis pill from J&J that rivals shots Tremfya, Skyrizi",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
+      "url": "https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773858544000,
+      "publishedAt": 1773854254000,
       "lang": "zh-CN",
       "topics": [
         "macro"
