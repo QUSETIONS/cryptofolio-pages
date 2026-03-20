@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773982459273,
-  "crawlUpdatedAt": 1773982459273,
+  "updatedAt": 1773986351411,
+  "crawlUpdatedAt": 1773986351411,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,46 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QXNpYSBGWCB3ZWFrZW5z",
-      "title": "Asia FX weakens as Iran oil jitters, hawkish central banks weigh",
+      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBT",
+      "title": "Australia’s Star Entertainment appoints new group CFO",
       "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-iran-oil-jitters-hawkish-central-banks-weigh-4572245",
+      "url": "https://www.investing.com/news/stock-market-news/australias-star-entertainment-appoints-new-group-cfo-4572271",
       "source": "Investing.com News",
-      "publishedAt": 1773979280000,
+      "publishedAt": 1773986069000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSB0",
+      "title": "Bitcoin price today: steadies near $71k after tumbling on oil spike, hawkish Fed",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steadies-near-71k-after-tumbling-on-oil-spike-hawkish-fed-4572270",
+      "source": "Investing.com News",
+      "publishedAt": 1773986062000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIFUu",
+      "title": "Oil falls as U.S. weighs releasing sanctioned Iranian crude to cool prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773985822000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +62,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsIGxhdW5jaGVz",
-      "title": "Israel launches new wave of attacks on Iran as crisis deepens",
+      "id": "Investing.com News-R0UgVmVybm92YSwgSGl0",
+      "title": "GE Vernova, Hitachi to build US nuclear reactors for $40 bln - White House",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/israel-launches-new-wave-of-attacks-on-iran-as-crisis-deepens-4572238",
+      "url": "https://www.investing.com/news/stock-market-news/ge-vernova-hitachi-to-build-us-nuclear-reactors-for-40-bln--white-house-4572269",
       "source": "Investing.com News",
-      "publishedAt": 1773979258000,
+      "publishedAt": 1773985293000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,18 +77,80 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgc2F5cyBpdCBkaXNy",
-      "title": "US says it disrupted botnets that infected over 3 million devices worldwide",
+      "id": "Investing.com News-VmlyZ2luIEF1c3RyYWxp",
+      "title": "Virgin Australia to adjust fares to reflect cost pressures",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-says-it-disrupted-botnets-that-infected-over-3-million-devices-worldwide-4572243",
+      "url": "https://www.investing.com/news/stock-market-news/virgin-australia-to-adjust-fares-to-reflect-cost-pressures-4572268",
       "source": "Investing.com News",
-      "publishedAt": 1773977787000,
+      "publishedAt": 1773985026000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9ybmluZyBCaWQ6IEhh",
+      "title": "Morning Bid: Hawkish rate repricing halts the dollar’s rally",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/morning-bid-hawkish-rate-repricing-halts-the-dollars-rally-4572267",
+      "source": "Investing.com News",
+      "publishedAt": 1773985008000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgY29tcGFyZXMg",
+      "title": "Trump compares Pearl Harbor to strikes on Iran in meeting Japan’s leader",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-draws-parallel-between-pearl-harbor-and-us-strikes-on-iran-in-meeting-with-japanese-pm-4571363",
+      "source": "Investing.com News",
+      "publishedAt": 1773984649000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Si5QLiBNb3JnYW4gc2Vl",
+      "title": "J.P. Morgan sees ECB hiking rates in April, July on rising inflation risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/jp-morgan-sees-ecb-hiking-rates-in-april-july-on-rising-inflation-risks-4572266",
+      "source": "Investing.com News",
+      "publishedAt": 1773984635000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhIHN0b2Nr",
+      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.82%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-082-4572265",
+      "source": "Investing.com News",
+      "publishedAt": 1773984603000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -63,13 +159,43 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773977578000,
+      "publishedAt": 1773984521000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V29ybGQgRWNvbm9taWMg",
+      "title": "World Economic Forum considers board reductions after recent scandals- FT",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/world-economic-forum-considers-board-reductions-after-recent-scandals-ft-93CH-4572264",
+      "source": "Investing.com News",
+      "publishedAt": 1773984129000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WGlhb21pIHNoYXJlcyBz",
+      "title": "Xiaomi shares slide nearly 7% after updated SU7 launch",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/xiaomi-shares-slide-nearly-7-after-updated-su7-launch-4572263",
+      "source": "Investing.com News",
+      "publishedAt": 1773983647000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -79,66 +205,6 @@
       "url": "https://www.cnbc.com/2026/03/19/apollo-global-sambur-software-ai-selloff.html",
       "source": "CNBC Markets",
       "publishedAt": 1773977097000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgY2FsbHMgZm9y",
-      "title": "Trump calls for Japan, NATO to ’step up’ on Iran as oil prices bite",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-may-push-japan-for-help-with-iran-war-in-white-house-meeting-4569744",
-      "source": "Investing.com News",
-      "publishedAt": 1773977092000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Sm9pbnQgc3RhdGVtZW50",
-      "title": "Joint statement on Strait of Hormuz by European nations, Japan, Canada",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/joint-statement-on-strait-of-hormuz-by-european-nations-japan-canada-4572242",
-      "source": "Investing.com News",
-      "publishedAt": 1773977071000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxpYmFiYSBISyBzaGFy",
-      "title": "Alibaba HK shares slide as dismal Q3 earnings overshadow AI, cloud growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-hk-shares-slide-as-dismal-q3-earnings-overshadow-ai-cloud-growth-4572241",
-      "source": "Investing.com News",
-      "publishedAt": 1773976802000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkNDIGFwcHJvdmVzICQz",
-      "title": "FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fcc-approvescombination-of-nexstar-and-tegna-tv-stations-4572118",
-      "source": "Investing.com News",
-      "publishedAt": 1773976735000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,51 +229,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLVRlc2xh",
-      "title": "Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivetesla-in-talks-with-chinese-firms-to-buy-29-billion-worth-of-solar-equipment-sources-say-4572227",
-      "source": "Investing.com News",
-      "publishedAt": 1773975987000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rmxvd2NvIGFmZmlsaWF0",
-      "title": "Flowco affiliates price 7.8 million share offering at $22",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/flowco-affiliates-price-78-million-share-offering-at-22-93CH-4572240",
-      "source": "Investing.com News",
-      "publishedAt": 1773975925000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhbiBtb3Nx",
-      "title": "Australian mosque protesters heckle PM Albanese over Israel stance",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/australian-mosque-protesters-heckle-pm-albanese-over-israel-stance-4572228",
-      "source": "Investing.com News",
-      "publishedAt": 1773975262000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiB3YXItaW5kdWNl",
       "title": "Iran war-induced fertilizer shortage threatens Republicans in farm states ahead of midterms",
       "summary": "",
@@ -220,21 +241,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIFUu",
-      "title": "Oil falls as U.S. weighs releasing sanctioned Iranian crude to cool prices",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773972071000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
