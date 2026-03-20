@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774036687901,
-  "crawlUpdatedAt": 1774036687901,
-  "crawlCount": 37,
+  "updatedAt": 1774039644270,
+  "crawlUpdatedAt": 1774039644270,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-R29sZCBhbmQgc2lsdmVy",
-      "title": "Gold and silver extend losses as oscillating oil prices spark market volatility",
+      "id": "CNBC Markets-VHJ1bXA6ICZhcG9zO0kg",
+      "title": "Trump: &apos;I don&apos;t want to do a ceasefire&apos; in Iran war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774039579000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29sZCBkcm9wcyBuZWFy",
+      "title": "Gold drops nearly 10% in worst weekly rout since 2011",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774036568000,
+      "publishedAt": 1774039468000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -26,6 +41,202 @@
       "symbols": [
         "XAU"
       ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBEaWdpdGFs",
+      "title": "Form 6K Digital Currency X Technology Inc. For: 20 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-digital-currency-x-technology-inc-for-20-march-93CH-4573682",
+      "source": "Investing.com News",
+      "publishedAt": 1774038863000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSByZWl0ZXJhdGVz",
+      "title": "BofA reiterates Banco Macro stock Buy rating on digital expansion",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-reiterates-banco-macro-stock-buy-rating-on-digital-expansion-93CH-4573681",
+      "source": "Investing.com News",
+      "publishedAt": 1774038779000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGFsdGVyIHJhaXNlcyBm",
+      "title": "Halter raises funding from Founders Fund at $2 billion valuation - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/halter-raises-funding-from-founders-fund-at-2-billion-valuation--bloomberg-93CH-4573680",
+      "source": "Investing.com News",
+      "publishedAt": 1774038735000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVBbHBoYSBUZWNoIGVu",
+      "title": "ReAlpha Tech enters separation agreement with former CFO Piyush Phadke",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/realpha-tech-enters-separation-agreement-with-former-cfo-piyush-phadke-93CH-4573679",
+      "source": "Investing.com News",
+      "publishedAt": 1774038714000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBzdG9ja3MgbG93",
+      "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.97%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-097-4573678",
+      "source": "Investing.com News",
+      "publishedAt": 1774038688000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGV2bGluIEpvZGksIFRy",
+      "title": "Devlin Jodi, TriSalus Life Sciences chief, sells $13k in TLSI stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/devlin-jodi-trisalus-life-sciences-chief-sells-13k-in-tlsi-stock-93CH-4573677",
+      "source": "Investing.com News",
+      "publishedAt": 1774038670000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJpc2FsdXMgTGlmZSBT",
+      "title": "Trisalus Life Sciences’ CCO Marshak sells $14k in TLSI stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/trisalus-life-sciences-cco-marshak-sells-14k-in-tlsi-stock-93CH-4573676",
+      "source": "Investing.com News",
+      "publishedAt": 1774038669000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIE1H",
+      "title": "Form DEF 14A MGP Ingredients Inc For: 20 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-mgp-ingredients-inc-for-20-march-93CH-4573675",
+      "source": "Investing.com News",
+      "publishedAt": 1774038668000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBSZWN0aXR1",
+      "title": "Form 6K Rectitude Holdings Ltd For: 20 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-rectitude-holdings-ltd-for-20-march-93CH-4573673",
+      "source": "Investing.com News",
+      "publishedAt": 1774038664000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJpU2FsdXMgTGlmZSBT",
+      "title": "TriSalus Life Sciences chief of research Cox sells $13k in TLSI stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/trisalus-life-sciences-chief-of-research-cox-sells-13k-in-tlsi-stock-93CH-4573672",
+      "source": "Investing.com News",
+      "publishedAt": 1774038660000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwZXIgTWljcm8gc2hh",
+      "title": "Super Micro shares tank 33% after employees charged with smuggling Nvidia chips to China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774038236000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWVtb3J5IGNyaXNpcyBs",
+      "title": "Memory crisis latest: What we learned from the world&apos;s top producers this week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/memory-crisis-latest-dram-chips-micron-samsung-sk-hynix.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774037714000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-WW91ciB0YXggcmVmdW5k",
+      "title": "Your tax refund could be smaller than expected this season. Here&apos;s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774036680000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -45,162 +256,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
-      "title": "Wolfe Research reiterates Darden stock Outperform rating at $220",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-darden-stock-outperform-rating-at-220-93CH-4573551",
-      "source": "Investing.com News",
-      "publishedAt": 1774035940000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgVHdpc3Qg",
-      "title": "Form 144 Twist Bioscience Corp For: 20 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-twist-bioscience-corp-for-20-march-93CH-4573550",
-      "source": "Investing.com News",
-      "publishedAt": 1774035939000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIGZsYWdzIGFsdGVy",
-      "title": "UBS flags alternatives as hedge against volatility, geopolitical risks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ubs-flags-alternatives-as-hedge-against-volatility-geopolitical-risks-4573549",
-      "source": "Investing.com News",
-      "publishedAt": 1774035894000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXZlcmFnZSBJUlMgdGF4",
       "title": "Average IRS tax refund is up 10.8%, new filing data shows",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/20/average-irs-tax-refund.html",
       "source": "CNBC Markets",
       "publishedAt": 1774035884000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kZXBlbmRlbmNlIFJl",
-      "title": "Independence Realty Trust stock hits 52-week low at $15.06",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/independence-realty-trust-stock-hits-52week-low-at-1506-93CH-4573547",
-      "source": "Investing.com News",
-      "publishedAt": 1774035815000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV2YWRhIGp1ZGdlIGJs",
-      "title": "Nevada judge blocks Kalshi from offering event contracts in state",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/nevada-judge-blocks-kalshi-from-offering-event-contracts-in-state-93CH-4573546",
-      "source": "Investing.com News",
-      "publishedAt": 1774035695000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNidXJ5IEF1dG9tb3Rp",
-      "title": "Asbury Automotive Group stock hits 52-week low at 184.88 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/asbury-automotive-group-stock-hits-52week-low-at-18488-usd-93CH-4573544",
-      "source": "Investing.com News",
-      "publishedAt": 1774035631000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FtZGVuIFByb3BlcnR5",
-      "title": "Camden Property Trust stock hits 52-week low at 97.13 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/camden-property-trust-stock-hits-52week-low-at-9713-usd-93CH-4573543",
-      "source": "Investing.com News",
-      "publishedAt": 1774035587000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW50ZXJuYXRpb25hbCBQ",
-      "title": "International Paper stock hits 52-week low at 33.64 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/international-paper-stock-hits-52week-low-at-3364-usd-93CH-4573542",
-      "source": "Investing.com News",
-      "publishedAt": 1774035514000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291bmRIb3VuZCBBSSBz",
-      "title": "SoundHound AI stock hits 52-week low at $6.51",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/soundhound-ai-stock-hits-52week-low-at-651-93CH-4573541",
-      "source": "Investing.com News",
-      "publishedAt": 1774035508000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VXB3b3JrIHN0b2NrIGhp",
-      "title": "Upwork stock hits 52-week low at $11.13 amid market volatility",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/upwork-stock-hits-52week-low-at-1113-amid-market-volatility-93CH-4573540",
-      "source": "Investing.com News",
-      "publishedAt": 1774035458000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -237,21 +298,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwZXIgTWljcm8gc2hh",
-      "title": "Super Micro shares tank 30% after employees charged with smuggling Nvidia chips to China",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774033398000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -407,21 +453,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-WW91ciB0YXggcmVmdW5k",
-      "title": "Your tax refund could be smaller than expected this season. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774022243000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7TWFycmlhZ2Ug",
       "title": "&apos;Marriage penalty&apos; in Washington state&apos;s new millionaire tax stirs debate",
       "summary": "",
@@ -554,21 +585,6 @@
       "url": "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
       "source": "CNBC Markets",
       "publishedAt": 1773993465000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV0YW55YWh1IHNheXMg",
-      "title": "Netanyahu says Iran is being &apos;decimated&apos; but revolution requires &apos;ground component&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773950657000,
       "lang": "zh-CN",
       "topics": [
         "macro"
