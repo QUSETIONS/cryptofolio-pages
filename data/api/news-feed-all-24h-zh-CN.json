@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1773963483300,
-  "crawlUpdatedAt": 1773963483300,
+  "updatedAt": 1773974858466,
+  "crawlUpdatedAt": 1773974858466,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U3VwZXIgTWljcm8gY28t",
-      "title": "Super Micro co-founder, employee and contractor smuggled Nvidia chips to China, U.S. prosecutors charge",
+      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIFUu",
+      "title": "Oil falls as U.S. weighs releasing sanctioned Iranian crude to cool prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773972071000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
+      "title": "Asia markets trade mixed after Wall Street losses as Iran war dents risk sentiment",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773971291000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBwcm9zZWN1dG9y",
+      "title": "U.S. prosecutors charge Super Micro Computer employees with smuggling Nvidia chips to China",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
       "source": "CNBC Markets",
-      "publishedAt": 1773963089000,
+      "publishedAt": 1773969213000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,87 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGFyc3VzIFBoYXJtYSBn",
-      "title": "Tarsus Pharma general counsel Wahl sells $850k in stock",
+      "id": "Investing.com News-VVMgc3RvY2sgZnV0dXJl",
+      "title": "US stock futures steady after Wall St slips on large oil swings, Fed rate concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/tarsus-pharma-general-counsel-wahl-sells-850k-in-stock-93CH-4572109",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slips-on-large-oil-swings-fed-rate-concerns-4572211",
       "source": "Investing.com News",
-      "publishedAt": 1773962108000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFyc3VzIFBoYXJtYSBD",
-      "title": "Tarsus Pharma CHRO Whitfield sells $839k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/tarsus-pharma-chro-whitfield-sells-839k-in-shares-93CH-4572108",
-      "source": "Investing.com News",
-      "publishedAt": 1773962108000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFyc3VzIFBoYXJtYSBD",
-      "title": "Tarsus Pharma CCO Mottiwala sells $892k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/tarsus-pharma-cco-mottiwala-sells-892k-in-shares-93CH-4572107",
-      "source": "Investing.com News",
-      "publishedAt": 1773962095000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFyc3VzIFBoYXJtYSBD",
-      "title": "Tarsus Pharma COO Neervannan Seshadri sells $772k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/tarsus-pharma-coo-neervannan-seshadri-sells-772k-in-shares-93CH-4572106",
-      "source": "Investing.com News",
-      "publishedAt": 1773962091000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJhdmVsICYgbGVpc3Vy",
-      "title": "Travel & leisure co: Savina sells $2.2m in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/travel--leisure-co-savina-sells-22m-in-shares-93CH-4572105",
-      "source": "Investing.com News",
-      "publishedAt": 1773962001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVkRXggUTMgRlkyNiBz",
-      "title": "FedEx Q3 FY26 slides: earnings surge 16% as network transformation pays off",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/fedex-q3-fy26-slides-earnings-surge-16-as-network-transformation-pays-off-93CH-4572103",
-      "source": "Investing.com News",
-      "publishedAt": 1773961934000,
+      "publishedAt": 1773969163000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -116,16 +71,183 @@
       "symbols": [
         "FED"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: WAM Alternative Assets’ Q1 2026 results reveal strategic shifts",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wam-alternative-assets-q1-2026-results-reveal-strategic-shifts-93CH-4572210",
+      "source": "Investing.com News",
+      "publishedAt": 1773969072000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgbGVhdmVzIGxv",
+      "title": "China leaves loan prime rate unchanged for 10th straight month in March",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/china-leaves-loan-prime-rate-unchanged-for-10th-straight-month-in-march-4572209",
+      "source": "Investing.com News",
+      "publishedAt": 1773969013000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSGVhbHRoIERlcGFy",
+      "title": "US Health Department official signals progress on selecting new CDC head",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/hhs-chief-counselor-says-encouraged-by-candidates-vying-to-lead-cdc-4572046",
+      "source": "Investing.com News",
+      "publishedAt": 1773968835000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgaW52b2tlcyBQ",
+      "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773968676000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBwcmljZXMgc3Rl",
+      "title": "Gold prices steady, head for deep weekly loss as Iran war dents rate cut bets",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-prices-steady-head-for-deep-weekly-loss-as-iran-war-dents-rate-cut-bets-4572206",
+      "source": "Investing.com News",
+      "publishedAt": 1773968280000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEFj",
+      "title": "Form DEF 14A Accel Entertainment Inc For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-accel-entertainment-inc-for-19-march-93CH-4572205",
+      "source": "Investing.com News",
+      "publishedAt": 1773968248000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEZJ",
+      "title": "Form DEF 14A FIRST COMMONWEALTH FINANCIAL CORP /PA/ For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-first-commonwealth-financial-corp-pa-for-19-march-93CH-4572204",
+      "source": "Investing.com News",
+      "publishedAt": 1773968246000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQ05BIEZJ",
+      "title": "Form 144 CNA FINANCIAL CORPORATION For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-cna-financial-corporation-for-19-march-93CH-4572203",
+      "source": "Investing.com News",
+      "publishedAt": 1773968239000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgSFlBVFQg",
+      "title": "Form 144 HYATT HOTELS CORPORATION For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-hyatt-hotels-corporation-for-19-march-93CH-4572202",
+      "source": "Investing.com News",
+      "publishedAt": 1773968239000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIENP",
+      "title": "Form DEF 14A CONSTELLATION ENERGY CORPORATION For: 19 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-constellation-energy-corporation-for-19-march-93CH-4572201",
+      "source": "Investing.com News",
+      "publishedAt": 1773968237000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJIHRvIGNyZWF0",
+      "title": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773966576000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXphbWlhbiwgVGFyc3Vz",
-      "title": "Azamian, Tarsus Pharmaceuticals CEO, sells $2.36m in stock",
+      "id": "CNBC Markets-QXBvbGxvJmFwb3M7cyBT",
+      "title": "Apollo&apos;s Sambur says software&apos;s AI troubles will persist, noting the &apos;very large unknowns&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/azamian-tarsus-pharmaceuticals-ceo-sells-236m-in-stock-93CH-4572102",
-      "source": "Investing.com News",
-      "publishedAt": 1773961797000,
+      "url": "https://www.cnbc.com/2026/03/19/apollo-global-sambur-software-ai-selloff.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773962421000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -135,42 +257,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGFyc3VzIFBoYXJtYSBD",
-      "title": "Tarsus Pharma CMO Lin sells $78k in shares",
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says &apos;sometimes you have to hold your nose&apos; and buy stocks",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/tarsus-pharma-cmo-lin-sells-78k-in-shares-93CH-4572101",
-      "source": "Investing.com News",
-      "publishedAt": 1773961796000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVsb3MgRVZQIFJvYmJp",
-      "title": "Telos EVP Robbins sells $408k in TLS stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/telos-evp-robbins-sells-408k-in-tls-stock-93CH-4572100",
-      "source": "Investing.com News",
-      "publishedAt": 1773961794000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFycm93IEplZmZyZXkg",
-      "title": "Farrow Jeffrey S of Tarsus Pharma sells $439k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/farrow-jeffrey-s-of-tarsus-pharma-sells-439k-in-shares-93CH-4572099",
-      "source": "Investing.com News",
-      "publishedAt": 1773961787000,
+      "url": "https://www.cnbc.com/2026/03/19/jim-cramer-sometimes-you-have-to-hold-your-nose-and-buy-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1773960393000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -274,21 +366,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VWJlciB0byBpbnZlc3Qg",
-      "title": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773950476000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2lnbmFscyBE",
       "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nomination",
       "summary": "",
@@ -366,21 +443,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJIHRvIGFjcXVp",
-      "title": "OpenAI to acquire developer tooling startup Astral in boost for Codex team",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773942686000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RkRBIGFwcHJvdmVzIGhp",
       "title": "FDA approves higher dose version of weight loss drug Wegovy as Novo Nordisk tries to win back market share",
       "summary": "",
@@ -438,23 +500,6 @@
       ],
       "symbols": [
         "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZGVycyBub3cgc2Vl",
-      "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773939952000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
@@ -550,36 +595,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIERI",
-      "title": "Trump&apos;s DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773935229000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFqb3IgTGVhZ3VlIEJh",
-      "title": "Major League Baseball names Polymarket exclusive prediction market partner",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773931631000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
       "title": "JPMorgan Chase taps A&apos;ja Wilson, Tom Brady for new athlete wealth management push",
       "summary": "",
@@ -607,21 +622,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxpIExpbGx54oCZcyBu",
-      "title": "Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773921974000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
