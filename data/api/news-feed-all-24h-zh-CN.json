@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774103943744,
-  "crawlUpdatedAt": 1774103943744,
-  "crawlCount": 38,
+  "updatedAt": 1774107267264,
+  "crawlUpdatedAt": 1774107267264,
+  "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,95 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyBj",
+      "title": "Trump says US considering ’winding down’ Iran war; Natanz nuclear facility attacked",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/israel-attacks-tehran-beirut-as-us-sends-marines-to-middle-east-4574025",
+      "source": "Investing.com News",
+      "publishedAt": 1774107030000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VS5LLiBzYXlzIElyYW4g",
       "title": "U.K. says Iran unsuccessfully targeted British-American Diego Garcia base",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774103316000,
+      "publishedAt": 1774106245000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmVubnkgSm9obnNvbiwg",
+      "title": "Jenny Johnson, third-generation Franklin Templeton CEO, on managing trillions for the family business",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/franklin-templeton-ceo-jenny-johnson-family-business-success.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774105923000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbWFydCBkaWdpdGFs",
+      "title": "Walmart digital price labels are coming to every store shelf in U.S. by end of 2026",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774105629000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U0VDIENvbW1pc3Npb25l",
+      "title": "SEC Commissioner Hester Peirce on ETFs: &apos;We want to work with people on new products&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774105201000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBzaGFyZXMg",
+      "title": "Goldman shares latest updates on Tesla’s Optimus project",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/goldman-shares-latest-updates-on-teslas-optimus-project-4574059",
+      "source": "Investing.com News",
+      "publishedAt": 1774103972000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -56,36 +133,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyBj",
-      "title": "Trump says US considering ’winding down’ Iran war; Natanz nuclear facility attacked",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/israel-attacks-tehran-beirut-as-us-sends-marines-to-middle-east-4574025",
-      "source": "Investing.com News",
-      "publishedAt": 1774101266000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbWFydCBkaWdpdGFs",
-      "title": "Walmart digital price labels are coming to every store shelf in U.S. by end of 2026",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774100988000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -302,21 +349,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWlycG9ydHMgcnVzaCB0",
-      "title": "Airports rush to feed unpaid TSA workers as belts tighten",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/airports-rush-to-feed-unpaid-tsa-workers-as-belts-tighten-4574050",
-      "source": "Investing.com News",
-      "publishedAt": 1774091556000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
       "title": "Jim Cramer says to prepare for further stock declines but be open to opportunities",
       "summary": "",
@@ -454,21 +486,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXZlcmFnZSBJUlMgdGF4",
-      "title": "Average IRS tax refund is up 10.8%, new filing data shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/average-irs-tax-refund.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774035884000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29zdGNvIHR1cm5zIHBh",
       "title": "Costco turns pain at the gas pump into a powerful in-store traffic driver",
       "summary": "",
@@ -546,21 +563,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGltIENvb2vigJlzIENo",
-      "title": "Tim Cook’s China visit reinforces country’s importance to Apple as global frictions rise",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/tim-cooks-china-visit-reinforces-countrys-importance-to-apple-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774023914000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7TWFycmlhZ2Ug",
       "title": "&apos;Marriage penalty&apos; in Washington state&apos;s new millionaire tax stirs debate",
       "summary": "",
@@ -570,21 +572,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R292ZXJubWVudCBib25k",
-      "title": "Government bonds face ‘perfect storm’ as Iran war rattles Europe&apos;s central banks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774018372000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
