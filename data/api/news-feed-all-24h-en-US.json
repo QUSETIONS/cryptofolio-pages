@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774132472198,
-  "crawlUpdatedAt": 1774132472198,
-  "crawlCount": 29,
+  "updatedAt": 1774136011816,
+  "crawlUpdatedAt": 1774136011816,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Rm9ybWVyIHNwZWNpYWwg",
-      "title": "Former special counsel Robert Mueller has died at 81",
+      "id": "CNBC Markets-VGVocmFuIHN0cmlrZXMg",
+      "title": "Tehran strikes two Israeli communities near nuclear research site after Iran&apos;s Natanz enrichment plant hit",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html",
+      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774128812000,
+      "publishedAt": 1774134736000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,18 +28,33 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiBzYXlzIG51Y2xl",
-      "title": "Iran says nuclear enrichment plant attacked, Israel denies responsibility",
+      "id": "CNBC Markets-Rm9ybWVyIHNwZWNpYWwg",
+      "title": "Former special counsel Robert Mueller has died at 81",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
+      "url": "https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774128375000,
+      "publishedAt": 1774134508000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn&apos;t end, while Elon Musk offers to cover TSA agents&apos; pay",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774134458000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -115,21 +130,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn&apos;t end, while Elon Musk offers to cover TSA agents&apos; pay",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774126409000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -432,21 +432,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwZXIgTWljcm8gY28t",
-      "title": "Super Micro co-founder indicted on Nvidia smuggling charges leaves board",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774047175000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
