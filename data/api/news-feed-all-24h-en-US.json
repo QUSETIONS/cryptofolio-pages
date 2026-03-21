@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774078771875,
-  "crawlUpdatedAt": 1774078771875,
-  "crawlCount": 39,
+  "updatedAt": 1774082680036,
+  "crawlUpdatedAt": 1774082680036,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SXNyYWVsLCBJcmFuIHRy",
+      "title": "Israel, Iran trade attacks as US sends Marines to Middle East",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/israel-attacks-tehran-beirut-as-us-sends-marines-to-middle-east-4574025",
+      "source": "Investing.com News",
+      "publishedAt": 1774080388000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IGRvZXMgdGhlIGN1",
+      "title": "How does the current decline in airline stocks compare to historical periods?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/how-does-the-current-decline-in-airline-stocks-compare-to-historical-periods-4574033",
+      "source": "Investing.com News",
+      "publishedAt": 1774079973000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHV0aW4gdGVsbHMgVGVo",
+      "title": "Putin tells Tehran: Russia stands by Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/putin-tells-tehran-russia-stands-by-iran-4574032",
+      "source": "Investing.com News",
+      "publishedAt": 1774079666000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QmVpamluZyBjb3VydHMg",
       "title": "Beijing courts Eli Lilly as weight-loss drug race drives $3bn China commitment",
@@ -126,51 +171,6 @@
       "url": "https://www.investing.com/news/stock-market-news/macys-faces-low-visibility-as-jefferies-warns-of-cautious-2026-outlook-4574028",
       "source": "Investing.com News",
       "publishedAt": 1774072974000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RHViYWkgcHJvcGVydHkg",
-      "title": "Dubai property sector shows early signs of weakness",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/dubai-property-sector-shows-early-signs-of-weakness-4573288",
-      "source": "Investing.com News",
-      "publishedAt": 1774072845000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5nb2xhIGFuZCBOaWdl",
-      "title": "Angola and Nigeria best positioned to benefit from high oil price cycle - BofA",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/angola-and-nigeria-best-positioned-to-benefit-from-high-oil-price-cycle--bofa-4574026",
-      "source": "Investing.com News",
-      "publishedAt": 1774068517000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsIGF0dGFja3Mg",
-      "title": "Israel attacks Tehran, Beirut as US sends Marines to Middle East",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/israel-attacks-tehran-beirut-as-us-sends-marines-to-middle-east-4574025",
-      "source": "Investing.com News",
-      "publishedAt": 1774068149000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -589,21 +589,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgaW52b2tlcyBQ",
-      "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1773994413000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
