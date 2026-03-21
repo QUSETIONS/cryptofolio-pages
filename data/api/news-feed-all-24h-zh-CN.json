@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774125411529,
-  "crawlUpdatedAt": 1774125411529,
-  "crawlCount": 32,
+  "updatedAt": 1774128778205,
+  "crawlUpdatedAt": 1774128778205,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -18,7 +18,22 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774125308000,
+      "publishedAt": 1774128375000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFtaWx5IG9mIElyYW5p",
+      "title": "Family of Iranian butcher missing in strike on commercial complex clings to hope",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/family-of-iranian-butcher-missing-in-strike-on-commercial-complex-clings-to-hope-4574072",
+      "source": "Investing.com News",
+      "publishedAt": 1774126469000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +48,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774124983000,
+      "publishedAt": 1774126409000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -222,21 +237,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyBj",
-      "title": "Trump says US considering ’winding down’ Iran war; Natanz nuclear facility attacked",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/israel-attacks-tehran-beirut-as-us-sends-marines-to-middle-east-4574025",
-      "source": "Investing.com News",
-      "publishedAt": 1774113147000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -464,38 +464,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hhdEdQVCZhcG9zO3Mg",
-      "title": "ChatGPT&apos;s ad pilot has the industry excited, but some insiders are frustrated with the slow rollout",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774042235000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29sZCBkcm9wcyBuZWFy",
-      "title": "Gold drops nearly 10% in worst weekly rout since 2011",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774039468000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
