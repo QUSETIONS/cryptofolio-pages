@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774121557863,
-  "crawlUpdatedAt": 1774121557863,
-  "crawlCount": 33,
+  "updatedAt": 1774125411251,
+  "crawlUpdatedAt": 1774125411251,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,48 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-SXJhbiBzYXlzIG51Y2xl",
+      "title": "Iran says nuclear enrichment plant attacked, Israel denies responsibility",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774125308000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
       "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn&apos;t end, while Elon Musk offers to cover TSA agents&apos; pay",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774121537000,
+      "publishedAt": 1774124983000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgbXVsbHMgSXJh",
+      "title": "Trump mulls Iran exit as Natanz hit again, Iran missile strikes Dimona",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/geopolitics-trump-mulls-iran-exit-strategy-as-sp-500-trackers-rally-09-4573936",
+      "source": "Investing.com News",
+      "publishedAt": 1774122299000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -165,21 +195,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5LLiBzYXlzIElyYW4g",
-      "title": "U.K. says Iran unsuccessfully targeted British-American Diego Garcia base",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774113728000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-Q3ViYSByZWZ1c2VzIHRv",
       "title": "Cuba refuses to negotiate president’s term in talks with United States",
       "summary": "",
@@ -222,21 +237,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLUJhaHJh",
-      "title": "Exclusive-Bahrain cites Patriot interception in March 9 Iranian drone incident",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/exclusivebahrain-cites-patriot-interception-in-march-9-iranian-drone-incident-4574064",
-      "source": "Investing.com News",
-      "publishedAt": 1774108852000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -496,21 +496,6 @@
         "XAU"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwZXIgTWljcm8gc2hh",
-      "title": "Super Micro shares tank 33% after employees charged with smuggling Nvidia chips to China",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774038236000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
