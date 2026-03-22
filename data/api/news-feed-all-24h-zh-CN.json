@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1774164245229,
-  "crawlUpdatedAt": 1774164245229,
+  "updatedAt": 1774166297090,
+  "crawlUpdatedAt": 1774166297090,
   "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens attack on Iran power plants if Strait of Hormuz isn&apos;t reopened",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774164687000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAsIElyYW4gdGhy",
+      "title": "Trump, Iran threaten power, energy targets as war escalates",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-threatens-iran-with-power-plant-strikes-over-hormuz-blockade-4574080",
+      "source": "Investing.com News",
+      "publishedAt": 1774164263000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-RnJvbSBzYXRlbGxpdGVz",
       "title": "From satellites to space data centers: Why low earth orbit is attracting billions in investment",
@@ -154,36 +184,6 @@
       "url": "https://www.investing.com/news/economy-news/vw-ceo-defends-50000-job-cuts-to-offset-high-german-production-costs-4574089",
       "source": "Investing.com News",
       "publishedAt": 1774149018000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm91ciB5ZWFycyBhZnRl",
-      "title": "Four years after deadly China Eastern plane crash, investigators offer no answers",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/four-years-after-deadly-china-eastern-plane-crash-investigators-offer-no-answers-4574088",
-      "source": "Investing.com News",
-      "publishedAt": 1774147348000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. will attack Iran power plants if Tehran doesn&apos;t reopen Strait of Hormuz in 48 hours",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774144446000,
       "lang": "zh-CN",
       "topics": [
         "macro"
