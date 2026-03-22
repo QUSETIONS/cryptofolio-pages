@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774205413648,
-  "crawlUpdatedAt": 1774205413648,
-  "crawlCount": 24,
+  "updatedAt": 1774208047666,
+  "crawlUpdatedAt": 1774208047666,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VWtyYWluZSwgVVMgdGVh",
+      "title": "Ukraine, US teams conclude talks, new POW exchange possible, Zelenskiy says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/zelenskiy-urges-allies-to-keep-up-pressure-on-russia-ahead-of-talks-with-us-4574136",
+      "source": "Investing.com News",
+      "publishedAt": 1774206385000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration touts plan for ICE at airports amid criticism from union, Democrats",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-deploys-ice-agents-to-assist-tsa-at-us-airports-4574111",
+      "source": "Investing.com News",
+      "publishedAt": 1774206032000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VGhlIGVjb25vbXkgaGFz",
       "title": "The economy has a Strait of Hormuz deadline for Trump: Two weeks",
@@ -49,21 +79,6 @@
       "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-homeland-security-nomination-of-mullin-paving-way-for-confirmation-vote-4574140",
       "source": "Investing.com News",
       "publishedAt": 1774203868000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration tout plan for ICE at airports amid criticism from union, Democrats",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-deploys-ice-agents-to-assist-tsa-at-us-airports-4574111",
-      "source": "Investing.com News",
-      "publishedAt": 1774203516000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -169,21 +184,6 @@
       "url": "https://www.investing.com/news/commodities-news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week-4574115",
       "source": "Investing.com News",
       "publishedAt": 1774194167000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiwgVS5TLiB0cmFk",
-      "title": "Iran, U.S. trade barbs as Hormuz tensions grow amid Trump’s 48-hour ultimatum",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-issues-48hour-ultimatum-to-iran-as-strait-of-hormuz-blockade-persists-4574079",
-      "source": "Investing.com News",
-      "publishedAt": 1774193591000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -355,21 +355,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MyB0aGVtZXMgdGhhdCBn",
-      "title": "3 themes that gripped Wall Street as stocks dropped for a 4th straight week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/3-themes-that-gripped-wall-street-as-stocks-drop-for-a-4th-straight-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774120383000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
