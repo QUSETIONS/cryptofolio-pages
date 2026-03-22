@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774172478548,
-  "crawlUpdatedAt": 1774172478548,
-  "crawlCount": 27,
+  "updatedAt": 1774175845772,
+  "crawlUpdatedAt": 1774175845772,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VUsgbWluaXN0ZXIgc2F5",
-      "title": "UK minister says Trump speaks for himself on his deadline for Iran",
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn&apos;t end, while Elon Musk offers to cover TSA agents&apos; pay",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/uk-minister-says-trump-speaks-for-himself-on-his-deadline-for-iran-4574100",
+      "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774175481000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmHigJlzIFNpbm9w",
+      "title": "China’s Sinopec reports 36.8% profit drop on weak margins, energy shift",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/chinas-sinopec-reports-368-profit-drop-on-weak-margins-energy-shift-4574104",
       "source": "Investing.com News",
-      "publishedAt": 1774170765000,
+      "publishedAt": 1774175112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbWFydCBkaWdpdGFs",
+      "title": "Walmart digital price labels are coming to every store shelf in U.S. by end of 2026",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774174564000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens attack on Iran power plants if Strait of Hormuz isn&apos;t reopened",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774173526000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVpamluZyB2b3dzIGJy",
+      "title": "Beijing vows broader market access as goods trade surplus hits record levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/beijing-vows-broader-market-access-as-goods-trade-surplus-hits-record-levels-4574103",
+      "source": "Investing.com News",
+      "publishedAt": 1774173221000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +93,52 @@
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/trump-threatens-iran-with-power-plant-strikes-over-hormuz-blockade-4574080",
       "source": "Investing.com News",
-      "publishedAt": 1774169302000,
+      "publishedAt": 1774172906000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVuY2VudCBpbnRlZ3Jh",
+      "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-4574102",
+      "source": "Investing.com News",
+      "publishedAt": 1774172188000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsbCB0aGUgTWlkZGxl",
+      "title": "Will the Middle East Conflict Speed Up the Energy Transition?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/will-the-middle-east-conflict-speed-up-the-energy-transition-4574101",
+      "source": "Investing.com News",
+      "publishedAt": 1774171149000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgbWluaXN0ZXIgc2F5",
+      "title": "UK minister says Trump speaks for himself on his deadline for Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/uk-minister-says-trump-speaks-for-himself-on-his-deadline-for-iran-4574100",
+      "source": "Investing.com News",
+      "publishedAt": 1774170765000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -64,21 +169,6 @@
       "url": "https://www.investing.com/news/economy-news/uschina-ai-race-one-goal-two-very-different-approaches-4574097",
       "source": "Investing.com News",
       "publishedAt": 1774166217000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens attack on Iran power plants if Strait of Hormuz isn&apos;t reopened",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774164687000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,66 +223,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RyZWV0IENhbGxzIG9m",
-      "title": "Street Calls of the Week",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4574095",
-      "source": "Investing.com News",
-      "publishedAt": 1774160955000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXVzayBhbm5vdW5jZXMg",
-      "title": "Musk announces \"Terafab\" to internalize Tesla and SpaceX chip production",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/musk-announces-terafab-to-internalize-tesla-and-spacex-chip-production-4574093",
-      "source": "Investing.com News",
-      "publishedAt": 1774158998000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBhcmUgU01CcyBT",
-      "title": "What are SMBs Saying about GOOGL, META, and ChatGPT Advertising?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/what-are-smbs-saying-about--googl-meta-and-chatgpt--advertising-4574092",
-      "source": "Investing.com News",
-      "publishedAt": 1774156474000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW4gY29uc2lkZXJz",
-      "title": "Japan considers minesweeping in Strait of Hormuz after a potential ceasefire",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/japan-considers-minesweeping-in-strait-of-hormuz-after-a-potential-ceasefire-4574091",
-      "source": "Investing.com News",
-      "publishedAt": 1774153893000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Rm9ybWVyIHNwZWNpYWwg",
       "title": "Former special counsel Robert Mueller has died at 81",
       "summary": "",
@@ -205,21 +235,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn&apos;t end, while Elon Musk offers to cover TSA agents&apos; pay",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774134458000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -259,21 +274,6 @@
       "url": "https://www.cnbc.com/2026/03/21/franklin-templeton-ceo-jenny-johnson-family-business-success.html",
       "source": "CNBC Markets",
       "publishedAt": 1774105923000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbWFydCBkaWdpdGFs",
-      "title": "Walmart digital price labels are coming to every store shelf in U.S. by end of 2026",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774105629000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -402,21 +402,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
-      "title": "Jim Cramer says to prepare for further stock declines but be open to opportunities",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/20/jim-cramer-says-to-prepare-for-further-stock-declines-but-be-open-to-opportunities.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774088366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
