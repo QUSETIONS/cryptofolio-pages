@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774339126778,
-  "crawlUpdatedAt": 1774339126778,
-  "crawlCount": 39,
+  "updatedAt": 1774343103665,
+  "crawlUpdatedAt": 1774343103665,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QmFocmFpbiBwdXNoZXMg",
-      "title": "Bahrain pushes UN-backed action for Hormuz shipping; France tables rival text",
+      "id": "CNBC Markets-T2lsIHJpc2VzIHdpdGgg",
+      "title": "Oil rises with Brent climbing back above $100 as optimism fades over Iran war de-escalation",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/bahrain-proposes-un-security-council-approve-use-of-force-to-protect-hormuz-shipping-4575900",
-      "source": "Investing.com News",
-      "publishedAt": 1774338162000,
+      "url": "https://www.cnbc.com/2026/03/24/oil-prices-today-wti-brent-middle-east-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774341945000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9yZCB0byByZWNhbGwg",
-      "title": "Ford to recall over 254,000 SUVs in the US due to software issues, NHTSA says",
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yields edge higher as investors weigh renewed Iran war uncertainty",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ford-to-recall-over-254600-us-vehicles-over-issues-with-assistance-features-nhtsa-says-4576667",
-      "source": "Investing.com News",
-      "publishedAt": 1774338147000,
+      "url": "https://www.cnbc.com/2026/03/24/treasury-yields-oil-price-middle-east-risks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774341757000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks mixed as Iran war uncertainty lingers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/24/european-stocks-poised-to-lose-ground-as-iran-war-remains-in-focus-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774340903000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,63 +60,35 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGVyc29uYWwgR3JvdXAg",
-      "title": "Personal Group reports 11% revenue growth, lifts dividend 41%",
+      "id": "CNBC Markets-R29sZCB0cmFkZXMgZmxh",
+      "title": "Gold trades flat after early losses deepened bullion bear market",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/personal-group-reports-11-revenue-growth-lifts-dividend-41-93CH-4576675",
-      "source": "Investing.com News",
-      "publishedAt": 1774337843000,
+      "url": "https://www.cnbc.com/2026/03/24/gold-sinks-deeper-into-bear-market-territory-as-sell-off-extends.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774340339000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIGZhY2VzIGZ1",
+      "title": "Amazon faces further AWS disruption in the Middle East from Iran conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/24/amazon-aws-disruption-in-bahrain-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774339038000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q1ZTIEdyb3VwIHJlc3Bv",
-      "title": "CVS Group responds to UK veterinary market investigation",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/cvs-group-responds-to-uk-veterinary-market-investigation-93CH-4576673",
-      "source": "Investing.com News",
-      "publishedAt": 1774337599000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2VuYXRlIGFwcHJvdmVz",
-      "title": "Senate approves Trump’s Homeland nominee with immigration crackdown under scrutiny",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/senate-approves-trumps-homeland-nominee-with-immigration-crackdown-under-scrutiny-4576536",
-      "source": "Investing.com News",
-      "publishedAt": 1774337466000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmV2ZXJ0cmVlIERyaW5r",
-      "title": "Fevertree Drinks’ profit drops 16% on Molson Coors’ partnership impact, UK levy dispute",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fevertree-drinks-profit-drops-16-on-molson-coors-partnership-impact-4576666",
-      "source": "Investing.com News",
-      "publishedAt": 1774337446000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -118,36 +107,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmVlZCBjb3N0IHN1cmdl",
-      "title": "Feed cost surge from Iran war deepens pain for China’s pig farmers",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/feed-cost-surge-from-iran-war-deepens-pain-for-chinas-pig-farmers-4576671",
-      "source": "Investing.com News",
-      "publishedAt": 1774337432000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ydGVycmEgY29ycmVj",
-      "title": "Forterra corrects share price in executive bonus plan filing",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/forterra-corrects-share-price-in-executive-bonus-plan-filing-93CH-4576669",
-      "source": "Investing.com News",
-      "publishedAt": 1774337246000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hpdGUgSG91c2UgdG8g",
       "title": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
       "summary": "",
@@ -159,53 +118,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2luZ2Zpc2hlciBGWTI2",
-      "title": "Kingfisher FY26 profit rises 6% but £73 mln French writedown clouds outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kingfisher-fy26-profit-rises-6-but-73-mln-french-writedown-clouds-outloo-4576668",
-      "source": "Investing.com News",
-      "publishedAt": 1774337132000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGFuZXMgYmVnaW4gdm90",
-      "title": "Danes begin voting in election clouded by Trump’s Greenland desires",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/danes-vote-in-an-election-clouded-by-trumps-greenland-desires-4576520",
-      "source": "Investing.com News",
-      "publishedAt": 1774337106000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29sZCBzaW5rcyBkZWVw",
-      "title": "Gold sinks deeper into bear market territory as sell-off extends",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/gold-sinks-deeper-into-bear-market-territory-as-sell-off-extends.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774336643000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -222,21 +134,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks poised to lose ground as Iran war remains in focus",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/european-stocks-poised-to-lose-ground-as-iran-war-remains-in-focus-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774336424000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -285,21 +182,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHJpc2VzIHdpdGgg",
-      "title": "Oil rises with Brent crossing $100 a barrel again as Middle East tensions keep traders on edge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/oil-prices-today-wti-brent-middle-east-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774317092000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -468,42 +350,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V05CUEEgUHJlc2lkZW50",
-      "title": "WNBPA President Nneka Ogwumike says new CBA will have a major impact on players&apos; bank accounts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/23/wnbpa-nneka-ogwumike-cba-players-bank-accounts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774297092000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2lsIHR1bWJsZXMgbmVh",
       "title": "Oil tumbles nearly 11% after Trump puts hold on U.S. strikes against Iran energy infrastructure for five days",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html",
       "source": "CNBC Markets",
       "publishedAt": 1774296894000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security &apos;doesn&apos;t allow most Americans to build wealth,&apos; BlackRock&apos;s Larry Fink says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/23/social-security-build-wealth-blackrock.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774296118000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -573,12 +425,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VG95b3RhIHRvIGludmVz",
-      "title": "Toyota to invest $1 billion to increase U.S. production in Kentucky, Indiana plants",
+      "id": "CNBC Markets-QlRTIGNvbWViYWNrIGRy",
+      "title": "BTS comeback draws a smaller crowd than hoped, hitting parent company Hybe&apos;s shares",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/23/toyota-investment-united-states.html",
+      "url": "https://www.cnbc.com/2026/03/23/hybe-shares-bts-comeback-disappoints-investors.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774282501000,
+      "publishedAt": 1774281334000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -588,12 +440,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QlRTIGNvbWViYWNrIGRy",
-      "title": "BTS comeback draws a smaller crowd than hoped, hitting parent company Hybe&apos;s shares",
+      "id": "CNBC Markets-VHJ1bXAgdGVsbHMgQ05C",
+      "title": "Trump tells CNBC &apos;we are very intent on making a deal&apos; with Iran",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/23/hybe-shares-bts-comeback-disappoints-investors.html",
+      "url": "https://www.cnbc.com/2026/03/23/trump-iran-war-power-plants-energy-infrastructure-middle-east.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774281334000,
+      "publishedAt": 1774280077000,
       "lang": "zh-CN",
       "topics": [
         "macro"
