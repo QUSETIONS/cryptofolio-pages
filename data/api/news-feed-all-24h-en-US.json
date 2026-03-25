@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1774456981145,
-  "crawlUpdatedAt": 1774456981145,
+  "updatedAt": 1774461812866,
+  "crawlUpdatedAt": 1774461812866,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,17 +13,246 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TWV0YSBjdXR0aW5nIHNl",
-      "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments",
+      "id": "CNBC Markets-TWljcm9zb2Z0JmFwb3M7",
+      "title": "Microsoft&apos;s diversity chief is leaving as company continues &apos;AI-powered transformation&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/25/meta-layoffs-reality-labs-facebook.html",
+      "url": "https://www.cnbc.com/2026/03/25/microsoft-diversity-chief-ai-hr.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774456578000,
+      "publishedAt": 1774461801000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgTWFyY2ggTWFkbmVz",
+      "title": "As March Madness unfolds, NY Fed highlights sports betting toll on consumer credit health",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/25/sports-betting-credit-health-ny-fed.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774461421000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMganVyeSBmaW5kcyBN",
+      "title": "US jury finds Meta and Google liable in social media addiction trial",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction-4580528",
+      "source": "Investing.com News",
+      "publishedAt": 1774461304000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc3VzcGVuZHMgYW50",
+      "title": "US suspends anti-smog fuel rules in bid to ease pump prices",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-suspends-antismog-fuel-rules-in-bid-to-ease-pump-prices-4580576",
+      "source": "Investing.com News",
+      "publishedAt": 1774461266000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVVMgQW50",
+      "title": "Form 144 US Antimony For: 25 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-us-antimony-for-25-march-93CH-4580605",
+      "source": "Investing.com News",
+      "publishedAt": 1774461257000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRXZlckNv",
+      "title": "Form 144 EverCommerce Inc. For: 25 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-evercommerce-inc-for-25-march-93CH-4580604",
+      "source": "Investing.com News",
+      "publishedAt": 1774461253000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: InnoCare Pharma’s Q4 2025 marks first profitable year",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-innocare-pharmas-q4-2025-marks-first-profitable-year-93CH-4580603",
+      "source": "Investing.com News",
+      "publishedAt": 1774461220000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hpdGUgSG91c2Ugc2F5",
+      "title": "White House says Trump will meet Xi in China in May",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774461176000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgcmVhZHkgdG8g",
+      "title": "Trump ready to hit Iran harder if Tehran fails to accept defeat, says White House",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-ready-to-hit-iran-harder-if-tehran-fails-to-accept-defeat-says-white-house-93CH-4580601",
+      "source": "Investing.com News",
+      "publishedAt": 1774461151000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration waives gasoline regulations to address surging fuel prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/25/iran-war-gas-prices-epa-waiver.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774461076000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVyeSBpbiBMb3MgQW5n",
+      "title": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774460997000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsbGlhbSBCbGFpciBy",
+      "title": "William Blair reiterates Beam Therapeutics stock rating on positive trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/william-blair-reiterates-beam-therapeutics-stock-rating-on-positive-trial-data-93CH-4580599",
+      "source": "Investing.com News",
+      "publishedAt": 1774460942000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGlncmVzcyBGaW5hbmNp",
+      "title": "Tigress Financial raises Amazon stock price target on AI growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/tigress-financial-raises-amazon-stock-price-target-on-ai-growth-93CH-4580598",
+      "source": "Investing.com News",
+      "publishedAt": 1774460942000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xlYXIgU3RyZWV0IHJl",
+      "title": "Clear Street reiterates Beam Therapeutics stock rating on AATD data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/clear-street-reiterates-beam-therapeutics-stock-rating-on-aatd-data-93CH-4580597",
+      "source": "Investing.com News",
+      "publishedAt": 1774460940000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TG9uZyBsaW5lcyByZXBv",
+      "title": "Long lines reported at major US airports as more TSA officers quit",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/long-lines-reported-at-major-us-airports-as-more-tsa-officers-quit-4580561",
+      "source": "Investing.com News",
+      "publishedAt": 1774460909000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBicm91Z2h0IGJh",
+      "title": "U.S. brought back $100 million of gold from Venezuela, Interior Secretary Burgum says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/25/venezuela-gold-burgum-trump-rodriguez-maduro.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774460138000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -33,7 +262,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774456529000,
+      "publishedAt": 1774459265000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,105 +272,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VS5TLiBzdG9jayB2YWx1",
-      "title": "U.S. stock valuations point to near-term upside, Citadel strategist says",
+      "id": "CNBC Markets-TWV0YSBjdXR0aW5nIHNl",
+      "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-valuations-point-to-nearterm-upside-citadel-strategist-says-4580490",
-      "source": "Investing.com News",
-      "publishedAt": 1774456302000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmljYXJhIFRoZXJhcGV1",
-      "title": "Bicara Therapeutics stock gains on BofA initiation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bicara-therapeutics-stock-gains-on-bofa-initiation-93CH-4580489",
-      "source": "Investing.com News",
-      "publishedAt": 1774456277000,
+      "url": "https://www.cnbc.com/2026/03/25/meta-layoffs-reality-labs-facebook.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774458733000,
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBJbnNpZ2h0",
-      "title": "Form 8K Insight Enterprises Inc For: 25 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-insight-enterprises-inc-for-25-march-93CH-4580488",
-      "source": "Investing.com News",
-      "publishedAt": 1774456245000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgQ2FybHls",
-      "title": "Form 13G Carlyle Tactical Private Credit Fund For: 25 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-carlyle-tactical-private-credit-fund-for-25-march-93CH-4580487",
-      "source": "Investing.com News",
-      "publishedAt": 1774456237000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVubWFyayBzdG9ja3Mg",
-      "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.25%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-025-4580486",
-      "source": "Investing.com News",
-      "publishedAt": 1774456204000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIHJlaXRlcmF0",
-      "title": "Stifel reiterates Buy rating on Alnylam stock, $444 target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-alnylam-stock-444-target-93CH-4580485",
-      "source": "Investing.com News",
-      "publishedAt": 1774456146000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QlRJRyByZWl0ZXJhdGVz",
-      "title": "BTIG reiterates On Holding stock rating as co-founders to become CEOs",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/btig-reiterates-on-holding-stock-rating-as-cofounders-to-become-ceos-93CH-4580484",
-      "source": "Investing.com News",
-      "publishedAt": 1774456143000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -153,7 +292,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/25/trump-airport-security-tsa-national-guard.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774456002000,
+      "publishedAt": 1774458147000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,15 +302,30 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW1leCB1bnZlaWxzIGJ1",
-      "title": "Amex unveils business cards as Wolfe reiterates Peerperform",
+      "id": "CNBC Markets-R2VuIFogYnJvdGhlcnMg",
+      "title": "Gen Z brothers bought a $4,000 pickup truck to start their business—now it brings in $3 million a year",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/amex-unveils-business-cards-as-wolfe-reiterates-peerperform-93CH-4580477",
-      "source": "Investing.com News",
-      "publishedAt": 1774455779000,
+      "url": "https://www.cnbc.com/2026/03/25/junk-teens-gen-z-students-launched-business-that-brings-in-millions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774457628000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIHJlc2VhcmNoIGZp",
+      "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774457346000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -190,36 +344,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RURBUCBlYXJuaW5ncyBt",
-      "title": "EDAP earnings missed by €0.10, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/edap-earnings-missed-by-010-revenue-topped-estimates-4580475",
-      "source": "Investing.com News",
-      "publishedAt": 1774455611000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JlZW5sYW5kIGluZGVw",
-      "title": "Greenland independence party wins seat in Danish parliament at key moment",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/greenland-independence-party-wins-seat-in-danish-parliament-at-key-moment-4580473",
-      "source": "Investing.com News",
-      "publishedAt": 1774455511000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -274,21 +398,6 @@
       "url": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html",
       "source": "CNBC Markets",
       "publishedAt": 1774452104000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RW1pbHkgR3JlZ29yeSBw",
-      "title": "Emily Gregory projected to win Florida special election to represent Trump, Mar-a-Lago",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/trump-emily-gregory-special-election-democrat-mar-a-lago.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774451527000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -388,36 +497,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXNpYS1QYWNpZmljIHN0",
-      "title": "Asia-Pacific stocks rise as Trump comments signal de-escalation in Iran conflict",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774444763000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0sgSHluaXggZmlsZXMg",
-      "title": "SK Hynix files confidentially for U.S. listing as it rides &apos;unprecedented growth&apos; in memory market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774444584000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TGVnYWwgQUkgc3RhcnR1",
       "title": "Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies",
       "summary": "",
@@ -463,21 +542,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSBtdXN0IHBheSAk",
-      "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774443328000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiB3YXIgbWF5IGZ1",
       "title": "Iran war may further &apos;chill&apos; an already frozen job market, economist says",
       "summary": "",
@@ -490,36 +554,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U291dGggS29yZWEgYnJh",
-      "title": "South Korea braces for &apos;worst-case scenarios&apos; as Iran oil shock deepens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/25/south-korea-iran-oil-shock-middle-east-conflict.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774436880000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVubWFya+KAmXMgUE0g",
-      "title": "Denmark’s PM Frederiksen suffers election setback after standing up to Trump over Greenland",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/25/denmark-election-result-greenland-trump-mette-frederiksen.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774435703000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -553,42 +587,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SnVkZ2UgcHJlc3NlcyBE",
-      "title": "Judge presses DOD on why Anthropic was blacklisted: &apos;That seems a pretty low bar&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/anthropic-lawsuit-pentagon-supply-chain-risk-claude.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774395950000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIHJhaXNlcyBh",
       "title": "OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html",
       "source": "CNBC Markets",
       "publishedAt": 1774395454000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmVuZXp1ZWxhIG9wcG9z",
-      "title": "Venezuela opposition leader María Corina Machado calls for full privatization of oil industry",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/24/venezuela-oil-machado-maduro-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774395287000,
       "lang": "en-US",
       "topics": [
         "macro"
