@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1774603763027,
-  "crawlUpdatedAt": 1774603763027,
+  "updatedAt": 1774607243623,
+  "crawlUpdatedAt": 1774607243623,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,168 +13,170 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
-      "title": "Oil prices rise as Trump says Iran let 10 tankers through Strait of Hormuz as a &apos;present&apos;",
+      "id": "Investing.com News-VVMgdXNlcyBodW5kcmVk",
+      "title": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon, WaPo reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon-wapo-reports-4584503",
+      "source": "Investing.com News",
+      "publishedAt": 1774607116000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtV2FyIGJl",
+      "title": "Analysis-War between Hezbollah and Israel deepens fractures in Lebanon",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/analysiswar-between-hezbollah-and-israel-deepens-fractures-in-lebanon-4584531",
+      "source": "Investing.com News",
+      "publishedAt": 1774607096000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VuYXRlIG1vdmVzIHRv",
+      "title": "Senate moves to fund most of Homeland Security after shutdown disrupts airports",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-senate-agrees-to-end-shutdown-for-most-of-dhs-politico-reports-4584140",
+      "source": "Investing.com News",
+      "publishedAt": 1774607076000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2FrdHJlZSBmdW5kIHNl",
+      "title": "Oaktree fund sees redemption surge in first quarter",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/oaktree-fund-sees-redemption-surge-in-first-quarter-93CH-4584530",
+      "source": "Investing.com News",
+      "publishedAt": 1774607054000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyByZXN1",
+      "title": "Oil prices resume climb amid tempered Iran peace effort hopes",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-tick-down-set-for-weekly-losses-on-middle-east-deescalation-hopes-4584055",
+      "source": "Investing.com News",
+      "publishedAt": 1774607045000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3V6YW5vIGFuZCBLaW1i",
+      "title": "Suzano and Kimberly-Clark joint venture faces UK competition probe",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/suzano-and-kimberlyclark-joint-venture-faces-uk-competition-probe-93CH-4584529",
+      "source": "Investing.com News",
+      "publishedAt": 1774606959000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmhhdiBBY3F1aXNpdGlv",
+      "title": "Bhav Acquisition Corp completes $102 million IPO and private placement on Nasdaq",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/bhav-acquisition-corp-completes-102-million-ipo-and-private-placement-on-nasdaq-93CH-4584528",
+      "source": "Investing.com News",
+      "publishedAt": 1774606958000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBSZWxpYW5j",
+      "title": "Form 8K Reliance Global Group Inc For: 27 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-reliance-global-group-inc-for-27-march-93CH-4584516",
+      "source": "Investing.com News",
+      "publishedAt": 1774606840000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBNRVJFTyBC",
+      "title": "Form 8K MEREO BIOPHARMA GROUP PLC For: 27 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-mereo-biopharma-group-plc-for-27-march-93CH-4584515",
+      "source": "Investing.com News",
+      "publishedAt": 1774606840000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBLb3BpbiBD",
+      "title": "Form 8K Kopin Corporation For: 27 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-kopin-corporation-for-27-march-93CH-4584514",
+      "source": "Investing.com News",
+      "publishedAt": 1774606839000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBjbGlt",
+      "title": "Oil prices climb to $110 as Trump&apos;s Iran deadline extension fails to allay supply fears",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/27/oil-price-wti-brent-crude-trump-strait-hormuz-tensions-iran-ships.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774602821000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVybm9kLVJpY2FyZCBz",
-      "title": "Pernod-Ricard shares pare losses as market digests merger talks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/pernod-ricard-shares-rise-after-merger-talks-confirmed-4584254",
-      "source": "Investing.com News",
-      "publishedAt": 1774602755000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Shopify stock rating on enterprise momentum",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-shopify-stock-rating-on-enterprise-momentum-93CH-4584322",
-      "source": "Investing.com News",
-      "publishedAt": 1774602683000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates DoorDash stock rating on AI efficiency gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-doordash-stock-rating-on-ai-efficiency-gains-93CH-4584321",
-      "source": "Investing.com News",
-      "publishedAt": 1774602675000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNIHNlZXMg4oCYc2ln",
-      "title": "JPM sees ‘significant upside’ in European defense stocks, flags its top pick",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpm-sees-significant-upside-in-european-defense-stocks-flags-its-top-pick-4584218",
-      "source": "Investing.com News",
-      "publishedAt": 1774602651000,
+      "publishedAt": 1774606389000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Next PLC Q1 2026 earnings beat expectations",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-next-plc-q1-2026-earnings-beat-expectations-93CH-4584320",
-      "source": "Investing.com News",
-      "publishedAt": 1774602572000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmV0aXJlZCBVLlMuIGFk",
-      "title": "Retired U.S. admiral warns Iran war could last longer than expected",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/retired-us-admiral-warns-iran-war-could-last-longer-than-expected-4581790",
-      "source": "Investing.com News",
-      "publishedAt": 1774602505000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBzZWVzIG1vcmUg",
-      "title": "BofA sees more strength for U.S. dollar in Q2",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/bofa-sees-more-strength-for-us-dollar-in-q2-4582391",
-      "source": "Investing.com News",
-      "publishedAt": 1774602492000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXgtQk9KIGNoaWVmIEt1",
-      "title": "Ex-BOJ chief Kuroda sees 3-4 more rate hikes to 1.5% in 2027, Asahi interview shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/exboj-chief-kuroda-sees-34-more-rate-hikes-to-15-in-2027-asahi-interview-shows-4584317",
-      "source": "Investing.com News",
-      "publishedAt": 1774602414000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVybyB6b25lIGNvbnN1",
-      "title": "Euro zone consumers cut inflation outlook before Iran war, ECB survey shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/euro-zone-consumers-cut-inflation-outlook-before-iran-war-ecb-survey-shows-4584316",
-      "source": "Investing.com News",
-      "publishedAt": 1774602396000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2hvdWxkIHlvdSBidXkg",
-      "title": "Should you buy the dip in memory stocks? Tech specialist weighs in",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/should-you-buy-the-dip-in-memory-stocks-tech-specialist-weighs-in-4582863",
-      "source": "Investing.com News",
-      "publishedAt": 1774602394000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -345,12 +347,42 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SW5pZmluaXRpIGhvcGVz",
+      "title": "Inifiniti hopes new SUV can turn around fortunes in the U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/26/inifiniti-qx65-suv-nissan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774566001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-T3BlbkFJIGFkcyBwaWxv",
       "title": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html",
       "source": "CNBC Markets",
       "publishedAt": 1774564112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXMgbm93IHRoZSB0aW1l",
+      "title": "Is now the time to buy Nvidia? Cramer says ask these questions to arrive at an answer",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/26/cramer-when-to-buy-nvidia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774563997000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -533,36 +565,6 @@
       "url": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1774542586000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2xhcGxleCB0byBiZSBh",
-      "title": "Olaplex to be acquired by German company Henkel in $1.4 billion deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/26/olaplex-acquired-henkel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774540451000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgYW5kIGJvdHMgaGF2",
-      "title": "AI and bots have officially taken over the internet, report finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774539765000,
       "lang": "zh-CN",
       "topics": [
         "macro"
