@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774719477602,
-  "crawlUpdatedAt": 1774719477602,
-  "crawlCount": 36,
+  "updatedAt": 1774724087020,
+  "crawlUpdatedAt": 1774724087020,
+  "crawlCount": 33,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-QWx1bWlzIHJlcG9ydHMg",
+      "title": "Alumis reports Phase 3 psoriasis trial results for envudeucitinib",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/alumis-reports-phase-3-psoriasis-trial-results-for-envudeucitinib-93CH-4586529",
+      "source": "Investing.com News",
+      "publishedAt": 1774719429000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QW5hbHlzaXMtT25lIG1v",
       "title": "Analysis-One month into Iran war, only hard choices for Trump",
@@ -208,21 +223,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXQgQ1BBQywgYSBnZW5l",
-      "title": "At CPAC, a generational divide over Republican support for Israel",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/at-cpac-a-generational-divide-over-republican-support-for-israel-4586492",
-      "source": "Investing.com News",
-      "publishedAt": 1774708947000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXhwZWN0aW5nIHRvIGZp",
       "title": "Expecting to fight about money with your partner? You might be wrong, study finds",
       "summary": "",
@@ -284,41 +284,10 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXMgc3RvY2tzIGFuZCBi",
-      "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774699201000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UHJpY3kgYWlyZmFyZSwg",
       "title": "Pricy airfare, airport chaos test travelers&apos; willingness to fly this year",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/28/tsa-security-airfare-airports.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774699201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIElyYW4gd2FyIGlz",
-      "title": "The Iran war is defense tech&apos;s chance to shine, but few systems and weapons are ready",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/28/iran-war-defense-tech-drones-trump-hegseth.html",
       "source": "CNBC Markets",
       "publishedAt": 1774699201000,
       "lang": "en-US",
@@ -465,6 +434,22 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-U3RyYXRlZ3kgaXMgYWNj",
+      "title": "Strategy is accelerating its crypto purchases as rivals sit on the sidelines",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/27/strategy-is-accelerating-its-crypto-purchases-as-rivals-sit-on-the-sidelines.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774642559000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q3liZXJzZWN1cml0eSBz",
       "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
       "summary": "",
@@ -522,38 +507,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXZlcmFnZSBJUlMgdGF4",
-      "title": "Average IRS tax refund is up 10.9%, latest filing data shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/average-irs-tax-refund.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774637617000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFya2V0cyBub3cgc2Vl",
-      "title": "Markets now see the Fed&apos;s next move as a potential rate hike as inflation fears mount",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774634560000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
