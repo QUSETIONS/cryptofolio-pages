@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774733869344,
-  "crawlUpdatedAt": 1774733869344,
-  "crawlCount": 28,
+  "updatedAt": 1774737505151,
+  "crawlUpdatedAt": 1774737505151,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4586545",
-      "source": "Investing.com News",
-      "publishedAt": 1774732804000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-WWVtZW7igJlzIEhvdXRo",
       "title": "Yemen’s Houthis enter Iran war with attack on Israel, while US Marines arrive in region",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/yemens-houthis-strike-at-israel-in-their-first-such-attack-since-iran-war-began-4586536",
       "source": "Investing.com News",
-      "publishedAt": 1774730945000,
+      "publishedAt": 1774737023000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +33,22 @@
       "summary": "",
       "url": "https://www.investing.com/news/politics-news/vice-president-vance-wins-cpac-conservative-meetings-2028-presidential-straw-poll-4586543",
       "source": "Investing.com News",
-      "publishedAt": 1774730930000,
+      "publishedAt": 1774734871000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4586545",
+      "source": "Investing.com News",
+      "publishedAt": 1774732804000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -401,36 +401,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVy4oCZcyBnYW1l",
-      "title": "Cramer’s game plan: Oil shock is driving this sell-off and tech won’t bottom until it ends",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/cramers-gameplan-oil-driving-sell-off-tech-wont-bottom-until-it-ends.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774650729000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGVjaCBzdG9ja3Mgc3Vm",
-      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/tech-stocks-iran-war-meta-verdict.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774649193000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
