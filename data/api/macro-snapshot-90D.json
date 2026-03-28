@@ -8,10 +8,6 @@
       "source": "Yahoo Finance",
       "points": [
         {
-          "ts": 1766793600000,
-          "value": 87802.15625
-        },
-        {
           "ts": 1766880000000,
           "value": 87835.8359375
         },
@@ -369,7 +365,11 @@
         },
         {
           "ts": 1774569600000,
-          "value": 66172.6484375
+          "value": 0
+        },
+        {
+          "ts": 1774656000000,
+          "value": 65987.2265625
         }
       ]
     },
@@ -1459,12 +1459,12 @@
     }
   ],
   "factors": {
-    "totalMarketCapUsd": 2363984425211.7427,
-    "totalVolumeUsd": 106863738817.49933,
-    "marketCapChange24h": -3.025446623429366,
-    "btcDominance": 56.00416633693693
+    "totalMarketCapUsd": 2357882539416.775,
+    "totalVolumeUsd": 108176904592.75903,
+    "marketCapChange24h": -3.4325156237458443,
+    "btcDominance": 55.95724677968054
   },
-  "updatedAt": 1774654828076,
+  "updatedAt": 1774666369638,
   "quality": "fresh",
   "sources": [
     "Yahoo Finance",
