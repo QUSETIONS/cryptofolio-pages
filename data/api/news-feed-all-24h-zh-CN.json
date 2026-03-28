@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774694472363,
-  "crawlUpdatedAt": 1774694472363,
-  "crawlCount": 36,
+  "updatedAt": 1774697723577,
+  "crawlUpdatedAt": 1774697723577,
+  "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,113 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SG93IENoaW5lc2UsIFJ1",
+      "title": "How Chinese, Russian Arctic ambitions are fueling a U.S. polar icebreaker mission",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/28/china-russia-arctic-polar-icebreaker-ships.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774696844000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-aG93IEZhaXIgVmFsdWUg",
+      "title": "how Fair Value analysis identified Centrus Energy’s 52% decline risk",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-analysis-identified-centrus-energys-52-decline-risk-93CH-4586497",
+      "source": "Investing.com News",
+      "publishedAt": 1774695752000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5hbHlzaXM6IEEgbmV3",
+      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774695601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSBQYXJhbW91bnQtV2Fy",
+      "title": "A Paramount-Warner Bros. movie slate will need more animated features to compete with Disney and Universal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/28/paramount-warner-bros-movie-slate-needs-animation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774695601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhlc2UgMyDigJlmb3Jj",
+      "title": "These 3 ’forces’ are hurting gold, strategist says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/these-3-forces-are-hurting-gold-strategist-says-4586496",
+      "source": "Investing.com News",
+      "publishedAt": 1774695308000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZi1UaWdlciBXb29k",
+      "title": "Golf-Tiger Woods arrested on DUI charge after Florida car crash",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/tiger-woods-involved-in-rollover-crash-in-florida-abc-news-reports-4585830",
+      "source": "Investing.com News",
+      "publishedAt": 1774695294000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXQgQ1BBQywgYSBnZW5l",
+      "title": "At CPAC, a generational divide over Republican support for Israel",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/at-cpac-a-generational-divide-over-republican-support-for-israel-4586492",
+      "source": "Investing.com News",
+      "publishedAt": 1774694183000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-T24gQ2FuYWRh4oCZcyB0",
       "title": "On Canada’s tariff frontline, business stalls over US trade deal jitters",
@@ -55,21 +162,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXQgQ1BBQywgYSBnZW5l",
-      "title": "At CPAC, a generational divide over Republican support for Israel",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/at-cpac-a-generational-divide-over-republican-support-for-israel-4586492",
-      "source": "Investing.com News",
-      "publishedAt": 1774692403000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -118,51 +210,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SGVkZ2UgZnVuZCB2ZXRl",
-      "title": "Hedge fund veteran Guy Spier shutters Aquamarine Fund as stockpicking edge erodes",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hedge-fund-veteran-guy-spier-shutters-aquamarine-fund-as-stockpicking-edge-erodes-4586489",
-      "source": "Investing.com News",
-      "publishedAt": 1774690216000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFraXN0YW4gdG8gaG9z",
-      "title": "Pakistan to host regional summit on Monday amid Iran cease-fire talks- report",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/pakistan-to-host-regional-summit-on-monday-amid-iran-ceasefire-talks-report-93CH-4586488",
-      "source": "Investing.com News",
-      "publishedAt": 1774690104000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG91dGhpcyBzdHJpa2Ug",
-      "title": "Houthis strike Israel as conflict widens; 12 US soldiers injured in a Saudi strike",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ten-us-servicemembers-wounded-in-iranian-strike-on-saudi-base-report-4586212",
-      "source": "Investing.com News",
-      "publishedAt": 1774689984000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXBzdGVpbiB2aWN0aW1z",
       "title": "Epstein victims to get $72.5M from Bank of America settlement",
       "summary": "",
@@ -190,21 +237,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VFNBIGZ1bmRpbmcgdXBk",
-      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that&apos;s caused airport delays",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774661069000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -359,6 +391,23 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-QW5hbHlzaXM6IFdoYXQg",
+      "title": "Analysis: What might trip up Kevin Warsh and his agenda as Fed chair",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/27/analysis-what-might-trip-up-kevin-warsh-and-his-agenda-as-fed-chair.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774636210000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-MS40IG1pbGxpb24gZmls",
       "title": "1.4 million filers face tax refund delays amid IRS paper check phaseout",
       "summary": "",
@@ -395,21 +444,6 @@
       "url": "https://www.cnbc.com/2026/03/27/why-investors-should-resist-the-easiest-course-in-a-difficult-market.html",
       "source": "CNBC Markets",
       "publishedAt": 1774630908000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXN0cmFaZW5lY2Egc3Rv",
-      "title": "AstraZeneca stock jumps after surprise trial win for lung disease drug where rivals have failed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/astrazeneca-stock-az-trial-lung-drug-shares-tozorakimab.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774630064000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -532,21 +566,6 @@
       "url": "https://www.cnbc.com/2026/03/26/elon-musks-boring-co-tunnels-not-wanted-by-most-nashville-residents.html",
       "source": "CNBC Markets",
       "publishedAt": 1774614743000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IG9uZSBoZWRnZSBm",
-      "title": "Why one hedge fund veteran is urging investors to &apos;prepare for the worst&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774609201000,
       "lang": "zh-CN",
       "topics": [
         "macro"
