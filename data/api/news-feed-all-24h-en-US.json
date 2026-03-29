@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774781088080,
-  "crawlUpdatedAt": 1774781088080,
-  "crawlCount": 23,
+  "updatedAt": 1774784191269,
+  "crawlUpdatedAt": 1774784191269,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,57 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QmFocmFpbiBhbHVtaW51",
-      "title": "Bahrain aluminum giant says Iranian attack targeted its facility",
+      "id": "Investing.com News-SW4gU3VwcmVtZSBDb3Vy",
+      "title": "In Supreme Court fight over birthright citizenship, a great-grandson hears echoes of 1898",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/29/bahrain-aluminum-giant-says-iranian-attack-targeted-its-facilit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774780911000,
+      "url": "https://www.investing.com/news/world-news/in-supreme-court-fight-over-birthright-citizenship-a-greatgrandson-hears-echoes-of-1898-4586579",
+      "source": "Investing.com News",
+      "publishedAt": 1774783105000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBpcyB0aGUgaW1w",
+      "title": "What is the impact of oil shock scenarios on fixed-income markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-is-the-impact-of-oil-shock-scenarios-on-fixedincome-markets-4586583",
+      "source": "Investing.com News",
+      "publishedAt": 1774782786000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SHVudHNtYW4gc3RvY2sg",
+      "title": "Huntsman stock surges 63% after Fair Value spotted opportunity",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/huntsman-stock-surges-63-after-fair-value-spotted-opportunity-93CH-4586582",
+      "source": "Investing.com News",
+      "publishedAt": 1774782726000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-aG93IEZhaXIgVmFsdWUg",
+      "title": "how Fair Value analysis flagged Trilogy Metals 46% decline",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-analysis-flagged-trilogy-metals-46-decline-93CH-4586581",
+      "source": "Investing.com News",
+      "publishedAt": 1774782138000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +78,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-say-4586577",
       "source": "Investing.com News",
-      "publishedAt": 1774779505000,
+      "publishedAt": 1774781689000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +93,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/factboxsome-trades-ahead-of-trump-policy-moves-raise-questions-4586580",
       "source": "Investing.com News",
-      "publishedAt": 1774779149000,
+      "publishedAt": 1774781670000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,18 +103,33 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW4gU3VwcmVtZSBDb3Vy",
-      "title": "In Supreme Court fight over birthright citizenship, a great-grandson hears echoes of 1898",
+      "id": "Investing.com News-SXJhbiB3YXJucyBvZiBh",
+      "title": "Iran warns of attacks on American universities as U.S. prepares ground troops",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/in-supreme-court-fight-over-birthright-citizenship-a-greatgrandson-hears-echoes-of-1898-4586579",
+      "url": "https://www.investing.com/news/economy-news/iran-warns-of-attacks-on-american-universities-as-us-prepares-ground-troops-4586566",
       "source": "Investing.com News",
-      "publishedAt": 1774778838000,
+      "publishedAt": 1774781023000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmFocmFpbiBhbHVtaW51",
+      "title": "Bahrain aluminum giant says Iranian attack targeted its facility",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/29/bahrain-aluminum-giant-says-iranian-attack-targeted-its-facilit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774780911000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -115,66 +175,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIGlzIGV4",
-      "title": "Bernstein is excited about this company’s ambitions in Physical AI",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bernstein-is-excited-about-this-companys-ambitions-in-physical-ai-4586574",
-      "source": "Investing.com News",
-      "publishedAt": 1774775447000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-NSBiaWcgYW5hbHlzdCBB",
-      "title": "5 big analyst AI moves: Downgrades for SAP and Qualcomm; Arm lifted to Buy",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-downgrades-for-sap-and-qualcomm-arm-lifted-to-buy-4586523",
-      "source": "Investing.com News",
-      "publishedAt": 1774774802000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3dpc3MgcHJlc2lkZW50",
-      "title": "Swiss president says U.S. trade talks to continue beyond March",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/swiss-president-says-us-trade-talks-to-continue-beyond-march-4586573",
-      "source": "Investing.com News",
-      "publishedAt": 1774774111000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBlbnZveSBzdW1t",
-      "title": "U.S. envoy summoned by Beijing amid dispute over Hong Kong data laws",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-envoy-summoned-by-beijing-amid-dispute-over-hong-kong-data-laws-4586572",
-      "source": "Investing.com News",
-      "publishedAt": 1774773245000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -305,51 +305,6 @@
       "url": "https://www.cnbc.com/2026/03/28/berkshire-shares-suffer-longest-losing-streak-in-more-than-7-years.html",
       "source": "CNBC Markets",
       "publishedAt": 1774698944000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IENoaW5lc2UsIFJ1",
-      "title": "How Chinese, Russian Arctic ambitions are fueling a U.S. polar icebreaker mission",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/28/china-russia-arctic-polar-icebreaker-ships.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774696844000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEEgbmV3",
-      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774695601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBQYXJhbW91bnQtV2Fy",
-      "title": "A Paramount-Warner Bros. movie slate will need more animated features to compete with Disney and Universal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/28/paramount-warner-bros-movie-slate-needs-animation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774695601000,
       "lang": "en-US",
       "topics": [
         "macro"
