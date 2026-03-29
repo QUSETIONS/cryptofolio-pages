@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774824020797,
-  "crawlUpdatedAt": 1774824020797,
-  "crawlCount": 20,
+  "updatedAt": 1774827674509,
+  "crawlUpdatedAt": 1774827674509,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,83 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QXNpYS1QYWNpZmljIG1h",
+      "title": "Asia-Pacific markets set to fall as Middle East war enters fifth week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774827090000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RvY2tzIHNsaWRlIGlu",
+      "title": "Stocks slide in Asia, Brent crude heads for record monthly rise",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637",
+      "source": "Investing.com News",
+      "publishedAt": 1774826335000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VuYXRlIGNvbW1pdHRl",
+      "title": "Senate committee plans Warsh’s Fed nomination hearing as soon as week of April 13, Punchbowl reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636",
+      "source": "Investing.com News",
+      "publishedAt": 1774826316000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmlsbGVyb3kgc2F5cyBF",
+      "title": "Villeroy says ECB ready to act, but too early to discuss timing of any rate hike",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/villeroy-says-ecb-ready-to-act-but-too-early-to-discuss-timing-of-any-rate-hike-4586635",
+      "source": "Investing.com News",
+      "publishedAt": 1774825585000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBT",
+      "title": "Australia’s Star Entertainment inks $390 million refinancing deal with WhiteHawk",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australias-star-entertainment-inks-390-million-refinancing-deal-with-whitehawk-4586634",
+      "source": "Investing.com News",
+      "publishedAt": 1774825254000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXNyYWVsIGJsb2NrcyBD",
       "title": "Israel blocks Cardinal from Jerusalem’s Holy Sepulchre on Palm Sunday, sparking outcry",
@@ -118,72 +195,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4586627",
-      "source": "Investing.com News",
-      "publishedAt": 1774819203000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZmlnaHRlciBqZXRz",
-      "title": "US fighter jets escort plane out of no-fly zone near Trump’s Mar-a-Lago resort",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/us-fighter-jets-escort-plane-out-of-nofly-zone-near-trumps-maralago-resort-4586626",
-      "source": "Investing.com News",
-      "publishedAt": 1774819107000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIHByb2JsZW0gZm9y",
       "title": "The problem for investors: We don&apos;t know how Trump wants the Iran war to end",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/29/the-problem-for-investors-we-dont-know-how-trump-wants-the-iran-war-to-end.html",
       "source": "CNBC Markets",
       "publishedAt": 1774818209000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiB3YXJucyBVLlMu",
-      "title": "Iran warns U.S. over ground attack, threats expand to American targets",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-warns-of-attacks-on-american-universities-as-us-prepares-ground-troops-4586566",
-      "source": "Investing.com News",
-      "publishedAt": 1774814234000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TkFTQeKAmXMgQXJ0ZW1p",
-      "title": "NASA’s Artemis astronauts enter final preparations for Moon mission",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nasas-artemis-astronauts-enter-final-preparations-for-moon-mission-4586624",
-      "source": "Investing.com News",
-      "publishedAt": 1774812268000,
       "lang": "en-US",
       "topics": [
         "macro"
