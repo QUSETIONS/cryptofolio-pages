@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774810587575,
-  "crawlUpdatedAt": 1774810587575,
-  "crawlCount": 22,
+  "updatedAt": 1774813158287,
+  "crawlUpdatedAt": 1774813158287,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-TWlkZGxlIEVhc3QgbGVh",
+      "title": "Middle East leaders huddle in Pakistan as Trump weighs ground operations in Iran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/29/bahrain-aluminum-giant-says-iranian-attack-targeted-its-facilit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774812846000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TkFTQeKAmXMgQXJ0ZW1p",
+      "title": "NASA’s Artemis astronauts enter final preparations for Moon mission",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nasas-artemis-astronauts-enter-final-preparations-for-moon-mission-4586624",
+      "source": "Investing.com News",
+      "publishedAt": 1774812268000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiB3YXJucyBVLlMu",
       "title": "Iran warns U.S. over ground attack, threats expand to American targets",
@@ -49,21 +79,6 @@
       "url": "https://www.investing.com/news/politics-news/democratic-lawmaker-himes-calls-for-indicted-colleague-cherfilusmccormick-to-resign-4586622",
       "source": "Investing.com News",
       "publishedAt": 1774805435000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWlkZGxlIEVhc3QgbGVh",
-      "title": "Middle East leaders huddle in Pakistan as Trump weighs ground operations in Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/29/bahrain-aluminum-giant-says-iranian-attack-targeted-its-facilit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774805418000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -177,23 +192,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
-      "title": "Goldman Sachs reiterates Pony AI stock rating on robotaxi growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-pony-ai-stock-rating-on-robotaxi-growth-93CH-4586616",
-      "source": "Investing.com News",
-      "publishedAt": 1774800814000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -329,21 +327,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRoZSBiaWcgb2ls",
-      "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774726546000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
