@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774841427111,
-  "crawlUpdatedAt": 1774841427111,
-  "crawlCount": 23,
+  "updatedAt": 1774850624551,
+  "crawlUpdatedAt": 1774850624551,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,149 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-RG9sbGFyIGJpZGVzIHRp",
+      "title": "Dollar bides time as markets brace for drawn-out Middle East war",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment-4586646",
+      "source": "Investing.com News",
+      "publishedAt": 1774849348000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW4gc3RlcHMgdXAg",
+      "title": "Japan steps up yen intervention threats, signals rate-hike chance",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/japan-steps-up-yen-intervention-threats-signals-ratehike-chance-4586651",
+      "source": "Investing.com News",
+      "publishedAt": 1774849005000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2tSb2NrIGZ1bmRz",
+      "title": "BlackRock funds provide about $57 million to IQM Quantum Computers ahead of US IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/blackrock-funds-provide-about-57-million-to-iqm-quantum-computers-ahead-of-us-ipo-4586683",
+      "source": "Investing.com News",
+      "publishedAt": 1774848992000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxpIExpbGx5IHJlYWNo",
+      "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774848902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyBEYWlseSBPcGVu",
+      "title": "CNBC Daily Open: Trump&apos;s &apos;favorite thing&apos; is Iranian oil",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/cnbc-daily-open-trumps-favorite-thing-is-iranian-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774848752000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhIHN0b2Nr",
+      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.65%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-065-4586682",
+      "source": "Investing.com News",
+      "publishedAt": 1774848604000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29kZXhvIHVwZ3JhZGVk",
+      "title": "Sodexo upgraded as Jefferies sees trough valuation after two-year slump",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sodexo-upgraded-as-jefferies-sees-trough-valuation-after-twoyear-slump-4586681",
+      "source": "Investing.com News",
+      "publishedAt": 1774848508000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWxpIExpbGx5IHNpZ25z",
+      "title": "Eli Lilly signs $2.75 billion drug discovery deal with InSilico",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/eli-lilly-signs-275-billion-drug-discovery-deal-with-insilico-93CH-4586680",
+      "source": "Investing.com News",
+      "publishedAt": 1774848029000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUV1cm9w",
+      "title": "Exclusive-European airlines likely beat 2% green jet fuel target last year, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveeuropean-airlines-likely-beat-2-green-jet-fuel-target-last-year-sources-say-4586679",
+      "source": "Investing.com News",
+      "publishedAt": 1774847546000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgcmVwb3J0ZWRs",
       "title": "Trump reportedly wants to &apos;take the oil in Iran&apos; as Tehran targets water, power facilities in Kuwait",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774840898000,
+      "publishedAt": 1774847399000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBpbnRl",
-      "title": "Trump says intel chief Tulsi Gabbard ’softer’ than him on Iran nuclear issue",
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets set to start the week lower as Iran war intensifies",
       "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-says-intel-chief-tulsi-gabbard-softer-than-him-on-iran-nuclear-issue-4586649",
-      "source": "Investing.com News",
-      "publishedAt": 1774839274000,
+      "url": "https://www.cnbc.com/2026/03/30/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774847232000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,18 +180,63 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UG9wZSBMZW8gc2F5cyBH",
-      "title": "Pope Leo says God rejects prayers of leaders who wage wars",
+      "id": "Investing.com News-Uy5Lb3JlYSBleHBvcnRz",
+      "title": "S.Korea exports to rise most in nearly 5 years, imports also higher on Mideast conflict: Reuters poll",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/pope-leo-says-god-rejects-prayers-of-leaders-who-wage-wars-4586619",
+      "url": "https://www.investing.com/news/economic-indicators/skorea-exports-to-rise-most-in-nearly-5-years-imports-also-higher-on-mideast-conflict-reuters-poll-4586678",
       "source": "Investing.com News",
-      "publishedAt": 1774838932000,
+      "publishedAt": 1774847232000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmlrZeKAmXMgQ2hpbmEg",
+      "title": "Nike’s China stumble exposes execution gaps",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nikes-china-stumble-exposes-execution-gaps-4586677",
+      "source": "Investing.com News",
+      "publishedAt": 1774847197000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWxpIExpbGx5IGRlbWFu",
+      "title": "Eli Lilly demands higher NHS drug prices to resume UK investment - report",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/eli-lilly-demands-higher-nhs-drug-prices-to-resume-uk-investment--report-93CH-4586676",
+      "source": "Investing.com News",
+      "publishedAt": 1774847076000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGdhaW5zIHdpdGgg",
+      "title": "Oil gains with Brent heading for record monthly surge as Trump reportedly eyes Iran energy control",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774846292000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -67,143 +249,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBXaGl0",
-      "title": "Trump says White House ballroom is ahead of schedule",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-says-white-house-ballroom-is-ahead-of-schedule-4586648",
-      "source": "Investing.com News",
-      "publishedAt": 1774838190000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLVVTIFRy",
-      "title": "Exclusive-US Treasury to consult with insurance regulators on private credit lenders, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveus-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-4586642",
-      "source": "Investing.com News",
-      "publishedAt": 1774837838000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgc3RvY2sgZnV0dXJl",
-      "title": "US stock futures fall as Iran fears persist, Trump comments offer mild relief",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-iran-fears-persist-trump-comments-offer-some-relief-4586647",
-      "source": "Investing.com News",
-      "publishedAt": 1774836973000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFuayBvZiBKYXBhbiBj",
-      "title": "Bank of Japan chief signals vigilance to yen moves, impact on economy",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/boj-watching-fx-movement-as-factor-affecting-economy-governor-ueda-says-4586643",
-      "source": "Investing.com News",
-      "publishedAt": 1774834587000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9sbGFyIGhvbGRzIGZp",
-      "title": "Dollar holds firm as risk of protracted Middle East war saps sentiment",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment-4586646",
-      "source": "Investing.com News",
-      "publishedAt": 1774834224000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBuZWdv",
-      "title": "Trump says negotiations with Iran going ‘extremely well,’ ceasefire could be soon",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-says-negotiations-with-iran-going-extremely-well-ceasefire-could-be-soon-4586645",
-      "source": "Investing.com News",
-      "publishedAt": 1774834173000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHNvYXJzIHdpdGgg",
-      "title": "Oil soars with Brent heading for record monthly surge as Trump reportedly eyes Iran energy control",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774833972000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsIGJsb2NrcyBD",
-      "title": "Israel blocks Cardinal from Jerusalem’s Holy Sepulchre on Palm Sunday, sparking outcry",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-police-block-catholic-cardinal-from-jerusalems-holy-sepulchre-on-palm-sunday-4586592",
-      "source": "Investing.com News",
-      "publishedAt": 1774833506000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk9KIGRlYmF0ZWQgbmVl",
-      "title": "BOJ debated need for more rate hikes, March meeting summary shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641",
-      "source": "Investing.com News",
-      "publishedAt": 1774833142000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -276,21 +321,6 @@
       "url": "https://www.cnbc.com/2026/03/29/affordable-housing-trump-ban-investor-home-buying-real-estate.html",
       "source": "CNBC Markets",
       "publishedAt": 1774791821000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxpIExpbGx5IHJlYWNo",
-      "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774791389000,
       "lang": "zh-CN",
       "topics": [
         "macro"
