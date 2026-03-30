@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774827674509,
-  "crawlUpdatedAt": 1774827674509,
-  "crawlCount": 21,
+  "updatedAt": 1774841426990,
+  "crawlUpdatedAt": 1774841426990,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,104 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXNpYS1QYWNpZmljIG1h",
-      "title": "Asia-Pacific markets set to fall as Middle East war enters fifth week",
+      "id": "CNBC Markets-VHJ1bXAgcmVwb3J0ZWRs",
+      "title": "Trump reportedly wants to &apos;take the oil in Iran&apos; as Tehran targets water, power facilities in Kuwait",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774840898000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBpbnRl",
+      "title": "Trump says intel chief Tulsi Gabbard ’softer’ than him on Iran nuclear issue",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-says-intel-chief-tulsi-gabbard-softer-than-him-on-iran-nuclear-issue-4586649",
+      "source": "Investing.com News",
+      "publishedAt": 1774839274000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9wZSBMZW8gc2F5cyBH",
+      "title": "Pope Leo says God rejects prayers of leaders who wage wars",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/pope-leo-says-god-rejects-prayers-of-leaders-who-wage-wars-4586619",
+      "source": "Investing.com News",
+      "publishedAt": 1774838932000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
+      "title": "South Korea&apos;s Kospi leads declines in Asia as Middle East war enters fifth week",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/30/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-oil.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774827090000,
+      "publishedAt": 1774838215000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBXaGl0",
+      "title": "Trump says White House ballroom is ahead of schedule",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-says-white-house-ballroom-is-ahead-of-schedule-4586648",
+      "source": "Investing.com News",
+      "publishedAt": 1774838190000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVVTIFRy",
+      "title": "Exclusive-US Treasury to consult with insurance regulators on private credit lenders, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveus-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-4586642",
+      "source": "Investing.com News",
+      "publishedAt": 1774837838000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc3RvY2sgZnV0dXJl",
+      "title": "US stock futures fall as Iran fears persist, Trump comments offer mild relief",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-iran-fears-persist-trump-comments-offer-some-relief-4586647",
+      "source": "Investing.com News",
+      "publishedAt": 1774836973000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +120,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RvY2tzIHNsaWRlIGlu",
-      "title": "Stocks slide in Asia, Brent crude heads for record monthly rise",
+      "id": "Investing.com News-QmFuayBvZiBKYXBhbiBj",
+      "title": "Bank of Japan chief signals vigilance to yen moves, impact on economy",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637",
+      "url": "https://www.investing.com/news/economy-news/boj-watching-fx-movement-as-factor-affecting-economy-governor-ueda-says-4586643",
       "source": "Investing.com News",
-      "publishedAt": 1774826335000,
+      "publishedAt": 1774834587000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,50 +135,48 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2VuYXRlIGNvbW1pdHRl",
-      "title": "Senate committee plans Warsh’s Fed nomination hearing as soon as week of April 13, Punchbowl reports",
+      "id": "Investing.com News-RG9sbGFyIGhvbGRzIGZp",
+      "title": "Dollar holds firm as risk of protracted Middle East war saps sentiment",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636",
+      "url": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment-4586646",
       "source": "Investing.com News",
-      "publishedAt": 1774826316000,
+      "publishedAt": 1774834224000,
       "lang": "en-US",
       "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmlsbGVyb3kgc2F5cyBF",
-      "title": "Villeroy says ECB ready to act, but too early to discuss timing of any rate hike",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/villeroy-says-ecb-ready-to-act-but-too-early-to-discuss-timing-of-any-rate-hike-4586635",
-      "source": "Investing.com News",
-      "publishedAt": 1774825585000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBT",
-      "title": "Australia’s Star Entertainment inks $390 million refinancing deal with WhiteHawk",
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBuZWdv",
+      "title": "Trump says negotiations with Iran going ‘extremely well,’ ceasefire could be soon",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/australias-star-entertainment-inks-390-million-refinancing-deal-with-whitehawk-4586634",
+      "url": "https://www.investing.com/news/economy-news/trump-says-negotiations-with-iran-going-extremely-well-ceasefire-could-be-soon-4586645",
       "source": "Investing.com News",
-      "publishedAt": 1774825254000,
+      "publishedAt": 1774834173000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHNvYXJzIHdpdGgg",
+      "title": "Oil soars with Brent heading for record monthly surge as Trump reportedly eyes Iran energy control",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774833972000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -95,7 +185,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/world-news/israeli-police-block-catholic-cardinal-from-jerusalems-holy-sepulchre-on-palm-sunday-4586592",
       "source": "Investing.com News",
-      "publishedAt": 1774823066000,
+      "publishedAt": 1774833506000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -105,45 +195,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWxrYW5lIFJlc291cmNl",
-      "title": "Alkane Resources secures A$150m in new credit facilities",
+      "id": "Investing.com News-Qk9KIGRlYmF0ZWQgbmVl",
+      "title": "BOJ debated need for more rate hikes, March meeting summary shows",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/alkane-resources-secures-a150m-in-new-credit-facilities-93CH-4586633",
+      "url": "https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641",
       "source": "Investing.com News",
-      "publishedAt": 1774822872000,
+      "publishedAt": 1774833142000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBqdW1w",
-      "title": "Oil prices jump after Yemeni Houthis attack Israel, widening Iran conflict",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-jump-after-yemeni-houthis-attack-israel-widening-iran-conflict-4586632",
-      "source": "Investing.com News",
-      "publishedAt": 1774822709000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFraXN0YW4gcHJlcGFy",
-      "title": "Pakistan prepares to host peace talks as Iran accuses US of ground assault plans",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/pakistan-prepares-to-host-peace-talks-as-iran-accuses-us-of-ground-assault-plans-4586625",
-      "source": "Investing.com News",
-      "publishedAt": 1774821627000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -156,36 +216,6 @@
       "url": "https://www.cnbc.com/2026/03/29/bahrain-aluminum-giant-says-iranian-attack-targeted-its-facilit.html",
       "source": "CNBC Markets",
       "publishedAt": 1774821575000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgdG8gYWxsb3cgUnVz",
-      "title": "US to allow Russian oil tanker to reach Cuba, New York Times reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-to-allow-russian-oil-tanker-to-reach-cuba-new-york-times-reports-4586628",
-      "source": "Investing.com News",
-      "publishedAt": 1774820911000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1Ib3cgbWFu",
-      "title": "Factbox-How many people have been killed in the Iran war?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333",
-      "source": "Investing.com News",
-      "publishedAt": 1774820910000,
       "lang": "en-US",
       "topics": [
         "macro"
