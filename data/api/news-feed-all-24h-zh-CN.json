@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774885845051,
-  "crawlUpdatedAt": 1774885845051,
-  "crawlCount": 31,
+  "updatedAt": 1774890375062,
+  "crawlUpdatedAt": 1774890375062,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,15 +13,242 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VGhpcyBpcyB3aGF0IHJl",
+      "title": "This is what really causes recessions, a former top Trump White House economist says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/recession-economy-trump-white-house-economist.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774889855000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1Tb21lIHRy",
+      "title": "Factbox-Some trades ahead of Trump policy moves raise questions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/factboxsome-trades-ahead-of-trump-policy-moves-raise-questions-4588462",
+      "source": "Investing.com News",
+      "publishedAt": 1774889707000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5mbGVxdGlvbiBJbmMg",
+      "title": "Infleqtion Inc stock hits 52-week low at $8.56",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/infleqtion-inc-stock-hits-52week-low-at-856-93CH-4588469",
+      "source": "Investing.com News",
+      "publishedAt": 1774889695000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgaXNzdWVzIG5l",
+      "title": "Trump issues new warning to Tehran, Iran calls US peace proposals ’unrealistic’",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-calls-irans-current-leaders-very-reasonable-as-pakistan-prepares-to-host-talks-4586652",
+      "source": "Investing.com News",
+      "publishedAt": 1774889687000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RUNCIG11c3QgYWN0IHF1",
+      "title": "ECB must act quickly if inflation expectations drift, says Greek central bank governor",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ecb-must-act-quickly-if-inflation-expectations-drift-says-greek-central-bank-governor-93CH-4588468",
+      "source": "Investing.com News",
+      "publishedAt": 1774889570000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBz",
+      "title": "Goldman Sachs sees bond yields falling amid Middle East tensions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-bond-yields-falling-amid-middle-east-tensions-93CH-4588467",
+      "source": "Investing.com News",
+      "publishedAt": 1774889566000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBIb3RlbDEw",
+      "title": "Form 6K Hotel101 Global Holdings Corp For: 30 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-hotel101-global-holdings-corp-for-30-march-93CH-4588466",
+      "source": "Investing.com News",
+      "publishedAt": 1774889450000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBXYWggRnUg",
+      "title": "Form 6K Wah Fu Education Group Ltd For: 30 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-wah-fu-education-group-ltd-for-30-march-93CH-4588465",
+      "source": "Investing.com News",
+      "publishedAt": 1774889449000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBIU0JDIEhP",
+      "title": "Form 6K HSBC HOLDINGS PLC For: 30 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-hsbc-holdings-plc-for-30-march-93CH-4588464",
+      "source": "Investing.com News",
+      "publishedAt": 1774889447000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGFiY29ycCBFVlAgTWVs",
+      "title": "Labcorp EVP Meltzer sells $224k in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/labcorp-evp-meltzer-sells-224k-in-shares-93CH-4588463",
+      "source": "Investing.com News",
+      "publishedAt": 1774889365000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgU3RyYXRl",
+      "title": "Form 144 Strategy Inc For: 30 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-strategy-inc-for-30-march-93CH-4588461",
+      "source": "Investing.com News",
+      "publishedAt": 1774889292000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UG93ZWxsIHNlZXMgaW5m",
+      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774888749000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IG91ciBjeWJlcnNl",
+      "title": "Why our cybersecurity stocks are rebounding after getting hammered last week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/why-our-cybersecurity-stocks-are-rebounding-after-getting-hammered-last-week-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774888482000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-NDAxKGspIGFsdGVybmF0",
       "title": "401(k) alternative asset rule proposed by Labor Department",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/30/401ks-alternative-investments.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774885767000,
+      "publishedAt": 1774887783000,
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets close higher as Iran war intensifies and economic sentiment sours",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774886945000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWF4aW1pemUgeW91ciB3",
+      "title": "Maximize your wealth with these tax strategies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/maximize-your-wealth-with-these-tax-strategies.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774886859000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -34,171 +261,6 @@
       "url": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
       "source": "CNBC Markets",
       "publishedAt": 1774885593000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG93ZWxsIHNlZXMgaW5m",
-      "title": "Powell sees inflation outlook in check, no wider crisis yet in private credit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774885408000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VEpYIHJhaXNlcyBxdWFy",
-      "title": "TJX raises quarterly dividend 13% to 48 cents per share",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/tjx-raises-quarterly-dividend-13-to-48-cents-per-share-93CH-4588382",
-      "source": "Investing.com News",
-      "publishedAt": 1774884314000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWljcm9zb2Z0IHVudmVp",
-      "title": "Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-to-earlyaccess-customers-4588019",
-      "source": "Investing.com News",
-      "publishedAt": 1774884267000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9uZHMgZW1lcmdpbmcg",
-      "title": "Bonds emerging as hedge amid Middle East tensions, says Citadel Securities",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bonds-emerging-as-hedge-amid-middle-east-tensions-says-citadel-4588290",
-      "source": "Investing.com News",
-      "publishedAt": 1774884261000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29jYS1Db2xhIEV1cm9w",
-      "title": "Coca-Cola Europacific Partners buys back 499,779 shares for cancellation",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/cocacola-europacific-partners-buys-back-499779-shares-for-cancellation-93CH-4588381",
-      "source": "Investing.com News",
-      "publishedAt": 1774884153000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBDT0NBLUNP",
-      "title": "Form 6K COCA-COLA EUROPACIFIC PARTNERS plc For: 30 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-cocacola-europacific-partners-plc-for-30-march-93CH-4588380",
-      "source": "Investing.com News",
-      "publishedAt": 1774884039000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZm9vZCBnaWFudCBT",
-      "title": "US food giant Sysco strikes $29 billion deal for catering supplier Restaurant Depot",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-food-giant-sysco-strikes-29-billion-deal-for-catering-supplier-restaurant-depot-4588046",
-      "source": "Investing.com News",
-      "publishedAt": 1774883955000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1Gb3VydGVl",
-      "title": "Factbox-Fourteen people died in US immigration custody this year, ICE says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/factboxfourteen-people-died-in-us-immigration-custody-this-year-ice-says-4588372",
-      "source": "Investing.com News",
-      "publishedAt": 1774883914000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RhcmxpbmsgcmVwb3J0",
-      "title": "Starlink reports satellite anomaly, says no risk to space station or Artemis II",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/starlink-reports-satellite-anomaly-says-no-risk-to-space-station-or-artemis-ii-93CH-4588378",
-      "source": "Investing.com News",
-      "publishedAt": 1774883870000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29tcGFzcyBEaXZlcnNp",
-      "title": "Compass Diversified stock surges on $292.5M asset sale",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/compass-diversified-stock-surges-on-2925m-asset-sale-93CH-4588377",
-      "source": "Investing.com News",
-      "publishedAt": 1774883741000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIHJhaXNl",
-      "title": "Jefferies raises United Therapeutics stock price target on trial data",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-raises-united-therapeutics-stock-price-target-on-trial-data-93CH-4588376",
-      "source": "Investing.com News",
-      "publishedAt": 1774883590000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -229,36 +291,6 @@
       "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
       "source": "CNBC Markets",
       "publishedAt": 1774881619000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWF4aW1pemUgeW91ciB3",
-      "title": "Maximize your wealth with these tax strategies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/maximize-your-wealth-with-these-tax-strategies.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774879521000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets rise as Iran war intensifies and economic sentiment sours",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774878965000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -319,21 +351,6 @@
       "url": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
       "source": "CNBC Markets",
       "publishedAt": 1774875601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBleGl0",
-      "title": "We&apos;re exiting this tech stock to replenish our cash pile after our annual charity donation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/were-exiting-this-tech-stock-to-replenish-our-cash-pile-after-our-annual-charity-donation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774875465000,
       "lang": "zh-CN",
       "topics": [
         "macro"
