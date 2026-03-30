@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774879617786,
-  "crawlUpdatedAt": 1774879617786,
-  "crawlCount": 27,
+  "updatedAt": 1774885845051,
+  "crawlUpdatedAt": 1774885845051,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RGVwYXJ0bWVudCBvZiBM",
-      "title": "Department of Labor proposes rule for including alternative assets in 401(k)s",
+      "id": "CNBC Markets-NDAxKGspIGFsdGVybmF0",
+      "title": "401(k) alternative asset rule proposed by Labor Department",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/30/401ks-alternative-investments.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774879546000,
+      "publishedAt": 1774885767000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets rise as Iran war intensifies and economic sentiment sours",
+      "id": "CNBC Markets-QmlsbCBBY2ttYW4gc2F5",
+      "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
+      "url": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774878965000,
+      "publishedAt": 1774885593000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,42 +43,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGlwZXIgU2FuZGxlciBj",
-      "title": "Piper Sandler cuts JPMorgan stock price target on lower earnings",
+      "id": "CNBC Markets-UG93ZWxsIHNlZXMgaW5m",
+      "title": "Powell sees inflation outlook in check, no wider crisis yet in private credit",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-jpmorgan-stock-price-target-on-lower-earnings-93CH-4588215",
-      "source": "Investing.com News",
-      "publishedAt": 1774878925000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGlwZXIgU2FuZGxlciBy",
-      "title": "Piper Sandler reiterates Shopify stock rating on growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-shopify-stock-rating-on-growth-outlook-93CH-4588214",
-      "source": "Investing.com News",
-      "publishedAt": 1774878920000,
+      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774885408000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VEpYIHJhaXNlcyBxdWFy",
+      "title": "TJX raises quarterly dividend 13% to 48 cents per share",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/tjx-raises-quarterly-dividend-13-to-48-cents-per-share-93CH-4588382",
+      "source": "Investing.com News",
+      "publishedAt": 1774884314000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljcm9zb2Z0IHVudmVp",
+      "title": "Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-to-earlyaccess-customers-4588019",
+      "source": "Investing.com News",
+      "publishedAt": 1774884267000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmVuY2htYXJrIHJlaXRl",
-      "title": "Benchmark reiterates Lithia Motors stock Buy rating, trims Q1 estimates",
+      "id": "Investing.com News-Qm9uZHMgZW1lcmdpbmcg",
+      "title": "Bonds emerging as hedge amid Middle East tensions, says Citadel Securities",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-reiterates-lithia-motors-stock-buy-rating-trims-q1-estimates-93CH-4588213",
+      "url": "https://www.investing.com/news/economy-news/bonds-emerging-as-hedge-amid-middle-east-tensions-says-citadel-4588290",
       "source": "Investing.com News",
-      "publishedAt": 1774878914000,
+      "publishedAt": 1774884261000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -88,12 +103,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGlwZXIgU2FuZGxlciBr",
-      "title": "Piper Sandler keeps Neutral on Cisco stock, cites security drag",
+      "id": "Investing.com News-Q29jYS1Db2xhIEV1cm9w",
+      "title": "Coca-Cola Europacific Partners buys back 499,779 shares for cancellation",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-keeps-neutral-on-cisco-stock-cites-security-drag-93CH-4588212",
+      "url": "https://www.investing.com/news/sec-filings/cocacola-europacific-partners-buys-back-499779-shares-for-cancellation-93CH-4588381",
       "source": "Investing.com News",
-      "publishedAt": 1774878909000,
+      "publishedAt": 1774884153000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,42 +118,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGlwZXIgU2FuZGxlciBy",
-      "title": "Piper Sandler reiterates Overweight on TWFG Insurance stock at $24",
+      "id": "Investing.com News-Rm9ybSA2SyBDT0NBLUNP",
+      "title": "Form 6K COCA-COLA EUROPACIFIC PARTNERS plc For: 30 March",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-overweight-on-twfg-insurance-stock-at-24-93CH-4588211",
+      "url": "https://www.investing.com/news/filings/form-6k-cocacola-europacific-partners-plc-for-30-march-93CH-4588380",
       "source": "Investing.com News",
-      "publishedAt": 1774878907000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVuY2htYXJrIHJlaXRl",
-      "title": "Benchmark reiterates Canaan stock rating citing business repositioning",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-reiterates-canaan-stock-rating-citing-business-repositioning-93CH-4588210",
-      "source": "Investing.com News",
-      "publishedAt": 1774878906000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgRGVwYXJ0bWVudCBv",
-      "title": "US Department of Labor issues 401k guidelines on private assets",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-department-of-labor-issues-401k-guidelines-on-private-assets-4588182",
-      "source": "Investing.com News",
-      "publishedAt": 1774878872000,
+      "publishedAt": 1774884039000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,12 +133,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgS09ITFMg",
-      "title": "Form 144 KOHLS Corp For: 30 March",
+      "id": "Investing.com News-VVMgZm9vZCBnaWFudCBT",
+      "title": "US food giant Sysco strikes $29 billion deal for catering supplier Restaurant Depot",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-kohls-corp-for-30-march-93CH-4588209",
+      "url": "https://www.investing.com/news/stock-market-news/us-food-giant-sysco-strikes-29-billion-deal-for-catering-supplier-restaurant-depot-4588046",
       "source": "Investing.com News",
-      "publishedAt": 1774878856000,
+      "publishedAt": 1774883955000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1Gb3VydGVl",
+      "title": "Factbox-Fourteen people died in US immigration custody this year, ICE says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/factboxfourteen-people-died-in-us-immigration-custody-this-year-ice-says-4588372",
+      "source": "Investing.com News",
+      "publishedAt": 1774883914000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -163,27 +163,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXRyaUN1cmUgc3RvY2sg",
-      "title": "AtriCure stock hits 52-week low at $28.25 amid market fluctuations",
+      "id": "Investing.com News-U3RhcmxpbmsgcmVwb3J0",
+      "title": "Starlink reports satellite anomaly, says no risk to space station or Artemis II",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/atricure-stock-hits-52week-low-at-2825-amid-market-fluctuations-93CH-4588207",
+      "url": "https://www.investing.com/news/company-news/starlink-reports-satellite-anomaly-says-no-risk-to-space-station-or-artemis-ii-93CH-4588378",
       "source": "Investing.com News",
-      "publishedAt": 1774878837000,
+      "publishedAt": 1774883870000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R2VuZWwgRW5lcmd5IGdy",
-      "title": "Genel Energy grants share awards to senior executives",
+      "id": "Investing.com News-Q29tcGFzcyBEaXZlcnNp",
+      "title": "Compass Diversified stock surges on $292.5M asset sale",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/genel-energy-grants-share-awards-to-senior-executives-93CH-4588205",
+      "url": "https://www.investing.com/news/stock-market-news/compass-diversified-stock-surges-on-2925m-asset-sale-93CH-4588377",
       "source": "Investing.com News",
-      "publishedAt": 1774878748000,
+      "publishedAt": 1774883741000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIHJhaXNl",
+      "title": "Jefferies raises United Therapeutics stock price target on trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-raises-united-therapeutics-stock-price-target-on-trial-data-93CH-4588376",
+      "source": "Investing.com News",
+      "publishedAt": 1774883590000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -198,7 +213,52 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774876852000,
+      "publishedAt": 1774881829000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiZhcG9zO3MgYXR0",
+      "title": "Iran&apos;s attacks on aluminum producers are sending &apos;shockwaves&apos; through the metals market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774881619000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWF4aW1pemUgeW91ciB3",
+      "title": "Maximize your wealth with these tax strategies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/maximize-your-wealth-with-these-tax-strategies.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774879521000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets rise as Iran war intensifies and economic sentiment sours",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/30/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774878965000,
       "lang": "zh-CN",
       "topics": [
         "macro"
