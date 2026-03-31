@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1774993813179,
-  "crawlUpdatedAt": 1774993813179,
-  "crawlCount": 39,
+  "updatedAt": 1774996973028,
+  "crawlUpdatedAt": 1774996973028,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,252 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TmlrZSBzaGFyZXMgdHVt",
-      "title": "Nike shares tumble on weak sales outlook, slower-than-expected China recovery",
+      "id": "CNBC Markets-TkZMIGFwcHJvdmVzIHNh",
+      "title": "NFL approves sale of 7% of Las Vegas Raiders at over $11 billion valuation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/nfl-approves-sale-of-7percent-of-las-vegas-raiders-at-over-11-billion-valuation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774996883000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration pauses plans to buy warehouses for immigrant detention, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-administration-pauses-plans-to-buy-warehouses-for-immigrant-detention-sources-say-4591845",
+      "source": "Investing.com News",
+      "publishedAt": 1774996609000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIHRvIHNp",
+      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/anthropic-to-sign-deal-with-australia-on-ai-safety-and-economic-data-tracking-4591844",
+      "source": "Investing.com News",
+      "publishedAt": 1774996587000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Dave & Buster’s Q4 2026 misses EPS, stock rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dave--busters-q4-2026-misses-eps-stock-rises-93CH-4591843",
+      "source": "Investing.com News",
+      "publishedAt": 1774996568000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1YnJpZGdlIGVhcm5p",
+      "title": "Trubridge earnings missed by $1.01, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/trubridge-earnings-missed-by-101-revenue-fell-short-of-estimates-4591842",
+      "source": "Investing.com News",
+      "publishedAt": 1774996482000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljaGVsLCBEYXhvciBD",
+      "title": "Michel, Daxor CFO, buys $9,900 in DXR stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/michel-daxor-cfo-buys-9900-in-dxr-stock-93CH-4591841",
+      "source": "Investing.com News",
+      "publishedAt": 1774996472000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIENh",
+      "title": "Form DEF 14A Cactus Inc For: 31 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-cactus-inc-for-31-march-93CH-4591840",
+      "source": "Investing.com News",
+      "publishedAt": 1774996427000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEZV",
+      "title": "Form DEF 14A FULGENT GENETICS For: 31 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-fulgent-genetics-for-31-march-93CH-4591839",
+      "source": "Investing.com News",
+      "publishedAt": 1774996424000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFRI",
+      "title": "Form DEF 14A THE WESTERN UNION COMPANY For: 31 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-thewestern-union-company-for-31-march-93CH-4591838",
+      "source": "Investing.com News",
+      "publishedAt": 1774996413000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZi1Xb29kcyBwbGVh",
+      "title": "Golf-Woods pleads not guilty to DUI charges after rollover crash",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/golfwoods-told-police-he-was-looking-at-phone-before-rollover-crash-4590994",
+      "source": "Investing.com News",
+      "publishedAt": 1774996304000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc3RyaXBzIGNpdGl6",
+      "title": "US strips citizenship from couple in trade theft case, part of Trump immigration push",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/us-strips-citizenship-from-couple-in-trade-theft-case-part-of-trump-immigration-push-4591814",
+      "source": "Investing.com News",
+      "publishedAt": 1774996261000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmlrZSBzaGFyZXMgZmFs",
+      "title": "Nike shares fall 9% on weak outlook, expected 20% sales decline in China",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1774993712000,
+      "publishedAt": 1774996232000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXJteSBzdXNwZW5kcyBL",
+      "title": "Army suspends Kid Rock helicopter flyby crews from flight duties; Trump weighs in",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/kid-rock-army-helicopter-suspended.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774996092000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. will leave Iran in &apos;two or three weeks&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774995600000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IGNsb3Nl",
+      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: &apos;Redmond is in a pickle&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774994776000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SSBhc2tlZCBDaGF0R1BU",
+      "title": "I asked ChatGPT for tax help—experts say I fell into a classic trap",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/ai-tax-help-pitfalls.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774994112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIFRy",
+      "title": "Judge blocks Trump White House ballroom project for now; administration appeals",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/trump-white-house-ballroom-judge.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774994059000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,192 +298,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0MjRCNSBBbWF6",
-      "title": "Form 424B5 Amaze Holdings Inc For: 31 March",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-424b5-amaze-holdings-inc-for-31-march-93CH-4591661",
-      "source": "Investing.com News",
-      "publishedAt": 1774991709000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmV5b25kIE1lYXQgZWFy",
-      "title": "Beyond Meat earnings missed by $0.15, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/beyond-meat-earnings-missed-by-015-revenue-fell-short-of-estimates-4591660",
-      "source": "Investing.com News",
-      "publishedAt": 1774991660000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHdvLXRoaXJkcyBvZiBB",
-      "title": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/twothirds-of-americans-want-quick-end-to-iran-war-even-if-goals-unachieved-reutersipsos-poll-finds-4591630",
-      "source": "Investing.com News",
-      "publishedAt": 1774991635000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UTEgZW5kcyB3aXRoIGEg",
-      "title": "Q1 ends with a BANG!",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/q1-ends-with-a-bang-4591659",
-      "source": "Investing.com News",
-      "publishedAt": 1774991616000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmFwcG9ydCBUaGVyYXBl",
-      "title": "Rapport Therapeutics COO Gault sells $281k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/rapport-therapeutics-coo-gault-sells-281k-in-stock-93CH-4591658",
-      "source": "Investing.com News",
-      "publishedAt": 1774991596000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3VtbWl0IE1pZHN0cmVh",
-      "title": "Summit Midstream raises $42M from Tailwater Capital affiliate",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/summit-midstream-raises-42m-from-tailwater-capital-affiliate-93CH-4591657",
-      "source": "Investing.com News",
-      "publishedAt": 1774991594000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WCBkb3duIGZvciB0aG91",
-      "title": "X down for thousands of users in the US, Downdetector shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/x-down-for-thousands-of-users-in-the-us-downdetector-shows-4591656",
-      "source": "Investing.com News",
-      "publishedAt": 1774991591000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FsaWJlciBub21pbmF0",
-      "title": "Caliber nominates J. Alan Reid to board, two directors to exit",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/caliber-nominates-j-alan-reid-to-board-two-directors-to-exit-93CH-4591655",
-      "source": "Investing.com News",
-      "publishedAt": 1774991584000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVGaSBUZWNobm9sb2dp",
-      "title": "DeFi Technologies reports record revenue of $99.1M for 2025",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/defi-technologies-reports-record-revenue-of-991m-for-2025-93CH-4591654",
-      "source": "Investing.com News",
-      "publishedAt": 1774991582000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGl0ZWsgR2xvYmFsIHJh",
-      "title": "Hitek Global raises $3 million in registered direct offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hitek-global-raises-3-million-in-registered-direct-offering-93CH-4591652",
-      "source": "Investing.com News",
-      "publishedAt": 1774991572000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIGNsb3NlcyBy",
       "title": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
       "source": "CNBC Markets",
       "publishedAt": 1774991310000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGNsb3Nl",
-      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: &apos;Redmond is in a pickle&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774991025000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBBcm15IHN1c3Bl",
-      "title": "U.S. Army suspends Kid Rock helicopter flyby crews from flight duties",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/kid-rock-army-helicopter-suspended.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774990637000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -319,21 +379,6 @@
       "url": "https://www.cnbc.com/2026/03/31/women-stock-market-investing-gap.html",
       "source": "CNBC Markets",
       "publishedAt": 1774989591000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIFRy",
-      "title": "Judge blocks Trump White House ballroom project for now",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/trump-white-house-ballroom-judge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774989371000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -435,21 +480,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SSBhc2tlZCBDaGF0R1BU",
-      "title": "I asked ChatGPT for tax help—experts say I fell into a classic trap",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/ai-tax-help-pitfalls.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774979583000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGlnZXIgV29vZHMgaGFk",
       "title": "Tiger Woods had hydrocodone pills in pants after DUI rollover crash in Florida, police say",
       "summary": "",
@@ -531,21 +561,6 @@
       "url": "https://www.cnbc.com/2026/03/31/mccormick-buys-unilever-food-business.html",
       "source": "CNBC Markets",
       "publishedAt": 1774970491000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
-      "title": "Warren Buffett says he&apos;s still making calls on investments at Berkshire, flags &apos;tiny&apos; new buy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-hes-still-making-calls-on-investments-at-berkshire-flags-tiny-new-buy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774969369000,
       "lang": "zh-CN",
       "topics": [
         "macro"
