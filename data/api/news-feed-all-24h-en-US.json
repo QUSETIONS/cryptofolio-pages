@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1774966205403,
-  "crawlUpdatedAt": 1774966205403,
+  "updatedAt": 1774972082996,
+  "crawlUpdatedAt": 1774972082996,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,57 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RXVybyB6b25lIGluZmxh",
-      "title": "Euro zone inflation surges past ECB target on oil shock",
+      "id": "CNBC Markets-TWFydmVsbCBzdG9jayBw",
+      "title": "Marvell stock pops 7% as Nvidia takes $2 billion stake, continuing run of similar bets",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/euro-zone-inflation-surges-past-ecb-target-on-oil-shock-4589557",
-      "source": "Investing.com News",
-      "publishedAt": 1774966026000,
+      "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774971983000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGlnZXIgV29vZHMgZm91",
+      "title": "Tiger Woods found with opioids in pocket after DUI rollover crash: Police arrest affidavit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/tiger-woods-opioids-dui-arrest-affidavit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774971804000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXV0b25vbW91cyBzaGlw",
+      "title": "Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774971371000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgYXBwZWFscyBjb3Vy",
-      "title": "US appeals court upholds decision to dismiss Boeing criminal case",
+      "id": "Investing.com News-UG9sYW5kIHN0b2NrcyBo",
+      "title": "Poland stocks higher at close of trade; WIG30 up 1.77%",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-appeals-court-upholds-decision-to-dismiss-boeing-criminal-case-4590781",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-177-4590989",
       "source": "Investing.com News",
-      "publishedAt": 1774966013000,
+      "publishedAt": 1774971303000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +73,162 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5hbHlzdHMgY3V0IFJ1",
-      "title": "Analysts cut Russia’s economic growth forecast for 2026: Reuters poll",
+      "id": "CNBC Markets-T3JhY2xlIGN1dHRpbmcg",
+      "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysts-cut-russias-economic-growth-forecast-for-2026-reuters-poll-4590809",
+      "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774971258000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQVJHQU4g",
+      "title": "Form 144 ARGAN For: 31 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-argan-for-31-march-93CH-4590988",
       "source": "Investing.com News",
-      "publishedAt": 1774965993000,
+      "publishedAt": 1774971197000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgc29h",
+      "title": "Wall Street soars on renewed Iran de-escalation hopes",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-jump-1-on-report-of-trump-weighing-iran-deescalation-4589115",
+      "source": "Investing.com News",
+      "publishedAt": 1774971154000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SFNCQyBpbml0aWF0ZXMg",
+      "title": "HSBC initiates Pony AI stock coverage with buy rating on scaling",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/hsbc-initiates-pony-ai-stock-coverage-with-buy-rating-on-scaling-93CH-4590987",
+      "source": "Investing.com News",
+      "publishedAt": 1774971085000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774971072000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WHRhbnQgTWVkaWNhbCBz",
+      "title": "Xtant Medical stock price target lowered to $1 by BTIG on revenue outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/xtant-medical-stock-price-target-lowered-to-1-by-btig-on-revenue-outlook-93CH-4590985",
+      "source": "Investing.com News",
+      "publishedAt": 1774971061000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGxhemEgQ2VudGVycyBy",
+      "title": "Plaza Centers reports €18M net loss for 2025, awaits Casa Radio ruling",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/plaza-centers-reports-18m-net-loss-for-2025-awaits-casa-radio-ruling-93CH-4590983",
+      "source": "Investing.com News",
+      "publishedAt": 1774971049000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGVnc2V0aCBzYXlzIGNv",
+      "title": "Hegseth says coming days will be decisive for Iran, Tehran threatens US businesses in region",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants-4589119",
+      "source": "Investing.com News",
+      "publishedAt": 1774971047000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBJdHVyYW4g",
+      "title": "Form 6K Ituran Location and Control Ltd For: 31 March",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-ituran-location-and-control-ltd-for-31-march-93CH-4590982",
+      "source": "Investing.com News",
+      "publishedAt": 1774971042000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VFNBIGFic2VuY2VzIGZh",
+      "title": "TSA absences fall sharply after US airport security workers get paid",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tsa-absences-fall-sharply-after-us-airport-security-workers-get-paid-4590961",
+      "source": "Investing.com News",
+      "publishedAt": 1774971031000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVubWFyayBzdG9ja3Mg",
+      "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.71%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-071-4590981",
+      "source": "Investing.com News",
+      "publishedAt": 1774971004000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +238,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9yZCBwYXJ0bmVycyB3",
-      "title": "Ford partners with onX to offer free outdoor navigation apps",
+      "id": "CNBC Markets-TWNDb3JtaWNrIGJ1eXMg",
+      "title": "McCormick buys Unilever&apos;s food business in deal that values it at nearly $45 billion",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ford-partners-with-onx-to-offer-free-outdoor-navigation-apps-93CH-4590807",
-      "source": "Investing.com News",
-      "publishedAt": 1774965910000,
+      "url": "https://www.cnbc.com/2026/03/31/mccormick-buys-unilever-food-business.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774970491000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +253,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q05CQyB0byBicm9hZGNh",
-      "title": "CNBC to broadcast daily from Cboe’s Chicago trading floor",
+      "id": "CNBC Markets-TGlsbHkgdG8gc3BlbmQg",
+      "title": "Lilly to spend up to $7.8 billion to acquire Centessa, a maker of experimental sleep disorder drugs",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/cnbc-to-broadcast-daily-from-cboes-chicago-trading-floor-93CH-4590806",
-      "source": "Investing.com News",
-      "publishedAt": 1774965909000,
+      "url": "https://www.cnbc.com/2026/03/31/eli-lilly-to-acquire-centessa-and-sleep-disorder-drugs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774968373000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgbGFzaGVzIG91",
+      "title": "Trump lashes out at UK and France, telling allies &apos;the U.S.A. won&apos;t be there to help you anymore&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/trump-attacks-uk-france-x-posts-tells-allies-the-usa-wont-help-anymore.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774967907000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +283,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmVybnN0ZWluIHJhaXNl",
-      "title": "Bernstein raises Ferrari stock price target on strong Q1 mix",
+      "id": "CNBC Markets-U2hvdWxkIHlvdSAmYXBv",
+      "title": "Should you &apos;buy the dip&apos; amid the latest stock market volatility? What experts say",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-ferrari-stock-price-target-on-strong-q1-mix-93CH-4590805",
-      "source": "Investing.com News",
-      "publishedAt": 1774965905000,
+      "url": "https://www.cnbc.com/2026/03/31/buy-the-dip-stock-market-down.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774967689000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,12 +298,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VS5TLiBCYW5rIHBhcnRu",
-      "title": "U.S. Bank partners with Built to digitize construction lending",
+      "id": "CNBC Markets-JmFwb3M7UHJvamVjdCBI",
+      "title": "&apos;Project Hail Mary&apos; is the box office proof point Amazon MGM has been waiting for",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/us-bank-partners-with-built-to-digitize-construction-lending-93CH-4590804",
-      "source": "Investing.com News",
-      "publishedAt": 1774965899000,
+      "url": "https://www.cnbc.com/2026/03/31/project-hail-mary-box-office-amazon-mgm.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774967587000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,42 +313,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmVmZmVyaWVzIGluaXRp",
-      "title": "Jefferies initiates TE Connectivity stock coverage with buy rating",
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: Buffett says he hasn&apos;t talked to Bill Gates &apos;since the whole thing was unveiled&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-te-connectivity-stock-coverage-with-buy-rating-93CH-4590803",
-      "source": "Investing.com News",
-      "publishedAt": 1774965898000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VC4gUm93ZSBQcmljZSBu",
-      "title": "T. Rowe Price names Bill Cashel head of alternatives for wealth",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/t-rowe-price-names-bill-cashel-head-of-alternatives-for-wealth-93CH-4590802",
-      "source": "Investing.com News",
-      "publishedAt": 1774965895000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhLCBOZXcg",
-      "title": "Australia, New Zealand approve heart health claim for soy protein",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/australia-new-zealand-approve-heart-health-claim-for-soy-protein-93CH-4590801",
-      "source": "Investing.com News",
-      "publishedAt": 1774965893000,
+      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-bill-gates-epstein.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1774966697000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -178,87 +343,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWFydmVsbCBzdG9jayBw",
-      "title": "Marvell stock pops 8% as Nvidia takes $2 billion stake, continuing run of similar bets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774965406000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
-      "title": "Epstein files: Buffett says he hasn&apos;t talked to Bill Gates ‘since the whole thing unveiled’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-bill-gates-epstein.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774965031000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWNDb3JtaWNrIGJ1eXMg",
-      "title": "McCormick buys Unilever&apos;s food business in deal that values it at nearly $45 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/mccormick-buys-unilever-food-business.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774964204000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgbGFzaGVzIG91",
-      "title": "Trump lashes out at UK and France, telling allies &apos;the U.S.A. won&apos;t be there to help you anymore&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/trump-attacks-uk-france-x-posts-tells-allies-the-usa-wont-help-anymore.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774963554000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TW9zY293IGlzIHByb2Zp",
       "title": "Moscow is profiting from the Iran war for now — but experts say Russia&apos;s economy is in the &apos;death zone&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/03/31/russia-energy-price-revenues-windfall-economic-outlook-inflation-putin-moscow.html",
       "source": "CNBC Markets",
       "publishedAt": 1774962807000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
-      "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774962689000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -296,36 +386,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hvdWxkIHlvdSDigJhi",
-      "title": "Should you ‘buy the dip’ amid the latest stock market volatility? What experts say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/buy-the-dip-stock-market-down.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774961834000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXV0b25vbW91cyBzaGlw",
-      "title": "Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774961604000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -436,36 +496,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXVybyB6b25lIGluZmxh",
-      "title": "Euro zone inflation smashes through ECB target to 2.5% in March as energy costs soar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/euro-zone-inflation-smashes-through-ecb-target-to-2point5percent-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774951218000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlYW4gZGVmZW5z",
-      "title": "European defense startups eye commercial deals and hiring push in the Middle East amid the Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/european-defense-tech-startups-iran-war-gulf-states.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774948710000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29sZCBvbiB0cmFjayBm",
       "title": "Gold on track for worst month since 2008 as Iran war enters its fifth week",
       "summary": "",
@@ -552,36 +582,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmV0Qmx1ZSBBaXJ3YXlz",
-      "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774902901000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG93ZWxsIHNlZXMgaW5m",
-      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774899265000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
