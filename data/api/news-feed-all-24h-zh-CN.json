@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775036851647,
-  "crawlUpdatedAt": 1775036851647,
+  "updatedAt": 1775041620673,
+  "crawlUpdatedAt": 1775041620673,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,179 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SFNCQyBzdG9jayBhZGRl",
-      "title": "HSBC stock added to Goldman’s conviction list on Asia growth outlook",
+      "id": "CNBC Markets-V2Vla2x5IG1vcnRnYWdl",
+      "title": "Weekly mortgage refinance demand is down more than 40% in the past month",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hsbc-stock-added-to-goldmans-conviction-list-on-asia-growth-outlook-93CH-4592286",
+      "url": "https://www.cnbc.com/2026/04/01/weekly-mortgage-refinance-demand-down.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775041201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Vm9sa3N3YWdlbiBkZWFs",
+      "title": "Volkswagen deal with EV maker Xpeng shows how China tech threatens Western automakers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/01/volkswagen-xpeng-deal-threat-rivian-us-automakers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775041201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuLiBXYXJyZW4gc2xh",
+      "title": "Sen. Warren slams Trump administration for pressuring EU to relax tech regulations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/01/warren-slams-trump-admin-for-pressuring-eu-to-relax-tech-regulations.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775041201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgUGVuc2lv",
+      "title": "Form 13F Pensionfund Sabic For: 1 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-pensionfund-sabic-for-1-april-93CH-4592557",
       "source": "Investing.com News",
-      "publishedAt": 1775036224000,
+      "publishedAt": 1775040335000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbGJveCByZWFjaGVz",
+      "title": "Wallbox reaches debt restructuring deal with major creditors",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/wallbox-reaches-debt-restructuring-deal-with-major-creditors-93CH-4592556",
+      "source": "Investing.com News",
+      "publishedAt": 1775040304000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFjcXVhcmllOiBRdWFs",
+      "title": "Macquarie: Quality stocks outperform in Asia amid global sell-off",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/macquarie-quality-stocks-outperform-in-asia-amid-global-selloff-93CH-4592555",
+      "source": "Investing.com News",
+      "publishedAt": 1775040257000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QSBOZXcgWW9yayB2aW50",
+      "title": "A New York vintner raids U.S. wine cellars to skirt Trump’s tariffs",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/a-new-york-vintner-raids-us-wine-cellars-to-skirt-trumps-tariffs-4592351",
+      "source": "Investing.com News",
+      "publishedAt": 1775040184000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJhbmQgSG91c2UgQ29s",
+      "title": "Brand House Collective receives Nasdaq notice over minimum market value requirement",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/brand-house-collective-receives-nasdaq-notice-over-minimum-market-value-requirement-93CH-4592553",
+      "source": "Investing.com News",
+      "publishedAt": 1775040183000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgZnV0",
+      "title": "Wall Street futures inch higher amid optimism for quick U.S. exit from Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-says-iran-war-to-end-soon-4591963",
+      "source": "Investing.com News",
+      "publishedAt": 1775040092000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSBjdXRzIGdsb2Jh",
+      "title": "BofA cuts global growth forecast on ‘mild’ stagflation shock",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bofa-cuts-global-growth-forecast-on-mild-stagflation-shock-4592549",
+      "source": "Investing.com News",
+      "publishedAt": 1775040090000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgbW90b3IgaW5zdXJh",
+      "title": "UK motor insurance prices rise 3.1% annually in February - Jefferies",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uk-motor-insurance-prices-rise-31-annually-in-february--jefferies-93CH-4592548",
+      "source": "Investing.com News",
+      "publishedAt": 1775040083000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBhZGRzIENp",
+      "title": "Goldman adds Citizens Financial, Carlisle to conviction list",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-adds-citizens-financial-carlisle-to-conviction-list-93CH-4592547",
+      "source": "Investing.com News",
+      "publishedAt": 1775040079000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -26,136 +193,16 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlIHJpc2tzIHJl",
-      "title": "Europe risks recession if oil jumps over $150, ECB’s Stournaras says",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/europe-risks-recession-if-oil-jumps-over-150-ecbs-stournaras-says-4592283",
-      "source": "Investing.com News",
-      "publishedAt": 1775036215000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgc3RvY2sgZnV0dXJl",
-      "title": "US stock futures climb as Iran war de-escalation optimism lifts sentiment",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-stock-futures-climb-as-iran-war-deescalation-optimism-lifts-sentiment-4592282",
-      "source": "Investing.com News",
-      "publishedAt": 1775036194000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U29zYW5kYXIgc2hhcmVo",
-      "title": "Sosandar shareholders approve share buyback authority",
+      "id": "Investing.com News-Rm9ybSA2SyBSb2JvYWkg",
+      "title": "Form 6K Roboai Inc For: 1 April",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/sosandar-shareholders-approve-share-buyback-authority-93CH-4592278",
+      "url": "https://www.investing.com/news/filings/form-6k-roboai-inc-for-1-april-93CH-4592546",
       "source": "Investing.com News",
-      "publishedAt": 1775035969000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm92byBOb3JkaXNr4oCZ",
-      "title": "Novo Nordisk’s Wegovy recommended in UK to reduce heart risks",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/novo-nordisks-wegovy-recommended-in-uk-to-reduce-heart-risks-4592277",
-      "source": "Investing.com News",
-      "publishedAt": 1775035809000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBzYXlzIHllbiB3",
-      "title": "BofA says yen weakness limited by volatility, favors AUD/JPY",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/bofa-says-yen-weakness-limited-by-volatility-favors-audjpy-93CH-4592276",
-      "source": "Investing.com News",
-      "publishedAt": 1775035782000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. strongly considering NATO exit, Telegraph newspaper says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-says-us-strongly-considering-nato-exit-telegraph-newspaper-says-4592267",
-      "source": "Investing.com News",
-      "publishedAt": 1775035534000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFocmFpbiBjaXJjdWxh",
-      "title": "Bahrain circulates revised UN Hormuz draft, drops binding enforcement",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/bahrain-circulates-revised-un-hormuz-draft-drops-binding-enforcement-4592275",
-      "source": "Investing.com News",
-      "publishedAt": 1775035517000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmVzZSBjaGlwbWFr",
-      "title": "Chinese chipmakers claim nearly half of local market as Nvidia’s lead shrinks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/chinese-chipmakers-claim-nearly-half-of-of-local-market-as-nvidias-lead-shrinks-idc-says-4592266",
-      "source": "Investing.com News",
-      "publishedAt": 1775035500000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtR2xvYmFs",
-      "title": "Analysis-Global first-quarter M&A exceeds $1.2 trillion, led by AI",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysisglobal-firstquarter-ma-exceeds-12-trillion-led-by-ai-4592273",
-      "source": "Investing.com News",
-      "publishedAt": 1775035479000,
+      "publishedAt": 1775040060000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -170,7 +217,22 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775034201000,
+      "publishedAt": 1775039288000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBzZWVz",
+      "title": "Oil prices seesaw around $100 in volatile trading after Trump war exit comments",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775038854000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -185,7 +247,22 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/01/novo-nordisk-stock-wegovy-ozempic-nice-nhs-nvo.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775033241000,
+      "publishedAt": 1775038526000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
+      "title": "Trump says he&apos;s considering pulling U.S. out of &apos;paper tiger&apos; NATO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775038100000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -201,21 +278,6 @@
       "url": "https://www.cnbc.com/2026/04/01/japan-business-sentiment-improves-in-tankan-survey.html",
       "source": "CNBC Markets",
       "publishedAt": 1775033074000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBzZWVz",
-      "title": "Oil prices seesaw around $100 in volatile trading after Trump war exit comments",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775031822000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -282,21 +344,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gYWRkcmVz",
-      "title": "Trump to address nation on Iran war Wednesday night, White House says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775002369000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -373,21 +420,6 @@
       "symbols": [
         "NDX"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SSBhc2tlZCBDaGF0R1BU",
-      "title": "I asked ChatGPT for tax help—experts say I fell into a classic trap",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/ai-tax-help-pitfalls.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774994112000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -533,38 +565,6 @@
       "url": "https://www.cnbc.com/2026/03/31/mercedes-us-ceo-sets-ambitious-sales-goal-despite-tougher-market.html",
       "source": "CNBC Markets",
       "publishedAt": 1774983218000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5ICQ0IGEgZ2FsbG9u",
-      "title": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774982123000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
-      "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1774977382000,
       "lang": "zh-CN",
       "topics": [
         "macro"
