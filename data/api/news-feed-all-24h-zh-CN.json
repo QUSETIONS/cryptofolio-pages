@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775169634328,
-  "crawlUpdatedAt": 1775169634328,
+  "updatedAt": 1775173362374,
+  "crawlUpdatedAt": 1775173362374,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,57 +13,179 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VGlnZXIgV29vZHMgY2Fs",
+      "title": "Tiger Woods called Trump after DUI crash, he told cop on bodycam video",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775173296000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWRhcHRpdmUgQmlvdGVj",
+      "title": "Adaptive Biotechnologies president sells $553,693 in ADPT stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-sells-553693-in-adpt-stock-93CH-4596699",
+      "source": "Investing.com News",
+      "publishedAt": 1775172124000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmlzdGFnZW4gVGhlcmFw",
+      "title": "Vistagen Therapeutics notifies Nasdaq of audit committee non-compliance",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/vistagen-therapeutics-notifies-nasdaq-of-audit-committee-noncompliance-93CH-4596698",
+      "source": "Investing.com News",
+      "publishedAt": 1775172059000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-THUgSG9uZ2JvIGJ1eXMg",
+      "title": "Lu Hongbo buys Zenas Biopharma (ZBIO) shares worth $70,197",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/lu-hongbo-buys-zenas-biopharma-zbio-shares-worth-70197-93CH-4596697",
+      "source": "Investing.com News",
+      "publishedAt": 1775171965000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnViZW5zdGVpbiwgQWNj",
+      "title": "Rubenstein, Accel Entertainment CEO, sells $497k in ACEL stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/rubenstein-accel-entertainment-ceo-sells-497k-in-acel-stock-93CH-4596696",
+      "source": "Investing.com News",
+      "publishedAt": 1775171953000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXhjZWxpcyBUZWNobm9s",
+      "title": "Axcelis Technologies CEO low sells $117k in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/axcelis-technologies-ceo-low-sells-117k-in-stock-93CH-4596695",
+      "source": "Investing.com News",
+      "publishedAt": 1775171947000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5ncmVkaW9uIGRpcmVj",
+      "title": "Ingredion director Uribe sells $83 in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ingredion-director-uribe-sells-83-in-common-stock-93CH-4596694",
+      "source": "Investing.com News",
+      "publishedAt": 1775171947000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJtYXRhIFBoYXJtYWNl",
+      "title": "Armata Pharmaceuticals schedules annual meeting for June 11",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/armata-pharmaceuticals-schedules-annual-meeting-for-june-11-93CH-4596693",
+      "source": "Investing.com News",
+      "publishedAt": 1775171793000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgY3J1ZGUganVtcHMg",
+      "title": "US crude jumps more than 11%, Brent nearly 8% after Trump vows more attacks on Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-on-hopes-of-us-pullback-from-iran-war-4594538",
+      "source": "Investing.com News",
+      "publishedAt": 1775171546000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hhcm1pbmcgTWVkaWNh",
+      "title": "Charming Medical appoints Matthew Mo Kan Tsui as independent director",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/charming-medical-appoints-matthew-mo-kan-tsui-as-independent-director-93CH-4596692",
+      "source": "Investing.com News",
+      "publishedAt": 1775171309000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FyR3VydXPigJkgKENB",
+      "title": "CarGurus’ (CARG) chief people officer sells $88,989 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/cargurus-carg-chief-people-officer-sells-88989-in-stock-93CH-4596691",
+      "source": "Investing.com News",
+      "publishedAt": 1775171254000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q3JhbWVy4oCZcyB3ZWVr",
       "title": "Cramer’s week ahead: Two key economic reports and earnings from Levi&apos;s, Delta",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/cramers-week-ahead-key-economic-reports-earnings-from-levis-delta.html",
       "source": "CNBC Markets",
       "publishedAt": 1775168613000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FyZGx5dGljc+KAmSBj",
-      "title": "Cardlytics’ chief legal officer sells $39893 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/cardlytics-chief-legal-officer-sells-39893-in-stock-93CH-4596660",
-      "source": "Investing.com News",
-      "publishedAt": 1775168549000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzaCBTdHJlZXQgSW50",
-      "title": "Rush Street Interactive CEO Schwartz sells $1.99 million in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-schwartz-sells-199-million-in-stock-93CH-4596659",
-      "source": "Investing.com News",
-      "publishedAt": 1775168531000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIFN0dWFy",
-      "title": "Bernstein Stuart N. sells Xos shares worth $6,693",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/bernstein-stuart-n-sells-xos-shares-worth-6693-93CH-4596658",
-      "source": "Investing.com News",
-      "publishedAt": 1775168426000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,102 +210,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UnVzaCBTdHJlZXQgSW50",
-      "title": "Rush Street Interactive COO Stetz sells $441k in stock",
+      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
+      "title": "United Airlines hikes checked bag fee by $10 as fuel prices continue to climb",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-coo-stetz-sells-441k-in-stock-93CH-4596657",
-      "source": "Investing.com News",
-      "publishedAt": 1775168366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3V0ZnJvbnQgbWVkaWEg",
-      "title": "Outfront media EVP, CFO Siegel sells $1.29 million in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/outfront-media-evp-cfo-siegel-sells-129-million-in-stock-93CH-4596656",
-      "source": "Investing.com News",
-      "publishedAt": 1775168364000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3lzY28gZXhlY3V0aXZl",
-      "title": "Sysco executive vice president Tom Peck to resign effective April 10",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/sysco-executive-vice-president-tom-peck-to-resign-effective-april-10-93CH-4596655",
-      "source": "Investing.com News",
-      "publishedAt": 1775168326000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgQXJteSBjaGllZiBv",
-      "title": "US Army chief of staff fired by Hegseth, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/hegseth-has-asked-us-army-chief-of-staff-to-step-down-cbs-news-reports-4596325",
-      "source": "Investing.com News",
-      "publishedAt": 1775168306000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U25vd2ZsYWtlIFNWUCBW",
-      "title": "Snowflake SVP Vivek Raghunathan sells $592k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/snowflake-svp-vivek-raghunathan-sells-592k-in-stock-93CH-4596654",
-      "source": "Investing.com News",
-      "publishedAt": 1775168173000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U29sbyBCcmFuZHMgdG8g",
-      "title": "Solo Brands to move from NYSE to OTCQB after delisting notice",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/solo-brands-to-move-from-nyse-to-otcqb-after-delisting-notice-93CH-4596653",
-      "source": "Investing.com News",
-      "publishedAt": 1775168065000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGFuc2VuIFBhdWxhLCBE",
-      "title": "Hansen Paula, DocuSign’s CRO, sells $281k in DOCU stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/hansen-paula-docusigns-cro-sells-281k-in-docu-stock-93CH-4596652",
-      "source": "Investing.com News",
-      "publishedAt": 1775167999000,
+      "url": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775167866000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -553,23 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG92",
-      "title": "Trump&apos;s overtime deduction has been a &apos;home run,&apos; Treasury says. What it means for the tax break",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/trump-no-tax-on-overtime.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775132741000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Tm92byBOb3JkaXNrIHNh",
       "title": "Novo Nordisk says Wegovy pill outperforms Lilly’s oral GLP-1 in cross-trial comparison",
       "summary": "",
@@ -582,21 +597,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhvcm5lIGlzIG9uIHBh",
-      "title": "Thorne is on pace for $650 million in sales as Gen Z fuels a supplement boom — despite subscription fatigue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/thorne-reaches-500m-in-revenue-after-l-catterton-take-private.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775127601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
