@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775138652735,
-  "crawlUpdatedAt": 1775138652735,
+  "updatedAt": 1775144167499,
+  "crawlUpdatedAt": 1775144167499,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,48 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VGVzbGEgcmVwb3J0cyAz",
-      "title": "Tesla reports 358,000 first-quarter vehicle deliveries, down 14% from last quarter",
+      "id": "CNBC Markets-SXJhbiBhbmQgT21hbiBk",
+      "title": "Iran and Oman drafting protocol to &apos;monitor&apos; Hormuz Strait traffic: IRNA",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
+      "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775138555000,
+      "publishedAt": 1775144124000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration prepares up to 100% pharmaceutical tariffs on some imported drugs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775144115000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBvaWwgcHJpY2Vz",
+      "title": "U.S. oil prices soar 10% as Trump&apos;s Iran war speech stokes fears of further escalation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775144061000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -33,7 +63,172 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/starbucks-to-award-bonuses-to-baristas-expand-tipping.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775138357000,
+      "publishedAt": 1775143930000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgVHJhZGUg",
+      "title": "Form 13G Trade Desk For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-trade-desk-for-2-april-93CH-4596005",
+      "source": "Investing.com News",
+      "publishedAt": 1775143865000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgSEVSU0hF",
+      "title": "Form 144 HERSHEY CO For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-hershey-co-for-2-april-93CH-4596004",
+      "source": "Investing.com News",
+      "publishedAt": 1775143865000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEdS",
+      "title": "Form DEF 14A GROUP 1 AUTOMOTIVE For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-group-1-automotive-for-2-april-93CH-4596003",
+      "source": "Investing.com News",
+      "publishedAt": 1775143864000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1HbG9iYWwg",
+      "title": "Factbox-Global companies delay IPOs and slash dividends as Middle East conflict rattles markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/factboxglobal-companies-delay-ipos-and-slash-dividends-as-middle-east-conflict-rattles-markets-4595282",
+      "source": "Investing.com News",
+      "publishedAt": 1775143832000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHVya2V5IHN0b2NrcyBo",
+      "title": "Turkey stocks higher at close of trade; BIST 100 up 0.88%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-088-4596000",
+      "source": "Investing.com News",
+      "publishedAt": 1775143804000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2xpdmVyIExhd3JlbmNl",
+      "title": "Oliver Lawrence T., RGC Resources senior VP, buys $200 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/oliver-lawrence-t-rgc-resources-senior-vp-buys-200-in-stock-93CH-4595999",
+      "source": "Investing.com News",
+      "publishedAt": 1775143546000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBUUkFOUyBB",
+      "title": "Form 8K TRANS AMERICAN AQUACULTURE For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-transamerican-aquaculture-for-2-april-93CH-4595998",
+      "source": "Investing.com News",
+      "publishedAt": 1775143475000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiB0byBjaGFyZ2Ug",
+      "title": "Iran to charge toll for ships passing through Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/iran-oman-draft-protocol-to-monitor-strait-of-hormuz-traffic-4595961",
+      "source": "Investing.com News",
+      "publishedAt": 1775143426000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWlsZXMgQ2hyaXN0ZW4g",
+      "title": "Miles Christen Brooke, VP at Rgc Resources, buys $100 in Rgco stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/miles-christen-brooke-vp-at-rgc-resources-buys-100-in-rgco-stock-93CH-4595997",
+      "source": "Investing.com News",
+      "publishedAt": 1775143341000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3BhY2Ugc3RvY2tzIHN1",
+      "title": "Space stocks surge as NASA launches first crewed lunar mission",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/space-stocks-surge-as-nasa-launches-first-crewed-lunar-mission-93CH-4595995",
+      "source": "Investing.com News",
+      "publishedAt": 1775143191000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmFtaWx5IG9mZmljZXMg",
+      "title": "Family offices stall deal-making during Iran conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/family-offices-stall-deal-making-during-iran-conflict.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775142711000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +243,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775138265000,
+      "publishedAt": 1775141454000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,149 +253,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-NDglKyByZXR1cm5zOiBP",
-      "title": "48%+ returns: Our AI-picked selection of Italian stocks for April is NOW LIVE",
+      "id": "CNBC Markets-UmVnaW9uYWwgc3BvcnRz",
+      "title": "Regional sports networks are faltering even as ratings soar",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/48-returns-our-aipicked-selection-of-italian-stocks-for-april-is-now-live-4593205",
-      "source": "Investing.com News",
-      "publishedAt": 1775138107000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLVJ1c3Np",
-      "title": "Exclusive-Russia’s Primorsk oil terminal lost 40% of storage to drone attacks, satellite images show",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/exclusiverussias-primorsk-oil-terminal-lost-40-of-storage-to-drone-attacks-satellite-images-show-4595828",
-      "source": "Investing.com News",
-      "publishedAt": 1775138067000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FibGUgT2Zmc2hvcmUg",
-      "title": "Sable Offshore stock gains on platform drilling approval",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sable-offshore-stock-gains-on-platform-drilling-approval-93CH-4595827",
-      "source": "Investing.com News",
-      "publishedAt": 1775138037000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9tZSBEZXBvdCBzdG9j",
-      "title": "Home Depot stock hits 52-week low at $320.22 amid market pressures",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/home-depot-stock-hits-52week-low-at-32022-amid-market-pressures-93CH-4595826",
-      "source": "Investing.com News",
-      "publishedAt": 1775138003000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJ3aWRzcm8gQWt0aWVp",
-      "title": "Arwidsro Aktieinvest raises stake in CLS Holdings above 4%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/arwidsro-aktieinvest-raises-stake-in-cls-holdings-above-4-93CH-4595825",
-      "source": "Investing.com News",
-      "publishedAt": 1775137950000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmFsYXVyaSBidXlzIFRp",
-      "title": "Valauri buys Tivic Health (TIVC) shares worth $18,008",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/valauri-buys-tivic-health-tivc-shares-worth-18008-93CH-4595824",
-      "source": "Investing.com News",
-      "publishedAt": 1775137926000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBGZWRlcmFs",
-      "title": "Form 8K Federal Home Loan Bank of Dallas For: 2 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-dallas-for-2-april-93CH-4595822",
-      "source": "Investing.com News",
-      "publishedAt": 1775137836000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBzZWVzIEJyYXpp",
-      "title": "BofA sees Brazil telcos as V.tal acquisition candidates after court ruling",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-sees-brazil-telcos-as-vtal-acquisition-candidates-after-court-ruling-93CH-4595821",
-      "source": "Investing.com News",
-      "publishedAt": 1775137744000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RC5BLiBEYXZpZHNvbiBy",
-      "title": "D.A. Davidson reiterates Hope Bancorp stock rating on acquisition",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-hope-bancorp-stock-rating-on-acquisition-93CH-4595820",
-      "source": "Investing.com News",
-      "publishedAt": 1775137738000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1aXN0IG1haW50YWlu",
-      "title": "Truist maintains Brown & Brown stock rating on property outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/truist-maintains-brown--brown-stock-rating-on-property-outlook-93CH-4595819",
-      "source": "Investing.com News",
-      "publishedAt": 1775137736000,
+      "url": "https://www.cnbc.com/2026/04/02/regional-sports-networks-are-faltering-even-as-ratings-soar.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775140857000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -215,7 +273,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/tsa-dhs-shutdown-senate-house.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775136504000,
+      "publishedAt": 1775140808000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -225,18 +283,48 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBzb2Fy",
-      "title": "Oil prices soar 13% as Trump&apos;s Iran war speech stokes fears of further escalation",
+      "id": "CNBC Markets-VGVzbGEgcmVwb3J0cyAz",
+      "title": "Tesla reports 358,000 first-quarter vehicle deliveries, down 14% from last quarter",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "url": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775136465000,
+      "publishedAt": 1775140655000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R3JvY2VyeSBzaG9jayBv",
+      "title": "Grocery shock on the horizon for approaching U.S. elections as Iran war drags on",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/grocery-shock-on-the-horizon-for-us-elections-as-iran-war-drags-on.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775140437000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5hbHlzaXM6IFRydW1w",
+      "title": "Analysis: Trump&apos;s Iran speech ignores the risks of a return to the 1970s",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-speech-1970s-energy-crisis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775139151000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -299,21 +387,6 @@
         "UST10Y"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIEly",
-      "title": "Trump&apos;s Iran speech ignores the risks of a return to the 1970s: Analysis",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-speech-1970s-energy-crisis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775132316000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -407,21 +480,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: The worst might not be over for Indian equities",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/iran-war-indian-stocks-meltdown-worsen.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775096132000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2xvYmFsc3RhciBzdG9j",
       "title": "Globalstar stock surges 15% on report Amazon is weighing an acquisition",
       "summary": "",
@@ -452,21 +510,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmltIENyYW1lciB3YXJu",
-      "title": "Jim Cramer warns rally lacks real leadership as AI-driven gains fail to inspire confidence",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/cramer-rally-lacks-real-leadership-as-ai-driven-gains-fail-to-inspire-confidence.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775083851000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGlnZXIgV29vZHMgd29u",
       "title": "Tiger Woods won&apos;t captain 2027 Ryder Cup team as golf future remains uncertain",
       "summary": "",
@@ -479,21 +522,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VFNBIHNodXRkb3duOiBH",
-      "title": "TSA shutdown: GOP leaders Thune and Johnson boost two-track approach to funding DHS",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/tsa-shutdown-dhs-homeland.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775077778000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -557,21 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RWxpIExpbGx5IG9wcG9z",
-      "title": "Eli Lilly opposes push to pass Trump&apos;s drug pricing deals into law, CEO says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/eli-lilly-opposes-trump-mfn-drug-pricing-law-ceo-ricks-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775067824000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3BhY2VYIGNvbmZpZGVu",
       "title": "SpaceX confidentially files for IPO, setting stage for record offering",
       "summary": "",
@@ -593,21 +606,6 @@
       "url": "https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html",
       "source": "CNBC Markets",
       "publishedAt": 1775061615000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2VybWFueSBzdG9wcyBn",
-      "title": "Germany stops gas stations from raising pump prices more than once a day",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/germany-fuel-gas-price-limit-oil-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775053123000,
       "lang": "en-US",
       "topics": [
         "macro"
