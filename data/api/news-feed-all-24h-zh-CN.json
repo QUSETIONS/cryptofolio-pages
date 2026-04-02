@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775153424820,
-  "crawlUpdatedAt": 1775153424820,
-  "crawlCount": 39,
+  "updatedAt": 1775158245379,
+  "crawlUpdatedAt": 1775158245379,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,194 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T3BlbkFJIGFjcXVpcmVz",
-      "title": "OpenAI acquires popular tech podcast TBPN",
+      "id": "CNBC Markets-VGVzbGEmYXBvcztzIHN0",
+      "title": "Tesla&apos;s stock drops more than 5% on disappointing deliveries report",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html",
+      "url": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775153251000,
+      "publishedAt": 1775158183000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29pbmJhc2UgY2xlYXJz",
+      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775158134000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBNQVlGQUlS",
+      "title": "Form 6K MAYFAIR GOLD CORP. For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-mayfair-gold-corp-for-2-april-93CH-4596256",
+      "source": "Investing.com News",
+      "publishedAt": 1775157653000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBDRUNPIEVu",
+      "title": "Form 8K CECO Environmental Corp For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-ceco-environmental-corp-for-2-april-93CH-4596255",
+      "source": "Investing.com News",
+      "publishedAt": 1775157641000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBUUlVMRVVN",
+      "title": "Form 8K TRULEUM For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-truleum-for-2-april-93CH-4596254",
+      "source": "Investing.com News",
+      "publishedAt": 1775157641000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBCaW9zY2ll",
+      "title": "Form 8K Bioscience Health Innovations For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-bioscience-health----innovations-for-2-april-93CH-4596253",
+      "source": "Investing.com News",
+      "publishedAt": 1775157637000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVG9hc3Qg",
+      "title": "Form 144 Toast For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-toast-for-2-april-93CH-4596252",
+      "source": "Investing.com News",
+      "publishedAt": 1775157491000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVFRNIFRF",
+      "title": "Form 144 TTM TECHNOLOGIES INC For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-ttm-technologies-inc-for-2-april-93CH-4596251",
+      "source": "Investing.com News",
+      "publishedAt": 1775157491000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb25ldCBXb3JsZHdp",
+      "title": "Euronet Worldwide stock hits 52-week low at 64.31 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/euronet-worldwide-stock-hits-52week-low-at-6431-usd-93CH-4596250",
+      "source": "Investing.com News",
+      "publishedAt": 1775157489000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgbkNpbm8g",
+      "title": "Form 144 nCino For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-ncino-for-2-april-93CH-4596249",
+      "source": "Investing.com News",
+      "publishedAt": 1775157489000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RvY2tzIHNpZ25pZmlj",
+      "title": "Stocks significantly off session lows but sentiment remains muted",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-trump-address-iran-ceasefire-in-focus-4594529",
+      "source": "Investing.com News",
+      "publishedAt": 1775157344000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgTm9ibGUg",
+      "title": "Form 13F Noble Wealth Management PBC For: 2 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-noble-wealth-management-pbc-for-2-april-93CH-4596248",
+      "source": "Investing.com News",
+      "publishedAt": 1775157338000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q0ZUQyBzdWVzIDMgc3Rh",
+      "title": "CFTC sues 3 states over prediction market regulation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/prediction-market-lawsuit-regulation-arizona-coonecticut-illinois.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775157084000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +215,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775153216000,
+      "publishedAt": 1775157061000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -43,164 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UmVnaW9uYWwgc3BvcnRz",
-      "title": "Regional sports networks are faltering even as ratings soar",
+      "id": "CNBC Markets-T3BlbkFJIGFjcXVpcmVz",
+      "title": "OpenAI acquires popular tech podcast TBPN",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/regional-sports-networks-are-faltering-even-as-ratings-soar.html",
+      "url": "https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775153209000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9yaXpvbiBLaW5ldGlj",
-      "title": "Horizon Kinetics buys Texas Pacific Land (TPL) share for $454",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-tpl-share-for-454-93CH-4596163",
-      "source": "Investing.com News",
-      "publishedAt": 1775152366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVkZ2UgZnVuZHMgc2Vs",
-      "title": "Hedge funds sell global stocks at fastest pace in 13 years",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hedge-funds-sell-global-stocks-at-fastest-pace-in-13-years-4596162",
-      "source": "Investing.com News",
-      "publishedAt": 1775152283000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBGRURFUkFM",
-      "title": "Form 8K FEDERAL HOME LOAN BANK OF CHICAGO For: 2 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-chicago-for-2-april-93CH-4596161",
-      "source": "Investing.com News",
-      "publishedAt": 1775152246000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG9wIFUuUy4gR2FzIFN0",
-      "title": "Top U.S. Gas Stocks According to UBS",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/top-us-gas-stocks-according-to-ubs-93CH-4596160",
-      "source": "Investing.com News",
-      "publishedAt": 1775151813000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VFRNIFRlY2hub2xvZ2ll",
-      "title": "TTM Technologies director Edman sells $1.68 million in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ttm-technologies-director-edman-sells-168-million-in-stock-93CH-4596159",
-      "source": "Investing.com News",
-      "publishedAt": 1775151807000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgZmlyZXMgUGFt",
-      "title": "Trump fires Pam Bondi as US attorney general, White House official says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-fires-pam-bondi-as-us-attorney-general-white-house-official-says-4596138",
-      "source": "Investing.com News",
-      "publishedAt": 1775151748000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0MjRCNSBIb3Ro",
-      "title": "Form 424B5 Hoth Therapeutics Inc For: 2 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-424b5-hoth-therapeutics-inc-for-2-april-93CH-4596157",
-      "source": "Investing.com News",
-      "publishedAt": 1775151745000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBCbHVlIERv",
-      "title": "Form 8K Blue Dolphin Energy Company For: 2 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-blue-dolphin-energy-company-for-2-april-93CH-4596156",
-      "source": "Investing.com News",
-      "publishedAt": 1775151635000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1aXN0IGN1dHMgVGVz",
-      "title": "Truist cuts Tesla stock price target to $400 on weak deliveries",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/truist-cuts-tesla-stock-price-target-to-400-on-weak-deliveries-93CH-4596155",
-      "source": "Investing.com News",
-      "publishedAt": 1775151558000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BlbkFJIGJ1eXMgVEJQ",
-      "title": "OpenAI buys TBPN to boost AI conversation and communications",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/openai-buys-tbpn-to-boost-ai-conversation-and-communications-93CH-4596154",
-      "source": "Investing.com News",
-      "publishedAt": 1775151475000,
+      "publishedAt": 1775156790000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -215,7 +245,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775150983000,
+      "publishedAt": 1775156384000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -225,12 +255,102 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VS5TLiBvaWwgcHJpY2Vz",
+      "title": "U.S. oil prices soar 11% as Trump&apos;s Iran war speech stokes fears of further escalation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775156179000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFya2V0IHZvbGF0aWxp",
+      "title": "Market volatility poses a serious risk for new retirees. Here’s how to prepare",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/market-volatility-retirement-sequence-of-returns-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775156106000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-SXJhbiBhbmQgT21hbiBk",
       "title": "Iran and Oman drafting protocol to &apos;monitor&apos; Hormuz Strait traffic: IRNA",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775150617000,
+      "publishedAt": 1775155612000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIE1hcmNoIGpvYnMg",
+      "title": "The March jobs report will be released on Friday. Here&apos;s what to expect",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775155479000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmVnaW9uYWwgc3BvcnRz",
+      "title": "Regional sports networks are faltering even as ratings soar",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/regional-sports-networks-are-faltering-even-as-ratings-soar.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775155035000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIEly",
+      "title": "Trump&apos;s Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/trumps-iran-war-speech-oil-price-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775152939000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYJmFwb3M7cyBJ",
+      "title": "SpaceX&apos;s IPO could be the largest-ever public offering—what to know before investing, from experts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/02/how-to-invest-initial-public-offering.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775152868000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -255,21 +375,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGVzbGEmYXBvcztzIHN0",
-      "title": "Tesla&apos;s stock drops more than 4% on disappointing deliveries report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775148597000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R3JvY2VyeSBzaG9jayBv",
       "title": "Grocery shock on the horizon for approaching U.S. elections as Iran war drags on",
       "summary": "",
@@ -291,21 +396,6 @@
       "url": "https://www.cnbc.com/2026/04/02/amazon-weighs-a-deal-to-boost-its-satellite-internet-ambitions-why-its-worthy-pursuit.html",
       "source": "CNBC Markets",
       "publishedAt": 1775148169000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvaWwgcHJpY2Vz",
-      "title": "U.S. oil prices soar 10% as Trump&apos;s Iran war speech stokes fears of further escalation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775146228000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -512,87 +602,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXDigJlzIElyYW4g",
-      "title": "Trump’s Iran timeline may not be short enough to avoid oil demand destruction",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/02/oil-demand-destruction-trump-energy-price-gasoline-ration-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775126872000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RVYgZGVtYW5kIGlzIGdl",
       "title": "EV demand is getting a boost from the Iran war — just as auto giants pivot back to combustion engines",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/02/evs-autos-energy-oil-iran-war-electric-transport-fossil-fuels.html",
       "source": "CNBC Markets",
       "publishedAt": 1775106001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdGVs",
-      "title": "Trump admin tells Supreme Court birth tourism is evidence birthright citizenship needs to end",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/supreme-court-birthright-citizenship-birth-tourism.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775083948000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbWFydC1vd25lZCBT",
-      "title": "Walmart-owned Sam&apos;s Club raises its annual membership fee to $60",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/sam.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775076397000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgaXMgcGF5aW5n",
-      "title": "Trump is paying TSA agents — but where is the money coming from?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/tsa-trump-dhs-shutdown-airports.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775075336000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIGNvbmZpZGVu",
-      "title": "SpaceX confidentially files for IPO, setting stage for record offering",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775067627000,
       "lang": "zh-CN",
       "topics": [
         "macro"
