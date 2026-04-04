@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775308484049,
-  "crawlUpdatedAt": 1775308484049,
-  "crawlCount": 22,
+  "updatedAt": 1775311579672,
+  "crawlUpdatedAt": 1775311579672,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,68 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VGhlIFBXSEwgaXMgZ3Jv",
+      "title": "The PWHL is growing, and the success of women&apos;s hockey in the Olympics may be just what it needed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/04/pwhl-womens-hockey-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775310502000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2Fyc2ggbm9taW5hdGlv",
+      "title": "Warsh nomination moves ahead, putting Trump&apos;s competing Fed plans on a collision course",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775308770000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLi1JcmFuIHdhciAm",
+      "title": "U.S.-Iran war &apos;tax&apos; begins to hit American businesses and consumers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775308568000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIG5ldyBh",
+      "title": "Iran says new air defence system used to target US fighter jet",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/iran-says-new-air-defence-system-used-to-target-us-fighter-jet-4597540",
+      "source": "Investing.com News",
+      "publishedAt": 1775308330000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QnVmZmV0dCBtYXkgZW5k",
       "title": "Buffett may end donations to Gates charity over Bill&apos;s ties to Epstein",
@@ -28,19 +90,17 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2Fyc2ggbm9taW5hdGlv",
-      "title": "Warsh nomination moves ahead, putting Trump&apos;s competing Fed plans on a collision course",
+      "id": "CNBC Markets-TXkgZnJpZW5kcyBvd2Ug",
+      "title": "My friends owe me money from 8 months ago—is it too late for me to ask? What etiquette experts say",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
+      "url": "https://www.cnbc.com/2026/04/04/etiquette-asking-friends-for-money.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775307844000,
+      "publishedAt": 1775307601000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
-      "symbols": [
-        "FED"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -242,21 +302,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgd2VpZ2hzIGJy",
-      "title": "Trump weighs broader cabinet shake-up as Iran war pressure grows",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-weighs-broader-cabinet-shakeup-as-iran-war-pressure-grows-4597533",
-      "source": "Investing.com News",
-      "publishedAt": 1775297185000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJJmFwb3M7cyBG",
       "title": "OpenAI&apos;s Fidji Simo takes medical leave, announces leadership changes",
       "summary": "",
@@ -308,36 +353,6 @@
       "url": "https://www.cnbc.com/2026/04/03/happiness-expert-emotionally-secure-people-share-these-7-traits.html",
       "source": "CNBC Markets",
       "publishedAt": 1775228402000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbCBTdHJlZXQgc25h",
-      "title": "Wall Street snapped its 5-week losing streak. Here are 3 themes that caught our eye",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/03/sp-500-snaps-its-5-week-losing-streak-here-are-3-themes-that-caught-our-eye.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775224266000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBy",
-      "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775223334000,
       "lang": "zh-CN",
       "topics": [
         "macro"
