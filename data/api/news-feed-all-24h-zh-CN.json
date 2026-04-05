@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775421880205,
-  "crawlUpdatedAt": 1775421880205,
-  "crawlCount": 19,
+  "updatedAt": 1775425252532,
+  "crawlUpdatedAt": 1775425252532,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4597664",
+      "source": "Investing.com News",
+      "publishedAt": 1775424003000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IGEgcGVyaWxvdXMg",
+      "title": "How a perilous US rescue mission in Iran nearly went off course",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/how-a-perilous-us-rescue-mission-in-iran-nearly-went-off-course-4597663",
+      "source": "Investing.com News",
+      "publishedAt": 1775423191000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
+      "title": "Top Wall Street analysts see strong growth potential in these 3 stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/05/top-wall-street-analysts-see-strong-growth-potential-in-these-3-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775422292000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-RmFjdGJveC1Ib3cgbWFu",
       "title": "Factbox-How many people have been killed in the Iran war?",
@@ -150,42 +195,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-NCByZWFzb25zIHdoeSB5",
-      "title": "4 reasons why you should own Japan equities",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/4-reasons-why-you-should-own-japan-equities-4597655",
-      "source": "Investing.com News",
-      "publishedAt": 1775411324000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIG1lZ2EgSVBPcyBv",
       "title": "The mega IPOs of SpaceX, Anthropic and OpenAI alone can&apos;t fix this stock market",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/05/cramer-ipos-of-spacex-anthropic-and-openai-alone-cant-fix-this-market.html",
       "source": "CNBC Markets",
       "publishedAt": 1775409399000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHNheXMgVVMg",
-      "title": "Russia says US should abandon ’language of ultimatums’ on Iran",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/russia-says-us-should-abandon-language-of-ultimatums-on-iran-4597654",
-      "source": "Investing.com News",
-      "publishedAt": 1775406971000,
       "lang": "zh-CN",
       "topics": [
         "macro"
