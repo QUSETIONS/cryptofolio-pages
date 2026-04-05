@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775385963258,
-  "crawlUpdatedAt": 1775385963258,
+  "updatedAt": 1775389064401,
+  "crawlUpdatedAt": 1775389064401,
   "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -14,16 +14,94 @@
   "items": [
     {
       "id": "CNBC Markets-VHJ1bXAgY29uZmlybXMg",
-      "title": "Trump confirms both military officers missing in Iran have been rescued",
+      "title": "Trump confirms missing U.S. crew member in Iran has been rescued",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775385437000,
+      "publishedAt": 1775389050000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3VuT3B0YSBkZWxpdmVy",
+      "title": "SunOpta delivers 64% return after InvestingPro Fair Value call",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/sunopta-delivers-64-return-after-investingpro-fair-value-call-93CH-4597607",
+      "source": "Investing.com News",
+      "publishedAt": 1775387625000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
+      "title": "InvestingPro’s Fair Value flagged Serve Robotics 36% drop",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-flagged-serve-robotics-36-drop-93CH-4597606",
+      "source": "Investing.com News",
+      "publishedAt": 1775386939000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHVya2lzaCBwb2xpY3lt",
+      "title": "Turkish policymakers defend steps; investors see rate hike possible",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/turkish-policymakers-defend-steps-investors-see-rate-hike-possible-4597605",
+      "source": "Investing.com News",
+      "publishedAt": 1775386826000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsaSBpbnRlbGxp",
+      "title": "Israeli intelligence helped US airman rescue mission in Iran, official says",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/israeli-intelligence-helped-us-airman-rescue-mission-in-iran-official-says-4597604",
+      "source": "Investing.com News",
+      "publishedAt": 1775386466000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXMgdGhlIHdvcmxkIHJ1",
+      "title": "Is the world running out of oil? Goldman Sachs weighs in",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/is-the-world-running-out-of-oil-goldman-sachs-weighs-in-4597603",
+      "source": "Investing.com News",
+      "publishedAt": 1775386444000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -124,83 +202,6 @@
       "url": "https://www.investing.com/news/world-news/hungarys-pm-orban-calls-extraordinary-defense-council-after-explosives-found-near-border-in-serbia-93CH-4597599",
       "source": "Investing.com News",
       "publishedAt": 1775381449000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T1BFQysgbXVsbHMgInBh",
-      "title": "OPEC+ mulls \"paper\" output hike as Iran war paralyzes 15% of global oil supply",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/opec-mulls-paper-output-hike-as-iran-war-paralyzes-15-of-global-oil-supply-4597598",
-      "source": "Investing.com News",
-      "publishedAt": 1775380949000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnV5IFRoZXNlIFVTIFN0",
-      "title": "Buy These US Steel Stocks Benefiting From Rising Tariffs: Goldman",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/buy-these-us-steel-stocks-benefiting-from-rising-tariffs-goldman-93CH-4595793",
-      "source": "Investing.com News",
-      "publishedAt": 1775380883000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm94Y29ubiBRMSByZXZl",
-      "title": "Foxconn Q1 revenue jumps 30% on AI tailwinds; cautions on Middle East \"volatility\"",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/foxconn-q1-revenue-jumps-30-on-ai-tailwinds-cautions-on-middle-east-volatility-4597596",
-      "source": "Investing.com News",
-      "publishedAt": 1775380850000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9lcyB0aGUgSXJhbiBX",
-      "title": "Does the Iran War herald nuclear momentum?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/does-the-iran-war-herald-nuclear-momentum-4597594",
-      "source": "Investing.com News",
-      "publishedAt": 1775380312000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsaSBmaXJlIGtp",
-      "title": "Israeli fire kills four Palestinians in Gaza, medics say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-four-palestinians-in-gaza-medics-say-4597597",
-      "source": "Investing.com News",
-      "publishedAt": 1775379989000,
       "lang": "zh-CN",
       "topics": [
         "macro"
