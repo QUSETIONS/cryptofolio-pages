@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775394948102,
-  "crawlUpdatedAt": 1775394948102,
-  "crawlCount": 18,
+  "updatedAt": 1775398011098,
+  "crawlUpdatedAt": 1775398011098,
+  "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VGhlIFBXSEwgaXMgZ3Jv",
+      "title": "The PWHL is growing and post-Olympics boom may take women&apos;s hockey to the next level",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/04/pwhl-womens-hockey-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775396305000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U291dGggS29yZWEgQUkg",
+      "title": "South Korea AI memory boom to drive Samsung, SK Hynix strategy shift",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/south-korea-ai-memory-boom-to-drive-samsung-sk-hynix-strategy-shift-4597611",
+      "source": "Investing.com News",
+      "publishedAt": 1775396120000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyByZXNj",
       "title": "Trump says rescued U.S. airman &apos;seriously wounded,&apos; threatens to strike Iran power plants and bridges",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775394706000,
+      "publishedAt": 1775396071000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -49,6 +79,21 @@
       "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-003-4597609",
       "source": "Investing.com News",
       "publishedAt": 1775393103000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U2lsZW50IGtp",
+      "title": "&apos;Silent killers&apos;: How AI start-ups are trying to solve one of the retail industry&apos;s biggest problems",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775392677000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -166,21 +211,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q29uZ28gc2F5cyBpdCB3",
-      "title": "Congo says it will receive third-country deportees under new deal with US",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/congo-says-it-will-receive-thirdcountry-deportees-under-new-deal-with-us-4597602",
-      "source": "Investing.com News",
-      "publishedAt": 1775384666000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJJmFwb3M7cyBG",
       "title": "OpenAI&apos;s Fidji Simo takes medical leave, announces leadership changes",
       "summary": "",
@@ -226,21 +256,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIFBXSEwgaXMgZ3Jv",
-      "title": "The PWHL is growing, and post-Olympics boom may take women&apos;s hockey to the next level",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/04/pwhl-womens-hockey-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775319972000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmFzaWMgYnVzaW5lc3Mg",
       "title": "Basic business class is here with new, stripped-down United Polaris fares",
       "summary": "",
@@ -253,38 +268,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2Fyc2ggbm9taW5hdGlv",
-      "title": "Warsh nomination moves ahead, putting Trump&apos;s competing Fed plans on a collision course",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775308770000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLi1JcmFuIHdhciAm",
-      "title": "U.S.-Iran war &apos;tax&apos; begins to hit American businesses and consumers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775308568000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
