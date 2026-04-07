@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775555176220,
-  "crawlUpdatedAt": 1775555176220,
-  "crawlCount": 31,
+  "updatedAt": 1775560041802,
+  "crawlUpdatedAt": 1775560041802,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,57 +13,177 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SXJhbiB3YXIgdXBlbmRz",
-      "title": "Iran war upends spring housing market. Here&apos;s what real estate agents are seeing",
+      "id": "Investing.com News-Rm9ydHJlYSB1bnZlaWxz",
+      "title": "Fortrea unveils AI-powered clinical trial technology suite",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html",
+      "url": "https://www.investing.com/news/company-news/fortrea-unveils-aipowered-clinical-trial-technology-suite-93CH-4600125",
+      "source": "Investing.com News",
+      "publishedAt": 1775559924000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2lvcmEgUGhhcm1hY2V1",
+      "title": "Kiora Pharmaceuticals closes $24M private placement",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/kiora-pharmaceuticals-closes-24m-private-placement-93CH-4600124",
+      "source": "Investing.com News",
+      "publishedAt": 1775559922000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJlY2lnZW4gcmVwb3J0",
+      "title": "Precigen reports $3.4M in PAPZIMEOS sales for Q4 2025",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/precigen-reports-34m-in-papzimeos-sales-for-q4-2025-93CH-4600123",
+      "source": "Investing.com News",
+      "publishedAt": 1775559920000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSBpbml0aWF0ZXMg",
+      "title": "BofA initiates Global Business Travel stock at neutral on tech competition",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-initiates-global-business-travel-stock-at-neutral-on-tech-competition-93CH-4600122",
+      "source": "Investing.com News",
+      "publishedAt": 1775559917000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T0tZTyBQaGFybWEgdG8g",
+      "title": "OKYO Pharma to hold advisory board meeting at ASCRS conference",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/okyo-pharma-to-hold-advisory-board-meeting-at-ascrs-conference-93CH-4600120",
+      "source": "Investing.com News",
+      "publishedAt": 1775559903000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkRBIGdyYW50cyBmYXN0",
+      "title": "FDA grants fast track status to Climb Bio’s kidney disease drug",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fda-grants-fast-track-status-to-climb-bios-kidney-disease-drug-93CH-4600119",
+      "source": "Investing.com News",
+      "publishedAt": 1775559902000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFrZXIgSHVnaGVzIHdp",
+      "title": "Baker Hughes wins Argentina pipeline turbine order for LNG project",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/baker-hughes-wins-argentina-pipeline-turbine-order-for-lng-project-93CH-4600118",
+      "source": "Investing.com News",
+      "publishedAt": 1775559901000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUMgSW1tdW5lIGFtZW5k",
+      "title": "AC Immune amends Lilly collaboration, plans tau drug studies",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ac-immune-amends-lilly-collaboration-plans-tau-drug-studies-93CH-4600117",
+      "source": "Investing.com News",
+      "publishedAt": 1775559900000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF2YW4gc3RvY2sgaW5p",
+      "title": "Navan stock initiated at Buy by BofA on AI platform growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/navan-stock-initiated-at-buy-by-bofa-on-ai-platform-growth-93CH-4600116",
+      "source": "Investing.com News",
+      "publishedAt": 1775559899000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TUVYQyBMaXN0cyBUd28g",
+      "title": "MEXC Lists Two Ondo Tokenized Stock Trading Pairs Tied to Quantum Computing Sector",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/mexc-lists-two-ondo-tokenized-stock-trading-pairs-tied-to-quantum-computing-sector-4600115",
+      "source": "Investing.com News",
+      "publishedAt": 1775559873000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Tm92byBOb3JkaXNrJmFw",
+      "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775554744000,
+      "publishedAt": 1775559601000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIHVwZ3JhZGVzIFBv",
-      "title": "UBS upgrades Popular stock rating on earnings growth outlook",
+      "id": "CNBC Markets-QVNNTCBzaGFyZXMgZmFs",
+      "title": "ASML shares fall after proposed U.S. export curbs target an already fragile China market",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-popular-stock-rating-on-earnings-growth-outlook-93CH-4599840",
-      "source": "Investing.com News",
-      "publishedAt": 1775554378000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIHVwZ3JhZGVzIEVh",
-      "title": "UBS upgrades East West Bancorp stock rating to buy on capital strength",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-east-west-bancorp-stock-rating-to-buy-on-capital-strength-93CH-4599839",
-      "source": "Investing.com News",
-      "publishedAt": 1775554375000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIGRvd25ncmFkZXMg",
-      "title": "UBS downgrades First Interstate Bancsystems stock rating to sell",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-first-interstate-bancsystems-stock-rating-to-sell-93CH-4599837",
-      "source": "Investing.com News",
-      "publishedAt": 1775554372000,
+      "url": "https://www.cnbc.com/2026/04/07/asml-shares-today-us-chip-export-curbs-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775557582000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,110 +193,48 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIGN1dHMgRXVyb3pv",
-      "title": "UBS cuts Eurozone growth forecasts amid Iran conflict risks",
+      "id": "CNBC Markets-VW5pdmVyc2FsIE11c2lj",
+      "title": "Universal Music stock rises after Pershing Square&apos;s $64 billion takeover proposal",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ubs-cuts-eurozone-growth-forecasts-amid-iran-conflict-risks-4599835",
-      "source": "Investing.com News",
-      "publishedAt": 1775554266000,
+      "url": "https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775557008000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7VGhlIHRoYXcg",
+      "title": "&apos;The thaw is real&apos;: Indian delegation visits China to talk EVs and more",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/india-china-relations-ease-iran-war-ev.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775556452000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB3YXIgdXBlbmRz",
+      "title": "Iran war upends spring housing market. Here&apos;s what real estate agents are seeing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775555615000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW4gc2VlcyB3ZWFr",
-      "title": "Japan sees weakening economic momentum, early signs of war-induced pain",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/japan-sees-weakening-economic-momentum-early-signs-of-warinduced-pain-4599834",
-      "source": "Investing.com News",
-      "publishedAt": 1775554229000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnVlbCBwcmljZSBzdXJn",
-      "title": "Fuel price surge pushes Philippine inflation above central bank target",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/fuel-price-surge-pushes-philippine-inflation-above-central-bank-target-4599828",
-      "source": "Investing.com News",
-      "publishedAt": 1775553896000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVhbHRoIGluc3VyZXJz",
-      "title": "Health insurers rise after US lifts 2027 Medicare Advantage payment rates",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822",
-      "source": "Investing.com News",
-      "publishedAt": 1775553874000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIHVwZ3JhZGVzIFBp",
-      "title": "UBS upgrades Pinnacle Financial stock rating on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-pinnacle-financial-stock-rating-on-valuation-93CH-4599821",
-      "source": "Investing.com News",
-      "publishedAt": 1775553545000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIGFzc3VtZXMgY292",
-      "title": "UBS assumes coverage on Bank OZK stock with neutral rating, $48 target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-assumes-coverage-on-bank-ozk-stock-with-neutral-rating-48-target-93CH-4599820",
-      "source": "Investing.com News",
-      "publishedAt": 1775553539000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZCB0aWNrcyBoaWdo",
-      "title": "Gold ticks higher and dollar weakens as Trump’s Iran deadline approaches",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-falls-for-3rd-day-as-trumps-iran-deadline-fuels-inflation-worries-4599592",
-      "source": "Investing.com News",
-      "publishedAt": 1775553435000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -222,21 +280,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VW5pdmVyc2FsIE11c2lj",
-      "title": "Universal Music stock rises 13% after Pershing Square&apos;s $64 billion takeover proposal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775552276000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -330,6 +373,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJcmFu",
+      "title": "Trump says Iran ceasefire proposal &apos;significant&apos; but &apos;not good enough&apos; as Hormuz Strait deadline nears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775507784000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-UyZQIDUwMCBhaW1zIHRv",
       "title": "S&P 500 aims to extend win streak — plus, a CFO switch at one of our key names",
       "summary": "",
@@ -413,21 +471,6 @@
       "url": "https://www.cnbc.com/2026/04/06/ai-has-a-big-problem-when-it-comes-to-financial-advice-mit-professor.html",
       "source": "CNBC Markets",
       "publishedAt": 1775485119000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIFBXSEwgaXMgZ3Jv",
-      "title": "The PWHL is growing and post-Olympics boom may take women&apos;s hockey to the next level",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/04/pwhl-womens-hockey-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775484925000,
       "lang": "en-US",
       "topics": [
         "macro"
