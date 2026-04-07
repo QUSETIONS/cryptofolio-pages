@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775581927513,
-  "crawlUpdatedAt": 1775581927513,
+  "updatedAt": 1775586681736,
+  "crawlUpdatedAt": 1775586681736,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,151 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXBwbGUgc2hhcmVzIHNp",
-      "title": "Apple shares sink 4% on report of foldable iPhone delays",
+      "id": "CNBC Markets-QW50aHJvcGljIGxpbWl0",
+      "title": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html",
+      "url": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775581121000,
+      "publishedAt": 1775586507000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJhemlsIGV5ZXMgbmV3",
+      "title": "Brazil eyes new debt relief with federal guarantees for consumers",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-eyes-new-debt-relief-with-federal-guarantees-for-consumers-4601228",
+      "source": "Investing.com News",
+      "publishedAt": 1775585951000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVsdGEgQWlyIGhpa2Vz",
+      "title": "Delta Air hikes checked baggage fees as jet fuel prices soar",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/delta-air-hikes-checked-baggage-fees-as-jet-fuel-prices-soar-4600609",
+      "source": "Investing.com News",
+      "publishedAt": 1775585917000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2NlYW5hR29sZCBiZWdp",
+      "title": "OceanaGold begins trading on New York Stock Exchange",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/oceanagold-begins-trading-on-new-york-stock-exchange-93CH-4601227",
+      "source": "Investing.com News",
+      "publishedAt": 1775585886000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TG91aXNpYW5hLVBhY2lm",
+      "title": "Louisiana-Pacific stock hits 52-week low at 69.61 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/louisianapacific-stock-hits-52week-low-at-6961-usd-93CH-4601226",
+      "source": "Investing.com News",
+      "publishedAt": 1775585862000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQkxVRUxJ",
+      "title": "Form 13F BLUELINE ADVISORS LLC For: 7 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-blueline-advisors-llc-for-7-april-93CH-4601225",
+      "source": "Investing.com News",
+      "publishedAt": 1775585860000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgUmVkZGl0",
+      "title": "Form 13G Reddit For: 7 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-reddit-for-7-april-93CH-4601224",
+      "source": "Investing.com News",
+      "publishedAt": 1775585832000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQnVsd2Fy",
+      "title": "Form 13F Bulwark Capital Corp For: 7 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-bulwark-capital-corp-for-7-april-93CH-4601223",
+      "source": "Investing.com News",
+      "publishedAt": 1775585821000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIGxhdW5j",
+      "title": "Anthropic launches Project Glasswing to secure critical software",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/anthropic-launches-project-glasswing-to-secure-critical-software-93CH-4601221",
+      "source": "Investing.com News",
+      "publishedAt": 1775585648000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBOT1JU",
+      "title": "Form 13D/A NORTHERN DYNASTY MINERALS LTD For: 7 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13da-northern-dynasty-minerals-ltd-for-7-april-93CH-4601220",
+      "source": "Investing.com News",
+      "publishedAt": 1775585535000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +172,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/07/aws-iran-threats-us-tech-data-centers.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775581009000,
+      "publishedAt": 1775585479000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,43 +182,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2hpbmEgYW5kIFJ1c3Np",
-      "title": "China and Russia veto U.N. resolution on protecting Hormuz shipping",
+      "id": "CNBC Markets-VHJ1bXAgcHJhaXNlcyBI",
+      "title": "Trump praises Hungary PM Viktor Orban after Vance calls him at Budapest rally",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/china-and-russia-veto-un-resolution-on-protecting-hormuz-shipping-4601113",
-      "source": "Investing.com News",
-      "publishedAt": 1775580894000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kaWFuIGVxdWl0eSBF",
-      "title": "Indian equity ETF sees record $220 million outflow amid energy crisis",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/indian-equity-etf-sees-record-220-million-outflow-amid-energy-crisis-93CH-4601112",
-      "source": "Investing.com News",
-      "publishedAt": 1775580870000,
-      "lang": "en-US",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWNrbWFu4oCZcyBQZXJz",
-      "title": "Ackman’s Pershing Square proposes $64 billion merger deal with Universal Music Group",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ackmans-pershing-square-offers-to-buy-universal-music-for-nearly-65-billion-4599680",
-      "source": "Investing.com News",
-      "publishedAt": 1775580869000,
+      "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775585455000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -89,12 +197,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmxhY2tza3kgVGVjaG5v",
-      "title": "Blacksky Technology Inc stock hits 52-week high at 33.22 USD",
+      "id": "Investing.com News-Rm9ybSA2SyBCQVlURVgg",
+      "title": "Form 6K BAYTEX ENERGY CORP. For: 7 April",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/blacksky-technology-inc-stock-hits-52week-high-at-3322-usd-93CH-4601109",
+      "url": "https://www.investing.com/news/filings/form-6k-baytex-energy-corp-for-7-april-93CH-4601219",
       "source": "Investing.com News",
-      "publishedAt": 1775580797000,
+      "publishedAt": 1775585449000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -104,12 +212,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA2SyBFdm90ZWMg",
-      "title": "Form 6K Evotec SE ADR For: 7 April",
+      "id": "CNBC Markets-TkFTQSBBcnRlbWlzIElJ",
+      "title": "NASA Artemis II photo captures moon eclipse of sun — &apos;Absolutely stunning&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-evotec-se-adr-for-7-april-93CH-4601107",
-      "source": "Investing.com News",
-      "publishedAt": 1775580634000,
+      "url": "https://www.cnbc.com/2026/04/07/artemis-ii-moon-eclipse-sun-nasa.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775584244000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -119,12 +227,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmFjdGJveC1FbmVyZ3kg",
-      "title": "Factbox-Energy facilities and shipping hit during US-Israeli war on Iran",
+      "id": "CNBC Markets-NDEteWVhci1vbGQgaGln",
+      "title": "41-year-old high school teacher&apos;s side hustle brings in $3.8 million a year—he shares &apos;every high and every low&apos; with students",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/factboxenergy-facilities-and-shipping-hit-during-usisraeli-war-on-iran-4601106",
-      "source": "Investing.com News",
-      "publishedAt": 1775580572000,
+      "url": "https://www.cnbc.com/2026/04/07/stall-mates-high-school-business-teacher-side-hustle-brings-in-millions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775583753000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -134,12 +242,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-4oCZQSB3aG9sZSBjaXZp",
-      "title": "’A whole civilisation will die tonight’ says Trump as Iran defies looming deadline",
+      "id": "CNBC Markets-V2l0aCBnYXMgcHJpY2Vz",
+      "title": "With gas prices above $4, drivers across the country grapple with higher costs: “I have to spend it—there’s no other way”",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/iran-defiant-on-eve-of-trumps-ceasefire-deadline-4599604",
-      "source": "Investing.com News",
-      "publishedAt": 1775580549000,
+      "url": "https://www.cnbc.com/2026/04/07/with-gas-above-4-drivers-across-the-us-say-theyre-cutting-back.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775583667000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -149,18 +257,63 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW1lcmljYW5zIHdhbnQg",
-      "title": "Americans want weight-loss pills for cost and convenience",
+      "id": "CNBC Markets-QmlsbCBHYXRlcyBpbnRl",
+      "title": "Bill Gates interview about Jeffrey Epstein by House Oversight set for June 10",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/americans-want-weightloss-pills-for-cost-and-convenience-4597942",
-      "source": "Investing.com News",
-      "publishedAt": 1775580514000,
+      "url": "https://www.cnbc.com/2026/04/07/jeffrey-epstein-bill-gates-house-oversight.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775583155000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgc2hhcmVzIHNp",
+      "title": "Apple shares sink on report of foldable iPhone delays",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775583102000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmF0aW9uYWwgQ29sbGVn",
+      "title": "National College Decision Day is approaching. How to maximize aid",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/national-college-decision-day-how-to-maximize-aid.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775583098000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB3YXIgdXBlbmRz",
+      "title": "Iran war upends spring housing market. Here&apos;s what real estate agents are seeing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775582983000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -179,57 +332,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0cgTEFNQiBX",
-      "title": "Form 13G LAMB WESTON HOLDINGS INC For: 7 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-lamb-weston-holdings-inc-for-7-april-93CH-4601098",
-      "source": "Investing.com News",
-      "publishedAt": 1775580385000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgS2Vyb3Mg",
-      "title": "Form 13G Keros Therapeutics For: 7 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-keros-therapeutics-for-7-april-93CH-4601097",
-      "source": "Investing.com News",
-      "publishedAt": 1775580385000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgd2FybnMgSXJh",
       "title": "Trump warns Iran’s ‘whole civilization will die tonight’ unless deal struck",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/07/iran-war-trump-deadline.html",
       "source": "CNBC Markets",
       "publishedAt": 1775580067000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlsbCBHYXRlcyBpbnRl",
-      "title": "Bill Gates interview about Jeffrey Epstein by House Oversight set for June 10",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/jeffrey-epstein-bill-gates-house-oversight.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775579465000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -281,21 +389,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7QWJzb2x1dGVs",
-      "title": "&apos;Absolutely stunning&apos; — Artemis II photo captures moon eclipse of sun",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/artemis-ii-moon-eclipse-sun-nasa.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775577502000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -466,21 +559,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiB3YXIgdXBlbmRz",
-      "title": "Iran war upends spring housing market. Here&apos;s what real estate agents are seeing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775564778000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QVNNTCBzaGFyZXMgZmFs",
       "title": "ASML shares fall after proposed U.S. export curbs target an already fragile China market",
       "summary": "",
@@ -493,51 +571,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7VGhlIHRoYXcg",
-      "title": "&apos;The thaw is real&apos;: Indian delegation visits China to talk EVs and more",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/india-china-relations-ease-iran-war-ev.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775556452000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2Ftc3VuZyBzaGFyZXMg",
-      "title": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775552947000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-4oCYQWxsIHJvYWRzIGxl",
-      "title": "‘All roads lead to higher prices and slower growth,&apos; warns IMF chief as Iran war hits global economy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775552815000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -571,42 +604,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJIGFza3MgQ2Fs",
-      "title": "OpenAI asks California, Delaware to investigate Musk&apos;s &apos;anti-competitive behavior&apos; ahead of April trial",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775509704000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2ZmYmVhdCBXYWxsIFN0",
       "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here&apos;s what they learned",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
       "source": "CNBC Markets",
       "publishedAt": 1775508422000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXZlcmFnZSB0YXggcmVm",
-      "title": "Average tax refund is up $350 compared to last year as IRS deadline approaches",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/06/average-tax-refund.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775495899000,
       "lang": "en-US",
       "topics": [
         "macro"
