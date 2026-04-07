@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775560041802,
-  "crawlUpdatedAt": 1775560041802,
+  "updatedAt": 1775563754612,
+  "crawlUpdatedAt": 1775563754612,
   "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,132 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Rm9ydHJlYSB1bnZlaWxz",
-      "title": "Fortrea unveils AI-powered clinical trial technology suite",
+      "id": "CNBC Markets-SG91c2UgRGVtb2NyYXRz",
+      "title": "House Democrats call on federal regulator to crack down on offshore prediction market war bets",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/fortrea-unveils-aipowered-clinical-trial-technology-suite-93CH-4600125",
-      "source": "Investing.com News",
-      "publishedAt": 1775559924000,
+      "url": "https://www.cnbc.com/2026/04/07/kalshi-polymarket-prediction-markets-cftc-war-bets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775563201000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-S2lvcmEgUGhhcm1hY2V1",
-      "title": "Kiora Pharmaceuticals closes $24M private placement",
+      "id": "CNBC Markets-SkQgVmFuY2UgaGVhZHMg",
+      "title": "JD Vance heads to Hungary to support Viktor Orbán ahead of high-stakes election",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/kiora-pharmaceuticals-closes-24m-private-placement-93CH-4600124",
-      "source": "Investing.com News",
-      "publishedAt": 1775559922000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJlY2lnZW4gcmVwb3J0",
-      "title": "Precigen reports $3.4M in PAPZIMEOS sales for Q4 2025",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/precigen-reports-34m-in-papzimeos-sales-for-q4-2025-93CH-4600123",
-      "source": "Investing.com News",
-      "publishedAt": 1775559920000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBpbml0aWF0ZXMg",
-      "title": "BofA initiates Global Business Travel stock at neutral on tech competition",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-initiates-global-business-travel-stock-at-neutral-on-tech-competition-93CH-4600122",
-      "source": "Investing.com News",
-      "publishedAt": 1775559917000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T0tZTyBQaGFybWEgdG8g",
-      "title": "OKYO Pharma to hold advisory board meeting at ASCRS conference",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/okyo-pharma-to-hold-advisory-board-meeting-at-ascrs-conference-93CH-4600120",
-      "source": "Investing.com News",
-      "publishedAt": 1775559903000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkRBIGdyYW50cyBmYXN0",
-      "title": "FDA grants fast track status to Climb Bio’s kidney disease drug",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/fda-grants-fast-track-status-to-climb-bios-kidney-disease-drug-93CH-4600119",
-      "source": "Investing.com News",
-      "publishedAt": 1775559902000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFrZXIgSHVnaGVzIHdp",
-      "title": "Baker Hughes wins Argentina pipeline turbine order for LNG project",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/baker-hughes-wins-argentina-pipeline-turbine-order-for-lng-project-93CH-4600118",
-      "source": "Investing.com News",
-      "publishedAt": 1775559901000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUMgSW1tdW5lIGFtZW5k",
-      "title": "AC Immune amends Lilly collaboration, plans tau drug studies",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ac-immune-amends-lilly-collaboration-plans-tau-drug-studies-93CH-4600117",
-      "source": "Investing.com News",
-      "publishedAt": 1775559900000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF2YW4gc3RvY2sgaW5p",
-      "title": "Navan stock initiated at Buy by BofA on AI platform growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/navan-stock-initiated-at-buy-by-bofa-on-ai-platform-growth-93CH-4600116",
-      "source": "Investing.com News",
-      "publishedAt": 1775559899000,
+      "url": "https://www.cnbc.com/2026/04/07/jd-vance-visits-hungary-viktor-orban-trump-russia-eu.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775562882000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,12 +45,147 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TUVYQyBMaXN0cyBUd28g",
-      "title": "MEXC Lists Two Ondo Tokenized Stock Trading Pairs Tied to Quantum Computing Sector",
+      "id": "Investing.com News-UmVwb3NpVHJhayBhZGRz",
+      "title": "ReposiTrak adds 18 produce suppliers to traceability network",
       "summary": "",
-      "url": "https://www.investing.com/news/press-releases/mexc-lists-two-ondo-tokenized-stock-trading-pairs-tied-to-quantum-computing-sector-4600115",
+      "url": "https://www.investing.com/news/company-news/repositrak-adds-18-produce-suppliers-to-traceability-network-93CH-4600247",
       "source": "Investing.com News",
-      "publishedAt": 1775559873000,
+      "publishedAt": 1775562297000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm94bGlnaHQgY29udmVy",
+      "title": "Boxlight converts $556,200 debt into shares under amended agreement",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/boxlight-converts-556200-debt-into-shares-under-amended-agreement-93CH-4600230",
+      "source": "Investing.com News",
+      "publishedAt": 1775562172000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJ0ZW1pcyBJSSBtb29u",
+      "title": "Artemis II moon crew flies farther than humans have ever gone before",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/artemis-ii-moon-crew-flies-farther-than-humans-have-ever-gone-before-4599980",
+      "source": "Investing.com News",
+      "publishedAt": 1775562161000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIENB",
+      "title": "Form DEF 14A CABLE ONE For: 7 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-cable-one-for-7-april-93CH-4600229",
+      "source": "Investing.com News",
+      "publishedAt": 1775562152000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIGN1dHMgUmln",
+      "title": "Mizuho cuts Rigetti Computing stock price target on quantum sector update",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-rigetti-computing-stock-price-target-on-quantum-sector-update-93CH-4600228",
+      "source": "Investing.com News",
+      "publishedAt": 1775562140000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIHJhaXNlcyBF",
+      "title": "Mizuho raises Enterprise Products Partners stock price target on growth outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-raises-enterprise-products-partners-stock-price-target-on-growth-outlook-93CH-4600227",
+      "source": "Investing.com News",
+      "publishedAt": 1775562091000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBQYWx2ZWxs",
+      "title": "Form 8K Palvella Therapeutics Inc For: 7 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-palvella-therapeutics-inc-for-7-april-93CH-4600226",
+      "source": "Investing.com News",
+      "publishedAt": 1775562086000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJndXMgcmFpc2VzIE1E",
+      "title": "Argus raises MDU Resources stock price target on dividend strength",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-raises-mdu-resources-stock-price-target-on-dividend-strength-93CH-4600225",
+      "source": "Investing.com News",
+      "publishedAt": 1775562079000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIGN1dHMgSW9u",
+      "title": "Mizuho cuts IonQ stock price target on quantum computing outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-ionq-stock-price-target-on-quantum-computing-outlook-93CH-4600224",
+      "source": "Investing.com News",
+      "publishedAt": 1775562078000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIGN1dHMgRC1X",
+      "title": "Mizuho cuts D-Wave Quantum stock price target on sector review",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-dwave-quantum-stock-price-target-on-sector-review-93CH-4600223",
+      "source": "Investing.com News",
+      "publishedAt": 1775562068000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -259,21 +291,6 @@
       "url": "https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html",
       "source": "CNBC Markets",
       "publishedAt": 1775552815000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SkQgVmFuY2UgaGVhZHMg",
-      "title": "JD Vance heads to Hungary to support Viktor Orbán ahead of high-stakes election",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/jd-vance-visits-hungary-viktor-orban-trump-russia-eu.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775552373000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -507,21 +524,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SlBNb3JnYW4gQ0VPIEph",
-      "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775476538000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
