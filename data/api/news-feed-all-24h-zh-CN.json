@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775605712827,
-  "crawlUpdatedAt": 1775605712827,
+  "updatedAt": 1775618709367,
+  "crawlUpdatedAt": 1775618709367,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXNpYS1QYWNpZmljIG1h",
-      "title": "Asia-Pacific markets set to jump as U.S.-Iran agree to a ceasefire, oil plunges",
+      "id": "Investing.com News-TmV3IFplYWxhbmQgaG9s",
+      "title": "New Zealand holds rates, warns of risks to inflation and growth from Iran war",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775605597000,
+      "url": "https://www.investing.com/news/economy-news/nz-central-bank-holds-cash-rate-at-225-adopts-cautious-stance-amid-iran-war-4601899",
+      "source": "Investing.com News",
+      "publishedAt": 1775618669000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgcmVqZWN0cyBhbHVt",
+      "title": "US rejects aluminum tariff relief request from Ford, WSJ reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-rebuffs-aluminum-tariff-relief-request-from-ford-wsj-reports-4601897",
+      "source": "Investing.com News",
+      "publishedAt": 1775618306000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,102 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc3VzcGVuZHMg",
-      "title": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
+      "id": "CNBC Markets-VS5TLi1JcmFuIGNlYXNl",
+      "title": "U.S.-Iran ceasefire relief rally lifts global assets as oil plunges below $100",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html",
+      "url": "https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775605562000,
+      "publishedAt": 1775618232000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29sb21iaWHigJlzIFBl",
+      "title": "Colombia’s Petro calls for economic emergency, fresh financing law",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/colombias-petro-calls-for-economic-emergency-fresh-financing-law-4601898",
+      "source": "Investing.com News",
+      "publishedAt": 1775617948000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R3VsZiBjb3VudHJpZXMg",
+      "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/08/iran-missile-attacks-after-us-ceasefire-gulf-air-defenses.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775617929000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0YW55YWh1IGJhY2tz",
+      "title": "Netanyahu backs Iran ceasefire, says Lebanon not included, Israeli media says",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/netanyahu-backs-iran-ceasefire-says-lebanon-not-included-israeli-media-says-4601906",
+      "source": "Investing.com News",
+      "publishedAt": 1775617586000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVwdWJsaWNhbiBDbGF5",
+      "title": "Republican Clay Fuller wins Georgia US House runoff in MAGA stronghold",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/georgia-runoff-puts-trump-influence-to-the-test-in-maga-stronghold-4599978",
+      "source": "Investing.com News",
+      "publishedAt": 1775616895000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVRpa1Rv",
+      "title": "Exclusive-TikTok to build a second billion-euro data centre in Finland",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/exclusivetiktok-to-build-a-second-billioneuro-data-centre-in-finland-4601904",
+      "source": "Investing.com News",
+      "publishedAt": 1775616876000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration rejects Ford requests for tariff relief- WSJ",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-administration-rejects-ford-requests-for-tariff-relief-wsj-4601903",
+      "source": "Investing.com News",
+      "publishedAt": 1775616463000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -48,7 +153,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/investor-reactions-to-trump-agreeing-to-twoweek-ceasefire-with-iran-4601852",
       "source": "Investing.com News",
-      "publishedAt": 1775605347000,
+      "publishedAt": 1775616177000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,27 +163,102 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Tm92byBOb3JkaXNrJmFw",
-      "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+      "id": "Investing.com News-VHJ1bXAgYWdyZWVzIHRv",
+      "title": "Trump agrees to two-week Iran ceasefire, drops threat to destroy ’whole civilization’",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775605329000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhyZWVEIENhcGl0YWwg",
-      "title": "ThreeD Capital boosts stake in AI/ML Innovations to 38%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/threed-capital-boosts-stake-in-aiml-innovations-to-38-93CH-4601851",
+      "url": "https://www.investing.com/news/world-news/iran-defiant-on-eve-of-trumps-ceasefire-deadline-4599604",
       "source": "Investing.com News",
-      "publishedAt": 1775605265000,
+      "publishedAt": 1775616152000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGFydmFyZCBlY29ub21p",
+      "title": "Harvard economist urges Japan PM Takaichi to respect central bank independence",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/harvard-economist-urges-japan-pm-takaichi-to-respect-central-bank-independence-4601902",
+      "source": "Investing.com News",
+      "publishedAt": 1775615489000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGggS29yZWEgc3Rv",
+      "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775612899000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyBEYWlseSBPcGVu",
+      "title": "CNBC Daily Open: Markets cheer as Trump and Tehran agree to 2-week ceasefire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/08/daily-open-trump-iran-pause-strait-hormuz-oil-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775612657000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBwbHVu",
+      "title": "Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775607396000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZmFjZXMgY2Fs",
+      "title": "Trump faces calls for removal over threats to wipe out &apos;whole civilization&apos; in Iran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/25th-amendment-trump-removal-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775607324000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAtSXJhbiBhZ3Jl",
+      "title": "Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775607028000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,51 +283,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWNrbWFu4oCZcyBQZXJz",
-      "title": "Ackman’s Pershing Square proposes $64 billion merger deal with Universal Music Group",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ackmans-pershing-square-offers-to-buy-universal-music-for-nearly-65-billion-4599680",
-      "source": "Investing.com News",
-      "publishedAt": 1775605002000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgY2xv",
-      "title": "Wall Street closes mixed, with signs of progress as Trump’s Iran deadline draws near",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-stock-futures-inch-lower-as-investors-assess-mideast-developments-4600300",
-      "source": "Investing.com News",
-      "publishedAt": 1775604988000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvaWwgcHJpY2Ug",
-      "title": "U.S. oil price plunges nearly 19% to below $100 after Trump agrees to two-week ceasefire with Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775604920000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RWxvbiBNdXNrIHNlZWtz",
       "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
       "summary": "",
@@ -160,111 +295,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgU0VDIGVuZm9yY2Vt",
-      "title": "US SEC enforcement activity drops dramatically as agency ’resets’",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-sec-says-it-filed-456-enforcement-actions-during-fiscal-year-2025-4601811",
-      "source": "Investing.com News",
-      "publishedAt": 1775604283000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXDigJlzIHRocmVh",
-      "title": "Trump’s threat to Iran shocks global leaders, unnerves some Republicans",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trumps-threat-to-iran-shocks-global-leaders-unnerves-some-republicans-4601810",
-      "source": "Investing.com News",
-      "publishedAt": 1775604269000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSBo",
-      "title": "Trump says he has agreed to two-week ceasefire with Iran",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/iran-defiant-on-eve-of-trumps-ceasefire-deadline-4599604",
-      "source": "Investing.com News",
-      "publishedAt": 1775603907000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgU0VSVklD",
-      "title": "Form 13G SERVICE PROPERTIES TRUST For: 7 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-service-properties-trust-for-7-april-93CH-4601848",
-      "source": "Investing.com News",
-      "publishedAt": 1775603798000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgWWV4dCBG",
-      "title": "Form 13G Yext For: 7 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-yext-for-7-april-93CH-4601847",
-      "source": "Investing.com News",
-      "publishedAt": 1775603784000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZmFjZXMgY2Fs",
-      "title": "Trump faces calls for removal over threats to wipe out &apos;whole civilization&apos; in Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/25th-amendment-trump-removal-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775603599000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2VudHJhbCBiYW5rc+KA",
-      "title": "Central banks’ concern over rising geopolitical tensions surges, survey shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/central-banks-concern-over-rising-geopolitical-tensions-surges-survey-shows-4601846",
-      "source": "Investing.com News",
-      "publishedAt": 1775603587000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -465,21 +495,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-NDEteWVhci1vbGQgaGln",
-      "title": "41-year-old high school teacher&apos;s side hustle brings in $3.8 million a year—he shares &apos;every high and every low&apos; with students",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/stall-mates-high-school-business-teacher-side-hustle-brings-in-millions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775583753000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2l0aCBnYXMgcHJpY2Vz",
       "title": "With gas prices above $4, drivers across the country grapple with higher costs: “I have to spend it—there’s no other way”",
       "summary": "",
@@ -507,36 +522,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmF0aW9uYWwgQ29sbGVn",
-      "title": "National College Decision Day is approaching. How to maximize aid",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/national-college-decision-day-how-to-maximize-aid.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775583098000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiB3YXIgdXBlbmRz",
-      "title": "Iran war upends spring housing market. Here&apos;s what real estate agents are seeing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775582983000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -609,6 +594,21 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7VGhlIHRoYXcg",
+      "title": "&apos;The thaw is real&apos;: Indian delegation visits China to talk EVs and more",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/07/india-china-relations-ease-iran-war-ev.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775556452000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
