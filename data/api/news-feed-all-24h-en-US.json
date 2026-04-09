@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775692852796,
-  "crawlUpdatedAt": 1775692852796,
+  "updatedAt": 1775705766980,
+  "crawlUpdatedAt": 1775705766980,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,179 +13,222 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-QkhQ4oCZcyBpbmNvbWlu",
+      "title": "BHP’s incoming CEO met with Chinalco boss in China this week",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/bhps-incoming-ceo-met-with-chinalco-boss-in-china-this-week-4604495",
+      "source": "Investing.com News",
+      "publishedAt": 1775704711000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9ueS5haSwgVWJlciwg",
+      "title": "Pony.ai, Uber, Verne to launch Europe’s first commercial robotaxi service",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ponyai-uber-verne-to-launch-europes-first-commercial-robotaxi-service-4604494",
+      "source": "Investing.com News",
+      "publishedAt": 1775704096000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7UG9vcmx5IHJ1",
+      "title": "&apos;Poorly run, piece of ice&apos;: Trump targets Greenland again as Iran war deepens NATO rift",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/09/trump-greenland-nato-rift-iran-war-deepens.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775703925000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIHdvYmJsZXMg",
+      "title": "Dollar wobbles as fragile US-Iran ceasefire keeps markets on edge",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/dollar-steadies-as-fragile-usiran-ceasefire-weighs-on-markets-4604474",
+      "source": "Investing.com News",
+      "publishedAt": 1775703631000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYSBzdG9ja3Mgc2tp",
+      "title": "Asia stocks skittish amid doubts over US-Iran ceasefire",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-skittish-amid-doubts-over-usiran-ceasefire-4604493",
+      "source": "Investing.com News",
+      "publishedAt": 1775703404000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
+      "title": "Inside India newsletter: Tariffs and Iran war threaten India&apos;s $100 billion garments export goal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775701651000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgY291cnQgb3ZlcnR1",
+      "title": "US court overturns conviction of former Honduran president Hernandez",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-court-overturns-conviction-of-former-honduran-president-hernandez-4604492",
+      "source": "Investing.com News",
+      "publishedAt": 1775701471000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxpYmFiYSBzaGFyZXMg",
+      "title": "Alibaba shares fall after Jefferies cuts target on AI spending, non-core losses",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-shares-fall-after-jefferies-cuts-target-on-ai-spending-noncore-losses-4604491",
+      "source": "Investing.com News",
+      "publishedAt": 1775701240000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
+      "title": "Asia markets trade lower as investors assess fragile Iran-U.S. ceasefire deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/09/asia-pacific-markets-us-iran-negotiations-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775700772000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2VuYXRvciB1cmdl",
+      "title": "US senator urges Taiwan parliament to pass stalled defence spending plan",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-senator-urges-taiwan-parliament-to-pass-stalled-defence-spending-plan-4604475",
+      "source": "Investing.com News",
+      "publishedAt": 1775700384000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FsZnJhYyBhcHBvaW50",
+      "title": "Calfrac appoints Scarlett Crockatt as new CFO",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/calfrac-appoints-scarlett-crockatt-as-new-cfo-93CH-4604490",
+      "source": "Investing.com News",
+      "publishedAt": 1775700300000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgRWFnbGUg",
+      "title": "Form 13G Eagle Nuclear Energy Corp. For: 8 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-eagle-nuclear-energy-corp-for-8-april-93CH-4604489",
+      "source": "Investing.com News",
+      "publishedAt": 1775700083000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ydGUgQmlvc2NpZW5j",
+      "title": "Forte Biosciences prices $150M stock offering at $26.27/share",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/forte-biosciences-prices-150m-stock-offering-at-2627share-93CH-4604486",
+      "source": "Investing.com News",
+      "publishedAt": 1775698645000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyByZXN1",
+      "title": "Oil prices resume gains after Iran accuses U.S. of breaching ceasefire deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775695206000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-QW50aHJvcGljIGxvc2Vz",
       "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
       "source": "CNBC Markets",
       "publishedAt": 1775692324000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHNl",
-      "title": "Asia markets set to open mostly higher after fragile Iran-U.S. ceasefire deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/09/asia-pacific-markets-us-iran-negotiations-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775692321000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHViTWF0aWMgY2hpZWYg",
-      "title": "PubMatic chief growth officer Klimenko sells $99k in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-chief-growth-officer-klimenko-sells-99k-in-stock-93CH-4604384",
-      "source": "Investing.com News",
-      "publishedAt": 1775691817000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-ZUJheSBDRU8gSWFubm9u",
-      "title": "eBay CEO Iannone sells $4.07 million in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ebay-ceo-iannone-sells-407-million-in-shares-93CH-4604383",
-      "source": "Investing.com News",
-      "publishedAt": 1775691813000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3l0b2tpbmV0aWNzIChD",
-      "title": "Cytokinetics (CYTK) EVP Malik sells $292,985 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/cytokinetics-cytk-evp-malik-sells-292985-in-stock-93CH-4604382",
-      "source": "Investing.com News",
-      "publishedAt": 1775691804000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29yY2VwdCB0aGVyYXBl",
-      "title": "Corcept therapeutics officer Guyer sells $819k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-officer-guyer-sells-819k-in-shares-93CH-4604381",
-      "source": "Investing.com News",
-      "publishedAt": 1775691668000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEIu",
-      "title": "Form DEF 14A B. Riley Financial Inc For: 8 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-b-riley-financial-inc-for-8-april-93CH-4604380",
-      "source": "Investing.com News",
-      "publishedAt": 1775691406000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFJh",
-      "title": "Form DEF 14A Rapid Micro Biosystems For: 8 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-rapid-micro-biosystems-for-8-april-93CH-4604379",
-      "source": "Investing.com News",
-      "publishedAt": 1775691384000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgY291cnQgZGVjbGlu",
-      "title": "US court declines to block Pentagon’s Anthropic blacklisting for now",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-court-declines-to-block-pentagons-anthropic-blacklisting-for-now-4604301",
-      "source": "Investing.com News",
-      "publishedAt": 1775691384000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUNQIEhvbGRpbmdzIGNs",
-      "title": "ACP Holdings closes $200M SPAC IPO, lists on Nasdaq",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/acp-holdings-closes-200m-spac-ipo-lists-on-nasdaq-93CH-4604378",
-      "source": "Investing.com News",
-      "publishedAt": 1775691184000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TG9uZyBJc2xhbmQgYXJj",
-      "title": "Long Island architect pleads guilty to ’Gilgo Beach’ serial killings",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/long-island-architect-pleads-guilty-to-gilgo-beach-serial-killings-4603779",
-      "source": "Investing.com News",
-      "publishedAt": 1775691044000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEtl",
-      "title": "Form DEF 14A Kenvue Inc. For: 8 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-kenvue-inc-for-8-april-93CH-4604377",
-      "source": "Investing.com News",
-      "publishedAt": 1775690860000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -345,21 +388,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
-      "title": "U.S. crude oil posts biggest one-day drop since 2020 on U.S.-Iran ceasefire agreement",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775678612000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TGF0ZXN0IGludmVzdGln",
       "title": "Latest investigation into bitcoin founder ties identity to Blockstream CEO Adam Back",
       "summary": "",
@@ -514,23 +542,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWFya2V0cyBzaGlmdCBi",
-      "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775666410000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
       "title": "Trump threatens tariffs of 50% on countries &apos;supplying military weapons to Iran&apos;",
       "summary": "",
@@ -543,21 +554,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmF5IERhbGlvOiBUcnVt",
-      "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775660858000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
