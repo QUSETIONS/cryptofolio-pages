@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775829380400,
-  "crawlUpdatedAt": 1775829380400,
-  "crawlCount": 39,
+  "updatedAt": 1775833101557,
+  "crawlUpdatedAt": 1775833101557,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,285 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q29uc3VtZXIgc2VudGlt",
+      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775833080000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljcm9DbG91ZCBIb2xv",
+      "title": "MicroCloud Hologram develops quantum authentication system",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/microcloud-hologram-develops-quantum-authentication-system-93CH-4608162",
+      "source": "Investing.com News",
+      "publishedAt": 1775832584000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UyZQIDUwMCwgTmFzZGFx",
+      "title": "S&P 500, Nasdaq gain on tech boost after inflation data; Mideast tensions in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-subdued-ahead-of-inflation-data-mideast-in-focus-4607245",
+      "source": "Investing.com News",
+      "publishedAt": 1775832556000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "NDX",
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhbiBpbnZlc3Rp",
+      "title": "Russian investigative journalist placed in pre-trial detention",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/russian-investigative-journalist-placed-in-pretrial-detention-4608160",
+      "source": "Investing.com News",
+      "publishedAt": 1775832539000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RvY2tzIG1peGVkIGFz",
+      "title": "Stocks mixed as caution over Iran ceasefire offset by better than feared CPI data",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-ceasefire-talks-cpi-data-in-focus-4607013",
+      "source": "Investing.com News",
+      "publishedAt": 1775832526000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3MgdGhl",
+      "title": "Here&apos;s the inflation breakdown for March 2026 — in one chart",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775832391000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgUXVha2Vy",
+      "title": "Form 13F Quaker Wealth Management For: 10 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-quaker-wealth-management-for-10-april-93CH-4608159",
+      "source": "Investing.com News",
+      "publishedAt": 1775832369000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgSGFycHN3",
+      "title": "Form 13F Harpswell Capital Advisors For: 10 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-harpswell-capital-advisors-for-10-april-93CH-4608158",
+      "source": "Investing.com News",
+      "publishedAt": 1775832348000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UG93ZWxsLCBCZXNzZW50",
+      "title": "Powell, Bessent discussed Anthropic&apos;s Mythos AI cyber threat with major U.S. banks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775832263000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFsYW50aXIgc3RvY2sg",
+      "title": "Palantir stock rebounds after Trump endorsement amid Anthropic competition",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/palantir-stock-rebounds-after-trump-endorsement-amid-anthropic-competition-4608156",
+      "source": "Investing.com News",
+      "publishedAt": 1775832230000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TG9ja2hlZWQgTWFydGlu",
+      "title": "Lockheed Martin secures $4.7 billion Patriot interceptor missile production contract",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/lockheed-martin-awarded-pac3-mse-missile-interceptor-production-contract-4607923",
+      "source": "Investing.com News",
+      "publishedAt": 1775832187000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZmFjdG9yeSBvcmRl",
+      "title": "US factory orders unchanged in February for second straight month",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/us-factory-orders-unchanged-in-february-for-second-straight-month-4608154",
+      "source": "Investing.com News",
+      "publishedAt": 1775832170000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBOT0tJQSBD",
+      "title": "Form 6K NOKIA CORP For: 10 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-nokia-corp-for-10-april-93CH-4608152",
+      "source": "Investing.com News",
+      "publishedAt": 1775832037000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29yZVdlYXZlIHN0b2Nr",
+      "title": "CoreWeave stock pops 11% on deal to power Anthropic&apos;s Claude",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775831966000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIFhp",
+      "title": "China&apos;s Xi invokes &apos;threat&apos; of Taiwan independence in first cross-strait opposition talks in a decade",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/china-taiwan-reunification-cross-strait-relations-trump-visit-may-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775831039000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmFuY2UgZXhwZWN0cyBV",
+      "title": "Vance expects U.S. negotiations with Iran on war will be ‘positive&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/iran-war-vance-negotiations-trump-oil-hormuz-strait.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775830813000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCZhcG9zO3MgYXQg",
+      "title": "What&apos;s at stake ahead of crucial U.S-Iran peace talks as leaders meet in Pakistan",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/negotiating-points-hardest-us-iran-ceasefire-lebanon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775830456000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VFNNQyBwb3N0cyAzNSUg",
       "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
       "source": "CNBC Markets",
       "publishedAt": 1775829224000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVmZW5zZSZhcG9zO3Mg",
+      "title": "Defense&apos;s Silicon Valley pivot: Ukraine, Iran wars challenge the legacy playbook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/defense-tech-ai-startup-silicon-valley-ukraine-iran-war-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775829117000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,192 +346,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UG93ZWxsLCBCZXNzZW50",
-      "title": "Powell, Bessent discussed Anthropic&apos;s Mythos AI cyber threat with major U.S. banks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775827797000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBvZmZpY2lhbHMg",
-      "title": "Iran officials clash over makeup of US negotiating team",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-officials-clash-over-makeup-of-us-negotiating-team-93CH-4607895",
-      "source": "Investing.com News",
-      "publishedAt": 1775826451000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIGN1dHMg",
-      "title": "Bernstein cuts Spotify stock price target on margin outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-cuts-spotify-stock-price-target-on-margin-outlook-93CH-4607893",
-      "source": "Investing.com News",
-      "publishedAt": 1775826423000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIG1haW50",
-      "title": "Bernstein maintains agilon health stock rating, cites 2026 outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-maintains-agilon-health-stock-rating-cites-2026-outlook-93CH-4607890",
-      "source": "Investing.com News",
-      "publishedAt": 1775826417000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-THlyYSBUaGVyYXBldXRp",
-      "title": "Lyra Therapeutics to end leases early for Watertown and Waltham facilities",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/lyra-therapeutics-to-end-leases-early-for-watertown-and-waltham-facilities-93CH-4607889",
-      "source": "Investing.com News",
-      "publishedAt": 1775826410000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluaWFucyBzY2Vw",
-      "title": "Ukrainians sceptical of Easter truce with Russia as Kyiv calls for talks",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/ukrainians-sceptical-of-easter-truce-with-russia-as-kyiv-calls-for-talks-4607887",
-      "source": "Investing.com News",
-      "publishedAt": 1775826403000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TG9ja2hlZWQgTWFydGlu",
-      "title": "Lockheed Martin wins $4.7B contract for missile production",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/lockheed-martin-wins-47b-contract-for-missile-production-93CH-4607885",
-      "source": "Investing.com News",
-      "publishedAt": 1775826304000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmlyY2ggQ29mZmVlIG9w",
-      "title": "Birch Coffee opens twelfth NYC location using Square platform",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/birch-coffee-opens-twelfth-nyc-location-using-square-platform-93CH-4607884",
-      "source": "Investing.com News",
-      "publishedAt": 1775826299000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhaWluIGFwcHJvdmVz",
-      "title": "Braiin approves three-for-one stock split effective April 29",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/braiin-approves-threeforone-stock-split-effective-april-29-93CH-4607883",
-      "source": "Investing.com News",
-      "publishedAt": 1775826293000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QVRJRiBIb2xkaW5ncyBz",
-      "title": "ATIF Holdings subsidiary to advise on digital asset issuance",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/atif-holdings-subsidiary-to-advise-on-digital-asset-issuance-93CH-4607882",
-      "source": "Investing.com News",
-      "publishedAt": 1775826287000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5nZWwgU3R1ZGlvcyBz",
-      "title": "Angel Studios stock tumbles 23% on dilutive stock offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/angel-studios-stock-tumbles-23-on-dilutive-stock-offering-93CH-4607869",
-      "source": "Investing.com News",
-      "publishedAt": 1775826175000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
       "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
       "source": "CNBC Markets",
       "publishedAt": 1775825818000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIFhp",
-      "title": "China&apos;s Xi invokes &apos;threat&apos; of Taiwan independence in first cross-strait opposition talks in a decade",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/china-taiwan-reunification-cross-strait-relations-trump-visit-may-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775824511000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -512,51 +605,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJIGxvb2tzIHRv",
-      "title": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/09/openai-chatgpt-pro-subscription-anthropic-claude-code.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775761601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGlzbmV5IHBsYW5zIGxh",
-      "title": "Disney plans layoffs of as many as 1,000 employees",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/09/disney-layoffs-ceo-josh-damaro.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775761271000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
-      "title": "American Airlines makes bag fees even more expensive for basic economy tickets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/09/american-airlines-bag-fees-basic-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775760593000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RE9KIGxhdW5jaGVzIHBy",
       "title": "DOJ launches probe into NFL over media rights packages and antitrust concerns",
       "summary": "",
@@ -568,38 +616,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIFN0cmFpdCBvZiBI",
-      "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775753000000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5mbGF0aW9uIGhlbGQg",
-      "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775745503000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
