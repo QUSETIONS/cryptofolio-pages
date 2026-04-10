@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775849239409,
-  "crawlUpdatedAt": 1775849239409,
+  "updatedAt": 1775851457558,
+  "crawlUpdatedAt": 1775851457558,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,132 +13,222 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VHJ1bXAgcHJhaXNlcyBQ",
+      "title": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775851442000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29yZVdlYXZlIHN0b2Nr",
+      "title": "CoreWeave stock pops 11% on deal to power Anthropic&apos;s Claude",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775851316000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2FtIEFsdG1hbiZhcG9z",
+      "title": "Sam Altman&apos;s house hit with Molotov cocktail, OpenAI San Francisco headquarters threatened",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775851198000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FuZyBIc3VlaC1DaHVu",
+      "title": "Wang Hsueh-Chun sells Photronics Inc (PLAB) shares worth $426,900",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/wang-hsuehchun-sells-photronics-inc-plab-shares-worth-426900-93CH-4608470",
+      "source": "Investing.com News",
+      "publishedAt": 1775851105000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFRy",
+      "title": "Form DEF 14A Travel & Leisure Co. For: 10 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-travel--leisure-co-for-10-april-93CH-4608469",
+      "source": "Investing.com News",
+      "publishedAt": 1775851060000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlhbW9uZGJhY2sgRW5l",
+      "title": "Diamondback Energy prices tender offer for senior notes",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/diamondback-energy-prices-tender-offer-for-senior-notes-93CH-4608468",
+      "source": "Investing.com News",
+      "publishedAt": 1775851043000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVml0YSBD",
+      "title": "Form 144 Vita Coco Company For: 10 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-vita-coco-company-for-10-april-93CH-4608467",
+      "source": "Investing.com News",
+      "publishedAt": 1775851039000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgR2lua2dv",
+      "title": "Form 144 Ginkgo Bioworks Holdings For: 10 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-ginkgo-bioworks-holdings-for-10-april-93CH-4608466",
+      "source": "Investing.com News",
+      "publishedAt": 1775851039000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJ0ZW1pcyBJSSBhc3Ry",
+      "title": "Artemis II astronauts hurtle home from moon toward splashdown",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/artemis-ii-astronauts-hurtle-home-from-moon-toward-splashdown-4607054",
+      "source": "Investing.com News",
+      "publishedAt": 1775850869000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnVycnkgc3RpbGwgYmVh",
+      "title": "Burry still bearish on Palantir despite Trump endorsement",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/burry-still-bearish-on-palantir-despite-trump-endorsement-93CH-4608464",
+      "source": "Investing.com News",
+      "publishedAt": 1775850731000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
+      "title": "Social Security 2027 cost-of-living adjustment estimate rises with gas prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775850661000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWVudG9yIENhcGl0YWwg",
+      "title": "Mentor Capital CEO Billingsley buys $246 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/mentor-capital-ceo-billingsley-buys-246-in-company-stock-93CH-4608462",
+      "source": "Investing.com News",
+      "publishedAt": 1775850556000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGVuZHMgbG93ZXIg",
+      "title": "Oil ends lower ahead of U.S.-Iran ceasefire talks, posts steepest weekly loss since 2022",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-after-strikes-on-saudi-oil-facilities-4607023",
+      "source": "Investing.com News",
+      "publishedAt": 1775850553000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJveHkgYWR2aXNlciBH",
+      "title": "Proxy adviser Glass Lewis recommends Warner Bros shareholders vote for Paramount deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/proxy-adviser-glass-lewis-recommends-warner-bros-shareholders-vote-for-paramount-deal-4608461",
+      "source": "Investing.com News",
+      "publishedAt": 1775850534000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-V2hpdGUgSG91c2Ugd2Fy",
       "title": "White House warned staff against Iran war bets on prediction markets",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/10/iran-war-prediction-markets-white-house.html",
       "source": "CNBC Markets",
       "publishedAt": 1775848717000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQXRhbGEg",
-      "title": "Form 13F Atala Financial Inc For: 10 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-atala-financial-inc-for-10-april-93CH-4608422",
-      "source": "Investing.com News",
-      "publishedAt": 1775848573000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQm91dmVs",
-      "title": "Form 13F Bouvel Investment Partners For: 10 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-bouvel-investment-partners-for-10-april-93CH-4608421",
-      "source": "Investing.com News",
-      "publishedAt": 1775848554000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQkFTUyBT",
-      "title": "Form 13F BASS SID R For: 10 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-bass-sid-r-for-10-april-93CH-4608420",
-      "source": "Investing.com News",
-      "publishedAt": 1775848552000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgU2FsdnVz",
-      "title": "Form 13F Salvus Wealth Management For: 10 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-salvus-wealth-management-for-10-april-93CH-4608419",
-      "source": "Investing.com News",
-      "publishedAt": 1775848551000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgSW5kdXN0cmlhbHMg",
-      "title": "US Industrials Distributor foot traffic shows positive momentum in March, Jefferies says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-industrials-distributor-foot-traffic-shows-positive-momentum-in-march-jefferies-says-93CH-4608418",
-      "source": "Investing.com News",
-      "publishedAt": 1775848466000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWlkZGxlIEVhc3Qgd2Fy",
-      "title": "Middle East war to cut growth, deliver cascading impact, World Bank chief says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/middle-east-war-to-cut-growth-deliver-cascading-impact-world-bank-chief-says-4608412",
-      "source": "Investing.com News",
-      "publishedAt": 1775848347000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgV2F5ZmFp",
-      "title": "Form 144 Wayfair Inc. For: 10 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-wayfair-inc-for-10-april-93CH-4608416",
-      "source": "Investing.com News",
-      "publishedAt": 1775848337000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kaWEgc3RvY2tzIHJp",
-      "title": "India stocks rise 6.6% as realty and auto sectors lead gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/india-stocks-rise-66-as-realty-and-auto-sectors-lead-gains-93CH-4608415",
-      "source": "Investing.com News",
-      "publishedAt": 1775848329000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,36 +253,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBQUkUgMTRBIFRl",
-      "title": "Form PRE 14A Team For: 10 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-pre-14a-team-for-10-april-93CH-4608414",
-      "source": "Investing.com News",
-      "publishedAt": 1775848175000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S25vd2xlcyBDb3JwIHN0",
-      "title": "Knowles Corp stock hits 52-week high at $28.76",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/knowles-corp-stock-hits-52week-high-at-2876-93CH-4608413",
-      "source": "Investing.com News",
-      "publishedAt": 1775848142000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VS5TLiBvaWwgc2xpcHMg",
       "title": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
       "summary": "",
@@ -205,36 +265,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security 2027 cost-of-living adjustment estimate rises with gas prices",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775846099000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcHJhaXNlcyBQ",
-      "title": "Trump praises Palantir with stock down 15% this week as Iran conflict drags on",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775845825000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -379,21 +409,6 @@
       "url": "https://www.cnbc.com/2026/04/10/jet-fuel-shortage-european-airports-strait-of-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1775833336000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29yZVdlYXZlIHN0b2Nr",
-      "title": "CoreWeave stock pops 11% on deal to power Anthropic&apos;s Claude",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775831966000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -569,21 +584,6 @@
         "FED"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxpYmFiYSBsZWFkcyAk",
-      "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775786443000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
