@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775947267981,
-  "crawlUpdatedAt": 1775947267981,
-  "crawlCount": 24,
+  "updatedAt": 1775951126279,
+  "crawlUpdatedAt": 1775951126279,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -14,11 +14,41 @@
   "items": [
     {
       "id": "CNBC Markets-VS5TLi1JcmFuIHBlYWNl",
-      "title": "U.S.-Iran peace summit in Pakistan continues long into the night with no resolution",
+      "title": "U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775945670000,
+      "publishedAt": 1775951064000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMtSXJhbiB0YWxrcyBw",
+      "title": "US-Iran talks pause for now, disagreements remain",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/usiran-talks-pause-for-now-disagreements-remain-4609005",
+      "source": "Investing.com News",
+      "publishedAt": 1775949868000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJlIEV1cm9wZWFucyBy",
+      "title": "Are Europeans ready for a Chinese car?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/are-europeans-ready-for-a-chinese-car-4609004",
+      "source": "Investing.com News",
+      "publishedAt": 1775947687000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -164,38 +194,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9mQSBleHBsYWlucyB3",
-      "title": "BofA explains why Fed is likely to deliver rate cuts this year",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bofa-explains-why-fed-is-likely-to-deliver-rate-cuts-this-year-4607630",
-      "source": "Investing.com News",
-      "publishedAt": 1775932259000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5leSBt",
-      "title": "Morgan Staney mixed on US natural gas outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/morgan-staney-mixed-on-us-natural-gas-outlook-4608219",
-      "source": "Investing.com News",
-      "publishedAt": 1775932240000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RvY2tzIGdhaW4gb24g",
       "title": "Stocks gain on Iran ceasefire, plus 3 more things that drove last week&apos;s market",
       "summary": "",
@@ -322,51 +320,6 @@
       "url": "https://www.cnbc.com/2026/04/10/trump-arch-renderings-arlington.html",
       "source": "CNBC Markets",
       "publishedAt": 1775871713000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFuIGFycmVzdGVkIGFm",
-      "title": "Man arrested after Sam Altman&apos;s house hit with Molotov cocktail, OpenAI headquarters threatened",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775863060000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNr4oCZcyB4",
-      "title": "Elon Musk’s xAI faces fresh opposition after landing permit for Mississippi power plant",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/musks-xai-draws-more-opposition-over-mississippi-power-plant-permit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775862301000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVyIHdhcm5zIG9m",
-      "title": "Cramer warns of ‘incredibly overconfident’ market after U.S.-Iran ceasefire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/cramer-warns-overconfident-market-after-us-iran-ceasefire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775861830000,
       "lang": "en-US",
       "topics": [
         "macro"
