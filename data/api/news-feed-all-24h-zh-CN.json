@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775923133663,
-  "crawlUpdatedAt": 1775923133663,
-  "crawlCount": 36,
+  "updatedAt": 1775926294450,
+  "crawlUpdatedAt": 1775926294450,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Q291cnQgYWxsb3dzIFdo",
+      "title": "Court allows White House ballroom construction to continue for now",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/court-allows-white-house-ballroom-construction-to-continue-for-now-4608993",
+      "source": "Investing.com News",
+      "publishedAt": 1775924315000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgcGF1c2VzIGl0cyBw",
+      "title": "UK pauses its plan to cede Chagos Islands after US opposition",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/uk-pauses-its-plan-to-cede-chagos-islands-after-us-opposition-4608974",
+      "source": "Investing.com News",
+      "publishedAt": 1775923229000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-U3RvY2tzIGdhaW4gb24g",
       "title": "Stocks gain on Iran ceasefire, plus 3 more things that drove last week&apos;s market",
@@ -110,21 +140,6 @@
       "url": "https://www.investing.com/news/world-news/israeli-strike-kills-at-least-six-at-gaza-police-checkpoint-medics-say-4608929",
       "source": "Investing.com News",
       "publishedAt": 1775916750000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUsgcGF1c2VzIGl0cyBw",
-      "title": "UK pauses its plan to cede Chagos Islands after US opposition",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/uk-pauses-its-plan-to-cede-chagos-islands-after-us-opposition-4608974",
-      "source": "Investing.com News",
-      "publishedAt": 1775915670000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -275,21 +290,6 @@
       "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-analysis-nails-62-gain-on-first-horizon-93CH-4608988",
       "source": "Investing.com News",
       "publishedAt": 1775905921000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
-      "title": "InvestingPro’s fair value warns of 46% Samsara plunge",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-warns-of-46-samsara-plunge-93CH-4608987",
-      "source": "Investing.com News",
-      "publishedAt": 1775905335000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -515,36 +515,6 @@
       "url": "https://www.cnbc.com/2026/04/10/ben-sasse-shines-spotlight-on-daraxonrasib-for-pancreatic-cancer.html",
       "source": "CNBC Markets",
       "publishedAt": 1775843383000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG93ZWxsLCBCZXNzZW50",
-      "title": "Powell, Bessent discussed Anthropic&apos;s Mythos AI cyber threat with major U.S. banks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775838495000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJlbGFuZCBncmlkbG9j",
-      "title": "Ireland gridlocked by fuel protests as Iran war drives prices higher",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/ireland-fuel-prices-protest-blockade-cork-galway.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775837669000,
       "lang": "zh-CN",
       "topics": [
         "macro"
