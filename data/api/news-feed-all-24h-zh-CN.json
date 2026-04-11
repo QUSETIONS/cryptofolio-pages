@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1775913400076,
-  "crawlUpdatedAt": 1775913400076,
-  "crawlCount": 37,
+  "updatedAt": 1775916475119,
+  "crawlUpdatedAt": 1775916475119,
+  "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -14,11 +14,41 @@
   "items": [
     {
       "id": "CNBC Markets-VS5TLi1JcmFuIHRhbGtz",
-      "title": "U.S.-Iran talks set to begin in Pakistani capital after delegations arrive",
+      "title": "U.S.-Iran talks underway in Pakistani capital after delegations arrive",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
       "source": "CNBC Markets",
-      "publishedAt": 1775912994000,
+      "publishedAt": 1775915938000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyBm",
+      "title": "Trump says US forces are ’clearing’ Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-us-forces-are-clearing-strait-of-hormuz-4608991",
+      "source": "Investing.com News",
+      "publishedAt": 1775915331000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. clearing Hormuz as Pakistan peace talks begin",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/vance-leads-highstakes-iran-talks-in-pakistan-to-secure-safe-opening-4608963",
+      "source": "Investing.com News",
+      "publishedAt": 1775914626000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -190,36 +220,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1lcmljYW5zIHdlaWdo",
-      "title": "Americans weigh in on the Iran war, gas prices and their fears",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/americans-weigh-in-on-the-iran-war-gas-prices-and-their-fears-4608983",
-      "source": "Investing.com News",
-      "publishedAt": 1775903427000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9yIGFnaW5nIFVTIFN1",
-      "title": "For aging US Supreme Court justices, the politics of retirement looms large",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/for-aging-us-supreme-court-justices-the-politics-of-retirement-looms-large-4608986",
-      "source": "Investing.com News",
-      "publishedAt": 1775902371000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -529,36 +529,6 @@
       "url": "https://www.cnbc.com/2026/04/10/jet-fuel-shortage-european-airports-strait-of-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1775833336000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVmZW5zZSZhcG9zO3Mg",
-      "title": "Defense&apos;s Silicon Valley pivot: Ukraine, Iran wars challenge the legacy playbook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/defense-tech-ai-startup-silicon-valley-ukraine-iran-war-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775829117000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29uc3VtZXIgcHJpY2Vz",
-      "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775828233000,
       "lang": "zh-CN",
       "topics": [
         "macro"
