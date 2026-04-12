@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776021842827,
-  "crawlUpdatedAt": 1776021842827,
+  "updatedAt": 1776024094693,
+  "crawlUpdatedAt": 1776024094693,
   "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-V2h5IHRoZSBzdG9jayBt",
+      "title": "Why the stock market has stayed resilient despite the Iran war and software stock rout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/12/jim-cramer-iran-war-software-stock-selloff-earnings-season-investing-club.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776022810000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIGp1bXBzIGFm",
+      "title": "Dollar jumps after US/Iran peace talks fail",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/dollar-jumps-after-usiran-peace-talks-fail-4609103",
+      "source": "Investing.com News",
+      "publishedAt": 1776022228000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgYWxseSBPcmLD",
+      "title": "Trump ally Orbán acknowledges defeat as Hungary’s Tisza nears landslide victory",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-ally-orban-acknowledges-defeat-as-hungarys-tisza-nears-landslide-victory-4609101",
+      "source": "Investing.com News",
+      "publishedAt": 1776022086000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBsYWlkIG91dCBz",
+      "title": "U.S. laid out six \"red lines\" for Iran in Islamabad talks - report",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/usiran-talks-collapse-vance-exits-islamabad-as-nuclear-impasse-holds-4609016",
+      "source": "Investing.com News",
+      "publishedAt": 1776021696000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VHJ1bXAgdm93cyB0byBi",
       "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks yield no agreement",
@@ -118,21 +178,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
-      "title": "Here are the 3 big things we&apos;re watching in the stock market this week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776005862000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-VHJ1bXAgc2F5cyBpdCB3",
       "title": "Trump says it will take a little while for US to blockade the Strait of Hormuz",
       "summary": "",
@@ -144,53 +189,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmlnZXJpYW4gYWlyc3Ry",
-      "title": "Nigerian airstrike hits market, 200 feared dead in northeast Yobe state",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/nigerian-airstrike-hits-market-200-feared-dead-in-northeast-yobe-state-4609095",
-      "source": "Investing.com News",
-      "publishedAt": 1776003488000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R1NLIHNlZXMgYmxvY2ti",
-      "title": "GSK sees blockbuster potential in targeted cancer therapy after promising early data",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/gsk-sees-blockbuster-potential-in-targeted-cancer-therapy-after-promising-early-data-4609094",
-      "source": "Investing.com News",
-      "publishedAt": 1776003152000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIHF1YW50dW0g",
-      "title": "Why is quantum computing seen as a challenge to Bitcoin?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/why-is-quantum-computing-seen-as-a-challenge-to-bitcoin-4609025",
-      "source": "Investing.com News",
-      "publishedAt": 1776002623000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
