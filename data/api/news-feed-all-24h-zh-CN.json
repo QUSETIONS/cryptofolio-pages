@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1775979652524,
-  "crawlUpdatedAt": 1775979652524,
+  "updatedAt": 1775984409496,
+  "crawlUpdatedAt": 1775984409496,
   "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,98 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SWNvbmljIEluZGlhbiBz",
+      "title": "Iconic Indian singer Asha Bhosle dies in Mumbai",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/iconic-indian-singer-asha-bhosle-dies-in-mumbai-4609035",
+      "source": "Investing.com News",
+      "publishedAt": 1775984071000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmFuY2UgaGVhZHMgYmFj",
+      "title": "Vance heads back to the U.S. without striking a deal with Iran to bring an end to the war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1775982430000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHJl",
+      "title": "Saudi Arabia restores key pipeline to 7M bpd as Red Sea bypass ramps up",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/saudi-arabia-restores-key-pipeline-to-7m-bpd-as-red-sea-bypass-ramps-up-4609034",
+      "source": "Investing.com News",
+      "publishedAt": 1775982337000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJpc2ggcG9saWNlIGNs",
+      "title": "Irish police clear fuel protesters from central Dublin after days of gridlock",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/irish-police-clear-fuel-protesters-from-central-dublin-after-days-of-gridlock-4609033",
+      "source": "Investing.com News",
+      "publishedAt": 1775982269000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBhaW1zIHRvIHJl",
+      "title": "Iran aims to restore majority of refining capability within two months, oil ministry official says",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-aims-to-restore-majority-of-refining-capability-within-two-months-oil-ministry-official-says-4609032",
+      "source": "Investing.com News",
+      "publishedAt": 1775981187000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IGxpcXVpZCBpcyBn",
+      "title": "How liquid is gold in practice?",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/how-liquid-is-gold-in-practice-4609030",
+      "source": "Investing.com News",
+      "publishedAt": 1775979348000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Q2hpbmEgb2ZmZXJzIGlu",
       "title": "China offers incentives to Taiwan following opposition leader’s visit",
@@ -85,98 +177,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-4oCZUGFkZGluZ3RvbuKA",
-      "title": "’Paddington’ musical, Hollywood stars to vie for prizes at Olivier Awards",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/paddington-musical-hollywood-stars-to-vie-for-prizes-at-olivier-awards-4609026",
-      "source": "Investing.com News",
-      "publishedAt": 1775974352000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIHF1YW50dW0g",
-      "title": "Why is quantum computing seen as a challenge to Bitcoin?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/why-is-quantum-computing-seen-as-a-challenge-to-bitcoin-4609025",
-      "source": "Investing.com News",
-      "publishedAt": 1775972633000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0TUVYIFJlcG9ydCBG",
-      "title": "BitMEX Report Finds 500%+ Increase in Tokenised Commodities and Equity Perpetuals",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitmex-report-finds-500-increase-in-tokenised-commodities-and-equity-perpetuals-4609024",
-      "source": "Investing.com News",
-      "publishedAt": 1775971834000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW4gdGFyZ2V0cyBB",
-      "title": "Japan targets Asian oil alliance as supply bottlenecks persist",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/japan-targets-asian-oil-alliance-as-supply-bottlenecks-persist-4609023",
-      "source": "Investing.com News",
-      "publishedAt": 1775970962000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXQgbGVhc3QgMzAgZGVh",
-      "title": "At least 30 dead in stampede at Haiti’s historic Laferriere Citadel",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/at-least-30-dead-in-stampede-at-haitis-historic-laferriere-citadel-4609010",
-      "source": "Investing.com News",
-      "publishedAt": 1775970751000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmFuY2UgaGVhZHMgYmFj",
-      "title": "Vance heads back to the U.S. without striking a deal with Iran to bring an end to the war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775961964000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
