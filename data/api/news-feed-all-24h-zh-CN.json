@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776003013926,
-  "crawlUpdatedAt": 1776003013926,
-  "crawlCount": 18,
+  "updatedAt": 1776006463892,
+  "crawlUpdatedAt": 1776006463892,
+  "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,81 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
+      "title": "Here are the 3 big things we&apos;re watching in the stock market this week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/12/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776005862000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBpdCB3",
+      "title": "Trump says it will take a little while for US to blockade the Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-it-will-take-a-little-while-for-us-to-blockade-the-strait-of-hormuz-4609096",
+      "source": "Investing.com News",
+      "publishedAt": 1776005308000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdm93cyB0byBi",
+      "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks stumble",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/usiran-talks-pause-for-now-disagreements-remain-4609005",
+      "source": "Investing.com News",
+      "publishedAt": 1776004944000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmlnZXJpYW4gYWlyc3Ry",
+      "title": "Nigerian airstrike hits market, 200 feared dead in northeast Yobe state",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/nigerian-airstrike-hits-market-200-feared-dead-in-northeast-yobe-state-4609095",
+      "source": "Investing.com News",
+      "publishedAt": 1776003488000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R1NLIHNlZXMgYmxvY2ti",
+      "title": "GSK sees blockbuster potential in targeted cancer therapy after promising early data",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/gsk-sees-blockbuster-potential-in-targeted-cancer-therapy-after-promising-early-data-4609094",
+      "source": "Investing.com News",
+      "publishedAt": 1776003152000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2h5IGlzIHF1YW50dW0g",
       "title": "Why is quantum computing seen as a challenge to Bitcoin?",
@@ -77,21 +152,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgdm93cyB0byBi",
-      "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks stumble",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/usiran-talks-pause-for-now-disagreements-remain-4609005",
-      "source": "Investing.com News",
-      "publishedAt": 1776001348000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Ug",
       "title": "Israeli strike kills infant girl in south Lebanon during father’s funeral",
       "summary": "",
@@ -128,51 +188,6 @@
       "url": "https://www.investing.com/news/world-news/iconic-indian-singer-asha-bhosle-dies-in-mumbai-4609035",
       "source": "Investing.com News",
       "publishedAt": 1775999569000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyB0",
-      "title": "Trump says US to start blockading the Strait of Hormuz immediately",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-us-to-start-blockading-the-strait-of-hormuz-4609050",
-      "source": "Investing.com News",
-      "publishedAt": 1775999551000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. Navy to enact Strait of Hormuz blockade after Iran talks collapse",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/usiran-talks-collapse-vance-exits-islamabad-as-nuclear-impasse-holds-4609016",
-      "source": "Investing.com News",
-      "publishedAt": 1775999494000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZWFybmluZ3Mgc2Vh",
-      "title": "US earnings season set to test war-rattled stocks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-earnings-season-set-to-test-warrattled-stocks-4609049",
-      "source": "Investing.com News",
-      "publishedAt": 1775998828000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -252,36 +267,6 @@
       "topics": [
         "rates",
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RvY2tzIGdhaW4gb24g",
-      "title": "Stocks gain on Iran ceasefire, plus 3 more things that drove last week&apos;s market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/11/stocks-gain-on-iran-ceasefire-plus-3-things-that-drove-last-weeks-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775921660000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmF0dGxlcyBicmV3IG92",
-      "title": "Battles brew over in-state tuition for undocumented students",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/11/battles-brew-over-in-state-tuition-for-undocumented-students.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775919766000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
