@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776013594204,
-  "crawlUpdatedAt": 1776013594204,
+  "updatedAt": 1776017014077,
+  "crawlUpdatedAt": 1776017014077,
   "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -14,11 +14,26 @@
   "items": [
     {
       "id": "Investing.com News-VHJ1bXAgdm93cyB0byBi",
-      "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks stumble",
+      "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks fail to yield agreement",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/usiran-talks-pause-for-now-disagreements-remain-4609005",
       "source": "Investing.com News",
-      "publishedAt": 1776012872000,
+      "publishedAt": 1776014665000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBnYXMg",
+      "title": "Trump says gas prices may remain high through November midterm election",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-us-to-start-blockading-the-strait-of-hormuz-4609050",
+      "source": "Investing.com News",
+      "publishedAt": 1776013947000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -173,21 +188,6 @@
       "url": "https://www.investing.com/news/economy-news/how-global-fiscal-policy-is-reacting-to-the-recent-energy-shock-4609038",
       "source": "Investing.com News",
       "publishedAt": 1776002594000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Ug",
-      "title": "Israeli strike kills infant girl in south Lebanon during father’s funeral",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-infant-girl-in-south-lebanon-during-fathers-funeral-4609044",
-      "source": "Investing.com News",
-      "publishedAt": 1776000625000,
       "lang": "en-US",
       "topics": [
         "macro"
