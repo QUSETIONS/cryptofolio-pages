@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776082033245,
-  "crawlUpdatedAt": 1776082033245,
-  "crawlCount": 24,
+  "updatedAt": 1776089725713,
+  "crawlUpdatedAt": 1776089725713,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,59 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VS5TLiBiZWdpbnMgYmxv",
+      "title": "U.S. begins blockade of Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776089596000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgZGlzbWlzc2Vz",
+      "title": "Judge dismisses Trump defamation lawsuit against Murdoch, WSJ about Epstein letter",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/trump-epstein-murdoch-wsj-lawsuit-dismissed.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776089316000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields are little changed as collapse of Iran talks clouds inflation outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776089112000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-R29sZG1hbiBTYWNocyB0",
       "title": "Goldman Sachs tops estimates on record equities trading — here&apos;s why the stock is falling",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776081960000,
+      "publishedAt": 1776088998000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -30,27 +77,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
-      "title": "Cantor Fitzgerald reiterates Tesla stock rating on Europe FSD approval",
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-tesla-stock-rating-on-europe-fsd-approval-93CH-4610164",
-      "source": "Investing.com News",
-      "publishedAt": 1776081943000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWRhcHRIZWFsdGggY2xv",
-      "title": "AdaptHealth closes $1.1 billion credit facility refinancing",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/adapthealth-closes-11-billion-credit-facility-refinancing-93CH-4610163",
-      "source": "Investing.com News",
-      "publishedAt": 1776081931000,
+      "url": "https://www.cnbc.com/2026/04/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776088099000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -60,12 +92,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2VlciByZWNlaXZlcyAk",
-      "title": "Seer receives $2.25 per share takeover bid from activist investors",
+      "id": "Investing.com News-V2VuZHnigJlzIHN0b2Nr",
+      "title": "Wendy’s stock hits 52-week low at $6.67",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/seer-receives-225-per-share-takeover-bid-from-activist-investors-93CH-4610162",
+      "url": "https://www.investing.com/news/company-news/wendys-stock-hits-52week-low-at-667-93CH-4610618",
       "source": "Investing.com News",
-      "publishedAt": 1776081929000,
+      "publishedAt": 1776087577000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -75,44 +107,89 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UHJheGlzIHRvIHByZXNl",
-      "title": "Praxis to present essential tremor drug data at neurology meeting",
+      "id": "Investing.com News-RkIgRmluYW5jaWFsIGVh",
+      "title": "FB Financial earnings on deck: Can loan growth offset margin pressure?",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/praxis-to-present-essential-tremor-drug-data-at-neurology-meeting-93CH-4610161",
+      "url": "https://www.investing.com/news/earnings/fb-financial-earnings-on-deck-can-loan-growth-offset-margin-pressure-93CH-4610617",
       "source": "Investing.com News",
-      "publishedAt": 1776081928000,
+      "publishedAt": 1776087566000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBEZXBvdCBu",
-      "title": "Bitcoin Depot names Tony Gagliardi chief compliance officer",
+      "id": "Investing.com News-MiBXYWxsIFN0cmVldCBi",
+      "title": "2 Wall Street brokers say the bottom is in for the S&P 500",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/bitcoin-depot-names-tony-gagliardi-chief-compliance-officer-93CH-4610160",
+      "url": "https://www.investing.com/news/stock-market-news/2-wall-street-brokers-say-the-bottom-is-in-for-the-sp-500-4610548",
       "source": "Investing.com News",
-      "publishedAt": 1776081928000,
+      "publishedAt": 1776087447000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
       ],
       "symbols": [
-        "BTC"
+        "SPX"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
-      "title": "Cantor Fitzgerald reiterates Rocket Lab stock rating on launch record",
+      "id": "Investing.com News-QmxhY2tSb2NrIGVhcm5p",
+      "title": "BlackRock earnings on deck amid estimate cuts, growth debate",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-rocket-lab-stock-rating-on-launch-record-93CH-4610159",
+      "url": "https://www.investing.com/news/earnings/blackrock-earnings-on-deck-amid-estimate-cuts-growth-debate-93CH-4610614",
       "source": "Investing.com News",
-      "publishedAt": 1776081927000,
+      "publishedAt": 1776087418000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgdG8gcHJvYmUgUGFy",
+      "title": "UK to probe Paramount-Warner Bros deal in coming weeks, competition watchdog says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uk-to-probe-paramountwarner-bros-deal-in-coming-weeks-competition-watchdog-says-4610569",
+      "source": "Investing.com News",
+      "publishedAt": 1776087413000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rml2ZSB0aGluZ3MgdG8g",
+      "title": "Five things to watch in markets in the week ahead",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4609485",
+      "source": "Investing.com News",
+      "publishedAt": 1776087395000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2Nocm9kZXIgRXVyb3Bl",
+      "title": "Schroder European REIT sets sterling exchange rate for dividend",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/schroder-european-reit-sets-sterling-exchange-rate-for-dividend-93CH-4610613",
+      "source": "Investing.com News",
+      "publishedAt": 1776087389000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -122,12 +199,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R2Vyb24gbmFtZXMgVGlt",
-      "title": "Geron names Timothy Williams as chief legal officer",
+      "id": "Investing.com News-R29sZCBwcmljZXMgZmFs",
+      "title": "Gold prices fall as Iran-driven inflation worries dent rate cut bets",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/geron-names-timothy-williams-as-chief-legal-officer-93CH-4610158",
+      "url": "https://www.investing.com/news/commodities-news/gold-prices-fall-as-usiran-jitters-strong-inflation-boost-dollar-4609207",
       "source": "Investing.com News",
-      "publishedAt": 1776081924000,
+      "publishedAt": 1776087389000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxiZXJ0c29ucyBlYXJu",
+      "title": "Albertsons earnings on deck as margin pressures test turnaround",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/albertsons-earnings-on-deck-as-margin-pressures-test-turnaround-93CH-4610612",
+      "source": "Investing.com News",
+      "publishedAt": 1776087362000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -137,12 +231,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWVyb1Zpcm9ubWVudCBu",
-      "title": "AeroVironment names Sean Woodward as CFO effective May 1",
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgb3Bl",
+      "title": "Wall Street opens lower with impending U.S. Hormuz blockade in focus",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/aerovironment-names-sean-woodward-as-cfo-effective-may-1-93CH-4610157",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-over-1-after-iran-ceasefire-talks-fall-through-4609123",
       "source": "Investing.com News",
-      "publishedAt": 1776081924000,
+      "publishedAt": 1776087352000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -152,12 +246,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5nbGVzIE1hcmtldHMg",
-      "title": "Ingles Markets urges shareholders to back board nominees",
+      "id": "CNBC Markets-SG93IEtvZGFrIGlzIHRy",
+      "title": "How Kodak is trying to turn around its business after teetering on bankruptcy",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ingles-markets-urges-shareholders-to-back-board-nominees-93CH-4610156",
-      "source": "Investing.com News",
-      "publishedAt": 1776081923000,
+      "url": "https://www.cnbc.com/2026/04/11/kodak-film-business-ceo-jim-continenza.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776085466000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVsdGEgQWlyIExpbmVz",
+      "title": "Delta Air Lines unveils first new Delta One suite in premium cabin arms race",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/delta-one-suite.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776085201000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -167,12 +276,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RyeWtlciB0byBhY3F1",
-      "title": "Stryker to acquire vascular device maker Amplitude Vascular",
+      "id": "CNBC Markets-T3BlbkFJIHRvdXRzIEFt",
+      "title": "OpenAI touts Amazon alliance in memo, says Microsoft has &apos;limited our ability&apos; to reach clients",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/stryker-to-acquire-vascular-device-maker-amplitude-vascular-93CH-4610155",
-      "source": "Investing.com News",
-      "publishedAt": 1776081918000,
+      "url": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776084661000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5lb3MgQXV0b21vdGl2",
+      "title": "Ineos Automotive: Startup backed by a knighted billionaire and soccer mogul wants to rekindle the rugged SUV market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/ineos-automotive-grenadier-suv-james-ratcliffe.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776083770000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlIGNoZWVycyBP",
+      "title": "Europe cheers Orbán defeat as a bloody nose for the Kremlin – but Hungary’s future remains contested",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776083024000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -197,23 +336,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields rise as collapse of Iran talks clouds inflation outlook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776081556000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgYmxhc3RzIFBv",
       "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy",
       "summary": "",
@@ -226,36 +348,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5lb3MgQXV0b21vdGl2",
-      "title": "Ineos Automotive: Startup backed by a knighted billionaire and soccer mogul wants to rekindle the rugged SUV market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/ineos-automotive-grenadier-suv-james-ratcliffe.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776079801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUsgJmFwb3M7bm90IHN1",
-      "title": "UK &apos;not supporting&apos; U.S. Iran blockade as France&apos;s Macron confirms &apos;multinational&apos; talks on the Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/uk-us-blockade-on-iranian-ports-iran-war-nato-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776079067000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -316,66 +408,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IHRoZSBzdG9jayBt",
-      "title": "Why the stock market has stayed resilient despite the Iran war and software stock rout",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/jim-cramer-iran-war-software-stock-selloff-earnings-season-investing-club.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776022810000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFueSBHZW4gWiBhZHVs",
-      "title": "Many Gen Z adults still get financial help from their parents",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/many-gen-z-adults-still-get-financial-help-from-their-parents.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775998801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhpcyBtb3JuaW5nIHJv",
-      "title": "This morning routine is key to a successful day, says mental performance coach—and it only takes 4 minutes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/this-4-minute-morning-routine-is-key-to-a-successful-day-mental-performance-coach.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775997961000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q291cGxlcyB3aG8gYXJl",
-      "title": "Couples who are &apos;emotionally secure&apos; regularly talk about 8 things, says Harvard-trained psychologist",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/harvard-psychologist-couples-who-are-emotionally-secure-regularly-talk-about-8-things.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1775997404000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
