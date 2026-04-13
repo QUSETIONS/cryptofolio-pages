@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776105996651,
-  "crawlUpdatedAt": 1776105996651,
-  "crawlCount": 37,
+  "updatedAt": 1776111021993,
+  "crawlUpdatedAt": 1776111021993,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,59 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-RmVkIG5vbWluZWUgV2Fy",
+      "title": "Fed nominee Warsh clears a hurdle to Senate hearing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/fed-chair-nominee-kevin-warsh-senate-confirmation-hearing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776110951000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW50ZWwmYXBvcztzIHN0",
+      "title": "Intel&apos;s stock on historic 9-day winning streak, up 58% over that run",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776110944000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIHBvcHMgbmVh",
+      "title": "Oracle pops nearly 12%, leading bounce back rally in software stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776110743000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
       "title": "Treasury yields edge lower as investors hope for U.S.-Iran deal",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776105712000,
+      "publishedAt": 1776110579000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -27,6 +74,233 @@
         "UST10Y"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxMFEgQkFCIElu",
+      "title": "Form 10Q BAB Inc For: 13 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-10q-bab-inc-for-13-april-93CH-4611119",
+      "source": "Investing.com News",
+      "publishedAt": 1776110467000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgV2lzZXIg",
+      "title": "Form 13F Wiser Wealth Management For: 13 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-wiser-wealth-management-for-13-april-93CH-4611118",
+      "source": "Investing.com News",
+      "publishedAt": 1776110460000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQm95Y2Ug",
+      "title": "Form 13F Boyce & Associates Wealth Consulting For: 13 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-boyce--associates-wealth-consulting-for-13-april-93CH-4611117",
+      "source": "Investing.com News",
+      "publishedAt": 1776110458000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgU1BSSU5H",
+      "title": "Form 13F SPRING CAPITAL MANAGEMENT For: 13 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-spring-capital-management-for-13-april-93CH-4611116",
+      "source": "Investing.com News",
+      "publishedAt": 1776110457000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TlkgRmVkIHNheXMgcGFw",
+      "title": "NY Fed says paper loss on bond holdings shrank last year",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ny-fed-says-paper-loss-on-bond-holdings-shrank-last-year-4611055",
+      "source": "Investing.com News",
+      "publishedAt": 1776110450000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsbGlhbSBCbGFpciBy",
+      "title": "William Blair reiterates Ocular Therapeutix stock rating on trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/william-blair-reiterates-ocular-therapeutix-stock-rating-on-trial-data-93CH-4611115",
+      "source": "Investing.com News",
+      "publishedAt": 1776110274000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIHJhaXNlcyBT",
+      "title": "Mizuho raises Spyre stock price target to $84 on trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-raises-spyre-stock-price-target-to-84-on-trial-data-93CH-4611114",
+      "source": "Investing.com News",
+      "publishedAt": 1776110269000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIHJhaXNlcyBJ",
+      "title": "Mizuho raises Ideaya Biosciences stock price target on trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-raises-ideaya-biosciences-stock-price-target-on-trial-data-93CH-4611113",
+      "source": "Investing.com News",
+      "publishedAt": 1776110262000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlZWRvbSBCcm9rZXIg",
+      "title": "Freedom Broker cuts Beam Global stock price target on cash concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-cuts-beam-global-stock-price-target-on-cash-concerns-93CH-4611112",
+      "source": "Investing.com News",
+      "publishedAt": 1776110253000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWl6dWhvIGN1dHMgQ29t",
+      "title": "Mizuho cuts CommVault stock price target on valuation concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-commvault-stock-price-target-on-valuation-concerns-93CH-4611111",
+      "source": "Investing.com News",
+      "publishedAt": 1776110250000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIElyYW4gd2FyIGlz",
+      "title": "The Iran war is compounding California&apos;s energy crunch",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/the-iran-war-is-compounding-californias-energy-crunch.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776109905000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQgc3Rp",
+      "title": "Wall Street still loves streaming, but are its affections well placed?",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776108163000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFueSBHZW4gWiBhZHVs",
+      "title": "Many Gen Z adults still get financial help from their parents",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/12/many-gen-z-adults-still-get-financial-help-from-their-parents.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776108066000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBiZWdpbnMgYmxv",
+      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran &apos;attack ships&apos; to stay away",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776106348000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGluZGljYXRvciBn",
+      "title": "The indicator guiding our next move as stocks shake off breakdown in peace talks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/the-indicator-guiding-our-next-move-as-stocks-shake-off-breakdown-in-peace-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776105856000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -45,38 +319,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3JhY2xlIHBvcHMgMTEl",
-      "title": "Oracle pops 11%, leading bounce back rally in software stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776104916000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBi",
-      "title": "Goldman Sachs beats profit estimates; weak fixed income trading drags down shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-posts-higher-profit-on-strength-in-dealmaking-equities-trading-4609993",
-      "source": "Investing.com News",
-      "publishedAt": 1776104683000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SVJTIHB1Ymxpc2hlcyBs",
       "title": "IRS publishes list of occupations that qualify for &apos;no tax on tips&apos; provision",
       "summary": "",
@@ -89,160 +331,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29sZG1hbiBzaGFyZXMg",
-      "title": "Goldman shares fall on imperfect quarterly results. Here&apos;s our advice on the stock from here",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/goldman-shares-fall-on-imperfect-quarterly-results-heres-our-advice-on-the-stock-from-here.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776104376000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtQUktYm9v",
-      "title": "Analysis-AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysisaiboosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks-4611014",
-      "source": "Investing.com News",
-      "publishedAt": 1776104343000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZ292ZXJubWVudCBh",
-      "title": "US government agrees to return rainbow pride flag to New York’s Stonewall Monument",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/us-government-agrees-to-return-rainbow-pride-flag-to-new-yorks-stonewall-monument-4611016",
-      "source": "Investing.com News",
-      "publishedAt": 1776104327000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGV4YXMgYXR0b3JuZXkg",
-      "title": "Texas attorney general probes Lululemon over potential ’forever chemicals’ in its activewear",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/texas-attorney-general-probes-lululemon-over-potential-forever-chemicals-in-its-activewear-4610969",
-      "source": "Investing.com News",
-      "publishedAt": 1776104315000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FybmVyIE11c2ljIEdy",
-      "title": "Warner Music Group invests in Latin music distributor TuStreams",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/warner-music-group-invests-in-latin-music-distributor-tustreams-93CH-4611022",
-      "source": "Investing.com News",
-      "publishedAt": 1776104257000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
-      "title": "Goldman Sachs raises Ideaya Biosciences stock price target on trial data",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-ideaya-biosciences-stock-price-target-on-trial-data-93CH-4611021",
-      "source": "Investing.com News",
-      "publishedAt": 1776104247000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgTWFzc011",
-      "title": "Form 13F MassMutual Private Wealth & Trust For: 13 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-massmutual-private-wealth--trust-for-13-april-93CH-4611020",
-      "source": "Investing.com News",
-      "publishedAt": 1776104148000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgU3RvY2tt",
-      "title": "Form 13F Stockman Wealth Management For: 13 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-stockman-wealth-management-for-13-april-93CH-4611019",
-      "source": "Investing.com News",
-      "publishedAt": 1776104144000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVydSBleHRlbmRzIHZv",
-      "title": "Peru extends voting as conservative Fujimori edges ahead in presidential race",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/keiko-fujimori-holds-lead-in-perus-election-with-50-of-ballots-counted-4609813",
-      "source": "Investing.com News",
-      "publishedAt": 1776104055000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFpbC1vcmRlciBkb21p",
-      "title": "Mail-order dominates US abortion pill dispensing",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/mailorder-dominates-us-abortion-pill-dispensing-4610949",
-      "source": "Investing.com News",
-      "publishedAt": 1776104039000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -282,21 +370,6 @@
       "url": "https://www.cnbc.com/2026/04/13/tariff-refunds-unlikely-to-benefit-consumers.html",
       "source": "CNBC Markets",
       "publishedAt": 1776101855000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBob3Zl",
-      "title": "Oil prices hover near $100 as U.S. Navy blockades Iran&apos;s ports after peace talks fail",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776100781000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -351,21 +424,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2FsbCBTdHJlZXQgc3Rp",
-      "title": "Wall Street still loves streaming, but are its affections well placed?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776097877000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RvcCBtYWtpbmcgdGhp",
       "title": "Stop making this &apos;off-putting&apos; mistake when you talk to people: &apos;It backfires,&apos; says psychologist",
       "summary": "",
@@ -387,36 +445,6 @@
       "url": "https://www.cnbc.com/2026/04/13/lvmh-earnings-q1-2026-sales-luxury-iran-war-middle-east.html",
       "source": "CNBC Markets",
       "publishedAt": 1776097392000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwmYXBvcztzIHN0",
-      "title": "Intel&apos;s stock is on track for a historic 9-day winning streak, up 56% over that run",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776096927000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBiZWdpbnMgYmxv",
-      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran &apos;attack ships&apos; to stay away",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776095841000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -524,21 +552,6 @@
       "url": "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html",
       "source": "CNBC Markets",
       "publishedAt": 1776083024000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIGFubm91bmNl",
-      "title": "OpenAI announces first permanent London office after halting UK Stargate project",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/openai-london-office-sam-altman-uk-stargate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776071020000,
       "lang": "zh-CN",
       "topics": [
         "macro"
