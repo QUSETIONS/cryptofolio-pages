@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776160637264,
-  "crawlUpdatedAt": 1776160637264,
-  "crawlCount": 39,
+  "updatedAt": 1776165215523,
+  "crawlUpdatedAt": 1776165215523,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VVMsIElyYW4gbWF5IHJl",
-      "title": "US, Iran may resume war talks this week despite port blockade",
+      "id": "CNBC Markets-TFZNSCBzdG9jayBkcm9w",
+      "title": "LVMH stock drops as analysts flag luxury recovery &apos;party postponed&apos; amid Iran war",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-begins-iran-port-blockade-oil-prices-ease-on-hopes-for-dialogue-4611650",
-      "source": "Investing.com News",
-      "publishedAt": 1776159446000,
+      "url": "https://www.cnbc.com/2026/04/14/lvmh-stock-luxury-sales-recovery-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776165177000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIElF",
+      "title": "Oil falls as IEA predicts ‘demand destruction will spread’ and hopes for fresh Iran talks grow",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776165049000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
+      "title": "JPMorgan Chase tops estimates on fixed income, investment banking as Wall Street hums",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776164724000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,27 +58,133 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9mQSBzYXlzIHJhdGVz",
-      "title": "BofA says rates look oversold amid oil supply shock parallels to 1970s",
+      "id": "Investing.com News-SlBNb3JnYW4gcmV2ZW51",
+      "title": "JPMorgan revenue tops estimates amid markets, investment banking strength",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-says-rates-look-oversold-amid-oil-supply-shock-parallels-to-1970s-93CH-4612061",
+      "url": "https://www.investing.com/news/earnings/jpmorgan-revenue-tops-estimates-amid-markets-investment-banking-strength-4612275",
       "source": "Investing.com News",
-      "publishedAt": 1776159417000,
+      "publishedAt": 1776164719000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IEZhaXIgVmFsdWUg",
+      "title": "How Fair Value spotted Fermi’s 40% drop before it happened",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-spotted-fermis-40-drop-before-it-happened-93CH-4612383",
+      "source": "Investing.com News",
+      "publishedAt": 1776164713000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIHJhaXNl",
+      "title": "Bernstein raises CoreWeave stock price target on Meta deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-coreweave-stock-price-target-on-meta-deal-93CH-4612382",
+      "source": "Investing.com News",
+      "publishedAt": 1776164644000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIFNvY0dl",
+      "title": "Bernstein SocGen reiterates Sysco stock rating after investor survey",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-socgen-reiterates-sysco-stock-rating-after-investor-survey-93CH-4612381",
+      "source": "Investing.com News",
+      "publishedAt": 1776164628000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIHJlaXRl",
+      "title": "Bernstein reiterates Robinhood stock rating on crypto recovery outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-robinhood-stock-rating-on-crypto-recovery-outlook-93CH-4612380",
+      "source": "Investing.com News",
+      "publishedAt": 1776164623000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIHJhaXNl",
+      "title": "Bernstein raises Allogene stock price target on trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-allogene-stock-price-target-on-trial-data-93CH-4612379",
+      "source": "Investing.com News",
+      "publishedAt": 1776164606000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBKWCBM",
+      "title": "Form 13D/A JX Luxventure Group Inc. For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13da-jx-luxventure-group-inc-for-14-april-93CH-4612378",
+      "source": "Investing.com News",
+      "publishedAt": 1776164602000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMsIElyYW5pYW4gdGVh",
-      "title": "US, Iranian teams could return to Islamabad for peace talks this week, multiple sources say",
+      "id": "Investing.com News-VGVuY2VudCBNdXNpYyBF",
+      "title": "Tencent Music Entertainment Group schedules first quarter results for May 12",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-iranian-teams-could-return-to-islamabad-for-peace-talks-this-week-five-sources-say-4611905",
+      "url": "https://www.investing.com/news/sec-filings/tencent-music-entertainment-group-schedules-first-quarter-results-for-may-12-93CH-4612353",
       "source": "Investing.com News",
-      "publishedAt": 1776159410000,
+      "publishedAt": 1776164574000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29jYS1Db2xhIG5hbWVz",
+      "title": "Coca-Cola names Tapaswee Chandele as global chief people officer",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cocacola-names-tapaswee-chandele-as-global-chief-people-officer-93CH-4612352",
+      "source": "Investing.com News",
+      "publishedAt": 1776164564000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +194,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SFNCQyBncmFudHMgZW1w",
-      "title": "HSBC grants employee share awards under purchase plan",
+      "id": "Investing.com News-ZVRvcm8gbGF1bmNoZXMg",
+      "title": "eToro launches app store for trading and analytics tools",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/hsbc-grants-employee-share-awards-under-purchase-plan-93CH-4612060",
+      "url": "https://www.investing.com/news/company-news/etoro-launches-app-store-for-trading-and-analytics-tools-93CH-4612351",
       "source": "Investing.com News",
-      "publishedAt": 1776159155000,
+      "publishedAt": 1776164561000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +209,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RvY2tzIHJpc2UsIGRv",
-      "title": "Stocks rise, dollar nears pre-war levels on hopes of US-Iran resolution",
+      "id": "CNBC Markets-SG91c2UgUmVwdWJsaWNh",
+      "title": "House Republican campaign arm touts tax cuts in new 2026 election ad",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/stocks-gain-oil-and-dollar-retreat-on-hopes-for-usiran-resolution-4611626",
-      "source": "Investing.com News",
-      "publishedAt": 1776159086000,
+      "url": "https://www.cnbc.com/2026/04/14/nrcc-touts-tax-cuts-in-new-2026-election-messaging-ad.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776164401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVtb2NyYXRzIHJhaXNl",
+      "title": "Democrats raised $500 million in Q1 from party&apos;s main fundraising platform",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/election-2026-democrats-fundraising-act-blue.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776164247000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIElyYW4gd2FyIGNv",
+      "title": "The Iran war could cost the American taxpayer $1 trillion, says Harvard academic",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776161593000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBIb3JtdXogYmxv",
+      "title": "U.S. Hormuz blockade hits India just as Russian oil purchase waiver expires, deepening energy worries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/us-hormuz-blockade-hits-india-just-as-russian-oil-purchase-waiver-expires-deepening-energy-worries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776160581000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -100,111 +281,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFnZUdyb3VwIHNoYXJl",
-      "title": "PageGroup shares rise as Q1 results meet target despite Middle East uncertainty",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/pagegroup-q1-profit-falls-as-european-slump-offsets-asia-americas-gains-4611779",
-      "source": "Investing.com News",
-      "publishedAt": 1776158865000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Intertek Q1 2026 sees strong growth, stock surges",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-intertek-q1-2026-sees-strong-growth-stock-surges-93CH-4612057",
-      "source": "Investing.com News",
-      "publishedAt": 1776158849000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVsdGEgQWlyIExpbmVz",
-      "title": "Delta Air Lines scales back sustainable fuel and net-zero targets, Bloomberg News Reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/delta-air-lines-scales-back-sustainable-fuel-and-netzero-targets-bloomberg-news-reports-4612052",
-      "source": "Investing.com News",
-      "publishedAt": 1776158670000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1XIHBvc3RzIDMuNSUg",
-      "title": "BMW posts 3.5% decline in Q1 deliveries amid US, China drag",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bmw-posts-35-decline-in-q1-deliveries-amid-us-china-drag-4612051",
-      "source": "Investing.com News",
-      "publishedAt": 1776158587000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFyY2xheXMgZmxhZ3Mg",
-      "title": "Barclays flags cost shock, shifts stance on auto suppliers",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/barclays-flags-cost-shock-shifts-stance-on-auto-suppliers-4612037",
-      "source": "Investing.com News",
-      "publishedAt": 1776158507000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TFZNSCBzdG9jayBkcm9w",
-      "title": "LVMH stock drops as analysts flag luxury recovery &apos;party postponed&apos; amid Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/lvmh-stock-luxury-sales-recovery-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776158186000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIElF",
-      "title": "Oil falls as IEA predicts ‘demand destruction will spread’ and hopes for fresh Iran talks grow",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776153926000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -343,23 +419,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R29sZG1hbiBTYWNocyB0",
-      "title": "Goldman Sachs tops estimates on record equities trading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776115319000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIG5vbWluZWUgV2Fy",
       "title": "Fed nominee Warsh clears a hurdle to Senate hearing",
       "summary": "",
@@ -372,23 +431,6 @@
       ],
       "symbols": [
         "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields edge lower as investors hope for U.S.-Iran deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776110579000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
@@ -529,21 +571,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens 50% tariffs on China as report suggests plans for arms shipment to Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/trump-threatens-50percent-tariffs-on-china-as-report-suggests-plans-for-arms-shipment-to-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776095792000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIHRvdXRzIEFt",
       "title": "OpenAI touts Amazon alliance in memo, says Microsoft has &apos;limited our ability&apos; to reach clients",
       "summary": "",
@@ -586,21 +613,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlIGNoZWVycyBP",
-      "title": "Europe cheers Orbán defeat as a bloody nose for the Kremlin – but Hungary’s future remains contested",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776083024000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
