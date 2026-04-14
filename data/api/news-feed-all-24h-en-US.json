@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776125346046,
-  "crawlUpdatedAt": 1776125346046,
-  "crawlCount": 40,
+  "updatedAt": 1776138656635,
+  "crawlUpdatedAt": 1776138656635,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,57 +13,222 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q2hpbmEgZXhwb3J0cyBt",
+      "title": "China exports miss estimates in March, imports post best growth in more than four years",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776138215000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJpbmNlIEhhcnJ5IGFu",
+      "title": "Prince Harry and Meghan arrive in Australia to a muted welcome",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/prince-harry-and-meghan-arrive-in-australia-to-a-muted-welcome-4611635",
+      "source": "Investing.com News",
+      "publishedAt": 1776137791000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmHigJlzIE1hcmNo",
+      "title": "China’s March exports slow as Iran war wipes out AI-driven gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/chinas-march-exports-slow-as-iran-war-wipes-out-aidriven-gains-4611643",
+      "source": "Investing.com News",
+      "publishedAt": 1776137466000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG96ZW5zIGRldGFpbmVk",
+      "title": "Dozens detained in New York City protest over US arms sales to Israel",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/dozens-detained-in-new-york-city-protest-over-us-arms-sales-to-israel-4611639",
+      "source": "Investing.com News",
+      "publishedAt": 1776137064000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIG9w",
+      "title": "Asia markets open higher amid hopes of a U.S.-Iran deal; China exports miss estimates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/asia-markets-today-us-iran-china-trade-data-nikkei225-hang-seng-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776136858000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgdHJhZGUgYmFs",
+      "title": "China trade balance falls sharply in March as exports slow, imports surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/china-trade-balance-falls-sharply-in-march-as-exports-slow-imports-surge-4611641",
+      "source": "Investing.com News",
+      "publishedAt": 1776136747000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0sgSHluaXggc2hhcmVz",
+      "title": "SK Hynix shares hit record high on AI optimism, SanDisk index inclusion",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-shares-hit-record-high-on-ai-optimism-sandisk-index-inclusion-4611640",
+      "source": "Investing.com News",
+      "publishedAt": 1776136192000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgbm9taW5hdGVz",
+      "title": "Trump nominates former lawmaker Michelle Steel as US ambassador to South Korea",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-nominates-former-lawmaker-michelle-steel-as-us-ambassador-to-south-korea-4611446",
+      "source": "Investing.com News",
+      "publishedAt": 1776136008000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FybmV5IGNsaW5jaGVz",
+      "title": "Carney clinches majority government in Canadian special elections",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/canadas-carney-set-to-win-majority-government-in-special-elections-4609535",
+      "source": "Investing.com News",
+      "publishedAt": 1776135994000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1hem9uIG5lYXJzIGRl",
+      "title": "Amazon nears deal for Globalstar to rival SpaceX’s Starlink- Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-nears-deal-for-globalstar-to-rival-spacexs-starlink-bloomberg-4611637",
+      "source": "Investing.com News",
+      "publishedAt": 1776135475000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhbiBidXNp",
+      "title": "Australian business, consumer confidence crashes on worries about fallout from Iran war",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/australian-business-sentiment-crashes-in-march-on-worries-about-fallout-from-iran-war-4611625",
+      "source": "Investing.com News",
+      "publishedAt": 1776135288000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1hem9uIG5lYXJzIGRl",
+      "title": "Amazon nears deal to buy Globalstar, Bloomberg News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-nears-deal-to-buy-globalstar-bloomberg-news-reports-4611636",
+      "source": "Investing.com News",
+      "publishedAt": 1776135270000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIFZh",
+      "title": "Oil falls as Vance comments raise hopes for a diplomatic resolution to Mideast conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776129961000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZGVsZXRlcyBU",
+      "title": "Trump deletes Truth Social image depicting him as Jesus: &apos;It was me as a doctor&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776126110000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VmFuY2Ugc2F5cyAmYXBv",
       "title": "Vance says &apos;the ball is in Iran&apos;s court&apos; to move peace talks further, as U.S. blockade takes effect",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/13/trump-vance-iran-hormuz-strait-blockade.html",
       "source": "CNBC Markets",
       "publishedAt": 1776123994000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXDigJlzIEFJIGlt",
-      "title": "Trump’s AI image of himself as Jesus-like figure follows feud with Pope Leo",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-posts-ai-image-of-himself-as-jesuslike-figure-drawing-outrage-4610883",
-      "source": "Investing.com News",
-      "publishedAt": 1776123750000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q291bnRpbmcgY29udGlu",
-      "title": "Counting continues in Peru election, runoff with Fujimori likely",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/keiko-fujimori-holds-lead-in-perus-election-with-50-of-ballots-counted-4609813",
-      "source": "Investing.com News",
-      "publishedAt": 1776123031000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMga2lsbHMgdHdvIG1l",
-      "title": "US kills two men in strike in Eastern Pacific",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-kills-two-men-in-strike-in-eastern-pacific-4611582",
-      "source": "Investing.com News",
-      "publishedAt": 1776123010000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,51 +253,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UWFudGFzIGxpZnRzIGZ1",
-      "title": "Qantas lifts fuel cost forecast as Middle East war jolts oil markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/qantas-lifts-fuel-cost-forecast-as-middle-east-war-jolts-oil-markets-4611581",
-      "source": "Investing.com News",
-      "publishedAt": 1776122667000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW5pdGVkIEFpciBDRU8g",
-      "title": "United Air CEO Kirby floats merger with American Airlines- Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/united-air-ceo-kirby-floats-merger-with-american-airlines-bloomberg-4611580",
-      "source": "Investing.com News",
-      "publishedAt": 1776122555000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBDYXRh",
-      "title": "Form 13D/A Catalyst Bancorp For: 13 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-catalyst-bancorp-for-13-april-93CH-4611579",
-      "source": "Investing.com News",
-      "publishedAt": 1776122298000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmVwLiBFcmljIFN3YWx3",
       "title": "Rep. Eric Swalwell resigns from U.S. House after sexual misconduct allegations",
       "summary": "",
@@ -148,72 +268,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBXSElU",
-      "title": "Form 13D/A WHITESTONE REIT For: 13 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-whitestone-reit-for-13-april-93CH-4611578",
-      "source": "Investing.com News",
-      "publishedAt": 1776122141000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3VyZ2luZyBwZXRyb2wg",
-      "title": "Surging petrol prices drive record EV sales in Europe in March",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/surging-petrol-prices-drive-record-ev-sales-in-europe-in-march-4611577",
-      "source": "Investing.com News",
-      "publishedAt": 1776121992000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFuIGNoYXJnZWQgYWZ0",
-      "title": "Man charged after Molotov cocktail attack on OpenAI CEO Sam Altman’s home",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/man-charged-after-molotov-cocktail-attack-on-openai-ceo-sam-altmans-home-4611576",
-      "source": "Investing.com News",
-      "publishedAt": 1776121954000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWljcm9uIFRlY2hub2xv",
-      "title": "Micron Technology EVP Cordano sells $1.43 million in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/micron-technology-evp-cordano-sells-143-million-in-stock-93CH-4611574",
-      "source": "Investing.com News",
-      "publishedAt": 1776121813000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
       "title": "Jim Cramer says this is the real reason why stocks are shrugging off Iran war fears",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/13/jim-cramer-stocks-rallying-despite-iran-war-why.html",
       "source": "CNBC Markets",
       "publishedAt": 1776121581000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: China&apos;s AI glasses have something Meta doesn&apos;t",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776121201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -270,21 +345,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgZGVsZXRlcyBU",
-      "title": "Trump deletes Truth Social image depicting him as Jesus: &apos;It was me as a doctor&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776113878000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIG5vbWluZWUgV2Fy",
       "title": "Fed nominee Warsh clears a hurdle to Senate hearing",
       "summary": "",
@@ -317,38 +377,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields edge lower as investors hope for U.S.-Iran deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776110579000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBuZWFy",
-      "title": "Oil prices near $100 as U.S. Navy blockades Iran&apos;s ports after peace talks fail",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776110310000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIElyYW4gd2FyIGlz",
       "title": "The Iran war is compounding California&apos;s energy crunch",
       "summary": "",
@@ -370,21 +398,6 @@
       "url": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
       "source": "CNBC Markets",
       "publishedAt": 1776108163000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFueSBHZW4gWiBhZHVs",
-      "title": "Many Gen Z adults still get financial help from their parents",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/12/many-gen-z-adults-still-get-financial-help-from-their-parents.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776108066000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -514,21 +527,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens 50% tariffs on China as report suggests plans for arms shipment to Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/trump-threatens-50percent-tariffs-on-china-as-report-suggests-plans-for-arms-shipment-to-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776095792000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIHRvdXRzIEFt",
       "title": "OpenAI touts Amazon alliance in memo, says Microsoft has &apos;limited our ability&apos; to reach clients",
       "summary": "",
@@ -595,21 +593,6 @@
       "url": "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html",
       "source": "CNBC Markets",
       "publishedAt": 1776083024000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXJpYyBTd2Fsd2VsbCBz",
-      "title": "Eric Swalwell suspends campaign for California governor amid sexual misconduct allegations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/13/eric-swalwell-suspends-campaign-california-governor.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776044344000,
       "lang": "en-US",
       "topics": [
         "macro"
