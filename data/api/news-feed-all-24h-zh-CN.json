@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776195391802,
-  "crawlUpdatedAt": 1776195391802,
+  "updatedAt": 1776200578615,
+  "crawlUpdatedAt": 1776200578615,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T3JhY2xlIGp1bXBzIGZv",
-      "title": "Oracle jumps for a second day, Bloom Energy soars 20% on AI data center power deal",
+      "id": "CNBC Markets-TnZpZGlhIHN0b2NrIGlz",
+      "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html",
+      "url": "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776195284000,
+      "publishedAt": 1776200497000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBwbGllZCBvcHRvZWxl",
+      "title": "Applied optoelectronics CFO Murry sells $546k in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/applied-optoelectronics-cfo-murry-sells-546k-in-shares-93CH-4613894",
+      "source": "Investing.com News",
+      "publishedAt": 1776200109000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,222 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SmFtaWUgRGltb24gc2F5",
+      "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776200103000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJhemlsaWFuIHN0ZWVs",
+      "title": "Brazilian steelmaker CSN pushes ahead with cement unit sale",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/brazilian-steelmaker-csn-pushes-ahead-with-cement-unit-sale-4613892",
+      "source": "Investing.com News",
+      "publishedAt": 1776200073000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgUkVHSU9O",
+      "title": "Form 144 REGIONAL MANAGEMENT CORP For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-regional-management-corp-for-14-april-93CH-4613891",
+      "source": "Investing.com News",
+      "publishedAt": 1776200063000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQUZGSVJN",
+      "title": "Form 144 AFFIRM HOLDINGS INC. For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-affirm-holdings-inc--for-14-april-93CH-4613890",
+      "source": "Investing.com News",
+      "publishedAt": 1776200060000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVFNTIEZv",
+      "title": "Form 144 TSS For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-tss-for-14-april-93CH-4613889",
+      "source": "Investing.com News",
+      "publishedAt": 1776200052000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTElRVUlE",
+      "title": "Form 144 LIQUIDITY SERVICES INC For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-liquidity-services-inc-for-14-april-93CH-4613888",
+      "source": "Investing.com News",
+      "publishedAt": 1776200052000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQkxPT00g",
+      "title": "Form 144 BLOOM ENERGY CORPORATION For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-bloom-energy-corporation-for-14-april-93CH-4613887",
+      "source": "Investing.com News",
+      "publishedAt": 1776200052000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmlrZSBzaGFyZXMgcmlz",
+      "title": "Nike shares rise 2% as Apple’s Tim Cook and CEO Elliott Hill increase stakes",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nike-stock-rises-after-apple-ceo-tim-cook-buys-shares-4613826",
+      "source": "Investing.com News",
+      "publishedAt": 1776199878000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFyY2xheXMgcmFpc2Vz",
+      "title": "Barclays raises JD.com stock price target on demand strength",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/barclays-raises-jdcom-stock-price-target-on-demand-strength-93CH-4613885",
+      "source": "Investing.com News",
+      "publishedAt": 1776199851000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBudWxsIE5h",
+      "title": "Form 8K null Natural Resources Inc For: 14 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k--null--natural-resources-inc-for-14-april-93CH-4613884",
+      "source": "Investing.com News",
+      "publishedAt": 1776199847000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THVjaWQgbmFtZXMgYXV0",
+      "title": "Lucid names auto industry outsider as CEO, expands Uber deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/lucid-ceo-silvio-napoli.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776199203000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCBhIFVuaXRlZC1B",
+      "title": "What a United-American merger would mean, from antitrust hurdles to airfare",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/united-airlines-american-airlines-merger-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776199100000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIGp1bXBzIGZv",
+      "title": "Oracle jumps for a second day, Bloom Energy soars 22% on AI data center power deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776197858000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3J5cHRvIGV4Y2hhbmdl",
+      "title": "Crypto exchange Kraken confirms it has confidentially filed for an IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776197719000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-TmV3IEVyaWMgU3dhbHdl",
-      "title": "New Eric Swalwell accuser Lonna Drewes says &apos;he raped me,&apos; plans to file police report",
+      "title": "New Eric Swalwell accuser Lonna Drewes says &apos;he raped me,&apos; will file police report",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/14/eric-swalwell-accuser-rape-california.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776195214000,
+      "publishedAt": 1776195617000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,21 +283,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgZ2Fp",
-      "title": "Wall Street gains, oil drops on hopes for renewed US-Iran talks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/stocks-gain-oil-and-dollar-retreat-on-hopes-for-usiran-resolution-4611626",
-      "source": "Investing.com News",
-      "publishedAt": 1776193611000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RvY2tzIGtlZXAgdGhl",
       "title": "Stocks keep the rally going and oil tumbles. Here&apos;s why we have some trepidation",
       "summary": "",
@@ -88,141 +298,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VmlyY28gTUZHIENFTyBW",
-      "title": "Virco MFG CEO Virtue buys $16k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/virco-mfg-ceo-virtue-buys-16k-in-shares-93CH-4613593",
-      "source": "Investing.com News",
-      "publishedAt": 1776193357000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3J5cHRvIGV4Y2hhbmdl",
-      "title": "Crypto exchanges brace for AI that can exploit software flaws",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/crypto-exchanges-brace-for-ai-that-can-exploit-software-flaws-93CH-4613592",
-      "source": "Investing.com News",
-      "publishedAt": 1776193349000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgRmxvd2Vy",
-      "title": "Form 13F Flower City Capital For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-flower-city-capital-for-14-april-93CH-4613591",
-      "source": "Investing.com News",
-      "publishedAt": 1776193329000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgV2VzdHdp",
-      "title": "Form 13F Westwind Capital For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-westwind-capital-for-14-april-93CH-4613590",
-      "source": "Investing.com News",
-      "publishedAt": 1776193324000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgSGFtbGlu",
-      "title": "Form 13F Hamlin Capital Management For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-hamlin-capital-management-for-14-april-93CH-4613589",
-      "source": "Investing.com News",
-      "publishedAt": 1776193321000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxMFEgU0tZIENF",
-      "title": "Form 10Q SKY CENTURY INVESTMENT For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-10q-sky-century-investment-for-14-april-93CH-4613588",
-      "source": "Investing.com News",
-      "publishedAt": 1776193318000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBSSVZFUiBG",
-      "title": "Form 8K RIVER FINANCIAL CORPORATION For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-river-financial-corporation-for-14-april-93CH-4613587",
-      "source": "Investing.com News",
-      "publishedAt": 1776193313000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgU2FuY2hl",
-      "title": "Form 13F Sanchez Gaunt Capital Management For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-sanchez-gaunt-capital-management-for-14-april-93CH-4613586",
-      "source": "Investing.com News",
-      "publishedAt": 1776193313000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgSFNUIFZl",
-      "title": "Form 13F HST Ventures For: 14 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-hst-ventures-for-14-april-93CH-4613585",
-      "source": "Investing.com News",
-      "publishedAt": 1776193312000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWFya2V0IHZvbGF0aWxp",
       "title": "Market volatility may &apos;weigh heavily&apos; on Gen Z, advisor says: How young investors can adapt",
       "summary": "",
@@ -235,21 +310,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIHN0b2NrIGlz",
-      "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776191063000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -315,21 +375,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmFtaWUgRGltb24gc2F5",
-      "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776189017000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TW9yZSBVLlMuLUlyYW4g",
       "title": "More U.S.-Iran peace deal talks are in discussion, White House says",
       "summary": "",
@@ -351,21 +396,6 @@
       "url": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
       "source": "CNBC Markets",
       "publishedAt": 1776187825000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCBhIFVuaXRlZC1B",
-      "title": "What a United-American merger would mean, from antitrust hurdles to airfare",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/united-airlines-american-airlines-merger-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776186092000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -438,21 +468,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-THVjaWQgbmFtZXMgYXV0",
-      "title": "Lucid names auto industry outsider as CEO, expands Uber deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/lucid-ceo-silvio-napoli.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776180411000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiB3YXIgd2lsbCBo",
       "title": "Iran war will hit UK growth the hardest of any rich economies, IMF says",
       "summary": "",
@@ -510,21 +525,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SlBNb3JnYW4gdG9wcyBl",
-      "title": "JPMorgan tops estimates on Wall Street results, Dimon flags &apos;increasingly complex&apos; economic risks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776172448000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
