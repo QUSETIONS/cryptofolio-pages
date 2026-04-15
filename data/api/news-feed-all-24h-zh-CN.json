@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776240871055,
-  "crawlUpdatedAt": 1776240871055,
-  "crawlCount": 39,
+  "updatedAt": 1776247080023,
+  "crawlUpdatedAt": 1776247080023,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RG9sbGFyIG5lYXJzIHNp",
-      "title": "Dollar nears six-week lows as hopes of Iran talks erase war premium",
+      "id": "Investing.com News-SmFwYW4gb2ZmZXJzICQx",
+      "title": "Japan offers $10 billion support to help Asian neighbours secure oil",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/safehaven-dollar-near-sixweek-lows-on-hopes-of-fresh-iran-talks-4614157",
+      "url": "https://www.investing.com/news/economy-news/japan-plans-10-billion-framework-to-help-asia-secure-oil-4614431",
       "source": "Investing.com News",
-      "publishedAt": 1776240745000,
+      "publishedAt": 1776246209000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnVjY2FuZWVyIEVuZXJn",
+      "title": "Buccaneer Energy reports 150 bopd output, targets 200 by year-end",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/buccaneer-energy-reports-150-bopd-output-targets-200-by-yearend-93CH-4614508",
+      "source": "Investing.com News",
+      "publishedAt": 1776245911000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmlrZSBzdG9jayByaXNl",
-      "title": "Nike stock rises on CEO stock purchase",
+      "id": "Investing.com News-UGZpc3RlcmVyIFE0IDIw",
+      "title": "Pfisterer Q4 2025 slides: record revenue, order book surge 42%",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nike-stock-rises-on-ceo-stock-purchase-93CH-4614419",
+      "url": "https://www.investing.com/news/company-news/pfisterer-q4-2025-slides-record-revenue-order-book-surge-42-93CH-4614507",
       "source": "Investing.com News",
-      "publishedAt": 1776240692000,
+      "publishedAt": 1776245877000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIGNoYWlybWFuIHdh",
+      "title": "UBS chairman warns of tough choices over Swiss capital rules",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ubs-chairman-warns-of-tough-choices-over-swiss-capital-rules-93CH-4614506",
+      "source": "Investing.com News",
+      "publishedAt": 1776245872000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,27 +73,102 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSB0cmFk",
-      "title": "U.S. crude trades lower as possible Washington-Tehran talks raise hopes for Mideast peace deal",
+      "id": "Investing.com News-TSZUIEJhbmsgZWFybmlu",
+      "title": "M&T Bank earnings beat by $0.17, revenue topped estimates",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/oil-price-us-iran-talks-hormuz-trump.html",
+      "url": "https://www.investing.com/news/earnings/mt-bank-earnings-beat-by-017-revenue-topped-estimates-4614505",
+      "source": "Investing.com News",
+      "publishedAt": 1776245820000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJpdmF0ZSBjcmVkaXQg",
+      "title": "Private credit is not a systemic risk, PIMCO’s Ivascyn says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/private-credit-is-not-a-systemic-risk-pimcos-ivascyn-says-4614504",
+      "source": "Investing.com News",
+      "publishedAt": 1776245801000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FnYSBFbmVyZ3kgc2hh",
+      "title": "Waga Energy shares fall 2.3% on delayed 2026 targets",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/waga-energy-shares-fall-23-on-delayed-2026-targets-93CH-4614503",
+      "source": "Investing.com News",
+      "publishedAt": 1776245757000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2VyZXMgUG93ZXIgbGF1",
+      "title": "Ceres Power launches new solid oxide technology platform",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ceres-power-launches-new-solid-oxide-technology-platform-93CH-4614502",
+      "source": "Investing.com News",
+      "publishedAt": 1776245576000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgZnV0",
+      "title": "Wall Street futures hold steady; earnings in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-hold-steady-earnings-in-focus-4614501",
+      "source": "Investing.com News",
+      "publishedAt": 1776245451000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RhbmRhcmQgTGlmZSBz",
+      "title": "Standard Life strikes $2.7 billion deal to buy Aegon’s UK arm",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/standard-life-strikes-27-billion-deal-to-buy-aegons-uk-arm-4614500",
+      "source": "Investing.com News",
+      "publishedAt": 1776245433000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UnVzc2lhIG9mZmVycyBD",
+      "title": "Russia offers China energy lifeline as the Iran war strangles global supply",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/russia-china-energy-supplies-iran-war-trump-strait-of-hormuz-blockade.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776240689000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SFNCQyB1cGdyYWRlcyBI",
-      "title": "HSBC upgrades Hungary rating on election supermajority win",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/hsbc-upgrades-hungary-rating-on-election-supermajority-win-93CH-4614418",
-      "source": "Investing.com News",
-      "publishedAt": 1776240685000,
+      "publishedAt": 1776245407000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,108 +178,48 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVyYVd1bGYgc2hhcmVz",
-      "title": "TeraWulf shares fall 6.6% on $800 million equity offering plans",
+      "id": "CNBC Markets-QUkgYmVjb21lcyBjb250",
+      "title": "AI becomes contentious issue in midterms over donations",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/terawulf-shares-fall-66-on-800-million-equity-offering-plans-93CH-4614417",
-      "source": "Investing.com News",
-      "publishedAt": 1776240541000,
+      "url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776245401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgcmVuZXdzIGNy",
+      "title": "Trump renews criticism of UK, saying it should ‘drill, baby, drill’ for North Sea oil",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/trump-uk-north-sea-oil-drilling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776243251000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THV4dXJ5IHN0b2NrcyBm",
+      "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 14%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/kering-stock-q1-earnings-gucci-sales-iran-war-middle-east-luxury.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776242474000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHRv",
-      "title": "Saudi Arabia to deposit $3 billion into Pakistan’s central bank",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/saudi-arabia-to-deposit-3-billion-into-pakistans-central-bank-93CH-4614416",
-      "source": "Investing.com News",
-      "publishedAt": 1776240445000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFycmF0dCBSZWRyb3cg",
-      "title": "Barratt Redrow maintains guidance despite Middle East concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/barratt-redrow-maintains-guidance-despite-middle-east-concerns-4614415",
-      "source": "Investing.com News",
-      "publishedAt": 1776240371000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWR2YW50ZXN0IHN0b2Nr",
-      "title": "Advantest stock gains on upgrade, Top Pick designation at Bernstein",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/advantest-stock-gains-on-upgrade-top-pick-designation-at-bernstein-93CH-4614413",
-      "source": "Investing.com News",
-      "publishedAt": 1776240128000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Robert Walters sees stabilization and growth in Q1 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-robert-walters-sees-stabilization-and-growth-in-q1-2026-93CH-4614412",
-      "source": "Investing.com News",
-      "publishedAt": 1776240124000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TUVYQyBMYXVuY2hlcyBH",
-      "title": "MEXC Launches Genius (GENIUS) Airdrop+ Event With 45,000 USDT in Rewards",
-      "summary": "",
-      "url": "https://www.investing.com/news/press-releases/mexc-launches-genius-genius-airdrop-event-with-45000-usdt-in-rewards-4614411",
-      "source": "Investing.com News",
-      "publishedAt": 1776240106000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVycmV4cG8gc2xpcHMg",
-      "title": "Ferrexpo slips after Q1 output nearly halved amid Ukraine power crisis",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/ferrexpo-slips-after-q1-output-nearly-halved-amid-ukraine-power-crisis-4614410",
-      "source": "Investing.com News",
-      "publishedAt": 1776240020000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -184,36 +229,6 @@
       "url": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html",
       "source": "CNBC Markets",
       "publishedAt": 1776239163000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks mixed as traders assess Iran war latest",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/european-markets-stox-600-ftse-dax-cac-iran-latest-oil-prices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776239133000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIHRy",
-      "title": "Asia markets trade higher as hopes for a U.S.-Iran deal rise",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/asia-markets-today-nikkei225-hang-seng-csi300-nifty50-oil-iran-us-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776238916000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -235,21 +250,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-THV4dXJ5IHN0b2NrcyBm",
-      "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 14%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/kering-stock-q1-earnings-gucci-sales-iran-war-middle-east-luxury.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776238031000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -433,6 +433,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-T3JhY2xlIGp1bXBzIGZv",
+      "title": "Oracle jumps for a second day, Bloom Energy soars 22% on AI data center power deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776197858000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-U3RvY2tzIGtlZXAgdGhl",
       "title": "Stocks keep the rally going and oil tumbles. Here&apos;s why we have some trepidation",
       "summary": "",
@@ -525,6 +540,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-QW1hem9uIHRvIGJ1eSBH",
+      "title": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776183022000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q0VPcyBhcmUgYmV0dGlu",
       "title": "CEOs are betting AI will augment work rather than displace all workers",
       "summary": "",
@@ -585,21 +615,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hhcmUgb2YgNy15ZWFy",
-      "title": "Share of 7-year car loans grows as buyers &apos;work harder to make the numbers fit,&apos; expert says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/car-loan-terms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776170160000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
