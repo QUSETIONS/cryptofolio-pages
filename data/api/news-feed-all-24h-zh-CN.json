@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776256797616,
-  "crawlUpdatedAt": 1776256797616,
+  "updatedAt": 1776264498653,
+  "crawlUpdatedAt": 1776264498653,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,337 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U25hcCZhcG9zO3Mgc3Rv",
-      "title": "Snap&apos;s stock jumps on plans to axe 16% of its workforce citing AI efficiencies",
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens to fire Powell if the Fed chair doesn&apos;t leave office on his own",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html",
+      "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776256763000,
+      "publishedAt": 1776264207000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RydWdnbGluZyBzaG9l",
+      "title": "Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 400%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776263704000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VU4gZGV2ZWxvcG1lbnQg",
+      "title": "UN development chief says $6 billion investment could save 32 million people from war-induced poverty",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/un-development-chief-says-6-billion-investment-could-save-32-million-people-from-warinduced-poverty-4615821",
+      "source": "Investing.com News",
+      "publishedAt": 1776263147000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UElNQ0/igJlzIGludmVz",
+      "title": "PIMCO’s investment chief doesn’t see systemic risk from private credit",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/private-credit-is-not-a-systemic-risk-pimcos-ivascyn-says-4614504",
+      "source": "Investing.com News",
+      "publishedAt": 1776263131000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-MiBpbmZyYXN0cnVjdHVy",
+      "title": "2 infrastructure software stocks to buy in 2026: Piper Sandler",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/2-infrastructure-software-stocks-to-buy-in-2026-piper-sandler-4615820",
+      "source": "Investing.com News",
+      "publishedAt": 1776263128000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJ4aXMgSW5jLiBJUE8g",
+      "title": "Arxis Inc. IPO expected to price at top of range or higher",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/arxis-inc-ipo-expected-to-price-at-top-of-range-or-higher-93CH-4615819",
+      "source": "Investing.com News",
+      "publishedAt": 1776263110000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UkJDIENhcGl0YWwgbWFp",
+      "title": "RBC Capital maintains NOV stock rating, cuts Q1 EBITDA view on war",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-maintains-nov-stock-rating-cuts-q1-ebitda-view-on-war-93CH-4615818",
+      "source": "Investing.com News",
+      "publishedAt": 1776262979000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley reiterates Underweight on Progressive stock at $190",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-underweight-on-progressive-stock-at-190-93CH-4615817",
+      "source": "Investing.com News",
+      "publishedAt": 1776262978000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qk1PIHJhaXNlcyBCbGFj",
+      "title": "BMO raises Black Hills stock price target on data center growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-black-hills-stock-price-target-on-data-center-growth-93CH-4615816",
+      "source": "Investing.com News",
+      "publishedAt": 1776262973000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGluZyBIb2NrIE1pbmcs",
+      "title": "Ting Hock Ming, director at Trio-Tech, sells $127,698 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ting-hock-ming-director-at-triotech-sells-127698-in-stock-93CH-4615815",
+      "source": "Investing.com News",
+      "publishedAt": 1776262919000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBUUkFOUyBM",
+      "title": "Form 8K TRANS LUX Corp For: 15 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-trans-lux-corp-for-15-april-93CH-4615811",
+      "source": "Investing.com News",
+      "publishedAt": 1776262833000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFwYSBKb2hu4oCZcyBz",
+      "title": "Papa John’s shares surge on potential buyout deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/papa-johns-shares-surge-on-potential-buyout-deal-93CH-4615810",
+      "source": "Investing.com News",
+      "publishedAt": 1776262807000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB3YXIgJmFwb3M7",
+      "title": "Iran war &apos;very close to over,&apos; Trump says — and the stock market &apos;is going to boom&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776262793000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmFuayBvZiBBbWVyaWNh",
+      "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is &apos;healthy&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776262484000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpLCBQb2x5bWFy",
+      "title": "Kalshi, Polymarket lobby as insider trading, betting eyed by Congress",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/kalshi-and-polymarket-congress-regulation-washington-influence.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776261897000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U25hcCZhcG9zO3Mgc3Rv",
+      "title": "Snap&apos;s stock jumps on plans to axe 16% of its workforce citing AI efficiencies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776261616000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWFybmVkIEluY29tZSBU",
+      "title": "Earned Income Tax Credit would rise to $5,500 per child under new Democratic measure",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/tax-day-earned-income-credit-child.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776261601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VW5pdGVkIENFTyBoYWQg",
+      "title": "United CEO had been considering a merger last fall, months before bringing it up to the Trump administration",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/united-ceo-kirby-american-airlines-potential-merger.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776261123000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2xldmVsYW5kIEZlZCBQ",
+      "title": "Cleveland Fed President Hammack expects interest rates to stay on hold &apos;for a good while&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/cleveland-fed-president-hammack-expects-interest-rates-to-stay-on-hold-for-a-good-while.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776259895000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXJpYyBTd2Fsd2VsbCBp",
+      "title": "Eric Swalwell investigated for alleged rape of Lonna Drewes, LA County Sheriff&apos;s Dept. says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/14/eric-swalwell-accuser-rape-california.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776259750000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776259479000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWNjb3VudHMg",
+      "title": "Trump accounts sign up 5 million kids, with 1.2 million eligible for $1,000 seed money, Bessent says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/trump-accounts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776258680000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -43,134 +362,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgYWNjb3VudHMg",
-      "title": "Trump accounts sign up 5 million kids, with 1.2 million eligible for $1,000 seed money, Bessent says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/trump-accounts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776256348000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIHB1bGxzIGJh",
       "title": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html",
       "source": "CNBC Markets",
       "publishedAt": 1776256144000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiB3YXIgJmFwb3M7",
-      "title": "Iran war &apos;very close to over,&apos; Trump says — and the stock market &apos;is going to boom&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776256140000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens to fire Powell if the Fed chair doesn&apos;t leave office on his own",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776256065000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlIHRvIHVudmVp",
-      "title": "Europe to unveil electrification plan to cut fossil fuel reliance, Jefferies comments",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/europe-to-unveil-electrification-plan-to-cut-fossil-fuel-reliance-jefferies-comments-93CH-4615300",
-      "source": "Investing.com News",
-      "publishedAt": 1776255481000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgZVRvcm8g",
-      "title": "Form 13G eToro Group Ltd. For: 15 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-etoro-group-ltd-for-15-april-93CH-4615284",
-      "source": "Investing.com News",
-      "publishedAt": 1776255423000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgU0wgQURW",
-      "title": "Form 13F SL ADVISORS For: 15 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-sl-advisors-for-15-april-93CH-4615283",
-      "source": "Investing.com News",
-      "publishedAt": 1776255395000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFuayBvZiBBbWVyaWNh",
-      "title": "Bank of America, Morgan Stanley tick higher premarket; TeraWulf tumbles",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-morgan-stanley-tick-higher-premarket-terawulf-tumbles-4615282",
-      "source": "Investing.com News",
-      "publishedAt": 1776255388000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
-      "title": "FTSE 100 today: UK stocks rise as Trump signals Iran conflict may be nearing end",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-uk-stocks-rise-as-trump-signals-iran-conflict-may-be-nearing-end-4615280",
-      "source": "Investing.com News",
-      "publishedAt": 1776255369000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -195,104 +392,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXJndXMgY3V0cyBMZW5u",
-      "title": "Argus cuts Lennar stock price target on lower earnings outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/argus-cuts-lennar-stock-price-target-on-lower-earnings-outlook-93CH-4615275",
-      "source": "Investing.com News",
-      "publishedAt": 1776255191000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXni",
-      "title": "Morgan Stanley’s profit beats estimates on dealmaking surge, trading boost",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanleys-profit-rises-on-dealmaking-trading-boost-4615137",
-      "source": "Investing.com News",
-      "publishedAt": 1776255190000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tk9WIGN1dHMgUTEgZ3Vp",
-      "title": "NOV cuts Q1 guidance on Middle East war disruptions",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nov-cuts-q1-guidance-on-middle-east-war-disruptions-93CH-4615274",
-      "source": "Investing.com News",
-      "publishedAt": 1776255188000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2NpZW50dXJlIHJlY2Vp",
-      "title": "Scienture receives Nasdaq extension to regain compliance",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/scienture-receives-nasdaq-extension-to-regain-compliance-93CH-4615273",
-      "source": "Investing.com News",
-      "publishedAt": 1776255187000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxsYmlyZHMgc2VjdXJl",
-      "title": "Allbirds secures $50M financing, plans pivot to AI infrastructure",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/allbirds-secures-50m-financing-plans-pivot-to-ai-infrastructure-93CH-4615272",
-      "source": "Investing.com News",
-      "publishedAt": 1776255186000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UG93ZXIgSW5zaWRlcjog",
       "title": "Power Insider: The markets are obsessed with the Strait of Hormuz. Why it matters less than you think",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/15/power-insider-the-markets-are-obsessed-with-the-strait-of-hormuz-why-it-matters-less-than-you-think.html",
       "source": "CNBC Markets",
       "publishedAt": 1776254923000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFuayBvZiBBbWVyaWNh",
-      "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is &apos;healthy&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776254801000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -347,21 +452,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TW9ydGdhZ2UgYXBwbGlj",
-      "title": "Mortgage applications rise as rates fall to one-month low",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/mortgage-applications-rise-as-rates-fall-to-one-month-low.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776253902000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-THV4dXJ5IHN0b2NrcyBm",
       "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 14%",
       "summary": "",
@@ -377,40 +467,10 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VW5pdGVkIENFTyBoYWQg",
-      "title": "United CEO had been considering a merger last fall, months before bringing it up to the Trump administration",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/united-ceo-kirby-american-airlines-potential-merger.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776250879000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmVhcmx5IDYwJSBvZiBV",
       "title": "Nearly 60% of U.S. farmers say their finances are getting worse as fertilizer, fuel costs rise: Survey",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/15/us-farmers-struggling-to-afford-fertilizer-amid-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776250801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIGFuZCBQb2x5",
-      "title": "Kalshi and Polymarket vie for Washington influence as Congress contemplates regulation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/kalshi-and-polymarket-congress-regulation-washington-influence.html",
       "source": "CNBC Markets",
       "publishedAt": 1776250801000,
       "lang": "zh-CN",
@@ -497,21 +557,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXJpYyBTd2Fsd2VsbCBp",
-      "title": "Eric Swalwell investigated for alleged rape of Lonna Drewes, LA County Sheriff&apos;s Dept. says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/eric-swalwell-accuser-rape-california.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776214959000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QWx0bWFuIGFyc29uIHN1",
       "title": "Altman arson suspect Moreno-Gama suffered &apos;acute mental health crisis,&apos; lawyer says",
       "summary": "",
@@ -542,21 +587,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q3J5cHRvIGV4Y2hhbmdl",
-      "title": "Crypto exchange Kraken confirms it has confidentially filed for an IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776208059000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3JhbWVyOiBUaGUgbWFy",
       "title": "Cramer: The market&apos;s biggest fears &apos;just didn&apos;t happen&apos; – and that&apos;s why you can&apos;t leave the game",
       "summary": "",
@@ -578,36 +608,6 @@
       "url": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
       "source": "CNBC Markets",
       "publishedAt": 1776200103000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RvY2tzIGtlZXAgdGhl",
-      "title": "Stocks keep the rally going and oil tumbles. Here&apos;s why we have some trepidation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/stocks-keep-the-rally-going-and-oil-tumbles-heres-why-we-have-some-trepidation-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776193608000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
-      "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776190378000,
       "lang": "zh-CN",
       "topics": [
         "macro"
