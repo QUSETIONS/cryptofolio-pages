@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776311788873,
-  "crawlUpdatedAt": 1776311788873,
+  "updatedAt": 1776319762416,
+  "crawlUpdatedAt": 1776319762416,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Q2hpbmEgZWNvbm9taWMg",
-      "title": "China economic growth accelerates to 5% in first quarter, beating expectations, on robust exports",
+      "id": "CNBC Markets-VUsgZWNvbm9teSBncmV3",
+      "title": "UK economy grew 0.5% in February, beating economists&apos; expectations by a long shot",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html",
+      "url": "https://www.cnbc.com/2026/04/16/uk-gdp-march-2026-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776307845000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW4mYXBvcztzIE5p",
-      "title": "Japan&apos;s Nikkei 225 hits record high as hopes for U.S.-Iran deal fuel broader rally in Asia stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/asia-markets-today-nikkei225-hang-seng-sensex-kospi-iran-us-deal-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776307690000,
+      "publishedAt": 1776319650000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +28,42 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGFpa2luIHNoYXJlcyBq",
-      "title": "Daikin shares jump 14% after activist investor Elliott pushes for reforms",
+      "id": "CNBC Markets-VFNNQyBmaXJzdC1xdWFy",
+      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/daikin-shares-jump-elliott-activist-investment-valuation-gap-nikkei225.html",
+      "url": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776305048000,
+      "publishedAt": 1776319591000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgZWNvbm9taWMg",
+      "title": "China economic growth accelerates to 5% in first quarter — but Iran war clouds outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776318022000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJc3Jh",
+      "title": "Trump says Israel and Lebanon leaders to hold talks after first high-level meeting in decades",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-talks-hezbollah-ceasefire-conflict.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776317933000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -63,7 +78,67 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/15/inside-india-newsletter-small-towns-amazon-walmart-ecommerce.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776300019000,
+      "publishedAt": 1776317863000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks set for another mixed open as Iran peace efforts remain unclear",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/european-markets-stoxx-600-ftse-dax-cac-oil-prices-iran-latest.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776316941000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFwYW4mYXBvcztzIE5p",
+      "title": "Japan&apos;s Nikkei 225 hits record high as hopes for U.S.-Iran deal fuel broader rally in Asia stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/asia-markets-today-nikkei225-hang-seng-sensex-kospi-iran-us-deal-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776312846000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB3YXIgJmFwb3M7",
+      "title": "Iran war &apos;very close to over,&apos; Trump says — and the stock market &apos;is going to boom&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776312559000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGFpa2luIHNoYXJlcyBq",
+      "title": "Daikin shares jump 14% after activist investor Elliott pushes for reforms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/daikin-shares-jump-elliott-activist-investment-valuation-gap-nikkei225.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776305048000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,23 +223,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2FudGFDb24gcHJvbW90",
-      "title": "SantaCon promoter arrested for charity fraud, New York federal prosecutors say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/santacon-charity-fraud-new-york-doj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776291570000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJlYXN1cnkgU2VjcmV0",
       "title": "Treasury Secretary Scott Bessent is preparing banks to collect citizenship data",
       "summary": "",
@@ -244,6 +302,158 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-UXVpZGVsT3J0aG8gc3Rv",
+      "title": "QuidelOrtho stock plunges on weak revenue guidance",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/quidelortho-stock-plunges-on-weak-revenue-guidance-93CH-4616548",
+      "source": "Investing.com News",
+      "publishedAt": 1776285328000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29uY29yZCBIZWFsdGhj",
+      "title": "Concord Healthcare files annual report with Hong Kong Stock Exchange",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/concord-healthcare-files-annual-report-with-hong-kong-stock-exchange-93CH-4616547",
+      "source": "Investing.com News",
+      "publishedAt": 1776285297000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmlydHVpeCBIb2xkaW5n",
+      "title": "Virtuix Holdings CEO Goetgeluk sells $66869 in VTIX stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/virtuix-holdings-ceo-goetgeluk-sells-66869-in-vtix-stock-93CH-4616545",
+      "source": "Investing.com News",
+      "publishedAt": 1776285248000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rml0emdlcmFsZCBvZiBT",
+      "title": "Fitzgerald of StubHub sells $10k in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/fitzgerald-of-stubhub-sells-10k-in-stock-93CH-4616544",
+      "source": "Investing.com News",
+      "publishedAt": 1776285248000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVmVyaXNr",
+      "title": "Form 144 Verisk Analytics For: 15 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-verisk-analytics-for-15-april-93CH-4616541",
+      "source": "Investing.com News",
+      "publishedAt": 1776285210000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTWFwTGln",
+      "title": "Form 144 MapLight Therapeutics For: 15 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-maplight-therapeutics-for-15-april-93CH-4616540",
+      "source": "Investing.com News",
+      "publishedAt": 1776285209000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgR09MRE1B",
+      "title": "Form 144 GOLDMAN SACHS GROUP INC For: 15 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-goldman-sachs-group-inc-for-15-april-93CH-4616539",
+      "source": "Investing.com News",
+      "publishedAt": 1776285201000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTWluZXJh",
+      "title": "Form 144 Mineralys Therapeutics For: 15 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-mineralys-therapeutics-for-15-april-93CH-4616538",
+      "source": "Investing.com News",
+      "publishedAt": 1776285199000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQ29yZSAm",
+      "title": "Form 144 Core & Main For: 15 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-core--main-for-15-april-93CH-4616537",
+      "source": "Investing.com News",
+      "publishedAt": 1776285195000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2luZXZlcnNlIGFwcG9p",
+      "title": "Cineverse appoints Sean McCabe as chief financial officer",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cineverse-appoints-sean-mccabe-as-chief-financial-officer-93CH-4616535",
+      "source": "Investing.com News",
+      "publishedAt": 1776285177000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q2F0dGxlIHByaWNlcyBz",
       "title": "Cattle prices soar to record highs as grilling season heats up",
       "summary": "",
@@ -289,156 +499,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TlkganVyeSBmaW5kcyBM",
-      "title": "NY jury finds Live Nation illegally monopolized live event markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ny-jury-finds-live-nation-illegally-monopolized-live-event-markets-4616383",
-      "source": "Investing.com News",
-      "publishedAt": 1776283594000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGhlcm4gRmlyc3Qg",
-      "title": "Southern First Bancshares launches public stock offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/southern-first-bancshares-launches-public-stock-offering-93CH-4616374",
-      "source": "Investing.com News",
-      "publishedAt": 1776283518000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmthcnRhIHJlY2VpdmVz",
-      "title": "Nkarta receives FDA agreement for outpatient NKX019 dosing",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nkarta-receives-fda-agreement-for-outpatient-nkx019-dosing-93CH-4616373",
-      "source": "Investing.com News",
-      "publishedAt": 1776283517000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxnZXJub24gSGVhbHRo",
-      "title": "Algernon Health to rebrand as Grey Matters Health, consolidate shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/algernon-health-to-rebrand-as-grey-matters-health-consolidate-shares-93CH-4616372",
-      "source": "Investing.com News",
-      "publishedAt": 1776283517000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2F2ZSBMaWZlIFNjaWVu",
-      "title": "Wave Life Sciences plans redomicile from Singapore to U.S.",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/wave-life-sciences-plans-redomicile-from-singapore-to-us-93CH-4616371",
-      "source": "Investing.com News",
-      "publishedAt": 1776283516000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0cm9DaXR5IEJhbmtz",
-      "title": "MetroCity Bankshares declares $0.29 quarterly dividend",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/metrocity-bankshares-declares-029-quarterly-dividend-93CH-4616369",
-      "source": "Investing.com News",
-      "publishedAt": 1776283504000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJhZGV3aW5kcyBVbml2",
-      "title": "Tradewinds Universal addresses auditor consent issue for 2025 annual report",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/tradewinds-universal-addresses-auditor-consent-issue-for-2025-annual-report-93CH-4616366",
-      "source": "Investing.com News",
-      "publishedAt": 1776283383000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2xhcGxleCBIb2xkaW5n",
-      "title": "Olaplex Holdings stock reaches 52-week high at $2.04",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/olaplex-holdings-stock-reaches-52week-high-at-204-93CH-4616361",
-      "source": "Investing.com News",
-      "publishedAt": 1776283280000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBUUkFERVdJ",
-      "title": "Form 8K TRADEWINDS UNIVERSAL For: 15 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-tradewinds-universal-for-15-april-93CH-4616360",
-      "source": "Investing.com News",
-      "publishedAt": 1776283267000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgUmF1YiBC",
-      "title": "Form 13F Raub Brock Capital Management LP For: 15 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-raub-brock-capital-management-lp-for-15-april-93CH-4616359",
-      "source": "Investing.com News",
-      "publishedAt": 1776283262000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmVndWxhdG9ycyBhcmUg",
       "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
       "summary": "",
@@ -469,23 +529,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
-      "title": "Anthropic&apos;s Mythos isn&apos;t threatening bitcoin. The real AI risk is at crypto exchanges",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/anthropics-mythos-isnt-threatening-bitcoin-the-real-ai-risk-is-at-crypto-exchanges-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776279327000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hpdGUgSG91c2UgYnVk",
       "title": "White House budget chief Russell Vought won&apos;t estimate Iran war cost in testimony",
       "summary": "",
@@ -497,38 +540,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V29ybGQgQmFuayBwcmVz",
-      "title": "World Bank president: Prepare for months of disruption, even after Hormuz Strait reopens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/world-bank-ajay-banga-iran-war-hormuz-strait.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776277428000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmVhbmluZSBQaXJybyBw",
-      "title": "Jeanine Pirro pursues Fed pressure while clock ticks on her appeal in Powell probe",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/fed-justice-jeanine-pirro-jerome-powell-investigation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776277324000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -606,21 +617,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiB3YXIgJmFwb3M7",
-      "title": "Iran war &apos;very close to over,&apos; Trump says — and the stock market &apos;is going to boom&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776262793000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
