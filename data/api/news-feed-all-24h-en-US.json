@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776327311183,
-  "crawlUpdatedAt": 1776327311183,
+  "updatedAt": 1776333495971,
+  "crawlUpdatedAt": 1776333495971,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,96 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RWFzeUpldCZhcG9zO3Mg",
+      "title": "EasyJet&apos;s stock drops 5% as the Middle East conflict, fuel costs weigh on bookings outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/easyjet-shares-fuel-costs-middle-east-bookings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776332656000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIHVudmVp",
+      "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/anthropic-london-office-800-staff-openai-expansion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776332043000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgZWNvbm9taWMg",
+      "title": "China economic growth accelerates to 5% in first quarter — but Iran war clouds outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776331066000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RG9uJmFwb3M7dCBjYWxs",
+      "title": "Don&apos;t call time on dollar dominance just yet, say analysts as &apos;petroyuan&apos; call sparks debate",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/us-dollar-dominance-reserve-currency-iran-war-oil-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776328859000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2VyaW5nIGxvb2tzIHRv",
+      "title": "Kering looks to double profits as it unveils ambitious turnaround plan to revive Gucci",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776327904000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG9uZyBLb25nIHRvIGFu",
+      "title": "Hong Kong to announce tax break to lure global commodity traders",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/hong-kong-to-announce-tax-break-to-lure-global-commodity-traders.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776327238000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VFNNQyBmaXJzdC1xdWFy",
       "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
@@ -34,51 +124,6 @@
       "url": "https://www.cnbc.com/2026/04/16/india-goods-exports-march-drop-more-pain-ahead.html",
       "source": "CNBC Markets",
       "publishedAt": 1776326174000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW4mYXBvcztzIE5p",
-      "title": "Japan&apos;s Nikkei 225 hits record high as hopes for U.S.-Iran deal fuel broader rally in Asia stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/asia-markets-today-nikkei225-hang-seng-sensex-kospi-iran-us-deal-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776325949000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RG9uJmFwb3M7dCBjYWxs",
-      "title": "Don&apos;t call time on dollar dominance just yet, say analysts as &apos;petroyuan&apos; call sparks debate",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/us-dollar-dominance-reserve-currency-iran-war-oil-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776325871000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks rise as UK GDP jumps and Iran peace talks remain in focus",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/european-markets-stoxx-600-ftse-dax-cac-oil-prices-iran-latest.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776325808000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,21 +163,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2hpbmEgZWNvbm9taWMg",
-      "title": "China economic growth accelerates to 5% in first quarter — but Iran war clouds outlook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776318022000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
       "title": "Inside India newsletter: Small towns are powering e-commerce&apos;s fastest-growing market, dominated by Amazon, Walmart unit",
       "summary": "",
@@ -169,21 +199,6 @@
       "url": "https://www.cnbc.com/2026/04/16/daikin-shares-jump-elliott-activist-investment-valuation-gap-nikkei225.html",
       "source": "CNBC Markets",
       "publishedAt": 1776305048000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHB1YmxpYyBzb3Vy",
-      "title": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776297492000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -574,27 +589,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50aHJvcGljIHByb2R1",
-      "title": "Anthropic products are operational after brief outage, status page says",
+      "id": "CNBC Markets-SGVyZSBhcmUgYWxsIHRo",
+      "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/anthropic-outage-elevated-errors-claude-chatbot-code-api.html",
+      "url": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776275856000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFuayBvZiBBbWVyaWNh",
-      "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is &apos;healthy&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776264843000,
+      "publishedAt": 1776273217000,
       "lang": "en-US",
       "topics": [
         "macro"
