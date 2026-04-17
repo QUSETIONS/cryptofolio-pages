@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776423952848,
-  "crawlUpdatedAt": 1776423952848,
+  "updatedAt": 1776427850267,
+  "crawlUpdatedAt": 1776427850267,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,179 +13,239 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-RlRBSSBJbmZyYXN0cnVj",
+      "title": "FTAI Infrastructure appoints KPMG as new auditor, dismisses Ernst & Young",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/ftai-infrastructure-appoints-kpmg-as-new-auditor-dismisses-ernst--young-93CH-4620137",
+      "source": "Investing.com News",
+      "publishedAt": 1776427415000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJrbGUgUmVzb3VyY2Vz",
+      "title": "Arkle Resources appoints Strand Hanson as nominated adviser",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/arkle-resources-appoints-strand-hanson-as-nominated-adviser-93CH-4620136",
+      "source": "Investing.com News",
+      "publishedAt": 1776427391000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBGVEFJIElu",
+      "title": "Form 8K FTAI Infrastructure LLC For: 17 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-ftai-infrastructure-llc-for-17-april-93CH-4620123",
+      "source": "Investing.com News",
+      "publishedAt": 1776427255000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIENFTyB0",
+      "title": "Anthropic CEO to meet White House chief of staff amid Pentagon AI dispute, Axios reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-ceo-to-meet-white-house-chief-of-staff-amid-pentagon-ai-dispute-axios-reports-4620107",
+      "source": "Investing.com News",
+      "publishedAt": 1776427255000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBDVFcgQ2F5",
+      "title": "Form 6K CTW Cayman For: 17 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-ctw-cayman-for-17-april-93CH-4620122",
+      "source": "Investing.com News",
+      "publishedAt": 1776427245000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBQRVRST0JS",
+      "title": "Form 6K PETROBRAS - PETROLEO BRASILEIRO SA For: 17 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-petrobras--petroleo-brasileiro-sa-for-17-april-93CH-4620121",
+      "source": "Investing.com News",
+      "publishedAt": 1776427239000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGZhbGxzIG9uIHBy",
+      "title": "Oil falls on prospects for talks to end Iran war",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-on-prospects-for-talks-to-end-iran-war-and-revive-supply-4619664",
+      "source": "Investing.com News",
+      "publishedAt": 1776427236000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIG9uIHBhY2Ug",
+      "title": "Dollar on pace for second weekly decline amid Iran peace prospects",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-peace-in-focus-yen-weakens-as-boj-dents-rate-hike-bets-4619698",
+      "source": "Investing.com News",
+      "publishedAt": 1776427226000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVuY2htYXJrIHJlaXRl",
+      "title": "Benchmark reiterates Hold stock rating on Netflix shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-stock-rating-on-netflix-shares-93CH-4620120",
+      "source": "Investing.com News",
+      "publishedAt": 1776427042000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIHJhaXNl",
+      "title": "Jefferies raises Cheniere Energy stock price target on earnings growth outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-raises-cheniere-energy-stock-price-target-on-earnings-growth-outlook-93CH-4620119",
+      "source": "Investing.com News",
+      "publishedAt": 1776427038000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIG92ZXJ0dXJu",
+      "title": "Senate overturns Boundary Waters protections, a boon for Chilean mining company",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/16/minnesota-boundary-waters-mining-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776426834000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIEFJIGNoaXAg",
+      "title": "Nvidia AI chip rivals attract record funding as competition heats up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776424933000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiB0ZWNoIGNvbXBh",
+      "title": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/17/us-tech-lobbying-government-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776424735000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VWJlciBFYXRzIGhhcyBh",
+      "title": "Uber Eats has a fix for pesky returns. You can just sit on the couch",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/17/uber-eats-returns-pickup-retail-app.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776423601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SWYgYSB2aW9sZW50IGRv",
+      "title": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here&apos;s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776423601000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-U29tZSBncm9jZXJzIGFy",
       "title": "Some grocers are using AI to cut food waste and boost profit margins",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/17/some-grocers-are-using-ai-to-cut-food-waste-and-boost-profit-margins.html",
       "source": "CNBC Markets",
       "publishedAt": 1776423298000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGFua2VyIGRpcGxvbWFj",
-      "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/17/trump-tanker-diplomacy-hormuz-cuba-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776423061000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1aXN0IHNoYXJlcyBl",
-      "title": "Truist shares edge down on revenue shortfall despite earnings beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/truist-shares-edge-down-on-revenue-shortfall-despite-earnings-beat-93CH-4619973",
-      "source": "Investing.com News",
-      "publishedAt": 1776422674000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIHNheXMg",
-      "title": "Jefferies says oil pullback eases Canada rate-hike bets",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-says-oil-pullback-eases-canada-ratehike-bets-93CH-4619972",
-      "source": "Investing.com News",
-      "publishedAt": 1776422663000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBzdG9jayBmdXR1",
-      "title": "U.S. stock futures on track for weekly gains amid Iran peace hopes",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-record-highs-on-iran-talks-hopes-netflix-shares-drop-4619640",
-      "source": "Investing.com News",
-      "publishedAt": 1776422595000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVkZ2UgZnVuZCBzdG9j",
-      "title": "Hedge fund stock buying hits $86 billion as Iran peace hopes, Goldman data shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/hedge-fund-stock-buying-hits-86-billion-as-iran-peace-hopes-goldman-data-shows-4619971",
-      "source": "Investing.com News",
-      "publishedAt": 1776422558000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW50aHJvcGljIGluIHRh",
-      "title": "Anthropic in talks with EU Commission on AI models",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/anthropic-in-talks-with-eu-commission-on-ai-models-93CH-4619970",
-      "source": "Investing.com News",
-      "publishedAt": 1776422549000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmlmdGggVGhpcmQgc2hh",
-      "title": "Fifth Third shares fall over 2% on merger costs despite earnings beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/fifth-third-shares-fall-over-2-on-merger-costs-despite-earnings-beat-93CH-4619969",
-      "source": "Investing.com News",
-      "publishedAt": 1776422539000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBIaW1hbGF5",
-      "title": "Form 6K Himalaya Shipping Ltd. For: 17 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-himalaya-shipping-ltd-for-17-april-93CH-4619968",
-      "source": "Investing.com News",
-      "publishedAt": 1776422471000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V29sZmUgbW9kZWxzIGFp",
-      "title": "Wolfe models airline merger scenarios amid consolidation talk",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/wolfe-models-airline-merger-scenarios-amid-consolidation-talk-93CH-4619967",
-      "source": "Investing.com News",
-      "publishedAt": 1776422470000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmVlZGhhbSByZWl0ZXJh",
-      "title": "Needham reiterates ServiceTitan stock rating on innovation pace",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/needham-reiterates-servicetitan-stock-rating-on-innovation-pace-93CH-4619966",
-      "source": "Investing.com News",
-      "publishedAt": 1776422467000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIGN1dHMgQ2Ft",
-      "title": "Stifel cuts Camtek stock rating to hold on valuation concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-camtek-stock-rating-to-hold-on-valuation-concerns-93CH-4619965",
-      "source": "Investing.com News",
-      "publishedAt": 1776422465000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -346,21 +406,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2VuYXRlIG92ZXJ0dXJu",
-      "title": "Senate overturns Boundary Waters protections, a boon for Chilean mining company",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/minnesota-boundary-waters-mining-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776372660000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2h5IHRoZSBzdG9jayBt",
       "title": "Why the stock market is hitting records despite Iran war",
       "summary": "",
@@ -423,42 +468,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7WW91JmFwb3M7",
-      "title": "&apos;You&apos;re an idiot&apos;: Apollo CEO Marc Rowan has a word for any lenders that can&apos;t meet 5% private credit fund redemptions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/apollo-global-marc-rowan-private-credit-funds-redemptions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776369562000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29vZ2xlIHdpbGwgbGV0",
       "title": "Google will let users connect their photos to the Gemini chatbot and Nano Banana",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/16/google-photo-gemini-chatbot-nano-banana.html",
       "source": "CNBC Markets",
       "publishedAt": 1776369232000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmFuY2UmYXBvcztzIEly",
-      "title": "Vance&apos;s Iran and Orbán setbacks raise questions about his standing with Trump",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/vance-trump-iran-orban-rubio.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776367853000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -572,21 +587,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3BlIGNvdWxkIHJ1",
-      "title": "Europe could run out of jet fuel in 6 weeks, IEA warns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/europe-jet-fuel-shortage-6-weeks-iea.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776350322000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
