@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776528280146,
-  "crawlUpdatedAt": 1776528280146,
-  "crawlCount": 31,
+  "updatedAt": 1776532067195,
+  "crawlUpdatedAt": 1776532067195,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-QURCIGNoaWVmIHdhcm5z",
+      "title": "ADB chief warns of yen pressure from Japan’s too-slow rate hikes",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/adb-chief-warns-of-yen-pressure-from-japans-tooslow-rate-hikes-4622167",
+      "source": "Investing.com News",
+      "publishedAt": 1776530548000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9wZSBMZW8sIGluIEFu",
+      "title": "Pope Leo, in Angola, decries ’despots’ who exploit resources, make false promises",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/pope-leo-newly-forceful-global-voice-heads-to-angola-on-africa-tour-4622140",
+      "source": "Investing.com News",
+      "publishedAt": 1776529109000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlbmNoIHNvbGRpZXIg",
+      "title": "French soldier killed in attack on UN mission in southern Lebanon, officials say",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon-officials-say-4622166",
+      "source": "Investing.com News",
+      "publishedAt": 1776527675000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SXJhbiBzYXlzIFN0cmFp",
       "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire",
@@ -64,21 +109,6 @@
       "url": "https://www.cnbc.com/2026/04/18/ai-prompts-personal-finance-advice.html",
       "source": "CNBC Markets",
       "publishedAt": 1776522601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9wZSBMZW8sIG5ld2x5",
-      "title": "Pope Leo, newly forceful global voice, arrives in Angola on Africa tour",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/pope-leo-newly-forceful-global-voice-heads-to-angola-on-africa-tour-4622140",
-      "source": "Investing.com News",
-      "publishedAt": 1776522272000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -238,42 +268,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHVya2V5IHNheXMgVVMg",
-      "title": "Turkey says US withdrawal from European security architecture could be ’destructive’",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/turkey-says-us-withdrawal-from-european-security-architecture-could-be-destructive-4622158",
-      "source": "Investing.com News",
-      "publishedAt": 1776517242000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG93IHRvIHRlbGwgaWYg",
       "title": "How to tell if your dating standards are too high—or too low: Harvard-trained psychologist",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/18/how-to-have-the-right-standards-when-youre-dating.html",
       "source": "CNBC Markets",
       "publishedAt": 1776517201000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SUNJQ0kgQmFuayBRNC0y",
-      "title": "ICICI Bank Q4-2026 slides: profit jumps 21% QoQ, NPAs improve",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/icici-bank-q42026-slides-profit-jumps-21-qoq-npas-improve-93CH-4622159",
-      "source": "Investing.com News",
-      "publishedAt": 1776517164000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -465,21 +465,6 @@
         "FED"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IHRoZSBzdG9jayBt",
-      "title": "Why the stock market is hitting records despite Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/16/stocks-record-highs-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776443726000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
