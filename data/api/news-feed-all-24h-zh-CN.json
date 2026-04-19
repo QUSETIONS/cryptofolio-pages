@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776553518405,
-  "crawlUpdatedAt": 1776553518405,
-  "crawlCount": 27,
+  "updatedAt": 1776556942978,
+  "crawlUpdatedAt": 1776556942978,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SG9ybXV6IHNoaXBwaW5n",
+      "title": "Hormuz shipping chaos returns as Iran reverses transit reopening",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/hormuz-shipping-chaos-returns-as-iran-reverses-transit-reopening-4622178",
+      "source": "Investing.com News",
+      "publishedAt": 1776554525000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-T2lsIHNob2NrIHVubGlr",
       "title": "Oil shock unlikely to have a lasting effect on inflation: BCA",
@@ -193,21 +208,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UG9wZSBMZW8sIGluIEFu",
-      "title": "Pope Leo, in Angola, decries ’despots’ who exploit resources, make false promises",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/pope-leo-newly-forceful-global-voice-heads-to-angola-on-africa-tour-4622140",
-      "source": "Investing.com News",
-      "publishedAt": 1776531986000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlcmUmYXBvcztzIGFu",
       "title": "There&apos;s an &apos;art&apos; to writing AI prompts for personal finance, MIT professor says",
       "summary": "",
@@ -366,51 +366,6 @@
       "url": "https://www.cnbc.com/2026/04/18/us-uk-special-relationship-trump-starmer-king-charles.html",
       "source": "CNBC Markets",
       "publishedAt": 1776488401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgY2hpcG1ha2VyIENl",
-      "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776468222000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBo",
-      "title": "Trump says he had &apos;no idea&apos; Anthropic&apos;s Amodei met with White House about Mythos",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776468177000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QU1ELCBPcmFjbGUsIE1p",
-      "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776467741000,
       "lang": "zh-CN",
       "topics": [
         "macro"
