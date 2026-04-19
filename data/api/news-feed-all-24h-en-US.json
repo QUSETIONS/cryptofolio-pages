@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776597000222,
-  "crawlUpdatedAt": 1776597000222,
-  "crawlCount": 22,
+  "updatedAt": 1776600009912,
+  "crawlUpdatedAt": 1776600009912,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBv",
+      "title": "Nvidia&apos;s once-tight bond with gamers is cracking over AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776598661000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIG5vIGRh",
+      "title": "Iran says no date set for next round of negotiations with US",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/iran-says-no-date-set-for-next-round-of-negotiations-with-us-4622153",
+      "source": "Investing.com News",
+      "publishedAt": 1776596791000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-RXhwcm8gc3RvY2sgZGVs",
       "title": "Expro stock delivers 64% return after Fair Value spotted opportunity",
@@ -141,21 +171,6 @@
       "url": "https://www.investing.com/news/economy-news/imf-world-bank-meetings-show-limits-in-mitigating-shocks-reliance-on-us-for-solutions-4622207",
       "source": "Investing.com News",
       "publishedAt": 1776590334000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley takes a deeper look at AI’s impact on software developers",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morgan-stanley-takes-a-deeper-look-at-ais-impact-on-software-developers-4622208",
-      "source": "Investing.com News",
-      "publishedAt": 1776590074000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -313,36 +328,6 @@
       "symbols": [
         "SPX"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBv",
-      "title": "Nvidia&apos;s once-tight bond with gamers is cracking over AI, &apos;and that breaks my heart&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776513601000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7SXQmYXBvcztz",
-      "title": "&apos;It&apos;s just scale&apos;: Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776513601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
