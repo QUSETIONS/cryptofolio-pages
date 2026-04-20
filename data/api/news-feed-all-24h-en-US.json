@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776666304719,
-  "crawlUpdatedAt": 1776666304719,
+  "updatedAt": 1776674138528,
+  "crawlUpdatedAt": 1776674138528,
   "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,74 +13,151 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-V2lzaGJvbmUgR29sZCBt",
-      "title": "Wishbone Gold mobilizes drill rig to Red Setter project",
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIG1v",
+      "title": "Asia markets mostly rise as U.S.-Iran tensions escalate after ship seizure",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/wishbone-gold-mobilizes-drill-rig-to-red-setter-project-93CH-4622376",
-      "source": "Investing.com News",
-      "publishedAt": 1776665950000,
+      "url": "https://www.cnbc.com/2026/04/20/asia-markets-set-to-open-higher-amid-renewed-iran-us-tensions-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776673496000,
       "lang": "en-US",
       "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtRXVyb3Bl",
+      "title": "Analysis-European defence stocks cool as investors reassess war winners",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/analysiseuropean-defence-stocks-cool-as-investors-reassess-war-winners-4622338",
+      "source": "Investing.com News",
+      "publishedAt": 1776673182000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S3lpdiBzaG9vdGluZyBk",
+      "title": "Kyiv shooting death toll rises to seven, mayor says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/kyiv-shooting-death-toll-rises-to-seven-mayor-says-4622486",
+      "source": "Investing.com News",
+      "publishedAt": 1776673166000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmFsdWUgb2YgZ2xvYmFs",
+      "title": "Value of global dealmaking recovers as firms pursue big transactions after Iran war",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/value-of-global-dealmaking-recovers-as-firms-pursue-big-transactions-after-iran-war-4622485",
+      "source": "Investing.com News",
+      "publishedAt": 1776673152000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLi1JcmFuIGRpc3B1",
+      "title": "U.S.-Iran dispute flares; oil jumps - what’s moving markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/usiran-dispute-flares-oil-jumps--whats-moving-markets-4622483",
+      "source": "Investing.com News",
+      "publishedAt": 1776673136000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyByaXNl",
+      "title": "Oil prices rise 6% on fears of US-Iran ceasefire collapse",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rebound-7-as-strait-of-hormuz-is-closed-again-4622262",
+      "source": "Investing.com News",
+      "publishedAt": 1776673135000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIHB1c2hlcyB0",
+      "title": "Dollar pushes to one-week high as US-Iran tensions reignite",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/dollar-rebounds-as-middle-east-tensions-reignite-hormuz-closed-4622264",
+      "source": "Investing.com News",
+      "publishedAt": 1776673118000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBhZG9wdGlv",
+      "title": "Bitcoin adoption rebounds in U.S., but consumers still favor gold and stocks",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-adoption-rebounds-in-us-but-consumers-still-favor-gold-and-stocks-4622480",
+      "source": "Investing.com News",
+      "publishedAt": 1776672918000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
         "macro"
       ],
       "symbols": [
+        "BTC",
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFuIHByb2R1Y2Vy",
-      "title": "German producer prices fall 0.2% y/y in March",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/german-producer-prices-fall-02-yy-in-march-4622375",
-      "source": "Investing.com News",
-      "publishedAt": 1776665908000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VuZmxvdyBwYXJ0bmVy",
-      "title": "Genflow partners with Acuitas for gene therapy delivery tech",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/genflow-partners-with-acuitas-for-gene-therapy-delivery-tech-93CH-4622374",
-      "source": "Investing.com News",
-      "publishedAt": 1776665626000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Ftc3VuZyBTREkgc2ln",
-      "title": "Samsung SDI signs first EV battery supply deal with Mercedes-Benz",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-sdi-signs-first-ev-battery-supply-deal-with-mercedesbenz-4622373",
-      "source": "Investing.com News",
-      "publishedAt": 1776665547000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Um9tZSBSZXNvdXJjZXMg",
-      "title": "Rome Resources raises £1.2m via share placement at discount",
+      "id": "Investing.com News-VUvigJlzIFN0YXJtZXIg",
+      "title": "UK’s Starmer faces parliament over Mandelson vetting as resignation demands swirl",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/rome-resources-raises-12m-via-share-placement-at-discount-93CH-4622370",
+      "url": "https://www.investing.com/news/world-news/uks-starmer-faces-parliament-over-mandelson-vetting-as-resignation-demands-swirl-4622267",
       "source": "Investing.com News",
-      "publishedAt": 1776665331000,
+      "publishedAt": 1776672385000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlIGx1eHVyeSBz",
+      "title": "Europe luxury stocks slide on Middle East tensions, demand jitters",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/europe-luxury-stocks-slide-on-middle-east-tensions-demand-jitters-4622478",
+      "source": "Investing.com News",
+      "publishedAt": 1776672307000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -95,7 +172,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776665286000,
+      "publishedAt": 1776672303000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -105,87 +182,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5kb25lc2lhLCBUb3lv",
-      "title": "Indonesia, Toyota in talks on potential bioethanol project",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
+      "title": "Goldman Sachs reiterates Buy on Apple stock amid DRAM concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/indonesia-toyota-in-talks-on-potential-bioethanol-project-4622366",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-apple-stock-amid-dram-concerns-93CH-4622459",
       "source": "Investing.com News",
-      "publishedAt": 1776665188000,
+      "publishedAt": 1776672202000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "XAU"
+      ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFpd2FuIHN0b2NrcyBs",
-      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.88%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-088-4622365",
-      "source": "Investing.com News",
-      "publishedAt": 1776665103000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNIGN1dHMgRXNzaXR5",
-      "title": "JPM cuts Essity to “underweight” as soaring pulp, energy costs sour outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpm-cuts-essity-to-underweight-as-soaring-pulp-energy-costs-sour-outlook-4622364",
-      "source": "Investing.com News",
-      "publishedAt": 1776664984000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXZva2UgY29uZmlybXMg",
-      "title": "Evoke confirms takeover talks with Bally’s Intralot at 50p/share",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/evoke-confirms-takeover-talks-with-ballys-intralot-at-50pshare-93CH-4622363",
-      "source": "Investing.com News",
-      "publishedAt": 1776664982000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIHVwZ3Jh",
-      "title": "Jefferies upgrades Ulta Beauty stock rating on makeup momentum",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-ulta-beauty-stock-rating-on-makeup-momentum-93CH-4622362",
-      "source": "Investing.com News",
-      "publishedAt": 1776664668000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
       "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks set to slump as Gulf tanker attacks threaten ceasefire",
+      "title": "European stocks open lower Gulf tanker attacks threaten ceasefire",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/20/european-markets-stoxx-600-ftse-dax-cac-oil-iran-latest-news.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776663730000,
+      "publishedAt": 1776669100000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -216,21 +235,6 @@
       "url": "https://www.cnbc.com/2026/04/19/oil-price-iran-war-strait-hormuz-tanker.html",
       "source": "CNBC Markets",
       "publishedAt": 1776659900000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIG1v",
-      "title": "Asia markets mostly rise as U.S.-Iran tensions escalate after ship seizure",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/20/asia-markets-set-to-open-higher-amid-renewed-iran-us-tensions-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776657090000,
       "lang": "en-US",
       "topics": [
         "macro"
