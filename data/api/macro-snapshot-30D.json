@@ -133,7 +133,7 @@
         },
         {
           "ts": 1776643200000,
-          "value": 76126
+          "value": 76285.0078125
         }
       ]
     },
@@ -143,10 +143,6 @@
       "category": "equity",
       "source": "Yahoo Finance",
       "points": [
-        {
-          "ts": 1774013400000,
-          "value": 6506.47998046875
-        },
         {
           "ts": 1774272600000,
           "value": 6581
@@ -225,7 +221,7 @@
         },
         {
           "ts": 1776691800000,
-          "value": 7107.009765625
+          "value": 7109.14013671875
         }
       ]
     },
@@ -337,7 +333,7 @@
         },
         {
           "ts": 1776657600000,
-          "value": 98.03399658203125
+          "value": 98.05699920654297
         }
       ]
     },
@@ -525,18 +521,18 @@
         },
         {
           "ts": 1776657600000,
-          "value": 4833.5
+          "value": 4833.2998046875
         }
       ]
     }
   ],
   "factors": {
-    "totalMarketCapUsd": 2643982188644.5527,
-    "totalVolumeUsd": 112008058804.8501,
-    "marketCapChange24h": 1.3922864562478257,
-    "btcDominance": 57.64861509813603
+    "totalMarketCapUsd": 2648182420087.4395,
+    "totalVolumeUsd": 116070522841.7755,
+    "marketCapChange24h": 1.7486582617395343,
+    "btcDominance": 57.69826508358092
   },
-  "updatedAt": 1776710182660,
+  "updatedAt": 1776715412922,
   "quality": "fresh",
   "sources": [
     "Yahoo Finance",
