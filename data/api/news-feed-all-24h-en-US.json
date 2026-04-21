@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1776786790641,
-  "crawlUpdatedAt": 1776786790641,
-  "crawlCount": 39,
+  "updatedAt": 1776791546917,
+  "crawlUpdatedAt": 1776791546917,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RGFyZGVuIFNWUCBEb3Vn",
-      "title": "Darden SVP Douglas Milanes sells $731,837 in shares",
+      "id": "Investing.com News-VGVzbGEgcmVnaXN0cmF0",
+      "title": "Tesla registrations drop 24% in California as hybrids gain ground",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/darden-svp-douglas-milanes-sells-731837-in-shares-93CH-4626834",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-registrations-drop-24-in-california-as-hybrids-gain-ground-93CH-4626975",
       "source": "Investing.com News",
-      "publishedAt": 1776786720000,
+      "publishedAt": 1776791352000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IFlvcmsgc3VlcyBD",
+      "title": "New York sues Coinbase and Gemini Titan, calls their prediction markets illegal gambling",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/new-york-sues-coinbase-financial-markets-gemini-titan-for-allegedly-violating-state-law-4626861",
+      "source": "Investing.com News",
+      "publishedAt": 1776791218000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,44 +43,194 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RpZmVsIHJlaXRlcmF0",
-      "title": "Stifel reiterates Halliburton stock Buy rating on Q1 beat",
+      "id": "Investing.com News-RWF0b24gZGVjbGFyZXMg",
+      "title": "Eaton declares $1.10 quarterly dividend, payable May 29",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-halliburton-stock-buy-rating-on-q1-beat-93CH-4626832",
+      "url": "https://www.investing.com/news/company-news/eaton-declares-110-quarterly-dividend-payable-may-29-93CH-4626973",
       "source": "Investing.com News",
-      "publishedAt": 1776786655000,
+      "publishedAt": 1776791095000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQUVIUiBU",
+      "title": "Form 144 AEHR TEST SYSTEMS For: 21 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-aehr-test-systems-for-21-april-93CH-4626972",
+      "source": "Investing.com News",
+      "publishedAt": 1776790994000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVVMgQkFO",
+      "title": "Form 144 US BANCORP DE For: 21 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-us-bancorp-de-for-21-april-93CH-4626971",
+      "source": "Investing.com News",
+      "publishedAt": 1776790990000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGltIENvb2sgcmVhY3Rp",
+      "title": "Tim Cook reactions: Trump, Altman, Buffett and more on the Apple CEO move",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776790929000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgY29tbWFuZGVyIHdh",
+      "title": "US commander warns Taiwan not to ’starve the chicken’ on defense",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense-4626955",
+      "source": "Investing.com News",
+      "publishedAt": 1776790919000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIGNoaWVmIG5vbWlu",
+      "title": "Fed chief nominee Warsh commits to central bank’s independence, with limits",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-chair-nominee-warsh-commits-to-independence-with-limits-4624127",
+      "source": "Investing.com News",
+      "publishedAt": 1776790867000,
       "lang": "en-US",
       "topics": [
         "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgUmVmaW5l",
+      "title": "Form 13F Refined Wealth Management For: 21 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-refined-wealth-management-for-21-april-93CH-4626969",
+      "source": "Investing.com News",
+      "publishedAt": 1776790857000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgRGl2IENh",
+      "title": "Form 13F Div Capital Phoenix Assets Ltd For: 21 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-div-capital-phoenix-assets-ltd-for-21-april-93CH-4626968",
+      "source": "Investing.com News",
+      "publishedAt": 1776790851000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgTm9ydGhs",
+      "title": "Form 13F Northland Capital Management LLC For: 21 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-northland-capital-management-llc-for-21-april-93CH-4626967",
+      "source": "Investing.com News",
+      "publishedAt": 1776790847000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2hh",
+      "title": "Here&apos;s what Cramer wants to see from Capital One when the bank reports tonight",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/21/heres-what-cramer-wants-to-see-from-capital-one-when-the-bank-reports-tonight-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776790215000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5jb21pbmcgY29sbGVn",
+      "title": "Incoming college freshmen will rack up an average of $43,000 in student loans by graduation, report finds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/21/college-students-may-owe-43000-in-student-loans-by-graduation-study.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776789947000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBt",
-      "title": "Goldman Sachs maintains 2026 copper price, surplus forecasts",
+      "id": "CNBC Markets-TmV3IEFwcGxlIENFTyBK",
+      "title": "New Apple CEO John Ternus doubted himself when he started: &apos;I wasn&apos;t sure I belonged&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/goldman-sachs-maintains-2026-copper-price-surplus-forecasts-4626819",
-      "source": "Investing.com News",
-      "publishedAt": 1776786533000,
+      "url": "https://www.cnbc.com/2026/04/21/john-ternus-apple-ceo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776788845000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
-      "symbols": [
-        "XAU"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVzbGEgQ2FsaWZvcm5p",
-      "title": "Tesla California registrations slide as incentives fade, industry body says",
+      "id": "CNBC Markets-TWljcm9zb2Z0IGN1dHMg",
+      "title": "Microsoft cuts Game Pass subscription prices after new Xbox CEO promises to &apos;recommit&apos; to gamers",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tesla-registrations-plunge-in-california-industry-body-says-4626756",
-      "source": "Investing.com News",
-      "publishedAt": 1776786514000,
+      "url": "https://www.cnbc.com/2026/04/21/microsoft-game-pass-ultimate-subscription-price-cut.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776787201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -90,102 +255,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ1JFRElU",
-      "title": "Form 144 CREDIT ACCEPTANCE CORP For: 21 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-credit-acceptance-corp-for-21-april-93CH-4626831",
-      "source": "Investing.com News",
-      "publishedAt": 1776786493000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QSB0aW1lbGluZSBvZiBo",
       "title": "A timeline of how the Iran war shook oil prices — and what comes next",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html",
       "source": "CNBC Markets",
       "publishedAt": 1776786393000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQ29tcGFz",
-      "title": "Form 13F Compass Planning Associates Inc For: 21 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-compass-planning-associates-inc-for-21-april-93CH-4626830",
-      "source": "Investing.com News",
-      "publishedAt": 1776786359000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgUm90aCBG",
-      "title": "Form 13F Roth Financial Partners LLC For: 21 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-roth-financial-partners-llc-for-21-april-93CH-4626829",
-      "source": "Investing.com News",
-      "publishedAt": 1776786339000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgTm9ydGgg",
-      "title": "Form 13F North Forty Two & Co. For: 21 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-north-forty-two--co-for-21-april-93CH-4626828",
-      "source": "Investing.com News",
-      "publishedAt": 1776786339000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQUNDUkVE",
-      "title": "Form 13F ACCREDITED INVESTOR SERVICES For: 21 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-accredited-investor-services-for-21-april-93CH-4626827",
-      "source": "Investing.com News",
-      "publishedAt": 1776786337000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgU0JFIExM",
-      "title": "Form 13F SBE LLC DBA CEDAR COVE WEALTH PARTNERS For: 21 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-sbe-llc-dba-cedar-cove-wealth-partners-for-21-april-93CH-4626826",
-      "source": "Investing.com News",
-      "publishedAt": 1776786336000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -272,21 +347,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGltIENvb2sgcmVhY3Rp",
-      "title": "Tim Cook reactions: Trump, Altman, Buffett and more on the Apple CEO move",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776780582000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2lsIHByaWNlcyBsaXR0",
       "title": "Oil prices little changed as Trump expects Iran deal but prepared to resume war if talks fail",
       "summary": "",
@@ -323,21 +383,6 @@
       "url": "https://www.cnbc.com/2026/04/21/trump-anthropic-department-defense-deal.html",
       "source": "CNBC Markets",
       "publishedAt": 1776779141000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5jb21pbmcgY29sbGVn",
-      "title": "Incoming college freshmen will rack up an average of $43,000 in student loans by graduation, report finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/21/college-students-may-owe-43000-in-student-loans-by-graduation-study.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776778966000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -563,36 +608,6 @@
       "url": "https://www.cnbc.com/2026/04/20/retirement-security-caregivers.html",
       "source": "CNBC Markets",
       "publishedAt": 1776705233000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2FzaCBQYXRlbCBzdWVz",
-      "title": "Kash Patel sues The Atlantic for $250 million over alcohol abuse claims",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/20/kash-patel-atlantic-lawsuit-alcohol-fbi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776704766000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz ship traffic briefly rose and then slowed after weekend attacks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/20/strait-hormuz-ship-tanker-oil-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776701558000,
       "lang": "en-US",
       "topics": [
         "macro"
