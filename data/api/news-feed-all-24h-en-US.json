@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776866575919,
-  "crawlUpdatedAt": 1776866575919,
+  "updatedAt": 1776873063550,
+  "crawlUpdatedAt": 1776873063550,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,207 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Qm9laW5nIENFTyBzYXlz",
-      "title": "Boeing CEO says &apos;all systems are go&apos; to increase 737 production as company narrows loss",
+      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
+      "title": "United Airlines slashes 2026 forecast as fuel costs surge, but demand remains strong",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/04/21/united-airlines-ual-q1-2026-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776866545000,
+      "publishedAt": 1776872864000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJlbnQgb2lsIHJpc2Vz",
+      "title": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776872766000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFyZGVlIFJlc291cmNl",
+      "title": "Pardee Resources to sell California table grape assets for $6.1 million",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/pardee-resources-to-sell-california-table-grape-assets-for-61-million-93CH-4630051",
+      "source": "Investing.com News",
+      "publishedAt": 1776872485000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlZWRvbSBCcm9rZXIg",
+      "title": "Freedom Broker raises Netflix stock price target on strong Q1 results",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-raises-netflix-stock-price-target-on-strong-q1-results-93CH-4630050",
+      "source": "Investing.com News",
+      "publishedAt": 1776872460000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBTUlggSGVh",
+      "title": "Form 8K SRX Health Solutions Inc For: 22 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-srx-health-solutions-inc-for-22-april-93CH-4630049",
+      "source": "Investing.com News",
+      "publishedAt": 1776872440000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBOZXcgTW91",
+      "title": "Form 8K New Mountain Guardian IV Income Fund For: 22 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-new-mountain-guardian-iv-income-fund-for-22-april-93CH-4630048",
+      "source": "Investing.com News",
+      "publishedAt": 1776872438000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQVJNIEhP",
+      "title": "Form 144 ARM HOLDINGS PLC /UK For: 22 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-arm-holdings-plc-uk-for-22-april-93CH-4630046",
+      "source": "Investing.com News",
+      "publishedAt": 1776872349000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Boeing reports Q1 2026 earnings beat, stock surges",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-boeing-reports-q1-2026-earnings-beat-stock-surges-93CH-4630045",
+      "source": "Investing.com News",
+      "publishedAt": 1776872336000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VW5pdGVkIEFpcmxpbmVz",
+      "title": "United Airlines says fares may need to rise up to 20% to offset fuel surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/united-airlines-says-fares-may-need-to-rise-up-to-20-to-offset-fuel-surge-4630043",
+      "source": "Investing.com News",
+      "publishedAt": 1776872207000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVuc2lvbkJlZSByZXBv",
+      "title": "PensionBee reports 38% revenue growth in first quarter",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/pensionbee-reports-38-revenue-growth-in-first-quarter-93CH-4630042",
+      "source": "Investing.com News",
+      "publishedAt": 1776872200000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVzdCBCdXkgdGFwcyBp",
+      "title": "Best Buy taps insider Bonfig to succeed veteran Barry as CEO amid demand slowdown",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/best-buy-names-insider-jason-bonfig-as-new-ceo-4628854",
+      "source": "Investing.com News",
+      "publishedAt": 1776872192000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SUJNIGVhcm5pbmdzIHVw",
+      "title": "IBM earnings up next: Can Confluent deal fuel guidance raise?",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/ibm-earnings-up-next-can-confluent-deal-fuel-guidance-raise-93CH-4630041",
+      "source": "Investing.com News",
+      "publishedAt": 1776872180000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, source says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776871018000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGltIENvb2sgaXMgZXhj",
+      "title": "Tim Cook is exceptional at this leadership skill. I saw it when I interviewed at Apple 16 years ago—and still think about it today",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/tim-cook-is-exceptional-at-this-leadership-skilli-saw-it-when-i-interviewed-at-apple.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776870891000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +228,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776865516000,
+      "publishedAt": 1776870275000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,132 +238,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UUNSIEhvbGRpbmdzIGVh",
-      "title": "QCR Holdings earnings in focus as margin expansion faces test",
+      "id": "CNBC Markets-UGFsYW50aXIgaW5rcyAk",
+      "title": "Palantir inks $300 million deal with USDA to safeguard food supply",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/qcr-holdings-earnings-in-focus-as-margin-expansion-faces-test-93CH-4629593",
-      "source": "Investing.com News",
-      "publishedAt": 1776865252000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBGaXJzdCBC",
-      "title": "Form 8K First Bancorp For: 22 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-first-bancorp-for-22-april-93CH-4629592",
-      "source": "Investing.com News",
-      "publishedAt": 1776865239000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBRdWFudHVt",
-      "title": "Form 6K Quantum BioPharma Ltd For: 22 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-quantum-biopharma-ltd-for-22-april-93CH-4629591",
-      "source": "Investing.com News",
-      "publishedAt": 1776865235000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUVDSSBhZGp1c3RzIDIw",
-      "title": "AECI adjusts 2025 results for R32m tax issue in Congo unit",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/aeci-adjusts-2025-results-for-r32m-tax-issue-in-congo-unit-93CH-4629590",
-      "source": "Investing.com News",
-      "publishedAt": 1776865204000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JpZ2luIEJhbmNvcnAg",
-      "title": "Origin Bancorp in the spotlight: Can earnings defy revenue slide?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/origin-bancorp-in-the-spotlight-can-earnings-defy-revenue-slide-93CH-4629589",
-      "source": "Investing.com News",
-      "publishedAt": 1776865198000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEZy",
-      "title": "Form DEF 14A Freshworks Inc For: 22 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-freshworks-inc-for-22-april-93CH-4629587",
-      "source": "Investing.com News",
-      "publishedAt": 1776865186000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJtIHN0b2NrIGhpdHMg",
-      "title": "Arm stock hits 52-week high at 183.61 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/arm-stock-hits-52week-high-at-18361-usd-93CH-4629586",
-      "source": "Investing.com News",
-      "publishedAt": 1776865068000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVwc2lDbyBwYXJ0bmVy",
-      "title": "PepsiCo partners with Google Cloud on multi-year AI deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/pepsico-partners-with-google-cloud-on-multiyear-ai-deal-93CH-4629585",
-      "source": "Investing.com News",
-      "publishedAt": 1776865052000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIHJhaXNlcyBBbHBo",
-      "title": "BMO raises Alphabet stock price target on AI leadership and cloud growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-alphabet-stock-price-target-on-ai-leadership-and-cloud-growth-93CH-4629584",
-      "source": "Investing.com News",
-      "publishedAt": 1776865048000,
+      "url": "https://www.cnbc.com/2026/04/22/palantir-inks-300-million-deal-with-usda-to-safeguard-food-supply.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776870201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -178,12 +253,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2FpdGluZyBmb3Ig4oCZ",
-      "title": "Waiting for ’safe and sustainable’ strait crossings, top shipping execs say",
+      "id": "CNBC Markets-VHJ1bXAgcmVjb3VudHMg",
+      "title": "Trump recounts Tim Cook call to &apos;kiss my ass,&apos; in stark look at White House dealmaking",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/waiting-for-safe-and-sustainable-strait-crossings-top-shipping-execs-say-4629583",
-      "source": "Investing.com News",
-      "publishedAt": 1776865045000,
+      "url": "https://www.cnbc.com/2026/04/21/trump-tim-cook-call-white-house-deals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776869030000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzdCBCdXkgbmFtZXMg",
+      "title": "Best Buy names Jason Bonfig as new CEO, replacing Corie Barry in late October",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/best-buy-jason-bonfig-ceo-corie-barry.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776866969000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9laW5nIENFTyBzYXlz",
+      "title": "Boeing CEO says &apos;all systems are go&apos; to increase 737 production as company narrows loss",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776866720000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -208,21 +313,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVzdCBCdXkgbmFtZXMg",
-      "title": "Best Buy names Jason Bonfig as new CEO, replacing Corie Barry in late October",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/best-buy-jason-bonfig-ceo-corie-barry.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776863796000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
       "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Wednesday",
       "summary": "",
@@ -235,36 +325,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGltIENvb2sgaXMgZXhj",
-      "title": "Tim Cook is exceptional at this leadership skill. I saw it when I interviewed at Apple 16 years ago—and still think about it today",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/tim-cook-is-exceptional-at-this-leadership-skilli-saw-it-when-i-interviewed-at-apple.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776862532000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
-      "title": "United Airlines slashes 2026 forecast as fuel costs surge, but demand remains strong",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/21/united-airlines-ual-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776861224000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -343,21 +403,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UGFsYW50aXIgaW5rcyAk",
-      "title": "Palantir inks $300 million deal with USDA to safeguard food supply",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/palantir-inks-300-million-deal-with-usda-to-safeguard-food-supply.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776855601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2FycmVuIHByZXNzZXMg",
       "title": "Warren presses Trump administration for answers on evacuation of Americans amid Iran war",
       "summary": "",
@@ -388,21 +433,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2h5IDMgb2YgRXVyb3Bl",
-      "title": "Why 3 of Europe&apos;s biggest economies are paying a premium for borrowing as bond traders baulk at &apos;BIF&apos; debt credibility",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/uk-france-italy-debt-borrowing-costs-inflation-bonds-investors-bifs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776846852000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VUsgaW5mbGF0aW9uIGp1",
       "title": "UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war",
       "summary": "",
@@ -415,21 +445,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0VPIHdpdGggb3ZlciAk",
-      "title": "CEO with over $3 trillion under management tells Gen-Z to think past ‘hobby investing’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/capital-group-ceo-wants-gen-z-investors-to-think-past-hobby-investing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776836470000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -475,21 +490,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcmVjb3VudHMg",
-      "title": "Trump recounts Tim Cook call to &apos;kiss my ass,&apos; in stark look at White House dealmaking",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/21/trump-tim-cook-call-white-house-deals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776811814000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
