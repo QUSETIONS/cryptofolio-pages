@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776829763432,
-  "crawlUpdatedAt": 1776829763432,
+  "updatedAt": 1776837971153,
+  "crawlUpdatedAt": 1776837971153,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QmFjayBob21lLCBIb25n",
-      "title": "Back home, Hong Kong fire victim gathers memories from the ashes",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBk",
+      "title": "Goldman Sachs downgrades Valneva stock rating to sell on Lyme vaccine uncertainty",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/back-home-hong-kong-fire-victim-gathers-memories-from-the-ashes-4628022",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-valneva-stock-rating-to-sell-on-lyme-vaccine-uncertainty-93CH-4628062",
       "source": "Investing.com News",
-      "publishedAt": 1776828269000,
+      "publishedAt": 1776836715000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVFUIHBvc3RzIHJlY29y",
+      "title": "EQT posts record $20 bln Galderma gain; Q1 fee-generating assets remain flat",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/eqt-posts-record-20-bln-galderma-gain-q1-feegenerating-assets-remain-flat-4628061",
+      "source": "Investing.com News",
+      "publishedAt": 1776836632000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +45,162 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgZGVjbGFyZXMg",
-      "title": "Trump declares Iran ceasefire extension with peace talks in doubt",
+      "id": "Investing.com News-U2FwcG9ybyBzaGFyZXMg",
+      "title": "Sapporo shares fall 6% on sale of US beer unit",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-will-indefinitely-extend-ceasefire-unclear-if-iran-agrees-4628002",
+      "url": "https://www.investing.com/news/stock-market-news/sapporo-shares-fall-6-on-sale-of-us-beer-unit-4628060",
       "source": "Investing.com News",
-      "publishedAt": 1776827912000,
+      "publishedAt": 1776836536000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmFyIEVuZXJnaSBRMSBw",
+      "title": "Var Energi Q1 profit slips; revenue jumps on record output, higher prices",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/var-energi-q1-profit-slips-revenue-jumps-on-record-output-higher-prices-4628059",
+      "source": "Investing.com News",
+      "publishedAt": 1776836488000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q0VPIHdpdGggb3ZlciAk",
+      "title": "CEO with over $3 trillion under management tells Gen-Z to think past ‘hobby investing’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/capital-group-ceo-wants-gen-z-investors-to-think-past-hobby-investing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776836470000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley downgrades Zscaler stock rating on platform concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-zscaler-stock-rating-on-platform-concerns-93CH-4628058",
+      "source": "Investing.com News",
+      "publishedAt": 1776836279000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFwYW4mYXBvcztzIE5p",
+      "title": "Japan&apos;s Nikkei 225 rises to record high as Trump extends Iran ceasefire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/asia-pacific-markets-today-live-updates-nikkei-225-kospi-hang-seng-index.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776835975000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwbGFpbmVyLUhvdyB0",
+      "title": "Explainer-How the Iran war oil and gas supply shock compares with past disruptions",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/explainerhow-the-iran-war-oil-and-gas-supply-shock-compares-with-past-disruptions-4628057",
+      "source": "Investing.com News",
+      "publishedAt": 1776835848000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3lyaWFuIG1pbm9yaXRp",
+      "title": "Syrian minorities refused asylum in Europe as rejections surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/syrian-minorities-refused-asylum-in-europe-as-rejections-surge-4628045",
+      "source": "Investing.com News",
+      "publishedAt": 1776835829000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVsZTIgUTEgcHJvZml0",
+      "title": "Tele2 Q1 profit jumps sharply on Baltic tower windfall",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tele2-q1-profit-jumps-sharply-on-baltic-tower-windfall-4628055",
+      "source": "Investing.com News",
+      "publishedAt": 1776835470000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks set to open lower as Trump refuses to lift Strait of Hormuz blockade",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/22/european-markets-stoxx-600-ftse-dax-iran-latest-news-oil-price.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776835322000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9yZGVhIFExIHByb2Zp",
+      "title": "Nordea Q1 profit rises as fee income, provision release offset trading hit",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/nordea-q1-profit-rises-as-fee-income-provision-release-offset-trading-hit-4628054",
+      "source": "Investing.com News",
+      "publishedAt": 1776835288000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0sgSHluaXggdG8gaW52",
+      "title": "SK Hynix to invest $13 bln in new chip fab to boost AI capacity",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-to-invest-13-bln-in-new-chip-fab-to-boost-ai-capacity-4628053",
+      "source": "Investing.com News",
+      "publishedAt": 1776835280000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,150 +215,13 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/22/cnbc-converge-live-hormuz-singapore-fm-vivian-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1776827709000,
+      "publishedAt": 1776833610000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZCBwcmljZXMgcmlz",
-      "title": "Gold prices rise from 1-week low after US-Iran ceasefire extension",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-prices-rise-from-1week-low-after-usiran-ceasefire-extension-4628021",
-      "source": "Investing.com News",
-      "publishedAt": 1776827108000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TG9zIEFuZ2VsZXMgc2No",
-      "title": "Los Angeles schools set limits on classroom screen time",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/los-angeles-schools-set-limits-on-classroom-screen-time-4628019",
-      "source": "Investing.com News",
-      "publishedAt": 1776826465000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmxvcmlkYSBsYXVuY2hl",
-      "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting-4627898",
-      "source": "Investing.com News",
-      "publishedAt": 1776825406000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TEcgSW5ub3RlayBzaGFy",
-      "title": "LG Innotek shares hit fresh record high after European auto parts deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lg-innotek-shares-hit-fresh-record-high-after-european-auto-parts-deal-4628018",
-      "source": "Investing.com News",
-      "publishedAt": 1776825374000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGgzMiBjdXRzIEF1",
-      "title": "South32 cuts Australia manganese forecast after cyclone disruption",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/south32-cuts-australia-manganese-forecast-after-cyclone-disruption-93CH-4628017",
-      "source": "Investing.com News",
-      "publishedAt": 1776825320000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW4mYXBvcztzIE5p",
-      "title": "Japan&apos;s Nikkei 225 rises to record high as Trump extends Iran ceasefire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/asia-pacific-markets-today-live-updates-nikkei-225-kospi-hang-seng-index.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776825258000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFyZ2V0IEhvc3BpdGFs",
-      "title": "Target Hospitality prices $98M secondary stock offering at $14",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/target-hospitality-prices-98m-secondary-stock-offering-at-14-93CH-4628016",
-      "source": "Investing.com News",
-      "publishedAt": 1776825244000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29uc3VtZXIgd2F0Y2hk",
-      "title": "Consumer watchdog group files suit alleging Meta profited on ads for scams",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/consumer-watchdog-group-files-suit-alleging-meta-profited-on-ads-for-scams-4627715",
-      "source": "Investing.com News",
-      "publishedAt": 1776825027000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW4gZXhwb3J0cyBy",
-      "title": "Japan exports rise for seventh month as AI demand blunts Mideast risks for now",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/japans-exports-expand-117-in-march-on-brisk-demand-higher-prices-4627974",
-      "source": "Investing.com News",
-      "publishedAt": 1776824689000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -469,21 +499,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBBbnRo",
-      "title": "Trump says Anthropic is shaping up and a deal is &apos;possible&apos; for Department of Defense use",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/21/trump-anthropic-department-defense-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776795959000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGltIENvb2sgdHVybmVk",
       "title": "Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs",
       "summary": "",
@@ -567,21 +582,6 @@
       "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html",
       "source": "CNBC Markets",
       "publishedAt": 1776786393000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyAmYXBv",
-      "title": "Trump says &apos;maybe&apos; government should help struggling Spirit Airlines",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/21/trump-spirit-airlines.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776783228000,
       "lang": "en-US",
       "topics": [
         "macro"
