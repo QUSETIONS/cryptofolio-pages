@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1776961089951,
-  "crawlUpdatedAt": 1776961089951,
+  "updatedAt": 1776966852899,
+  "crawlUpdatedAt": 1776966852899,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,288 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TWljcm9zb2Z0IHBsYW5z",
-      "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
+      "id": "Investing.com News-TUdJQyBhcHByb3ZlcyAk",
+      "title": "MGIC approves $750M buyback program, declares dividend",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776960489000,
+      "url": "https://www.investing.com/news/company-news/mgic-approves-750m-buyback-program-declares-dividend-93CH-4633646",
+      "source": "Investing.com News",
+      "publishedAt": 1776966568000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxvY2tjaGFpbiBiaWxs",
+      "title": "Blockchain billionaire Sun takes Trump family’s crypto firm to court",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court-4632537",
+      "source": "Investing.com News",
+      "publishedAt": 1776966555000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBmYXN0LWJvYXQg",
+      "title": "Iran fast-boat swarms add to Hormuz threats for shipping",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-fastboat-swarms-add-to-hormuz-threats-for-shipping-4633645",
+      "source": "Investing.com News",
+      "publishedAt": 1776966536000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZml4ZWQgMzAteWVh",
+      "title": "US fixed 30-year mortgage rate drops to 6.23%",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-fixed-30year-mortgage-rate-drops-to-623-4633499",
+      "source": "Investing.com News",
+      "publishedAt": 1776966518000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgTW9zcyBB",
+      "title": "Form 13F Moss Adams Wealth Advisors LLC For: 23 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-moss-adams-wealth-advisors-llc-for-23-april-93CH-4633643",
+      "source": "Investing.com News",
+      "publishedAt": 1776966402000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV0YSB0byBjdXQgOCww",
+      "title": "Meta to cut 8,000 jobs in efficiency push amid AI spending surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/meta-to-cut-8000-jobs-in-efficiency-push-amid-ai-spending-surge-4633642",
+      "source": "Investing.com News",
+      "publishedAt": 1776966401000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgRm9ydW0g",
+      "title": "Form 13F Forum Financial Management For: 23 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-forum-financial-management-for-23-april-93CH-4633641",
+      "source": "Investing.com News",
+      "publishedAt": 1776966398000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgRkxBR1NU",
+      "title": "Form 13F FLAGSTAR ADVISORS INC For: 23 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-flagstar-advisors-inc-for-23-april-93CH-4633640",
+      "source": "Investing.com News",
+      "publishedAt": 1776966382000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgU1BJTk5B",
+      "title": "Form 13F SPINNAKER TRUST For: 23 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-spinnaker-trust-for-23-april-93CH-4633639",
+      "source": "Investing.com News",
+      "publishedAt": 1776966374000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQ2FwaXRh",
+      "title": "Form 13F Capital Investment Counsel For: 23 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-capital-investment-counsel-for-23-april-93CH-4633638",
+      "source": "Investing.com News",
+      "publishedAt": 1776966371000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzJmFwb3M7",
+      "title": "Starbucks&apos; loyalty program changes are drawing value-conscious customers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/starbucks-loyalty-changes-are-drawing-value-conscious-customers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776965193000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VhbHRoLCBtaWxsaW9u",
+      "title": "Wealth, millionaire tax push spreads to more states — but the trend presents a &apos;challenge,&apos; expert says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/wealth-tax-millionaire-tax.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776965109000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLi1JcmFuIHdhciBl",
+      "title": "U.S.-Iran war evolves into naval standoff over Strait of Hormuz after both countries seize ships",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/iran-war-strait-hormuz-tanker-traffic-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776964579000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Umlza3kgbWVtZSB0cmFk",
+      "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776964549000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3Bpcml0IEFpcmxpbmVz",
+      "title": "Spirit Airlines lawyer says cash &apos;not going to last for very much longer,&apos; but government rescue on the table",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/spirit-airlines-bankruptcy-court-rescue.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776963886000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29mdHdhcmUgc3RvY2tz",
+      "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776963864000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXBzdGVpbiBmaWxlczog",
+      "title": "Epstein files: DOJ watchdog reviewing release of documents on sex offender",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/epstein-files-doj-audit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776963193000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IHBsYW5z",
+      "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776962163000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3JhbWVyIHdhbnRzIHRv",
+      "title": "Cramer wants to &apos;buy more&apos; of this household name if the stock price goes a bit lower",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/23/cramer-wants-to-buy-more-of-this-household-name-if-the-stock-price-goes-a-bit-lower.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1776961534000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -49,175 +319,6 @@
       "url": "https://www.cnbc.com/2026/04/23/kevin-warsh-family-office.html",
       "source": "CNBC Markets",
       "publishedAt": 1776959153000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2Fybml2YWwgZGlyZWN0",
-      "title": "Carnival director receives vested stock, shares withheld for taxes",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/carnival-director-receives-vested-stock-shares-withheld-for-taxes-93CH-4633401",
-      "source": "Investing.com News",
-      "publishedAt": 1776958906000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RyYXRlZ2ljIEVkdWNh",
-      "title": "Strategic Education Q1 2026 slides: EPS hits target, revenue miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/strategic-education-q1-2026-slides-eps-hits-target-revenue-miss-93CH-4633402",
-      "source": "Investing.com News",
-      "publishedAt": 1776958905000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBGRURFUkFM",
-      "title": "Form 8K FEDERAL HOME LOAN BANK OF INDIANAPOLIS For: 23 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-indianapolis-for-23-april-93CH-4633400",
-      "source": "Investing.com News",
-      "publishedAt": 1776958870000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBGZWRlcmFs",
-      "title": "Form 8K Federal Home Loan Bank of Topeka For: 23 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-topeka-for-23-april-93CH-4633399",
-      "source": "Investing.com News",
-      "publishedAt": 1776958870000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGFkZGVyIENhcGl0YWwg",
-      "title": "Ladder Capital Q1 2026 slides: record originations amid earnings miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ladder-capital-q1-2026-slides-record-originations-amid-earnings-miss-93CH-4633398",
-      "source": "Investing.com News",
-      "publishedAt": 1776958867000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBCUCBQTEMg",
-      "title": "Form 6K BP PLC For: 23 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-bp-plc-for-23-april-93CH-4633393",
-      "source": "Investing.com News",
-      "publishedAt": 1776958828000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBYUEVORyBJ",
-      "title": "Form 6K XPENG INC. For: 23 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-xpeng-inc-for-23-april-93CH-4633392",
-      "source": "Investing.com News",
-      "publishedAt": 1776958828000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Patterson-UTI Q1 2026 beats EPS forecast but stock dips",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pattersonuti-q1-2026-beats-eps-forecast-but-stock-dips-93CH-4633391",
-      "source": "Investing.com News",
-      "publishedAt": 1776958777000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgVUJFUiBU",
-      "title": "Form 144 UBER TECHNOLOGIES INC For: 23 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-uber-technologies-inc-for-23-april-93CH-4633390",
-      "source": "Investing.com News",
-      "publishedAt": 1776958749000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: CVB Financial Q1 2026 EPS beats, revenue misses",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cvb-financial-q1-2026-eps-beats-revenue-misses-93CH-4633389",
-      "source": "Investing.com News",
-      "publishedAt": 1776958722000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLi1JcmFuIHdhciBl",
-      "title": "U.S.-Iran war evolves into naval standoff over Strait of Hormuz after both countries seize ships",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/23/iran-war-strait-hormuz-tanker-traffic-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776958633000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -284,36 +385,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhcmJ1Y2tzJmFwb3M7",
-      "title": "Starbucks&apos; loyalty program changes are drawing value-conscious customers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/23/starbucks-loyalty-changes-are-drawing-value-conscious-customers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776956401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SUJNIHNoYXJlcyBkcm9w",
-      "title": "IBM shares drop as company beats but opts to maintain guidance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/ibm-q1-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776955116000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -512,21 +583,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGxvb2tl",
-      "title": "Microsoft looked at buying Cursor before SpaceX deal, sources say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776906740000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWV0YSBpcyB0cmFja2lu",
       "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative",
       "summary": "",
@@ -536,68 +592,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8gc2F5cyBET0og",
-      "title": "Pirro says DOJ won&apos;t drop Fed probe, will appeal judge&apos;s order blocking Powell subpoenas",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/fed-powell-trump-warsh-pirro-appeal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776901662000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBOYXZ5IFNlY3Jl",
-      "title": "U.S. Navy Secretary John Phelan leaving Trump administration: Pentagon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/navy-secretary-john-phelan-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776899174000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmlyZ2luaWEganVkZ2Ug",
-      "title": "Virginia judge blocks redistricting referendum result that boosted Democrats&apos; election hopes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/virginia-election-results-redistricting-congress-democrats.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776897116000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s strategy to avoid missing out on big winners",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/22/jim-cramers-strategy-to-avoid-missing-out-on-big-winners.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776896255000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
