@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777002004510,
-  "crawlUpdatedAt": 1777002004510,
+  "updatedAt": 1777011421944,
+  "crawlUpdatedAt": 1777011421944,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,162 +13,209 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIERl",
+      "title": "China&apos;s DeepSeek releases preview of long-awaited V4 model as AI race intensifies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777011048000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F0c3VtYSBUZWNobm9s",
+      "title": "Satsuma Technology acquires 22.77 bitcoin for $1.8 million",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/satsuma-technology-acquires-2277-bitcoin-for-18-million-93CH-4634612",
+      "source": "Investing.com News",
+      "publishedAt": 1777010833000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVN0ZWxs",
+      "title": "Exclusive-Stellantis to focus funding on core car brands as CEO drives turnaround, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivestellantis-to-focus-funding-on-core-car-brands-as-ceo-drives-turnaround-sources-say-4634607",
+      "source": "Investing.com News",
+      "publishedAt": 1777010816000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmHigJlzIEFJIGRh",
+      "title": "China’s AI darling DeepSeek previews new model adapted for Huawei chip technology",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553",
+      "source": "Investing.com News",
+      "publishedAt": 1777010793000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXN0cmlkIEludGVsbGln",
+      "title": "Astrid Intelligence comments on Bittensor network volatility",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/astrid-intelligence-comments-on-bittensor-network-volatility-93CH-4634593",
+      "source": "Investing.com News",
+      "publishedAt": 1777010529000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW4gbGF1bmNoZXMg",
+      "title": "Japan launches financial task force amid AI security fears",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/japan-launches-financial-task-force-amid-ai-security-fears-4634573",
+      "source": "Investing.com News",
+      "publishedAt": 1777010490000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIHNldCBmb3Ig",
+      "title": "Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/dollar-set-for-weekly-gain-on-stalled-usiran-talks-and-middle-east-uncertainty-4634515",
+      "source": "Investing.com News",
+      "publishedAt": 1777010475000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVUgZm9ybWFsbHkgYXBw",
+      "title": "EU formally approves Ukraine loan and 20th sanctions package against Russia",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/eu-formally-approves-ukraine-loan-and-20th-sanctions-package-against-russia-4633079",
+      "source": "Investing.com News",
+      "publishedAt": 1777010456000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGFpd2FuIHN0b2NrcyBo",
+      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.73%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-073-4634587",
+      "source": "Investing.com News",
+      "publishedAt": 1777010404000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29sb3BsYXN0IGN1dHMg",
+      "title": "Coloplast cuts fiscal year guidance on Kerecis struggles",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/coloplast-cuts-fiscal-year-guidance-on-kerecis-struggles-4634586",
+      "source": "Investing.com News",
+      "publishedAt": 1777010293000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXZvdGVjIG5hbWVzIENs",
+      "title": "Evotec names Claire Hinshelwood as CFO, replacing Paul Hitchin",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/evotec-names-claire-hinshelwood-as-cfo-replacing-paul-hitchin-93CH-4634585",
+      "source": "Investing.com News",
+      "publishedAt": 1777010256000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHJpc2VzIGFzIEly",
+      "title": "Oil rises as Iran war worries keep markets on edge with Hormuz Strait staying shut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/24/oil-price-wti-brent-after-israel-lebanon-ceasefire-extension.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777010025000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxpYmFiYeKAmXMgUXdl",
+      "title": "Alibaba’s Qwen AI is coming to cars, allowing drivers order food and book hotels by voice",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/24/alibaba-qwen-ai-integration-chinese-carmakers-beijing-auto-show.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777003328000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VS5TLiBzb2xkaWVyIGFy",
       "title": "U.S. soldier arrested for $400K winning Polymarket bets on Maduro capture, DOJ says",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/23/doj-soldier-polymarket-bets-venezuela-maduro.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777001654000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhbiBsaXRo",
-      "title": "Australian lithium miner PLS says energy security concerns driving demand growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/australian-lithium-miner-pls-says-energy-security-concerns-driving-demand-growth-4634541",
-      "source": "Investing.com News",
-      "publishedAt": 1777001427000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBzdG9ja3MgZmFs",
-      "title": "Asia stocks fall as tech losses, oil surge weigh; Japan CPI in focus",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-tech-losses-oil-surge-weigh-japan-cpi-in-focus-4634540",
-      "source": "Investing.com News",
-      "publishedAt": 1777000847000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW4gRWwgU2FsdmFkb3Is",
-      "title": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/in-el-salvador-shackled-prisoners-watch-their-mass-trial-on-a-big-screen-4634524",
-      "source": "Investing.com News",
-      "publishedAt": 1777000735000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rml0Y2ggc2F5cyBubyBp",
-      "title": "Fitch says no immediate downgrade if Indonesia’s deficit tops 3% due to Iran war impact",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/fitch-says-no-immediate-downgrade-if-indonesias-deficit-tops-3-due-to-iran-war-impact-4634539",
-      "source": "Investing.com News",
-      "publishedAt": 1777000715000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVyY2VkZXMgc3RlZWxz",
-      "title": "Mercedes steels itself for ’roller coaster’ competition in Chinese market",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/mercedes-steels-itself-for-roller-coaster-competition-in-chinese-market-4634538",
-      "source": "Investing.com News",
-      "publishedAt": 1777000038000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SHl1bmRhaSBNb3RvciB0",
-      "title": "Hyundai Motor to launch 20 models in five years in new China offensive",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hyundai-motor-to-launch-20-models-in-five-years-in-new-china-offensive-4634537",
-      "source": "Investing.com News",
-      "publishedAt": 1777000016000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdG8gZGVsaXZl",
-      "title": "Trump to deliver remarks to crypto conference on Saturday, White House says",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/trump-to-deliver-remarks-to-crypto-conference-on-saturday-white-house-says-4634536",
-      "source": "Investing.com News",
-      "publishedAt": 1776999997000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V29tYW4sIGhlciA1IGNo",
-      "title": "Woman, her 5 children released from longest ICE detention of a family under Trump",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/woman-her-5-children-released-from-longest-ice-detention-of-a-family-under-trump-4634534",
-      "source": "Investing.com News",
-      "publishedAt": 1776999626000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGFpaWNoaSBTYW5reW8g",
-      "title": "Daiichi Sankyo shares slide to 4-yr low after co delays annual earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/daiichi-sankyo-shares-slide-to-4yr-low-after-co-delays-annual-earnings-4634533",
-      "source": "Investing.com News",
-      "publishedAt": 1776999053000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SUdPIFEzIDIwMjYgc2xp",
-      "title": "IGO Q3 2026 slides show strong cash flow despite operational hurdles",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/igo-q3-2026-slides-show-strong-cash-flow-despite-operational-hurdles-93CH-4634532",
-      "source": "Investing.com News",
-      "publishedAt": 1776998561000,
+      "publishedAt": 1777002323000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -187,21 +234,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHJpc2VzIGFzIEly",
-      "title": "Oil rises as Iran war worries keep markets on edge as Strait of Hormuz stays shut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/24/oil-price-wti-brent-after-israel-lebanon-ceasefire-extension.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776995722000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -565,36 +597,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIHRyYWRlcnMg",
-      "title": "Kalshi traders don&apos;t see Strait of Hormuz traffic returning to normal until July",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776953980000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
-      "title": "American Airlines cuts 2026 earnings projections after surge in jet fuel",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/23/american-airlines-aal-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1776951306000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
