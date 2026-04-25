@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777136095341,
-  "crawlUpdatedAt": 1777136095341,
+  "updatedAt": 1777139343944,
+  "crawlUpdatedAt": 1777139343944,
   "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-VHJ1bXAgYm91Z2h0IGF0",
+      "title": "Trump bought at least $51 million in bonds in March, disclosure shows",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-bought-at-least-51-million-in-bonds-in-march-disclosure-shows-4637386",
+      "source": "Investing.com News",
+      "publishedAt": 1777138593000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBV",
       "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: &apos;If they want to talk, all they have to do is call&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777136040000,
+      "publishedAt": 1777136723000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsaSBmaXJlIGtp",
+      "title": "Israeli fire kills 12 in Gaza, medics say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-three-in-gaza-medics-say-4636023",
+      "source": "Investing.com News",
+      "publishedAt": 1777136408000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -85,6 +115,23 @@
       ],
       "symbols": [
         "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBzYXlzIHRo",
+      "title": "Goldman says this stock market is likely to outperform the US equity market index",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-says-this-stock-market-is-likely-to-outperform-the-us-equity-market-index-4637384",
+      "source": "Investing.com News",
+      "publishedAt": 1777132144000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
@@ -165,21 +212,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Um9tYW5pYSBmaW5kcyBw",
-      "title": "Romania finds parts of second drone after overnight Russian attack on Ukraine",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/romania-finds-parts-of-second-drone-after-overnight-russian-attack-on-ukraine-4637379",
-      "source": "Investing.com News",
-      "publishedAt": 1777125272000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U29tZSB5b3VuZyBBbWVy",
       "title": "Some young Americans scale back dating as costs and apps add pressure, survey shows",
       "summary": "",
@@ -189,21 +221,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVwdWJsaWNhbnMgcmV0",
-      "title": "Republicans retool midterm strategy: Trump’s policies, but less Trump",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/republicans-retool-midterm-strategy-trumps-policies-but-less-trump-4637345",
-      "source": "Investing.com News",
-      "publishedAt": 1777122748000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -221,23 +238,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBleHBlY3Rz",
-      "title": "Goldman expects 100 IPOs totalling $160 billion will come to market in 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-expects-100-ipos-totalling-160-billion-will-come-to-market-in-2026-4637356",
-      "source": "Investing.com News",
-      "publishedAt": 1777122016000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -397,21 +397,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz may not fully reopen until second half of 2026, Baker Hughes says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/24/strait-hormuz-baker-hughes-iran-war-oil-lng.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777064481000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2xvY2sgdGlja3Mgb24g",
       "title": "Clock ticks on Spirit Airlines as bondholders weigh Trump bailout. Here&apos;s what could happen next",
       "summary": "",
@@ -502,6 +487,21 @@
       "symbols": [
         "FED"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MjAsMDAwIGpvYiBjdXRz",
+      "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777056387000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
