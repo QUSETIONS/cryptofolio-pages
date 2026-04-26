@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777226822834,
-  "crawlUpdatedAt": 1777226822834,
-  "crawlCount": 19,
+  "updatedAt": 1777231816465,
+  "crawlUpdatedAt": 1777231816465,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,87 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-RXZlcnl0aGluZyB3ZSBr",
+      "title": "Everything we know about Cole Allen, the D.C. correspondents dinner shooter",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/26/cole-allen-dc-correspondents-dinner-shooter.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777231155000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-SXJhbuKAmXMgQXJhZ2hj",
-      "title": "Iran’s Araghchi lands in Pakistan; Trump says Tehran must call first",
+      "title": "Iran’s Araghchi heads to Moscow for talks with Putin as U.S.-Iran diplomacy stalls",
       "summary": "",
       "url": "https://www.investing.com/news/economy-news/diplomatic-stalemate-lingers-as-us-envoys-head-to-pakistan-iran-reopens-airport-4637338",
       "source": "Investing.com News",
-      "publishedAt": 1777226107000,
+      "publishedAt": 1777231100000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2luZyBDaGFybGVz4oCZ",
+      "title": "King Charles’ visit to US to proceed after Washington shooting",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/uk-says-cooperating-closely-with-us-on-security-ahead-of-king-charles-visit-4637441",
+      "source": "Investing.com News",
+      "publishedAt": 1777230743000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Capital One Q1 2026 sees EPS miss, stock falls",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-capital-one-q1-2026-sees-eps-miss-stock-falls-93CH-4637491",
+      "source": "Investing.com News",
+      "publishedAt": 1777229891000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3VzcGVjdCBpbiBXaGl0",
+      "title": "Suspect in White House press dinner shooting wrote anti-Christian manifesto, Trump says",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-was-likely-target-of-shooting-at-white-house-correspondents-dinner-us-official-says-4637480",
+      "source": "Investing.com News",
+      "publishedAt": 1777227865000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0YW55YWh14oCZcyBi",
+      "title": "Netanyahu’s biggest rivals join forces for Israel’s next election",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/netanyahus-biggest-rivals-join-forces-for-israels-next-election-4637488",
+      "source": "Investing.com News",
+      "publishedAt": 1777227503000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,21 +193,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV0YW55YWh14oCZcyBi",
-      "title": "Netanyahu’s biggest rivals join forces for Israel’s next election",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/netanyahus-biggest-rivals-join-forces-for-israels-next-election-4637488",
-      "source": "Investing.com News",
-      "publishedAt": 1777217807000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGlsbGlzIGVuZHMgYmxv",
       "title": "Tillis ends block of Fed chair nominee Warsh, clears way for Trump pick",
       "summary": "",
@@ -165,21 +225,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgd2FzIGxpa2Vs",
-      "title": "Trump was likely target of shooting at White House correspondents’ dinner, US official says",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-was-likely-target-of-shooting-at-white-house-correspondents-dinner-us-official-says-4637480",
-      "source": "Investing.com News",
-      "publishedAt": 1777215263000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXA6IFNob290ZXIg",
       "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
       "summary": "",
@@ -192,38 +237,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFsZXN0aW5pYW4gbGVh",
-      "title": "Palestinian leader’s loyalists win local elections, including some seats in Gaza",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/palestinian-leaders-loyalists-win-local-elections-including-some-in-gaza-4637479",
-      "source": "Investing.com News",
-      "publishedAt": 1777212031000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2VuIFRpbGxpcyBjbGVh",
-      "title": "Sen Tillis clears path for Trump’s Fed pick after DOJ drops Powell probe",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/sen-tillis-clears-path-for-trumps-fed-pick-after-doj-drops-powell-probe-4637482",
-      "source": "Investing.com News",
-      "publishedAt": 1777211904000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
