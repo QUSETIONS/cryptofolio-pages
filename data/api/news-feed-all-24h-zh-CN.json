@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777223466950,
-  "crawlUpdatedAt": 1777223466950,
+  "updatedAt": 1777226822834,
+  "crawlUpdatedAt": 1777226822834,
   "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SXJhbuKAmXMgQXJhZ2hj",
+      "title": "Iran’s Araghchi lands in Pakistan; Trump says Tehran must call first",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/diplomatic-stalemate-lingers-as-us-envoys-head-to-pakistan-iran-reopens-airport-4637338",
+      "source": "Investing.com News",
+      "publishedAt": 1777226107000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXNyYWVsIGlzc3VlcyBl",
       "title": "Israel issues evacuation warning for seven Lebanese towns beyond ’buffer zone’ after soldier killed",
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbuKAmXMgQXJhZ2hj",
-      "title": "Iran’s Araghchi lands in Pakistan; Trump says Tehran must call first",
+      "id": "CNBC Markets-Q3JhbWVyOiBXaHkgYWxs",
+      "title": "Cramer: Why all the money flowing to AI stocks is a problem — and how it can be fixed",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/diplomatic-stalemate-lingers-as-us-envoys-head-to-pakistan-iran-reopens-airport-4637338",
-      "source": "Investing.com News",
-      "publishedAt": 1777221782000,
+      "url": "https://www.cnbc.com/2026/04/26/cramer-the-money-to-ai-stocks-is-a-problem-and-how-it-can-be-fixed.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777222020000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -141,21 +156,6 @@
       "url": "https://www.investing.com/news/politics-news/trump-says-shooting-suspect-didnt-come-close-to-ballroom-4637486",
       "source": "Investing.com News",
       "publishedAt": 1777216708000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
-      "title": "Here are the 3 big things we&apos;re watching in the stock market in the week ahead",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777215296000,
       "lang": "zh-CN",
       "topics": [
         "macro"
