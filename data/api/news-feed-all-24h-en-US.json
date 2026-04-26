@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777236662363,
-  "crawlUpdatedAt": 1777236662363,
-  "crawlCount": 19,
+  "updatedAt": 1777240143096,
+  "crawlUpdatedAt": 1777240143096,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Vz",
-      "title": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond ’buffer zone’",
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone-4637485",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4637498",
       "source": "Investing.com News",
-      "publishedAt": 1777235407000,
+      "publishedAt": 1777238402000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +33,37 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/26/trump-presses-case-for-white-house-ballroom-following-shooting.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777235151000,
+      "publishedAt": 1777236993000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Vz",
+      "title": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond ’buffer zone’",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone-4637485",
+      "source": "Investing.com News",
+      "publishedAt": 1777236506000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3VzcGVjdCBpbiBXaGl0",
+      "title": "Suspect in White House press dinner shooting wrote anti-Christian manifesto, Trump says",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-was-likely-target-of-shooting-at-white-house-correspondents-dinner-us-official-says-4637480",
+      "source": "Investing.com News",
+      "publishedAt": 1777236147000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -86,21 +116,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3VzcGVjdCBpbiBXaGl0",
-      "title": "Suspect in White House press dinner shooting wrote anti-Christian manifesto, Trump says",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-was-likely-target-of-shooting-at-white-house-correspondents-dinner-us-official-says-4637480",
-      "source": "Investing.com News",
-      "publishedAt": 1777232909000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -195,21 +210,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgdGVsbHMgRm94",
-      "title": "Trump tells Fox News Iran can call US if it wants to negotiate",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-tells-fox-news-iran-can-call-us-if-it-wants-to-negotiate-4637487",
-      "source": "Investing.com News",
-      "publishedAt": 1777221386000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGlsbGlzIGVuZHMgYmxv",
       "title": "Tillis ends block of Fed chair nominee Warsh, clears way for Trump pick",
       "summary": "",
@@ -293,6 +293,21 @@
       "url": "https://www.cnbc.com/2026/04/26/top-wall-street-analysts-pick-these-3-stocks-for-reliable-income.html",
       "source": "CNBC Markets",
       "publishedAt": 1777207307000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBV",
+      "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: &apos;If they want to talk, all they have to do is call&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777197738000,
       "lang": "en-US",
       "topics": [
         "macro"
