@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777315833816,
-  "crawlUpdatedAt": 1777315833816,
+  "updatedAt": 1777320849138,
+  "crawlUpdatedAt": 1777320849138,
   "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-S2luZyBDaGFybGVzIGFy",
-      "title": "King Charles arrives in US for trip overshadowed by Iran quarrel and shooting",
+      "id": "CNBC Markets-RG9taW5vJmFwb3M7cyBQ",
+      "title": "Domino&apos;s Pizza stock falls on disappointing sales — and CEO thinks more chains will follow",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/king-charles-jets-to-us-for-trip-overshadowed-by-iran-quarrel-and-shooting-4637718",
-      "source": "Investing.com News",
-      "publishedAt": 1777315724000,
+      "url": "https://www.cnbc.com/2026/04/27/dominos-pizza-dpz-earnings-stock-falls-on-weak-sales.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777320063000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29sZSBBbGxlbiBjaGFy",
+      "title": "Cole Allen charged with trying to assassinate Trump at WHCD event",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/27/cole-allen-whcd-arraigment-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777319977000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3VzcGVjdCBpbiBXYXNo",
-      "title": "Suspect in Washington dinner shooting charged with attempting to assassinate Trump",
+      "id": "Investing.com News-Um9nZXJzIENvbW11bmlj",
+      "title": "Rogers Communications offering buyouts to half its workforce, Globe and Mail reports",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/suspect-in-washington-dinner-shooting-set-to-appear-in-court-4638164",
+      "url": "https://www.investing.com/news/stock-market-news/rogers-communications-offering-buyouts-to-half-its-workforce-globe-and-mail-reports-4639650",
       "source": "Investing.com News",
-      "publishedAt": 1777315707000,
+      "publishedAt": 1777319693000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,27 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgU00gRW5l",
-      "title": "Form 144 SM Energy Co For: 27 April",
+      "id": "Investing.com News-RXhwbGFpbmVyLVdoYXQg",
+      "title": "Explainer-What does Bayer’s US Supreme Court case mean for the thousands of Roundup lawsuits?",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-sm-energy-co-for-27-april-93CH-4639643",
+      "url": "https://www.investing.com/news/stock-market-news/explainerwhat-does-bayers-us-supreme-court-case-mean-for-the-thousands-of-roundup-lawsuits-4637447",
       "source": "Investing.com News",
-      "publishedAt": 1777315695000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q0JPVCBjb3JuIGhpdHMg",
-      "title": "CBOT corn hits 10-month high on crude oil surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/cbot-corn-hits-10month-high-on-crude-oil-surge-93CH-4639642",
-      "source": "Investing.com News",
-      "publishedAt": 1777315632000,
+      "publishedAt": 1777319678000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +73,212 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Um9nZXJzIENvbW11bmlj",
-      "title": "Rogers Communications shares gain on reports of buyouts offered to half staff",
+      "id": "Investing.com News-VVMgd2hlYXQgZnV0dXJl",
+      "title": "US wheat futures rise on higher oil prices, weaker dollar",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/rogers-communications-shares-gain-on-reports-of-buyouts-offered-to-half-staff-93CH-4639641",
+      "url": "https://www.investing.com/news/commodities-news/us-wheat-futures-rise-on-higher-oil-prices-weaker-dollar-93CH-4639707",
       "source": "Investing.com News",
-      "publishedAt": 1777315624000,
+      "publishedAt": 1777319528000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBwcmljZXMgZGlw",
+      "title": "Gold prices dip after U.S.-Iran talks stall; all eyes on this week’s Fed decision",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-prices-steady-as-dollar-drifts-amid-iran-jitters-fed-anticipation-4637674",
+      "source": "Investing.com News",
+      "publishedAt": 1777319360000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmlzaW9uU3lzIEFJIGlu",
+      "title": "VisionSys AI in talks for $90M investment at $1.50 per share",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/visionsys-ai-in-talks-for-90m-investment-at-150-per-share-93CH-4639706",
+      "source": "Investing.com News",
+      "publishedAt": 1777319359000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSByYWlzZXMgTGln",
+      "title": "BofA raises Ligand Pharma stock price target on XOMA acquisition",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-ligand-pharma-stock-price-target-on-xoma-acquisition-93CH-4639705",
+      "source": "Investing.com News",
+      "publishedAt": 1777319352000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSBTZWN1cml0aWVz",
+      "title": "BofA Securities raises ONE Gas stock price target on growth outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-securities-raises-one-gas-stock-price-target-on-growth-outlook-93CH-4639704",
+      "source": "Investing.com News",
+      "publishedAt": 1777319351000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RpZmVsIGN1dHMgQ29t",
+      "title": "Stifel cuts Compass Therapeutics stock price target on FDA uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-compass-therapeutics-stock-price-target-on-fda-uncertainty-93CH-4639703",
+      "source": "Investing.com News",
+      "publishedAt": 1777319343000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIGxpa2VseSB0byBo",
+      "title": "Fed likely to hold rates steady as Powell prepares for possible swan song",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-as-powell-prepares-for-possible-swan-song-4638159",
+      "source": "Investing.com News",
+      "publishedAt": 1777319329000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTmV4dHBv",
+      "title": "Form 144 Nextpower Inc. For: 27 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-nextpower-inc-for-27-april-93CH-4639700",
+      "source": "Investing.com News",
+      "publishedAt": 1777319296000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGhhcm1hIGJldHMgYSBs",
+      "title": "Pharma bets a little-known form of cholesterol will underpin its next blockbuster heart drugs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/27/lpa-drugs-from-novartis-amgen-and-eli-lilly-aim-to-prevent-heart-attacks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777318138000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVyeSBzZWxlY3Rpb24g",
+      "title": "Jury selection kicks off in Musk v. Altman trial",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777318086000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlnZ2VzdCB3aW5uZXIg",
+      "title": "Biggest winner of the amended Microsoft-OpenAI deal — plus, mixed news for Eli Lilly",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/27/biggest-winner-of-the-amended-microsoft-openai-deal-plus-mixed-news-for-lilly.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777316968000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW50ZWxsaWEgVGhlcmFw",
+      "title": "Intellia Therapeutics says its Crispr-based treatment succeeds in pivotal trial",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/27/crispr-gene-editing-intellia-trial.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777316908000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhLCBJbnRlbCBj",
+      "title": "Nvidia, Intel call buyers defy the dip in chip stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/27/nvidia-intel-call-buyers-defy-the-dip-in-chip-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777316386000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJlbnQgb2lsIHByaWNl",
+      "title": "Brent oil prices top $108 per barrel after Iran peace talks unravel",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/26/oil-price-iran-war-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777316350000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,96 +303,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QnJlbnQgb2lsIHByaWNl",
-      "title": "Brent oil prices top $108 per barrel after Iran peace talks unravel",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/26/oil-price-iran-war-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777315540000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29sb21iaWFuIHBlc28g",
-      "title": "Colombian peso drops 2.36% as leftist leads presidential polls",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/colombian-peso-drops-236-as-leftist-leads-presidential-polls-93CH-4639640",
-      "source": "Investing.com News",
-      "publishedAt": 1777315426000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIHJhaXNlcyBM",
-      "title": "Stifel raises Ligand Pharma stock price target on XOMA acquisition",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-raises-ligand-pharma-stock-price-target-on-xoma-acquisition-93CH-4639639",
-      "source": "Investing.com News",
-      "publishedAt": 1777315390000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWljcm9zb2Z0IGFuZCBP",
-      "title": "Microsoft and OpenAI rework alliance: Exclusivity ends as both seek flexibility",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/microsoft-shares-slide-2-as-openai-partnership-shifts-to-nonexclusive-4638933",
-      "source": "Investing.com News",
-      "publishedAt": 1777315319000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBnYWlu",
-      "title": "Oil prices gain as Hormuz disruptions persist after U.S.-Iran talks see setback",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-surge-over-2-as-usiran-peace-talks-dither-hormuz-disruptions-remain-4637510",
-      "source": "Investing.com News",
-      "publishedAt": 1777315277000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEdp",
-      "title": "Form DEF 14A Gilead Sciences Inc For: 27 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-gilead-sciences-inc-for-27-april-93CH-4639638",
-      "source": "Investing.com News",
-      "publishedAt": 1777315161000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmF5IERhbGlvIHNheXMg",
       "title": "Ray Dalio says Kevin Warsh shouldn&apos;t cut interest rates in a ‘stagflation’ era",
       "summary": "",
@@ -202,51 +312,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGhhcm1hIGJldHMgYSBs",
-      "title": "Pharma bets a little-known form of cholesterol will underpin its next blockbuster heart drugs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/lpa-drugs-from-novartis-amgen-and-eli-lilly-aim-to-prevent-heart-attacks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777314817000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29sZSBBbGxlbiBjaGFy",
-      "title": "Cole Allen charged with trying to assassinate Trump at WHCD event",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/cole-allen-whcd-arraigment-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777314269000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IFdhbGwgU3RyZWV0",
-      "title": "New Wall Street research touts our long-held view on AI and cybersecurity stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/street-research-adopts-our-long-held-view-on-ai-and-cybersecurity-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777313470000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -283,21 +348,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SnVyeSBzZWxlY3Rpb24g",
-      "title": "Jury selection kicks off in Musk v. Altman trial",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777311062000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgYmFsbHJvb20g",
       "title": "Trump ballroom lawsuit plaintiff rejects DOJ demand to drop case after &apos;assassination attempt&apos;",
       "summary": "",
@@ -310,21 +360,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhLCBJbnRlbCBj",
-      "title": "Nvidia, Intel call buyers defy the dip in chip stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/nvidia-intel-call-buyers-defy-the-dip-in-chip-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777309291000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -370,21 +405,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RG9taW5vJmFwb3M7cyBQ",
-      "title": "Domino&apos;s Pizza stock falls on disappointing sales — and CEO thinks more chains will follow",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/dominos-pizza-dpz-earnings-stock-falls-on-weak-sales.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777307190000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -514,21 +534,6 @@
       "url": "https://www.cnbc.com/2026/04/27/gm-f-stla-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1777289401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWxsaWEgVGhlcmFw",
-      "title": "Intellia Therapeutics says its Crispr-based treatment succeeds in pivotal trial",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/crispr-gene-editing-intellia-trial.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777287661000,
       "lang": "en-US",
       "topics": [
         "macro"
