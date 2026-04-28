@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777386888537,
-  "crawlUpdatedAt": 1777386888537,
+  "updatedAt": 1777395574884,
+  "crawlUpdatedAt": 1777395574884,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,284 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VW5pdGVkIEFyYWIgRW1p",
-      "title": "United Arab Emirates to leave OPEC May 1, energy chief says still committed to oil price stability",
+      "id": "Investing.com News-U3luYXB0aWNzIENQTyBW",
+      "title": "Synaptics CPO Vikram Gupta sells $143,809 in company stock",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/uae-opec-oil-iran.html",
+      "url": "https://www.investing.com/news/insider-trading-news/synaptics-cpo-vikram-gupta-sells-143809-in-company-stock-93CH-4642447",
+      "source": "Investing.com News",
+      "publishedAt": 1777394827000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFtaWUgRGltb24gd2Fy",
+      "title": "Jamie Dimon warns of &apos;some kind of bond crisis&apos; ahead as global debt risks build",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777386759000,
+      "publishedAt": 1777394800000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgUGVudGFp",
+      "title": "Form 13G Pentair PLC For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-pentair-plc-for-28-april-93CH-4642446",
+      "source": "Investing.com News",
+      "publishedAt": 1777394789000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29jYS1Db2xhIHRvcHMg",
-      "title": "Coca-Cola tops estimates, raises earnings outlook as global beverage demand rises",
+      "id": "Investing.com News-Rm9ybSAxM0cgUG9wdWxh",
+      "title": "Form 13G Popular Inc For: 28 April",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/coca-cola-ko-q1-2026-earnings.html",
+      "url": "https://www.investing.com/news/filings/form-13g-popular-inc-for-28-april-93CH-4642445",
+      "source": "Investing.com News",
+      "publishedAt": 1777394769000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgU0NIQVBF",
+      "title": "Form 13F SCHAPER BENZ & WISE INVESTMENT COUNSEL INC/WI For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-schaper-benz--wise-investment-counsel-incwi-for-28-april-93CH-4642444",
+      "source": "Investing.com News",
+      "publishedAt": 1777394764000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgRFVGRiAm",
+      "title": "Form 13F DUFF & PHELPS INVESTMENT MANAGEMENT CO For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-duff--phelps-investment-management-co-for-28-april-93CH-4642443",
+      "source": "Investing.com News",
+      "publishedAt": 1777394759000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQW5nZWxl",
+      "title": "Form 13F Angeles Investment Advisors For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-angeles-investment-advisors-for-28-april-93CH-4642442",
+      "source": "Investing.com News",
+      "publishedAt": 1777394751000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgR29sZGVu",
+      "title": "Form 13F Golden State Wealth Management For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-golden-state-wealth-management-for-28-april-93CH-4642441",
+      "source": "Investing.com News",
+      "publishedAt": 1777394750000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgTlRWIEFz",
+      "title": "Form 13F NTV Asset Management LLC For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-ntv-asset-management-llc-for-28-april-93CH-4642440",
+      "source": "Investing.com News",
+      "publishedAt": 1777394749000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V29tZW4gdGVuZCB0byBi",
+      "title": "Women tend to be &apos;risk-appropriate&apos; investors, expert says: How that helps them in volatile markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/women-investors-market-volatility.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777386177000,
+      "publishedAt": 1777394748000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgU2VhZHJp",
+      "title": "Form 13G Seadrill Ltd For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-seadrill-ltd-for-28-april-93CH-4642439",
+      "source": "Investing.com News",
+      "publishedAt": 1777394742000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgU211cmZp",
+      "title": "Form 13G Smurfit Westrock PLC For: 28 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-smurfit-westrock-plc-for-28-april-93CH-4642438",
+      "source": "Investing.com News",
+      "publishedAt": 1777394740000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBpcyAmYXBvczti",
+      "title": "U.S. is &apos;being humiliated by Iran,&apos; says Germany&apos;s Merz, as Europe&apos;s patience wanes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/us-humiliated-germany-merz-europe-iran-war-energy-prices-fuel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777394342000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmV0Qmx1ZSBpcyBmdWxs",
+      "title": "JetBlue is full-steam ahead on Fort Lauderdale, regardless of Spirit&apos;s fate",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/jetblue-fort-lauderdale-flights.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777393435000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlyYnVzIHJlcG9ydHMg",
+      "title": "Airbus reports falling profts as jet deliveries slow",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/airbus-air-q1-earnings-stock-boeing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777393382000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3AtZWQ6IEluIGJsb2Nr",
+      "title": "Op-ed: In blocking Meta-Manus deal, China sent a powerful reminder to Mark Zuckerberg and U.S. market about AI race",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/china-meta-manus-ai-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777392582000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBzaGFyZXMgbG9v",
+      "title": "Meta shares look &apos;iffy&apos; into earnings. How to trade it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/meta-shares-look-iffy-into-earnings-how-to-trade-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777391635000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R00gcmFpc2VzIDIwMjYg",
+      "title": "GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street&apos;s earnings expectations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777391544000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RE9KJmFwb3M7cyBoYW5k",
+      "title": "DOJ&apos;s handling of Epstein files to get congressional watchdog scrutiny",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/jeffrey-epstein-doj-gao-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777391131000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -48,7 +305,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777385722000,
+      "publishedAt": 1777391102000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +315,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R00gcmFpc2VzIDIwMjYg",
-      "title": "GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street&apos;s earnings expectations",
+      "id": "CNBC Markets-V29ya2luZyBsb25nZXIg",
+      "title": "Working longer isn’t a foolproof retirement plan — 46% of 2025 retirees left earlier than planned, survey finds",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
+      "url": "https://www.cnbc.com/2026/04/28/early-retirement.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777385533000,
+      "publishedAt": 1777391101000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +330,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmVybnN0ZWluIHJhaXNl",
-      "title": "Bernstein raises Molina Healthcare stock price target on medical costs",
+      "id": "CNBC Markets-UnlhbmFpcuKAmXMgT+KA",
+      "title": "Ryanair’s O’Leary warns European airlines could fail if jet fuel price doesn&apos;t fall",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-molina-healthcare-stock-price-target-on-medical-costs-93CH-4641945",
-      "source": "Investing.com News",
-      "publishedAt": 1777385465000,
+      "url": "https://www.cnbc.com/2026/04/28/ryanair-ceo-oil-europe-airlines-fail-jet-fuel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777390017000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUJDIGZhY2VzIHJlbmV3",
+      "title": "ABC faces renewed Trump backlash as Kimmel says comments &apos;not, by any stretch&apos; call for violence",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/trump-jimmy-kimmel-monologue-disney-abc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777389571000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,135 +360,30 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmVybnN0ZWluIHJlaXRl",
-      "title": "Bernstein reiterates Boeing stock rating on production progress",
+      "id": "CNBC Markets-Q29jYS1Db2xhIHRvcHMg",
+      "title": "Coca-Cola tops estimates, raises earnings outlook as global beverage demand rises",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-boeing-stock-rating-on-production-progress-93CH-4641944",
-      "source": "Investing.com News",
-      "publishedAt": 1777385465000,
+      "url": "https://www.cnbc.com/2026/04/28/coca-cola-ko-q1-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777389437000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VW5pdGVkIEFyYWIgRW1p",
+      "title": "United Arab Emirates to leave OPEC May 1, energy chief says still committed to oil price stability",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/uae-opec-oil-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777389172000,
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGVlcmluayByYWlzZXMg",
-      "title": "Leerink raises Rocket Pharmaceuticals stock price target on PRV sale",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/leerink-raises-rocket-pharmaceuticals-stock-price-target-on-prv-sale-93CH-4641943",
-      "source": "Investing.com News",
-      "publishedAt": 1777385459000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVuY2htYXJrIG1haW50",
-      "title": "Benchmark maintains Stagwell stock rating ahead of earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-maintains-stagwell-stock-rating-ahead-of-earnings-93CH-4641942",
-      "source": "Investing.com News",
-      "publishedAt": 1777385453000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVuY2htYXJrIHJlaXRl",
-      "title": "Benchmark reiterates Magnite stock rating on CTV growth potential",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-reiterates-magnite-stock-rating-on-ctv-growth-potential-93CH-4641941",
-      "source": "Investing.com News",
-      "publishedAt": 1777385451000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVuY2htYXJrIHJlaXRl",
-      "title": "Benchmark reiterates Alliance Resource Partners stock rating on strong earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-reiterates-alliance-resource-partners-stock-rating-on-strong-earnings-93CH-4641940",
-      "source": "Investing.com News",
-      "publishedAt": 1777385451000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2V5QmFuYyBjdXRzIFBh",
-      "title": "KeyBanc cuts Paylocity stock price target on moderated growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/keybanc-cuts-paylocity-stock-price-target-on-moderated-growth-outlook-93CH-4641939",
-      "source": "Investing.com News",
-      "publishedAt": 1777385451000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVwYXkgc2hhcmVzIHJh",
-      "title": "Repay shares rally on raised outlook amid Forager takeover bid",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/repay-shares-rally-on-raised-outlook-amid-forager-takeover-bid-93CH-4641938",
-      "source": "Investing.com News",
-      "publishedAt": 1777385444000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2V5QmFuYyByYWlzZXMg",
-      "title": "KeyBanc raises Cadence Design shares price target on strong results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/keybanc-raises-cadence-design-shares-price-target-on-strong-results-93CH-4641937",
-      "source": "Investing.com News",
-      "publishedAt": 1777385442000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FwaXRhIGFubm91bmNl",
-      "title": "Capita announces board changes ahead of May AGM",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/capita-announces-board-changes-ahead-of-may-agm-93CH-4641936",
-      "source": "Investing.com News",
-      "publishedAt": 1777385435000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -235,21 +402,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnlhbmFpcuKAmXMgT+KA",
-      "title": "Ryanair’s O’Leary warns European airlines could fail if jet fuel price doesn&apos;t fall",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/ryanair-ceo-oil-europe-airlines-fail-jet-fuel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777385101000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -313,21 +465,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V29ya2luZyBsb25nZXIg",
-      "title": "Working longer isn’t a foolproof retirement plan — 46% of 2025 retirees left earlier than planned, survey finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/early-retirement.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777381843000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Tm92YXJ0aXMgQ0VPIHdh",
       "title": "Novartis CEO warns reality of Trump&apos;s drug pricing policy will set in over &apos;the next 18 months&apos;",
       "summary": "",
@@ -337,6 +474,21 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSZhcG9zO3MgbmV3",
+      "title": "Meta&apos;s new AI model shows early promise, but investors want to see Zuckerberg&apos;s strategy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777379401000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -358,42 +510,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSZhcG9zO3MgbmV3",
-      "title": "Meta&apos;s new AI model shows early promise, but investors want to see Zuckerberg&apos;s strategy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777379401000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGVjaCZhcG9zO3MgaHlw",
       "title": "Tech&apos;s hyperscalers face Wall Street for first time since U.S. Iran war sent oil prices soaring",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/28/tech-hyperscalers-q1-earnings-after-iran-war-lifts-energy-ai-prices.html",
       "source": "CNBC Markets",
       "publishedAt": 1777377601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhcmJ1Y2tzJmFwb3M7",
-      "title": "Starbucks&apos; turnaround enters a new phase: Investors want stronger profits served",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/starbucks-brian-niccol-turnaround-investing-club.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777371137000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -435,21 +557,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiBpcyAmYXBvczti",
-      "title": "U.S. is &apos;being humiliated by Iran,&apos; says Germany&apos;s Merz, as Europe&apos;s patience wanes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/us-humiliated-germany-merz-europe-iran-war-energy-prices-fuel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777367916000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QlAgcHJvZml0cyBtb3Jl",
       "title": "BP profits more than double, beating expectations as Iran war boosts oil prices",
       "summary": "",
@@ -462,36 +569,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7RHJhY29uaWFu",
-      "title": "&apos;Draconian development&apos; in Meta-Manus deal draws the line in China&apos;s AI race with the U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777365100000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0FUTCBkZWNsaW5lcyBu",
-      "title": "CATL declines nearly 7% as the Chinese battery maker unveils $5 billion share placement",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/catl-shares-slide-after-5-billion-hong-kong-share-placement-plan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777362776000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -510,72 +587,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QllEIGRyYXdzIEVVIHNj",
-      "title": "BYD draws EU scrutiny over labor abuse allegations at Hungary factory",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/byd-eu-parliament-labor-abuse-hungary-factory-investigation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777340514000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2FiYSBDYXBpdGFsIGZp",
       "title": "Saba Capital finds little appetite for tender offer of shares in Blue Owl, Starwood private credit funds",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/27/private-credit-funds-saba-capital-tender-offers-for-shares-are-below-initial-expectations.html",
       "source": "CNBC Markets",
       "publishedAt": 1777330942000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SnVkZ2UgaW4gTXVzayB2",
-      "title": "Judge in Musk v. Altman seats nine-person jury. Opening arguments start Tuesday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777330772000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVyIGNhbGxzIGJs",
-      "title": "Cramer calls blistering rally in chip stocks &apos;worrisome.&apos; How he&apos;s protecting his portfolio",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/cramer-chip-stocks-worrisome-positioning.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777329910000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29sZSBBbGxlbiBjaGFy",
-      "title": "Cole Allen charged with trying to assassinate Trump at WHCD event",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/cole-allen-whcd-arraigment-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777326262000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -594,21 +611,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmF5IERhbGlvIHNheXMg",
-      "title": "Ray Dalio says Kevin Warsh shouldn&apos;t cut interest rates in a ‘stagflation’ era",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777314976000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
