@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777360448009,
-  "crawlUpdatedAt": 1777360448009,
+  "updatedAt": 1777370190916,
+  "crawlUpdatedAt": 1777370190916,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,57 +13,44 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QlAgcHJvZml0cyBtb3Jl",
-      "title": "BP profits more than double, beating expectations as Iran war boosts oil prices",
+      "id": "CNBC Markets-Tm92YXJ0aXMgQ0VPIHdh",
+      "title": "Novartis CEO warns reality of Trump&apos;s drug pricing policy will set in over &apos;the next 18 months&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/bp-q1-earnings-oil-energy.html",
+      "url": "https://www.cnbc.com/2026/04/28/novartis-ceo-stock-earnings-mfn-trump-drug-pricing-policy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777360001000,
+      "publishedAt": 1777369778000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1ZSBBbm9tYWx5IHJh",
+      "title": "True Anomaly raises $650 million to support space interceptors for Trump&apos;s Golden Dome",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/true-anomaly-trump-golden-dome.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777369501000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
-      "title": "European markets to open higher as Trump considers Iran peace proposal",
+      "id": "CNBC Markets-Q2l0aSBVSyBDRU86ICZh",
+      "title": "Citi UK CEO: &apos;Phenomenal&apos; market resilience is keeping recession risk at bay — for now",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
+      "url": "https://www.cnbc.com/2026/04/28/citi-tiina-lee-iran-recession-war-ai-data-energy-markets-economy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777359190000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmlwcG9uIEV4cHJlc3Mg",
-      "title": "Nippon Express shares soar after Elliott discloses latest Japan stake",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nippon-express-shares-soar-after-elliott-discloses-latest-japan-stake-4640356",
-      "source": "Investing.com News",
-      "publishedAt": 1777358929000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kb25lc2lhIGNvbW11",
-      "title": "Indonesia commuter train crash toll rises to 14 as rescuers complete evacuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/indonesia-commuter-train-crash-toll-rises-to-14-as-rescuers-complete-evacuation-4640355",
-      "source": "Investing.com News",
-      "publishedAt": 1777358914000,
+      "publishedAt": 1777368720000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +60,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIHByaWNlcyB1cCAy",
-      "title": "Oil prices up 2% as no end to Iran war stand-off seems in sight",
+      "id": "Investing.com News-VHJ1bXAgdW5oYXBweSB3",
+      "title": "Trump unhappy with Iran’s latest proposal to end the war",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-no-end-to-iran-war-standoff-seems-in-sight-4640185",
+      "url": "https://www.investing.com/news/world-news/trump-not-happy-with-latest-iran-proposal-to-end-the-war-us-official-says-4640217",
       "source": "Investing.com News",
-      "publishedAt": 1777358550000,
+      "publishedAt": 1777368623000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyBjbGlt",
+      "title": "Oil prices climb as Trump considers fresh Iran proposal to reopen Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-upbeat-as-us-iran-consider-hormuz-reopening-deal-4640149",
+      "source": "Investing.com News",
+      "publishedAt": 1777368559000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHVya2V54oCZcyBUQVYg",
+      "title": "Turkey’s TAV Airports posts wider Q1 loss, shares fall over 4%",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/turkeys-tav-airports-posts-wider-q1-loss-shares-fall-over-4-93CH-4640653",
+      "source": "Investing.com News",
+      "publishedAt": 1777368510000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks turn higher amid stalled U.S.-Iran negotiations, earnings deluge",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-usiran-negotiations-stall-and-oil-climbs-4640386",
+      "source": "Investing.com News",
+      "publishedAt": 1777368382000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV4YW5zIHNoYXJlcyBq",
+      "title": "Nexans shares jump 8% on €1.5 bln Q1 sales, Republic Wire deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/nexans-hits-15-bln-q1-sales-acquires-republic-wire-to-fuel-us-grid-expansion-4640276",
+      "source": "Investing.com News",
+      "publishedAt": 1777368284000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGhhbmxheG1pIEJhbmsg",
+      "title": "Dhanlaxmi Bank shares jump 14% on strong profit growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/dhanlaxmi-bank-shares-jump-14-on-strong-profit-growth-93CH-4640640",
+      "source": "Investing.com News",
+      "publishedAt": 1777367972000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,29 +150,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBkaXBzIGJl",
-      "title": "Bitcoin dips below $77k as oil surge weighs; central bank decisions in focus",
+      "id": "Investing.com News-U2VjdXJpdGFzIFExIDIw",
+      "title": "Securitas Q1 2026 slides: margin gains overshadowed by growth concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-77k-as-oil-surge-weighs-central-bank-decisions-in-focus-4640352",
+      "url": "https://www.investing.com/news/company-news/securitas-q1-2026-slides-margin-gains-overshadowed-by-growth-concerns-93CH-4640618",
       "source": "Investing.com News",
-      "publishedAt": 1777358468000,
+      "publishedAt": 1777367925000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
       ],
-      "symbols": [
-        "BTC"
-      ],
+      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U1NBQiB0b3BzIGZpcnN0",
-      "title": "SSAB tops first-quarter earnings estimates on Europe, Americas strength",
+      "id": "Investing.com News-Q0FUTCBzaWducyA2MEdX",
+      "title": "CATL signs 60GWh sodium-ion battery deal with HyperStrong",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/ssab-tops-firstquarter-earnings-estimates-on-europe-americas-strength-4640351",
+      "url": "https://www.investing.com/news/company-news/catl-signs-60gwh-sodiumion-battery-deal-with-hyperstrong-93CH-4640617",
       "source": "Investing.com News",
-      "publishedAt": 1777358398000,
+      "publishedAt": 1777367923000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -120,12 +180,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Uml2ZXJzdG9uZSBDcmVk",
-      "title": "Riverstone Credit Opportunities Income sets AGM for May 21",
+      "id": "CNBC Markets-VS5TLiBpcyAmYXBvczti",
+      "title": "U.S. is &apos;being humiliated by Iran,&apos; says Germany&apos;s Merz, as Europe&apos;s patience wanes",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/riverstone-credit-opportunities-income-sets-agm-for-may-21-93CH-4640349",
-      "source": "Investing.com News",
-      "publishedAt": 1777358339000,
+      "url": "https://www.cnbc.com/2026/04/28/us-humiliated-germany-merz-europe-iran-war-energy-prices-fuel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777367916000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -135,12 +195,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3dlY28gUTEgcHJvZml0",
-      "title": "Sweco Q1 profit misses on Finland drag and restructuring costs",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: WPP Q1 2026 reveals revenue decline, stock uptick",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/sweco-q1-profit-misses-on-finland-drag-and-restructuring-costs-4640343",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wpp-q1-2026-reveals-revenue-decline-stock-uptick-93CH-4640616",
       "source": "Investing.com News",
-      "publishedAt": 1777358157000,
+      "publishedAt": 1777367899000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: TDK Q4 2026 sees record profits amid mixed market reaction",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tdk-q4-2026-sees-record-profits-amid-mixed-market-reaction-93CH-4640615",
+      "source": "Investing.com News",
+      "publishedAt": 1777367841000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -150,12 +225,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SGFja3NhdyBHYW1pbmcg",
-      "title": "Hacksaw Gaming posts first-quarter results ahead of estimates",
+      "id": "CNBC Markets-QlAgcHJvZml0cyBtb3Jl",
+      "title": "BP profits more than double, beating expectations as Iran war boosts oil prices",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hacksaw-gaming-posts-firstquarter-results-ahead-of-estimates-93CH-4640342",
-      "source": "Investing.com News",
-      "publishedAt": 1777358091000,
+      "url": "https://www.cnbc.com/2026/04/28/bp-q1-earnings-oil-energy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777365934000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7RHJhY29uaWFu",
+      "title": "&apos;Draconian development&apos; in Meta-Manus deal draws the line in China&apos;s AI race with the U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777365100000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -165,29 +255,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGl0dGxlYml0IExhdW5j",
-      "title": "Littlebit Launches Bitcoin Micro-Saving App as Users Accumulate Over 5 BTC in First 3 Months",
+      "id": "CNBC Markets-Q0FUTCBkZWNsaW5lcyBu",
+      "title": "CATL declines nearly 7% as the Chinese battery maker unveils $5 billion share placement",
       "summary": "",
-      "url": "https://www.investing.com/news/press-releases/littlebit-launches-bitcoin-microsaving-app-as-users-accumulate-over-5-btc-in-first-3-months-4640338",
-      "source": "Investing.com News",
-      "publishedAt": 1777357843000,
+      "url": "https://www.cnbc.com/2026/04/28/catl-shares-slide-after-5-billion-hong-kong-share-placement-plan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777362776000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
       ],
-      "symbols": [
-        "BTC"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QlAgYmVhdHMgZmlyc3Qt",
-      "title": "BP beats first-quarter profit forecasts on strong oil trading",
+      "id": "CNBC Markets-TWV0YSwgR29vZ2xlLCBP",
+      "title": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/bp-beats-firstquarter-profit-forecasts-on-strong-oil-trading-4640316",
-      "source": "Investing.com News",
-      "publishedAt": 1777357807000,
+      "url": "https://www.cnbc.com/2026/04/28/meta-google-big-tech-staff-ai-labs-investors.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777360459000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -228,57 +316,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSwgR29vZ2xlLCBP",
-      "title": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups",
+      "id": "CNBC Markets-R2VuZXJhbCBNb3RvcnMg",
+      "title": "General Motors is set to report earnings before the bell. Here&apos;s what Wall Street expects",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/meta-google-big-tech-staff-ai-labs-investors.html",
+      "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777352747000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHJpc2VzIGFzIHRy",
-      "title": "Oil rises as traders weigh Iran’s Hormuz offer and Trump’s next move",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777352434000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYS1QYWNpZmljIG1h",
-      "title": "Asia-Pacific markets trade mixed as investors assess latest U.S.-Iran signals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777347944000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0FUTCBwbHVuZ2VzIG1v",
-      "title": "CATL plunges more than 8% as the Chinese battery maker unveils $5 billion share placement",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/catl-shares-slide-after-5-billion-hong-kong-share-placement-plan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777344935000,
+      "publishedAt": 1777348861000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -330,21 +373,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3Bl4oCZcyByZWFy",
-      "title": "Europe’s rearmament push drives global military spending to record $2.9 trillion despite U.S. pullback",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/global-military-spending-record-2025-europe-asia-ukraine-sipri.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777331290000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -483,21 +511,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QnJlbnQgb2lsIHByaWNl",
-      "title": "Brent oil prices top $108 per barrel after Iran peace talks unravel",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/26/oil-price-iran-war-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777316350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhpcyBiYW5rIENFTyBs",
       "title": "This bank CEO let his AI clone handle an earnings call — now he&apos;s signing an OpenAI deal",
       "summary": "",
@@ -555,21 +568,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYmFsbHJvb20g",
-      "title": "Trump ballroom lawsuit plaintiff rejects DOJ demand to drop case after &apos;assassination attempt&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/27/trump-ballroom-whcd-doj-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777309927000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
