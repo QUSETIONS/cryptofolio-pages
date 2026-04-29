@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777492827335,
-  "crawlUpdatedAt": 1777492827335,
-  "crawlCount": 40,
+  "updatedAt": 1777498847431,
+  "crawlUpdatedAt": 1777498847431,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,90 +13,179 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-T2lsIHNvYXJzLCBzdG9j",
-      "title": "Oil soars, stocks dip on Iran worries, earnings in focus after Fed",
+      "id": "CNBC Markets-Q2hpcG90bGUgcG9zdHMg",
+      "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/stocks-retreat-on-iran-ai-concerns-as-fed-meeting-looms-4643470",
-      "source": "Investing.com News",
-      "publishedAt": 1777492526000,
+      "url": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777498827000,
       "lang": "zh-CN",
       "topics": [
-        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGVyc2hleSB0cnVzdCBz",
+      "title": "Hershey trust sells $5.65m in Hershey Co. shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/hershey-trust-sells-565m-in-hershey-co-shares-93CH-4647184",
+      "source": "Investing.com News",
+      "publishedAt": 1777498463000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmVyaXNpZ24gRVZQIERh",
+      "title": "Verisign EVP Danny McPherson sells $1.35m in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/verisign-evp-danny-mcpherson-sells-135m-in-company-stock-93CH-4647183",
+      "source": "Investing.com News",
+      "publishedAt": 1777498456000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFJp",
+      "title": "Form DEF 14A Riskified Ltd For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-riskified-ltd-for-29-april-93CH-4647182",
+      "source": "Investing.com News",
+      "publishedAt": 1777498396000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0MjRCNSBJbnRl",
+      "title": "Form 424B5 Intellia Therapeutics Inc For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-424b5-intellia-therapeutics-inc-for-29-april-93CH-4647181",
+      "source": "Investing.com News",
+      "publishedAt": 1777498388000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnVyY29uIE51dHJhU2Np",
+      "title": "Burcon NutraScience appoints Chris Bunio to board of directors",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/burcon-nutrascience-appoints-chris-bunio-to-board-of-directors-93CH-4647179",
+      "source": "Investing.com News",
+      "publishedAt": 1777498371000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: FormFactor Q1 2026 beats earnings expectations, stock rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-formfactor-q1-2026-beats-earnings-expectations-stock-rises-93CH-4647178",
+      "source": "Investing.com News",
+      "publishedAt": 1777498338000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBTcHJpbmcg",
+      "title": "Form 8K Spring Valley Acquisition Corp III For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-spring-valley-acquisition-corp-iii-for-29-april-93CH-4647176",
+      "source": "Investing.com News",
+      "publishedAt": 1777498268000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQ0hJTERS",
+      "title": "Form 13F CHILDRESS CAPITAL ADVISORS For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-childress-capital-advisors-for-29-april-93CH-4647174",
+      "source": "Investing.com News",
+      "publishedAt": 1777498266000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgR09MREVO",
+      "title": "Form 13F GOLDEN ROAD ADVISORS LLC For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-golden-road-advisors-llc-for-29-april-93CH-4647173",
+      "source": "Investing.com News",
+      "publishedAt": 1777498262000,
+      "lang": "zh-CN",
+      "topics": [
         "macro"
       ],
       "symbols": [
-        "FED"
+        "XAU"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Domino’s Pizza Q1 2026 results miss forecasts",
+      "title": "Earnings call transcript: TTM Technologies beats Q1 2026 earnings forecasts",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dominos-pizza-q1-2026-results-miss-forecasts-93CH-4646697",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ttm-technologies-beats-q1-2026-earnings-forecasts-93CH-4647172",
       "source": "Investing.com News",
-      "publishedAt": 1777492514000,
+      "publishedAt": 1777498258000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VS5TLiB3YXIgaW4gSXJh",
-      "title": "U.S. war in Iran has cost $25 billion so far, says Pentagon official",
+      "id": "CNBC Markets-RmVkIGhvbGRzIGludGVy",
+      "title": "Fed holds interest rates steady: Here&apos;s what that means for credit cards, mortgages, car loans and savings rates",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-war-in-iran-has-cost-25-billion-so-far-says-pentagon-official-4645835",
-      "source": "Investing.com News",
-      "publishedAt": 1777492495000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgdG8gaXNzdWUgcGFz",
-      "title": "US to issue passports bearing Trump’s image",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/us-to-produce-passports-bearing-trumps-image-4643104",
-      "source": "Investing.com News",
-      "publishedAt": 1777492474000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U295YmVhbiBmdXR1cmVz",
-      "title": "Soybean futures rise on higher crude oil prices and stronger crush margins",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/soybean-futures-rise-on-higher-crude-oil-prices-and-stronger-crush-margins-93CH-4646695",
-      "source": "Investing.com News",
-      "publishedAt": 1777492342000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVk4oCZcyBQb3dlbGwg",
-      "title": "Fed’s Powell to stay on as governor as central bank maintains rates as expected",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/fed-holds-key-interest-rate-steady-as-widely-anticipated-4646451",
-      "source": "Investing.com News",
-      "publishedAt": 1777492334000,
+      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rates-april.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777498149000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -108,78 +197,232 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q29ybiBmdXR1cmVzIHJl",
-      "title": "Corn futures reach one-year high on export demand, weather worries",
+      "id": "CNBC Markets-QW1hem9uIHN0b2NrIGRp",
+      "title": "Amazon stock dips even as earnings beat expectations with strong cloud growth",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/corn-futures-reach-oneyear-high-on-export-demand-weather-worries-93CH-4646694",
-      "source": "Investing.com News",
-      "publishedAt": 1777492321000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXZlcmNvcmUgSVNJIHJh",
-      "title": "Evercore ISI raises Canadian National Railway stock price target on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-raises-canadian-national-railway-stock-price-target-on-valuation-93CH-4646693",
-      "source": "Investing.com News",
-      "publishedAt": 1777492259000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFjcXVhcmllIHJhaXNl",
-      "title": "Macquarie raises Caesars Entertainment stock price target on Vegas strength",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/macquarie-raises-caesars-entertainment-stock-price-target-on-vegas-strength-93CH-4646692",
-      "source": "Investing.com News",
-      "publishedAt": 1777492259000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFjcXVhcmllIHJhaXNl",
-      "title": "Macquarie raises Rush Street Interactive stock price target on guidance boost",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/macquarie-raises-rush-street-interactive-stock-price-target-on-guidance-boost-93CH-4646691",
-      "source": "Investing.com News",
-      "publishedAt": 1777492254000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpcG90bGUgTWV4aWNh",
-      "title": "Chipotle Mexican Grill is about to report earnings. Here&apos;s what to expect",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777491601000,
+      "publishedAt": 1777498095000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2Fyc2ggaGludHMgYXQg",
+      "title": "Warsh hints at a new reading of the Fed&apos;s power over swap lines amid UAE discussion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/fed-warsh-bessent-uae-swap-lines.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777498016000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IGJlYXRz",
+      "title": "Microsoft beats on top and bottom lines with 40% Azure growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777497883000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RvY2sgaW52ZXN0b3Jz",
+      "title": "Stock investors fared very well under Powell. Bond investors, not so much",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/stock-investors-fared-very-well-under-powell-bond-investors-not-so-much.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777497721000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxwaGFiZXQgdXBzIDIw",
+      "title": "Alphabet ups 2026 capex to as much as $190 billion, expects to &apos;significantly increase&apos; in 2027",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777497671000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhJmFw",
+      "title": "Saudi Arabia&apos;s PIF to end funding of LIV Golf league after this season",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/saudi-pif-to-end-funding-liv-golf.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777497246000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5hbHlzaXM6IFRoZSBX",
+      "title": "Analysis: The Warsh revolution is coming. Powell won’t stand in the way.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/fed-powell-warsh-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777496979000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBzdG9jayBkcm9w",
+      "title": "Meta stock drops on quarterly results as &apos;internet disruptions&apos; in Iran drag down user numbers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777496931000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FydmFuYSBzdG9jayBw",
+      "title": "Carvana stock pops as used car retailer reports record first-quarter results",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/carvana-cvna-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777496549000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBj",
+      "title": "Amazon&apos;s cloud unit reports 28% sales growth, topping estimates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777495880000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFyYW1vdW50IENFTyBE",
+      "title": "Paramount CEO David Ellison wants to release 30 films annually. History and Hollywood say it&apos;s unrealistic",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/david-ellison-paramount-warner-bros-30-film-releases.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777494496000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hvY2tpbmcgVUFFIGV4",
+      "title": "Shocking UAE exit rocks OPEC, but group will still hold significant sway over the oil market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/shocking-uae-exit-rocks-opec-but-group-will-still-hold-significant-sway-over-the-oil-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777494427000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yZCByYWlzZXMgMjAy",
+      "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777493817000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpIGJldHRvcnMg",
+      "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777493506000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlsbCBBY2ttYW4mYXBv",
+      "title": "Bill Ackman&apos;s Pershing Square USA fund falls sharply in public market debut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777493230000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -189,21 +432,6 @@
       "url": "https://www.cnbc.com/2026/04/29/trump-says-its-great-that-uae-pulled-out-of-opec.html",
       "source": "CNBC Markets",
       "publishedAt": 1777491442000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJ4oCZcyBzdWJ0",
-      "title": "OpenAI’s subtle drift from Microsoft has become an aggressive move toward Amazon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/openai-drift-from-microsoft-to-amazon-turns-aggressive-after-subtlety.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777491362000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -247,21 +475,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmlsbCBBY2ttYW4mYXBv",
-      "title": "Bill Ackman&apos;s Pershing Square USA starts trading well below IPO price",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777490356000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGF5UGFsJmFwb3M7cyBu",
       "title": "PayPal&apos;s new CEO makes Venmo a standalone business unit as potential buyers circle",
       "summary": "",
@@ -292,38 +505,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSBsb29rcyB0byBy",
-      "title": "Meta looks to report fastest revenue growth since 2021",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777489727000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFqb3IgRmVkIHJhdGUg",
-      "title": "Major Fed rate dissent, Powell to stay on — plus, Boeing takes an unwarranted hit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/major-fed-rate-dissent-powell-to-stay-on-plus-boeing-takes-an-unwarranted-hit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777489632000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QnJlbnQgb2lsIHRvcHMg",
       "title": "Brent oil tops $118 after Trump says he will blockade Iran until it agrees to a nuclear deal",
       "summary": "",
@@ -335,23 +516,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIGJldHRvcnMg",
-      "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777488808000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -371,29 +535,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RmVkIGhvbGRzIGludGVy",
-      "title": "Fed holds interest rates steady: Here&apos;s what that means for credit cards, mortgages, car loans and savings rates",
+      "id": "CNBC Markets-V2UgdG91cmVkIGFuIEFJ",
+      "title": "We toured an AI data center to see how our stock names make these facilities work",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rates-april.html",
+      "url": "https://www.cnbc.com/2026/04/29/we-toured-an-ai-data-center-to-see-how-our-stocks-make-these-facilities-work.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777485799000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0JmFwb3M7",
-      "title": "Microsoft&apos;s earnings report lands after stock&apos;s worst quarterly performance since 2008",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777485567000,
+      "publishedAt": 1777488687000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -433,161 +580,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UGFyYW1vdW50IENFTyBE",
-      "title": "Paramount CEO David Ellison wants to release 30 films annually. History and Hollywood say it&apos;s unrealistic",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/david-ellison-paramount-warner-bros-30-film-releases.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777482854000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VWJlciBtYWtlcyBiaWcg",
-      "title": "Uber makes big bets on travel, hotels and AI voice bookings at annual product showcase",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/uber-ai-travel-hotels-go-get.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777480940000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TlhQIFNlbWljb25kdWN0",
-      "title": "NXP Semiconductors soars 26%, paces for its best day ever after earnings beat",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/nxp-semiconductors-stock-earnings-beat.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777480736000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgZmlyc3Qt",
-      "title": "Alphabet first-quarter results likely to show continued growth, boosted by cloud",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777478401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1hem9uIHNldCB0byBy",
-      "title": "Amazon set to report first-quarter earnings after the bell",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777478401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCBNb3RvciBpcyBz",
-      "title": "Ford Motor is set to report earnings after the bell. Here&apos;s what Wall Street expects",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777478401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29sZSBBbGxlbiB0b29r",
-      "title": "Cole Allen took selfie before Trump assassination attempt at WHCA dinner, prosecutors say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/cole-allen-photo-trump-assassination-attempt-whcd-detention.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777475942000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgRmVkIHBpY2sg",
-      "title": "Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/trump-fed-nominee-kevin-warsh-senate-approval.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777475817000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9ybWVyIEF0dG9ybmV5",
-      "title": "Former Attorney General Bondi to testify about Epstein on May 29 before House panel",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/epstein-bondi-house-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777473812000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBtaWxsaW9uLWRvbGxh",
-      "title": "A million-dollar gold bear emerges ahead of the Fed decision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/a-million-dollar-gold-bear-emerges-ahead-of-the-fed-decision.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777470847000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
       "title": "Trump threatens Iran with AI picture of himself with a gun: &apos;No more Mr. Nice guy!&apos;",
       "summary": "",
@@ -612,21 +604,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rmlyc3QgVmVnYXMtc3R5",
-      "title": "First Vegas-style casino opens in New York City",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/28/resorts-world-casino-opens-in-new-york-city.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777410150000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
