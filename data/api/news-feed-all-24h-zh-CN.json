@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777498847431,
-  "crawlUpdatedAt": 1777498847431,
-  "crawlCount": 39,
+  "updatedAt": 1777503759752,
+  "crawlUpdatedAt": 1777503759752,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,164 +13,267 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QW1hem9uIGVhcm5pbmdz",
+      "title": "Amazon earnings beat expectations with strong cloud growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777503426000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFra3QgQ09PIE5pY2hv",
+      "title": "Bakkt COO Nicholas Baes sells $21,473 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/bakkt-coo-nicholas-baes-sells-21473-in-stock-93CH-4647416",
+      "source": "Investing.com News",
+      "publishedAt": 1777503109000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIHdlaWdo",
+      "title": "Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-bloomberg-news-reports-4647415",
+      "source": "Investing.com News",
+      "publishedAt": 1777502913000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQmFuY29y",
+      "title": "Form 144 Bancorp For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-bancorp-for-29-april-93CH-4647414",
+      "source": "Investing.com News",
+      "publishedAt": 1777502904000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRVRTWSBJ",
+      "title": "Form 144 ETSY INC For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-etsy-inc-for-29-april-93CH-4647413",
+      "source": "Investing.com News",
+      "publishedAt": 1777502898000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0QvQSBDbGlt",
+      "title": "Form 13D/A Climb Bio For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13da-climb-bio-for-29-april-93CH-4647412",
+      "source": "Investing.com News",
+      "publishedAt": 1777502897000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBTLTMgWE1heCBJ",
+      "title": "Form S-3 XMax Inc For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-s3-xmax-inc-for-29-april-93CH-4647411",
+      "source": "Investing.com News",
+      "publishedAt": 1777502895000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgRmlyc3Qg",
+      "title": "Form 13G First Industrial Realty Trust Inc For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-first-industrial-realty-trust-inc-for-29-april-93CH-4647410",
+      "source": "Investing.com News",
+      "publishedAt": 1777502781000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgR0VPIEdy",
+      "title": "Form 13G GEO Group Inc/The For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-geo-group-incthe-for-29-april-93CH-4647409",
+      "source": "Investing.com News",
+      "publishedAt": 1777502745000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgRXh4b24g",
+      "title": "Form 13G Exxon Mobil Corp For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-exxon-mobil-corp-for-29-april-93CH-4647408",
+      "source": "Investing.com News",
+      "publishedAt": 1777502732000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciByZXZl",
+      "title": "Jim Cramer reveals the secret to finding a winning tech stock in this market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777502730000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgR2xhY2ll",
+      "title": "Form 13G Glacier Bancorp Inc For: 29 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-glacier-bancorp-inc-for-29-april-93CH-4647407",
+      "source": "Investing.com News",
+      "publishedAt": 1777502729000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IGNhbGxz",
+      "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777502683000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UXVhbGNvbW0gc2hhcmVz",
+      "title": "Qualcomm shares soar 16% on CEO comments about China orders, hyperscaler customer",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777502157000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxwaGFiZXQgdXBzIDIw",
+      "title": "Alphabet ups 2026 capex to as much as $190 billion, expects to &apos;significantly increase&apos; in 2027",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777501946000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhJmFw",
+      "title": "Saudi Arabia&apos;s PIF to end funding of LIV Golf league after this season",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/saudi-pif-to-end-funding-liv-golf.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777501076000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yZCByYWlzZXMgMjAy",
+      "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777499099000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q2hpcG90bGUgcG9zdHMg",
       "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1777498827000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVyc2hleSB0cnVzdCBz",
-      "title": "Hershey trust sells $5.65m in Hershey Co. shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/hershey-trust-sells-565m-in-hershey-co-shares-93CH-4647184",
-      "source": "Investing.com News",
-      "publishedAt": 1777498463000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmVyaXNpZ24gRVZQIERh",
-      "title": "Verisign EVP Danny McPherson sells $1.35m in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/verisign-evp-danny-mcpherson-sells-135m-in-company-stock-93CH-4647183",
-      "source": "Investing.com News",
-      "publishedAt": 1777498456000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFJp",
-      "title": "Form DEF 14A Riskified Ltd For: 29 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-riskified-ltd-for-29-april-93CH-4647182",
-      "source": "Investing.com News",
-      "publishedAt": 1777498396000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0MjRCNSBJbnRl",
-      "title": "Form 424B5 Intellia Therapeutics Inc For: 29 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-424b5-intellia-therapeutics-inc-for-29-april-93CH-4647181",
-      "source": "Investing.com News",
-      "publishedAt": 1777498388000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnVyY29uIE51dHJhU2Np",
-      "title": "Burcon NutraScience appoints Chris Bunio to board of directors",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/burcon-nutrascience-appoints-chris-bunio-to-board-of-directors-93CH-4647179",
-      "source": "Investing.com News",
-      "publishedAt": 1777498371000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: FormFactor Q1 2026 beats earnings expectations, stock rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-formfactor-q1-2026-beats-earnings-expectations-stock-rises-93CH-4647178",
-      "source": "Investing.com News",
-      "publishedAt": 1777498338000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA4SyBTcHJpbmcg",
-      "title": "Form 8K Spring Valley Acquisition Corp III For: 29 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-spring-valley-acquisition-corp-iii-for-29-april-93CH-4647176",
-      "source": "Investing.com News",
-      "publishedAt": 1777498268000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQ0hJTERS",
-      "title": "Form 13F CHILDRESS CAPITAL ADVISORS For: 29 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-childress-capital-advisors-for-29-april-93CH-4647174",
-      "source": "Investing.com News",
-      "publishedAt": 1777498266000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgR09MREVO",
-      "title": "Form 13F GOLDEN ROAD ADVISORS LLC For: 29 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-golden-road-advisors-llc-for-29-april-93CH-4647173",
-      "source": "Investing.com News",
-      "publishedAt": 1777498262000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: TTM Technologies beats Q1 2026 earnings forecasts",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ttm-technologies-beats-q1-2026-earnings-forecasts-93CH-4647172",
-      "source": "Investing.com News",
-      "publishedAt": 1777498258000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -197,21 +300,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1hem9uIHN0b2NrIGRp",
-      "title": "Amazon stock dips even as earnings beat expectations with strong cloud growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777498095000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2Fyc2ggaGludHMgYXQg",
       "title": "Warsh hints at a new reading of the Fed&apos;s power over swap lines amid UAE discussion",
       "summary": "",
@@ -229,21 +317,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGJlYXRz",
-      "title": "Microsoft beats on top and bottom lines with 40% Azure growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777497883000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RvY2sgaW52ZXN0b3Jz",
       "title": "Stock investors fared very well under Powell. Bond investors, not so much",
       "summary": "",
@@ -253,36 +326,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgdXBzIDIw",
-      "title": "Alphabet ups 2026 capex to as much as $190 billion, expects to &apos;significantly increase&apos; in 2027",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777497671000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhJmFw",
-      "title": "Saudi Arabia&apos;s PIF to end funding of LIV Golf league after this season",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/saudi-pif-to-end-funding-liv-golf.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777497246000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -376,21 +419,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCByYWlzZXMgMjAy",
-      "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777493817000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -547,21 +575,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates surge to nearly four-week high as Iran headlines impact markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/mortgage-rates-surge-iran-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777484235000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
