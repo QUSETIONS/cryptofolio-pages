@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777571518803,
-  "crawlUpdatedAt": 1777571518803,
+  "updatedAt": 1777578254163,
+  "crawlUpdatedAt": 1777578254163,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,42 +13,179 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SlBNb3JnYW4gaGlyZXMg",
-      "title": "JPMorgan hires KBW’s Mihok as MD in banking team",
+      "id": "CNBC Markets-Qmx1ZSBPd2wgc2hhcmVz",
+      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-hires-kbws-mihok-as-md-in-banking-team-4650823",
-      "source": "Investing.com News",
-      "publishedAt": 1777571318000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgTm9ydGh3",
-      "title": "Form 144 Northwest Bancshares For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-northwest-bancshares-for-30-april-93CH-4650822",
-      "source": "Investing.com News",
-      "publishedAt": 1777571294000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gZ2V0IGJy",
-      "title": "Trump to get briefed on potential Iran strikes before war hits key 60-day deadline: Reports",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/trump-iran-war-centcom-hormuz-congress.html",
+      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777571277000,
+      "publishedAt": 1777577815000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBm",
+      "title": "Goldman Sachs favors hyperscalers over chipmakers in AI infrastructure",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-favors-hyperscalers-over-chipmakers-in-ai-infrastructure-93CH-4651070",
+      "source": "Investing.com News",
+      "publishedAt": 1777577575000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29sb21iaWHigJlzIGNl",
+      "title": "Colombia’s central bank surprises with interest rate hold after spat over rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/colombia-bank-board-looks-set-to-raise-rate-ministers-attendance-in-question-4647626",
+      "source": "Investing.com News",
+      "publishedAt": 1777577528000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgYWRkcyBWaWV0bmFt",
+      "title": "US adds Vietnam and EU, removes Argentina, Mexico from trade investigation watchlists",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-adds-vietnam-and-eu-removes-argentina-mexico-from-trade-investigation-watchlists-4651043",
+      "source": "Investing.com News",
+      "publishedAt": 1777577491000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVUgQWRkZWQgdG8gVVMg",
+      "title": "EU Added to US Trade Watchlist Over Unfair Practices",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/eu-added-to-us-trade-watchlist-over-unfair-practices-93CH-4651069",
+      "source": "Investing.com News",
+      "publishedAt": 1777577488000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWNrbWFuIGJsYW1lcyBy",
+      "title": "Ackman blames retail investors for new fund’s 18% drop",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ackman-blames-retail-investors-for-new-funds-18-drop-93CH-4651068",
+      "source": "Investing.com News",
+      "publishedAt": 1777577475000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEsIFVTIGVjb25v",
+      "title": "China, US economic officials trade barbs in ’candid’ call ahead of Trump-Xi summit",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/china-us-trade-chiefs-had-candid-call-weeks-ahead-of-expected-trumpxi-summit-4650185",
+      "source": "Investing.com News",
+      "publishedAt": 1777577453000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgRklSU1Qg",
+      "title": "Form 13G FIRST CITIZENS BANCSHARES INC /DE/ For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-first-citizens-bancshares-inc-de-for-30-april-93CH-4651064",
+      "source": "Investing.com News",
+      "publishedAt": 1777577450000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgRklERUxJ",
+      "title": "Form 13F FIDELITY D & D BANCORP INC For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-fidelity-d--d-bancorp-inc-for-30-april-93CH-4651063",
+      "source": "Investing.com News",
+      "publishedAt": 1777577446000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgS2VzdHJh",
+      "title": "Form 13F Kestra Advisory Services For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-kestra-advisory-services-for-30-april-93CH-4651062",
+      "source": "Investing.com News",
+      "publishedAt": 1777577446000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgTU9ORVkg",
+      "title": "Form 13F MONEY CONCEPTS CAPITAL CORP For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-money-concepts-capital-corp-for-30-april-93CH-4651061",
+      "source": "Investing.com News",
+      "publishedAt": 1777577445000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIHRoZSBGZWQ6",
+      "title": "Inside the Fed: Powell vows he won&apos;t be a &apos;shadow chair,&apos; but a Warsh clash will be tough to avoid",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777577106000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -60,12 +197,121 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RWxpIExpbGx5IHNoYXJl",
-      "title": "Eli Lilly shares surge on a beat-and-raise, proving the stock&apos;s swoon was a mistake",
+      "id": "CNBC Markets-VS5TLiBzZW5hdG9ycyBi",
+      "title": "U.S. senators ban themselves from prediction markets trading",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/eli-lilly-shares-surge-on-a-beat-and-raise-proving-the-stocks-swoon-was-a-mistake.html",
+      "url": "https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777571167000,
+      "publishedAt": 1777576939000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2lnbnMgZXhl",
+      "title": "Trump signs executive order expanding retirement account access for workers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777576896000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJlbnQgb2lsIHB1bGxz",
+      "title": "Brent oil pulls back after climbing to $126 per barrel on U.S.-Iran escalation fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777576521000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-REhTIHNodXRkb3duIHNl",
+      "title": "DHS shutdown set to end after House passes bill to fund most of agency, including TSA",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/congress-dhs-tsa-funding.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777576160000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdG8gZ2V0IGJy",
+      "title": "Trump to get briefed on potential Iran strikes before war hits key 60-day deadline: Reports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/trump-iran-war-centcom-hormuz-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777574804000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIFdlYWx0aDog",
+      "title": "Inside Wealth: Markets are underpricing the risk of Middle East pullback in AI, says tech investor Jack Selby",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/investor-jack-selby-markets-underpricing-middle-east-ai-pullback-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777574671000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UyZQIDUwMCBoZWFkcyBm",
+      "title": "S&P 500 heads for its best month since 2020 — plus, Apple earnings on deck",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/sp-500-heads-for-its-best-month-since-2020-plus-apple-earnings-on-deck.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777574422000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xlIGNsb3VkIGdy",
+      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777574409000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -75,123 +321,65 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSBTdHJh",
-      "title": "Guggenheim Strategic Opportunities fund trustee buys $99,729 in stock",
+      "id": "CNBC Markets-VHJ1bXAgdGFwcyBOaWNv",
+      "title": "Trump taps Nicole Saphier for surgeon general after pulling Casey Means nomination",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/guggenheim-strategic-opportunities-fund-trustee-buys-99729-in-stock-93CH-4650821",
-      "source": "Investing.com News",
-      "publishedAt": 1777571148000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQ2VkYXIg",
-      "title": "Form 13F Cedar Mountain Advisors For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-cedar-mountain-advisors-for-30-april-93CH-4650820",
-      "source": "Investing.com News",
-      "publishedAt": 1777571142000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgV2lsbGlh",
-      "title": "Form 13F William Howard & Co Financial Advisors Inc For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-william-howard--co-financial-advisors-inc-for-30-april-93CH-4650819",
-      "source": "Investing.com News",
-      "publishedAt": 1777571142000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgRGl2ZXJz",
-      "title": "Form 13F Diversified Investment Strategies For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-diversified-investment-strategies-for-30-april-93CH-4650818",
-      "source": "Investing.com News",
-      "publishedAt": 1777571142000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQkxPREdF",
-      "title": "Form 13F BLODGETT WEALTH ADVISORS For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-blodgett-wealth-advisors-for-30-april-93CH-4650817",
-      "source": "Investing.com News",
-      "publishedAt": 1777571137000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgS09STklU",
-      "title": "Form 13F KORNITZER CAPITAL MANAGEMENT INC /KS For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-kornitzer-capital-management-inc-ks-for-30-april-93CH-4650816",
-      "source": "Investing.com News",
-      "publishedAt": 1777571135000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQVJCT1Ig",
-      "title": "Form 13F ARBOR CAPITAL MANAGEMENT INC /ADV For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-arbor-capital-management-inc-adv-for-30-april-93CH-4650815",
-      "source": "Investing.com News",
-      "publishedAt": 1777571134000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgUGFsYWRp",
-      "title": "Form 13F Paladin Advisory Group For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-paladin-advisory-group-for-30-april-93CH-4650814",
-      "source": "Investing.com News",
-      "publishedAt": 1777571134000,
+      "url": "https://www.cnbc.com/2026/04/30/trump-taps-nicole-saphier-for-surgeon-general-after-pulling-casey-means.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777574313000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration finalizes federal student loan caps—what it means for borrowers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/grad-school-loan-caps-final-rule.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777574232000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgYm9vbTogQmlnIFRl",
+      "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777573603000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgZXhlY3MgdG8g",
+      "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777571788000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -216,21 +404,6 @@
       "url": "https://www.cnbc.com/2026/04/30/apples-stock-has-gone-nowhere-for-6-months-traders-expect-a-wild-ride-thursday-night.html",
       "source": "CNBC Markets",
       "publishedAt": 1777570714000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgZXhlY3MgdG8g",
-      "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per bettors on Kalshi",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777570555000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -270,72 +443,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-REhTIHNodXRkb3duIHNl",
-      "title": "DHS shutdown set to end after House passes bill to fund most of agency, including TSA",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/congress-dhs-tsa-funding.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777570093000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBzZW5hdG9ycyBi",
-      "title": "U.S. senators ban themselves from prediction markets trading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777569994000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RWxpIExpbGx5IGJsb3dz",
       "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
       "source": "CNBC Markets",
       "publishedAt": 1777569772000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qmx1ZSBPd2wgc2hhcmVz",
-      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777569027000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gc2lnbiBl",
-      "title": "Trump to sign executive order expanding retirement account access for workers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777567818000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -372,21 +485,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIGNsb3VkIGdy",
-      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777564698000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -484,21 +582,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QnJlbnQgb2lsIHB1bGxz",
-      "title": "Brent oil pulls back after climbing to $126 per barrel on U.S.-Iran escalation fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777557353000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29yZSBpbmZsYXRpb24g",
       "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
       "summary": "",
@@ -529,36 +612,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Qm9heiBXZWluc3RlaW7i",
-      "title": "Boaz Weinstein’s activist investor Saba seizes control of UK tech fund after bitter SpaceX feud",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/boaz-weinsteins-hedge-fund-saba-uk-tech-fund-spacex.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777556074000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW4gYSB0aWdodCBqb2Ig",
-      "title": "In a tight job market, small businesses may offer opportunities for new college grads",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/college-grads-small-business-jobs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777554001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TW9yZSB0aGFuIDIwLDAw",
       "title": "More than 20,000 people are taking Eli Lilly&apos;s weight loss pill Foundayo, CEO says",
       "summary": "",
@@ -570,53 +623,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWVyY2sgYmVhdHMgcXVh",
-      "title": "Merck beats quarterly estimates on strength of Keytruda and new products, narrows outlook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/merck-mrk-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777551964000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2h5",
-      "title": "Here&apos;s why surging oil prices may not derail the consumer trade",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777547787000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIGhvbGRzIHJhdGVz",
-      "title": "Fed holds rates steady but with highest level of dissent since 1992",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777490728000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
