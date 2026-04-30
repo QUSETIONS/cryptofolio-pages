@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777559722118,
-  "crawlUpdatedAt": 1777559722118,
+  "updatedAt": 1777566385882,
+  "crawlUpdatedAt": 1777566385882,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,19 +13,304 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SmVyb21lIFBvd2VsbCBz",
-      "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism &apos;unprecedented&apos;",
+      "id": "CNBC Markets-Qmx1ZSBPd2wgc2hhcmVz",
+      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX loan",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777559482000,
+      "publishedAt": 1777566026000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZXhwZWN0ZWQg",
+      "title": "Trump expected to sign executive order expanding retirement account access for workers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777565750000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2Ugc3RyaXBzIE1B",
+      "title": "House strips MAHA-hated pesticide provisions from farm bill",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/congress-house-maha-pesticide-farm-bill-roundup-bayer-glyphosate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777565748000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9ydHVnYWwgc3RvY2tz",
+      "title": "Portugal stocks higher at close of trade; PSI up 1.47%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-147-4650492",
+      "source": "Investing.com News",
+      "publishedAt": 1777565383000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF0V2VzdCBlYXJuaW5n",
+      "title": "NatWest earnings in the spotlight after estimate downgrades",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/natwest-earnings-in-the-spotlight-after-estimate-downgrades-93CH-4650491",
+      "source": "Investing.com News",
+      "publishedAt": 1777565374000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEtl",
+      "title": "Form DEF 14A Keycorp For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-keycorp-for-30-april-93CH-4650490",
+      "source": "Investing.com News",
+      "publishedAt": 1777565362000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFN5",
+      "title": "Form DEF 14A Sypris Solutions For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-sypris-solutions-for-30-april-93CH-4650489",
+      "source": "Investing.com News",
+      "publishedAt": 1777565354000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQVNTT0NJ",
+      "title": "Form 144 ASSOCIATED BANC-CORP For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-associated-banccorp-for-30-april-93CH-4650488",
+      "source": "Investing.com News",
+      "publishedAt": 1777565353000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgU0NIV0FC",
+      "title": "Form 144 SCHWAB CHARLES CORP For: 30 April",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-schwab-charles-corp-for-30-april-93CH-4650487",
+      "source": "Investing.com News",
+      "publishedAt": 1777565351000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0aGVybGFuZHMgc3Rv",
+      "title": "Netherlands stocks higher at close of trade; AEX up 1.70%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-170-4650486",
+      "source": "Investing.com News",
+      "publishedAt": 1777565349000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVycmEgSW5ub3ZhdHVt",
+      "title": "Terra Innovatum reframes SOLO reactor as modular power play for data centers",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/terra-innovatum-reframes-solo-reactor-as-modular-power-play-for-data-centers-4650485",
+      "source": "Investing.com News",
+      "publishedAt": 1777565333000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXRhbHkgc3RvY2tzIGhp",
+      "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.92%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-092-4650484",
+      "source": "Investing.com News",
+      "publishedAt": 1777565315000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWduaWNvIEVhZ2xlIGVh",
+      "title": "Agnico Eagle earnings up next: Can margins hold after gold retreat?",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/agnico-eagle-earnings-up-next-can-margins-hold-after-gold-retreat-93CH-4650483",
+      "source": "Investing.com News",
+      "publishedAt": 1777565294000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [
-        "FED"
+        "XAU"
       ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2VtaW5pIHNldHMgc2ln",
+      "title": "Gemini sets sights on derivatives expansion after winning key U.S. regulatory approval",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/gemini-sets-sights-on-derivatives-expansion-after-winning-key-us-regulatory-approval.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777565179000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgZXllcyBpUGhv",
+      "title": "Apple eyes iPhone growth in first earnings report since Tim Cook&apos;s announced exit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777564801000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xlIGNsb3VkIGdy",
+      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777564698000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29sZSBBbGxlbiBhZ3Jl",
+      "title": "Cole Allen agrees to stay in jail before Trump assassination attempt trial",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/trump-assassination-cole-allen-detention-whcd.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777564573000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyc2hleSBzYXlzIEdM",
+      "title": "Hershey says GLP-1s are driving higher gum and mint sales",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/hershey-gum-mints-ozempic-breath.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777564149000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FsaWZvcm5pYSBnYXMg",
+      "title": "California gas prices hit $6 per gallon as fuel costs jump nearly 30 cents in a week across the U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/california-gas-price-iran-war-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777563848000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxpIExpbGx5IGJsb3dz",
+      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777563839000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -35,7 +320,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/30/alphabet-meta-stock-ai-capex-spend.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777559339000,
+      "publishedAt": 1777563261000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -45,162 +330,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQU1BWk9O",
-      "title": "Form 144 AMAZON COM INC For: 30 April",
+      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
+      "title": "Bank of England faces the &apos;most difficult combination,&apos; says governor Bailey as energy prices soar",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-amazon-com-inc-for-30-april-93CH-4649982",
-      "source": "Investing.com News",
-      "publishedAt": 1777559052000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ09NRk9S",
-      "title": "Form 144 COMFORT SYSTEMS USA INC For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-comfort-systems-usa-inc-for-30-april-93CH-4649981",
-      "source": "Investing.com News",
-      "publishedAt": 1777559051000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgVW51bSBH",
-      "title": "Form 144 Unum Group For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-unum-group-for-30-april-93CH-4649980",
-      "source": "Investing.com News",
-      "publishedAt": 1777559051000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-aVJoeXRobSBlYXJuaW5n",
-      "title": "iRhythm earnings on deck: Can cardiac monitor maker sustain growth?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/irhythm-earnings-on-deck-can-cardiac-monitor-maker-sustain-growth-93CH-4649979",
-      "source": "Investing.com News",
-      "publishedAt": 1777559050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgVmlyIEJp",
-      "title": "Form 144 Vir Biotechnology For: 30 April",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-vir-biotechnology-for-30-april-93CH-4649978",
-      "source": "Investing.com News",
-      "publishedAt": 1777559050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JpdCBSZWFsIEVzdGF0",
-      "title": "Grit Real Estate suspends trading on LSE and SEM from Friday",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/grit-real-estate-suspends-trading-on-lse-and-sem-from-friday-93CH-4649977",
-      "source": "Investing.com News",
-      "publishedAt": 1777559047000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEVsaSBMaWxs",
-      "title": "Why is Eli Lilly stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/why-is-eli-lilly-stock-surging-today-93CH-4649976",
-      "source": "Investing.com News",
-      "publishedAt": 1777559014000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVyaXQgTWVkaWNhbCBl",
-      "title": "Merit Medical earnings on deck: Can M&A strategy revive stock?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/merit-medical-earnings-on-deck-can-ma-strategy-revive-stock-93CH-4649975",
-      "source": "Investing.com News",
-      "publishedAt": 1777558988000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW5lcnN5cyBzdG9jayBo",
-      "title": "Enersys stock hits all-time high at 212.22 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/enersys-stock-hits-alltime-high-at-21222-usd-93CH-4649974",
-      "source": "Investing.com News",
-      "publishedAt": 1777558927000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhwb25lbnQgZWFybmlu",
-      "title": "Exponent earnings on deck as revenue growth question looms",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/exponent-earnings-on-deck-as-revenue-growth-question-looms-93CH-4649973",
-      "source": "Investing.com News",
-      "publishedAt": 1777558926000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2FpZCBoaXMg",
-      "title": "Trump said his blockade would cause Iran&apos;s oil industry to &apos;explode&apos; this week. Why that won&apos;t happen",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/trump-blockade-iran-oil-strait-hormuz.html",
+      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777558066000,
+      "publishedAt": 1777562130000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -215,7 +350,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/30/treasury-i-bond-rate-through-october-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777558027000,
+      "publishedAt": 1777561595000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -223,6 +358,68 @@
       "symbols": [
         "UST10Y"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkRBIHByb3Bvc2VzIGV4",
+      "title": "FDA proposes excluding Novo, Lilly weight loss drugs from bulk compounding list in win for the companies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/fda-novo-lilly-glp-1s-compounding.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777561335000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVtb2NyYXRzIHVyZ2Ug",
+      "title": "Democrats urge CFTC to rein in prediction markets sports betting, insider trading",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/congress-kalshi-polymarket-prediction-markets-cftc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777559797000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmVyb21lIFBvd2VsbCBz",
+      "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism &apos;unprecedented&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777559764000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2FpZCBoaXMg",
+      "title": "Trump said his blockade would cause Iran&apos;s oil industry to &apos;explode&apos; this week. Why that won&apos;t happen",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/04/30/trump-blockade-iran-oil-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777558066000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -263,36 +460,6 @@
       "url": "https://www.cnbc.com/2026/04/30/boaz-weinsteins-hedge-fund-saba-uk-tech-fund-spacex.html",
       "source": "CNBC Markets",
       "publishedAt": 1777556074000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxpIExpbGx5IGJsb3dz",
-      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777556021000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2VtaW5pIHNldHMgc2ln",
-      "title": "Gemini sets sights on derivatives expansion after winning key U.S. regulatory approval",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/gemini-sets-sights-on-derivatives-expansion-after-winning-key-us-regulatory-approval.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777555227000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -377,102 +544,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWxwaGFiZXQgdXBzIDIw",
-      "title": "Alphabet ups 2026 capex to as much as $190 billion, expects to &apos;significantly increase&apos; in 2027",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777551148000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England keeps rates on hold at 3.75% as Iran war shakes outlook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/bank-of-england-april-2026-interest-rate-decision-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777550828000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hhcmVzIG9mIEplZXAg",
-      "title": "Shares of Jeep maker Stellantis fall as much as 10% after first-quarter results",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/stellantis-q1-earnings-jeep-autos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777549287000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Vm9sa3N3YWdlbiB3YXJu",
-      "title": "Volkswagen warns planned cost cuts are not enough after 14% drop in first-quarter profit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/volkswagen-q1-earnings-autos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777549284000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2h5",
       "title": "Here&apos;s why surging oil prices may not derail the consumer trade",
       "summary": "",
       "url": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html",
       "source": "CNBC Markets",
       "publishedAt": 1777547787000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiB3ZWlnaHMgJmFw",
-      "title": "U.S. weighs &apos;reduction&apos; of troops in Germany as Trump&apos;s feud with Berlin deepens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/us-reviews-cutting-troop-numbers-in-germany-amid-trumps-berlin-feud-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777543760000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHVyZ2Ug",
-      "title": "Democrats urge CFTC to rein in prediction markets sports betting, insider trading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/congress-kalshi-polymarket-prediction-markets-cftc.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777539601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -497,21 +574,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2Ftc3VuZyBwcm9maXQg",
-      "title": "Samsung profit surges over eightfold to beat estimates as AI boom fuels memory chip crunch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777534478000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWljcm9zb2Z0IGNhbGxz",
       "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices",
       "summary": "",
@@ -527,21 +589,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSBzdG9jayBkcm9w",
-      "title": "Meta stock drops on quarterly results as &apos;internet disruptions&apos; in Iran drag down user numbers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777513037000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW50aHJvcGljIGluIHRh",
       "title": "Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI",
       "summary": "",
@@ -554,51 +601,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHZvdyB0",
-      "title": "Democrats vow to fight back after Supreme Court Voting Rights Act ruling",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/democrats-supreme-court-voting-rights-act.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777503220000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UXVhbGNvbW0gc2hhcmVz",
-      "title": "Qualcomm shares soar 16% on CEO comments about China orders, hyperscaler customer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777502157000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpcG90bGUgcG9zdHMg",
-      "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777498827000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
