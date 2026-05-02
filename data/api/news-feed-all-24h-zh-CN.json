@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777755173515,
-  "crawlUpdatedAt": 1777755173515,
-  "crawlCount": 21,
+  "updatedAt": 1777758755933,
+  "crawlUpdatedAt": 1777758755933,
+  "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4654790",
+      "source": "Investing.com News",
+      "publishedAt": 1777756803000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmlnaHRpbmcgcmVhY2hl",
+      "title": "Fighting reaches outskirts of Kostiantynivka, a Ukrainian stronghold",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/fighting-reaches-outskirts-of-ukraines-stronghold-kostiantynivka-4654763",
+      "source": "Investing.com News",
+      "publishedAt": 1777756346000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-RGFuY28gc2Vla3MgU3Vw",
       "title": "Danco seeks Supreme Court stay of ruling that pauses mail-order access to abortion drugs",
@@ -126,36 +156,6 @@
       "url": "https://www.investing.com/news/world-news/iran-offers-strait-deal-trump-dissatisfied-but-prefers-nonmilitary-path-4654784",
       "source": "Investing.com News",
       "publishedAt": 1777744836000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3Bpcml0IEFpcmxpbmVz",
-      "title": "Spirit Airlines shuts down, industry’s first Iran war casualty",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spirit-airlines-prepares-to-cease-operations-after-rescue-deal-stalls-wsj-reports-4653846",
-      "source": "Investing.com News",
-      "publishedAt": 1777741608000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGViYW5lc2UgYXJteSBj",
-      "title": "Lebanese army chief and US general meet on Lebanon security",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/lebanese-army-chief-and-us-general-meet-on-lebanon-security-4654782",
-      "source": "Investing.com News",
-      "publishedAt": 1777739051000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -294,36 +294,6 @@
       "url": "https://www.cnbc.com/2026/05/01/epstein-bard-college-president-leon-botstein-retire.html",
       "source": "CNBC Markets",
       "publishedAt": 1777691524000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
-      "title": "Trump says he&apos;s raising EU auto tariffs to 25%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777672059000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGVsbHMgQ29u",
-      "title": "Trump tells Congress hostilities in Iran &apos;have terminated&apos; as war powers deadline hits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/trump-rejects-iran-peace-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777669683000,
       "lang": "zh-CN",
       "topics": [
         "macro"
