@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777746570123,
-  "crawlUpdatedAt": 1777746570123,
-  "crawlCount": 28,
+  "updatedAt": 1777750681367,
+  "crawlUpdatedAt": 1777750681367,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,23 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UmVjZW50IGluZmxhdGlv",
+      "title": "Recent inflation data was ’bad news,’ Fed’s Goolsbee says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/recent-inflation-data-was-bad-news-feds-goolsbee-says-4654785",
+      "source": "Investing.com News",
+      "publishedAt": 1777749150000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VGFpd2FuIHByZXNpZGVu",
       "title": "Taiwan president arrives in Eswatini after blaming China for cancellation of prior trip",
@@ -181,21 +198,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T1BFQysgc2V0IGZvciBh",
-      "title": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-on-small-oil-output-quota-hike-without-uae-sources-say-4654770",
-      "source": "Investing.com News",
-      "publishedAt": 1777731867000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIFUuUy4tSXJhbiB3",
       "title": "The U.S.-Iran war is coming for your credit score and mortgage application",
       "summary": "",
@@ -352,85 +354,6 @@
       "url": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
       "source": "CNBC Markets",
       "publishedAt": 1777666318000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXRsYXNzaWFuIHN0b2Nr",
-      "title": "Atlassian stock soars 29% after earnings show strong cloud, data center growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777663265000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIGRpc3NlbnRlcnMg",
-      "title": "Fed dissenters explain &apos;no&apos; votes, saying they disagreed with hinting next move would be a cut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777662915000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG5l",
-      "title": "Trump&apos;s new executive order, with help from Congress, could increase U.S. retirement wealth up to 77%, researchers find",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777662009000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8ga2VlcHMgcHJl",
-      "title": "Pirro keeps pressure on Fed&apos;s Powell despite dropping probe",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/fed-powell-pirro-investigation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777661966000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXh4b24gTW9iaWwgQ0VP",
-      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: ‘The market hasn’t seen the full impact’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777661904000,
       "lang": "en-US",
       "topics": [
         "macro"
