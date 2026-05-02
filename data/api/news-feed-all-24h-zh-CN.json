@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777729153578,
-  "crawlUpdatedAt": 1777729153578,
-  "crawlCount": 35,
+  "updatedAt": 1777733825882,
+  "crawlUpdatedAt": 1777733825882,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,15 +13,45 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TmV0ZmxpeOKAmXMgJmFw",
-      "title": "Netflix’s &apos;Beef&apos; highlights a $5,000 deductible — how to handle your own healthcare costs",
+      "id": "Investing.com News-T1BFQysgc2V0IGZvciBh",
+      "title": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/02/health-insurance-deductible-netflix-beef.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777728601000,
+      "url": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-on-small-oil-output-quota-hike-without-uae-sources-say-4654770",
+      "source": "Investing.com News",
+      "publishedAt": 1777731867000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3Bpcml0IEFpcmxpbmVz",
+      "title": "Spirit Airlines shuts down, industry’s first Iran war casualty",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/spirit-airlines-prepares-to-cease-operations-after-rescue-deal-stalls-wsj-reports-4653846",
+      "source": "Investing.com News",
+      "publishedAt": 1777731197000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZG9lcyBub3QgdGhp",
+      "title": "US does not think airline industry needs bailout, has access to cash",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-does-not-think-airline-industry-needs-bailout-has-access-to-cash-4654777",
+      "source": "Investing.com News",
+      "publishedAt": 1777731160000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -33,10 +63,55 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/02/us-iran-war-credit-score-loans-mortgage-rates.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777727838000,
+      "publishedAt": 1777731155000,
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgcmFsbGllcyBz",
+      "title": "Trump rallies seniors in Florida as Republicans face tough elections",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-heads-to-florida-stronghold-in-first-public-event-since-foiled-attack-4652366",
+      "source": "Investing.com News",
+      "publishedAt": 1777730836000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvbG9uZ2VkIEhvcm11",
+      "title": "Prolonged Hormuz closure raises risk of Eurozone recession",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/prolonged-hormuz-closure-raises-risk-of-eurozone-recession-4654775",
+      "source": "Investing.com News",
+      "publishedAt": 1777729141000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV0ZmxpeOKAmXMgJmFw",
+      "title": "Netflix’s &apos;Beef&apos; highlights a $5,000 deductible — how to handle your own healthcare costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/02/health-insurance-deductible-netflix-beef.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777728601000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -118,36 +193,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyBO",
-      "title": "Trump says US Navy acting ’like pirates’ to carry out naval blockade of Iranian ports",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-us-navy-acting-like-pirates-to-carry-out-naval-blockade-of-iranian-ports-4654724",
-      "source": "Investing.com News",
-      "publishedAt": 1777723960000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3Bpcml0IEFpcmxpbmVz",
-      "title": "Spirit Airlines shuts down, industry’s first Iran war casualty",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spirit-airlines-prepares-to-cease-operations-after-rescue-deal-stalls-wsj-reports-4653846",
-      "source": "Investing.com News",
-      "publishedAt": 1777723588000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TXVzayB0ZXN0aW1vbnkg",
       "title": "Musk testimony dominated first week Musk v. Altman. &apos;You can&apos;t just steal a charity&apos;",
       "summary": "",
@@ -190,53 +235,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxtb3N0IGEgcXVhcnRl",
-      "title": "Almost a quarter of jobs worldwide could be exposed to AI: BofA",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/almost-a-quarter-of-jobs-worldwide-could-be-exposed-to-ai-bofa-4654771",
-      "source": "Investing.com News",
-      "publishedAt": 1777722988000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBob3ZlcnMg",
-      "title": "Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748",
-      "source": "Investing.com News",
-      "publishedAt": 1777722112000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T1BFQysgc2V0IHRvIHB1",
-      "title": "OPEC+ set to push ahead with June output increase despite UAE exit - Reuters",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/opec-set-to-push-ahead-with-june-output-increase-despite-uae-exit-4654765",
-      "source": "Investing.com News",
-      "publishedAt": 1777721373000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -528,21 +526,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-THV0bmljayBnZXRzIGdy",
-      "title": "Lutnick gets grilling on Nvidia chip sales to China in letter from Sen. Chris Coons",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/nvidia-chips-jensen-huang-h200-lutnick-chris-coons.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777644512000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
