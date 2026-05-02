@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777733825719,
-  "crawlUpdatedAt": 1777733825719,
-  "crawlCount": 34,
+  "updatedAt": 1777737378865,
+  "crawlUpdatedAt": 1777737378865,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,84 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-QmVya3NoaXJlIENFTyBB",
+      "title": "Berkshire CEO Abel says ’we’re back to first base’ in wildfire litigation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-ceo-abel-says-were-back-to-first-base-in-wildfire-litigation-4654780",
+      "source": "Investing.com News",
+      "publishedAt": 1777736192000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWlybGluZXMgc2NyYW1i",
+      "title": "Airlines scramble to help stranded Spirit passengers after budget carrier collapses",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/airlines-scramble-to-help-stranded-spirit-passengers-after-budget-carrier-collapses-4654779",
+      "source": "Investing.com News",
+      "publishedAt": 1777735109000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIFMmUCA1MDAgYW5k",
+      "title": "The S&P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/02/the-sp-500-and-nasdaq-kept-their-record-rallies-going-here-are-3-key-takeaways-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777734789000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX",
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVya3NoaXJlIEhhdGhh",
+      "title": "Berkshire Hathaway reports 18% jump in Q1 profit as cash pile nears $400 billion",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/berkshire-hathaway-posts-18-jump-in-q1-profit-as-cash-pile-nears-400-billion-4654772",
+      "source": "Investing.com News",
+      "publishedAt": 1777733775000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlyZmFyZSBhbWlkIEly",
+      "title": "Airfare amid Iran war: Buy now or wait out the conflict? Experts weigh the risks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/02/iran-war-airfare-travel-airlines-plane-tickets-when-to-buy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777732502000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-T1BFQysgc2V0IGZvciBh",
       "title": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
@@ -139,51 +217,6 @@
       "url": "https://www.investing.com/news/world-news/taiwan-president-arrives-in-eswatini-after-blaming-china-for-cancellation-of-prior-trip-4654769",
       "source": "Investing.com News",
       "publishedAt": 1777726125000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIENvbW1l",
-      "title": "China’s Commerce Ministry blocks US sanctions against five refineries",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-4654774",
-      "source": "Investing.com News",
-      "publishedAt": 1777725027000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVya3NoaXJlIEhhdGhh",
-      "title": "Berkshire Hathaway posts 18% jump in Q1 profit as cash pile nears $400 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/berkshire-hathaway-posts-18-jump-in-q1-profit-as-cash-pile-nears-400-billion-4654772",
-      "source": "Investing.com News",
-      "publishedAt": 1777724676000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVya3NoaXJlIEhhdGhh",
-      "title": "Berkshire Hathaway operating profit rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-operating-profit-rises-4654773",
-      "source": "Investing.com News",
-      "publishedAt": 1777724311000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -328,21 +361,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2hhdCBTYW5kaXNrJmFw",
-      "title": "What Sandisk&apos;s play on surging memory prices means for our tech stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/what-sandisks-play-on-surging-memory-prices-means-for-our-tech-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777663672000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXRsYXNzaWFuIHN0b2Nr",
       "title": "Atlassian stock soars 29% after earnings show strong cloud, data center growth",
       "summary": "",
@@ -466,66 +484,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBtYWpvciBzaGlmdCBj",
-      "title": "A major shift could soon happen in the Mag 7",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/a-major-mag-7-shift-with-alphabets-market-cap-set-to-pass-nvidias.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777649747000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgaXMgd2lu",
-      "title": "Alphabet is winning the AI revolution. Here&apos;s how Mike Khouw is trading it",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/alphabet-is-winning-the-ai-revolution-heres-how-mike-khouw-is-trading-it.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777649617000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUsgZXhwb3J0cyB0byBV",
-      "title": "UK exports to U.S. plunge by 25% after Trump&apos;s &apos;liberation day&apos; tariffs blitz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777648304000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNrIGJpbGxp",
-      "title": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/01/elon-musk-billionaire-bill-elections-progressive-challengers-delaware.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777647839000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
