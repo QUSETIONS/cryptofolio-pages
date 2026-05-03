@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777833012557,
-  "crawlUpdatedAt": 1777833012557,
+  "updatedAt": 1777837067851,
+  "crawlUpdatedAt": 1777837067851,
   "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,70 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QmlnIFRlY2ggZWFybmlu",
+      "title": "Big Tech earnings show how big, smart spending can be rewarded by the market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777836018000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBLYXNoa2Fy",
+      "title": "Fed’s Kashkari warns Iran war raises inflation risks, rate cuts uncertain",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-kashkari-warns-iran-war-raises-inflation-risks-rate-cuts-uncertain-4654897",
+      "source": "Investing.com News",
+      "publishedAt": 1777835587000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGlycm8gYXBwZWFycyB0",
+      "title": "Pirro appears to drop plans to appeal criminal investigation of Fed Chair Powell",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777834722000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGlycm8gcmV2ZWFscyBu",
+      "title": "Pirro reveals new Trump attack evidence; Cole Allen removed from &apos;suicide precautions&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/trump-assassination-cole-allen-suicide-pirro.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777834678000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-R2VybWFuIGNoYW5jZWxs",
       "title": "German chancellor downplays row with Trump after troop drawdown announced",
@@ -156,68 +220,6 @@
       "url": "https://www.investing.com/news/world-news/taiwan-president-defiant-as-begins-eswatini-trip-china-calls-him-a-rat-4654801",
       "source": "Investing.com News",
       "publishedAt": 1777828373000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8gcmV2ZWFscyBu",
-      "title": "Pirro reveals new Trump attack evidence; Cole Allen challenges &apos;suicide precautions&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/trump-assassination-cole-allen-suicide-pirro.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777826506000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsIEFsdW1pbml1",
-      "title": "Global Aluminium market shaken but resilient amid Middle East conflict",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/global-aluminium-market-shaken-but-resilient-amid-middle-east-conflict-4654886",
-      "source": "Investing.com News",
-      "publishedAt": 1777826036000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8gYXBwZWFycyB0",
-      "title": "Pirro appears to drop plans to appeal criminal investigation of Fed Chair Powell",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777823971000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
-      "title": "Here are the 3 big things we&apos;re watching in the stock market in the week ahead",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777823296000,
       "lang": "en-US",
       "topics": [
         "macro"
