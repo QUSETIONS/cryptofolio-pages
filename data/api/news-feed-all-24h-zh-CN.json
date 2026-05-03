@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777845229519,
-  "crawlUpdatedAt": 1777845229519,
-  "crawlCount": 24,
+  "updatedAt": 1777848847165,
+  "crawlUpdatedAt": 1777848847165,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QmlnIFRlY2ggZWFybmlu",
+      "title": "Big Tech earnings show how big, smart spending can be rewarded by the market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777847469000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGZhbGxzIGFmdGVy",
+      "title": "Oil falls after Trump says US would help free ships stranded in Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-after-trump-says-us-would-help-free-ships-stranded-in-strait-of-hormuz-4654909",
+      "source": "Investing.com News",
+      "publishedAt": 1777846709000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3Bpcml0IHNheXMgbW9z",
+      "title": "Spirit says most customers refunded, staff returned after shutdown",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/spirit-nearly-done-processing-customer-refunds-after-shutdown-4654900",
+      "source": "Investing.com News",
+      "publishedAt": 1777845990000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWtyYWluZSBzZWVzIHBh",
+      "title": "Ukraine sees path to getting Japanese arms after Tokyo eases export rules",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/ukraine-sees-path-to-getting-japanese-arms-after-tokyo-eases-export-rules-4654908",
+      "source": "Investing.com News",
+      "publishedAt": 1777845628000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
       "title": "Trump says U.S. will &apos;free&apos; ships trapped in Persian Gulf by Strait of Hormuz closure",
@@ -133,72 +193,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3Bpcml0IHNheXMgbW9z",
-      "title": "Spirit says most customers refunded, staff returned after shutdown",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spirit-nearly-done-processing-customer-refunds-after-shutdown-4654900",
-      "source": "Investing.com News",
-      "publishedAt": 1777842754000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-QUkgYm9vbSBmYWNlcyBy",
       "title": "AI boom faces reality check as returns lag behind massive spending",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/ai-boom-faces-reality-check-as-returns-lag-behind-massive-spending-4654903",
       "source": "Investing.com News",
       "publishedAt": 1777842657000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyB0",
-      "title": "Trump says US to help free up ships in Strait of Hormuz starting Monday morning",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-says-us-to-help-free-up-ships-in-strait-of-hormuz-starting-monday-morning-4654901",
-      "source": "Investing.com News",
-      "publishedAt": 1777841311000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNv4oCZcyBydWxp",
-      "title": "Mexico’s ruling morena party appoints Adriana Montiel as new leader",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexicos-ruling-morena-party-appoints-adriana-montiel-as-new-leader-4654899",
-      "source": "Investing.com News",
-      "publishedAt": 1777836967000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlnIFRlY2ggZWFybmlu",
-      "title": "Big Tech earnings show how big, smart spending can be rewarded by the market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777836018000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -291,6 +291,21 @@
       "url": "https://www.cnbc.com/2026/05/03/why-some-americans-are-buying-simpler-cars.html",
       "source": "CNBC Markets",
       "publishedAt": 1777813201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T1BFQysgYW5ub3VuY2Vz",
+      "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777807734000,
       "lang": "zh-CN",
       "topics": [
         "macro"
