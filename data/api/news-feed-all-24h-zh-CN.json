@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777823771547,
-  "crawlUpdatedAt": 1777823771547,
-  "crawlCount": 21,
+  "updatedAt": 1777827680117,
+  "crawlUpdatedAt": 1777827680117,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,68 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-UGlycm8gcmV2ZWFscyBu",
+      "title": "Pirro reveals new Trump attack evidence; Cole Allen challenges &apos;suicide precautions&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/trump-assassination-cole-allen-suicide-pirro.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777826506000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2xvYmFsIEFsdW1pbml1",
+      "title": "Global Aluminium market shaken but resilient amid Middle East conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/global-aluminium-market-shaken-but-resilient-amid-middle-east-conflict-4654886",
+      "source": "Investing.com News",
+      "publishedAt": 1777826036000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1pZCBsZWFrcywgSnVz",
+      "title": "Amid leaks, Justice Gorsuch says US Supreme Court needs room for ’candid conversations’",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/amid-leaks-justice-gorsuch-says-us-supreme-court-needs-room-for-candid-conversations-4654885",
+      "source": "Investing.com News",
+      "publishedAt": 1777825469000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGlycm8gYXBwZWFycyB0",
+      "title": "Pirro appears to drop plans to appeal criminal investigation of Fed Chair Powell",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777823971000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
       "title": "Here are the 3 big things we&apos;re watching in the stock market in the week ahead",
@@ -105,21 +167,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UGlycm8gcmV2ZWFscyBu",
-      "title": "Pirro reveals new Trump attack evidence; Cole Allen challenges &apos;suicide precautions&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/trump-assassination-cole-allen-suicide-pirro.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777821913000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-SXNyYWVsIGNvdXJ0IGV4",
       "title": "Israel court extends detention of Gaza flotilla activists",
       "summary": "",
@@ -156,36 +203,6 @@
       "url": "https://www.investing.com/news/politics-news/us-attorney-pirro-says-she-has-evidence-officer-was-shot-during-white-house-correspondents-dinner-4654845",
       "source": "Investing.com News",
       "publishedAt": 1777821504000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Betr Entertainment sees growth in Q3 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-betr-entertainment-sees-growth-in-q3-2026-93CH-4654879",
-      "source": "Investing.com News",
-      "publishedAt": 1777821042000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Capstone Copper Q1 2026 sees record EBITDA and net income",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-capstone-copper-q1-2026-sees-record-ebitda-and-net-income-93CH-4654878",
-      "source": "Investing.com News",
-      "publishedAt": 1777820981000,
       "lang": "zh-CN",
       "topics": [
         "macro"
