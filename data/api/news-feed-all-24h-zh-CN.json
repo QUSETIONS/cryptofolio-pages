@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777918912066,
-  "crawlUpdatedAt": 1777918912066,
+  "updatedAt": 1777925034185,
+  "crawlUpdatedAt": 1777925034185,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,312 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
-      "title": "Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz",
+      "id": "CNBC Markets-VVBTLCBGZWRFeCBzdG9j",
+      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
+      "url": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777918714000,
+      "publishedAt": 1777925000000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWZ0ZXIgU0NPVFVTIFZv",
+      "title": "After SCOTUS Voting Rights ruling, Jeffries ramps up quest to redistrict New York",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/scotus-jeffries-redistrict-new-york.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777924593000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgbGF1bmNoZXMg",
+      "title": "Trump launches bid to open Strait of Hormuz, Iran strikes ships, UAE port",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles-4654934",
+      "source": "Investing.com News",
+      "publishedAt": 1777924519000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SnVkZ2Ug4oCZZGlzdHVy",
+      "title": "Judge ’disturbed’ over treatment of Trump gala shooting suspect",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/judge-disturbed-over-treatment-of-trump-gala-shooting-suspect-4657196",
+      "source": "Investing.com News",
+      "publishedAt": 1777924487000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9ydGh3ZXN0IEJhbmNz",
+      "title": "Northwest Bancshares CFO Douglas Schosser buys $20,883 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/northwest-bancshares-cfo-douglas-schosser-buys-20883-in-stock-93CH-4657195",
+      "source": "Investing.com News",
+      "publishedAt": 1777924330000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gQ29tbWlz",
+      "title": "European Commission is in contact with Anthropic on Mythos, Dombrovskis says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/european-commission-is-in-contact-with-anthropic-on-mythos-dombrovskis-says-4657194",
+      "source": "Investing.com News",
+      "publishedAt": 1777924162000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WnlwaHJhIGxhdW5jaGVz",
+      "title": "Zyphra launches AI platform powered by AMD GPUs",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/zyphra-launches-ai-platform-powered-by-amd-gpus-93CH-4657193",
+      "source": "Investing.com News",
+      "publishedAt": 1777924148000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hpdGUgaG91c2UgY29u",
+      "title": "White house considers vetting AI Models before they are released, NYT reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/white-house-considers-vetting-ai-models-before-they-are-released-nyt-reports-4657192",
+      "source": "Investing.com News",
+      "publishedAt": 1777924143000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnkgdG8g",
+      "title": "US Treasury to borrow $189 billion in Q2, higher than expected",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-treasury-to-borrow-189-billion-in-q2-higher-than-expected-4657191",
+      "source": "Investing.com News",
+      "publishedAt": 1777924119000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hldnJvbiBDRU8gdm9p",
+      "title": "Chevron CEO voices concern over Strait of Hormuz ship safety",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/chevron-ceo-voices-concern-over-strait-of-hormuz-ship-safety-4657190",
+      "source": "Investing.com News",
+      "publishedAt": 1777923986000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gQ29tbWlz",
+      "title": "European Commission assessing Anthropic’s Mythos AI model implications",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/european-commission-assessing-anthropics-mythos-ai-model-implications-93CH-4657189",
+      "source": "Investing.com News",
+      "publishedAt": 1777923898000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Vmlhdmkgc29sdXRpb25z",
+      "title": "Viavi solutions SVP sells $445,935 in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/viavi-solutions-svp-sells-445935-in-common-stock-93CH-4657188",
+      "source": "Investing.com News",
+      "publishedAt": 1777923807000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
+      "title": "Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777923073000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJhZGVycyBhcmUgZG91",
+      "title": "Traders are doubtful Cohen&apos;s GameStop can pull off monster eBay acquisition",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/traders-are-doubtful-cohens-gamestop-can-pull-off-monster-ebay-acquisition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777923048000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IENoaW5lc2UgY2Fy",
+      "title": "How Chinese carmaker Geely put roots in the U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/chinese-carmaker-geely.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777922569000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGlycm8gYWJhbmRvbnMg",
+      "title": "Pirro abandons plan to appeal Powell subpoenas in Fed investigation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777921649000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYXR0YWNrIGRl",
+      "title": "Trump attack defendant Cole Allen under harsher jail conditions than Jan. 6 defendants: Judge",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/trump-cole-allen-jail-jan-6-judge-whcd.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777921613000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIHRlYW1z",
+      "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777920920000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Tm92byBOb3JkaXNr4oCZ",
+      "title": "Novo Nordisk’s Wegovy head start on pills forces investors to rethink Eli Lilly&apos;s GLP-1 dominance",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777919482000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCZhcG9zO3MgYmVo",
+      "title": "What&apos;s behind Eli Lilly&apos;s down-and-up day after last week&apos;s post-earnings surge",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/whats-behind-eli-lillys-down-and-up-day-after-last-weeks-surge.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777919376000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -33,229 +327,13 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
       "source": "CNBC Markets",
-      "publishedAt": 1777918638000,
+      "publishedAt": 1777919047000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYXR0YWNrIGRl",
-      "title": "Trump attack defendant Cole Allen under harsher jail conditions than Jan. 6 defendants: judge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/trump-cole-allen-jail-jan-6-judge-whcd.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777918479000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmVvbmMgcHJlc2lkZW50",
-      "title": "Neonc president Amir Heshmatpour buys $41,592 of common stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/neonc-president-amir-heshmatpour-buys-41592-of-common-stock-93CH-4657096",
-      "source": "Investing.com News",
-      "publishedAt": 1777918388000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJpdGFpbiBpbiB0YWxr",
-      "title": "Britain in talks to join EU’s $105 billion Ukraine loan program",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/britain-in-talks-to-join-eus-105-billion-ukraine-loan-program-93CH-4657095",
-      "source": "Investing.com News",
-      "publishedAt": 1777918320000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Group 1 Automotive Q1 2026 misses forecast",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-group-1-automotive-q1-2026-misses-forecast-93CH-4657094",
-      "source": "Investing.com News",
-      "publishedAt": 1777918258000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Tenet Healthcare beats Q1 2026 EPS expectations",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tenet-healthcare-beats-q1-2026-eps-expectations-93CH-4657091",
-      "source": "Investing.com News",
-      "publishedAt": 1777918057000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgZmFtaWx54oCZ",
-      "title": "Trump family’s crypto project sues billionaire backer Justin Sun",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-familys-crypto-project-sues-billionaire-backer-justin-sun-4656739",
-      "source": "Investing.com News",
-      "publishedAt": 1777918055000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBu",
-      "title": "Amazon&apos;s next big logistics bet rips a page from its AWS playbook and rattles rivals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/amazons-next-big-logistics-bet-rips-a-page-from-its-aws-playbook-and-rattles-rivals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777918016000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1BaXJsaW5l",
-      "title": "Factbox-Airlines cancel flights in response to Middle East conflict",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-in-response-to-middle-east-conflict-4657090",
-      "source": "Investing.com News",
-      "publishedAt": 1777918005000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Upbound Group beats Q1 2026 EPS, revenue misses",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-upbound-group-beats-q1-2026-eps-revenue-misses-93CH-4657089",
-      "source": "Investing.com News",
-      "publishedAt": 1777917996000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVk4oCZcyBXaWxsaWFt",
-      "title": "Fed’s Williams says policy consensus stronger than vote suggests",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/feds-williams-says-policy-consensus-stronger-than-vote-suggests-93CH-4657088",
-      "source": "Investing.com News",
-      "publishedAt": 1777917961000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Alicorp Q1 2026 sees earnings beat, stock up 4.83%",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alicorp-q1-2026-sees-earnings-beat-stock-up-483-93CH-4657087",
-      "source": "Investing.com News",
-      "publishedAt": 1777917906000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q1NYIGxhdW5jaGVzIHdl",
-      "title": "CSX launches website to aid stakeholders in UP-NS merger review",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/csx-launches-website-to-aid-stakeholders-in-upns-merger-review-93CH-4657086",
-      "source": "Investing.com News",
-      "publishedAt": 1777917899000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Tm92byBOb3JkaXNr4oCZ",
-      "title": "Novo Nordisk’s Wegovy pill head start forces investors to rethink Eli Lilly&apos;s GLP-1 dominance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777917893000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VVBTLCBGZWRFeCBzdG9j",
-      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777917886000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -330,23 +408,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIHRlYW1z",
-      "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777913191000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -456,21 +517,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V29ybGQgQ3VwIHByaXpl",
-      "title": "World Cup prize pool nears $900 million as FIFA boosts payouts. Here’s who gets what",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/fifa-world-cup-team-payouts-ticket-prices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777904880000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UHJpdmF0ZSBzdHVkZW50",
       "title": "Private student loan market set to expand under new federal loan caps — with risks for grad school borrowers",
       "summary": "",
@@ -541,51 +587,6 @@
       "url": "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
       "source": "CNBC Markets",
       "publishedAt": 1777896001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7QnViYmxlIGVm",
-      "title": "&apos;Bubble effect&apos;: Weight loss drug fueled growth is putting the pharma sector at risk, report finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/wegovy-glp1-weight-loss-drugs-pharma-growth-bubble.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777891558000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgY2hpcG1ha2VyIENl",
-      "title": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777891524000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8gcmV2ZWFscyBu",
-      "title": "Pirro reveals new Trump attack evidence; Cole Allen removed from &apos;suicide precautions&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/trump-assassination-cole-allen-suicide-pirro.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777851878000,
       "lang": "zh-CN",
       "topics": [
         "macro"
