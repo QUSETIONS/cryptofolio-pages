@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1777905545804,
-  "crawlUpdatedAt": 1777905545804,
-  "crawlCount": 35,
+  "updatedAt": 1777913704054,
+  "crawlUpdatedAt": 1777913704054,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QUdDTyBlYXJuaW5ncyBh",
-      "title": "AGCO earnings ahead: Can autonomy offset equipment slump?",
+      "id": "CNBC Markets-QW50aHJvcGljIHRlYW1z",
+      "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/agco-earnings-ahead-can-autonomy-offset-equipment-slump-93CH-4656647",
-      "source": "Investing.com News",
-      "publishedAt": 1777905457000,
+      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777913191000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
+      "title": "Oil prices jump after UAE says it intercepted cruise missiles launched from Iran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777913155000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +45,30 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RlZDYmFuayBvcGVucyBs",
-      "title": "FVCbank opens loan production office in Virginia Beach",
+      "id": "CNBC Markets-VVBTLCBGZWRFeCBzdG9j",
+      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/fvcbank-opens-loan-production-office-in-virginia-beach-93CH-4656645",
-      "source": "Investing.com News",
-      "publishedAt": 1777905421000,
+      "url": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777912776000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3JhbWVyOiBEbyBub3Qg",
+      "title": "Cramer: Do not sell these 2 stocks with major ties to the AI data center buildout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/cramer-do-not-to-sell-these-2-stocks-with-major-ties-to-the-ai-data-center-buildout.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777912572000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +78,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXhzb21lIFExIDIwMjYg",
-      "title": "Axsome Q1 2026 slides: 57% revenue growth amid FDA approval milestone",
+      "id": "CNBC Markets-QnJldCBUYXlsb3ImYXBv",
+      "title": "Bret Taylor&apos;s Sierra raises nearly $1 billion months after last capital push",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/axsome-q1-2026-slides-57-revenue-growth-amid-fda-approval-milestone-93CH-4656646",
+      "url": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777912524000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IFNwaXJpdCBBaXJs",
+      "title": "How Spirit Airlines&apos; demise will benefit rivals — and raise airfares even more",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/spirit-airlines-flights-rivals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777912271000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIFUuUy4g",
+      "title": "Iran says U.S. warship turned back from Hormuz, U.S. denies vessel struck",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/iran-prevents-entry-of-us-warships-into-strait-of-hormuz--reports-4655453",
       "source": "Investing.com News",
-      "publishedAt": 1777905419000,
+      "publishedAt": 1777911884000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyBqdW1w",
+      "title": "Oil prices jump 5% as Iran attacks UAE, vessels in Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-after-trump-says-us-would-help-free-ships-stranded-in-strait-of-hormuz-4654909",
+      "source": "Investing.com News",
+      "publishedAt": 1777911874000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUFFIHNheXMgaXQmYXBv",
+      "title": "UAE says it&apos;s under attack from Iranian missiles and drones despite ceasefire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/iran-war-uae-trump-ceasefire-missiles.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777911651000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Parque Arauco Q1 2026 sees EPS beat, revenue miss",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-parque-arauco-q1-2026-sees-eps-beat-revenue-miss-93CH-4656939",
+      "source": "Investing.com News",
+      "publishedAt": 1777911579000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -59,11 +169,11 @@
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Hess Midstream Q1 2026 beats forecasts, stock rises",
+      "title": "Earnings call transcript: RLJ Lodging Trust beats Q1 2026 forecasts",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hess-midstream-q1-2026-beats-forecasts-stock-rises-93CH-4656644",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-rlj-lodging-trust-beats-q1-2026-forecasts-93CH-4656938",
       "source": "Investing.com News",
-      "publishedAt": 1777905413000,
+      "publishedAt": 1777911579000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +183,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmxhY2sgU3RvbmUgTWlu",
-      "title": "Black Stone Minerals earnings on deck: Can drilling ramp deliver?",
+      "id": "Investing.com News-VVMgSnVzdGljZSBEZXB0",
+      "title": "US Justice Dept targets Minnesota over global greenhouse gas emissions",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/black-stone-minerals-earnings-on-deck-can-drilling-ramp-deliver-93CH-4656643",
+      "url": "https://www.investing.com/news/commodities-news/us-justice-dept-targets-minnesota-over-global-greenhouse-gas-emissions-4656871",
       "source": "Investing.com News",
-      "publishedAt": 1777905404000,
+      "publishedAt": 1777911511000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +198,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWxsIGV5ZXMgb24gSGVu",
-      "title": "All eyes on Henry Schein earnings as dental growth questions loom",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: NAPCO beats Q3 2026 EPS forecasts, stock mixed",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/all-eyes-on-henry-schein-earnings-as-dental-growth-questions-loom-93CH-4656641",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-napco-beats-q3-2026-eps-forecasts-stock-mixed-93CH-4656937",
       "source": "Investing.com News",
-      "publishedAt": 1777905348000,
+      "publishedAt": 1777911510000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,18 +213,183 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9pc2UgQ2FzY2FkZSBl",
-      "title": "Boise Cascade earnings up next: Profitability test looms",
+      "id": "Investing.com News-Tm9raWEgYm9hcmQgbWVt",
+      "title": "Nokia board member Crain receives stock compensation",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/boise-cascade-earnings-up-next-profitability-test-looms-93CH-4656640",
+      "url": "https://www.investing.com/news/company-news/nokia-board-member-crain-receives-stock-compensation-93CH-4656936",
       "source": "Investing.com News",
-      "publishedAt": 1777905292000,
+      "publishedAt": 1777911502000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVzdCBCdXkgc3RvY2sg",
+      "title": "Best Buy stock hits 52-week low at $58.16",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/best-buy-stock-hits-52week-low-at-5816-93CH-4656935",
+      "source": "Investing.com News",
+      "publishedAt": 1777911416000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgSGVhZGxh",
+      "title": "Form 13F Headland Capital For: 4 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-headland-capital-for-4-may-93CH-4656934",
+      "source": "Investing.com News",
+      "publishedAt": 1777911374000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0YgQ29waWEg",
+      "title": "Form 13F Copia Wealth Management For: 4 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13f-copia-wealth-management-for-4-may-93CH-4656933",
+      "source": "Investing.com News",
+      "publishedAt": 1777911358000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2FtZVN0b3Agc3RvY2sg",
+      "title": "GameStop stock sinks after surprise eBay takeover bid, Cohen&apos;s combative CNBC interview",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777910373000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVya3NoaXJlIHNoYXJl",
+      "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777909658000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IHRvIGJ1eSBhIG1h",
+      "title": "How to buy a major Dow component, at a discount",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/how-to-buy-a-major-dow-component-at-a-discount.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777909434000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCB0",
+      "title": "Supreme Court temporarily lifts mail ban on abortion pill mifepristone",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/supreme-court-abortion-pill-mifepristone.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777909027000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIG1hcmtldCZhcG9z",
+      "title": "The market&apos;s next test could come down to two stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/the-markets-next-test-could-come-down-to-two-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777907938000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2lyY2xlIGp1bXBzIDE2",
+      "title": "Circle jumps 16% on Clarity Act compromise that preserves stablecoin rewards",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777907723000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IGNvbGxlZ2UgZ3Jh",
+      "title": "New college graduates overestimate starting salaries by nearly $24,000, report finds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/college-grads-overestimate-starting-salaries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777907045000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TXVzayB0ZXh0ZWQgT3Bl",
+      "title": "Musk texted OpenAI&apos;s Brockman about settlement two days before trial began",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777906015000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -133,51 +408,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXJvIENvcHBlciBlYXJu",
-      "title": "Ero Copper earnings up next after analysts slash forecasts",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/ero-copper-earnings-up-next-after-analysts-slash-forecasts-93CH-4656639",
-      "source": "Investing.com News",
-      "publishedAt": 1777905228000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIHJhaXNlcyBDb2xn",
-      "title": "UBS raises Colgate-Palmolive stock price target on strong quarter",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-colgatepalmolive-stock-price-target-on-strong-quarter-93CH-4656638",
-      "source": "Investing.com News",
-      "publishedAt": 1777905220000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFpcmQgcmVpdGVyYXRl",
-      "title": "Baird reiterates Mirum Pharmaceuticals stock rating on positive trial data",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/baird-reiterates-mirum-pharmaceuticals-stock-rating-on-positive-trial-data-93CH-4656637",
-      "source": "Investing.com News",
-      "publishedAt": 1777905206000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V29ybGQgQ3VwIHByaXpl",
       "title": "World Cup prize pool nears $900 million as FIFA boosts payouts. Here’s who gets what",
       "summary": "",
@@ -190,36 +420,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IGNvbGxlZ2UgZ3Jh",
-      "title": "New college graduates overestimate starting salaries by nearly $24,000, report finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/college-grads-overestimate-starting-salaries.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777904858000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TXVzayB0ZXh0ZWQgT3Bl",
-      "title": "Musk texted OpenAI&apos;s Brockman about settlement two days before trial began",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777904543000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -254,96 +454,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVya3NoaXJlIHNoYXJl",
-      "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777904356000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
-      "title": "Oil prices rise as U.S. launches operation to restore freedom of navigation in Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777904180000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RUJheSBwb3BzIGFzIFJ5",
-      "title": "EBay pops as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777904018000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBtaWxpdGFyeSBk",
-      "title": "U.S. military denies Iran&apos;s claim it struck American warship in Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/iran-war-trump-strait-of-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777903287000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777900050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIG1hcmtldCZhcG9z",
-      "title": "The market&apos;s next test could come down to two stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/the-markets-next-test-could-come-down-to-two-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777899847000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -437,57 +547,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T1BFQysgYW5ub3VuY2Vz",
-      "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777871959000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RGVubWFyayBmYWNlcyBk",
       "title": "Denmark faces data center reckoning as power grid overwhelmed by surging demand",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
       "source": "CNBC Markets",
       "publishedAt": 1777870801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIG51Y2xlYXIgb3B0",
-      "title": "The nuclear option: Atomic energy could offer Europe hope, say analysts — but it won&apos;t be easy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/nuclear-energy-europe-trump-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777870801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVkeSBHaXVsaWFuaSwg",
-      "title": "Rudy Giuliani, former New York mayor and Trump lawyer, hospitalized in critical condition",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/rudy-giuliani-hospital-critical-condition-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777859582000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -524,23 +589,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8gYXBwZWFycyB0",
-      "title": "Pirro appears to drop plans to appeal criminal investigation of Fed Chair Powell",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777834722000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
