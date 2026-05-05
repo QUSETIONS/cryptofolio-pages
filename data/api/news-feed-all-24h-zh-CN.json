@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1777973375581,
-  "crawlUpdatedAt": 1777973375581,
+  "updatedAt": 1777979055022,
+  "crawlUpdatedAt": 1777979055022,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-U3ByaW5nZXIgTmF0dXJl",
-      "title": "Springer Nature Q1 profit beats forecasts, shares rise 3% as FY26 outlook held",
+      "id": "CNBC Markets-U2VjcmV0IFNlcnZpY2Ug",
+      "title": "Secret Service officer arrested for indecent exposure in Miami after Trump golf event",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/springer-nature-q1-profit-beats-forecasts-shares-rise-3-as-fy26-outlook-held-4658118",
-      "source": "Investing.com News",
-      "publishedAt": 1777972977000,
+      "url": "https://www.cnbc.com/2026/05/05/secret-service-arrest-spillman-miami-trump-doral-golf.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777978859000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGZpemVyIHRvcHMgV2Fs",
+      "title": "Pfizer tops Wall Street estimates, reaffirms outlook as newer products show growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/05/pfizer-pfe-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777978552000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,15 +43,180 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFyY2xheXMgY3V0cyBO",
-      "title": "Barclays cuts Norwegian Cruise stock price target on yield concerns",
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lczog",
+      "title": "Raymond James: Canadian rail traffic shows mixed results with CN down, CPKC up",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/barclays-cuts-norwegian-cruise-stock-price-target-on-yield-concerns-93CH-4658108",
+      "url": "https://www.investing.com/news/stock-market-news/raymond-james-canadian-rail-traffic-shows-mixed-results-with-cn-down-cpkc-up-93CH-4658356",
       "source": "Investing.com News",
-      "publishedAt": 1777972802000,
+      "publishedAt": 1777977530000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFsbCBzdG9jayByaXNl",
+      "title": "Ball stock rises 2% on strong Q1 earnings and revenue beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/ball-stock-rises-2-on-strong-q1-earnings-and-revenue-beat-93CH-4658355",
+      "source": "Investing.com News",
+      "publishedAt": 1777977482000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9tYW5pYW4gTGV1IGhp",
+      "title": "Romanian Leu hits record low as Government faces no-confidence vote",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/romanian-leu-hits-record-low-as-government-faces-noconfidence-vote-93CH-4658354",
+      "source": "Investing.com News",
+      "publishedAt": 1777977446000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgc2F5cyB3aWRl",
+      "title": "China says wider US sanctions on Cuba are ’illegal’",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/china-says-wider-us-sanctions-on-cuba-are-illegal-4658353",
+      "source": "Investing.com News",
+      "publishedAt": 1777977426000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VuSVAgc2hhcmVob2xk",
+      "title": "GenIP shareholder James Robert Kight reduces stake to 2.55%",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/genip-shareholder-james-robert-kight-reduces-stake-to-255-93CH-4658351",
+      "source": "Investing.com News",
+      "publishedAt": 1777977407000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3J5cHRvIGV4Y2hhbmdl",
+      "title": "Crypto exchange Bullish to buy Equiniti in $4.2 billion deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/bullish-to-buy-equiniti-in-42-billion-deal-4658278",
+      "source": "Investing.com News",
+      "publishedAt": 1777977404000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXJkb2dhbiBhbGx5IGNh",
+      "title": "Erdogan ally calls for official status for jailed Kurdish militant leader",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/erdogan-ally-calls-for-official-status-for-jailed-kurdish-militant-leader-4658233",
+      "source": "Investing.com News",
+      "publishedAt": 1777977389000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2F0ZXJzIENvcnBvcmF0",
+      "title": "Waters Corporation stock rises 5% on strong earnings beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/waters-corporation-stock-rises-5-on-strong-earnings-beat-93CH-4658350",
+      "source": "Investing.com News",
+      "publishedAt": 1777977376000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gbmF0dXJh",
+      "title": "European natural gas prices muted with outlook for Hormuz reopening push unclear",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/european-natural-gas-prices-muted-with-outlook-for-hormuz-reopening-push-unclear-4658349",
+      "source": "Investing.com News",
+      "publishedAt": 1777977358000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIFNvY0dl",
+      "title": "Bernstein SocGen reiterates Birkenstock stock rating at Market Perform",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-socgen-reiterates-birkenstock-stock-rating-at-market-perform-93CH-4658348",
+      "source": "Investing.com News",
+      "publishedAt": 1777977332000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBzbGlk",
+      "title": "Oil prices slide as new attacks in Strait of Hormuz threaten fragile U.S.-Iran ceasefire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/05/oil-prices-today-wti-brent-iran-war-trump-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777975211000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFlcnNrIHNheXMgc2hp",
+      "title": "Maersk says ship passed through Strait of Hormuz under U.S. military protection",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/05/maersk-ship-strait-of-hormuz-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777973426000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -49,141 +229,6 @@
       "url": "https://www.cnbc.com/2026/05/05/unicredit-takeover-commerzbank-ceo-control-scenario.html",
       "source": "CNBC Markets",
       "publishedAt": 1777972780000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFyY2xheXMgcmFpc2Vz",
-      "title": "Barclays raises Diamondback Energy price target on production beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/barclays-raises-diamondback-energy-price-target-on-production-beat-93CH-4658107",
-      "source": "Investing.com News",
-      "publishedAt": 1777972777000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1aXN0IHJhaXNlcyBW",
-      "title": "Truist raises V2X stock price target on guidance boost",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/truist-raises-v2x-stock-price-target-on-guidance-boost-93CH-4658106",
-      "source": "Investing.com News",
-      "publishedAt": 1777972770000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FmZWhvbGQgc3RvY2sg",
-      "title": "Safehold stock price target reaffirmed at $28 by Citizens",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/safehold-stock-price-target-reaffirmed-at-28-by-citizens-93CH-4658105",
-      "source": "Investing.com News",
-      "publishedAt": 1777972762000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Backblaze stock rating on strong Q1 results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-backblaze-stock-rating-on-strong-q1-results-93CH-4658104",
-      "source": "Investing.com News",
-      "publishedAt": 1777972760000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Nuvation Bio stock rating on Ibtrozi launch progress",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-nuvation-bio-stock-rating-on-ibtrozi-launch-progress-93CH-4658103",
-      "source": "Investing.com News",
-      "publishedAt": 1777972752000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1aXN0IHJhaXNlcyBF",
-      "title": "Truist raises EastGroup Properties stock price target on growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/truist-raises-eastgroup-properties-stock-price-target-on-growth-outlook-93CH-4658101",
-      "source": "Investing.com News",
-      "publishedAt": 1777972746000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgbWFpbnRh",
-      "title": "Citizens maintains ServiceNow stock rating on user growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-maintains-servicenow-stock-rating-on-user-growth-outlook-93CH-4658100",
-      "source": "Investing.com News",
-      "publishedAt": 1777972745000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QlRJRyBoaWdobGlnaHRz",
-      "title": "BTIG highlights key trends from Boston Digital Health Summit",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/btig-highlights-key-trends-from-boston-digital-health-summit-93CH-4658098",
-      "source": "Investing.com News",
-      "publishedAt": 1777972741000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBzbGlk",
-      "title": "Oil prices slide as new attacks in Strait of Hormuz threaten fragile U.S.-Iran ceasefire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/05/oil-prices-today-wti-brent-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777970461000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -232,21 +277,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VjcmV0IFNlcnZpY2Ug",
-      "title": "Secret Service officer arrested for indecent exposure in Miami after Trump golf event",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/05/secret-service-arrest-spillman-miami-trump-doral-golf.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777952208000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -307,6 +337,21 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3J5cHRvIGluZHVzdHJ5",
+      "title": "Crypto industry calls for lawmakers to act on legislation after breakthrough agreement",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/04/crypto-industry-calls-for-lawmakers-to-act-after-breakthrough-agreement.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1777938445000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -480,21 +525,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2lyY2xlIGp1bXBzIG5l",
-      "title": "Circle jumps nearly 20% on Clarity Act compromise that preserves stablecoin rewards",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777925625000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VVBTLCBGZWRFeCBzdG9j",
       "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
       "summary": "",
@@ -510,21 +540,6 @@
         "FED"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
-      "title": "Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777923073000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -602,21 +617,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCB0",
-      "title": "Supreme Court temporarily lifts mail ban on abortion pill mifepristone",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/04/supreme-court-abortion-pill-mifepristone.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1777909027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
