@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778249322020,
-  "crawlUpdatedAt": 1778249322020,
+  "updatedAt": 1778255993299,
+  "crawlUpdatedAt": 1778255993299,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBp",
-      "title": "U.S. payrolls increased 115,000 in April, more than expected; unemployment at 4.3%",
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/cramer-this-struggling-stock-may-remain-challenged-in-ai-driven-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778255712000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBzYXlzIGl0IHN0",
+      "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/iran-war-oil-trump-blockade-ceasefire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778255409000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QVdTIGRhdGEgY2VudGVy",
+      "title": "AWS data center outage hits trading on FanDuel, Coinbase — recovery to take hours",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778254815000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
+      "title": "Oil prices rise after U.S. fires on empty Iranian tankers, UAE attacked by missiles",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/oil-prices-today-wti-brent-us-iran-fire-war-hormuz-ceasefire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778254553000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBq",
+      "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778249200000,
+      "publishedAt": 1778254548000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +88,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TURBIFNwYWNlIG9wZW5z",
-      "title": "MDA Space opens expanded satellite manufacturing facility",
+      "id": "Investing.com News-R29sZG1hbiBTYWNoc+KA",
+      "title": "Goldman Sachs’ private credit fund cuts value by 3.7%",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/mda-space-opens-expanded-satellite-manufacturing-facility-93CH-4673068",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-cuts-value-by-37-4673322",
       "source": "Investing.com News",
-      "publishedAt": 1778249102000,
+      "publishedAt": 1778253889000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEFydGl2aW9u",
+      "title": "Why is Artivion stock plummeting today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-artivion-stock-plummeting-today-93CH-4673321",
+      "source": "Investing.com News",
+      "publishedAt": 1778253848000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,48 +120,215 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG9jdXNpZ24gcGFydG5l",
-      "title": "Docusign partners with Harvey to integrate AI platforms",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Global Partners Q1 2026 beats EPS, stock rises",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/docusign-partners-with-harvey-to-integrate-ai-platforms-93CH-4673067",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-global-partners-q1-2026-beats-eps-stock-rises-93CH-4673320",
       "source": "Investing.com News",
-      "publishedAt": 1778249100000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1aXN0IHJhaXNlcyBE",
-      "title": "Truist raises Datadog stock price target to $190 on strong results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/truist-raises-datadog-stock-price-target-to-190-on-strong-results-93CH-4673066",
-      "source": "Investing.com News",
-      "publishedAt": 1778249098000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0JJIEZZMjYgcHJlc2Vu",
-      "title": "SBI FY26 presentation: record ₹80,032 crore profit amid digital surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/sbi-fy26-presentation-record-80032-crore-profit-amid-digital-surge-93CH-4673065",
-      "source": "Investing.com News",
-      "publishedAt": 1778249091000,
+      "publishedAt": 1778253811000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Bimini Capital Q1 2026 sees mixed results amid geopolitical tensions",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bimini-capital-q1-2026-sees-mixed-results-amid-geopolitical-tensions-93CH-4673319",
+      "source": "Investing.com News",
+      "publishedAt": 1778253797000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VydmljZSBDb3Jwb3Jh",
+      "title": "Service Corporation International amends bylaws to adjust board structure",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/service-corporation-international-amends-bylaws-to-adjust-board-structure-93CH-4673318",
+      "source": "Investing.com News",
+      "publishedAt": 1778253764000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgc2F5",
+      "title": "Wall Street says this beaten-down burger stock could be the next big comeback",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-says-this-beatendown-burger-stock-could-be-the-next-big-comeback-4673317",
+      "source": "Investing.com News",
+      "publishedAt": 1778253708000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBwVGVjaCBuYW1lcyBB",
+      "title": "AppTech names Albert Lord as executive chairman",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/apptech-names-albert-lord-as-executive-chairman-93CH-4673316",
+      "source": "Investing.com News",
+      "publishedAt": 1778253656000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBTZXJ2aWNl",
+      "title": "Form 8K Service Corporation International For: 8 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-service-corporation-international-for-8-may-93CH-4673315",
+      "source": "Investing.com News",
+      "publishedAt": 1778253637000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWF0dGVsIGludmVzdG9y",
+      "title": "Mattel investor asks CEO to consider go-private or sale",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/mattel-investor-asks-ceo-to-consider-goprivate-or-sale-as-toy-demand-weakens-4671445",
+      "source": "Investing.com News",
+      "publishedAt": 1778253549000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1BaXJsaW5l",
+      "title": "Factbox-Airlines tackle fuel cost surge with price hikes, outlook cuts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/factboxairlines-tackle-fuel-cost-surge-with-price-hikes-outlook-cuts-4673314",
+      "source": "Investing.com News",
+      "publishedAt": 1778253532000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGhvdHRlc3QgRVRG",
+      "title": "The hottest ETF since bitcoin-mania just added $1 billion in a day",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778253205000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWthbWFpIHN0b2NrIHNv",
+      "title": "Akamai stock soars 20% on earnings, $1.8 billion AI infrastructure deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778252724000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmlyZ2luaWEgU3VwcmVt",
+      "title": "Virginia Supreme Court strikes down redistricting push in blow to Democrats",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/virginia-redistricting-decision-supreme-court.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778252162000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFyY28gUnViaW8gc2F5",
+      "title": "Marco Rubio says U.S. expects Iran response on peace deal &apos;today&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/08/marco-rubio-says-us-expects-iran-response-on-peace-deal-today.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778250980000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SVJFTiBpbmtzIEFJIGlu",
+      "title": "IREN inks AI infrastructure deal with Nvidia",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778250169000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29pbmJhc2UgcG9zdHMg",
+      "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/07/coinbase-coin-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778249794000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -100,111 +344,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW1lcmEgUTEgMjAyNiBz",
-      "title": "Emera Q1 2026 slides: record EPS of $1.37 amid capital push",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/emera-q1-2026-slides-record-eps-of-137-amid-capital-push-93CH-4673064",
-      "source": "Investing.com News",
-      "publishedAt": 1778249050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hvbGVzYWxlIGludmVu",
-      "title": "Wholesale inventories rise slightly below forecast, but above previous levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/wholesale-inventories-rise-slightly-below-forecast-but-above-previous-levels-93CH-4673063",
-      "source": "Investing.com News",
-      "publishedAt": 1778249050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk9LIEZpbmFuY2lhbCBk",
-      "title": "BOK Financial director Steven Bangert sells $350,492 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/bok-financial-director-steven-bangert-sells-350492-in-shares-93CH-4673062",
-      "source": "Investing.com News",
-      "publishedAt": 1778249049000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29uc3RlbGxhdGlvbiBF",
-      "title": "Constellation Energy earnings up next: Can data center deals deliver?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/constellation-energy-earnings-up-next-can-data-center-deals-deliver-93CH-4673061",
-      "source": "Investing.com News",
-      "publishedAt": 1778249016000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgTyBSRUlM",
-      "title": "Form 144 O REILLY AUTOMOTIVE INC For: 8 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-o-reilly-automotive-inc-for-8-may-93CH-4673060",
-      "source": "Investing.com News",
-      "publishedAt": 1778248996000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBTaW5j",
-      "title": "Form 13D/A Sinclair For: 8 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-sinclair-for-8-may-93CH-4673059",
-      "source": "Investing.com News",
-      "publishedAt": 1778248993000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBjbG91ZCBjb21wdXRp",
-      "title": "A cloud computing stock is soaring 16%. Here’s what’s driving the rally",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778248891000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -255,23 +394,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIGhvdHRlc3QgRVRG",
-      "title": "The hottest ETF since bitcoin-mania just added $1 billion in a day",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778246647000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29zdCBvZiBsaXZpbmcg",
       "title": "Cost of living crunch hurts UK PM Starmer in local elections",
       "summary": "",
@@ -296,21 +418,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFyY28gUnViaW8gc2F5",
-      "title": "Marco Rubio says U.S. expects Iran response on peace deal &apos;today&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/marco-rubio-says-us-expects-iran-response-on-peace-deal-today.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778244925000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -377,21 +484,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBzdGFi",
-      "title": "Oil prices stable as Trump insists ceasefire still intact after U.S.-Iran exchange fire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/oil-prices-today-wti-brent-us-iran-fire-war-hormuz-ceasefire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778241857000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiBmb2N1cyBhdCBU",
       "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
       "summary": "",
@@ -404,51 +496,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29pbmJhc2UgcG9zdHMg",
-      "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/07/coinbase-coin-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778238657000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIFRlY2ggRG93bmxv",
-      "title": "The Tech Download: Meta, Google enter AI agent race as ‘agentic wars’ heat up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/ai-agent-meta-google-agentic-wars-tech-download.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778238335000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29ueSB0YXJnZXRzIGRv",
-      "title": "Sony targets double-digit profit growth despite slowdown in PlayStation 5 sales amid memory price crunch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/sony-q4-earnings-ps5-gaming-sales-memory-price.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778232046000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -497,36 +544,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SVJFTiBpbmtzIEFJIGlu",
-      "title": "IREN inks AI infrastructure deal with Nvidia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778196476000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29ybmluZyBDRU8gdG8g",
-      "title": "Corning CEO to Cramer: Deals with 2 unnamed hyperscalers &apos;larger&apos; than $6B Meta pact",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/07/corning-ceo-to-cramer-deals-with-2-unnamed-hyperscalers-larger-than-6b-meta-pact.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778194910000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TnZpZGlhIENFTyBzYXlz",
       "title": "Nvidia CEO says AI partnership with Corning will &apos;revitalize American manufacturing&apos;",
       "summary": "",
@@ -548,21 +565,6 @@
       "url": "https://www.cnbc.com/2026/05/07/iran-war-hormuz-strait-ceasefire-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1778194106000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIHJvbGxzIG91",
-      "title": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic&apos;s Mythos debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778191580000,
       "lang": "zh-CN",
       "topics": [
         "macro"
