@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778363759000,
-  "crawlUpdatedAt": 1778363759000,
-  "crawlCount": 25,
+  "updatedAt": 1778367414937,
+  "crawlUpdatedAt": 1778367414937,
+  "crawlCount": 10,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Q291bnRyaWVzIHByZXBh",
+      "title": "Countries prepare to evacuate hantavirus ship passengers",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/european-states-to-send-planes-to-evacuate-citizens-from-hantavirushit-cruise-ship-4674633",
+      "source": "Investing.com News",
+      "publishedAt": 1778366551000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMsIElyYW4gbm8gY2xv",
+      "title": "US, Iran no closer to ending war as Qatari tanker sails toward Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare-4674592",
+      "source": "Investing.com News",
+      "publishedAt": 1778366183000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXQgbGVhc3QgMTEgaW4g",
+      "title": "At least 11 in Miami area injured by ’possible’ boat explosion, officials say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/at-least-11-in-miami-area-injured-by-possible-boat-explosion-officials-say-4674734",
+      "source": "Investing.com News",
+      "publishedAt": 1778364008000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2h5IGN5YmVyc2VjdXJp",
       "title": "Why cybersecurity stocks will be net beneficiaries of the AI risks",
@@ -75,21 +120,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMsIElyYW4gbm8gY2xv",
-      "title": "US, Iran no closer to ending war as Qatari tanker sails toward Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare-4674592",
-      "source": "Investing.com News",
-      "publishedAt": 1778361515000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-UHV0aW4gc2F5cyBoZSB0",
       "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
       "summary": "",
@@ -102,53 +132,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UyZQIDUwMCBleHRlbmRz",
-      "title": "S&P 500 extends winning streak to 6 weeks. What drove the stock market gains",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/sp-500-extends-winning-streak-to-6-weeks-what-drove-the-stock-market-gains.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778357937000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q291bnRyaWVzIHByZXBh",
-      "title": "Countries prepare to evacuate hantavirus ship passengers",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/european-states-to-send-planes-to-evacuate-citizens-from-hantavirushit-cruise-ship-4674633",
-      "source": "Investing.com News",
-      "publishedAt": 1778356834000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TVYgSG9uZGl1cyBoYW50",
-      "title": "MV Hondius hantavirus outbreak: A luxury expedition cruise boom and new world of remote travel risks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/hantavirus-cruise-ship-mv-hondius-travel-health-risks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778356347000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -173,216 +156,6 @@
       "url": "https://www.investing.com/news/stock-market-news/here-are-the-3-key-themes-from-hyperscaler-results-4674726",
       "source": "Investing.com News",
       "publishedAt": 1778356066000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUsgUE0gU3Rhcm1lciwg",
-      "title": "UK PM Starmer, weakened by local elections, is challenged by former minister",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/starmer-aiming-for-leadership-reset-names-former-uk-pm-gordon-brown-as-adviser-4674636",
-      "source": "Investing.com News",
-      "publishedAt": 1778355748000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIGVtYnJhY2Vz",
-      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778344882000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlcmUmYXBvcztzIGxp",
-      "title": "There&apos;s little chance of a hantavirus global outbreak. What the latest odds say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/hantavirus-outbreak-little-chance-says-kalshi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778344875000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRvIHRha2UgY29u",
-      "title": "How to take control of the AI data center boom and built it into your own home in the future",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/ai-data-center-construction-public-opposition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778335511000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RHlpbmcgd2l0aCBhIGhl",
-      "title": "Dying with a health savings account can leave a tax bomb for heirs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/dying-with-an-hsa-can-leave-a-tax-bomb-for-heirs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778333401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUktcG93ZXJlZCBzY2Ft",
-      "title": "AI-powered scam calls are getting more convincing—and more common: &apos;It was her voice, I know her scared cry&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/ai-powered-scam-calls-getting-more-convincing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778331601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIElyYW4gd2FyIHdp",
-      "title": "The Iran war will change global energy markets in these important ways, oil executives say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/iran-war-oil-gas-energy-security.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778330580000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R3JlZyBBYmVsIGtub3dz",
-      "title": "Greg Abel knows Berkshire cold, but some miss the Buffett magic",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/greg-abel-knows-berkshire-cold-but-some-miss-the-buffett-magic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778329466000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IG9uZSBvZiB0aGUg",
-      "title": "Why one of the nation&apos;s largest auto lenders isn&apos;t worried about high vehicle prices or &apos;forever loans&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/capital-one-auto-forever-loans-used-cars.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778328001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBzYW5jdGlvbnMg",
-      "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/us-sanctions-entities-in-the-middle-east-and-china-for-helping-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778321424000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmV2aXZhbCBvZiBCbGFj",
-      "title": "Revival of Blackberry nostalgia and keyboard fuels smartphone startups",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/blackberry-nostalgia-keyboard-smartphone-comeback-startups-intentional-use.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778310441000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hpc2t5IGJ1c2luZXNz",
-      "title": "Whisky business: Investors pin hopes on Trump’s Scotch tariff reversal after dire three years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/scotch-whisky-tariffs-donald-trump-us-scotland-trade-war-rare-collectible-spirit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778302801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFqb3IgY3J5cHRvIGJp",
-      "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778283348000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnVyZ2VyIEtpbmcmYXBv",
-      "title": "Burger King&apos;s president says the chain improved its Whopper — and calls from customers helped",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/08/burger-king-president-fixed-whopper-phone-calls-from-customers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778280639000,
       "lang": "zh-CN",
       "topics": [
         "macro"
