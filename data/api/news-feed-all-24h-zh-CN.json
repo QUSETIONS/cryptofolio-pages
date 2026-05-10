@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778440657545,
-  "crawlUpdatedAt": 1778440657545,
-  "crawlCount": 21,
+  "updatedAt": 1778443854309,
+  "crawlUpdatedAt": 1778443854309,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RXZhY3VhdGlvbiBmbGln",
-      "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
+      "id": "CNBC Markets-TmV0YW55YWh1IHNheXMg",
+      "title": "Netanyahu says Iran war is &apos;not over&apos; as peace deal remains elusive",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife-4674751",
-      "source": "Investing.com News",
-      "publishedAt": 1778438183000,
+      "url": "https://www.cnbc.com/2026/05/10/netanyahu-says-iran-war-is-not-over-as-peace-deal-remains-elusive.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778443615000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,103 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgc2xhbXMgSXJh",
-      "title": "Trump slams Iran for \"playing games;\" Pakistan relays war-end proposal",
+      "id": "Investing.com News-SXJhbiByZWplY3RzIFUu",
+      "title": "Iran rejects U.S. demand to dismantle nuclear sites in counter-proposal",
       "summary": "",
       "url": "https://www.investing.com/news/economy-news/fragile-ceasefire-holds-in-middle-east-while-us-awaits-iranian-war-response-4674735",
       "source": "Investing.com News",
-      "publishedAt": 1778437235000,
+      "publishedAt": 1778443424000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW5lcmd5IGluZmxhdGlv",
+      "title": "Energy inflation fuels uncertainties in a K-shaped economy",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/energy-inflation-fuels-uncertainties-in-a-kshaped-economy-4674860",
+      "source": "Investing.com News",
+      "publishedAt": 1778442512000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFpbGVkIElyYW5pYW4g",
+      "title": "Jailed Iranian peace laureate Mohammadi moved to hospital in Tehran",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/jailed-iranian-peace-laureate-mohammadi-moved-to-hospital-in-tehran-4674859",
+      "source": "Investing.com News",
+      "publishedAt": 1778441072000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGlueSBkYXRhIGNlbnRl",
+      "title": "Tiny data centers may be coming into the homes of Americans in the future",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/09/ai-data-center-construction-public-opposition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778440878000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVsYXRpdmVzIG9mIE1l",
+      "title": "Relatives of Mexico’s disappeared hold Mother’s Day protest ahead of World Cup",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/relatives-of-mexicos-disappeared-hold-mothers-day-protest-ahead-of-world-cup-4674858",
+      "source": "Investing.com News",
+      "publishedAt": 1778440705000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBpcyB0aGUgY29u",
+      "title": "What is the consumer sentiment on AI?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-is-the-consumer-sentiment-on-ai-4674857",
+      "source": "Investing.com News",
+      "publishedAt": 1778440049000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXZhY3VhdGlvbiBmbGln",
+      "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife-4674751",
+      "source": "Investing.com News",
+      "publishedAt": 1778438183000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,66 +209,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Vz",
-      "title": "Israeli strikes kill three people in Gaza, medics say, testing fragile ceasefire",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strikes-in-gaza-kill-three-medics-say-testing-fragile-ceasefire-4674772",
-      "source": "Investing.com News",
-      "publishedAt": 1778433146000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TlZJRElB4oCZcyBIdWFu",
-      "title": "NVIDIA’s Huang says AI will make intelligence a commodity for billions",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-huang-says-ai-will-make-intelligence-a-commodity-for-billions-4674854",
-      "source": "Investing.com News",
-      "publishedAt": 1778432140000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Axsome Therapeutics Q1 2026 reveals mixed results",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-axsome-therapeutics-q1-2026-reveals-mixed-results-93CH-4674853",
-      "source": "Investing.com News",
-      "publishedAt": 1778432016000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T25lIG9mIHJlcGF0cmlh",
-      "title": "One of repatriated French passengers from hantavirus-hit ship has symptoms, PM says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/one-of-repatriated-french-passengers-from-hantavirushit-ship-has-symptoms-pm-says-4674852",
-      "source": "Investing.com News",
-      "publishedAt": 1778431706000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2l0aCBOZXRmbGl4IG5l",
       "title": "With Netflix new ad-free standard plan at $20, streaming&apos;s tipping point into old TV is getting closer",
       "summary": "",
@@ -240,21 +271,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGFyZ2V0IGlzIHRyeWlu",
-      "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/10/target.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778414401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QWxwaGFiZXQmYXBvcztz",
       "title": "Alphabet&apos;s 160% rally in a year reflects value of owning &apos;most of the stack&apos; in AI",
       "summary": "",
@@ -267,6 +283,21 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGFyZ2V0IGlzIHRyeWlu",
+      "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/10/target.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778414401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -312,21 +343,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TVYgSG9uZGl1cyBoYW50",
-      "title": "MV Hondius hantavirus outbreak: A luxury expedition cruise boom and new world of remote travel risks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/09/hantavirus-cruise-ship-mv-hondius-travel-health-risks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778356347000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
