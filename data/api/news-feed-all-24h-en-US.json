@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778451891918,
-  "crawlUpdatedAt": 1778451891918,
-  "crawlCount": 22,
+  "updatedAt": 1778455795337,
+  "crawlUpdatedAt": 1778455795337,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,93 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLUNlcmVi",
-      "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
+      "id": "Investing.com News-U2hhcmUgZnV0dXJlcyBl",
+      "title": "Share futures ease, dollar gains as Gulf talks teeter",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivecerebras-to-raise-ipo-price-range-to-150160-as-demand-surges-sources-say-4674870",
+      "url": "https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873",
       "source": "Investing.com News",
-      "publishedAt": 1778449347000,
+      "publishedAt": 1778454386000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgQXByaWwgZXhw",
+      "title": "China April exports rebound strongly, trade surplus widens ahead of Trump visit",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674872",
+      "source": "Investing.com News",
+      "publishedAt": 1778454030000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGVtYnJhY2Vz",
+      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778453867000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUNlcmVi",
+      "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivecerebras-to-raise-ipo-price-range-to-150160-as-demand-surges-sources-say-4674870",
+      "source": "Investing.com News",
+      "publishedAt": 1778453309000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgY2FsbHMgSXJh",
+      "title": "Trump calls Iran’s response to US peace proposal ’unacceptable’",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare-4674592",
+      "source": "Investing.com News",
+      "publishedAt": 1778451871000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGp1bXBzIGFzIFVT",
+      "title": "Oil jumps as US and Iran fail to reach agreement on peace proposal",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-jumps-as-us-and-iran-fail-to-reach-agreement-on-peace-proposal-4674871",
+      "source": "Investing.com News",
+      "publishedAt": 1778451147000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -88,21 +163,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgY2FsbHMgSXJh",
-      "title": "Trump calls Iran’s response to US peace proposal ’unacceptable’",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare-4674592",
-      "source": "Investing.com News",
-      "publishedAt": 1778445384000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-VVMgZGlzYXBwb2ludGVk",
       "title": "US disappointed in Taiwan’s smaller defense budget, official says",
       "summary": "",
@@ -124,52 +184,6 @@
       "url": "https://www.cnbc.com/2026/05/10/netanyahu-says-iran-war-is-not-over-as-peace-deal-remains-elusive.html",
       "source": "CNBC Markets",
       "publishedAt": 1778444935000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgY2FsbHMgSXJh",
-      "title": "Trump calls Iran’s response on nuclear dismantlement ’totally unacceptable’",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/fragile-ceasefire-holds-in-middle-east-while-us-awaits-iranian-war-response-4674735",
-      "source": "Investing.com News",
-      "publishedAt": 1778444893000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW5lcmd5IGluZmxhdGlv",
-      "title": "Energy inflation fuels uncertainties in a K-shaped economy",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/energy-inflation-fuels-uncertainties-in-a-kshaped-economy-4674860",
-      "source": "Investing.com News",
-      "publishedAt": 1778442512000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFpbGVkIElyYW5pYW4g",
-      "title": "Jailed Iranian peace laureate Mohammadi moved to hospital in Tehran",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/jailed-iranian-peace-laureate-mohammadi-moved-to-hospital-in-tehran-4674859",
-      "source": "Investing.com News",
-      "publishedAt": 1778441072000,
       "lang": "en-US",
       "topics": [
         "macro"
