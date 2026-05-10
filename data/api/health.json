@@ -1,15 +1,15 @@
 {
   "ok": true,
   "version": "2026-02-09-public-stability-v1",
-  "timestamp": 1778404415667,
+  "timestamp": 1778409978214,
   "services": {
     "coingecko": {
       "ok": true,
       "status": 200
     },
     "yahoo": {
-      "ok": false,
-      "status": 429
+      "ok": true,
+      "status": 200
     }
   }
 }
