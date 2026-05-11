@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778462915331,
-  "crawlUpdatedAt": 1778462915331,
-  "crawlCount": 26,
+  "updatedAt": 1778478052440,
+  "crawlUpdatedAt": 1778478052440,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,30 +13,30 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
-      "title": "South Korea&apos;s Kospi hits fresh record as Asia markets trade mixed amid oil surge, Iran risks",
+      "id": "Investing.com News-U2FtcG8gZXhlY3V0ZXMg",
+      "title": "Sampo executes share buyback of 904,454 shares in week 19",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/11/asia-markets-today-live-updates-nikkei-kospi-hang-seng-sensex-csi-300-iran-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778462485000,
+      "url": "https://www.investing.com/news/company-news/sampo-executes-share-buyback-of-904454-shares-in-week-19-93CH-4674981",
+      "source": "Investing.com News",
+      "publishedAt": 1778477612000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R29sZCBwcmljZXMgc2xp",
-      "title": "Gold prices slip as Trump’s Iran remark lifts oil, stokes inflation fears",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBp",
+      "title": "Goldman Sachs initiates Arxis stock with buy rating on M&A model",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-prices-slip-as-trumps-iran-remark-lifts-oil-stokes-inflation-fears-4674892",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-arxis-stock-with-buy-rating-on-ma-model-93CH-4674980",
       "source": "Investing.com News",
-      "publishedAt": 1778462068000,
+      "publishedAt": 1778477519000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [
         "XAU"
@@ -45,12 +45,77 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VmVuZXp1ZWxhIGludGVy",
-      "title": "Venezuela interim president arrives in Netherlands for Esequibo region hearing",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBp",
+      "title": "Goldman Sachs initiates Madison Air Solutions stock with neutral rating",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/venezuela-interim-president-arrives-in-netherlands-foresequibo-region-hearing-4674821",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-madison-air-solutions-stock-with-neutral-rating-93CH-4674979",
       "source": "Investing.com News",
-      "publishedAt": 1778462001000,
+      "publishedAt": 1778477500000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2V2aW8gUmVsZWFzZXMg",
+      "title": "Sevio Releases Q1 2026 Report on Web3 and Financial Publisher Performance",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/sevio-releases-q1-2026-report-on-web3-and-financial-publisher-performance-4674978",
+      "source": "Investing.com News",
+      "publishedAt": 1778477477000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBk",
+      "title": "Goldman Sachs delays Fed cut outlook to December 2026 as Iran war drives US inflation",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation-4674977",
+      "source": "Investing.com News",
+      "publishedAt": 1778477455000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RUNC4oCZcyBLb2NoZXIg",
+      "title": "ECB’s Kocher sees rate move if inflation outlook does not improve",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ecbs-kocher-sees-rate-move-if-inflation-outlook-does-not-improve-4674976",
+      "source": "Investing.com News",
+      "publishedAt": 1778477432000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RpZmVsIGluaXRpYXRl",
+      "title": "Stifel initiates Madison Air Solutions stock with buy rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/stifel-initiates-madison-air-solutions-stock-with-buy-rating-93CH-4674975",
+      "source": "Investing.com News",
+      "publishedAt": 1778477136000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -60,138 +125,170 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmludGVuZG8gc2hhcmVz",
-      "title": "Nintendo shares slump as price hikes, games shortfall spook market",
+      "id": "Investing.com News-SytTIGJlYXRzIFExIGVz",
+      "title": "K+S beats Q1 estimates, raises 2026 outlook on de-icing salt strength",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nintendo-shares-slump-as-price-hikes-games-shortfall-spook-market-4674891",
+      "url": "https://www.investing.com/news/earnings/ks-beats-q1-estimates-raises-2026-outlook-on-deicing-salt-strength-4674974",
       "source": "Investing.com News",
-      "publishedAt": 1778461987000,
+      "publishedAt": 1778477130000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hhcmVzIG1peGVkLCBk",
+      "title": "Shares mixed, dollar gains as Iran talks teeter",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873",
+      "source": "Investing.com News",
+      "publishedAt": 1778477063000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets set to open in mixed territory as Iran&apos;s peace talks stall",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/european-markets-stoxx-600-ftse-dax-cac-iran-war-oil-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778477059000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UkJJIGxpa2VseSBzb2xk",
+      "title": "RBI likely sold dollars to curb rupee decline amid oil price surge- Reuters",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/rbi-likely-sold-dollars-to-curb-rupee-decline-amid-oil-price-surge-reuters-93CH-4674973",
+      "source": "Investing.com News",
+      "publishedAt": 1778476860000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2luZ2Fwb3JlIGZsYWdz",
+      "title": "Singapore flags weaker tourism spending as global travel industry faces uncertainty",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/singapore-expects-arrivals-to-increase-but-spending-to-decrease.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778475644000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGp1bXBzIGFzIE5l",
+      "title": "Oil jumps as Netanyahu and Trump remarks stoke worries of prolonged Middle East conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/oil-price-today-brent-wti-iran-war-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778474992000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9kaSBzYXlzIElyYW4g",
+      "title": "Modi says Iran war poses severe risks to India, urges cuts in fuel use and gold purchases",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/india-modi-fuel-gold-foreign-travel-middle-east-oil-shock.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778474936000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
       "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmludGVuZG8gc2hhcmVz",
-      "title": "Nintendo shares slide 9% after FY earnings, outlook miss estimates",
+      "id": "CNBC Markets-SXJhbiBzYXlzIGl0IHdp",
+      "title": "Iran says it will &apos;never bow&apos; as Trump rejects peace counteroffer, prolonging Middle East conflict",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nintendo-shares-slide-9-after-fy-earnings-outlook-miss-estimates-4674890",
-      "source": "Investing.com News",
-      "publishedAt": 1778461795000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgQXByaWwgZXhw",
-      "title": "China April exports rebound strongly, trade surplus widens ahead of Trump visit",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674872",
-      "source": "Investing.com News",
-      "publishedAt": 1778461626000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFtaWxpZXMgb2YgdHdv",
-      "title": "Families of two Americans jailed in China urge Trump to seek release",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/families-of-two-americans-jailed-in-china-urge-trump-to-seek-release-4674889",
-      "source": "Investing.com News",
-      "publishedAt": 1778461606000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Vz",
-      "title": "Israeli strikes kill three people in Gaza, medics say, testing fragile ceasefire",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strikes-in-gaza-kill-three-medics-say-testing-fragile-ceasefire-4674772",
-      "source": "Investing.com News",
-      "publishedAt": 1778461588000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIGp1bXBzIGFzIFVT",
-      "title": "Oil jumps as US and Iran disagree on peace proposal",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-jumps-as-us-and-iran-fail-to-reach-agreement-on-peace-proposal-4674871",
-      "source": "Investing.com News",
-      "publishedAt": 1778461274000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBvbGxvIGluIHRhbGtz",
-      "title": "Apollo in talks to sell $3 billion private credit fund, WSJ reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apollo-in-talks-to-sell-3-billion-private-credit-fund-wsj-reports-4674888",
-      "source": "Investing.com News",
-      "publishedAt": 1778461255000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0YW55YWh1IHdhbnRz",
-      "title": "Netanyahu wants to wean Israel off US military support, he tells CBS",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/netanyahu-wants-to-wean-israel-off-us-military-support-he-tells-cbs-4674878",
-      "source": "Investing.com News",
-      "publishedAt": 1778460895000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGNsaW1icyBhcyBO",
-      "title": "Oil climbs as Netanyahu and Trump remarks stoke worries over rising Middle East tensions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/11/oil-price-today-brent-wti-iran-war-trump.html",
+      "url": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778460302000,
+      "publishedAt": 1778474694000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgaW5mbGF0aW9u",
+      "title": "China inflation beat estimates in April as Iran war drives producer prices to three-year highs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/china-cpi-ppi-inflation-energy-costs-oil-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778472485000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RG8geW91IG5lZWQgYSBj",
+      "title": "Do you need a chief AI officer? Here&apos;s how the tech is changing boardrooms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778465429000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
+      "title": "South Korea&apos;s Kospi hits fresh record as Asia markets trade mixed amid oil surge, Iran risks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/11/asia-markets-today-live-updates-nikkei-kospi-hang-seng-sensex-csi-300-iran-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778464423000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
