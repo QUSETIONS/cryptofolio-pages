@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778679437283,
-  "crawlUpdatedAt": 1778679437283,
+  "updatedAt": 1778689639455,
+  "crawlUpdatedAt": 1778689639455,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,65 +13,335 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-UGlwZXIgU2FuZGxlciBj",
-      "title": "Piper Sandler cuts Nyxoah stock price target on balance sheet concerns",
+      "id": "CNBC Markets-SG9ybXV6IGNsb3N1cmUg",
+      "title": "Hormuz closure cuts OPEC oil production by 30% and threatens demand growth this year, cartel says",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-nyxoah-stock-price-target-on-balance-sheet-concerns-93CH-4684904",
-      "source": "Investing.com News",
-      "publishedAt": 1778678943000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Eastern Co misses Q1 2026 forecasts, stock stable",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-eastern-co-misses-q1-2026-forecasts-stock-stable-93CH-4684903",
-      "source": "Investing.com News",
-      "publishedAt": 1778678912000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TVBJIHBvc3RzIGZpcnN0",
-      "title": "MPI posts first quarter gross margin numbers, shocks Goldman Sachs",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/mpi-posts-first-quarter-gross-margin-numbers-shocks-goldman-sachs-93CH-4684902",
-      "source": "Investing.com News",
-      "publishedAt": 1778678856000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Local Bounti’s Q1 2026 shows growth, stock uptick",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-local-bountis-q1-2026-shows-growth-stock-uptick-93CH-4684901",
-      "source": "Investing.com News",
-      "publishedAt": 1778678847000,
+      "url": "https://www.cnbc.com/2026/05/13/opec-oil-strait-hormuz-iran-war-saudi-arabia-uae.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778689159000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYXJyaXZlcyBp",
+      "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778689148000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFueSBzdG9ja3Mg",
+      "title": "Germany stocks higher at close of trade; DAX up 0.61%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-061-4685562",
+      "source": "Investing.com News",
+      "publishedAt": 1778688384000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJhbmNlIHN0b2NrcyBo",
+      "title": "France stocks higher at close of trade; CAC 40 up 0.35%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-035-4685561",
+      "source": "Investing.com News",
+      "publishedAt": 1778688340000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3JlZGl0IEFncmljb2xl",
+      "title": "Credit Agricole predicts South African rate hikes amid inflation",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/credit-agricole-predicts-south-african-rate-hikes-amid-inflation-93CH-4685560",
+      "source": "Investing.com News",
+      "publishedAt": 1778688338000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVsZ2l1bSBzdG9ja3Mg",
+      "title": "Belgium stocks higher at close of trade; BEL 20 up 0.71%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-071-4685559",
+      "source": "Investing.com News",
+      "publishedAt": 1778688304000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHV0b3IgUGVyaW5pIHVu",
+      "title": "Tutor Perini unit wins Sutter Health contract in Sacramento",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/tutor-perini-unit-wins-sutter-health-contract-in-sacramento-93CH-4685558",
+      "source": "Investing.com News",
+      "publishedAt": 1778688295000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Hyliion Holdings Q1 2026 beats forecasts",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hyliion-holdings-q1-2026-beats-forecasts-93CH-4685557",
+      "source": "Investing.com News",
+      "publishedAt": 1778688264000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RyYXRlZ2lzdCBleHBs",
+      "title": "Strategist explains why Democrats are ’likely to win big’ in midterms",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/strategist-explains-why-democrats-are-likely-to-win-big-in-midterms-4685556",
+      "source": "Investing.com News",
+      "publishedAt": 1778688264000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRmx1dHRl",
+      "title": "Form 144 Flutter Entertainment plc For: 13 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-flutter-entertainment-plc-for-13-may-93CH-4685555",
+      "source": "Investing.com News",
+      "publishedAt": 1778688190000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRWF0b24g",
+      "title": "Form 144 Eaton Corp plc For: 13 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-eaton-corp-plc-for-13-may-93CH-4685554",
+      "source": "Investing.com News",
+      "publishedAt": 1778688190000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFRWUyBNb3Rv",
+      "title": "Why is TVS Motor stock slipping today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tvs-motor-stock-slipping-today-93CH-4685553",
+      "source": "Investing.com News",
+      "publishedAt": 1778688166000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield hits new high for the year after very hot producer prices reading",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/treasury-yields-fall-as-investors-digest-hotter-than-expected-cpi-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778687658000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFtaWUgRGltb24gd2Fy",
+      "title": "Jamie Dimon warns JPMorgan may rethink new London office if &apos;very smart&apos; Starmer is ousted as UK PM",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778687636000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHRoaXMgdW5oZXJh",
+      "title": "Why this unheralded AI stock can go higher despite its recent massive rally",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/jim-cramer-this-unheralded-stock-qnity-has-become-one-of-the-investing-clubs-top-performers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778687591000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxpYmFiYSBqdW1wcyBh",
+      "title": "Alibaba jumps as it strikes bullish tone on AI investments, even as profit plunges",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778686416000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5kdXJpbCBkb3VibGVz",
+      "title": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778685931000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2FzIHRheCBob2xpZGF5",
+      "title": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778684198000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWx0bWFuIGRldGFpbHMg",
+      "title": "Altman details Musk&apos;s OpenAI fallout, says nonprofit was &apos;left for dead&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778682950000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FwaXRhbCBPbmUgZmls",
+      "title": "Capital One files lawsuit against alleged &apos;scam campaign&apos; operators — for trademark infringement",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/capital-one-lawsuit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778682394000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29tcGFuaWVzIHN0YXJ0",
+      "title": "Companies start getting tariff refunds after Supreme Court decision",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/12/trump-tariff-refunds.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778682339000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IHRvIGFuc3dlciB0",
+      "title": "How to answer this tricky interview question, says career expert: It shows you have skills that &apos;cannot be replaced&apos; by AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/13/how-to-answer-tell-me-about-a-time-you-disagreed-with-your-boss-in-a-job-interview.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778680446000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -90,111 +360,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWxpYmFiYSZhcG9zO3Mg",
-      "title": "Alibaba&apos;s core profit plunges 84% as CEO says return on AI investments are &apos;extremely clear&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778678729000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsIE1vZnkgaW52",
-      "title": "Global Mofy invests in China’s Moonshot AI financing round",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/global-mofy-invests-in-chinas-moonshot-ai-financing-round-93CH-4684896",
-      "source": "Investing.com News",
-      "publishedAt": 1778678711000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9iaWxlLWhlYWx0aCBO",
-      "title": "Mobile-health Network Solutions seeks $100M equity funding",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mobilehealth-network-solutions-seeks-100m-equity-funding-93CH-4684895",
-      "source": "Investing.com News",
-      "publishedAt": 1778678703000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgY3JpdGljaXNl",
-      "title": "Apple criticises EU measures to help AI rivals access Google services",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-criticises-eu-measures-to-help-ai-rivals-access-google-services-4684861",
-      "source": "Investing.com News",
-      "publishedAt": 1778678690000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Canadian Utilities Q1 2026 results miss EPS forecasts",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-canadian-utilities-q1-2026-results-miss-eps-forecasts-93CH-4684892",
-      "source": "Investing.com News",
-      "publishedAt": 1778678688000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Brenntag Q1 2026 faces margin resilience amid challenges",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-brenntag-q1-2026-faces-margin-resilience-amid-challenges-93CH-4684891",
-      "source": "Investing.com News",
-      "publishedAt": 1778678688000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: DarioHealth Q1 2026 revenue grows, stock rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dariohealth-q1-2026-revenue-grows-stock-rises-93CH-4684890",
-      "source": "Investing.com News",
-      "publishedAt": 1778678687000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hvbGVzYWxlIGluZmxh",
       "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
       "summary": "",
@@ -204,36 +369,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIENsdWImYXBvcztz",
-      "title": "The Club&apos;s top 10 things to watch in the stock market Wednesday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/the-clubs-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778678284000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYXJyaXZlcyBp",
-      "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778678216000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -270,21 +405,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmVuc2VuIEh1YW5nIGpv",
-      "title": "Jensen Huang joins Trump&apos;s China trip after the U.S. president called the Nvidia CEO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778676910000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SHlwZXJzY2FsZXJzJmFw",
       "title": "Hyperscalers&apos; AI buildout will require massive amounts of energy. Two under-the-radar stocks will benefit",
       "summary": "",
@@ -296,23 +416,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2FudHMgZ2Fz",
-      "title": "Trump wants gas tax relief. But slim driver savings could strain a key federal fund",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/12/trump-gas-tax-suspension.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778675969000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -332,36 +435,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7Qm9uZCBtYXJr",
-      "title": "&apos;Bond markets on edge&apos; as King Charles sets out fragile UK government&apos;s agenda",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/gilts-sterling-starmer-king-charles-uk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778672490000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFtaWUgRGltb24gd2Fy",
-      "title": "Jamie Dimon warns JPMorgan may rethink new London office if &apos;very smart&apos; Starmer is ousted as UK PM",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778672451000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
       "title": "Mortgage rates move to highest level in 5 weeks, but homebuyers shake it off",
       "summary": "",
@@ -371,21 +444,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2FzIHRheCBob2xpZGF5",
-      "title": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778666401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -501,21 +559,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXQmYXBvcztzIG5vdCBq",
-      "title": "It&apos;s not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778619899000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXV0by1zdGF0ZSBsYXdt",
       "title": "Auto-state lawmakers seek to keep certain Chinese vehicles out of U.S. as Trump heads to Beijing",
       "summary": "",
@@ -567,51 +610,6 @@
       "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
       "source": "CNBC Markets",
       "publishedAt": 1778613748000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29tcGFuaWVzIHN0YXJ0",
-      "title": "Companies start getting tariff refunds after Supreme Court decision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/12/trump-tariff-refunds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778611429000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3R1ZGVudCBsb2FuIGlu",
-      "title": "Student loan interest rates are set to rise for 2026-27: Expert analysis",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/12/student-loan-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778611271000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZG9lc24mYXBv",
-      "title": "Trump doesn&apos;t need Congress to restart Iran strikes: Hegseth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/12/trump-congress-iran-war-hegseth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778609413000,
       "lang": "zh-CN",
       "topics": [
         "macro"
