@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778722058157,
-  "crawlUpdatedAt": 1778722058157,
+  "updatedAt": 1778736551702,
+  "crawlUpdatedAt": 1778736551702,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RGVuaXNlIFBvd2VsbCB3",
-      "title": "Denise Powell wins Democratic nomination for open Nebraska House seat, US media projects",
+      "id": "CNBC Markets-WGkgYXNrcyBUcnVtcCBp",
+      "title": "Xi asks Trump if U.S. and China can avoid &apos;Thucydides Trap&apos; at high-stakes summit",
       "summary": "",
-      "url": "https://www.investing.com/news/general-news/denise-powell-wins-democratic-nomination-for-open-nebraska-house-seat-us-media-projects-4686963",
-      "source": "Investing.com News",
-      "publishedAt": 1778721870000,
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778735665000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,27 +28,60 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG9sbGFyIGJvb3N0ZWQg",
-      "title": "Dollar boosted by rate expectations, safe-haven flows as Trump, Xi meet",
+      "id": "Investing.com News-SG9uZGEgYm9va3MgZmly",
+      "title": "Honda books first annual loss, hit by $9 billion EV charge",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-boosted-by-rate-expectations-safehaven-flows-as-trump-xi-meet-4687020",
+      "url": "https://www.investing.com/news/stock-market-news/honda-books-first-annual-loss-hit-by-hefty-ev-charge-4687103",
       "source": "Investing.com News",
-      "publishedAt": 1778721869000,
+      "publishedAt": 1778735567000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtSW52ZXN0",
+      "title": "Analysis-Investors gird for high US Treasury yields as new Fed Chair Warsh battles inflation",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/analysisinvestors-gird-for-high-us-treasury-yields-as-new-fed-chair-warsh-battles-inflation-4687110",
+      "source": "Investing.com News",
+      "publishedAt": 1778735190000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "UST10Y",
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBQUkUgMTRBIENo",
-      "title": "Form PRE 14A Check the appropriate box: For: 13 May",
+      "id": "Investing.com News-QXNpYSBGWCBtdXRlZCBh",
+      "title": "Asia FX muted as Trump-Xi summit begins; yuan hits 3-yr high, rupee at record low",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-pre-14a-check-the-appropriate-box-for-13-may-93CH-4687019",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-muted-as-trumpxi-summit-begins-yuan-hits-3yr-high-rupee-at-record-low-4687109",
       "source": "Investing.com News",
-      "publishedAt": 1778721857000,
+      "publishedAt": 1778735126000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvdGVzdHMgZmxhcmUg",
+      "title": "Protests flare across Havana as power cuts deepen amid US blockade",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/cuba-has-run-out-of-diesel-and-fuel-oil-amid-us-oil-blockade-4686993",
+      "source": "Investing.com News",
+      "publishedAt": 1778734851000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +91,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQmFuZHdp",
-      "title": "Form 144 Bandwidth Inc. For: 13 May",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Fenix Resources Q3 2026 reflects resilience amid challenges",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-bandwidth-inc-for-13-may-93CH-4687018",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q3-2026-reflects-resilience-amid-challenges-93CH-4687107",
       "source": "Investing.com News",
-      "publishedAt": 1778721853000,
+      "publishedAt": 1778734529000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +106,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQXVyYSBN",
-      "title": "Form 144 Aura Minerals Inc. For: 13 May",
+      "id": "Investing.com News-Q2hpbmHigJlzIFhpIGhh",
+      "title": "China’s Xi hails trade progress in Trump summit, sends Taiwan warning",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-aura-minerals-inc-for-13-may-93CH-4687017",
+      "url": "https://www.investing.com/news/stock-market-news/trump-xi-set-for-beijing-talks-with-trade-truce-iran-war-at-stake-4686875",
       "source": "Investing.com News",
-      "publishedAt": 1778721851000,
+      "publishedAt": 1778734512000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3BlbkFJIHNheXMgbm8g",
+      "title": "OpenAI says no user data breached after security issue with open-source library",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/openai-says-no-user-data-breached-after-security-issue-with-opensource-library-4687106",
+      "source": "Investing.com News",
+      "publishedAt": 1778734477000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -89,11 +137,11 @@
     },
     {
       "id": "CNBC Markets-SW4gcGhvdG9zOiBUcnVt",
-      "title": "In photos: Trump lands in China ahead of high-stakes summit with Xi",
+      "title": "In photos: Trump kicks off high-stakes summit with Xi",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/14/in-photos-trump-lands-in-beijing-ahead-of-high-stakes-summit-with-xi.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778721763000,
+      "publishedAt": 1778733856000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +151,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQWZmaXJt",
-      "title": "Form 144 Affirm Holdings For: 13 May",
+      "id": "Investing.com News-Q2hpbmHigJlzIHl1YW4g",
+      "title": "China’s yuan hits 3-year high, stocks dip, as Trump-Xi summit begins",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-affirm-holdings-for-13-may-93CH-4687016",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-yuan-hits-3year-high-stocks-dip-as-trumpxi-summit-begins-4687105",
       "source": "Investing.com News",
-      "publishedAt": 1778721681000,
+      "publishedAt": 1778733822000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +166,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgVGVzbGEg",
-      "title": "Form 144 Tesla For: 13 May",
+      "id": "Investing.com News-Qk9KIGJvYXJkIG1lbWJl",
+      "title": "BOJ board member Masu calls for early rate hike",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-tesla-for-13-may-93CH-4687015",
+      "url": "https://www.investing.com/news/economy-news/boj-board-member-masu-calls-for-early-rate-hike-4687104",
       "source": "Investing.com News",
-      "publishedAt": 1778721681000,
+      "publishedAt": 1778733783000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW7igJlzIEVuZW9z",
+      "title": "Japan’s Eneos to buy Chevron Asia assets for $2.2 bln",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/japans-eneos-to-buy-chevron-asia-assets-for-22-bln-4687102",
+      "source": "Investing.com News",
+      "publishedAt": 1778733678000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +196,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQmVPbmUg",
-      "title": "Form 144 BeOne Medicines Ltd. For: 13 May",
+      "id": "CNBC Markets-T2lsIHJpc2VzIGFzIElF",
+      "title": "Oil rises as IEA flags greater volatility ahead, OPEC cuts demand forecast",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-beone-medicines-ltd-for-13-may-93CH-4687014",
-      "source": "Investing.com News",
-      "publishedAt": 1778721679000,
+      "url": "https://www.cnbc.com/2026/05/14/oil-prices-today-wti-brent-hormuz-trump-xi-meeting.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778732746000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,27 +211,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgTUFDT00g",
-      "title": "Form 144 MACOM Technology Solutions Holdings For: 13 May",
+      "id": "CNBC Markets-QXNpYS1QYWNpZmljIHN0",
+      "title": "Asia-Pacific stocks trade mixed as Trump lands in Beijing for high-stakes Xi meeting",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-macom-technology-solutions-holdings-for-13-may-93CH-4687013",
-      "source": "Investing.com News",
-      "publishedAt": 1778721679000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAsIFhpIHNldCBm",
-      "title": "Trump, Xi set for Beijing talks with trade truce, Iran war at stake",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/trump-xi-set-for-beijing-talks-with-trade-truce-iran-war-at-stake-4686875",
-      "source": "Investing.com News",
-      "publishedAt": 1778721516000,
+      "url": "https://www.cnbc.com/2026/05/14/asia-pacific-markets-live-donald-trump-xi-jinping-us-china-meeting-hang-seng-nikkei-kospi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778723707000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -193,12 +241,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXNpYS1QYWNpZmljIHN0",
-      "title": "Asia-Pacific stocks trade mixed as Trump lands in Beijing for high-stakes Xi meeting",
+      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
+      "title": "Inside India newsletter: Trump-Xi meeting could test India’s positioning as China counterweight",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/asia-pacific-markets-live-donald-trump-xi-jinping-us-china-meeting-hang-seng-nikkei-kospi.html",
+      "url": "https://www.cnbc.com/2026/05/14/inside-india-trump-xi-meeting-us-china-indo-pacific.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778717698000,
+      "publishedAt": 1778718310000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -409,21 +457,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgYXJyaXZlcyBp",
-      "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778694879000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2FzIHRheCBob2xpZGF5",
       "title": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
       "summary": "",
@@ -436,21 +469,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9ybXV6IGNsb3N1cmUg",
-      "title": "Hormuz closure cuts OPEC oil production by 30% and threatens demand growth this year, cartel says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/opec-oil-strait-hormuz-iran-war-saudi-arabia-uae.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778690755000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -528,21 +546,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FwaXRhbCBPbmUgZmls",
-      "title": "Capital One files lawsuit against alleged &apos;scam campaign&apos; operators — for trademark infringement",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/capital-one-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778682394000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
