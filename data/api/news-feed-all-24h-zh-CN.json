@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778781793099,
-  "crawlUpdatedAt": 1778781793099,
+  "updatedAt": 1778789758249,
+  "crawlUpdatedAt": 1778789758249,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,378 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Rm9yZCBzdXJnZXMgbmVh",
+      "title": "Ford surges nearly 20% in two days. It might be an AI &apos;meme&apos; stock after energy pivot",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/ford-surges-20percent-in-two-days-it-might-be-an-ai-meme-stock-after-energy-pivot.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778789630000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2VyZWJyYXMgcG9wcyA2",
+      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker&apos;s market cap to $95 billion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778789237000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVtcyBkZW1hbmQgTHV0",
+      "title": "Dems demand Lutnick resign over Epstein interview: &apos;You lied&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/howard-lutnick-jeffrey-epstein-commerce-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778789128000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmVyc2FudCBzdG9jayBq",
+      "title": "Versant stock jumps 10% after company&apos;s Q1 report shows bright spots in licensing, platforms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778788896000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q0RDIHNheXMgdGhlcmUg",
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/cdc-no-us-hantavirus-cases-people-monitored.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778788583000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2FzaCBQYXRlbCBhcHBl",
+      "title": "Kash Patel appeals dismissal of defamation lawsuit against ex-FBI official Figliuzzi",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/fbi-patel-appeal-defamation-lawsuit-frank-figliuzzi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778788545000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlc2UgdGhyZWUgYXJ0",
+      "title": "These three artworks could sell for $100 million each next week as May auctions begin",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/may-art-auctions-sales-estimates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778788447000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVGhlIEVX",
+      "title": "Form 144 The EW Scripps Co For: 14 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-the-ew-scripps-co-for-14-may-93CH-4689986",
+      "source": "Investing.com News",
+      "publishedAt": 1778788288000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTUtTIElO",
+      "title": "Form 144 MKS INC For: 14 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-mks-inc-for-14-may-93CH-4689985",
+      "source": "Investing.com News",
+      "publishedAt": 1778788282000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVEVYQVMg",
+      "title": "Form 144 TEXAS INSTRUMENTS INCORPORATED For: 14 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-texas-instruments-incorporated-for-14-may-93CH-4689984",
+      "source": "Investing.com News",
+      "publishedAt": 1778788276000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA2SyBFREVOT1Ig",
+      "title": "Form 6K EDENOR For: 14 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-6k-edenor-for-14-may-93CH-4689983",
+      "source": "Investing.com News",
+      "publishedAt": 1778788240000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmlvZ2VuIGZhbGwgNiUg",
+      "title": "Biogen fall 6% despite positive Alzheimer’s drug trial data",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/biogen-stock-jumps-10-on-positive-phase-2-diranersen-data-for-alzheimers-4687953",
+      "source": "Investing.com News",
+      "publishedAt": 1778788201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJnZW50aW5hIGluZmxh",
+      "title": "Argentina inflation dips in April",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/argentina-inflation-dips-in-april-4689964",
+      "source": "Investing.com News",
+      "publishedAt": 1778788169000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFycmlvdHTigJlzIHBy",
+      "title": "Marriott’s pres. Greater China Mao Yibing sells $1.67m in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/marriotts-pres-greater-china-mao-yibing-sells-167m-in-stock-93CH-4689982",
+      "source": "Investing.com News",
+      "publishedAt": 1778788155000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q0RDIHNheXMgbm8gaGFu",
+      "title": "CDC says no hantavirus cases in US, 41 people being monitored",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cdc-says-41-people-being-monitored-for-hantavirus-in-us-4689806",
+      "source": "Investing.com News",
+      "publishedAt": 1778788150000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVZlbmV6",
+      "title": "Exclusive-Venezuela debt restructuring to bring country ’out of shadows,’ central bank chief says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/exclusivevenezuela-debt-restructuring-to-bring-country-out-of-shadows-central-bank-chief-says-4689811",
+      "source": "Investing.com News",
+      "publishedAt": 1778788134000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxMFEgU09VVEgg",
+      "title": "Form 10Q SOUTH DAKOTA SOYBEAN PROCESSORS LLC For: 14 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-10q-south-dakota-soybean-processors-llc-for-14-may-93CH-4689981",
+      "source": "Investing.com News",
+      "publishedAt": 1778788029000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmVhcmx5IDQwJSBjaGFu",
+      "title": "Nearly 40% chances of stagflation by end of 2026, traders say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/nearly-40percent-chances-of-stagflation-by-end-of-2026-traders-say-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778787242000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9uZCBtYXJrZXQgYmVs",
+      "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778786780000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmVzZSBwYXJ0cyBh",
+      "title": "Chinese parts are already in U.S. cars as lawmakers warn Trump against China auto deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/trump-china-chinese-autos.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778785437000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIEdvdmVybm9yIE1p",
+      "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778784631000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUZDJmFwb3M7cyBEYW5h",
+      "title": "UFC&apos;s Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778784300000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29tZSBzaG9ydCBzZWxs",
+      "title": "Some short sellers are seeing opportunity in this tech mania. How they&apos;re spotting fake AI stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778783722000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSBTdGFyYnVja3MgdXBn",
+      "title": "A Starbucks upgrade tackles a thorny issue pushed by the stock&apos;s skeptics",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/a-starbucks-upgrade-tackles-a-thorny-issue-pushed-by-the-stocks-skeptics.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778782606000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q2hpbmEgd2lsbCBvcmRl",
       "title": "China will order 200 Boeing jets, Trump tells Fox News",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/14/china-boeing-order-airplanes-737-max-trump-says.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778781440000,
+      "publishedAt": 1778781925000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,21 +409,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Rm9yZCBzdXJnZXMgMjAl",
-      "title": "Ford surges 20% in two days. It might be an AI &apos;meme&apos; stock after energy pivot",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/ford-surges-20percent-in-two-days-it-might-be-an-ai-meme-stock-after-energy-pivot.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778780942000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2lzY28gQ0VPIHNheXMg",
       "title": "Cisco CEO says tech is entering a &apos;networking supercycle&apos; as stock pops 13% on strong AI demand",
       "summary": "",
@@ -70,23 +421,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2VyZWJyYXMgYWxtb3N0",
-      "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778780728000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -150,66 +484,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlc2UgdGhyZWUgYXJ0",
-      "title": "These three artworks could sell for $100 million each next week as May auctions begin",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/may-art-auctions-sales-estimates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778779379000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RvY2tzIHVwIG9uIHRl",
-      "title": "Stocks up on tech, China optimism; Dow hits record high for first time since Feb",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-upbeat-on-tech-strength-trumpxi-summit-in-focus-4686974",
-      "source": "Investing.com News",
-      "publishedAt": 1778779163000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgU2VuYXRlIGNvbW1p",
-      "title": "US Senate committee advances crypto bill in milestone for digital assets",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/us-senate-committee-to-weigh-crypto-bill-in-milestone-for-digital-assets-4687633",
-      "source": "Investing.com News",
-      "publishedAt": 1778779137000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2VyZWJyYXMgc2hhcmVz",
-      "title": "Cerebras shares skyrocket in debut as AI mania grips markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/cerebras-set-for-debut-in-stock-market-gripped-by-ai-mania-4687820",
-      "source": "Investing.com News",
-      "publishedAt": 1778779118000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29sZG1hbiBzYXlzIHRl",
       "title": "Goldman says tech stock &apos;up crash&apos; is sign of even more gains to come",
       "summary": "",
@@ -227,132 +501,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: LENSAR Q1 2026: EPS Miss, Stock Rises on Revenue Stability",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lensar-q1-2026-eps-miss-stock-rises-on-revenue-stability-93CH-4689634",
-      "source": "Investing.com News",
-      "publishedAt": 1778779091000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgR3JlZW5s",
-      "title": "Form 144 Greenlight Reinsurance For: 14 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-greenlight-reinsurance-for-14-may-93CH-4689633",
-      "source": "Investing.com News",
-      "publishedAt": 1778779091000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxMFEgV2hlcmUg",
-      "title": "Form 10Q Where Food Comes From Inc For: 14 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-10q-where-food-comes-from-inc-for-14-may-93CH-4689632",
-      "source": "Investing.com News",
-      "publishedAt": 1778779002000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxMFEgQ0hBU0Ug",
-      "title": "Form 10Q CHASE GENERAL CORP For: 14 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-10q-chase-general-corp-for-14-may-93CH-4689631",
-      "source": "Investing.com News",
-      "publishedAt": 1778778983000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgRlVMTEVS",
-      "title": "Form 13F FULLER & THALER ASSET MANAGEMENT For: 14 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-fuller--thaler-asset-management-for-14-may-93CH-4689630",
-      "source": "Investing.com News",
-      "publishedAt": 1778778969000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgQXRsYXMg",
-      "title": "Form 13F Atlas FRM LLC For: 14 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-atlas-frm-llc-for-14-may-93CH-4689629",
-      "source": "Investing.com News",
-      "publishedAt": 1778778959000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0YgTkVVQkVS",
-      "title": "Form 13F NEUBERGER BERMAN TAIWAN (SITE) LTD For: 14 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f--neuberger-berman-taiwan-site-ltd-for-14-may-93CH-4689628",
-      "source": "Investing.com News",
-      "publishedAt": 1778778946000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TXVzayZhcG9zO3MgQ2hp",
       "title": "Musk&apos;s China trip during OpenAI trial prompts apology from his lawyer for CEO&apos;s absence",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html",
       "source": "CNBC Markets",
       "publishedAt": 1778778642000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciB3YW50",
-      "title": "Jim Cramer wants to buy this stock now 10% below its highs. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/jim-cramer-wants-to-buy-this-stock-now-10percent-below-its-highs-heres-why.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778775928000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -375,36 +529,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmVyc2FudCBzdG9jayBq",
-      "title": "Versant stock jumps after company&apos;s Q1 report shows bright spots in licensing, platforms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778774372000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiwgRVUgbGF3bWFr",
-      "title": "U.S., EU lawmakers pledge European scrutiny of Paramount&apos;s WBD deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/paramount-wbd-congress-eu-david-ellison.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778772328000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -469,21 +593,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-NjUlIG9mIHdvcmtlcnMg",
-      "title": "65% of workers have avoided using AI for moral, environmental, privacy or other reasons: CNBC survey",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/most-workers-have-avoided-ai-for-moral-environmental-privacy-other-reasons-cnbc-survey.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778765402000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAtWGkgc3VtbWl0",
       "title": "Trump-Xi summit could hinge on these two crucial tech flashpoints",
       "summary": "",
@@ -496,111 +605,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3R1ZGVudCBsb2FuIGZv",
-      "title": "Student loan forgiveness paths have changed under Trump. How to navigate them",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/student-loan-forgiveness.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778760901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmVzZSBjb21wYW5p",
-      "title": "Chinese companies are ramping up homegrown AI chips, even if Nvidia is coming back",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/china-ai-chips-nvidia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778757429000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGFudGF2aXJ1cyBvdXRi",
-      "title": "Hantavirus outbreak isn&apos;t another Covid pandemic – but experts say it&apos;s testing U.S. readiness",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/hantavirus-cruise-ship-outbreak-where-is-it-what-to-know.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778756401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmVuZXp1ZWxhIGVtYmFy",
-      "title": "Venezuela embarks on $150 billion restructuring of debt amid political turmoil",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/venezuela-bonds-debt-restructure-maduro-trump-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778756028000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG9sZXN0YXIgQ0VPIHRl",
-      "title": "Polestar CEO tells CNBC ‘pump anxiety’ has made EVs ‘all about money’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/polestar-ev-hormuz-iran-energy-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778750020000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuYXRvcnMgaW50cm9k",
-      "title": "Senators introduce ban on lawmakers becoming lobbyists",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/congress-senators-lobbying-ban.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778749202000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3ViYSBzYXlzIG9pbCBh",
-      "title": "Cuba says oil and diesel supplies have run dry under U.S. sanctions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/cuba-oil-diesel-fuel-us-sanctions-blockade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778743039000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
