@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778736551702,
-  "crawlUpdatedAt": 1778736551702,
+  "updatedAt": 1778746363055,
+  "crawlUpdatedAt": 1778746363055,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,60 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-WGkgYXNrcyBUcnVtcCBp",
-      "title": "Xi asks Trump if U.S. and China can avoid &apos;Thucydides Trap&apos; at high-stakes summit",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: NN Inc Q1 2026 beats EPS forecast, stock rises",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778735665000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9uZGEgYm9va3MgZmly",
-      "title": "Honda books first annual loss, hit by $9 billion EV charge",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/honda-books-first-annual-loss-hit-by-hefty-ev-charge-4687103",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nn-inc-q1-2026-beats-eps-forecast-stock-rises-93CH-4687259",
       "source": "Investing.com News",
-      "publishedAt": 1778735567000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtSW52ZXN0",
-      "title": "Analysis-Investors gird for high US Treasury yields as new Fed Chair Warsh battles inflation",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysisinvestors-gird-for-high-us-treasury-yields-as-new-fed-chair-warsh-battles-inflation-4687110",
-      "source": "Investing.com News",
-      "publishedAt": 1778735190000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBGWCBtdXRlZCBh",
-      "title": "Asia FX muted as Trump-Xi summit begins; yuan hits 3-yr high, rupee at record low",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-muted-as-trumpxi-summit-begins-yuan-hits-3yr-high-rupee-at-record-low-4687109",
-      "source": "Investing.com News",
-      "publishedAt": 1778735126000,
+      "publishedAt": 1778745871000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -76,12 +28,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UHJvdGVzdHMgZmxhcmUg",
-      "title": "Protests flare across Havana as power cuts deepen amid US blockade",
+      "id": "Investing.com News-SlBNb3JnYW4gdXBncmFk",
+      "title": "JPMorgan upgrades Compass Minerals stock rating on cash flow gains",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/cuba-has-run-out-of-diesel-and-fuel-oil-amid-us-oil-blockade-4686993",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-compass-minerals-stock-rating-on-cash-flow-gains-93CH-4687258",
       "source": "Investing.com News",
-      "publishedAt": 1778734851000,
+      "publishedAt": 1778745818000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFpcmQgZG93bmdyYWRl",
+      "title": "Baird downgrades Doximity stock rating on AI investment concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/baird-downgrades-doximity-stock-rating-on-ai-investment-concerns-93CH-4687257",
+      "source": "Investing.com News",
+      "publishedAt": 1778745813000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIGRvd25n",
+      "title": "Jefferies downgrades Doximity stock rating on pharma ad uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-doximity-stock-rating-on-pharma-ad-uncertainty-93CH-4687256",
+      "source": "Investing.com News",
+      "publishedAt": 1778745813000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gZG93bmdy",
+      "title": "JPMorgan downgrades JBS stock rating on industry headwinds",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-jbs-stock-rating-on-industry-headwinds-93CH-4687255",
+      "source": "Investing.com News",
+      "publishedAt": 1778745813000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHVwZ3JhZGVzIENv",
+      "title": "UBS upgrades Commercial Metals stock rating on easing pricing risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-commercial-metals-stock-rating-on-easing-pricing-risks-93CH-4687254",
+      "source": "Investing.com News",
+      "publishedAt": 1778745813000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGh1bmdlbGEgZXhlY3V0",
+      "title": "Thungela executives receive conditional share awards worth R52.2m",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/thungela-executives-receive-conditional-share-awards-worth-r522m-93CH-4687253",
+      "source": "Investing.com News",
+      "publishedAt": 1778745812000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -91,12 +118,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Fenix Resources Q3 2026 reflects resilience amid challenges",
+      "id": "Investing.com News-Um90aC9NS00gaW5pdGlh",
+      "title": "Roth/MKM initiates Suncrete stock with buy on rollup potential",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q3-2026-reflects-resilience-amid-challenges-93CH-4687107",
+      "url": "https://www.investing.com/news/analyst-ratings/rothmkm-initiates-suncrete-stock-with-buy-on-rollup-potential-93CH-4687252",
       "source": "Investing.com News",
-      "publishedAt": 1778734529000,
+      "publishedAt": 1778745811000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHBvdW5kcyBV",
+      "title": "Russia pounds Ukraine in massive air attack, killing 1",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976",
+      "source": "Investing.com News",
+      "publishedAt": 1778745677000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -106,12 +148,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2hpbmHigJlzIFhpIGhh",
-      "title": "China’s Xi hails trade progress in Trump summit, sends Taiwan warning",
+      "id": "Investing.com News-QXVzdHJhbGlhbiBjb3Vy",
+      "title": "Australian court finds grocery giant Coles misled shoppers over discounts",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/trump-xi-set-for-beijing-talks-with-trade-truce-iran-war-at-stake-4686875",
+      "url": "https://www.investing.com/news/stock-market-news/australian-court-finds-grocery-chain-coles-misled-shoppers-in-discount-lawsuit-4686975",
       "source": "Investing.com News",
-      "publishedAt": 1778734512000,
+      "publishedAt": 1778745650000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -121,12 +163,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T3BlbkFJIHNheXMgbm8g",
-      "title": "OpenAI says no user data breached after security issue with open-source library",
+      "id": "CNBC Markets-QXNpYS1QYWNpZmljIHN0",
+      "title": "Asia-Pacific stocks trade mixed as Trump lands in Beijing for high-stakes Xi meeting",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/openai-says-no-user-data-breached-after-security-issue-with-opensource-library-4687106",
-      "source": "Investing.com News",
-      "publishedAt": 1778734477000,
+      "url": "https://www.cnbc.com/2026/05/14/asia-pacific-markets-live-donald-trump-xi-jinping-us-china-meeting-hang-seng-nikkei-kospi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778745134000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAtWGkgc3VtbWl0",
+      "title": "Trump-Xi summit revives China tech rally hopes as U.S. reportedly clears Nvidia H200 sales",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778744650000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnVyYmVycnkgc2F5cyB0",
+      "title": "Burberry says turnaround on track as Americas and China fuel strong growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/burberry-stock-brby-earnings-fy-turnaround-americas-china-sales-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778744463000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9uZCBtYXJrZXRzIGFy",
+      "title": "Bond markets are bracing for UK PM Starmer&apos;s political rivals to break cover",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/uk-labour-leadership-challenge-starmer-rivals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778744280000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gbWFya2V0",
+      "title": "European markets open higher as politics dominates the news agenda",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/europe-markets-stoxx-600-ftse-dax-iran-news-uk-starmer-latest.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778743375000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-WGkgYXNrcyBUcnVtcCBp",
+      "title": "Xi asks Trump if U.S. and China can avoid &apos;Thucydides Trap&apos; at high-stakes summit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778735665000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -151,72 +268,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2hpbmHigJlzIHl1YW4g",
-      "title": "China’s yuan hits 3-year high, stocks dip, as Trump-Xi summit begins",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-yuan-hits-3year-high-stocks-dip-as-trumpxi-summit-begins-4687105",
-      "source": "Investing.com News",
-      "publishedAt": 1778733822000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk9KIGJvYXJkIG1lbWJl",
-      "title": "BOJ board member Masu calls for early rate hike",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/boj-board-member-masu-calls-for-early-rate-hike-4687104",
-      "source": "Investing.com News",
-      "publishedAt": 1778733783000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW7igJlzIEVuZW9z",
-      "title": "Japan’s Eneos to buy Chevron Asia assets for $2.2 bln",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/japans-eneos-to-buy-chevron-asia-assets-for-22-bln-4687102",
-      "source": "Investing.com News",
-      "publishedAt": 1778733678000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2lsIHJpc2VzIGFzIElF",
       "title": "Oil rises as IEA flags greater volatility ahead, OPEC cuts demand forecast",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/14/oil-prices-today-wti-brent-hormuz-trump-xi-meeting.html",
       "source": "CNBC Markets",
       "publishedAt": 1778732746000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYS1QYWNpZmljIHN0",
-      "title": "Asia-Pacific stocks trade mixed as Trump lands in Beijing for high-stakes Xi meeting",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/asia-pacific-markets-live-donald-trump-xi-jinping-us-china-meeting-hang-seng-nikkei-kospi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778723707000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -395,23 +452,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield hits new high for the year after very hot producer prices reading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/treasury-yields-fall-as-investors-digest-hotter-than-expected-cpi-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778702565000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
       "title": "Mortgage rates jump to highest level since March on hotter inflation reports",
       "summary": "",
@@ -504,21 +544,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWxpYmFiYSBqdW1wcyBh",
-      "title": "Alibaba jumps as it strikes bullish tone on AI investments, even as profit plunges",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778686416000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW5kdXJpbCBkb3VibGVz",
       "title": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
       "summary": "",
@@ -573,36 +598,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBK",
-      "title": "Nvidia&apos;s Jensen Huang bets on this British startup to build &apos;next frontier&apos; of AI",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778677201000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SHlwZXJzY2FsZXJzJmFw",
-      "title": "Hyperscalers&apos; AI buildout will require massive amounts of energy. Two under-the-radar stocks will benefit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/13/hyperscalers-ai-buildout-will-require-massive-amounts-of-energy-two-under-the-radar-stocks-will-benefit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778676610000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
