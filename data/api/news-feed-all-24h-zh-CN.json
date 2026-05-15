@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778855216421,
-  "crawlUpdatedAt": 1778855216421,
+  "updatedAt": 1778861993347,
+  "crawlUpdatedAt": 1778861993347,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,15 +13,323 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QnJpc3RvbCBNeWVycyBT",
+      "title": "Bristol Myers Squibb turns to China to develop new drugs in newest cross-continent collaboration",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/bristol-myers-squibb-turns-to-chinas-hengrui-to-replenish-pipeline.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778861955000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says it&apos;s time to trim this volatile AI chipmaker",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/jim-cramer-says-its-time-to-trim-this-volatile-ai-chipmaker-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778861406000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9ydHVnYWwgc3RvY2tz",
+      "title": "Portugal stocks lower at close of trade; PSI down 1.00%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-100-4693153",
+      "source": "Investing.com News",
+      "publishedAt": 1778861297000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0aGVybGFuZHMgc3Rv",
+      "title": "Netherlands stocks lower at close of trade; AEX down 1.09%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-109-4693152",
+      "source": "Investing.com News",
+      "publishedAt": 1778861267000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZC5jb20gQ0VPIEdy",
+      "title": "Gold.com CEO Gregory Roberts sells $1.66m in shares after option exercise",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/goldcom-ceo-gregory-roberts-sells-166m-in-shares-after-option-exercise-93CH-4693151",
+      "source": "Investing.com News",
+      "publishedAt": 1778861251000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2lsdmVyIGNyYXNoZXMg",
+      "title": "Silver crashes 10.3% to $76.54 with RSI at 17.8 - levels refresh every hour",
+      "summary": "",
+      "url": "https://www.investing.com/news/pro/silver-crashes-753-with-rsi-at-1347--live-levels-updated-this-hour-93CH-4691275",
+      "source": "Investing.com News",
+      "publishedAt": 1778861242000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkRBIGRydWcgY2VudGVy",
+      "title": "FDA drug center chief Hoeg to reportedly depart agency days after Makary exit",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/fda-drug-center-chief-hoeg-to-reportedly-depart-agency-days-after-makary-exit-93CH-4693150",
+      "source": "Investing.com News",
+      "publishedAt": 1778861239000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXRhbHkgc3RvY2tzIGxv",
+      "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 1.83%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-183-4693149",
+      "source": "Investing.com News",
+      "publishedAt": 1778861239000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZC5jb20gQ0VPIEdy",
+      "title": "Gold.com CEO Gregory N Roberts sells $1.66m in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/goldcom-ceo-gregory-n-roberts-sells-166m-in-company-stock-93CH-4693148",
+      "source": "Investing.com News",
+      "publishedAt": 1778861236000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVjaCBDRU9zIGludml0",
+      "title": "Tech CEOs invited to US Capitol to testify about children’s online safety",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tech-ceos-summoned-to-capitol-for-june-hearing-axios-reports-4692613",
+      "source": "Investing.com News",
+      "publishedAt": 1778861236000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW90b3IgdmVoaWNsZXMs",
+      "title": "Motor vehicles, AI boost US manufacturing production; supply shortages from war loom",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/us-manufacturing-output-accelerates-on-auto-production-in-april-4692673",
+      "source": "Investing.com News",
+      "publishedAt": 1778861218000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V0hPIHdhcm5zIGxvb3Nl",
+      "title": "WHO warns loosely regulated nicotine pouches risk youth addiction",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/who-warns-loosely-regulated-nicotine-pouches-risk-youth-addiction-4692419",
+      "source": "Investing.com News",
+      "publishedAt": 1778861197000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmVzZSBFVnMgYXJl",
+      "title": "Chinese EVs are coming to Canada, and some dealers can&apos;t wait to sell them",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778860148000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXh4b24mYXBvcztzIG9u",
+      "title": "Exxon&apos;s once-hefty dividend is now tiny. Here&apos;s how to fix that",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/exxons-once-hefty-dividend-is-now-tiny-heres-how-to-fix-that.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778860087000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFnbnVtIEljZSBDcmVh",
+      "title": "Magnum Ice Cream stock soars after report of potential private equity takeover",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/magnum-ice-cream-takeover-report-blackstone-cdr.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778859132000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RlcGhlbiBNaXJhbiBl",
+      "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778859082000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmFtaWx5IGludmVzdG9y",
+      "title": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/family-investors-economy-businesses-to-avoid-ai-disruption.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778858870000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IENoaW5hIGFuZCBV",
+      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778857080000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
+      "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778856945000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
       "title": "Oil prices jump after Trump says he is losing patience with Iran",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778854722000,
+      "publishedAt": 1778855333000,
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5mbGF0aW9uIHJhdGUg",
+      "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778854827000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -43,113 +351,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Mastech Q1 2026 results disappoint, stock falls",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mastech-q1-2026-results-disappoint-stock-falls-93CH-4692797",
-      "source": "Investing.com News",
-      "publishedAt": 1778854079000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: ImmuCell Q1 2026 marks milestone with revenue surge",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-immucell-q1-2026-marks-milestone-with-revenue-surge-93CH-4692796",
-      "source": "Investing.com News",
-      "publishedAt": 1778854072000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc3VnZ2VzdHMg",
-      "title": "Trump suggests deadly Russian strike on Kyiv could set back peace efforts",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-suggests-deadly-russian-strike-on-kyiv-could-set-back-peace-efforts-4692795",
-      "source": "Investing.com News",
-      "publishedAt": 1778854035000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmFsdGVycmEgUGxhdGlu",
-      "title": "Valterra Platinum issues R2 billion in floating rate notes",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/valterra-platinum-issues-r2-billion-in-floating-rate-notes-93CH-4692794",
-      "source": "Investing.com News",
-      "publishedAt": 1778854016000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZGVidCBsb2FkIGNv",
-      "title": "US debt load could undercut Warsh’s plan to shrink Fed balance sheet",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-debt-load-could-undercut-warshs-plan-to-shrink-fed-balance-sheet-4691480",
-      "source": "Investing.com News",
-      "publishedAt": 1778854014000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: CitroTech’s Q1 2026 highlights strategic growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-citrotechs-q1-2026-highlights-strategic-growth-93CH-4692793",
-      "source": "Investing.com News",
-      "publishedAt": 1778854012000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBlcXVpdHkgZnVu",
-      "title": "U.S. equity fund inflows at three week high on chipmaker demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-equity-fund-inflows-at-three-week-high-on-chipmaker-demand-4692792",
-      "source": "Investing.com News",
-      "publishedAt": 1778853994000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmEgd2lsbCBidXkg",
       "title": "China will buy more U.S. oil because it is a natural trade partner, says Energy Secretary Wright",
       "summary": "",
@@ -165,51 +366,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VW5pY2hhcm0gdG8gYWNx",
-      "title": "Unicharm to acquire Brazilian pet food maker Nutrire",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/unicharm-to-acquire-brazilian-pet-food-maker-nutrire-93CH-4692791",
-      "source": "Investing.com News",
-      "publishedAt": 1778853920000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEdsb2JhbnQg",
-      "title": "Why is Globant stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-globant-stock-surging-today-93CH-4692790",
-      "source": "Investing.com News",
-      "publishedAt": 1778853907000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Alkane Resources beats Q3 2026 forecasts despite stock dip",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-beats-q3-2026-forecasts-despite-stock-dip-93CH-4692788",
-      "source": "Investing.com News",
-      "publishedAt": 1778853838000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2VyZWJyYXMgc3RvY2sg",
       "title": "Cerebras stock falls 10% after blockbuster IPO debut — here&apos;s what&apos;s happening",
       "summary": "",
@@ -222,23 +378,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
-      "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778852811000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -278,21 +417,6 @@
       "url": "https://www.cnbc.com/2026/05/15/andy-burnham-uk-keir-starmer-labour-election-bonds-gilts-sterling-markets.html",
       "source": "CNBC Markets",
       "publishedAt": 1778850820000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778849868000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -347,21 +471,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWFnbnVtIEljZSBDcmVh",
-      "title": "Magnum Ice Cream stock soars after report of potential private equity takeover",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/magnum-ice-cream-takeover-report-blackstone-cdr.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778847017000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWFpbmUgbWlnaHQgYm9v",
       "title": "Maine might boot Sen. Susan Collins. It could hurt the state&apos;s wallet for years",
       "summary": "",
@@ -377,18 +486,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RmFtaWx5IGludmVzdG9y",
-      "title": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
+      "id": "CNBC Markets-VHJ1bXAtWGkgc3VtbWl0",
+      "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/family-investors-economy-businesses-to-avoid-ai-disruption.html",
+      "url": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778843827000,
+      "publishedAt": 1778845718000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -422,21 +531,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmlsbGlvbmFpcmUgR2F1",
-      "title": "Billionaire Gautam Adani and nephew agree to pay $18 million in SEC settlement over fraud allegations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/us-sec-settlement-gautam-adani-sagar-adani-fraud-case.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778823022000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG9uZGEgc2hhcmVzIHJp",
       "title": "Honda shares rise over 7% as investors shrug off first operating loss in nearly 70 years",
       "summary": "",
@@ -449,51 +543,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2xvc2luZyBhcmd1bWVu",
-      "title": "Closing arguments conclude in Musk v. Altman, jury to deliberate next week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/closing-arguments-jury-openai-musk-altman.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778806959000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVyIGJhY2tzIE52",
-      "title": "Cramer backs Nvidia selling AI chips in China — but says the stock can thrive either way",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/cramer-backs-nvidia-selling-ai-chips-in-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778800507000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBh",
-      "title": "Supreme Court allows mail-order of abortion pill mifepristone pending appeal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/supreme-court-abortion-mifepristone-mail-order-appeal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778799605000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -548,53 +597,6 @@
       "url": "https://www.cnbc.com/2026/05/14/cerebras-ipo-mints-two-billionaires-sets-stage-for-potential-ai-wave.html",
       "source": "CNBC Markets",
       "publishedAt": 1778793580000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2VyZWJyYXMgcG9wcyA2",
-      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker&apos;s market cap to $95 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778789237000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0RDIHNheXMgdGhlcmUg",
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/cdc-no-us-hantavirus-cases-people-monitored.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778788583000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2FzaCBQYXRlbCBhcHBl",
-      "title": "Kash Patel appeals dismissal of defamation lawsuit against ex-FBI official Figliuzzi",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/fbi-patel-appeal-defamation-lawsuit-frank-figliuzzi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778788545000,
       "lang": "zh-CN",
       "topics": [
         "macro"
