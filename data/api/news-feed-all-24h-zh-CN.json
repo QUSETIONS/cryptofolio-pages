@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1778844848540,
-  "crawlUpdatedAt": 1778844848540,
+  "updatedAt": 1778855216421,
+  "crawlUpdatedAt": 1778855216421,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,241 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSB3",
-      "title": "Trump says he will soon make decision about sanctions on Chinese companies buying Iranian oil",
+      "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
+      "title": "Oil prices jump after Trump says he is losing patience with Iran",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
+      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778844832000,
+      "publishedAt": 1778854722000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzIHRvIGxh",
+      "title": "Starbucks to lay off 300 U.S. employees, shutter some regional support offices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/starbucks-to-lay-off-300-us-employees-close-some-regional-offices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778854662000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Mastech Q1 2026 results disappoint, stock falls",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mastech-q1-2026-results-disappoint-stock-falls-93CH-4692797",
+      "source": "Investing.com News",
+      "publishedAt": 1778854079000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: ImmuCell Q1 2026 marks milestone with revenue surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-immucell-q1-2026-marks-milestone-with-revenue-surge-93CH-4692796",
+      "source": "Investing.com News",
+      "publishedAt": 1778854072000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc3VnZ2VzdHMg",
+      "title": "Trump suggests deadly Russian strike on Kyiv could set back peace efforts",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-suggests-deadly-russian-strike-on-kyiv-could-set-back-peace-efforts-4692795",
+      "source": "Investing.com News",
+      "publishedAt": 1778854035000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmFsdGVycmEgUGxhdGlu",
+      "title": "Valterra Platinum issues R2 billion in floating rate notes",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/valterra-platinum-issues-r2-billion-in-floating-rate-notes-93CH-4692794",
+      "source": "Investing.com News",
+      "publishedAt": 1778854016000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZGVidCBsb2FkIGNv",
+      "title": "US debt load could undercut Warsh’s plan to shrink Fed balance sheet",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-debt-load-could-undercut-warshs-plan-to-shrink-fed-balance-sheet-4691480",
+      "source": "Investing.com News",
+      "publishedAt": 1778854014000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: CitroTech’s Q1 2026 highlights strategic growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-citrotechs-q1-2026-highlights-strategic-growth-93CH-4692793",
+      "source": "Investing.com News",
+      "publishedAt": 1778854012000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBlcXVpdHkgZnVu",
+      "title": "U.S. equity fund inflows at three week high on chipmaker demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-equity-fund-inflows-at-three-week-high-on-chipmaker-demand-4692792",
+      "source": "Investing.com News",
+      "publishedAt": 1778853994000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgd2lsbCBidXkg",
+      "title": "China will buy more U.S. oil because it is a natural trade partner, says Energy Secretary Wright",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-import-xi-trump-chris-wright.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778853962000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VW5pY2hhcm0gdG8gYWNx",
+      "title": "Unicharm to acquire Brazilian pet food maker Nutrire",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/unicharm-to-acquire-brazilian-pet-food-maker-nutrire-93CH-4692791",
+      "source": "Investing.com News",
+      "publishedAt": 1778853920000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEdsb2JhbnQg",
+      "title": "Why is Globant stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-globant-stock-surging-today-93CH-4692790",
+      "source": "Investing.com News",
+      "publishedAt": 1778853907000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Alkane Resources beats Q3 2026 forecasts despite stock dip",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-beats-q3-2026-forecasts-despite-stock-dip-93CH-4692788",
+      "source": "Investing.com News",
+      "publishedAt": 1778853838000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2VyZWJyYXMgc3RvY2sg",
+      "title": "Cerebras stock falls 10% after blockbuster IPO debut — here&apos;s what&apos;s happening",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/cerebras-stock-ipo-debut-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778853336000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
+      "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778852811000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U3Vydml2b3Li",
+      "title": "&apos;Survivor’s penalty’ can follow the death of a spouse — but its impact may be smaller than expected",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/15/survivors-penalty-spouse-dies.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778852128000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -29,32 +258,17 @@
     },
     {
       "id": "CNBC Markets-QmlsbCBBY2ttYW4gYnVp",
-      "title": "Bill Ackman built Microsoft stake in first quarter during selloff, betting on AI and cloud growth",
+      "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778844826000,
+      "publishedAt": 1778851691000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAtWGkgc3VtbWl0",
-      "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778844771000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -63,7 +277,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/15/andy-burnham-uk-keir-starmer-labour-election-bonds-gilts-sterling-markets.html",
       "source": "CNBC Markets",
-      "publishedAt": 1778844122000,
+      "publishedAt": 1778850820000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +287,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA2SyBQcnVkZW50",
-      "title": "Form 6K Prudential Public Ltd Comp For: 15 May",
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-prudential-public-ltd-comp-for-15-may-93CH-4691919",
-      "source": "Investing.com News",
-      "publishedAt": 1778844059000,
+      "url": "https://www.cnbc.com/2026/05/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778849868000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +302,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA2SyBQb3dlckJh",
-      "title": "Form 6K PowerBank Corp For: 15 May",
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyB0",
+      "title": "Nvidia&apos;s trillion-dollar run puts pressure on the bulls",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-powerbank-corp-for-15-may-93CH-4691907",
-      "source": "Investing.com News",
-      "publishedAt": 1778844051000,
+      "url": "https://www.cnbc.com/2026/05/15/nvidias-trillion-dollar-run-puts-pressure-on-the-bulls.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778849799000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +317,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA2SyBBVCZUIEZv",
-      "title": "Form 6K AT&T For: 15 May",
+      "id": "CNBC Markets-VHJ1bXAgdG9sZCBYaSDi",
+      "title": "Trump told Xi ‘I don&apos;t talk about’ whether U.S. would defend Taiwan from China",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-att-for-15-may-93CH-4691906",
-      "source": "Investing.com News",
-      "publishedAt": 1778844047000,
+      "url": "https://www.cnbc.com/2026/05/15/trump-china-xi-taiwan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778849272000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +332,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA4SyBUcmlsb2d5",
-      "title": "Form 8K Trilogy Metals Inc. For: 15 May",
+      "id": "CNBC Markets-RGV0cm9pdCBhdXRvbWFr",
+      "title": "Detroit automakers have cut more than 20,000 U.S. salaried jobs as AI threat looms",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-trilogy-metalsinc-for-15-may-93CH-4691905",
-      "source": "Investing.com News",
-      "publishedAt": 1778844041000,
+      "url": "https://www.cnbc.com/2026/05/15/general-motors-ford-stellantis-job-cuts-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778847243000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +347,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA2SyBSZWUgQXV0",
-      "title": "Form 6K Ree Automotive Holding Inc For: 15 May",
+      "id": "CNBC Markets-TWFnbnVtIEljZSBDcmVh",
+      "title": "Magnum Ice Cream stock soars after report of potential private equity takeover",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-ree-automotive-holding-inc-for-15-may-93CH-4691904",
-      "source": "Investing.com News",
-      "publishedAt": 1778844041000,
+      "url": "https://www.cnbc.com/2026/05/15/magnum-ice-cream-takeover-report-blackstone-cdr.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778847017000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,75 +362,14 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA4SyBOYW5vIE51",
-      "title": "Form 8K Nano Nuclear Energy Inc For: 15 May",
+      "id": "CNBC Markets-TWFpbmUgbWlnaHQgYm9v",
+      "title": "Maine might boot Sen. Susan Collins. It could hurt the state&apos;s wallet for years",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-8k-nano-nuclear-energy-inc-for-15-may-93CH-4691903",
-      "source": "Investing.com News",
-      "publishedAt": 1778844037000,
+      "url": "https://www.cnbc.com/2026/05/15/maine-graham-platner-susan-collins-senate-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778846401000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA2SyBLYW56aHVu",
-      "title": "Form 6K Kanzhun Ltd For: 15 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-6k-kanzhun-ltd-for-15-may-93CH-4691902",
-      "source": "Investing.com News",
-      "publishedAt": 1778844035000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29udmV4IHJlcG9ydHMg",
-      "title": "Convex reports $106m net income in first quarter 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/convex-reports-106m-net-income-in-first-quarter-2026-93CH-4691901",
-      "source": "Investing.com News",
-      "publishedAt": 1778844024000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BwZW5oZWltZXIgcmVp",
-      "title": "Oppenheimer reiterates Perform rating on Figma stock after Q1 beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-perform-rating-on-figma-stock-after-q1-beat-93CH-4691900",
-      "source": "Investing.com News",
-      "publishedAt": 1778843941000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsIGluZmxhdGlv",
-      "title": "Israel inflation rate holds at 1.9% in April, Iran war boosts CPI m/m",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/israel-inflation-rate-holds-at-19-in-april-iran-war-boosts-cpi-mm-4691899",
-      "source": "Investing.com News",
-      "publishedAt": 1778843936000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
         "macro"
       ],
       "symbols": [],
@@ -239,57 +392,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWFnbnVtIEljZSBDcmVh",
-      "title": "Magnum Ice Cream stock soars 18% after report of potential private equity takeover",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/magnum-ice-cream-takeover-report-blackstone-cdr.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778842918000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2VyZWJyYXMgc3RvY2sg",
-      "title": "Cerebras stock falls after blockbuster IPO debut — here&apos;s what&apos;s happening",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/cerebras-stock-ipo-debut-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778841534000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VUFFIGZhc3QgdHJhY2tz",
       "title": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/15/uae-west-east-oil-pipeline-strait-hormuz-iran-war.html",
       "source": "CNBC Markets",
       "publishedAt": 1778836797000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBqdW1w",
-      "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778834001000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -311,21 +419,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2luZ2Fwb3JlIEFpcmxp",
-      "title": "Singapore Airlines sticking with Air India for the \"long game\" despite losses",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/singapore-airlines-hurt-by-air-india-losses-investment-could-pay-off.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778824797000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -419,21 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGVtcyBkZW1hbmQgTHV0",
-      "title": "Dems demand Lutnick resign over Epstein interview: &apos;You lied&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/howard-lutnick-jeffrey-epstein-commerce-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778797585000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2VtaW5pIHN1cmdlcyBh",
       "title": "Gemini surges after Winklevoss Capital Fund invests $100 million in the crypto exchange",
       "summary": "",
@@ -464,23 +542,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RmVkIEdvdmVybm9yIE1p",
-      "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778795256000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2VyZWJyYXMgSVBPIG1p",
       "title": "Cerebras IPO mints two billionaires, sets stage for potential AI wave",
       "summary": "",
@@ -493,51 +554,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCZhcG9zO3MgZ29v",
-      "title": "What&apos;s good for Cisco is good for Broadcom. 3 reasons both stocks are soaring",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/whats-good-for-cisco-is-good-for-broadcom-3-reasons-both-stocks-are-up.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778790322000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmVzZSBwYXJ0cyBh",
-      "title": "Chinese parts are already in U.S. cars as lawmakers warn Trump against China auto deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/trump-china-chinese-autos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778789822000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCBzdXJnZXMgbmVh",
-      "title": "Ford surges nearly 20% in two days. It might be an AI &apos;meme&apos; stock after energy pivot",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/ford-surges-20percent-in-two-days-it-might-be-an-ai-meme-stock-after-energy-pivot.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778789630000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -601,21 +617,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3J5cHRvIGluZHVzdHJ5",
-      "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778781358000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
