@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778952880141,
-  "crawlUpdatedAt": 1778952880141,
-  "crawlCount": 37,
+  "updatedAt": 1778959053538,
+  "crawlUpdatedAt": 1778959053538,
+  "crawlCount": 33,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UGxhbmV0IEZpdG5lc3Mg",
+      "title": "Planet Fitness director Frances Rathke purchases $231,050 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/planet-fitness-director-frances-rathke-purchases-231050-in-stock-93CH-4694483",
+      "source": "Investing.com News",
+      "publishedAt": 1778954323000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0sgSHluaXggaXMgc2V0",
+      "title": "SK Hynix is set to become the 2nd Korean company to hit $1 trln market cap",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-is-set-to-become-the-2nd-korean-company-to-hit-1-trln-market-cap-4694482",
+      "source": "Investing.com News",
+      "publishedAt": 1778953748000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW1tdW5pdHlCaW8gc2Vj",
+      "title": "ImmunityBio secures exclusive U.S. rights to Tokyo BCG strain",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/immunitybio-secures-exclusive-us-rights-to-tokyo-bcg-strain-93CH-4694481",
+      "source": "Investing.com News",
+      "publishedAt": 1778953309000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QmxhY2tSb2NrIHdlaWdo",
       "title": "BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports",
@@ -109,51 +154,6 @@
       "url": "https://www.investing.com/news/world-news/brazils-lula-tied-with-senatorflavio-bolsonaro-in-secondround-in-datafolha-poll-4694478",
       "source": "Investing.com News",
       "publishedAt": 1778951555000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Gladstone Land Q1 2026 results show mixed performance",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gladstone-land-q1-2026-results-show-mixed-performance-93CH-4694477",
-      "source": "Investing.com News",
-      "publishedAt": 1778951066000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkRBIGRydWcgY2VudGVy",
-      "title": "FDA drug center head expected to leave after commissioner’s exit, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fda-drug-center-head-expected-to-leave-after-commissioners-exit-sources-say-4694476",
-      "source": "Investing.com News",
-      "publishedAt": 1778950829000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmxhY2tSb2NrIHdlaWdo",
-      "title": "BlackRock weighs $5 bln-$10 bln investment in SpaceX IPO– The Information",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/blackrock-weighs-5-bln10-bln-investment-in-spacex-ipo-the-information-4694475",
-      "source": "Investing.com News",
-      "publishedAt": 1778950142000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -506,70 +506,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RlcGhlbiBNaXJhbiBl",
-      "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778871619000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZGVycyBub3cgc2Vl",
-      "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778871325000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmVzZSBFVnMgYXJl",
-      "title": "Chinese EVs are coming to Canada, and some dealers can&apos;t wait to sell them",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778869538000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5mbGF0aW9uIHJhdGUg",
-      "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778868521000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
