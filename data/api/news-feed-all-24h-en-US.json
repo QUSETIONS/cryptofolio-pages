@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778959053426,
-  "crawlUpdatedAt": 1778959053426,
-  "crawlCount": 33,
+  "updatedAt": 1778962987091,
+  "crawlUpdatedAt": 1778962987091,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBYaSBh",
+      "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-4694428",
+      "source": "Investing.com News",
+      "publishedAt": 1778959829000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnkgYWxs",
+      "title": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-treasury-allows-sanctions-waiver-on-russian-seaborne-oil-to-lapse-4694484",
+      "source": "Investing.com News",
+      "publishedAt": 1778958388000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UGxhbmV0IEZpdG5lc3Mg",
       "title": "Planet Fitness director Frances Rathke purchases $231,050 in stock",
@@ -124,36 +156,6 @@
       "url": "https://www.investing.com/news/forex-news/how-much-additional-firepower-does-japan-have-for-yenbuying-intervention-4694479",
       "source": "Investing.com News",
       "publishedAt": 1778951712000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVucyBvZiB0aG91c2Fu",
-      "title": "Tens of thousands march in London in separate immigration, pro‑Palestinian protests",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/tens-of-thousands-march-in-london-in-separate-immigration-propalestinian-protests-4694460",
-      "source": "Investing.com News",
-      "publishedAt": 1778951571000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhemls4oCZcyBMdWxh",
-      "title": "Brazil’s Lula tied with Senator Flavio Bolsonaro in second-round in Datafolha poll",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/brazils-lula-tied-with-senatorflavio-bolsonaro-in-secondround-in-datafolha-poll-4694478",
-      "source": "Investing.com News",
-      "publishedAt": 1778951555000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -458,51 +460,6 @@
       "url": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
       "source": "CNBC Markets",
       "publishedAt": 1778876909000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCB5b3UgbmVlZCB0",
-      "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778875555000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2VudCBiaWcg",
-      "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778873645000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRzIGJsYXN0",
-      "title": "Democrats blast Trump over &apos;slush fund&apos; in possible IRS lawsuit settlement",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/trump-irs-taxes-democrats.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778873494000,
       "lang": "en-US",
       "topics": [
         "macro"
