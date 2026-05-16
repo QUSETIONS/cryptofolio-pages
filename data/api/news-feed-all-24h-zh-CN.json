@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1778962987215,
-  "crawlUpdatedAt": 1778962987215,
-  "crawlCount": 30,
+  "updatedAt": 1778966798559,
+  "crawlUpdatedAt": 1778966798559,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VGVucyBvZiB0aG91c2Fu",
+      "title": "Tens of thousands march in London in separate immigration, pro‑Palestinian protests",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/tens-of-thousands-march-in-london-in-separate-immigration-propalestinian-protests-4694460",
+      "source": "Investing.com News",
+      "publishedAt": 1778963067000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VHJ1bXAgc2F5cyBYaSBh",
       "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
@@ -150,33 +165,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SG93IG11Y2ggYWRkaXRp",
-      "title": "How much additional firepower does Japan have for yen-buying intervention?",
+      "id": "CNBC Markets-Rm9yIGJldHRlciBvciB3",
+      "title": "For better or worse, investors are living through Trump’s stock market. Here&apos;s why",
       "summary": "",
-      "url": "https://www.investing.com/news/forex-news/how-much-additional-firepower-does-japan-have-for-yenbuying-intervention-4694479",
-      "source": "Investing.com News",
-      "publishedAt": 1778951712000,
+      "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1778950841000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIGJvbmQgbWFya2V0",
-      "title": "The bond market is flashing a warning over Iran. A veteran of energy geopolitics explains the risk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/16/the-bond-market-is-flashing-a-warning-energy-geopolitics-expert-warns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778940074000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -430,36 +430,6 @@
       "url": "https://www.cnbc.com/2026/05/15/jim-cramer-spacex-ipo-market-bubble.html",
       "source": "CNBC Markets",
       "publishedAt": 1778886314000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVya3NoaXJlIEhhdGhh",
-      "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778878203000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG91dGVkIFBh",
-      "title": "Trump touted Palantir on Truth Social after buying the company&apos;s stock, records show",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778876909000,
       "lang": "zh-CN",
       "topics": [
         "macro"
