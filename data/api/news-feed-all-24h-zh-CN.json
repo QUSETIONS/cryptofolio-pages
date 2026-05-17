@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1779002532776,
-  "crawlUpdatedAt": 1779002532776,
-  "crawlCount": 25,
+  "updatedAt": 1779009608456,
+  "crawlUpdatedAt": 1779009608456,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,69 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-NSBiaWcgYW5hbHlzdCBB",
+      "title": "5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pt-hikes-for-samsung-and-sk-hynix-amd-downgraded-4694462",
+      "source": "Investing.com News",
+      "publishedAt": 1779008403000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwYXVzZXMg",
+      "title": "Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512",
+      "source": "Investing.com News",
+      "publishedAt": 1779007336000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm91ciBkZWFkIGFzIE1v",
+      "title": "Four dead as Moscow faces largest Ukrainian drone assault in over a year",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/four-dead-as-moscow-faces-largest-ukrainian-drone-assault-in-over-a-year-4694510",
+      "source": "Investing.com News",
+      "publishedAt": 1779004772000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2Ftc3VuZywgbGFib3Ig",
+      "title": "Samsung, labor union to meet in ‘last chance’ talks to avert costly strike",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/samsung-labor-union-to-meet-in-last-chance-talks-to-avert-costly-strike-4694509",
+      "source": "Investing.com News",
+      "publishedAt": 1779002195000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QUkgZm9yIGJ1c2luZXNz",
       "title": "AI for business services: From job fears to productivity",
@@ -101,68 +164,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVwdWJsaWNhbiBTZW5h",
-      "title": "Republican Senator Cassidy loses re-election to Trump retribution campaign",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/republican-cassidy-faces-trump-retribution-effort-in-louisiana-senate-primary-4694445",
-      "source": "Investing.com News",
-      "publishedAt": 1778989710000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V0hPIHNvdW5kcyBnbG9i",
-      "title": "WHO sounds global emergency alarm over rare, untreatable Ebola strain",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/who-sounds-global-emergency-alarm-over-rare-untreatable-ebola-strain-4694501",
-      "source": "Investing.com News",
-      "publishedAt": 1778987856000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUkgYm9vbSBmdWVscyBy",
-      "title": "AI boom fuels record memory-chip profits, but cyclical risks loom",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ai-boom-fuels-record-memorychip-profits-but-cyclical-risks-loom-4694500",
-      "source": "Investing.com News",
-      "publishedAt": 1778986137000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVkZXJhbCBmdW5kaW5n",
-      "title": "Federal funding for Trump’s ballroom in jeopardy after Senate ruling",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/federal-funding-for-trumps-ballroom-in-jeopardy-after-senate-ruling-4694499",
-      "source": "Investing.com News",
-      "publishedAt": 1778985749000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -372,21 +373,6 @@
       "url": "https://www.cnbc.com/2026/05/16/russias-putin-to-meet-chinas-xi-in-beijing-from-may-19-20.html",
       "source": "CNBC Markets",
       "publishedAt": 1778923609000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IFRhaXdhbiBiZWNh",
-      "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1778919962000,
       "lang": "zh-CN",
       "topics": [
         "macro"
