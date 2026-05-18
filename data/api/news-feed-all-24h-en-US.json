@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1779060909377,
-  "crawlUpdatedAt": 1779060909377,
-  "crawlCount": 18,
+  "updatedAt": 1779078166944,
+  "crawlUpdatedAt": 1779078166944,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-U3RhbmRhcmQgQ2hhcnRl",
-      "title": "Standard Chartered names Manus Costello as permanent CFO",
+      "id": "Investing.com News-U2Ftc3VuZyBFbGVjdHJv",
+      "title": "Samsung Electronics, union hold last-ditch talks to avert strike threatening global supply chains",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/standard-chartered-names-manus-costello-as-permanent-cfo-4694569",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-and-its-south-korean-union-resume-pay-talks-as-strike-risks-loom-4694590",
       "source": "Investing.com News",
-      "publishedAt": 1779059550000,
+      "publishedAt": 1779077598000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBw",
+      "title": "Australia’s property tax overhaul unpopular with voters, polls show",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/australias-property-tax-overhaul-unpopular-with-voters-polls-show-4694622",
+      "source": "Investing.com News",
+      "publishedAt": 1779077575000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXQgU2Ftc3VuZywgdGhl",
-      "title": "At Samsung, the global AI boom spurred a looming strike and deep divisions",
+      "id": "Investing.com News-R2xvYmFsIGJvbmQgcm91",
+      "title": "Global bond rout deepens as inflation fears mount",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions-4694572",
+      "url": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615",
       "source": "Investing.com News",
-      "publishedAt": 1779058835000,
+      "publishedAt": 1779077551000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TVVGSiBGaW5hbmNpYWwg",
+      "title": "MUFJ Financial shares jump after record annual profit, upbeat outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/mufj-financial-shares-jump-after-record-annual-profit-upbeat-outlook-4694621",
+      "source": "Investing.com News",
+      "publishedAt": 1779076878000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgcGxhbnMgdG8g",
+      "title": "Trump plans to build helipad for White House South Lawn- WSJ",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-plans-to-build-helipad-for-white-house-south-lawn-wsj-93CH-4694620",
+      "source": "Investing.com News",
+      "publishedAt": 1779075967000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +88,162 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV4dEVyYSB0byBkaXNj",
-      "title": "NextEra to discuss paying about $76 per share for Dominion, Bloomberg News reports",
+      "id": "Investing.com News-R2luYSBSaW5laGFydOKA",
+      "title": "Gina Rinehart’s Hancock Prospecting adds defence stocks to US portfolio",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nextera-to-discuss-paying-about-76-per-share-for-dominion-bloomberg-news-reports-4694567",
+      "url": "https://www.investing.com/news/stock-market-news/gina-rineharts-hancock-prospecting-adds-defence-stocks-to-us-portfolio-4694619",
       "source": "Investing.com News",
-      "publishedAt": 1779057038000,
+      "publishedAt": 1779075387000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYSBzdG9ja3Mgc2xp",
+      "title": "Asia stocks slip as tech losses, Iran tensions drag; Samsung union talks in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-tech-losses-iran-tensions-drag-samsung-union-talks-in-focus-4694618",
+      "source": "Investing.com News",
+      "publishedAt": 1779075285000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYSBGWCB3ZWFrZW5z",
+      "title": "Asia FX weakens on Iran jitters, yuan soft after China data underwhelms",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-weakens-on-iran-jitters-yuan-soft-after-china-data-underwhelms-4694617",
+      "source": "Investing.com News",
+      "publishedAt": 1779074390000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmHigJlzIEFwcmls",
+      "title": "China’s April new home prices fall at slowest monthly pace in a year",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/china-new-home-prices-fall-at-slowest-monthly-pace-in-a-year-in-april-4694601",
+      "source": "Investing.com News",
+      "publishedAt": 1779073591000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hlaW4gYnV5cyBVUy1i",
+      "title": "Shein buys US-based apparel retailer Everlane, Puck News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/shein-buys-usbased-apparel-retailer-everlane-puck-news-reports-4694614",
+      "source": "Investing.com News",
+      "publishedAt": 1779072877000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWl6dWhvIHNoYXJlcyBz",
+      "title": "Mizuho shares slide 7% after denying decision on reported Rakuten Bank investment shift",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/mizuho-shares-rakuten-bank-investment-card-yomiuri-shimbun-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779072866000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYS1QYWNpZmljIG1h",
+      "title": "Asia-Pacific markets mostly fall as Trump’s Iran warning stokes fresh oil supply fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/asia-pacific-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779072447000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGggS29yZWEgbWFy",
+      "title": "South Korea market volatility nears record high after $13 billion foreign investor selloff",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779071860000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIEFw",
+      "title": "China&apos;s April economic data underwhelms, with retail sales growth slowing to lowest since 2022",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779071221000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hpdGUgSG91c2UgdG91",
+      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779070268000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGp1bXBzIGFzIFRy",
+      "title": "Oil jumps as Trump warns &apos;Clock is Ticking&apos; for Iran, fanning fears of escalation in conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779067785000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -64,111 +259,6 @@
       "url": "https://www.cnbc.com/2026/05/17/cramer-ais-appetite-for-electricity-could-revive-a-forsaken-energy-.html",
       "source": "CNBC Markets",
       "publishedAt": 1779056525000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1lcmljYW5zIGluIENv",
-      "title": "Americans in Congo may have had exposure to Ebola in outbreak, STAT News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/americans-in-congo-may-have-had-exposure-to-ebola-inoutbreak-stat-news-reports-4694571",
-      "source": "Investing.com News",
-      "publishedAt": 1779055992000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHJpc2VzIG1vcmUg",
-      "title": "Oil rises more than 1% after drone attack on UAE nuclear power plant",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570",
-      "source": "Investing.com News",
-      "publishedAt": 1779055971000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJva2VyIGxpYWJpbGl0",
-      "title": "Broker liability ruling and what it could mean for the broader transport space",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/broker-liability-ruling-and-what-it-could-mean-for-the-broader-transport-space-4694568",
-      "source": "Investing.com News",
-      "publishedAt": 1779054175000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWlsaXRhcnkgamV0c+KA",
-      "title": "Military jets’ crew members safely ejected after Idaho air-show collision, Navy says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/military-jets-crew-members-safely-ejected-after-idaho-airshow-collision-navy-says-4694566",
-      "source": "Investing.com News",
-      "publishedAt": 1779053413000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4694565",
-      "source": "Investing.com News",
-      "publishedAt": 1779052803000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBhIHRvcC10aWVy",
-      "title": "What a top-tier data center market looks like, according to Bernstein",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/what-a-toptier-data-center-market-looks-like-according-to-bernstein-4694564",
-      "source": "Investing.com News",
-      "publishedAt": 1779052211000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3ViYSBhY2N1c2VzIFVT",
-      "title": "Cuba accuses US of fabrication after Axios report alleging drone threat",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-assesses-drone-threat-from-cuba-axios-reports-4694529",
-      "source": "Investing.com News",
-      "publishedAt": 1779051967000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -223,21 +313,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2h5IHlvdXIgJmFwb3M7",
-      "title": "Why your &apos;fixed&apos; mortgage payment keeps going up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/17/mortgage-escrow-shortages.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779024601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW1lcmljYW5zIGFyZSBs",
       "title": "Americans are leaving the U.S. in record numbers and spending hundreds to learn how to do it",
       "summary": "",
@@ -250,6 +325,21 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHlvdXIgJmFwb3M7",
+      "title": "Why your &apos;fixed&apos; mortgage payment keeps going up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/17/mortgage-escrow-shortages.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779024601000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
