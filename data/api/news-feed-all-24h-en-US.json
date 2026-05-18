@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1779121804306,
-  "crawlUpdatedAt": 1779121804306,
-  "crawlCount": 38,
+  "updatedAt": 1779128480990,
+  "crawlUpdatedAt": 1779128480990,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIGV2",
-      "title": "Judge blocks evidence from Luigi Mangione backpack in UnitedHealthcare CEO murder case",
+      "id": "CNBC Markets-RWxvbiBNdXNrIGxvc2Vz",
+      "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/luigi-mangione-backpack-evidence-unitedhealthcare-murder.html",
+      "url": "https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779121756000,
+      "publishedAt": 1779128313000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjcmVhdGVzICQx",
+      "title": "U.S. creates $1.8B &apos;lawfare&apos; fund in exchange for Trump dropping $10B IRS suit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/trump-dismiss-irs-lawsuit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779128231000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yIGJldHRlciBvciB3",
+      "title": "For better or worse, investors are living through Trump’s stock market. Here&apos;s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779128011000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +63,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779121224000,
+      "publishedAt": 1779127916000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +73,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGFyZSBVUyBDb3Ju",
-      "title": "Why are US Corn Futures surging today?",
+      "id": "Investing.com News-TmlxIEdsb2JhbCBJbnRl",
+      "title": "Niq Global Intelligence director Peck buys $1.0m in shares",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/why-are-us-corn-futures-surging-today-93CH-4696502",
+      "url": "https://www.investing.com/news/insider-trading-news/niq-global-intelligence-director-peck-buys-10m-in-shares-93CH-4696641",
       "source": "Investing.com News",
-      "publishedAt": 1779121184000,
+      "publishedAt": 1779127724000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +88,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV4dEVyYSBwbGFucyB0",
-      "title": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms",
+      "id": "Investing.com News-QXF1ZXN0aXZlIFRoZXJh",
+      "title": "Aquestive Therapeutics CEO sells $35,413 in company stock",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nextera-energy-to-buy-dominion-in-668-billion-us-power-deal-4695477",
+      "url": "https://www.investing.com/news/insider-trading-news/aquestive-therapeutics-ceo-sells-35413-in-company-stock-93CH-4696640",
       "source": "Investing.com News",
-      "publishedAt": 1779121151000,
+      "publishedAt": 1779127661000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +103,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWR1bHQgZGllcyBvZiBo",
-      "title": "Adult dies of hantavirus in Colorado, state health officials say",
+      "id": "Investing.com News-VGVzbGEsIE9yYWNsZSBh",
+      "title": "Tesla, Oracle among market cap stock movers on Monday",
       "summary": "",
-      "url": "https://www.investing.com/news/general-news/adult-dies-of-hantavirus-in-colorado-state-health-officials-say-4696455",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-oracle-among-market-cap-stock-movers-on-monday-93CH-4696638",
       "source": "Investing.com News",
-      "publishedAt": 1779121131000,
+      "publishedAt": 1779127325000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,102 +118,89 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2xhcml0ZXYgYWRkcmVz",
-      "title": "Claritev addresses report of DOJ antitrust investigation, says not named as target",
+      "id": "Investing.com News-TmVlZGhhbSByZWl0ZXJh",
+      "title": "Needham reiterates Roblox stock rating on user growth rebound",
       "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/claritev-addresses-report-of-doj-antitrust-investigation-says-not-named-as-target-93CH-4696499",
+      "url": "https://www.investing.com/news/analyst-ratings/needham-reiterates-roblox-stock-rating-on-user-growth-rebound-93CH-4696637",
       "source": "Investing.com News",
-      "publishedAt": 1779121117000,
+      "publishedAt": 1779127294000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FzaC1zdHJhcHBlZCBV",
-      "title": "Cash-strapped UN refugee agency to cut more jobs, even as crises mount",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/exclusivecashstrapped-un-refugee-agency-to-cut-more-jobs-even-as-crises-mount-4696012",
-      "source": "Investing.com News",
-      "publishedAt": 1779121110000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgUGFsb21h",
-      "title": "Form 144 Palomar Holdings For: 18 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-palomar-holdings-for-18-may-93CH-4696498",
-      "source": "Investing.com News",
-      "publishedAt": 1779121098000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkFBIGNoaWVmIHRvIHRl",
-      "title": "FAA chief to tell Congress agency failed to act on warnings before fatal crash",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/faa-chief-to-tell-congress-agency-failed-to-act-on-warnings-before-fatal-crash-93CH-4696496",
-      "source": "Investing.com News",
-      "publishedAt": 1779121057000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VuY28gcmVqZWN0cyBE",
-      "title": "Genco rejects Diana Shipping’s $23.50 tender offer as inadequate",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/genco-rejects-diana-shippings-2350-tender-offer-as-inadequate-93CH-4696495",
-      "source": "Investing.com News",
-      "publishedAt": 1779121038000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEJvc3RvbiBT",
-      "title": "Why is Boston Scientific stock rallying today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-boston-scientific-stock-rallying-today-93CH-4696492",
-      "source": "Investing.com News",
-      "publishedAt": 1779120950000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0YgVHJpIExv",
-      "title": "Form 13F Tri Locum Partners LP For: 18 May",
+      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration ends civil, criminal cases against Adani after $10 billion investment promise",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13f-tri-locum-partners-lp-for-18-may-93CH-4696491",
+      "url": "https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263",
       "source": "Investing.com News",
-      "publishedAt": 1779120940000,
+      "publishedAt": 1779127278000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBISUxMUyBC",
+      "title": "Form 8K HILLS BANCORPORATION For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-hills-bancorporation-for-18-may-93CH-4696636",
+      "source": "Investing.com News",
+      "publishedAt": 1779127266000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwbGFpbmVyLVdoYXQg",
+      "title": "Explainer-What is behind Bolivia’s widening protests?",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/explainerwhat-is-behind-bolivias-widening-protests-4696635",
+      "source": "Investing.com News",
+      "publishedAt": 1779127259000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVuZGluZyBob21lIHNh",
+      "title": "Pending home sales and Fed’s Waller speech due Tuesday",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/pending-home-sales-and-feds-waller-speech-due-tuesday-93CH-4696634",
+      "source": "Investing.com News",
+      "publishedAt": 1779127238000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWJlciBhZGRzIHRvIHN0",
+      "title": "Uber adds to stake in Germany’s Delivery Hero, becomes biggest shareholder",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uber-raises-stake-in-germanys-delivery-hero-4696401",
+      "source": "Investing.com News",
+      "publishedAt": 1779127236000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -198,13 +215,165 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779120729000,
+      "publishedAt": 1779127182000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWR1bHQgZGllcyBmcm9t",
+      "title": "Adult dies from hantavirus in Colorado",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/adult-dies-from-hantavirus-in-colorado-93CH-4696633",
+      "source": "Investing.com News",
+      "publishedAt": 1779127161000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXQmYXBvcztzIG5vdCB0",
+      "title": "It&apos;s not too late to buy Nvidia. Here are the reasons we say &apos;own it, don&apos;t trade it&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/its-not-too-late-to-buy-nvidia-here-are-the-reasons-we-say-own-it-dont-trade-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779127010000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgcGl2b3RzIHRv",
+      "title": "Trump pivots to midterms, affordability after China summit as Iran war persists",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/trump-hegseth-economy-2026-election-midterms-iran-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779126652000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VhZ2F0ZSBsZWFkcyBt",
+      "title": "Seagate leads memory sell-off as CEO says it would &apos;take too long&apos; to build new factories",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779126411000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIGV2",
+      "title": "Judge blocks evidence from Luigi Mangione backpack in UnitedHealthcare CEO murder case",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/luigi-mangione-backpack-evidence-unitedhealthcare-murder.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779125365000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UnlhbmFpciBoYXMgcGxh",
+      "title": "Ryanair has plans for &apos;armageddon&apos; scenario as CFO warns weaker European carriers may not survive jet fuel crunch",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/ryanair-earnings-fy-jet-fuel-crunch-airlines.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779124930000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGVhcm5pbmdz",
+      "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779124734000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYmFsbHJvb20g",
+      "title": "Trump ballroom money in question after Senate parliamentarian rules. Thune says GOP will persist",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/trump-ballroom-provision-blocked-senate-parliamentarian.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779124597000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2V2aW4gV2Fyc2ggdG8g",
+      "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779123822000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBsYXlvZmZzIHN0",
+      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779122006000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -240,36 +409,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiBjcmVhdGVzICQx",
-      "title": "U.S. creates $1.7B &apos;lawfare&apos; fund in exchange for Trump dropping $10B IRS suit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/trump-dismiss-irs-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779119787000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnlhbmFpciBoYXMgcGxh",
-      "title": "Ryanair has plans for &apos;armageddon&apos; scenario as CFO warns weaker European carriers may not survive jet fuel crunch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/ryanair-earnings-fy-jet-fuel-crunch-airlines.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779119014000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV3IGJpcGFydGlzYW4g",
       "title": "New bipartisan bill would let retirees use their 401(k) to make direct charitable donations",
       "summary": "",
@@ -285,57 +424,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
-      "title": "Jim Cramer says this beaten-down retail stock is poised for a rebound",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/cramer-this-beaten-down-home-improvement-stock-is-poised-for-a-rebound.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779118567000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBsYXlvZmZzIHN0",
-      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779118253000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmVya3NoaXJlIEhhdGhh",
       "title": "Berkshire Hathaway has revamped its portfolio — Here&apos;s how the new stocks are trading",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/18/berkshire-portfolio-revamp-delta-airlines-macys-unitedhealth.html",
       "source": "CNBC Markets",
       "publishedAt": 1779118190000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYmFsbHJvb20g",
-      "title": "Trump ballroom money in question after Senate parliamentarian rules. Thune says GOP will persist",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/trump-ballroom-provision-blocked-senate-parliamentarian.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779116986000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -375,21 +469,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIEVVIHdpbGwgY3V0",
-      "title": "The EU will cut growth outlook, raise inflation forecast as Iran war drives &apos;stagflationary shock&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/eu-stagflation-shock-iran-war-oil-prices.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779115859000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-THVsdWxlbW9uIHRha2Vz",
       "title": "Lululemon takes battle with Chip Wilson public, calls founder &apos;misguided&apos; and &apos;outdated&apos;",
       "summary": "",
@@ -401,38 +480,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV4dEVyYSBFbmVyZ3kg",
-      "title": "NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/nextera-nee-dominion-energy-d-data-center-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779114728000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield touches highest in a year, Japan&apos;s 30-year yield rises to a record",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/treasury-yields-inflation-bond-rout-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779111647000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -536,21 +583,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IEVsb24gTXVzayBh",
-      "title": "How Elon Musk and Sam Altman went from besties to bitter rivals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779080401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
