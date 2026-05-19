@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1779145960977,
-  "crawlUpdatedAt": 1779145960977,
+  "updatedAt": 1779154290260,
+  "crawlUpdatedAt": 1779154290260,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,28 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
-      "title": "CNBC&apos;s The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
+      "id": "CNBC Markets-SmFwYW4mYXBvcztzIGVj",
+      "title": "Japan&apos;s economy grows at annualized 2.1% rate in first quarter, beating expectations",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html",
+      "url": "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779145201000,
+      "publishedAt": 1779154210000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHV0aW4gaGVhZHMgdG8g",
+      "title": "Putin heads to Beijing days after Trump in test of China&apos;s balancing act",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/putin-russia-visit-china-beijing-trump-summit-ukraine-war-energy-shock-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779154044000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +44,207 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgZHJ1Z3Mgc2l0ZSBU",
-      "title": "US drugs site TrumpRx to list 600 generics as Trump targets lower prices",
+      "id": "Investing.com News-TmV3IFplYWxhbmQgcGxh",
+      "title": "New Zealand plans 14% cut to public service jobs to save NZ$2.4 billion",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-to-announce-discount-drug-pricing-expansion-white-house-official-says-4696540",
+      "url": "https://www.investing.com/news/economy-news/new-zealand-plans-14-cut-to-public-service-jobs-to-save-nz24-billion-4697374",
       "source": "Investing.com News",
-      "publishedAt": 1779144871000,
+      "publishedAt": 1779153879000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEFs",
+      "title": "Form DEF 14A Alussa Energy Acquisition Corp II For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14a-alussa-energy-acquisition-corp-ii-for-18-may-93CH-4697389",
+      "source": "Investing.com News",
+      "publishedAt": 1779153873000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW7igJlzIGVjb25v",
+      "title": "Japan’s economy grows at solid pace in Q1, but Iran war set to upend momentum",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/japans-economy-grew-more-than-expected-in-q1-4697304",
+      "source": "Investing.com News",
+      "publishedAt": 1779153866000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTkVUQVBQ",
+      "title": "Form 144 NETAPP For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-netapp-for-18-may-93CH-4697388",
+      "source": "Investing.com News",
+      "publishedAt": 1779153852000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlhIHNoYXJl",
+      "title": "Australia shares rebound as US delays Iran strikes, revives peace deal hopes",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/australia-shares-rebound-as-us-delays-iran-strikes-revives-peace-deal-hopes-4697387",
+      "source": "Investing.com News",
+      "publishedAt": 1779153851000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgREhJIEdS",
+      "title": "Form 144 DHI GROUP For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-dhi-group-for-18-may-93CH-4697386",
+      "source": "Investing.com News",
+      "publishedAt": 1779153703000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgWG9tZXRy",
+      "title": "Form 144 Xometry For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-xometry-for-18-may-93CH-4697385",
+      "source": "Investing.com News",
+      "publishedAt": 1779153692000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQU1LT1Ig",
+      "title": "Form 144 AMKOR TECHNOLOGY For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-amkor-technology-for-18-may-93CH-4697384",
+      "source": "Investing.com News",
+      "publishedAt": 1779153678000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0MjRCNSBHaWxl",
+      "title": "Form 424B5 Gilead Sciences Inc For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-424b5-gilead-sciences-inc-for-18-may-93CH-4697383",
+      "source": "Investing.com News",
+      "publishedAt": 1779153677000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQmljYXJh",
+      "title": "Form 144 Bicara Therapeutics Inc. For: 18 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-bicara-therapeutics-inc-for-18-may-93CH-4697382",
+      "source": "Investing.com News",
+      "publishedAt": 1779153677000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xlIEkvTyBwcmlt",
+      "title": "Google I/O primer: Alphabet&apos;s AI showcase is its chance to wow Wall Street",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779152659000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall as Trump postpones Iran strike, easing supply disruption fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779151669000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIG9w",
+      "title": "Asia markets open broadly higher as oil eases after Trump delays planned Iran strike",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/asia-markets-today-asx-sensex-nikkei-kospi-hang-seng-csi-300-nifty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779150034000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779145201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,162 +269,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWx0cmlhIEdyb3VwIGFu",
-      "title": "Altria Group announces executive leadership changes and reports annual meeting results",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/altria-group-announces-executive-leadership-changes-and-reports-annual-meeting-results-93CH-4697244",
-      "source": "Investing.com News",
-      "publishedAt": 1779144792000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgQ29tbXVu",
-      "title": "Citizens Community Bancorp director buys $10,300 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/citizens-community-bancorp-director-buys-10300-in-stock-93CH-4697243",
-      "source": "Investing.com News",
-      "publishedAt": 1779144768000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RvbmVYIEdyb3VwIENG",
-      "title": "StoneX Group CFO William Dunaway sells $7.07m in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/stonex-group-cfo-william-dunaway-sells-707m-in-shares-93CH-4697242",
-      "source": "Investing.com News",
-      "publishedAt": 1779144611000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFra3QgZGlyZWN0b3Ig",
-      "title": "Bakkt director Michael Alfred acquires $4.85m in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/bakkt-director-michael-alfred-acquires-485m-in-shares-93CH-4697241",
-      "source": "Investing.com News",
-      "publishedAt": 1779144592000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2h1YmIgc3Vic2lkaWFy",
-      "title": "Chubb subsidiary prices $1 billion senior notes offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/chubb-subsidiary-prices-1-billion-senior-notes-offering-93CH-4697240",
-      "source": "Investing.com News",
-      "publishedAt": 1779144564000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgSnVzdGljZSBEZXBh",
-      "title": "US Justice Department charges Maduro ally Alex Saab with money laundering",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-justice-department-charges-maduro-ally-alex-saab-with-money-laundering-4697222",
-      "source": "Investing.com News",
-      "publishedAt": 1779144543000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWx0cmFnZW55eCBkaXJl",
-      "title": "Ultragenyx director Suliman Shehnaaz sells $144,188 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ultragenyx-director-suliman-shehnaaz-sells-144188-in-stock-93CH-4697239",
-      "source": "Investing.com News",
-      "publishedAt": 1779144525000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLU1ldGEg",
-      "title": "Exclusive-Meta lays out details of May 20 restructuring in internal document",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivemeta-lays-out-plans-for-may-20-layoffs-restructuring-internal-document-says-4696710",
-      "source": "Investing.com News",
-      "publishedAt": 1779144524000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxwaGFiZXQgc2VsbHMg",
-      "title": "Alphabet sells $3.46 million in Ethos Technologies stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/alphabet-sells-346-million-in-ethos-technologies-stock-93CH-4697238",
-      "source": "Investing.com News",
-      "publishedAt": 1779144499000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW50ZWwgQ0VPIHNheXMg",
       "title": "Intel CEO says foundry business is gaining momentum as customer interest grows",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
       "source": "CNBC Markets",
       "publishedAt": 1779144270000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIEkvTyBwcmlt",
-      "title": "Google I/O primer: Alphabet&apos;s AI showcase is its chance to wow Wall Street",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779144221000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -448,21 +509,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UnlhbmFpciBoYXMgcGxh",
-      "title": "Ryanair has plans for &apos;armageddon&apos; scenario as CFO warns weaker European carriers may not survive jet fuel crunch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/ryanair-earnings-fy-jet-fuel-crunch-airlines.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779124930000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TnZpZGlhIGVhcm5pbmdz",
       "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
       "summary": "",
@@ -527,21 +573,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SG9tZWJ1aWxkZXIgc2Vu",
-      "title": "Homebuilder sentiment improves on late spring surge in demand",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/may-homebuilder-sentiment-improves.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779119923000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SGlnaGVyIGFsdW1pbnVt",
       "title": "Higher aluminum prices are powering one former Dow component. Here&apos;s how to buy for less",
       "summary": "",
@@ -572,48 +603,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-4oCYVGhpcyBpcyBiYWTi",
-      "title": "‘This is bad’: Strategists see European oil shortages within weeks as inventories are depleted",
+      "id": "CNBC Markets-SG93IEVsb24gTXVzayBh",
+      "title": "How Elon Musk and Sam Altman went from besties to bitter rivals",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/europe-oil-shortage-iran-war-price-shock-inventory-strait-hormuz.html",
+      "url": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779106044000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T21pbm91cyBib25kIHRy",
-      "title": "Ominous bond trades point to much higher rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/ominous-bond-trades-point-to-much-higher-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779104511000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hpdGUgSG91c2UgdG91",
-      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779080280000,
+      "publishedAt": 1779080401000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
