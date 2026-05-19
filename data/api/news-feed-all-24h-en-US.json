@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1779198147197,
-  "crawlUpdatedAt": 1779198147197,
+  "updatedAt": 1779209580509,
+  "crawlUpdatedAt": 1779209580509,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-TXVza+KAmXMgZmFpbGVk",
-      "title": "Musk’s failed court attack on OpenAI could leave lasting scars on Altman’s reputation",
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley increases stake in Central Asia Metals to 6.88%",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/musks-failed-court-attack-on-openai-could-leave-lasting-scars-on-ceos-reputation-4697884",
+      "url": "https://www.investing.com/news/company-news/morgan-stanley-increases-stake-in-central-asia-metals-to-688-93CH-4699224",
       "source": "Investing.com News",
-      "publishedAt": 1779197874000,
+      "publishedAt": 1779209451000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA4SyBGRURFUkFM",
+      "title": "Form 8K FEDERAL HOME LOAN BANK OF BOSTON For: 19 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-boston-for-19-may-93CH-4699223",
+      "source": "Investing.com News",
+      "publishedAt": 1779209433000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29vZ2xlIGV4cGVjdGVk",
+      "title": "Google expected to court coders, consumers at I/O conference",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/google-expected-to-court-coders-consumers-at-io-conference-4699222",
+      "source": "Investing.com News",
+      "publishedAt": 1779209353000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -29,11 +61,11 @@
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Ceragon Networks Q1 2026 revenue beats estimates",
+      "title": "Earnings call transcript: Sunrise Realty Trust sees stock surge after Q1 2026 earnings",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ceragon-networks-q1-2026-revenue-beats-estimates-93CH-4698876",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sunrise-realty-trust-sees-stock-surge-after-q1-2026-earnings-93CH-4699221",
       "source": "Investing.com News",
-      "publishedAt": 1779197869000,
+      "publishedAt": 1779209345000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,27 +75,89 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWxsIGV5ZXMgb24gR29s",
-      "title": "All eyes on Golar LNG earnings amid strategic review, FLNG boom",
+      "id": "Investing.com News-QW5hbHlzaXMtSW52ZXN0",
+      "title": "Analysis-Investors see no let-up in bond market strain",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/all-eyes-on-golar-lng-earnings-amid-strategic-review-flng-boom-93CH-4698875",
+      "url": "https://www.investing.com/news/economy-news/analysisinvestors-see-no-letup-in-bond-market-strain-4697446",
       "source": "Investing.com News",
-      "publishedAt": 1779197868000,
+      "publishedAt": 1779209334000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
       "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgU2VuYXRlIGNvbmZp",
+      "title": "US Senate confirms Trump’s pick to lead land bureau",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-senate-confirms-trumps-pick-to-lead-land-bureau-4697328",
+      "source": "Investing.com News",
+      "publishedAt": 1779209317000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIENoZXd5IHN0",
+      "title": "Why is Chewy stock sliding to a new 52-week low today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-chewy-stock-sliding-to-a-new-52week-low-today-93CH-4699220",
+      "source": "Investing.com News",
+      "publishedAt": 1779209237000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
+      "title": "Goldman Sachs raises Phillips 66 stock price target on refining outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-phillips-66-stock-price-target-on-refining-outlook-93CH-4699219",
+      "source": "Investing.com News",
+      "publishedAt": 1779209227000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIGhpcmVz",
+      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779209167000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Driven Brands Q4 2025 sees revenue growth",
+      "title": "Earnings call transcript: Grupo Multilaser Q1 2026 sees robust growth",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-driven-brands-q4-2025-sees-revenue-growth-93CH-4698874",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-multilaser-q1-2026-sees-robust-growth-93CH-4699218",
       "source": "Investing.com News",
-      "publishedAt": 1779197867000,
+      "publishedAt": 1779209082000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +167,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-THVsdWxlbW9uIHN0b2Nr",
-      "title": "Lululemon stock hits 52-week low at $118.22",
+      "id": "Investing.com News-TGl2YU5vdmEgc3RvY2sg",
+      "title": "LivaNova stock hits 52-week high at 73.31 USD",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/lululemon-stock-hits-52week-low-at-11822-93CH-4698873",
+      "url": "https://www.investing.com/news/company-news/livanova-stock-hits-52week-high-at-7331-usd-93CH-4699217",
       "source": "Investing.com News",
-      "publishedAt": 1779197862000,
+      "publishedAt": 1779209028000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +182,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5ncmVkaW9uIEluYyBz",
-      "title": "Ingredion Inc stock hits 52-week low at 99.97 USD",
+      "id": "CNBC Markets-VHJ1bXAgZW5kb3JzZXMg",
+      "title": "Trump endorses Ken Paxton over John Cornyn in Texas Senate race",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ingredion-inc-stock-hits-52week-low-at-9997-usd-93CH-4698872",
-      "source": "Investing.com News",
-      "publishedAt": 1779197851000,
+      "url": "https://www.cnbc.com/2026/05/19/trump-primary-election-ken-paxton-john-cornyn-texas-senate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779208804000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,72 +197,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXDigJlzIEdhemEg",
-      "title": "Trump’s Gaza board reports funding ’gap’, urges quicker disbursement",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trumps-gaza-board-reports-funding-gap-urges-quicker-disbursement-4698268",
-      "source": "Investing.com News",
-      "publishedAt": 1779197836000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGF5bG9yIE1vcnJpc29u",
-      "title": "Taylor Morrison Home stock hits 52-week low at $54.56",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/taylor-morrison-home-stock-hits-52week-low-at-5456-93CH-4698871",
-      "source": "Investing.com News",
-      "publishedAt": 1779197827000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S25pZ2h0c2NvcGUgc2Vj",
-      "title": "Knightscope secures $3.8M in contracts across eight sectors",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/knightscope-secures-38m-in-contracts-across-eight-sectors-93CH-4698870",
-      "source": "Investing.com News",
-      "publishedAt": 1779197823000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1jb3Igc3RvY2sgaGl0",
-      "title": "Amcor stock hits 52-week low at 36.66 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/amcor-stock-hits-52week-low-at-3666-usd-93CH-4698869",
-      "source": "Investing.com News",
-      "publishedAt": 1779197818000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields rise with 30-year rate touching levels not seen since 2023",
+      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
+      "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779197685000,
+      "publishedAt": 1779207567000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -180,12 +214,177 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VHJ1bXAgQWNjb3VudHMg",
+      "title": "Trump Accounts have a &apos;tax-advantaged&apos; alternative, CFP says — yet few families are capitalizing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/trump-accounts-529-plans.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779207395000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSB3",
+      "title": "Trump says he was &apos;an hour away&apos; from Iran strike decision before he postponed it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/trump-iran-war-strike-postponed.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779206159000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBpdCZh",
+      "title": "Trump says it&apos;s not a &apos;war.&apos; Insurers with money on the line say it is",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/trump-says-its-not-a-war-insurers-with-money-on-the-line-say-it-is.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779205886000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-QmVzc2VudCB1cmdlcyBH",
       "title": "Bessent urges G7 to help U.S. attack Iran&apos;s finances",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/19/bessent-g7-iran-finance-terrorism.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779197541000,
+      "publishedAt": 1779205385000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmxhbmNoZSB3b24mYXBv",
+      "title": "Blanche won&apos;t rule out Jan. 6 rioters getting Trump DOJ fund payouts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/trump-doj-irs-fund-blanche-payouts-jan-6-rioters.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779204972000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG9tZSBEZXBvdCBzYXlz",
+      "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779204834000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBlZGdl",
+      "title": "Oil prices edge lower as Trump postpones Iran strike, easing supply disruption fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779204293000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHJvc3RoZXRpY3MgZmly",
+      "title": "Prosthetics firm&apos;s stock plunges as it denies short-seller&apos;s Russia &apos;propaganda&apos; allegations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/ottobock-grizzly-russia-ukraine-propaganda-prosthetics.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779204256000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIGFuZCBV",
+      "title": "Anthropic and U.S. government to face off in DC court over blacklisting of AI company",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/anthropic-dod-blacklist-court-opening-arguments.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779202847000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IGh5YnJpZHMgYXJl",
+      "title": "Why hybrids are ‘having their moment’ as EVs and gas-powered vehicles lose market share",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/hybrids-having-their-moment-as-car-buyers-rethink-electric-vehicles.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779201904000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7RG9vbWpvYmJp",
+      "title": "&apos;Doomjobbing&apos; can hurt your job search, experts say: Why it happens and how to avoid it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/doomjobbing-can-hurt-your-job-search-why-it-happens-and-how-to-avoid-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779199202000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3ViYSBjb25kZW1ucyBV",
+      "title": "Cuba condemns U.S. sanctions, accuses Washington of building ‘fraudulent case’ for military action",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/cuba-us-sanctions-military-fraudulent-case.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779198648000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -216,68 +415,6 @@
       "url": "https://www.cnbc.com/2026/05/19/musk-altman-take-their-battle-from-court-to-wall-street-ahead-of-ipos.html",
       "source": "CNBC Markets",
       "publishedAt": 1779197316000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBlZGdl",
-      "title": "Oil prices edge lower as Trump postpones Iran strike, easing supply disruption fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779196855000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW4sIENoaW5hIGxl",
-      "title": "Japan, China lead foreign government retreat from U.S. Treasurys as Iran war fallout stokes currency fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/central-banks-offload-us-treasuries-china-holdings-at-18-year-low.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779196569000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIGFuZCBV",
-      "title": "Anthropic and U.S. government to face off in DC court over blacklisting of AI company",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/anthropic-dod-blacklist-court-opening-arguments.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779194024000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9tZSBEZXBvdCBzYXlz",
-      "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779193466000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -377,114 +514,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q3ViYSBjb25kZW1ucyBV",
-      "title": "Cuba condemns U.S. sanctions, accuses Washington of building ‘fraudulent case’ for military action",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/cuba-us-sanctions-military-fraudulent-case.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779184671000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmxhY2tzdG9uZSB0byBp",
-      "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779180816000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIElyYW4gd2FyIGlz",
-      "title": "The Iran war is exposing weak spots in the AI supply chain",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/iran-war-ai-chip-supply-chain-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779179437000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhbmRhcmQgQ2hhcnRl",
-      "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779165625000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWZ0ZXIgVS5TLiBTRUMs",
-      "title": "After U.S. SEC, Treasury and Justice Department offer billionaire Gautam Adani legal relief",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/adani-treasury-justice-department-sec-settlement.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779163359000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW4mYXBvcztzIGVj",
-      "title": "Japan&apos;s economy grows at annualized 2.1% rate in first quarter, beating expectations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779161765000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHV0aW4gaGVhZHMgdG8g",
-      "title": "Putin heads to Beijing days after Trump in test of China&apos;s balancing act",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/putin-russia-visit-china-beijing-trump-summit-ukraine-war-energy-shock-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779154044000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29vZ2xlIEkvTyBwcmlt",
       "title": "Google I/O primer: Alphabet&apos;s AI showcase is its chance to wow Wall Street",
       "summary": "",
@@ -575,21 +604,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgcGl2b3RzIHRv",
-      "title": "Trump pivots to midterms, affordability after China summit as Iran war persists",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/trump-hegseth-economy-2026-election-midterms-iran-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779136987000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2VhZ2F0ZSBsZWFkcyBt",
       "title": "Seagate leads memory sell-off as CEO says it would &apos;take too long&apos; to build new factories",
       "summary": "",
@@ -602,21 +616,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBsYXlvZmZzIHN0",
-      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779122006000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
