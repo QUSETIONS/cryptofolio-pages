@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1779252499411,
-  "crawlUpdatedAt": 1779252499411,
+  "updatedAt": 1779265956233,
+  "crawlUpdatedAt": 1779265956233,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXMgUHV0aW4tWGkgbWVl",
-      "title": "As Putin-Xi meet, Iran war energy disruption puts long-stalled Russian gas pipeline back on agenda",
+      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIGZh",
+      "title": "Asia markets fall as Treasury yields climb and Iran tensions linger",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
+      "url": "https://www.cnbc.com/2026/05/20/asia-pacific-markets-today-live-updates-treasury-yields-nikkei-225-kospi-hang-seng-nifty.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779252144000,
+      "publishedAt": 1779265618000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXDigJlzIGNvbW1l",
+      "title": "Trump’s comments on Iran war; Nvidia earnings in focus - what’s moving markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trumps-comments-on-iran-war-nvidia-earnings-in-focus--whats-moving-markets-4700374",
+      "source": "Investing.com News",
+      "publishedAt": 1779265346000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyB1",
+      "title": "Raymond James upgrades SM Energy stock rating on oil strength",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-upgrades-sm-energy-stock-rating-on-oil-strength-93CH-4700373",
+      "source": "Investing.com News",
+      "publishedAt": 1779265269000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,87 +60,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9zYWljIENvbXBhbnni",
-      "title": "Mosaic Company’s SWOT analysis: fertilizer stock faces pricing pressure",
-      "summary": "",
-      "url": "https://www.investing.com/news/swot-analysis/mosaic-companys-swot-analysis-fertilizer-stock-faces-pricing-pressure-93CH-4700189",
-      "source": "Investing.com News",
-      "publishedAt": 1779251887000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9ybmluZyBCaWQ6IEFz",
-      "title": "Morning Bid: As stocks slump, cue Nvidia",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-as-stocks-slump-cue-nvidia-4700188",
-      "source": "Investing.com News",
-      "publishedAt": 1779251853000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2luZ2Fwb3JlIHVyZ2Vz",
-      "title": "Singapore urges financial firms to use AI to create better jobs",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187",
-      "source": "Investing.com News",
-      "publishedAt": 1779251816000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kb25lc2lh4oCZcyBQ",
-      "title": "Indonesia’s Prabowo announces 2027 fiscal deficit target of 1.8% to 2.4% of GDP",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/indonesias-prabowo-announces-2027-fiscal-deficit-target-of-18-to-24-of-gdp-4700184",
-      "source": "Investing.com News",
-      "publishedAt": 1779251798000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S29rdXNhaSBFbGVjdHJp",
-      "title": "Kokusai Electric slides after KKR says it will sell remaining stake",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kokusai-electric-slides-after-kkr-says-it-will-sell-remaining-stake-4700186",
-      "source": "Investing.com News",
-      "publishedAt": 1779251742000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Ftc3VuZyBFbGVjIHNl",
-      "title": "Samsung Elec set to face major strike on Thursday after union talks collapse",
+      "id": "Investing.com News-U2Ftc3VuZyB1bmlvbiBz",
+      "title": "Samsung union says to embark on 48,000-strong strike on Thursday after impasse on bonuses",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/samsung-elec-fails-to-clinch-deal-with-union-major-strike-to-begin-on-thursday-4700160",
       "source": "Investing.com News",
-      "publishedAt": 1779251433000,
+      "publishedAt": 1779265147000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,12 +75,72 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5kaWFuIHJ1cGVlIGhp",
-      "title": "Indian rupee hits record low, USD/INR nears 97 amid oil price shock",
+      "id": "Investing.com News-Rm9yZWlnbiBzZWxsaW5n",
+      "title": "Foreign selling in Asian equities rises as bond yields climb",
       "summary": "",
-      "url": "https://www.investing.com/news/forex-news/indian-rupee-hits-record-low-usdinr-nears-97-amid-oil-price-shock-4700185",
+      "url": "https://www.investing.com/news/economy-news/foreign-selling-in-asian-equities-risesas-bond-yields-climb-4700367",
       "source": "Investing.com News",
-      "publishedAt": 1779251120000,
+      "publishedAt": 1779265132000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXMgTWVyeiBzdHJ1Z2ds",
+      "title": "As Merz struggles, Germany’s far-right AfD goes local to woo voters",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/as-merz-struggles-germanys-farright-afd-goes-local-to-woo-voters-4700357",
+      "source": "Investing.com News",
+      "publishedAt": 1779265117000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFyY2xheXMgcGlja3Mg",
+      "title": "Barclays picks winners and losers in European capital goods",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-picks-winners-and-losers-in-european-capital-goods-4700371",
+      "source": "Investing.com News",
+      "publishedAt": 1779264932000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHV0aW4tWGkgdGFsa3Mg",
+      "title": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779264915000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFpcmQgcmVpbnN0YXRl",
+      "title": "Baird reinstates Driven Brands stock rating at Outperform on oil change growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/baird-reinstates-driven-brands-stock-rating-at-outperform-on-oil-change-growth-93CH-4700370",
+      "source": "Investing.com News",
+      "publishedAt": 1779264903000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -133,12 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SFNCQyBDRU8gc2F5cyBB",
-      "title": "HSBC CEO says AI will destroy and create new jobs, urges staff to embrace change",
+      "id": "Investing.com News-VGVjaCBsZWFkZXJzIGZh",
+      "title": "Tech leaders favoured by hedge funds last month, Hazeltree says",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hsbc-ceo-says-ai-will-destroy-and-create-new-jobs-urges-staff-to-embrace-change-4700162",
+      "url": "https://www.investing.com/news/economy-news/tech-leaders-favoured-by-hedge-funds-last-month-hazeltree-says-4700368",
       "source": "Investing.com News",
-      "publishedAt": 1779251119000,
+      "publishedAt": 1779264773000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,33 +165,169 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnJhbmtsaW4gV2lyZWxl",
-      "title": "Franklin Wireless earnings missed by $0.12, revenue fell short of estimates",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Innovate Corp Q1 2026 shows revenue growth",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/franklin-wireless-earnings-missed-by-012-revenue-fell-short-of-estimates-4700183",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-innovate-corp-q1-2026-shows-revenue-growth-93CH-4700366",
       "source": "Investing.com News",
-      "publishedAt": 1779250945000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0VBIEx0ZC7igJlzIFNX",
-      "title": "SEA Ltd.’s SWOT analysis: e-commerce stock navigates growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/swot-analysis/sea-ltds-swot-analysis-ecommerce-stock-navigates-growth-93CH-4700182",
-      "source": "Investing.com News",
-      "publishedAt": 1779250815000,
+      "publishedAt": 1779264726000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Dare Bioscience outlines liquidity and revenue plans in Q1 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dare-bioscience-outlines-liquidity-and-revenue-plans-in-q1-2026-93CH-4700364",
+      "source": "Investing.com News",
+      "publishedAt": 1779264651000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks mixed: UK inflation and elevated bond yields in focus",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/european-markets-stoxx-uk-inflation-ftse-dax-cac-iran-latest.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779263912000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RvY2tzIHVuZGVyIHBy",
+      "title": "Stocks under pressure as correction fears grow and record rally defies geopolitical turmoil",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779262240000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RVUgY2xlYXJzIG1ham9y",
+      "title": "EU clears major hurdle to finalize U.S. trade pact — and sidestep Trump tariff hikes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/eu-us-trade-deal-trump-autos.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779261599000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUsgaW5mbGF0aW9uIHJh",
+      "title": "UK inflation rate eases to 2.8% in April, but slowdown is expected to be short-lived",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779260625000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxpYmFiYSByZXZlYWxz",
+      "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779260448000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3ZlciA0NywwMDAgU2Ft",
+      "title": "Over 47,000 Samsung Electronics workers set to strike as wage talks break down, sending shares lower",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/samsung-electronics-strike-workers-union-wage-talks-shares.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779260146000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBpbmRpY3RzIGZv",
+      "title": "U.S. indicts four Chinese container manufacturers alleging pandemic-era price-fixing cartel",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/china-shipping-companies-department-of-justice-indictment-pandemic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779258419000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgY29uZmlybXMg",
+      "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779254540000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IGZhc2hpb24gaXMg",
+      "title": "Why fashion is doubling down on sustainability even as value-seeking shoppers ignore the pitch",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/20/fashion-sustainability-shoppers-circularity-pandora-kering-gucci.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779253534000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -193,42 +346,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3ZlciA0NywwMDAgU2Ft",
-      "title": "Over 47,000 Samsung Electronics workers set to strike as wage talks break down, sending shares lower",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/20/samsung-electronics-strike-workers-union-wage-talks-shares.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779249128000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2luZ2Fwb3JlIGlua3Mg",
       "title": "Singapore inks AI deals with Google, OpenAI as ChatGPT-maker commits $234 million to local ecosystem",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/20/singapore-google-openai-ai-partnerships-lab-investment-chatgpt-ai-agents-atxsummit-mddi.html",
       "source": "CNBC Markets",
       "publishedAt": 1779247862000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxpYmFiYSByZXZlYWxz",
-      "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779247801000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -250,23 +373,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSBtYXJrZXRzIGZh",
-      "title": "Asia markets fall as Treasury yields climb and Iran tensions linger",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/20/asia-pacific-markets-today-live-updates-treasury-yields-nikkei-225-kospi-hang-seng-nifty.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779242378000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -366,38 +472,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJIGFubm91bmNl",
-      "title": "OpenAI announces new Guaranteed Capacity offering for customers to secure compute",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779227772000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIHRvIGhpa2U/IFdo",
-      "title": "Fed to hike? When traders see a rate increase coming",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779227482000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
       "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
       "summary": "",
@@ -475,36 +549,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UG9seW1hcmtldCBsYXVu",
-      "title": "Polymarket launches private company trading so investors can speculate on Anthropic, OpenAI",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779220587000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGVudGFnb24gdGFwcyBT",
-      "title": "Pentagon taps Shield AI for low-cost drone program as Iran war accelerates demand for cheap drones",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/pentagon-taps-shield-ai-for-low-cost-missile-program.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779220158000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VmFuY2UgZGVmZW5kcyBz",
       "title": "Vance defends stock-trading spree in Trump financial filings: &apos;Come on, man&apos;",
       "summary": "",
@@ -520,57 +564,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2hhdCZhcG9zO3MgdGhl",
-      "title": "What&apos;s the mortgage rate you&apos;ll be paying later this year? Probably higher",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/the-rate-on-a-mortgage-you-will-be-paying-this-year-is-getting-higher.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779219930000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZmxleGVzIGVu",
-      "title": "Trump flexes endorsement power for Ken Paxton after ousting Cassidy, targeting Massie",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/trump-primary-election-ken-paxton-john-cornyn-texas-senate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779216798000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV3IGRhdGEgYm9vc3Rz",
       "title": "New data boosts our confidence in Lilly&apos;s obesity pill. Plus, Google&apos;s new AI features",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/19/new-data-boosts-our-confidence-in-lillys-obesity-pill-plus-googles-new-ai-.html",
       "source": "CNBC Markets",
       "publishedAt": 1779215917000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIGhpcmVz",
-      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779209167000,
       "lang": "en-US",
       "topics": [
         "macro"
