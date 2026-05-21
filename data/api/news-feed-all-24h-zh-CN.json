@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1779400954026,
-  "crawlUpdatedAt": 1779400954026,
+  "updatedAt": 1779406556431,
+  "crawlUpdatedAt": 1779406556431,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U3BhY2VYIHJlYWRpZXMg",
-      "title": "SpaceX readies 12th test flight of massive Starship rocket as IPO looms",
+      "id": "Investing.com News-T2lsIGZhbGxzLCBzdG9j",
+      "title": "Oil falls, stocks climb as investors hope for progress in Iran war talks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/21/spacex-plans-12th-test-flight-of-massive-starship-rocket-as-ipo-looms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779400402000,
+      "url": "https://www.investing.com/news/economy-news/shares-rally-on-nvidia-earnings-samsung-strike-suspension-4702897",
+      "source": "Investing.com News",
+      "publishedAt": 1779405517000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UXVlc3QgRGlhZ25vc3Rp",
+      "title": "Quest Diagnostics shareholders elect directors and approve auditor at annual meeting",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/quest-diagnostics-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-4705581",
+      "source": "Investing.com News",
+      "publishedAt": 1779405447000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,140 +43,155 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UHJvQ2FwIEZpbmFuY2lh",
-      "title": "ProCap Financial CIO Jeffrey Park sells $98k in shares",
+      "id": "Investing.com News-Q2FzZGluIENhcGl0YWws",
+      "title": "Casdin Capital, Eli Casdin sell $28.1m in NASDAQ:BLFS stock",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/procap-financial-cio-jeffrey-park-sells-98k-in-shares-93CH-4705464",
+      "url": "https://www.investing.com/news/insider-trading-news/casdin-capital-eli-casdin-sell-281m-in-nasdaqblfs-stock-93CH-4705580",
       "source": "Investing.com News",
-      "publishedAt": 1779400188000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WmVudGFsaXMgdG8gcHJl",
-      "title": "Zentalis to present ovarian cancer trial data at ASCO meeting",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/zentalis-to-present-ovarian-cancer-trial-data-at-asco-meeting-93CH-4705463",
-      "source": "Investing.com News",
-      "publishedAt": 1779400169000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29uZHVlbnQgdG8gc2Vs",
-      "title": "Conduent to sell public transit unit to Modaxo for $164 million",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/conduent-to-sell-public-transit-unit-to-modaxo-for-164-million-93CH-4705462",
-      "source": "Investing.com News",
-      "publishedAt": 1779400161000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm91ciBDb3JuZXJzIFBy",
-      "title": "Four Corners Property Trust buys North Carolina property",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/four-corners-property-trust-buys-north-carolina-property-93CH-4705461",
-      "source": "Investing.com News",
-      "publishedAt": 1779400161000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S29obHMgc2hhcmVob2xk",
-      "title": "Kohls shareholders approve amended long-term compensation plan at annual meeting",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/kohls-shareholders-approve-amended-longterm-compensation-plan-at-annual-meeting-93CH-4705460",
-      "source": "Investing.com News",
-      "publishedAt": 1779400145000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3Vyc29y4oCZcyBhbm51",
-      "title": "Cursor’s annual revenue hits $3 billion ahead of SpaceX acquisition - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/cursors-annual-revenue-hits-3-billion-ahead-of-spacex-acquisition--bloomberg-93CH-4705459",
-      "source": "Investing.com News",
-      "publishedAt": 1779400143000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Take-Two Interactive Q4 2026 beats forecasts, stock rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-taketwo-interactive-q4-2026-beats-forecasts-stock-rises-93CH-4705458",
-      "source": "Investing.com News",
-      "publishedAt": 1779400132000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyB0",
-      "title": "Goldman Sachs to pay $500 million to settle shareholder lawsuit over 1MDB scandal",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-to-pay-500-million-to-settle-shareholder-lawsuit-over-1mdb-scandal-4705457",
-      "source": "Investing.com News",
-      "publishedAt": 1779400106000,
+      "publishedAt": 1779405399000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [
-        "XAU"
+        "NDX"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V29ya2RheSByZXBvcnRz",
-      "title": "Workday reports upbeat earnings as demand for its services remain strong",
+      "id": "Investing.com News-Rm9ybSBTLTMgQmlvZGVz",
+      "title": "Form S-3 Biodesix Inc For: 21 May",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/workday-reports-upbeat-earnings-as-demand-for-its-services-remain-strong-4705456",
+      "url": "https://www.investing.com/news/filings/form-s3-biodesixinc-for-21-may-93CH-4705579",
       "source": "Investing.com News",
-      "publishedAt": 1779400090000,
+      "publishedAt": 1779405344000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgV29sdmVy",
+      "title": "Form 144 Wolverine World Wide INC For: 21 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-wolverine-world-wide-inc-for-21-may-93CH-4705578",
+      "source": "Investing.com News",
+      "publishedAt": 1779405328000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTW9sc29u",
+      "title": "Form 144 Molson Coors Beverage Company For: 21 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-molson-coors-beverage-company-for-21-may-93CH-4705577",
+      "source": "Investing.com News",
+      "publishedAt": 1779405327000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Vm9zcyBDYXBpdGFsIGFm",
+      "title": "Voss Capital affiliates buy Xponential Fitness stock worth $963,887",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/voss-capital-affiliates-buy-xponential-fitness-stock-worth-963887-93CH-4705576",
+      "source": "Investing.com News",
+      "publishedAt": 1779405200000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJpdG9ucyBob2xkIHRo",
+      "title": "Britons hold their nerve but turn warier about big spending plans, GfK says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/britons-hold-their-nerve-but-turn-warier-about-big-spending-plans-gfk-says-4705563",
+      "source": "Investing.com News",
+      "publishedAt": 1779405145000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgS0VMTFkg",
+      "title": "Form 144 KELLY SERVICES For: 21 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-kelly-services-for-21-may-93CH-4705575",
+      "source": "Investing.com News",
+      "publishedAt": 1779405136000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQXN0ZXJh",
+      "title": "Form 144 Astera Labs For: 21 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-astera-labs-for-21-may-93CH-4705574",
+      "source": "Investing.com News",
+      "publishedAt": 1779405132000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SU1BWCBoYXMgaGVsZCDi",
+      "title": "IMAX has held ‘preliminary talks’ with potential buyers, source says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/21/imax-preliminary-talks-potential-buyers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779404671000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHJlYWRpZXMg",
+      "title": "SpaceX readies 12th test flight of massive Starship rocket as IPO looms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/21/spacex-plans-12th-test-flight-of-massive-starship-rocket-as-ipo-looms.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779404396000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -170,28 +200,13 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/21/trump-doj-lawfare-fund-congress-blanche.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779399982000,
+      "publishedAt": 1779401909000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Ftc2FyYSBldnAgQWRh",
-      "title": "Samsara evp Adam Eltoukhy sells $165,320 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/samsara-evp-adam-eltoukhy-sells-165320-in-company-stock-93CH-4705454",
-      "source": "Investing.com News",
-      "publishedAt": 1779399973000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -480,23 +495,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGF3c3VpdCBvdmVyIGZl",
-      "title": "Lawsuit over federal student loan caps highlights impact on nursing shortage",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779386441000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
