@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1779914081833,
-  "crawlUpdatedAt": 1779914081833,
+  "updatedAt": 1779921944875,
+  "crawlUpdatedAt": 1779921944875,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,209 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U25vd2ZsYWtlIHNvYXJz",
-      "title": "Snowflake soars 33% on earnings beat and plan to spend $6 billion on Amazon cloud",
+      "id": "CNBC Markets-U2FsZXNmb3JjZSBDRU8g",
+      "title": "Salesforce CEO Marc Benioff outlines his plan to turn around his struggling stock",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/salesforce-ceo-marc-benioff-outlines-his-plan-to-turn-around-his-struggling-stock.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779921339000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TlogY2VudHJhbCBiYW5r",
+      "title": "NZ central bank watching how much weaker demand would offset price increases",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/nz-central-bank-watching-how-much-weaker-demand-would-offset-price-increases-4713378",
+      "source": "Investing.com News",
+      "publishedAt": 1779920306000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBmYWxscyBi",
+      "title": "Bitcoin falls below $75k amid uncertainty over U.S.-Iran peace talks, ETF outflows",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-amid-renewed-iran-tensions-etf-outflows-4711291",
+      "source": "Investing.com News",
+      "publishedAt": 1779920297000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJhZGVycyBhcmUgc2tl",
+      "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779920287000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Coveo Solutions meets Q4 2026 expectations, stock dips",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-coveo-solutions-meets-q4-2026-expectations-stock-dips-93CH-4713377",
+      "source": "Investing.com News",
+      "publishedAt": 1779920193000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Synopsys beats Q2 2026 expectations, stock dips",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-synopsys-beats-q2-2026-expectations-stock-dips-93CH-4713376",
+      "source": "Investing.com News",
+      "publishedAt": 1779920192000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FkZW5jZSBDRU8gRGV2",
+      "title": "Cadence CEO Devgan sells $19.2m in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/cadence-ceo-devgan-sells-192m-in-shares-93CH-4713375",
+      "source": "Investing.com News",
+      "publishedAt": 1779920184000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FkZW5jZSBkZXNpZ24g",
+      "title": "Cadence design systems Sr. VP Teng sells $1.66m in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/cadence-design-systems-sr-vp-teng-sells-166m-in-shares-93CH-4713374",
+      "source": "Investing.com News",
+      "publishedAt": 1779920184000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBwTG92aW4gQ1RPIFNo",
+      "title": "AppLovin CTO Shikin sells $7.7m in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/applovin-cto-shikin-sells-77m-in-stock-93CH-4713373",
+      "source": "Investing.com News",
+      "publishedAt": 1779920175000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlvZGVzIFNWUCBBbmR5",
+      "title": "Diodes SVP Andy Tsong sells $169,202 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/diodes-svp-andy-tsong-sells-169202-in-company-stock-93CH-4713372",
+      "source": "Investing.com News",
+      "publishedAt": 1779920166000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R1NJIFRlY2hub2xvZ3kg",
+      "title": "GSI Technology VP Wu sells $330k stock after exercising options",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/gsi-technology-vp-wu-sells-330k-stock-after-exercising-options-93CH-4713371",
+      "source": "Investing.com News",
+      "publishedAt": 1779920163000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxM0cgVEVSQVdV",
+      "title": "Form 13G TERAWULF INC. For: 27 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-13g-terawulf-inc-for-27-may-93CH-4713370",
+      "source": "Investing.com News",
+      "publishedAt": 1779920140000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
+      "title": "Prediction markets regulation proposal by CFTC eyed by White House",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/prediction-markets-white-house-cftc-kalshi-polmarket-gensler.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779919687000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U25vd2ZsYWtlIHJvY2tl",
+      "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779914045000,
+      "publishedAt": 1779919635000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,160 +225,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG93IHBvc3RzIGNsb3Np",
-      "title": "Dow posts closing record high, S&P 500, Nasdaq muted as AI rally pauses",
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyB0",
+      "title": "Amazon&apos;s top health exec is stepping down, will be replaced by Amwell co-founder",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-on-ai-optimism-investors-optimistic-on-mideast-truce-4711468",
-      "source": "Investing.com News",
-      "publishedAt": 1779912479000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX",
-        "SPX"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVkIHdhdGNoZG9nIGxv",
-      "title": "Fed watchdog looking at reappointment process for central bank’s regional presidents",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/fed-watchdog-looking-at-reappointment-process-for-central-banks-regional-presidents-4713010",
-      "source": "Investing.com News",
-      "publishedAt": 1779912396000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQXBwbGUg",
-      "title": "Form 144 Apple Inc. For: 27 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-apple-inc-for-27-may-93CH-4713009",
-      "source": "Investing.com News",
-      "publishedAt": 1779912382000,
+      "url": "https://www.cnbc.com/2026/05/27/amazons-top-health-exec-is-stepping-down-will-be-replaced-by-amwell-co-founder.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779919595000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgUmluZ2Nl",
-      "title": "Form 144 Ringcentral Inc. For: 27 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-ringcentral-inc-for-27-may-93CH-4713007",
-      "source": "Investing.com News",
-      "publishedAt": 1779912374000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgTU9IQVdL",
-      "title": "Form 144 MOHAWK INDUSTRIES INC For: 27 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-mohawk-industries-inc-for-27-may-93CH-4713004",
-      "source": "Investing.com News",
-      "publishedAt": 1779912368000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9iaWxpY29tIHJlcG9y",
-      "title": "Mobilicom reports Q1 revenue decline, secures new defense orders",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mobilicom-reports-q1-revenue-decline-secures-new-defense-orders-93CH-4713003",
-      "source": "Investing.com News",
-      "publishedAt": 1779912315000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3lyZSBUaGVyYXBldXRp",
-      "title": "Gyre Therapeutics COO Ye Weiguo sells $45,680 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/gyre-therapeutics-coo-ye-weiguo-sells-45680-in-stock-93CH-4713002",
-      "source": "Investing.com News",
-      "publishedAt": 1779912259000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVk4oCZcyBDb29rIHNh",
-      "title": "Fed’s Cook says ready to hike rates if needed, urges patience",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/feds-cook-says-ready-to-hike-rates-if-needed-urges-patience-4712994",
-      "source": "Investing.com News",
-      "publishedAt": 1779912110000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um95YWwgQ2FyaWJiZWFu",
-      "title": "Royal Caribbean scraps Mexico water park after environmental backlash",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/royal-caribbean-scraps-mexico-water-park-after-environmental-backlash-president-says-4712803",
-      "source": "Investing.com News",
-      "publishedAt": 1779912084000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWF0dGhldyBQZXJyeeKA",
-      "title": "Matthew Perry’s assistant sentenced to 41 months in prison",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/matthew-perrys-assistant-sentenced-to-41-months-in-prison-4712940",
-      "source": "Investing.com News",
-      "publishedAt": 1779912057000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -190,13 +245,43 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/27/meta-testing-ai-subscription-services-cheapest-plan-at-7point99-a-month.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779911729000,
+      "publishedAt": 1779915899000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5hbHlzaXM6IFdoYXQg",
+      "title": "Analysis: What Stephen Miller gets wrong about debt, deficits and immigration",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/trump-stephen-miller-national-debt-immigration-analysis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779915244000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-WnNjYWxlciB0YW5rcyAz",
+      "title": "Zscaler tanks 31% for worst day ever on &apos;prudent&apos; guidance, sales shakeup",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/zscaler-zs-earnings-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779914207000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -239,21 +324,6 @@
       "url": "https://www.cnbc.com/2026/05/27/ferrari-luce-backlash-lamborghini-ceo-ev.html",
       "source": "CNBC Markets",
       "publishedAt": 1779908852000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IFdoYXQg",
-      "title": "Analysis: What Stephen Miller gets wrong about debt, deficits and immigration",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/trump-stephen-miller-national-debt-immigration-analysis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779908824000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -353,21 +423,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJhZGVycyBhcmUgc2tl",
-      "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779902344000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmVwdWJsaWNhbnMgc3Rh",
       "title": "Republicans stare down inflation abyss with midterms fast approaching",
       "summary": "",
@@ -428,42 +483,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWlsbGlvbnMgb2YgcGVv",
-      "title": "Millions of people with disabilities may be missing out on this little-known savings tool",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/able-accounts-workers-with-disabilities.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779891002000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGF4dG9uIGJlc3RzIENv",
       "title": "Paxton bests Cornyn in Texas Republican Senate primary after Trump endorsement",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/26/texas-primary-election-senate-paxton-cornyn.html",
       "source": "CNBC Markets",
       "publishedAt": 1779890207000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlc2UgNSBza2lsbHMg",
-      "title": "These 5 skills are AI-proof and likely to become more valuable &apos;over the next 5 years,&apos; says Oxford-trained career expert",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/these-5-ai-proof-skills-are-likely-to-increase-in-value-over-next-5-years-career-expert.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779889126000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -500,21 +525,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9vdCBMb2NrZXIgcmV0",
-      "title": "Foot Locker returns to growth but weighs on Dick&apos;s Sporting Goods as earnings miss",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/dicks-sporting-goods-dks-earnings-q1-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779886906000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -571,21 +581,6 @@
       "url": "https://www.cnbc.com/2026/05/27/new-bull-market-in-software-stocks-hinges-on-this-report.html",
       "source": "CNBC Markets",
       "publishedAt": 1779877892000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QlAmYXBvcztzIG91c3Rl",
-      "title": "BP&apos;s ousted chairman Albert Manifold disputes accusations over his conduct",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/bp-albert-manifold-chairman-energy-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779876704000,
       "lang": "zh-CN",
       "topics": [
         "macro"
