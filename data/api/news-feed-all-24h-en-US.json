@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1779905170835,
-  "crawlUpdatedAt": 1779905170835,
+  "updatedAt": 1779914081568,
+  "crawlUpdatedAt": 1779914081568,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,298 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-U25vd2ZsYWtlIHNvYXJz",
+      "title": "Snowflake soars 33% on earnings beat and plan to spend $6 billion on Amazon cloud",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779914045000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG93IHBvc3RzIGNsb3Np",
+      "title": "Dow posts closing record high, S&P 500, Nasdaq muted as AI rally pauses",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-on-ai-optimism-investors-optimistic-on-mideast-truce-4711468",
+      "source": "Investing.com News",
+      "publishedAt": 1779912479000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX",
+        "SPX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIHdhdGNoZG9nIGxv",
+      "title": "Fed watchdog looking at reappointment process for central bank’s regional presidents",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-watchdog-looking-at-reappointment-process-for-central-banks-regional-presidents-4713010",
+      "source": "Investing.com News",
+      "publishedAt": 1779912396000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQXBwbGUg",
+      "title": "Form 144 Apple Inc. For: 27 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-apple-inc-for-27-may-93CH-4713009",
+      "source": "Investing.com News",
+      "publishedAt": 1779912382000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgUmluZ2Nl",
+      "title": "Form 144 Ringcentral Inc. For: 27 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-ringcentral-inc-for-27-may-93CH-4713007",
+      "source": "Investing.com News",
+      "publishedAt": 1779912374000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTU9IQVdL",
+      "title": "Form 144 MOHAWK INDUSTRIES INC For: 27 May",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-mohawk-industries-inc-for-27-may-93CH-4713004",
+      "source": "Investing.com News",
+      "publishedAt": 1779912368000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9iaWxpY29tIHJlcG9y",
+      "title": "Mobilicom reports Q1 revenue decline, secures new defense orders",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/mobilicom-reports-q1-revenue-decline-secures-new-defense-orders-93CH-4713003",
+      "source": "Investing.com News",
+      "publishedAt": 1779912315000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3lyZSBUaGVyYXBldXRp",
+      "title": "Gyre Therapeutics COO Ye Weiguo sells $45,680 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/gyre-therapeutics-coo-ye-weiguo-sells-45680-in-stock-93CH-4713002",
+      "source": "Investing.com News",
+      "publishedAt": 1779912259000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBDb29rIHNh",
+      "title": "Fed’s Cook says ready to hike rates if needed, urges patience",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-cook-says-ready-to-hike-rates-if-needed-urges-patience-4712994",
+      "source": "Investing.com News",
+      "publishedAt": 1779912110000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um95YWwgQ2FyaWJiZWFu",
+      "title": "Royal Caribbean scraps Mexico water park after environmental backlash",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/royal-caribbean-scraps-mexico-water-park-after-environmental-backlash-president-says-4712803",
+      "source": "Investing.com News",
+      "publishedAt": 1779912084000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWF0dGhldyBQZXJyeeKA",
+      "title": "Matthew Perry’s assistant sentenced to 41 months in prison",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/matthew-perrys-assistant-sentenced-to-41-months-in-prison-4712940",
+      "source": "Investing.com News",
+      "publishedAt": 1779912057000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSB0byBzdGFydCB0",
+      "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/meta-testing-ai-subscription-services-cheapest-plan-at-7point99-a-month.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779911729000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall more than 4% after Rubio says U.S. will give Iran talks &apos;every chance to succeed&apos;",
+      "title": "Oil prices fall more than 5% after Rubio says U.S. will give Iran talks &apos;every chance to succeed&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
       "source": "CNBC Markets",
-      "publishedAt": 1779905121000,
+      "publishedAt": 1779911423000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG93LWluY29tZSBob3Vz",
+      "title": "Low-income households face ‘remarkable’ rise in food insecurity in K-shaped economy: New York Fed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/new-york-fed-food-insecurity-worsens-amid-k-shaped-economic-divide.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779909256000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWZ0ZXIgRmVycmFyaSBM",
+      "title": "After Ferrari Luce backlash, Lamborghini CEO says canceling its own EV was the right choice",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/ferrari-luce-backlash-lamborghini-ceo-ev.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779908852000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5hbHlzaXM6IFdoYXQg",
+      "title": "Analysis: What Stephen Miller gets wrong about debt, deficits and immigration",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/trump-stephen-miller-national-debt-immigration-analysis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779908824000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVhcnMgbG9hZCB1cCBi",
+      "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779907465000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9laW5nIENFTyBzYXlz",
+      "title": "Boeing CEO says company met requirements to increase 737 Max production to 47 jets per month",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779906671000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZeKAmXMgb3VyIG1v",
+      "title": "Here’s our monthly update on all 33 portfolio stocks, including 4 to buy right now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/27/heres-our-monthly-update-on-all-33-portfolio-stocks-including-4-to-buy-right-now.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1779905317000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -40,21 +320,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWZ0ZXIgRmVycmFyaSBM",
-      "title": "After Ferrari Luce backlash, Lamborghini CEO says canceling its own EV was the right choice",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/ferrari-luce-backlash-lamborghini-ceo-ev.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779904756000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -88,195 +353,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2FsaXggbGF1bmNoZXMg",
-      "title": "Calix launches cloud enhancements for service providers",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/calix-launches-cloud-enhancements-for-service-providers-93CH-4712859",
-      "source": "Investing.com News",
-      "publishedAt": 1779903451000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgTGl2ZSBP",
-      "title": "Form 144 Live Oak Bancshares For: 27 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-live-oak-bancshares-for-27-may-93CH-4712858",
-      "source": "Investing.com News",
-      "publishedAt": 1779903416000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9laW5nIGluY3JlYXNp",
-      "title": "Boeing increasing 737 production after consulting FAA",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-increasing-737-production-after-consulting-faa-4712603",
-      "source": "Investing.com News",
-      "publishedAt": 1779903390000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgbmV3LXZlaGljbGUg",
-      "title": "US new-vehicle sales pace expected to reach 16.1 million in May",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-newvehicle-sales-pace-expected-to-reach-161-million-in-may-93CH-4712857",
-      "source": "Investing.com News",
-      "publishedAt": 1779903337000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgbW9ydGdhZ2UgcmF0",
-      "title": "US mortgage rate rises to nine-month high, worsening affordability again",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-mortgage-rate-rises-to-ninemonth-high-4711880",
-      "source": "Investing.com News",
-      "publishedAt": 1779903090000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkFBIG9yZGVycyBTcGFj",
-      "title": "FAA orders SpaceX to investigate Starship booster mishap",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/faa-orders-spacex-to-investigate-starship-booster-mishap-4712810",
-      "source": "Investing.com News",
-      "publishedAt": 1779903056000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVya3NoaXJlLW93bmVk",
-      "title": "Berkshire-owned Jazwares must face trademark lawsuit over Squishmallows ’Hug Mees’",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/berkshireowned-jazwares-must-face-trademark-lawsuit-over-squishmallows-hug-mees-4712853",
-      "source": "Investing.com News",
-      "publishedAt": 1779903041000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgRVNTRVgg",
-      "title": "Form 144 ESSEX PROPERTY TRUST For: 27 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-essex-property-trust-for-27-may-93CH-4712852",
-      "source": "Investing.com News",
-      "publishedAt": 1779903016000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgZWxlY3Ry",
-      "title": "Form 144 electroCore For: 27 May",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-electrocore-for-27-may-93CH-4712851",
-      "source": "Investing.com News",
-      "publishedAt": 1779903015000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJhbmtsaW4gRWxlY3Ry",
-      "title": "Franklin Electric CAO Grandon sells $412,578 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/franklin-electric-cao-grandon-sells-412578-in-shares-93CH-4712849",
-      "source": "Investing.com News",
-      "publishedAt": 1779902900000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJhZGVycyBhcmUgc2tl",
       "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
       "source": "CNBC Markets",
       "publishedAt": 1779902344000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TG93LWluY29tZSBob3Vz",
-      "title": "Low-income households face ‘remarkable’ rise in food insecurity in K-shaped economy: New York Fed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/new-york-fed-food-insecurity-worsens-amid-k-shaped-economic-divide.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779902182000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3MgbXkg",
-      "title": "Here&apos;s my list of best stocks to buy tied to AI and the great data center buildout",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/jim-cramer-best-stocks-to-buy-tied-to-ai-and-great-data-center-buildout.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779901549000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -346,21 +428,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Qm9laW5nIENFTyBzYXlz",
-      "title": "Boeing CEO says company met requirements to increase 737 Max production to 47 jets per month",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779892911000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWlsbGlvbnMgb2YgcGVv",
       "title": "Millions of people with disabilities may be missing out on this little-known savings tool",
       "summary": "",
@@ -387,23 +454,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkZXJhbCBqdWRnZSBo",
-      "title": "Federal judge had sex in chambers with high-ranking police officer, panel says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/26/us-judge-courts-sex-police-disciplinary.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779889973000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -480,21 +530,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-NDIlIG9mIGhvbWVvd25l",
-      "title": "42% of homeowners say insurance costs have gone up &apos;a lot,&apos; survey finds. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/homeowners-insurance-premiums.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779884101000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -575,42 +610,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGFpd2FuIGNoaXAgc3Rv",
-      "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779874874000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VUsgc3B5IGNoaWVmOiBU",
       "title": "UK spy chief: Time is running out for the West to confront threats from Russia and China",
       "summary": "",
       "url": "https://www.cnbc.com/2026/05/27/uk-spy-chief-gchq-russia-china-us-cyber-attack-security.html",
       "source": "CNBC Markets",
       "publishedAt": 1779871795000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0sgSHluaXggaGl0cyAk",
-      "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1779866506000,
       "lang": "en-US",
       "topics": [
         "macro"
