@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1780127133443,
-  "crawlUpdatedAt": 1780127133443,
+  "updatedAt": 1780135659397,
+  "crawlUpdatedAt": 1780135659397,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,83 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VGhpcyBUcnVtcC1saW5r",
+      "title": "This Trump-linked startup plans to put humanoid robots in the military",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780135412000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZW5kcyBJcmFu",
+      "title": "Trump ends Iran meeting without announcing ‘final determination’ on deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780134022000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QVVLVVMgdG8gZGV2ZWxv",
+      "title": "AUKUS to develop unmanned undersea vehicles, Pentagon chief says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/aukus-to-develop-unmanned-undersea-vehicles-pentagon-chief-says-4717597",
+      "source": "Investing.com News",
+      "publishedAt": 1780132349000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyBh",
+      "title": "Bitcoin slips as ETF demand cools, analyst warns downturn may extend",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-etf-demand-cools-analyst-warns-downturn-may-extend-4717596",
+      "source": "Investing.com News",
+      "publishedAt": 1780131592000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWtyYWluaWFuIGRyb25l",
+      "title": "Ukrainian drones hit Russian port, tanker, and oil depot, officials say",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ukrainian-drones-hit-russian-port-tanker-and-oil-depot-officials-say-4717595",
+      "source": "Investing.com News",
+      "publishedAt": 1780128219000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UGVudGFnb24gY2hpZWYg",
       "title": "Pentagon chief sounds ’alarm’ over China’s buildup, urges allies to boost defence spend",
@@ -55,6 +132,21 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBzdXBwb3J0IGZv",
+      "title": "U.S. support for Taiwan reaffirmed by members of Congress even after Trump called arms sales a &apos;negotiating chip&apos; with China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/05/30/us-support-taiwan-reaffirmed-members-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780125044000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -133,51 +225,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLUZyb20g",
-      "title": "Exclusive-From lottery draws to fiscal spending, China broadens digital yuan footprint",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/exclusivefrom-lottery-draws-to-fiscal-spending-china-broadens-digital-yuan-footprint-4717587",
-      "source": "Investing.com News",
-      "publishedAt": 1780117590000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IEplcnNleSBzdGF0",
-      "title": "New Jersey state police assert control outside migrant detention center",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/new-jersey-state-police-assert-control-outside-migrant-detention-center-4717585",
-      "source": "Investing.com News",
-      "publishedAt": 1780117229000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FsaWZvcm5pYSBlYXNl",
-      "title": "California eases carbon market rules amid affordability concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/california-eases-carbon-market-rules-amid-affordability-concerns-4717586",
-      "source": "Investing.com News",
-      "publishedAt": 1780116862000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG5h",
       "title": "Trump&apos;s name must be removed from Kennedy Center, judge rules",
       "summary": "",
@@ -235,21 +282,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZW5kcyBJcmFu",
-      "title": "Trump ends Iran meeting without announcing ‘final determination’ on deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780088685000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -540,18 +572,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGFuIEl2ZXM6IEFudGhy",
-      "title": "Dan Ives: Anthropic’s growth is &apos;just the tip of the spear&apos; for AI rally",
+      "id": "CNBC Markets-TWljaGFlbCBEZWxsIGNv",
+      "title": "Michael Dell courted Trump early. His company has reaped rewards",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/dan-ives-anthropic-growth-tip-of-the-sphere-ai-theme.html",
+      "url": "https://www.cnbc.com/2026/05/28/michael-dell-trump-accounts-dod.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780063575000,
+      "publishedAt": 1780061744000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -561,36 +593,6 @@
       "url": "https://www.cnbc.com/2026/05/29/theres-a-record-disconnect-unfolding-in-the-trading-pits-right-now.html",
       "source": "CNBC Markets",
       "publishedAt": 1780061396000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIE9t",
-      "title": "Trump&apos;s Oman outburst throws &apos;Switzerland of the Middle East&apos; into the spotlight",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/oman-trump-sanctions-iran-war-bessent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780060261000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5maWdodGluZywgY291",
-      "title": "Infighting, court battles could put long-hyped air taxi breakthrough in jeopardy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/evtol-air-taxi-lawsuits-us-launch-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780048801000,
       "lang": "zh-CN",
       "topics": [
         "macro"
