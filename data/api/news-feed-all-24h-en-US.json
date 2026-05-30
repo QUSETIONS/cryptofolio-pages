@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780170621094,
-  "crawlUpdatedAt": 1780170621094,
-  "crawlCount": 32,
+  "updatedAt": 1780175383744,
+  "crawlUpdatedAt": 1780175383744,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-U29mdEJhbmsgdG8gaW52",
+      "title": "SoftBank to invest up to €75 bln in French AI data centers",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/softbank-to-invest-up-to-75-bln-in-french-ai-data-centers-4717783",
+      "source": "Investing.com News",
+      "publishedAt": 1780173767000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V2aW4gV2Fyc2ggMTAx",
+      "title": "Kevin Warsh 101: Is the new Fed Chair a hawk or a dove?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/kevin-warsh-101-is-the-new-fed-chair-a-hawk-or-a-dove-4717782",
+      "source": "Investing.com News",
+      "publishedAt": 1780172965000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VVMgbWlsaXRhcnkgc2F5",
       "title": "US military says it turned away blockade runner trying to reach Iranian port",
@@ -148,21 +180,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgcGxhbm5pbmcgZmFz",
-      "title": "US planning faster troop withdrawal from Europe, newspaper says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-planning-faster-troop-withdrawal-from-europe-newspaper-says-4717773",
-      "source": "Investing.com News",
-      "publishedAt": 1780155728000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHdvIG1vbnRocywgJDIu",
       "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
       "summary": "",
@@ -172,21 +189,6 @@
       "lang": "en-US",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWluZXJhbHlzIHByZXNl",
-      "title": "Mineralys presents lorundrostat data in kidney disease patients",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mineralys-presents-lorundrostat-data-in-kidney-disease-patients-93CH-4717772",
-      "source": "Investing.com News",
-      "publishedAt": 1780154486000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -432,66 +434,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SVJTIHVudmVpbHMgbmV3",
-      "title": "IRS unveils new health savings account limits for 2027",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/hsa-limits-2027.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780087357000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnJlbnQgb2lsIHByaWNl",
-      "title": "Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/oil-price-iran-deal-war-ceasefire-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780085629000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVsbCBzdG9jayBza3ly",
-      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780085426000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiB3YXIgY29zdDog",
-      "title": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780084725000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
