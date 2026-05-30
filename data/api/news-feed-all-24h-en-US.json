@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780164474987,
-  "crawlUpdatedAt": 1780164474987,
-  "crawlCount": 35,
+  "updatedAt": 1780170621094,
+  "crawlUpdatedAt": 1780170621094,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VVMgbWlsaXRhcnkgc2F5",
+      "title": "US military says it turned away blockade runner trying to reach Iranian port",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-turned-away-blockade-runner-trying-to-reach-iranian-port-4717780",
+      "source": "Investing.com News",
+      "publishedAt": 1780169425000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdG8gaGVhZGxp",
+      "title": "Trump to headline 250th anniversary fair opening after performers drop out",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
+      "source": "Investing.com News",
+      "publishedAt": 1780169068000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmlnaHRzIGdyb3VwcyBz",
+      "title": "Rights groups sue over conditions at largest US immigration detention center",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/rights-groups-sue-over-conditions-at-largest-us-immigration-detention-center-4717779",
+      "source": "Investing.com News",
+      "publishedAt": 1780165829000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VVMganVkZ2Ugb3JkZXJz",
       "title": "US judge orders review of Trump’s IRS lawsuit settlement",
@@ -70,21 +115,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgY29uc2lkZXJz",
-      "title": "Trump considers dropping Freedom 250 concerts in D.C. after artists pull out",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
-      "source": "Investing.com News",
-      "publishedAt": 1780161509000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -154,36 +184,6 @@
       "url": "https://www.investing.com/news/company-news/mineralys-presents-lorundrostat-data-in-kidney-disease-patients-93CH-4717772",
       "source": "Investing.com News",
       "publishedAt": 1780154486000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29sb21iaWEgYWNjdXNl",
-      "title": "Colombia accuses Ecuador of “deliberate interference” in presidential election amid tariff spat",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/colombia-accuses-ecuador-of-deliberate-interference-in-presidential-election-amid-tariff-spat-4717769",
-      "source": "Investing.com News",
-      "publishedAt": 1780151791000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rmlyc3QgV2luZG93cyBQ",
-      "title": "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/first-windows-pc-powered-by-nvidia-chips-to-debut-next-week-axios-reports-4717762",
-      "source": "Investing.com News",
-      "publishedAt": 1780151070000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -486,51 +486,6 @@
       "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1780084725000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWVyY2VkZXMtQmVueiBt",
-      "title": "Mercedes-Benz may be shut out of U.S. market under bill aimed at Chinese automaker ownership",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/mercedes-benz-ban-congressional-bill-china-ownership.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780083076000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qmx1ZSBPcmlnaW4gd2Fy",
-      "title": "Blue Origin warns of rocket explosion debris after failed New Glenn test at Cape Canaveral",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780081883000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgRE9KICZhcG9z",
-      "title": "Trump DOJ &apos;lawfare&apos; fund temporarily blocked by judge as suit proceeds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/trump-doj-fund-lawfare-blocked-judge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780080468000,
       "lang": "en-US",
       "topics": [
         "macro"
