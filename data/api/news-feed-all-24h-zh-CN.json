@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780180365104,
-  "crawlUpdatedAt": 1780180365104,
-  "crawlCount": 26,
+  "updatedAt": 1780186142936,
+  "crawlUpdatedAt": 1780186142936,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Rmlyc3QgV2luZG93cyBQ",
+      "title": "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/first-windows-pc-powered-by-nvidia-chips-to-debut-next-week-axios-reports-4717762",
+      "source": "Investing.com News",
+      "publishedAt": 1780185268000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdG8gaGVhZGxp",
+      "title": "Trump to headline 250th anniversary fair opening after performers drop out",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
+      "source": "Investing.com News",
+      "publishedAt": 1780183831000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RUNC4oCZcyBQZXJlaXJh",
+      "title": "ECB’s Pereira says inflation requires action sooner rather than later",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ecbs-pereira-says-inflation-requires-action-sooner-rather-than-later-4717790",
+      "source": "Investing.com News",
+      "publishedAt": 1780182941000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WXVtISBCcmFuZHMgaW4g",
+      "title": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/yum-brands-in-exclusive-talks-to-sell-pizza-hut-to-longrange--bloomberg-4717789",
+      "source": "Investing.com News",
+      "publishedAt": 1780180550000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2hhdCBkbyByaXNpbmcg",
       "title": "What do rising airfares mean for cruise?",
@@ -110,68 +170,6 @@
       "url": "https://www.investing.com/news/stock-market-news/softbank-to-invest-up-to-75-bln-in-french-ai-data-centers-4717783",
       "source": "Investing.com News",
       "publishedAt": 1780173767000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2V2aW4gV2Fyc2ggMTAx",
-      "title": "Kevin Warsh 101: Is the new Fed Chair a hawk or a dove?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/kevin-warsh-101-is-the-new-fed-chair-a-hawk-or-a-dove-4717782",
-      "source": "Investing.com News",
-      "publishedAt": 1780172965000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgbWlsaXRhcnkgc2F5",
-      "title": "US military says it turned away blockade runner trying to reach Iranian port",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-turned-away-blockade-runner-trying-to-reach-iranian-port-4717780",
-      "source": "Investing.com News",
-      "publishedAt": 1780169425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdG8gaGVhZGxp",
-      "title": "Trump to headline 250th anniversary fair opening after performers drop out",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
-      "source": "Investing.com News",
-      "publishedAt": 1780169068000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmlnaHRzIGdyb3VwcyBz",
-      "title": "Rights groups sue over conditions at largest US immigration detention center",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/rights-groups-sue-over-conditions-at-largest-us-immigration-detention-center-4717779",
-      "source": "Investing.com News",
-      "publishedAt": 1780165829000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -384,21 +382,6 @@
       "url": "https://www.cnbc.com/2026/05/29/trump-kennedy-center-judge-beatty.html",
       "source": "CNBC Markets",
       "publishedAt": 1780100139000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG9zdGFsIFNlcnZpY2Ug",
-      "title": "Postal Service proposes requiring states to provide mail-in ballot voter lists",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/05/29/postal-service-mail-in-ballot-voter-lists-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780095128000,
       "lang": "zh-CN",
       "topics": [
         "macro"
