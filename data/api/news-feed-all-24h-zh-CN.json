@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780604171105,
-  "crawlUpdatedAt": 1780604171105,
-  "crawlCount": 40,
+  "updatedAt": 1780610791857,
+  "crawlUpdatedAt": 1780610791857,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,20 +13,170 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-UXVhbnRpbnV1bSBjbG9z",
-      "title": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
+      "id": "Investing.com News-VHJ1bXAgZGlyZWN0cyBo",
+      "title": "Trump directs hundreds of millions of dollars to support coal using emergency powers",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780604112000,
+      "url": "https://www.investing.com/news/commodities-news/trump-to-unveil-700-million-coal-support-plan-using-emergency-powers-4727146",
+      "source": "Investing.com News",
+      "publishedAt": 1780610121000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVNwYWNl",
+      "title": "Exclusive-SpaceX tells banks it won’t move its $135-a-share IPO price",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivespacex-tells-banks-it-wont-move-its-135ashare-ipo-price-4727657",
+      "source": "Investing.com News",
+      "publishedAt": 1780610104000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9yY2ggZ3JvdXAgQ0ZP",
+      "title": "Porch group CFO Shawn Tabak sells $42,871 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/porch-group-cfo-shawn-tabak-sells-42871-in-company-stock-93CH-4727664",
+      "source": "Investing.com News",
+      "publishedAt": 1780610095000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgd2lsbCB1cGhvbGQg",
+      "title": "US will uphold tariff caps in deals with EU, Japan and others, Trump’s trade chief says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-will-uphold-tariff-caps-in-deals-with-eu-japan-and-others-us-trade-chief-says-4726900",
+      "source": "Investing.com News",
+      "publishedAt": 1780610080000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UyZQIERKSSBob2xkcyBm",
+      "title": "S&P DJI holds firm on index rules despite megacap IPO anticipation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sp-dji-holds-firm-on-index-rules-despite-megacap-ipo-anticipation-4727662",
+      "source": "Investing.com News",
+      "publishedAt": 1780610050000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [
-        "NDX"
+        "SPX"
       ],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1wZXJDYXAgQWNxdWlz",
+      "title": "AmperCap Acquisition completes $125 million SPAC IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ampercap-acquisition-completes-125-million-spac-ipo-93CH-4727663",
+      "source": "Investing.com News",
+      "publishedAt": 1780609964000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTm92b0N1",
+      "title": "Form 144 NovoCure Limited For: 4 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-novocure-limited-for-4-june-93CH-4727661",
+      "source": "Investing.com News",
+      "publishedAt": 1780609902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlnaSBJbnRlcm5hdGlv",
+      "title": "Digi International CFO James Loch sells $6.9m in company shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/digi-international-cfo-james-loch-sells-69m-in-company-shares-93CH-4727660",
+      "source": "Investing.com News",
+      "publishedAt": 1780609900000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGF0YWRvZyBDRk8gRGF2",
+      "title": "Datadog CFO David Obstler sells $4.36 million in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/datadog-cfo-david-obstler-sells-436-million-in-stock-93CH-4727659",
+      "source": "Investing.com News",
+      "publishedAt": 1780609868000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSG91c2UgbGF3bWFr",
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-house-lawmakers-release-draft-bill-to-regulate-ai-4727145",
+      "source": "Investing.com News",
+      "publishedAt": 1780609769000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FycmVuIGludml0ZXMg",
+      "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/nvidia-ceo-jensen-huang-warren-senate-hearing-china-ai-chips.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780609437000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -35,7 +185,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/04/pulte-intelligence-trump-dni-temporary.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780604094000,
+      "publishedAt": 1780608959000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -45,57 +195,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgTW9uZ29E",
-      "title": "Form 144 MongoDB Inc For: 4 June",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBj",
+      "title": "Trump says he could meet Iran&apos;s supreme leader &apos;if it was to make a deal&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-mongodb-inc-for-4-june-93CH-4727331",
-      "source": "Investing.com News",
-      "publishedAt": 1780602892000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgVEVSRVgg",
-      "title": "Form 144 TEREX CORP For: 4 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-terex-corp-for-4-june-93CH-4727330",
-      "source": "Investing.com News",
-      "publishedAt": 1780602889000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ3VzaG1h",
-      "title": "Form 144 Cushman & Wakefield Ltd. For: 4 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-cushman--wakefield-ltd-for-4-june-93CH-4727329",
-      "source": "Investing.com News",
-      "publishedAt": 1780602874000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdW52ZWlscyAk",
-      "title": "Trump unveils $700 million coal support plan using emergency powers",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-to-unveil-700-million-coal-support-plan-using-emergency-powers-4727146",
-      "source": "Investing.com News",
-      "publishedAt": 1780602868000,
+      "url": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780607661000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,12 +210,57 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-THVsdWxlbW9uIGN1dHMg",
+      "title": "Lululemon cuts annual outlook, citing &apos;negative&apos; media commentary and disappointing product launches",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780606750000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG9uZXl3ZWxs4oCZcyBx",
+      "title": "Honeywell’s quantum company goes public. What investors should know about the IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/honeywells-quantum-company-goes-public-what-investors-should-know-about-the-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780606503000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hpcHMgc3RyYW5kZWQg",
+      "title": "Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780606374000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Qml0Y29pbiBpcyB3ZWF0",
       "title": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780602815000,
+      "publishedAt": 1780605321000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
@@ -122,87 +272,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGVudGFnb24gc2V0IHRv",
-      "title": "Pentagon set to cancel Tomahawk missile sale to Germany on Russia fears - Politico",
+      "id": "CNBC Markets-UXVhbnRpbnV1bSBjbG9z",
+      "title": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/pentagon-set-to-cancel-tomahawk-missile-sale-to-germany-on-russia-fears--politico-93CH-4727328",
-      "source": "Investing.com News",
-      "publishedAt": 1780602805000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFybWVycyAmIE1lcmNo",
-      "title": "Farmers & Merchants Bancorp director Andrew J Briggs sells $82,080 stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/farmers--merchants-bancorp-director-andrew-j-briggs-sells-82080-stock-93CH-4727327",
-      "source": "Investing.com News",
-      "publishedAt": 1780602607000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsIGlubm92YXRp",
-      "title": "Global innovative platforms: David Brown buys $202,000 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/global-innovative-platforms-david-brown-buys-202000-in-stock-93CH-4727326",
-      "source": "Investing.com News",
-      "publishedAt": 1780602576000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXRyb24gU1ZQIEpvaG4g",
-      "title": "Itron SVP John Marcolini sells $946,085 in company shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/itron-svp-john-marcolini-sells-946085-in-company-shares-93CH-4727325",
-      "source": "Investing.com News",
-      "publishedAt": 1780602574000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SkxMIHNlY3VyZXMgJDg3",
-      "title": "JLL secures $870M construction loan for Austin luxury project",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/jll-secures-870m-construction-loan-for-austin-luxury-project-93CH-4727324",
-      "source": "Investing.com News",
-      "publishedAt": 1780602567000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2V5c3RvbmUgQWNxdWlz",
-      "title": "Keystone Acquisition completes $287.5m SPAC IPO on Nasdaq",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/keystone-acquisition-completes-2875m-spac-ipo-on-nasdaq-93CH-4727323",
-      "source": "Investing.com News",
-      "publishedAt": 1780602559000,
+      "url": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780604542000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -210,22 +285,7 @@
       "symbols": [
         "NDX"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hpcHMgc3RyYW5kZWQg",
-      "title": "Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780602417000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -241,21 +301,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2xpZ2h0ZWQgbWFya2V0",
-      "title": "Slighted market sectors get their time to shine — plus, Costco keeps packing them in",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/slighted-market-sectors-get-their-time-to-shine-plus-costco-keeps-packing-them-in.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780599348000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -514,42 +559,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RWxpIE1hbm5pbmcmYXBv",
-      "title": "Eli Manning&apos;s private equity firm acquires licensing company for NFL Flag in bet on youth sports",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/eli-manning-private-equity-rcx-youth-sports.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780572808000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3BhY2VYIElQTyBoeXBl",
       "title": "SpaceX IPO hype has traders flocking to this mid-cap stock",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/04/spacex-ipo-hype-has-traders-flocking-to-this-mid-cap-stock.html",
       "source": "CNBC Markets",
       "publishedAt": 1780572533000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGlyZSBnaWFudCBQaXJl",
-      "title": "Tire giant Pirelli vows legal action as short seller alleges ‘close relationship’ with Russia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/pirelli-grizzly-research-russia-legal-action.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780571488000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -574,21 +589,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U29mdEJhbmsgc2hhcmVz",
-      "title": "SoftBank shares plunge over 11% amid broader tech sell-off",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/softbanks-shares-are-down-10percent-amid-broader-tech-sell-off.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780568634000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qml0Y29pbiZhcG9zO3Mg",
       "title": "Bitcoin&apos;s high-conviction holders are turning into sellers as the crypto&apos;s price hits new lows",
       "summary": "",
@@ -602,21 +602,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHRhcmdldHMg",
-      "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780521221000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
