@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1780594316979,
-  "crawlUpdatedAt": 1780594316979,
+  "updatedAt": 1780604171105,
+  "crawlUpdatedAt": 1780604171105,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TG9uZy10ZXJtIHVuZW1w",
-      "title": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
+      "id": "CNBC Markets-UXVhbnRpbnV1bSBjbG9z",
+      "title": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html",
+      "url": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780594253000,
+      "publishedAt": 1780604112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBQdWx0",
+      "title": "Trump says Pulte won&apos;t be permanent national intelligence director",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/pulte-intelligence-trump-dni-temporary.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780604094000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,15 +45,274 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgSnIuIHRhbGtz",
-      "title": "Trump Jr. talks crypto and geopolitics at business gathering in Switzerland",
+      "id": "Investing.com News-Rm9ybSAxNDQgTW9uZ29E",
+      "title": "Form 144 MongoDB Inc For: 4 June",
       "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-jr-talks-crypto-and-geopolitics-at-business-gathering-in-switzerland-4727209",
+      "url": "https://www.investing.com/news/filings/form-144-mongodb-inc-for-4-june-93CH-4727331",
       "source": "Investing.com News",
-      "publishedAt": 1780594244000,
+      "publishedAt": 1780602892000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVEVSRVgg",
+      "title": "Form 144 TEREX CORP For: 4 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-terex-corp-for-4-june-93CH-4727330",
+      "source": "Investing.com News",
+      "publishedAt": 1780602889000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgQ3VzaG1h",
+      "title": "Form 144 Cushman & Wakefield Ltd. For: 4 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-cushman--wakefield-ltd-for-4-june-93CH-4727329",
+      "source": "Investing.com News",
+      "publishedAt": 1780602874000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdW52ZWlscyAk",
+      "title": "Trump unveils $700 million coal support plan using emergency powers",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-to-unveil-700-million-coal-support-plan-using-emergency-powers-4727146",
+      "source": "Investing.com News",
+      "publishedAt": 1780602868000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBpcyB3ZWF0",
+      "title": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780602815000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVudGFnb24gc2V0IHRv",
+      "title": "Pentagon set to cancel Tomahawk missile sale to Germany on Russia fears - Politico",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/pentagon-set-to-cancel-tomahawk-missile-sale-to-germany-on-russia-fears--politico-93CH-4727328",
+      "source": "Investing.com News",
+      "publishedAt": 1780602805000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFybWVycyAmIE1lcmNo",
+      "title": "Farmers & Merchants Bancorp director Andrew J Briggs sells $82,080 stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/farmers--merchants-bancorp-director-andrew-j-briggs-sells-82080-stock-93CH-4727327",
+      "source": "Investing.com News",
+      "publishedAt": 1780602607000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2xvYmFsIGlubm92YXRp",
+      "title": "Global innovative platforms: David Brown buys $202,000 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/global-innovative-platforms-david-brown-buys-202000-in-stock-93CH-4727326",
+      "source": "Investing.com News",
+      "publishedAt": 1780602576000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXRyb24gU1ZQIEpvaG4g",
+      "title": "Itron SVP John Marcolini sells $946,085 in company shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/itron-svp-john-marcolini-sells-946085-in-company-shares-93CH-4727325",
+      "source": "Investing.com News",
+      "publishedAt": 1780602574000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SkxMIHNlY3VyZXMgJDg3",
+      "title": "JLL secures $870M construction loan for Austin luxury project",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jll-secures-870m-construction-loan-for-austin-luxury-project-93CH-4727324",
+      "source": "Investing.com News",
+      "publishedAt": 1780602567000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5c3RvbmUgQWNxdWlz",
+      "title": "Keystone Acquisition completes $287.5m SPAC IPO on Nasdaq",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/keystone-acquisition-completes-2875m-spac-ipo-on-nasdaq-93CH-4727323",
+      "source": "Investing.com News",
+      "publishedAt": 1780602559000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hpcHMgc3RyYW5kZWQg",
+      "title": "Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780602417000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall 3% on report Trump reluctant to restart Iran war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/oil-price-today-iran-war-hormuz-trump-israel-lebanon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780601155000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2xpZ2h0ZWQgbWFya2V0",
+      "title": "Slighted market sectors get their time to shine — plus, Costco keeps packing them in",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/slighted-market-sectors-get-their-time-to-shine-plus-costco-keeps-packing-them-in.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780599348000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG9uZy10ZXJtIHVuZW1w",
+      "title": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780599332000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuLiBCaWxsIENhc3Np",
+      "title": "Sen. Bill Cassidy signs onto brief calling &apos;anti-weaponization&apos; fund a &apos;dire threat&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/weaponization-fund-bill-cassidy-amicus-brief.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780599056000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmFtcCBoaXRzICQ0NCBi",
+      "title": "Ramp hits $44 billion valuation as companies look to rein in AI spending",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/ramp-valuation-funding-ai-spend.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780598707000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29uZmlybWVkIHNjcmV3",
+      "title": "Confirmed screwworm case in Texas sends two biotech stocks higher",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/04/confirmed-screwworm-case-in-texas-sends-two-biotech-stocks-higher.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780598083000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -48,7 +324,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/04/bolton-guilty-plea-trump-national-security-advisor.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780594197000,
+      "publishedAt": 1780596721000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,27 +334,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2FsbWFydCBpbnZlc3Rv",
-      "title": "Walmart investors reject AI workplace report as automation expands in the US",
+      "id": "CNBC Markets-Rmxlc2gtZWF0aW5nIHNj",
+      "title": "Flesh-eating screwworm is confirmed in the U.S., officials say",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/walmart-investors-reject-ai-workplace-report-as-automation-expands-in-the-us-4727161",
-      "source": "Investing.com News",
-      "publishedAt": 1780593888000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgYmFu",
-      "title": "Wall Street banks and CEOs promote SpaceX in flashy events with BofA, Morgan Stanley, JPM events planned",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-banks-and-ceos-promote-spacexin-flashy-events-with-bofa-morgan-stanley-jpm-events-planned-4727204",
-      "source": "Investing.com News",
-      "publishedAt": 1780593872000,
+      "url": "https://www.cnbc.com/2026/06/04/flesh-eating-screwworm-is-confirmed-in-the-us-officials-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780595182000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,111 +364,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3Rhcm1lciBjYWxscyBm",
-      "title": "Starmer calls for Elon Musk to stop interfering in UK politics",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/starmer-calls-for-elon-musk-to-stop-interfering-in-uk-politics-4727205",
-      "source": "Investing.com News",
-      "publishedAt": 1780593549000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
-      "title": "US Supreme Court backs SEC in fight over ’disgorgement’ power",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-backs-sec-in-fight-over-disgorgement-power-4726984",
-      "source": "Investing.com News",
-      "publishedAt": 1780593530000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgRGlnaXRh",
-      "title": "Form 13G DigitalOcean Holdings For: 4 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-digitalocean-holdings-for-4-june-93CH-4727203",
-      "source": "Investing.com News",
-      "publishedAt": 1780593422000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgUkVHRU5Y",
-      "title": "Form 13G REGENXBIO Inc. For: 4 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-regenxbio-inc-for-4-june-93CH-4727202",
-      "source": "Investing.com News",
-      "publishedAt": 1780593339000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0cgTWlsbHJv",
-      "title": "Form 13G Millrose Properties Inc For: 4 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-millrose-properties-inc-for-4-june-93CH-4727201",
-      "source": "Investing.com News",
-      "publishedAt": 1780593339000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHV0aW4gZW52b3kgc2F5",
-      "title": "Putin envoy says Russia-US talks on energy, economy continue",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/putin-envoy-says-russiaus-talks-on-energy-economy-continue-4727200",
-      "source": "Investing.com News",
-      "publishedAt": 1780593324000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHNuYXBzIHRocmVl",
-      "title": "Oil snaps three-day win streak after Israel, Lebanon ceasefire eases tensions",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-dips-after-3day-surge-as-traders-watch-gulf-hostilities-us-stock-draw-4725511",
-      "source": "Investing.com News",
-      "publishedAt": 1780593323000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW5zaWRlIHRoZSAkODUw",
       "title": "Inside the $850 million Obama Presidential Center ahead of its Juneteenth opening",
       "summary": "",
@@ -223,57 +379,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29uZmlybWVkIHNjcmV3",
-      "title": "Confirmed screwworm case in Texas sends two biotech stocks higher",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/confirmed-screwworm-case-in-texas-sends-two-biotech-stocks-higher.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780592260000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U29hcmluZyBzdG9ja3Mg",
       "title": "Soaring stocks created 2 million new millionaires around the world last year",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/04/stocks-new-millionaires.html",
       "source": "CNBC Markets",
       "publishedAt": 1780591686000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rmxlc2gtZWF0aW5nIHNj",
-      "title": "Flesh-eating screwworm is confirmed in the U.S., officials say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/flesh-eating-screwworm-is-confirmed-in-the-us-officials-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780590152000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IHdlJmFwb3M7cmUg",
-      "title": "Why we&apos;re not discouraged by CrowdStrike and Broadcom selling. Context is everything",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/why-were-not-discouraged-by-crowdstrike-and-broadcom-selling-context-is-everything.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780589682000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -325,21 +436,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall 3% on report Trump reluctant to restart Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/oil-price-today-iran-war-hormuz-trump-israel-lebanon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780581653000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -418,21 +514,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXMgSG9uZXl3ZWxsIEFl",
-      "title": "As Honeywell Aerospace readies for its stand-alone debut, its CEO is forecasting big growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/03/honeywell-aerospace-ceo-earnings-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780573964000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RWxpIE1hbm5pbmcmYXBv",
       "title": "Eli Manning&apos;s private equity firm acquires licensing company for NFL Flag in bet on youth sports",
       "summary": "",
@@ -508,36 +589,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5kaWEmYXBvcztzIHZp",
-      "title": "India&apos;s viral &apos;Cockroach&apos; party has millions of followers. What investors need to know",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/indias-cockroach-cjp-party-what-investors-need-to-know.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780567131000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFydG5lcnMgR3JvdXAg",
-      "title": "Partners Group warns it could cap more fund withdrawals after triggering private equity rout",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/04/partners-group-private-equity-fund-restrictions-investor-redemptions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780565257000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qml0Y29pbiZhcG9zO3Mg",
       "title": "Bitcoin&apos;s high-conviction holders are turning into sellers as the crypto&apos;s price hits new lows",
       "summary": "",
@@ -555,21 +606,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q3Jvd2RTdHJpa2UgbmFy",
-      "title": "CrowdStrike narrowly beats estimates on AI tailwinds, but stock falls 10%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780522465000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3BhY2VYIHRhcmdldHMg",
       "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion",
       "summary": "",
@@ -582,36 +618,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGlkZGVuIGJlbmVhdGgg",
-      "title": "Hidden beneath AI chips, Chinese-made circuit boards raise national security concerns in U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780519614000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuYXRlIEdPUCBzdHJp",
-      "title": "Senate GOP strips up to $1B for Trump ballroom security from immigration enforcement bill",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/03/senate-gop-trump-ballroom-security-funding-immigration-bill.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780517185000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
