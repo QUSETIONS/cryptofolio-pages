@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780766515260,
-  "crawlUpdatedAt": 1780766515260,
-  "crawlCount": 34,
+  "updatedAt": 1780771781962,
+  "crawlUpdatedAt": 1780771781962,
+  "crawlCount": 33,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -19,6 +19,81 @@
       "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4728989",
       "source": "Investing.com News",
       "publishedAt": 1780826400000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJhbmNlLCBhbGxpZXMg",
+      "title": "France, allies eye national measures to pressure Israel over West Bank, diplomats say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/france-allies-eye-national-measures-to-pressure-israel-over-west-bank-diplomats-say-4729605",
+      "source": "Investing.com News",
+      "publishedAt": 1780770988000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjb25maXJtcyBz",
+      "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780770641000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc3RyaWtlcyBJcmFu",
+      "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flareup-4729541",
+      "source": "Investing.com News",
+      "publishedAt": 1780767747000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hpdGUgSG91c2UgQUkg",
+      "title": "White House AI policy adviser Krishnan to leave position",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
+      "source": "Investing.com News",
+      "publishedAt": 1780767032000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBp",
+      "title": "Raymond James identifies split government as the leading outcome for the midterms",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/raymond-james-identifies-split-government-as-the-leading-outcome-for-the-midterms-4729604",
+      "source": "Investing.com News",
+      "publishedAt": 1780766814000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -75,21 +150,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hpdGUgSG91c2UgQUkg",
-      "title": "White House AI policy adviser Krishnan to leave position, the Information reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
-      "source": "Investing.com News",
-      "publishedAt": 1780764158000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SGVyZSBhcmUgMyBmb3Jj",
       "title": "Here are 3 forces that drove a whirlwind week for the stock market",
       "summary": "",
@@ -133,51 +193,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley flags four emerging products to turn Meta into an ’AI winner’",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-emerging-products-to-turn-meta-into-an-ai-winner-4729599",
-      "source": "Investing.com News",
-      "publishedAt": 1780762977000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration and OpenAI discuss potential U.S. equity stake",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/trump-administration-and-openai-discuss-potential-us-equity-stake-cnbc-reports-4729107",
-      "source": "Investing.com News",
-      "publishedAt": 1780761108000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJhc2VycyBHcm91cCBl",
-      "title": "Frasers Group eyes Metrocentre bid amid property expansion - Sky News",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/frasers-group-eyes-metrocentre-bid-amid-property-expansion--sky-news-93CH-4729598",
-      "source": "Investing.com News",
-      "publishedAt": 1780760335000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
@@ -500,39 +515,6 @@
       ],
       "symbols": [
         "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9kZWwgcm91dGluZyBp",
-      "title": "Model routing is a fix for AI overspending. That&apos;s a problem for OpenAI and Anthropic",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780683865000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3J5cHRvIG11dGlueSBv",
-      "title": "Crypto mutiny on Strategy: Shorts target &apos;MSTR&apos; in bitcoin bloodbath",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780683255000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
