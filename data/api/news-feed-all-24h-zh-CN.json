@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780936625601,
-  "crawlUpdatedAt": 1780936625601,
-  "crawlCount": 37,
+  "updatedAt": 1780946867699,
+  "crawlUpdatedAt": 1780946867699,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q29jYS1Db2xhIGNoYWly",
-      "title": "Coca-Cola chairman James Quincey sells $35.6m in company stock",
+      "id": "CNBC Markets-Q29uZ3Jlc3MgbW92ZXMg",
+      "title": "Congress moves toward approving $70 billion for ICE and CBP through Trump&apos;s presidency",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/cocacola-chairman-james-quincey-sells-356m-in-company-stock-93CH-4731183",
-      "source": "Investing.com News",
-      "publishedAt": 1780936459000,
+      "url": "https://www.cnbc.com/2026/06/08/ice-cbp-immigration-funding-bill-congress-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780946746000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgTkVXRUxM",
-      "title": "Form 144 NEWELL BRANDS INC. For: 8 June",
+      "id": "CNBC Markets-Q29udmljdGVkIEZUWCBm",
+      "title": "Convicted FTX founder Sam Bankman-Fried files formal request for Trump pardon",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-newell-brands-inc-for-8-june-93CH-4731181",
-      "source": "Investing.com News",
-      "publishedAt": 1780936390000,
+      "url": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780946432000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +43,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIFNtYXJ0UmVu",
-      "title": "Why is SmartRent stock rallying today?",
+      "id": "CNBC Markets-T2lsIHByaWNlcyBlYXNl",
+      "title": "Oil prices ease after Iran says military operations against Israel are over",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-smartrent-stock-rallying-today-93CH-4731180",
-      "source": "Investing.com News",
-      "publishedAt": 1780936387000,
+      "url": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780946130000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9vZCBzdXBwbHkgJmFw",
+      "title": "Food supply &apos;not at risk&apos; after new Texas screwworm cases, USDA secretary says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/texas-screwworm-cases-food-supply-brooke-rollins.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780946081000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,27 +73,132 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q29pblNoYXJlcyBhZGRz",
-      "title": "CoinShares adds Virtu Financial as market maker for crypto ETPs",
+      "id": "CNBC Markets-V2UmYXBvcztyZSBnZXR0",
+      "title": "We&apos;re getting closer to upgrading Honeywell as shares pull back into its breakup",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/coinshares-adds-virtu-financial-as-market-maker-for-crypto-etps-93CH-4731179",
-      "source": "Investing.com News",
-      "publishedAt": 1780936364000,
+      "url": "https://www.cnbc.com/2026/06/08/were-closer-to-upgrading-honeywell-as-shares-pull-back-into-breakup.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780945877000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Vmljb3IgY2hhaXJtYW4g",
+      "title": "Vicor chairman and CEO Patrizio Vinciarelli sells $5.5m company shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/vicor-chairman-and-ceo-patrizio-vinciarelli-sells-55m-company-shares-93CH-4731329",
+      "source": "Investing.com News",
+      "publishedAt": 1780945835000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWV4aWNvIGluZmxhdGlv",
-      "title": "Mexico inflation likely slowed again in May, still above cenbank target",
+      "id": "Investing.com News-TWVkaWFDbyBwYXJ0bmVy",
+      "title": "MediaCo partners with WAPA Media to syndicate Puerto Rico radio show",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/mexico-inflation-likely-slowed-again-in-may-still-above-cenbank-target-4731178",
+      "url": "https://www.investing.com/news/company-news/mediaco-partners-with-wapa-media-to-syndicate-puerto-rico-radio-show-93CH-4731328",
       "source": "Investing.com News",
-      "publishedAt": 1780936272000,
+      "publishedAt": 1780945527000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qmx1ZXJvY2sgSG9tZXMg",
+      "title": "Bluerock Homes Trust CFO Vohs buys $54,000 preferred stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/bluerock-homes-trust-cfo-vohs-buys-54000-preferred-stock-93CH-4731327",
+      "source": "Investing.com News",
+      "publishedAt": 1780945452000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9yZ3dhcm5lciBkaXJl",
+      "title": "Borgwarner director Shankar sells $365k in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/borgwarner-director-shankar-sells-365k-in-stock-93CH-4731326",
+      "source": "Investing.com News",
+      "publishedAt": 1780945441000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRmx5d2ly",
+      "title": "Form 144 Flywire Corp For: 8 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-flywire-corp-for-8-june-93CH-4731325",
+      "source": "Investing.com News",
+      "publishedAt": 1780945395000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSnVzdGljZSBEZXBh",
+      "title": "US Justice Department says it moved to strip citizenship from 17 naturalized people",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/us-justice-department-says-it-moved-to-strip-citizenship-from-17-naturalized-people-4731123",
+      "source": "Investing.com News",
+      "publishedAt": 1780945335000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2F5cyBCWUQsIEJh",
+      "title": "US says BYD, Baidu and Alibaba are aiding China’s military",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-says-byd-baidu-and-alibaba-are-aiding-chinas-military-4731318",
+      "source": "Investing.com News",
+      "publishedAt": 1780945314000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VuYXRvcnMgc2VlayBw",
+      "title": "Senators seek probe into US transport chief road trip paid for by corporate donors",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/senators-seek-probe-into-us-transport-chief-road-trip-paid-for-by-corporate-donors-4731324",
+      "source": "Investing.com News",
+      "publishedAt": 1780945271000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -88,12 +208,102 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
-      "title": "US Supreme Court poised to rule on gun laws and transgender athletes",
+      "id": "Investing.com News-SVNTIHVyZ2VzIFdhcm5l",
+      "title": "ISS urges Warner Bros shareholders to reject executive pay tied to Paramount merger",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-supreme-court-poised-to-rule-on-gun-laws-and-transgender-athletes-4729665",
+      "url": "https://www.investing.com/news/stock-market-news/iss-urges-warner-bros-shareholders-to-reject-executive-pay-tied-to-paramount-merger-4731317",
       "source": "Investing.com News",
-      "publishedAt": 1780936254000,
+      "publishedAt": 1780945250000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWNLZXNzb24gU1ZQLCBj",
+      "title": "McKesson SVP, controller & CAO sells $101,612 in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/mckesson-svp-controller--cao-sells-101612-in-common-stock-93CH-4731321",
+      "source": "Investing.com News",
+      "publishedAt": 1780945111000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIFRy",
+      "title": "Judge blocks Trump&apos;s $100,000 H-1B visa fee",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780944768000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlybGluZXMgZmluZCB0",
+      "title": "Airlines find the grass isn&apos;t always greener with new engines",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/airline-engines-ge-pratt-rtx.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780943623000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpIHRyYWRlcnMg",
+      "title": "Kalshi traders say Strait of Hormuz traffic won&apos;t return to normal before January",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/strait-of-hormuz-traffic-wont-return-to-normal-until-end-of-the-year-traders-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780943395000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2lsaWNvbiBWYWxsZXni",
+      "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780941673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpcCByZWJvdW5kIHNw",
+      "title": "Chip rebound sparks hedging flurry from traders",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/chip-rebound-sparks-hedging-flurry-from-traders.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780940404000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +313,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxM0cgUHJvZ3lu",
-      "title": "Form 13G Progyny For: 8 June",
+      "id": "CNBC Markets-TmV0YW55YWh1IHNheXMg",
+      "title": "Netanyahu says war with Iran, Hezbollah isn&apos;t over after Tehran says it&apos;s halting strikes",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13g-progyny-for-8-june-93CH-4731177",
-      "source": "Investing.com News",
-      "publishedAt": 1780936244000,
+      "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780940017000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,42 +328,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2FudGVyYnVyeSBQYXJr",
-      "title": "Canterbury Park Holding shareholders approve board elections and stock plan amendment",
+      "id": "CNBC Markets-Q2hpcCByZWJvdW5kIGhh",
+      "title": "Chip rebound has one trader buying protection",
       "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/canterbury-park-holding-shareholders-approve-board-elections-and-stock-plan-amendment-93CH-4731176",
-      "source": "Investing.com News",
-      "publishedAt": 1780936241000,
+      "url": "https://www.cnbc.com/2026/06/08/chip-rebound-has-one-trader-buying-protection.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780938493000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWF1cml0aXVzIGhhcyBu",
-      "title": "Mauritius has not received US proposal on Chagos Islands",
+      "id": "CNBC Markets-VGhpcyBwb3B1bGFyIGNh",
+      "title": "This popular car-buying rule isn&apos;t realistic for most Americans—here&apos;s the income needed to make it work",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/mauritius-has-not-received-us-proposal-on-chagos-islands-4729937",
-      "source": "Investing.com News",
-      "publishedAt": 1780936236000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2sg",
-      "title": "European stock markets mixed amid Iran-Israel strikes, AI jitters",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/european-stock-markets-slip-amid-iranisrael-strikes-ai-jitters-4729874",
-      "source": "Investing.com News",
-      "publishedAt": 1780936217000,
+      "url": "https://www.cnbc.com/2026/06/08/why-the-20-4-10-car-buying-rule-no-longer-works-for-many-buyers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780936049000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -180,51 +375,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Rm9vZCBzdXBwbHkgJmFw",
-      "title": "Food supply &apos;not at risk&apos; after new Texas screwworm cases, USDA secretary says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/texas-screwworm-cases-food-supply-brooke-rollins.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780935176000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpcCByZWJvdW5kIGhh",
-      "title": "Chip rebound has one trader buying protection",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/chip-rebound-has-one-trader-buying-protection.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780934530000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz traffic won&apos;t return to normal until end of the year, traders say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/strait-of-hormuz-traffic-wont-return-to-normal-until-end-of-the-year-traders-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780933731000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmV0aXJlbWVudCAmYXBv",
       "title": "Retirement &apos;underspending&apos; is risky, advisor says. Here&apos;s why",
       "summary": "",
@@ -246,36 +396,6 @@
       "url": "https://www.cnbc.com/2026/06/08/weight-loss-drug-stock-zealand-pharma-data-ada.html",
       "source": "CNBC Markets",
       "publishedAt": 1780933410000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29mdEJhbmsgZHJvcHMg",
-      "title": "SoftBank drops 6% as tech stock sell-off accelerates in Asia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780933334000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29uZ3Jlc3MgbW92ZXMg",
-      "title": "Congress moves toward approving $70 billion for ICE and CBP through Trump&apos;s presidency",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/ice-cbp-immigration-funding-bill-congress-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780931043000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -321,21 +441,6 @@
       "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
       "source": "CNBC Markets",
       "publishedAt": 1780928705000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBhbm5vdW5jZXMg",
-      "title": "Iran announces &apos;end of military operations&apos; against Israel, but warns Lebanon strikes could trigger escalation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780926081000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -398,36 +503,6 @@
       "url": "https://www.cnbc.com/2026/06/08/lavazza-launches-single-serve-tablets-to-make-espresso.html",
       "source": "CNBC Markets",
       "publishedAt": 1780922974000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBlYXNl",
-      "title": "Oil prices ease after Iran says military operations against Israel are over",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780922808000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjb25maXJtcyBz",
-      "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780922744000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -512,57 +587,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Rm9yZWlnbiBpbnZlc3Rv",
-      "title": "Foreign investors have dumped billions of dollars of Korean stocks this year despite record rally. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/kospi-sk-hynix-samsung-electronics-why-foreign-investors-are-selling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780904376000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MTAwIGRheXMgb2YgdGhl",
-      "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780899622000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmEmYXBvcztzIFhp",
       "title": "China&apos;s Xi to visit North Korea for first time in seven years as Beijing tests its influence over Kim",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/08/china-xi-jinping-visits-north-korea-trump-summit-nuclear-program-.html",
       "source": "CNBC Markets",
       "publishedAt": 1780884824000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7QnJpbmcgJmFw",
-      "title": "&apos;Bring &apos;em on&apos;: Delta wants United&apos;s crown over the Pacific, too",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/07/delta-takes-on-united-over-the-pacific.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780856355000,
       "lang": "zh-CN",
       "topics": [
         "macro"
