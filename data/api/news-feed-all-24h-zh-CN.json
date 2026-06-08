@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1780901669708,
-  "crawlUpdatedAt": 1780901669708,
-  "crawlCount": 25,
+  "updatedAt": 1780920248398,
+  "crawlUpdatedAt": 1780920248398,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,292 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VG90YWwgR3JhcGhpdGUg",
-      "title": "Total Graphite launches portfolio review, announces board changes",
+      "id": "CNBC Markets-SXJhbiBhbm5vdW5jZXMg",
+      "title": "Iran announces &apos;end of military operations&apos; against Israel, but warns Lebanon strikes could trigger escalation",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/total-graphite-launches-portfolio-review-announces-board-changes-93CH-4729813",
-      "source": "Investing.com News",
-      "publishedAt": 1780901053000,
+      "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780919943000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE1pY3JvbiBU",
+      "title": "Why is Micron Technology stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-surging-today-93CH-4730522",
+      "source": "Investing.com News",
+      "publishedAt": 1780919744000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1aXN0IHJlaXRlcmF0",
+      "title": "Truist reiterates American Well stock Hold rating at $7.50 target",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/truist-reiterates-american-well-stock-hold-rating-at-750-target-93CH-4730519",
+      "source": "Investing.com News",
+      "publishedAt": 1780919693000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmVlZGhhbSB1cGdyYWRl",
+      "title": "Needham upgrades Biogen stock rating on pipeline outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/needham-upgrades-biogen-stock-rating-on-pipeline-outlook-93CH-4730518",
+      "source": "Investing.com News",
+      "publishedAt": 1780919689000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBhbm5vdW5jZXMg",
+      "title": "Iran announces end to attacks on Israel after Trump says foes must ’stop shooting’",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-4729741",
+      "source": "Investing.com News",
+      "publishedAt": 1780919667000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9jZXJhIGVudGVycyB2",
+      "title": "Nocera enters venture agreement with Digital Innovations Group",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/nocera-enters-venture-agreement-with-digital-innovations-group-93CH-4730517",
+      "source": "Investing.com News",
+      "publishedAt": 1780919582000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmltZW8gb3duZXIgQmVu",
+      "title": "Vimeo owner Bending Spoons files for IPO on Nasdaq",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/vimeo-owner-bending-spoons-files-for-ipo-on-nasdaq-4730515",
+      "source": "Investing.com News",
+      "publishedAt": 1780919456000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFNhbkRpc2sg",
+      "title": "Why is SanDisk stock rallying today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4730513",
+      "source": "Investing.com News",
+      "publishedAt": 1780919393000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFdpeC5jb20g",
+      "title": "Why is Wix.com stock tumbling today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-wixcom-stock-tumbling-today-93CH-4730512",
+      "source": "Investing.com News",
+      "publishedAt": 1780919291000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
+      "title": "H.C. Wainwright reiterates Buy on ORIC Pharmaceuticals stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-oric-pharmaceuticals-stock-93CH-4730511",
+      "source": "Investing.com News",
+      "publishedAt": 1780919288000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
+      "title": "H.C. Wainwright reiterates Amylyx stock rating on PBH trial insights",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-amylyx-stock-rating-on-pbh-trial-insights-93CH-4730510",
+      "source": "Investing.com News",
+      "publishedAt": 1780919277000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VVNBQSB0byByZXR1cm4g",
+      "title": "USAA to return nearly $1 billion to Florida members as legal reforms help lower insurance costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/usaa-to-return-nearly-1-billion-to-florida-members-as-legal-reforms-help-lower-insurance-costs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780919230000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgaXMgaGVscGlu",
+      "title": "China is helping to cushion global oil prices below $100 — but analysts warn it won’t last",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780918687000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VpZ2h0IGxvc3MgZHJ1",
+      "title": "Weight loss drug maker sinks 25% after new safety data spooks investors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/weight-loss-drug-stock-zealand-pharma-data-ada.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780918050000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFydmVsbCBUZWNobm9s",
+      "title": "Marvell Technology jumps almost 9% in premarket after news it will join the S&P 500 index",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780917678000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCBzdG9jayBzZWxs",
+      "title": "Tech stock sell-off accelerates; SoftBank drops 6% as investors sour on AI-linked names",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780917398000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlybGluZSBwcm9maXRz",
+      "title": "Airline profits set to halve this year as fuel costs jump by $100 billion: IATA",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/iata-airline-profitability-halve-jet-fuel-costs-jump-100b.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780915582000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjb25maXJtcyBz",
+      "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780915308000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlkZGluZyB3YXIgZXJ1",
+      "title": "Bidding war erupts for world’s oldest bank as Italy’s Intesa gatecrashes BPM offer",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/bidding-war-erupts-worlds-oldest-bank-intesa-gatecrashes-bpm-bid.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780907896000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -33,168 +307,13 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/08/kospi-sk-hynix-samsung-electronics-why-foreign-investors-are-selling.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780901004000,
+      "publishedAt": 1780904376000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UXVhbnR1bSBEYXRhIEVu",
-      "title": "Quantum Data Energy schedules AGM, plans immediate adjournment",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/quantum-data-energy-schedules-agm-plans-immediate-adjournment-93CH-4729812",
-      "source": "Investing.com News",
-      "publishedAt": 1780900818000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGggS29yZWHigJlz",
-      "title": "South Korea’s KOSPI craters nearly 9% as Fed fears hammer tech stocks",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/south-koreas-kospi-craters-nearly-9-as-fed-fears-hammer-tech-stocks-4729810",
-      "source": "Investing.com News",
-      "publishedAt": 1780900637000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXRhbHnigJlzIHRvcCBi",
-      "title": "Italy’s top bank Intesa launches unsolicited $35 billion bid for Monte dei Paschi",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/italys-top-bank-intesa-launches-unsolicited-35-billion-bid-for-monte-dei-paschi-4729804",
-      "source": "Investing.com News",
-      "publishedAt": 1780900594000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVsaWNhbCBsYXVuY2hl",
-      "title": "Helical launches £5 million share buyback programme",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/helical-launches-5-million-share-buyback-programme-93CH-4729808",
-      "source": "Investing.com News",
-      "publishedAt": 1780900575000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Si5QLiBNb3JnYW4gcGxh",
-      "title": "J.P. Morgan places Prysmian on Positive Catalyst Watch ahead of results",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-places-prysmian-on-positive-catalyst-watch-ahead-of-results-4729806",
-      "source": "Investing.com News",
-      "publishedAt": 1780900495000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYSB0ZWNoIHN0b2Nr",
-      "title": "Asia tech stocks extend sell-off with SoftBank down over 7% as investors sour on AI-linked names",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780900447000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG93ZXJob3VzZSBFbmVy",
-      "title": "Powerhouse Energy joins EU-funded circular economy project",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/powerhouse-energy-joins-eufunded-circular-economy-project-93CH-4729805",
-      "source": "Investing.com News",
-      "publishedAt": 1780900316000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S29zb3Zv4oCZcyBLdXJ0",
-      "title": "Kosovo’s Kurti wins snap election but lacks majority needed to end crisis",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/kosovos-kurti-wins-snap-election-but-lacks-majority-needed-to-end-crisis-4729798",
-      "source": "Investing.com News",
-      "publishedAt": 1780900257000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9sbGFyIHNjYWxlcyB0",
-      "title": "Dollar scales two-month peak as Fed hike bets ramp up",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-climbs-to-twomonth-peak-as-fed-hike-bets-ramp-up-4729726",
-      "source": "Investing.com News",
-      "publishedAt": 1780900239000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFwbGVTdG9yeSBVbml2",
-      "title": "MapleStory Universe Opens MSU Space and Launches Global Game Jam Competition as Part of MSU 2.0 Expansion",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/maplestory-universe-opens-msu-space-and-launches-global-game-jam-competition-as-part-of-msu-20-expansion-4729803",
-      "source": "Investing.com News",
-      "publishedAt": 1780900234000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -213,12 +332,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBzcGlr",
-      "title": "Oil prices spike over 3% as Iran and Israel trade strikes, escalating regional tensions",
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIFhp",
+      "title": "China&apos;s Xi to visit North Korea for first time in seven years as Beijing tests its influence over Kim",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
+      "url": "https://www.cnbc.com/2026/06/08/china-xi-jinping-visits-north-korea-trump-summit-nuclear-program-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780884542000,
+      "publishedAt": 1780884824000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -249,21 +368,6 @@
       "url": "https://www.cnbc.com/2026/06/07/cramer-hyperscalers-are-now-the-epicenter-of-a-bear-case-for-stocks.html",
       "source": "CNBC Markets",
       "publishedAt": 1780877734000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjb25maXJtcyBz",
-      "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780867530000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -321,21 +425,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDYg",
-      "title": "Here are the 6 big things we&apos;re watching in the stock market this week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/07/the-6-big-things-were-watching-in-the-stock-market-this-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780847934000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW5mbGF0aW9uIGluc2lk",
       "title": "Inflation inside the electronics you buy may soon become a bit more sticky",
       "summary": "",
@@ -357,36 +446,6 @@
       "url": "https://www.cnbc.com/2026/06/07/women-long-term-care-retirement.html",
       "source": "CNBC Markets",
       "publishedAt": 1780839001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
-      "title": "Top Wall Street analysts recommend these 3 dividend stocks for solid returns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/07/top-analysts-recommend-these-3-dividend-stocks-for-solid-returns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780834884000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGFycnkmYXBvcztzIGFu",
-      "title": "Harry&apos;s and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/07/harrys-coterie-owner-mammoth-brands-growth-ipo-rumors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780833601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
