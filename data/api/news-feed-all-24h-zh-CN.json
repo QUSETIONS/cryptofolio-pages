@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1780980460091,
-  "crawlUpdatedAt": 1780980460091,
+  "updatedAt": 1780994217273,
+  "crawlUpdatedAt": 1780994217273,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,14 +13,182 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-R1NLIGluIHRhbGtzIHRv",
-      "title": "GSK in talks to acquire Nuvalent for more than $9 billion in biggest deal in over a decade: FT",
+      "id": "CNBC Markets-UGVudGFnb24gZXhwYW5k",
+      "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html",
+      "url": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780979512000,
+      "publishedAt": 1780993334000,
       "lang": "zh-CN",
       "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVyZW5iZXJnIGluaXRp",
+      "title": "Berenberg initiates WPP stock with buy rating on turnaround view",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/berenberg-initiates-wpp-stock-with-buy-rating-on-turnaround-view-93CH-4732144",
+      "source": "Investing.com News",
+      "publishedAt": 1780992666000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIHNwYWNlIHJhY2Ug",
+      "title": "The space race is coming for pharma: Why drug development is heading to lower Earth orbit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/09/space-race-pharma-spacex-varda-redwire-drug-development-orbit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780992638000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVsaWVmIHJhbGx5IGxp",
+      "title": "Relief rally lifts European chip stocks after sector rout",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/relief-rally-lifts-european-chip-stocks-after-sector-rout-4732123",
+      "source": "Investing.com News",
+      "publishedAt": 1780992507000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHNlZXMgUmlrc2Jh",
+      "title": "UBS sees Riksbank holding rates at 1.75% amid soft growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ubs-sees-riksbank-holding-rates-at-175-amid-soft-growth-93CH-4732143",
+      "source": "Investing.com News",
+      "publishedAt": 1780992469000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVhYm9keSBHcm91cCBy",
+      "title": "Peabody Group reports £107m surplus on higher rental income",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/peabody-group-reports-107m-surplus-on-higher-rental-income-93CH-4732142",
+      "source": "Investing.com News",
+      "publishedAt": 1780992444000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGZhbGxzIGFzIGlu",
+      "title": "Oil falls as investors await clarity after Iran-Israel halt attacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-slightly-as-investors-await-clarity-after-iranisrael-halt-attacks-4731909",
+      "source": "Investing.com News",
+      "publishedAt": 1780992407000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFuIGV4cG9ydHMg",
+      "title": "German exports up, production falls short of forecasts",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/german-industrial-output-rises-exports-unexpectedly-up-in-april-4732041",
+      "source": "Investing.com News",
+      "publishedAt": 1780992391000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIGdhaW5zIG9uIHJl",
+      "title": "UBS gains on report Swiss lawmakers may trim capital burden",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ubs-gains-on-report-swiss-lawmakers-may-trim-capital-burden-4732140",
+      "source": "Investing.com News",
+      "publishedAt": 1780992350000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBzYXlzIENU",
+      "title": "Goldman says CTAs unlikely to sell after Friday’s drop",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-says-ctas-unlikely-to-sell-after-fridays-drop-93CH-4732139",
+      "source": "Investing.com News",
+      "publishedAt": 1780992294000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qmx1ZSBDb25jZXB0IGZh",
+      "title": "Blue Concept faces June 17 deadline on Deltic Energy offer",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/blue-concept-faces-june-17-deadline-on-deltic-energy-offer-93CH-4732137",
+      "source": "Investing.com News",
+      "publishedAt": 1780992192000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-NCBCdXktUmF0ZWQgTWlu",
+      "title": "4 Buy-Rated Mining Stocks to Watch Amid Rising Copper Prices, According To Jefferies",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/4-buyrated-mining-stocks-to-watch-amid-rising-copper-prices-according-to-jefferies-93CH-4732135",
+      "source": "Investing.com News",
+      "publishedAt": 1780991825000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
         "macro"
       ],
       "symbols": [],
@@ -33,7 +201,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780979093000,
+      "publishedAt": 1780991737000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,18 +211,63 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UGVudGFnb24gZXhwYW5k",
-      "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJcmFu",
+      "title": "Trump says Iran deal could be reached in &apos;two or three days&apos; and Strait of Hormuz will reopen &apos;immediately&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
+      "url": "https://www.cnbc.com/2026/06/09/trump-iran-war-deal-days.html",
       "source": "CNBC Markets",
-      "publishedAt": 1780978584000,
+      "publishedAt": 1780990827000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGVycGxleGl0eSBwbGFu",
+      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780984182000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIFRy",
+      "title": "Judge blocks Trump&apos;s $100,000 H-1B visa fee",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780982972000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhcSBhbmQgVUFFIHJh",
+      "title": "Iraq and UAE race to establish alternative oil pipelines as exports through Hormuz dry up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/09/iraq-uae-hormuz-oil-pipelines-oil-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780981173000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -73,177 +286,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q3JldyByZXNjdWVkIGFm",
-      "title": "Crew rescued after US helicopter goes down near Strait Of Hormuz, NYT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/crew-rescued-after-us-helicopter-goes-down-near-strait-of-hormuz-nyt-reports-4731979",
-      "source": "Investing.com News",
-      "publishedAt": 1780977608000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIHRyYWRl",
-      "title": "China’s trade engine revs up as exporters ride AI wave",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/chinas-may-trade-data-beat-forecasts-as-exporters-rush-orders-ride-ai-wave-4731969",
-      "source": "Investing.com News",
-      "publishedAt": 1780977271000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGggS29yZWEgUTEg",
-      "title": "South Korea Q1 GDP revised up to 1.8% on strong chip exports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/south-korea-q1-gdp-revised-up-to-18-on-strong-chip-exports-93CH-4731977",
-      "source": "Investing.com News",
-      "publishedAt": 1780977217000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBGWCBnYWlucywg",
-      "title": "Asia FX gains, dollar dips amid Middle East peace hopes; China trade data in focus",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-gains-dollar-dips-amid-middle-east-peace-hopes-china-trade-data-in-focus-4731976",
-      "source": "Investing.com News",
-      "publishedAt": 1780977094000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFpbiBDYXBpdGFsIGVu",
-      "title": "Bain Capital enters bidding war for Australia’s oOh!media after rival offers",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bain-capital-enters-bidding-war-for-australias-oohmedia-after-rival-offers-4731975",
-      "source": "Investing.com News",
-      "publishedAt": 1780975827000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmlldG5hbSBvcmRlcnMg",
-      "title": "Vietnam orders airlines to accelerate U.S. deals as Washington trade probes mount",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/vietnam-orders-airlines-to-accelerate-us-deals-as-washington-trade-probes-mount-4731974",
-      "source": "Investing.com News",
-      "publishedAt": 1780975472000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBzdG9ja3Mgcmlz",
-      "title": "Asia stocks rise gingerly on AI recovery, Israel-Iran deescalation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-gingerly-on-ai-recovery-israeliran-deescalation-4731973",
-      "source": "Investing.com News",
-      "publishedAt": 1780975389000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtSW5kaWFu",
-      "title": "Analysis-Indian economy, government finances, see mounting costs from Iran war",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/analysisindian-economy-government-finances-see-mounting-costs-from-iran-war-4731971",
-      "source": "Investing.com News",
-      "publishedAt": 1780975131000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFpd2FuIHNpbXVsYXRl",
-      "title": "Taiwan simulates destroying an invading Chinese force in coastal drill",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/taiwan-simulates-destroying-an-invading-chinese-force-in-coastal-drill-4731972",
-      "source": "Investing.com News",
-      "publishedAt": 1780975114000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBhbmQgSXNyYWVs",
-      "title": "Iran and Israel say they have halted strikes on each other for now",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-4729741",
-      "source": "Investing.com News",
-      "publishedAt": 1780974428000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXNpYSBjaGlwLWxpbmtl",
       "title": "Asia chip-linked shares recover after U.S. peers bounce back",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
       "source": "CNBC Markets",
       "publishedAt": 1780968356000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGVycGxleGl0eSBwbGFu",
-      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780965883000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -319,21 +367,6 @@
       "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
       "source": "CNBC Markets",
       "publishedAt": 1780954358000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIFRy",
-      "title": "Judge blocks Trump&apos;s $100,000 H-1B visa fee",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780953645000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -424,21 +457,6 @@
       "url": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html",
       "source": "CNBC Markets",
       "publishedAt": 1780946432000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBlYXNl",
-      "title": "Oil prices ease after Iran says military operations against Israel are over",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780946130000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -576,21 +594,6 @@
       "url": "https://www.cnbc.com/2026/06/08/weight-loss-drug-stock-zealand-pharma-data-ada.html",
       "source": "CNBC Markets",
       "publishedAt": 1780933410000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Tm92byBhbmQgTGlsbHkg",
-      "title": "Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/novo-nordisk-eli-lilly-obesity-pills-medicare-coverage.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780929037000,
       "lang": "zh-CN",
       "topics": [
         "macro"
