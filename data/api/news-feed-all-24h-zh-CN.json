@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1780963998123,
-  "crawlUpdatedAt": 1780963998123,
+  "updatedAt": 1780980460091,
+  "crawlUpdatedAt": 1780980460091,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-TmV3IFVTLUNhbmFkYSBi",
-      "title": "New US-Canada bridge nears opening despite earlier Trump threat",
+      "id": "CNBC Markets-R1NLIGluIHRhbGtzIHRv",
+      "title": "GSK in talks to acquire Nuvalent for more than $9 billion in biggest deal in over a decade: FT",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/new-uscanada-bridge-nears-opening-despite-earlier-trump-threat-4731737",
-      "source": "Investing.com News",
-      "publishedAt": 1780963598000,
+      "url": "https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780979512000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2F0aGllIFdvb2TigJlz",
-      "title": "Cathie Wood’s ARK sells Archer Aviation stock, buys DoorDash shares",
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIE1h",
+      "title": "China&apos;s May shipments to U.S. clock 5-year high growth at 35% as overall exports jump on tech boost",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-archer-aviation-stock-buys-doordash-shares-93CH-4731879",
-      "source": "Investing.com News",
-      "publishedAt": 1780963528000,
+      "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780979093000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGVudGFnb24gZXhwYW5k",
+      "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780978584000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgUkVYIEFt",
-      "title": "Form 144 REX American Resources Corp For: 8 June",
+      "id": "CNBC Markets-VHJ1bXAgYm9vZWQgYmVm",
+      "title": "Trump booed before Knicks lose to Spurs at Madison Square Garden in NBA Finals Game 3",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-rex-american-resources-corp-for-8-june-93CH-4731878",
-      "source": "Investing.com News",
-      "publishedAt": 1780963262000,
+      "url": "https://www.cnbc.com/2026/06/08/trump-booed-knicks-spurs-madison-square-garden.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780977711000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +73,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T3BlbkFJIGZpbGVzIGZv",
-      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
+      "id": "Investing.com News-Q3JldyByZXNjdWVkIGFm",
+      "title": "Crew rescued after US helicopter goes down near Strait Of Hormuz, NYT reports",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/openai-files-for-us-ipo-after-anthropic-as-ai-giants-head-to-public-markets-4731713",
+      "url": "https://www.investing.com/news/world-news/crew-rescued-after-us-helicopter-goes-down-near-strait-of-hormuz-nyt-reports-4731979",
       "source": "Investing.com News",
-      "publishedAt": 1780963224000,
+      "publishedAt": 1780977608000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmHigJlzIHRyYWRl",
+      "title": "China’s trade engine revs up as exporters ride AI wave",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/chinas-may-trade-data-beat-forecasts-as-exporters-rush-orders-ride-ai-wave-4731969",
+      "source": "Investing.com News",
+      "publishedAt": 1780977271000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U291dGggS29yZWEgUTEg",
+      "title": "South Korea Q1 GDP revised up to 1.8% on strong chip exports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/south-korea-q1-gdp-revised-up-to-18-on-strong-chip-exports-93CH-4731977",
+      "source": "Investing.com News",
+      "publishedAt": 1780977217000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYSBGWCBnYWlucywg",
+      "title": "Asia FX gains, dollar dips amid Middle East peace hopes; China trade data in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-gains-dollar-dips-amid-middle-east-peace-hopes-china-trade-data-in-focus-4731976",
+      "source": "Investing.com News",
+      "publishedAt": 1780977094000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +133,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5maW5pdHkgTmF0dXJh",
-      "title": "Infinity Natural Resources director Quinn buys $580,206 shares.",
+      "id": "Investing.com News-QmFpbiBDYXBpdGFsIGVu",
+      "title": "Bain Capital enters bidding war for Australia’s oOh!media after rival offers",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/infinity-natural-resources-director-quinn-buys-580206-shares-93CH-4731877",
+      "url": "https://www.investing.com/news/stock-market-news/bain-capital-enters-bidding-war-for-australias-oohmedia-after-rival-offers-4731975",
       "source": "Investing.com News",
-      "publishedAt": 1780963119000,
+      "publishedAt": 1780975827000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +148,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgUmlnZXR0",
-      "title": "Form 144 Rigetti Computing For: 8 June",
+      "id": "Investing.com News-VmlldG5hbSBvcmRlcnMg",
+      "title": "Vietnam orders airlines to accelerate U.S. deals as Washington trade probes mount",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-rigetti-computing-for-8-june-93CH-4731876",
+      "url": "https://www.investing.com/news/stock-market-news/vietnam-orders-airlines-to-accelerate-us-deals-as-washington-trade-probes-mount-4731974",
       "source": "Investing.com News",
-      "publishedAt": 1780962862000,
+      "publishedAt": 1780975472000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYSBzdG9ja3Mgcmlz",
+      "title": "Asia stocks rise gingerly on AI recovery, Israel-Iran deescalation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-gingerly-on-ai-recovery-israeliran-deescalation-4731973",
+      "source": "Investing.com News",
+      "publishedAt": 1780975389000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +178,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQXRsYXNz",
-      "title": "Form 144 Atlassian Corporation For: 8 June",
+      "id": "Investing.com News-QW5hbHlzaXMtSW5kaWFu",
+      "title": "Analysis-Indian economy, government finances, see mounting costs from Iran war",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-atlassian-corporation-for-8-june-93CH-4731875",
+      "url": "https://www.investing.com/news/commodities-news/analysisindian-economy-government-finances-see-mounting-costs-from-iran-war-4731971",
       "source": "Investing.com News",
-      "publishedAt": 1780962858000,
+      "publishedAt": 1780975131000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +193,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQXBwaWFu",
-      "title": "Form 144 Appian Corporation For: 8 June",
+      "id": "Investing.com News-VGFpd2FuIHNpbXVsYXRl",
+      "title": "Taiwan simulates destroying an invading Chinese force in coastal drill",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-appian-corporation-for-8-june-93CH-4731874",
+      "url": "https://www.investing.com/news/world-news/taiwan-simulates-destroying-an-invading-chinese-force-in-coastal-drill-4731972",
       "source": "Investing.com News",
-      "publishedAt": 1780962858000,
+      "publishedAt": 1780975114000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +208,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGV4YXMgQ2FwaXRhbCBC",
-      "title": "Texas Capital Bancshares CEO Rob Holmes sells over $10m in common stock",
+      "id": "Investing.com News-SXJhbiBhbmQgSXNyYWVs",
+      "title": "Iran and Israel say they have halted strikes on each other for now",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/texas-capital-bancshares-ceo-rob-holmes-sells-over-10m-in-common-stock-93CH-4731873",
+      "url": "https://www.investing.com/news/world-news/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-4729741",
       "source": "Investing.com News",
-      "publishedAt": 1780962560000,
+      "publishedAt": 1780974428000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,12 +223,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVNBIFJhcmUgRWFydGgg",
-      "title": "USA Rare Earth director Carolyn Trabuco sells $295,984 in shares",
+      "id": "CNBC Markets-QXNpYSBjaGlwLWxpbmtl",
+      "title": "Asia chip-linked shares recover after U.S. peers bounce back",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/usa-rare-earth-director-carolyn-trabuco-sells-295984-in-shares-93CH-4731872",
-      "source": "Investing.com News",
-      "publishedAt": 1780962553000,
+      "url": "https://www.cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780968356000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGVycGxleGl0eSBwbGFu",
+      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780965883000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -169,6 +259,21 @@
       "url": "https://www.cnbc.com/2026/06/08/rollins-miller-texas-ag-chief-unserious-screwworm-threat-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1780960557000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: Humanoid robots are great, but they need buyers too",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/08/cnbcs-the-china-connection-newsletter-who-will-buy-the-humanoids.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1780959601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -433,21 +538,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhpcyBwb3B1bGFyIGNh",
-      "title": "This popular car-buying rule isn&apos;t realistic for most Americans—here&apos;s the income needed to make it work",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/why-the-20-4-10-car-buying-rule-no-longer-works-for-many-buyers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780936049000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG91c2Vob2xkIHdvcnJp",
       "title": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
       "summary": "",
@@ -495,21 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VW5pdGVkIENFTyBicnVz",
-      "title": "United CEO brushes off airline mergers after American rejection: &apos;There&apos;s nothing&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/united-ceo-airline-mergers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780930273000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Tm92byBhbmQgTGlsbHkg",
       "title": "Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage",
       "summary": "",
@@ -522,83 +597,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29ybmluZyBzaGFyZXMg",
-      "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780928705000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFydmVsbCBUZWNobm9s",
-      "title": "Marvell Technology jumps 10% after news it will join the S&P 500 index",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780925650000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VVNBQSB0byByZXR1cm4g",
-      "title": "USAA to return nearly $1 billion to Florida members as legal reforms help lower insurance costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/usaa-to-return-nearly-1-billion-to-florida-members-as-legal-reforms-help-lower-insurance-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780925066000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXRhbGlhbiBjb2ZmZWUg",
-      "title": "Italian coffee giant Lavazza launches single-serve tablets to make espresso in the U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/lavazza-launches-single-serve-tablets-to-make-espresso.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780922974000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhpcyBzdGFydHVwIHdh",
-      "title": "This startup wants to reduce payment friction on prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/08/this-startup-wants-to-reduce-payment-friction-on-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1780921906000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
