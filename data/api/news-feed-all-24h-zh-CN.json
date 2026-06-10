@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781067756324,
-  "crawlUpdatedAt": 1781067756324,
-  "crawlCount": 39,
+  "updatedAt": 1781082291850,
+  "crawlUpdatedAt": 1781082291850,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-T3BlbkFJIGluIHRhbGtz",
-      "title": "OpenAI in talks to lease 10 gigawatt Ohio data center with Nvidia backing- The Information",
+      "id": "CNBC Markets-T2lsIGNob3BweSBhZnRl",
+      "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/openai-in-talks-to-lease-10-gigawatt-ohio-data-center-with-nvidia-backing-the-information-93CH-4734321",
-      "source": "Investing.com News",
-      "publishedAt": 1781067442000,
+      "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781081926000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGVub3ZvIHNsaWRlcyBu",
-      "title": "Lenovo slides nearly 10% amid reports of price hikes due to memory costs",
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley upgrades Western Gas Partners stock rating on Permian growth",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lenovo-slides-nearly-10-amid-reports-of-price-hikes-due-to-memory-costs-4734320",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-western-gas-partners-stock-rating-on-permian-growth-93CH-4734494",
       "source": "Investing.com News",
-      "publishedAt": 1781067137000,
+      "publishedAt": 1781081141000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFjcm9uIHRvIGNoYWly",
+      "title": "Macron to chair video call involving G7 and China over economic imbalances",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/macron-to-chair-video-call-involving-g7-and-china-over-trade-imbalances-4734437",
+      "source": "Investing.com News",
+      "publishedAt": 1781080943000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5hbHlzaXMtU3BhY2VY",
-      "title": "Analysis-SpaceX’s lofty valuation set to put ’Elon premium’ to test",
+      "id": "CNBC Markets-U29mdEJhbmsgc2lua3Mg",
+      "title": "SoftBank sinks over 8% as Asia tech stocks tumble, tracking Wall Street losses",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysisspacexs-lofty-valuation-set-to-put-elon-premium-to-test-4733453",
-      "source": "Investing.com News",
-      "publishedAt": 1781066905000,
+      "url": "https://www.cnbc.com/2026/06/10/softbank-samsung-skhynix-asia-tech-stocks-ai-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781080809000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,18 +73,153 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9ybmluZyBCaWQ6IE5l",
-      "title": "Morning Bid: Nervous but not yet panicking",
+      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
+      "title": "Wolfe Research downgrades Taylor Morrison stock rating on Berkshire deal",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-nervous-but-not-yet-panicking-4734319",
+      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-downgrades-taylor-morrison-stock-rating-on-berkshire-deal-93CH-4734493",
       "source": "Investing.com News",
-      "publishedAt": 1781066192000,
+      "publishedAt": 1781080735000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiwgSXJhbiBleGNo",
+      "title": "U.S., Iran exchange fresh strikes following downing of Apache helicopter",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/iran-attacks-us-bases-amid-row-over-downed-helicopter-near-hormuz-4734332",
+      "source": "Investing.com News",
+      "publishedAt": 1781080696000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29pdGVjIHN0b2NrIHBs",
+      "title": "Soitec stock plunges 13% on Jefferies downgrade over FY27 valuation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/soitec-stock-plunges-13-on-jefferies-downgrade-over-fy27-valuation-4734492",
+      "source": "Investing.com News",
+      "publishedAt": 1781080688000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1Y2ttYWtlciBWb2x2",
+      "title": "Truckmaker Volvo says demand is good in Europe, strong in North America",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/truckmaker-volvo-says-demand-is-good-in-europe-strong-in-north-america-4734470",
+      "source": "Investing.com News",
+      "publishedAt": 1781080607000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RhbmRhcmQgQ2hhcnRl",
+      "title": "Standard Chartered appoints Tanate Phutrakul to board",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/standard-chartered-appoints-tanate-phutrakul-to-board-93CH-4734491",
+      "source": "Investing.com News",
+      "publishedAt": 1781080606000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFueSByaXNrcyBy",
+      "title": "Germany risks recession as Iran energy shock hits growth, DIW economists say",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/germany-risks-recession-as-iran-energy-shock-hits-growth-diw-economists-say-4734490",
+      "source": "Investing.com News",
+      "publishedAt": 1781080589000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UkJDIGRvd25ncmFkZXMg",
+      "title": "RBC downgrades Nike on slower-than-expected turnaround pace; shares dip",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/rbc-downgrades-nike-on-slowerthanexpected-turnaround-pace-4734418",
+      "source": "Investing.com News",
+      "publishedAt": 1781080509000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEJhc2ljLUZp",
+      "title": "Why is Basic-Fit stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-basicfit-stock-surging-today-93CH-4734489",
+      "source": "Investing.com News",
+      "publishedAt": 1781080458000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCBuZXh0IGZvciBC",
+      "title": "What next for BP? Leadership exits test investor confidence in board oversight",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/10/bp-oil-energy-board-manifold-lin-leadership.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781070241000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVpamluZyBlc2NhbGF0",
+      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781067765000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -88,36 +238,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2hhdHR1Y2sgTGFicyBw",
-      "title": "Shattuck Labs prices $75M public offering at $4 per share",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/shattuck-labs-prices-75m-public-offering-at-4-per-share-93CH-4734318",
-      "source": "Investing.com News",
-      "publishedAt": 1781065533000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIGZhY3Rv",
-      "title": "China’s factory-gate inflation at nearly 4-year high in May",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/chinas-may-producer-inflation-highest-in-nearly-4-years-consumer-prices-also-rise-4734291",
-      "source": "Investing.com News",
-      "publishedAt": 1781065467000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmEgTWF5IHdob2xl",
       "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
       "summary": "",
@@ -127,82 +247,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW7igJlzIEFzaWNz",
-      "title": "Japan’s Asics to spin off popular Onitsuka Tiger sneaker business; shares rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/japans-asics-to-spin-off-onitsuka-tiger-business-4734299",
-      "source": "Investing.com News",
-      "publishedAt": 1781064772000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk9KIHNldCB0byByYWlz",
-      "title": "BOJ set to raise key rate to 1.0% in June, 1.25% by year-end: Reuters poll",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/boj-set-to-raise-key-rate-to-10-in-june-125-by-yearend-reuters-poll-4734316",
-      "source": "Investing.com News",
-      "publishedAt": 1781064754000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBzdG9ja3MgZmFs",
-      "title": "Asia stocks fall on US-Iran flare-up, chip losses; inflation jitters weigh",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-on-usiran-flareup-chip-losses-inflation-jitters-weigh-4734315",
-      "source": "Investing.com News",
-      "publishedAt": 1781064540000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29wcGVyIGVkZ2VzIGRv",
-      "title": "Copper edges down as macro concerns weigh on tariff support",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/copper-edges-down-as-macro-concerns-weigh-on-tariff-support-4734314",
-      "source": "Investing.com News",
-      "publishedAt": 1781064414000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGNob3BweSBhZnRl",
-      "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781055555000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -542,42 +586,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VXBzdGFydCBjaGlwbWFr",
-      "title": "Upstart chipmakers keep challenging Nvidia. This time it&apos;s Microsoft-backed D-Matrix",
+      "id": "CNBC Markets-VmludGVkIGJvc3Mgc2Vl",
+      "title": "Vinted boss sees &apos;fundamental&apos; shift in consumer patterns, as secondhand firm notches $9 billion valuation",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
+      "url": "https://www.cnbc.com/2026/06/09/vinted-ceo-ipo-valuation-second-hand-fashion.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781011007000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIGVtcGxveWVl",
-      "title": "SpaceX employee group creates low-fee wealth management option with Choreo for post-IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/spacex-employees-choreo-post-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781010001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-NSB0YWtlYXdheXMgZnJv",
-      "title": "5 takeaways from airline CEOs&apos; biggest annual gathering",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/iata-annual-meeting-airline-ceo-takeaways.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781006402000,
+      "publishedAt": 1781011036000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -587,18 +601,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TnV2YWxlbnQgc2hhcmVz",
-      "title": "Nuvalent shares surge 39% after UK&apos;s GSK agrees to buy the cancer drugmaker for $10.6 billion",
+      "id": "CNBC Markets-VGhlICZhcG9zO1NhYVNw",
+      "title": "The &apos;SaaSpocalypse&apos; is over, says private equity giant Thoma Bravo. Here&apos;s why it sees an AI boom for software",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html",
+      "url": "https://www.cnbc.com/2026/06/09/orlando-bravo-saaspocalypse-over-ai-software.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781000032000,
+      "publishedAt": 1781009410000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
