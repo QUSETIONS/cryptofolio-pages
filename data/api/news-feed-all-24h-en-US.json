@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781381076594,
-  "crawlUpdatedAt": 1781381076594,
-  "crawlCount": 33,
+  "updatedAt": 1781387297362,
+  "crawlUpdatedAt": 1781387297362,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4741045",
+      "source": "Investing.com News",
+      "publishedAt": 1781385603000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNvIGludmVzdGln",
+      "title": "Mexico investigates murder of mayor of town in Oaxaca state",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexico-investigates-murder-of-mayor-of-town-in-oaxaca-state-4741044",
+      "source": "Investing.com News",
+      "publishedAt": 1781382967000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBJcmFu",
+      "title": "Trump says Iran deal to be signed on Sunday, Strait of Hormuz to reopen",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-iran-signal-peace-deal-is-near-as-strait-of-hormuz-tensions-persist-4740892",
+      "source": "Investing.com News",
+      "publishedAt": 1781380641000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2hhdCBpZiBBSSByZWFs",
       "title": "What if AI really does disrupt 50% of all entry-level white-collar jobs?",
@@ -72,21 +117,6 @@
         "BTC"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBJcmFu",
-      "title": "Trump says Iran deal to be signed on Sunday, Strait of Hormuz to reopen",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-iran-signal-peace-deal-is-near-as-strait-of-hormuz-tensions-persist-4740892",
-      "source": "Investing.com News",
-      "publishedAt": 1781375812000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -188,36 +218,6 @@
       "url": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
       "source": "CNBC Markets",
       "publishedAt": 1781362801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JiYW4gcmUtZWxlY3Rl",
-      "title": "Orban re-elected as Fidesz party leader in Hungary despite election loss",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/orban-reelected-as-fidesz-party-leader-in-hungary-despite-election-loss-4741038",
-      "source": "Investing.com News",
-      "publishedAt": 1781361749000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S3VzaG5lciBwcm9qZWN0",
-      "title": "Kushner project being developed on disputed land, Albanian villagers say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/kushner-project-being-developed-on-disputed-land-albanian-villagers-say-4741013",
-      "source": "Investing.com News",
-      "publishedAt": 1781361055000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -434,83 +434,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/social-security-cola-2027-inflation-estimate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781299086000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9wIEhvdXNlIFJlcHVi",
-      "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781298928000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FsbCBLZXZpbiBXYXJz",
-      "title": "Call Kevin Warsh the Fed &apos;chairman&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/fed-kevin-warsh-chairman-title.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781298706000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYICZhcG9zO3By",
-      "title": "SpaceX &apos;proxies&apos; plunge as real deal arrives: Here&apos;s where traders are buying the dip",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-proxies-crash-as-real-deal-arrives-heres-where-traders-are-buying-the-dip.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781297030000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIG1hcmtldCBj",
-      "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk&apos;s rocket company gain 19% on debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781296432000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
