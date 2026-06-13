@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781387297362,
-  "crawlUpdatedAt": 1781387297362,
-  "crawlCount": 28,
+  "updatedAt": 1781392450904,
+  "crawlUpdatedAt": 1781392450904,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SG93IEFJIHN0YXJ0ZWQg",
+      "title": "How AI started turning memory into a structural bottleneck",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/how-ai-started-turning-memory-into-a-structural-bottleneck-4741048",
+      "source": "Investing.com News",
+      "publishedAt": 1781390470000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29jY2VyLUJlYXRpbmcg",
+      "title": "Soccer-Beating the heat no problem for World Cup fans in sweltering Houston",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/soccerbeating-the-heat-no-problem-for-world-cup-fans-in-sweltering-houston-4741046",
+      "source": "Investing.com News",
+      "publishedAt": 1781387310000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -165,21 +195,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley sees limited evidence of reshoring after one year of tariffs",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-limited-evidence-of-reshoring-after-one-year-of-tariffs-4741039",
-      "source": "Investing.com News",
-      "publishedAt": 1781367720000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RnJvbSAxMCUgY2hhbmNl",
       "title": "From 10% chance of success to $2 trillion market cap: SpaceX&apos;s historic IPO",
       "summary": "",
@@ -192,23 +207,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiByZWJvdW5k",
-      "title": "Bitcoin rebounds above $64,000 as Iran optimism boosts risk appetite",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-iran-optimism-boosts-risk-appetite-4741010",
-      "source": "Investing.com News",
-      "publishedAt": 1781364088000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -374,66 +372,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
-      "title": "Jim Cramer says it&apos;s not too late to buy SpaceX — under one condition",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/jim-cramer-not-too-late-to-buy-spacex-one-condition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781305469000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFyYW1vdW50LVdCRCBt",
-      "title": "Paramount-WBD merger wins approval from DOJ",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781304846000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IFNwYWNlWCBtaWxs",
-      "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781301412000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U21hbGwgaW52ZXN0b3Jz",
-      "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is &apos;stupid&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781300939000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
