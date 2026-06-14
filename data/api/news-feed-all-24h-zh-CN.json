@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1781461117933,
-  "crawlUpdatedAt": 1781461117933,
+  "updatedAt": 1781467665191,
+  "crawlUpdatedAt": 1781467665191,
   "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,98 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-U3dpc3MgcmVqZWN0IHBv",
+      "title": "Swiss reject population cap in referendum, avoiding EU clash and cheering business",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
+      "source": "Investing.com News",
+      "publishedAt": 1781463991000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBjb2lscyBi",
+      "title": "Bitcoin coils below $64,600 resistance: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
+      "source": "Investing.com News",
+      "publishedAt": 1781463748000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGF6YXJkIGJpZHMgdG8g",
+      "title": "Lazard bids to replace Centerview as Venezuela financial adviser, source says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/lazard-bids-to-replace-centerview-as-venezuela-financial-advisor-bloomberg-news-reports-4741100",
+      "source": "Investing.com News",
+      "publishedAt": 1781463273000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHdlbHZlIHBlb3BsZSBr",
+      "title": "Twelve people killed in Missouri plane crash, state highway patrol says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/twelve-people-killed-in-missouri-plane-crash-state-highway-patrol-says-4741107",
+      "source": "Investing.com News",
+      "publishedAt": 1781462185000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSBp",
+      "title": "Trump says he is against FISA extension if voting bill not attached",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-says-he-is-against-fisa-extension-if-voting-bill-not-attached-4741109",
+      "source": "Investing.com News",
+      "publishedAt": 1781462184000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIHN0YWZm",
+      "title": "Anthropic staff to meet White House officials next week, Axios reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/anthropic-staff-to-meet-white-house-officials-next-week-axios-reports-4741108",
+      "source": "Investing.com News",
+      "publishedAt": 1781461828000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-U2VuYXRvciBNaXRjaCBN",
       "title": "Senator Mitch McConnell hospitalized on Sunday morning, spokesperson says",
@@ -79,96 +171,6 @@
       "url": "https://www.investing.com/news/world-news/protesters-smash-windows-and-set-tesla-ablaze-in-antig7-march-in-geneva-4741099",
       "source": "Investing.com News",
       "publishedAt": 1781456805000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGF6YXJkIGJpZHMgdG8g",
-      "title": "Lazard bids to replace Centerview as Venezuela financial advisor, source says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lazard-bids-to-replace-centerview-as-venezuela-financial-advisor-bloomberg-news-reports-4741100",
-      "source": "Investing.com News",
-      "publishedAt": 1781456788000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3dpc3MgcmVqZWN0IHBv",
-      "title": "Swiss reject population cap in referendum, avoiding EU clash and cheering business",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
-      "source": "Investing.com News",
-      "publishedAt": 1781454263000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG93IFNwYWNlWCBicm9r",
-      "title": "How SpaceX broke the space launch cost curve",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/how-spacex-broke-the-space-launch-cost-curve-4741101",
-      "source": "Investing.com News",
-      "publishedAt": 1781452354000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWRpYW4gUHJpbWUg",
-      "title": "Canadian Prime Minister Carney visits grandparents’ Irish village on eve of G7",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/canadian-prime-minister-carney-visits-grandparents-irish-village-on-eve-of-g7-4741098",
-      "source": "Investing.com News",
-      "publishedAt": 1781451754000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFza2V0YmFsbC1DaGFv",
-      "title": "Basketball-Chaos and confetti settle as New York City prepares Knicks celebration",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/basketballchaos-and-confetti-settle-as-new-york-city-prepares-knicks-celebration-4741097",
-      "source": "Investing.com News",
-      "publishedAt": 1781451026000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmFpbiBzZW5kcyBHZXJt",
-      "title": "Rain sends Germany and Curacao fans on pre-match hunt for umbrellas and beer",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/rain-sends-germany-and-curacao-fans-on-prematch-hunt-for-umbrellas-and-beer-4741096",
-      "source": "Investing.com News",
-      "publishedAt": 1781450672000,
       "lang": "zh-CN",
       "topics": [
         "macro"
