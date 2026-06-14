@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781448955762,
-  "crawlUpdatedAt": 1781448955762,
-  "crawlCount": 22,
+  "updatedAt": 1781455387147,
+  "crawlUpdatedAt": 1781455387147,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -14,11 +14,11 @@
   "items": [
     {
       "id": "CNBC Markets-VS5TLiBwZWFjZSBkZWFs",
-      "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon",
+      "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to &apos;blow it&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781448833000,
+      "publishedAt": 1781453468000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBxdWVzdGlvbnMg",
-      "title": "Iran questions US commitment to peace moves as Israel strikes Lebanon",
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBJc3Jh",
+      "title": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/us-iran-inch-closer-to-deal-timing-remains-unclear-4741054",
       "source": "Investing.com News",
-      "publishedAt": 1781447788000,
+      "publishedAt": 1781453209000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,35 +43,153 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5vdGhlciAzJSBTJlAg",
-      "title": "Another 3% S&P 500 drop may trigger more systematic selling: BofA",
+      "id": "Investing.com News-SG93IFNwYWNlWCBicm9r",
+      "title": "How SpaceX broke the space launch cost curve",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/another-3-sp-500-drop-may-trigger-more-systematic-selling-bofa-4741094",
+      "url": "https://www.investing.com/news/stock-market-news/how-spacex-broke-the-space-launch-cost-curve-4741101",
       "source": "Investing.com News",
-      "publishedAt": 1781447466000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VXBzdHJlYW0gQmlvIHBy",
-      "title": "Upstream Bio presents positive Phase 2 trial data for verekitug",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/upstream-bio-presents-positive-phase-2-trial-data-for-verekitug-93CH-4741093",
-      "source": "Investing.com News",
-      "publishedAt": 1781445937000,
+      "publishedAt": 1781452354000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGF6YXJkIGJpZHMgdG8g",
+      "title": "Lazard bids to replace Centerview as Venezuela financial advisor, Bloomberg News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/lazard-bids-to-replace-centerview-as-venezuela-financial-advisor-bloomberg-news-reports-4741100",
+      "source": "Investing.com News",
+      "publishedAt": 1781452110000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvdGVzdGVycyBzbWFz",
+      "title": "Protesters smash windows and set Tesla ablaze in anti-G7 march in Geneva",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/protesters-smash-windows-and-set-tesla-ablaze-in-antig7-march-in-geneva-4741099",
+      "source": "Investing.com News",
+      "publishedAt": 1781451781000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FuYWRpYW4gUHJpbWUg",
+      "title": "Canadian Prime Minister Carney visits grandparents’ Irish village on eve of G7",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/canadian-prime-minister-carney-visits-grandparents-irish-village-on-eve-of-g7-4741098",
+      "source": "Investing.com News",
+      "publishedAt": 1781451754000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFza2V0YmFsbC1DaGFv",
+      "title": "Basketball-Chaos and confetti settle as New York City prepares Knicks celebration",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/basketballchaos-and-confetti-settle-as-new-york-city-prepares-knicks-celebration-4741097",
+      "source": "Investing.com News",
+      "publishedAt": 1781451026000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmFpbiBzZW5kcyBHZXJt",
+      "title": "Rain sends Germany and Curacao fans on pre-match hunt for umbrellas and beer",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/rain-sends-germany-and-curacao-fans-on-prematch-hunt-for-umbrellas-and-beer-4741096",
+      "source": "Investing.com News",
+      "publishedAt": 1781450672000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm8gbW9yZSBhdHRhY2tz",
+      "title": "No more attacks in Lebanon, Trump tells Israel, as U.S. nears deal with Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-says-iran-deal-could-be-signed-sunday-tehran-disputes-timing-4741061",
+      "source": "Investing.com News",
+      "publishedAt": 1781450292000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSB5ZWFyIGFmdGVyIE1l",
+      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781449355000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNyYWVsaSBmaXJlIGtp",
+      "title": "Israeli fire kills six in Gaza despite new effort to salvage truce",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-six-in-gaza-despite-new-effort-to-salvage-truce-4741095",
+      "source": "Investing.com News",
+      "publishedAt": 1781448867000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3dpc3MgcmVqZWN0IHBv",
+      "title": "Swiss reject population cap in referendum, avoiding EU clash",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
+      "source": "Investing.com News",
+      "publishedAt": 1781448866000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -81,21 +199,6 @@
       "url": "https://www.cnbc.com/2026/06/14/32-year-old-quit-teaching-built-fidget-toy-business-with-her-dad-that-brought-in-428k.html",
       "source": "CNBC Markets",
       "publishedAt": 1781445601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RVUgQ29tbWlzc2lvbiBs",
-      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/eu-commission-looking-at-practical-consequences-of-anthropic-decision-spokesperson-says-4741090",
-      "source": "Investing.com News",
-      "publishedAt": 1781444907000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -120,104 +223,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXZlcmNvcmUgSVNJIG1h",
-      "title": "Evercore ISI maintains Lennar stock rating on margin outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-lennar-stock-rating-on-margin-outlook-93CH-4741089",
-      "source": "Investing.com News",
-      "publishedAt": 1781441832000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiByZXZlYWxzIGZp",
-      "title": "Iran reveals final draft deal includes nuclear restrictions, asset release",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-says-iran-deal-could-be-signed-sunday-tehran-disputes-timing-4741061",
-      "source": "Investing.com News",
-      "publishedAt": 1781441736000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3dpc3MgcmVqZWN0IHBv",
-      "title": "Swiss reject population cap in referendum, avoiding EU clash",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
-      "source": "Investing.com News",
-      "publishedAt": 1781441664000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
       "title": "Top Wall Street analysts are confident about the growth prospects of these 3 stocks",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/14/top-analysts-are-confident-about-the-prospects-of-these-3-stocks.html",
       "source": "CNBC Markets",
       "publishedAt": 1781441375000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3bHkgbGVkIEZlZCBw",
-      "title": "Newly led Fed poses wildcard for rockier US indexes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/newly-led-fed-poses-wildcard-for-rockier-us-indexes-4741088",
-      "source": "Investing.com News",
-      "publishedAt": 1781441337000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3BhY2VYIElQTyBtYWtl",
-      "title": "SpaceX IPO makes Elon Musk the world’s first trillionaire",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire-4741087",
-      "source": "Investing.com News",
-      "publishedAt": 1781441313000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.57%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-057-4741086",
-      "source": "Investing.com News",
-      "publishedAt": 1781441103000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -248,21 +259,6 @@
       "url": "https://www.cnbc.com/2026/06/14/highly-charismatic-people-use-5-phrases-to-be-more-memorable-says-public-speaking-expert.html",
       "source": "CNBC Markets",
       "publishedAt": 1781440201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSB5ZWFyIGFmdGVyIE1l",
-      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781438402000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -323,21 +319,6 @@
       "url": "https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html",
       "source": "CNBC Markets",
       "publishedAt": 1781429560000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IFREIFNlY3VyaXRp",
-      "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781362801000,
       "lang": "en-US",
       "topics": [
         "macro"
