@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781392451070,
-  "crawlUpdatedAt": 1781392451070,
-  "crawlCount": 24,
+  "updatedAt": 1781402204850,
+  "crawlUpdatedAt": 1781402204850,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,84 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-U291dGggS29yZWHigJlz",
+      "title": "South Korea’s stock rally shifts focus to potential MSCI market upgrade",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/south-koreas-stock-rally-shifts-focus-to-potential-msci-market-upgrade-4741053",
+      "source": "Investing.com News",
+      "publishedAt": 1781399987000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBsb29rcyBh",
+      "title": "Goldman looks at the impact of the AI capex boom on S&P 500 return on equity",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-looks-at-the-impact-of-the-ai-capex-boom-on-sp-500-return-on-equity-4741052",
+      "source": "Investing.com News",
+      "publishedAt": 1781398238000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU",
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3dpdHplcmxhbmQgdm90",
+      "title": "Switzerland votes on proposal to cap population at 10 million",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
+      "source": "Investing.com News",
+      "publishedAt": 1781395956000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUssIEphcGFuIHRvIGRl",
+      "title": "UK, Japan to deepen ties with £18 billion investment agreement",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/uk-japan-to-deepen-ties-with-18-billion-investment-agreement-4741050",
+      "source": "Investing.com News",
+      "publishedAt": 1781395596000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1hem9uIGNvbmNlcm5z",
+      "title": "Amazon concerns helped trigger U.S. restrictions on Anthropic AI models",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/amazon-concerns-helped-trigger-us-restrictions-on-anthropic-ai-models-4741049",
+      "source": "Investing.com News",
+      "publishedAt": 1781393068000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SG93IEFJIHN0YXJ0ZWQg",
       "title": "How AI started turning memory into a structural bottleneck",
@@ -88,89 +166,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hhdCBpZiBBSSByZWFs",
-      "title": "What if AI really does disrupt 50% of all entry-level white-collar jobs?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/what-if-ai-really-does-disrupt-50-of-all-entrylevel-whitecollar-jobs-4741043",
-      "source": "Investing.com News",
-      "publishedAt": 1781379932000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBwZWFj",
       "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1781379884000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgbmFtZXMgSmFt",
-      "title": "Trump names James McDonald as US attorney for Manhattan",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-names-james-mcdonald-as-us-attorney-for-manhattan-4741042",
-      "source": "Investing.com News",
-      "publishedAt": 1781377927000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBzdGFsbHMg",
-      "title": "Bitcoin stalls at $64,400 resistance in bearish setup: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
-      "source": "Investing.com News",
-      "publishedAt": 1781377322000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1hem9uIHZvaWNlZCBj",
-      "title": "Amazon voiced concerns about Anthropic AI models before US government’s crackdown, source says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says-4741041",
-      "source": "Investing.com News",
-      "publishedAt": 1781374706000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aSByYWlzZXMgS09T",
-      "title": "Citi raises KOSPI target to 10,000 as bull case remains intact",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/citi-raises-kospi-target-to-10000-as-bull-case-remains-intact-4741040",
-      "source": "Investing.com News",
-      "publishedAt": 1781372527000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -351,21 +352,6 @@
       "url": "https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html",
       "source": "CNBC Markets",
       "publishedAt": 1781335330000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIGRpc2Fi",
-      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781314594000,
       "lang": "zh-CN",
       "topics": [
         "macro"
