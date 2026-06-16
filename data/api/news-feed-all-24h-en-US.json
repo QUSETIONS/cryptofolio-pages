@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781590256409,
-  "crawlUpdatedAt": 1781590256409,
-  "crawlCount": 40,
+  "updatedAt": 1781610825772,
+  "crawlUpdatedAt": 1781610825772,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,42 +13,59 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXVzdHJhbGlhIGNlbnRy",
-      "title": "Australia central bank warns hikes are not off the table as it keeps rates steady at 4.35%",
+      "id": "CNBC Markets-T2lsIHByaWNlcyBoaXQg",
+      "title": "Oil prices hit three-month low — but tanker bosses remain cautious on Hormuz transit",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/australia-central-bank-holds-rates-as-cpi.html",
+      "url": "https://www.cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781589843000,
+      "publishedAt": 1781610376000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG8gYmUgQW1lcmljYSZh",
+      "title": "To be America&apos;s Top State for Business in 2026, &apos;speed to market&apos; wins",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/2026-americas-top-states-business-rankings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781610252000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2V2aW4gV2Fyc2gmYXBv",
+      "title": "Kevin Warsh&apos;s Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781608631000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFyY2xheXMgdXBncmFk",
-      "title": "Barclays upgrades Porsche to \"equal weight\" ahead of Q2 results",
+      "id": "CNBC Markets-VHJ1bXAgZGVuaWVzIFUu",
+      "title": "Trump denies U.S. will put &apos;any money&apos; into Iran, as he meets allies at G7 summit",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/barclays-upgrades-porsche-to-equal-weight-ahead-of-q2-results-4743922",
-      "source": "Investing.com News",
-      "publishedAt": 1781589502000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIFhpIGJh",
-      "title": "China’s Xi backs Myanmar’s president as two leaders meet in Beijing",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/china-myanmar-pursue-deeper-ties-as-leaders-hold-talks-in-beijing-4743901",
-      "source": "Investing.com News",
-      "publishedAt": 1781588903000,
+      "url": "https://www.cnbc.com/2026/06/16/trump-g7-summit-iran-zelenskyy-macron.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781607400000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +75,31 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TE9XRVNUIFBSSUNFIE9G",
-      "title": "LOWEST PRICE OF THE YEAR: Lock in InvestingPro for 55% off for a LIMITED-TIME ONLY",
+      "id": "Cointelegraph-Qml0Y29pbiBkb2VzbiZh",
+      "title": "Bitcoin doesn&apos;t need Ethereum-style yield, says Strategy&apos;s Michael Saylor",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lowest-price-of-the-year-lock-in-investingpro-for-55-off-for-a-limitedtime-only-4743921",
-      "source": "Investing.com News",
-      "publishedAt": 1781588873000,
+      "url": "https://cointelegraph.com/news/strategy-saylor-bitcoin-credit-alternative-crypto-yield?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781604678000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "ETH"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IEVsb24gTXVzayZh",
+      "title": "How Elon Musk&apos;s second-in-command Gwynne Shotwell helped turn SpaceX into an IPO giant",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/gwynne-shotwell-spacex-elon-musk-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781602788000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,107 +109,85 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgU2VhZ2F0",
-      "title": "Form 144 Seagate Technology Holdings plc For: 16 June",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields fall ahead of Kevin Warsh&apos;s first Fed meeting",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-seagate-technology-holdings-plc-for-16-june-93CH-4743920",
-      "source": "Investing.com News",
-      "publishedAt": 1781588733000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgSW9uUSBG",
-      "title": "Form 144 IonQ For: 16 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-ionq-for-16-june-93CH-4743919",
-      "source": "Investing.com News",
-      "publishedAt": 1781588713000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtS1BNRyBz",
-      "title": "Analysis-KPMG scandal deepens Big Four accounting firms’ woes in Australia",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysiskpmg-scandal-deepens-big-four-accounting-firms-woes-in-australia-4743906",
-      "source": "Investing.com News",
-      "publishedAt": 1781588551000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IFBlYmJsZWJy",
-      "title": "Form 4 Pebblebrook Hotel Trust For: 16 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-pebblebrook-hotel-trust-for-16-june-93CH-4743918",
-      "source": "Investing.com News",
-      "publishedAt": 1781588523000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IFVuaXRlZCBU",
-      "title": "Form 4 United Therapeutics Corporation For: 16 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-united-therapeutics-corporation-for-16-june-93CH-4743917",
-      "source": "Investing.com News",
-      "publishedAt": 1781588484000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R28gc2hhcmVzIGp1bXAg",
-      "title": "Go shares jump in Tokyo debut after $552.6m IPO",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/go-shares-jump-in-tokyo-debut-after-5526m-ipo-93CH-4743916",
-      "source": "Investing.com News",
-      "publishedAt": 1781588414000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNzYSBBYmxveSBzdG9j",
-      "title": "Assa Abloy stock initiated at Outperform by RBC on M&A strategy",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/assa-abloy-stock-initiated-at-outperform-by-rbc-on-ma-strategy-93CH-4743915",
-      "source": "Investing.com News",
-      "publishedAt": 1781588378000,
+      "url": "https://www.cnbc.com/2026/06/16/treasury-yields-investors-await-warsh-first-fed-meeting.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781602209000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
+      "symbols": [
+        "UST10Y",
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBtaW5lciBJ",
+      "title": "Bitcoin miner IREN enters Europe with Nostrum acquisition as AI pivot accelerates",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/iren-nostrum-acquisition-europe-ai-cloud?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781598295000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UXVhbGNvbW0gQ0VPIHNh",
+      "title": "Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/qualcomm-ceo-ai-devices-agents.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781596665000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781590500000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiByZWNvdmVy",
+      "title": "Bitcoin recovery rests on US-Iran deal as momentum remains weak",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/bitcoin-price-momentum-remains-weak-despite-reclaiming-67k-swissblock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781588803000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -193,30 +207,15 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UXVhbGNvbW0gQ0VPIHNh",
-      "title": "Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices",
+      "id": "Cointelegraph-VVMgZ292ZXJubWVudCB3",
+      "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/qualcomm-ceo-ai-devices-agents.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781586518000,
+      "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781584942000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlvdGVjaCBJUE8gd2lu",
-      "title": "Biotech IPO window is opening but big pharma M&A still sets the pace, top bankers tell CNBC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/biotech-deals-ipo-pharma-dealmaking-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781586001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -253,6 +252,21 @@
       "quality": "fresh"
     },
     {
+      "id": "Cointelegraph-QW50aHJvcGljIHNodXRk",
+      "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781581129000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-UGVvcGxlIGluIENoaW5h",
       "title": "People in China are watching the World Cup differently this time",
       "summary": "",
@@ -265,21 +279,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
-      "title": "CNBC&apos;s The China Connection newsletter: Waiting for AI to lift the whole market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/cnbcs-the-china-connection-newsletter-hoping-ai-lifts-all-boats.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781564401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -313,15 +312,15 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIElyYW4gZGVhbCBj",
-      "title": "The Iran deal came just in time as Strategic Petroleum Reserve hits lowest level since 1983",
+      "id": "Cointelegraph-VHJ1bXAgY3J5cHRvIGNv",
+      "title": "Trump crypto company&apos;s USD1 stablecoins backing UFC event bonuses",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/iran-deal-came-in-time-as-strategic-petroleum-reserve-hits-lowest-level-since-1983.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781558028000,
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781557800000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -334,21 +333,6 @@
       "url": "https://www.cnbc.com/2026/06/15/centene-to-offer-buyouts-to-some-employees.html",
       "source": "CNBC Markets",
       "publishedAt": 1781556635000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGp1",
-      "title": "SpaceX stock jumps 20% in first full day of trading after record debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781555848000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -388,23 +372,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdHJ1c3RzIEZl",
-      "title": "Trump trusts Fed Chair Kevin Warsh. It matters for more than interest rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781554446000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SSB3YW50IHBlb3BsZSB0",
       "title": "I want people to be millionaires — Jim Cramer&apos;s blueprint to make money in any market",
       "summary": "",
@@ -420,33 +387,35 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2FsbCBTdHJlZXQmYXBv",
-      "title": "Wall Street&apos;s fear gauge tumbles as traders bid up SpaceX shares",
+      "id": "Cointelegraph-TnZpZGlh4oCZcyAkMjAg",
+      "title": "Nvidia’s $20 billion debt boom reinforces Bitcoin miners&apos; AI pivot",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/wall-streets-fear-gauge-tumbles-as-traders-bid-up-spacex-shares.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781551599000,
+      "url": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781550943000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "crypto"
       ],
-      "symbols": [],
-      "sentimentHint": "positive",
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall about 5% as Iran deal is set to open Hormuz Strait",
+      "id": "Cointelegraph-Q0ZUQyBoaXJlcyBTRUMg",
+      "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781550723000,
+      "url": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781548884000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "crypto"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -465,12 +434,27 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VmFuY2Ugc2F5cyAmYXBv",
-      "title": "Vance says &apos;a lot&apos; of Iran deal details to figure out, but U.S. has &apos;all the cards&apos;",
+      "id": "Cointelegraph-Qml0TWluZSBib29zdHMg",
+      "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781543351000,
+      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781546111000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-S3Jha2VuIHJvbGxzIG91",
+      "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781545995000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -486,21 +470,6 @@
       "url": "https://www.cnbc.com/2026/06/15/dicks-sporting-goods-expanding-lids-shops-to-100-locations.html",
       "source": "CNBC Markets",
       "publishedAt": 1781542040000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHR1bWJsZXMgb24g",
-      "title": "Oil tumbles on US-Iran deal framework: How one trader is playing the move",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/oil-tumbles-on-us-iran-deal-framework-how-one-trader-is-playing-the-move.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781541514000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -527,87 +496,106 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VmFuY2Ugc2F5cyBVLlMu",
-      "title": "Vance says U.S. expects Strait of Hormuz to be open &apos;toll free&apos; long term",
+      "id": "Cointelegraph-VGhlc2UgQml0Y29pbiBj",
+      "title": "These Bitcoin charts show how BTC price could hit $100K before October",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/vp-vance-says-us-expects-strait-of-hormuz-to-be-open-toll-free-long-term.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781539888000,
+      "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781536694000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBhbmFseXNp",
+      "title": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781533338000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-UHVkZ3kgUGVuZ3VpbnMg",
+      "title": "Pudgy Penguins winds down Pudgy Party mobile game",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781532314000,
       "lang": "en-US",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QnliaXQgZXhwYW5kcyBS",
+      "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781532000000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLi1JcmFuIGRlYWwg",
-      "title": "U.S.-Iran deal explained: What we know — and what remains unresolved",
+      "id": "Cointelegraph-V2hhdCBoYXBwZW5zIHdo",
+      "title": "What happens when AI agents start using crypto wallets?",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781539696000,
+      "url": "https://cointelegraph.com/learn/ai-agents-crypto-wallets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781529922000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RWxlY3Ryb25pYyBBcnRz",
-      "title": "Electronic Arts launches EA Advertising, a new way for brands to advertise &apos;directly into gameplay&apos;",
+      "id": "Cointelegraph-U2F5bG9y4oCZcyBTdHJh",
+      "title": "Saylor’s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781537342000,
+      "url": "https://cointelegraph.com/news/strategy-michael-saylor-1587-btc-buy-100-million?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781527932000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Um9uIEJhcm9uIGJvdWdo",
-      "title": "Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion",
+      "id": "Cointelegraph-VG9rZW5pemF0aW9uIGNv",
+      "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781537220000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuLiBXYXJyZW4gYXNr",
-      "title": "Sen. Warren asks Trump if administration plans to raise Social Security retirement age",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/warren-trump-social-security-retirement-age.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781534086000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm94IHRvIGJ1eSBzdHJl",
-      "title": "Fox to buy streaming device maker Roku for $22 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781531918000,
+      "url": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781526504000,
       "lang": "en-US",
       "topics": [
         "macro"
