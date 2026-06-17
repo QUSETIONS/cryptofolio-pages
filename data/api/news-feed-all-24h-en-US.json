@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781655791866,
-  "crawlUpdatedAt": 1781655791866,
-  "crawlCount": 42,
+  "updatedAt": 1781674032246,
+  "crawlUpdatedAt": 1781674032246,
+  "crawlCount": 43,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SmFwYW4gZXhwb3J0cyBp",
-      "title": "Japan exports in May grow at fastest pace in more than three years, beating estimates",
+      "id": "CNBC Markets-VGhyZWUgSXJhbmlhbiB0",
+      "title": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in &apos;wary disbelief&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html",
+      "url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781655706000,
+      "publishedAt": 1781672191000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SWxsaW5vaXMgZ292ZXJu",
+      "title": "Illinois governor approves crypto transaction tax despite industry uproar",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781671774000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SHlwZXJsaXF1aWQgb3Bl",
+      "title": "Hyperliquid open interest surges 32% in a week: Is $80 HYPE next?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781666373000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +58,74 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5kaWEmYXBvcztzIHNv",
-      "title": "India&apos;s solution to entrance exam fraud: A temporary ban on Telegram",
+      "id": "CNBC Markets-SmFwYW4gTWF5IGV4cG9y",
+      "title": "Japan May exports grow at fastest pace in over three years, beating estimates, as chip demand soars",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781664126000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-U2VuYXRvcnMgdXJnZSBU",
+      "title": "Senators urge Treasury ensure state authority in GENIUS application",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781662902000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIG9wdGlvbnMg",
+      "title": "SpaceX options debut signals &apos;expensive&apos; and &apos;dangerous&apos; bets, strategist says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/spacex-options-debut-with-tails-looking-dangerous-strategist-says.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781661237000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaG5pY2FsIGZhY3Rv",
+      "title": "Technical factors are adding fuel to SpaceX&apos;s meme stock fire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/technical-factors-are-adding-fuel-to-spacexs-meme-stock-fire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781659127000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVsZWdyYW0mYXBvcztz",
+      "title": "Telegram&apos;s Durov says India punishing 150 million users after country temporarily bans messaging app",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/16/indias-solution-to-entrance-exam-fraud-a-temporary-ban-on-telegram.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781655357000,
+      "publishedAt": 1781657560000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -180,21 +272,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U25hcCB1bnZlaWxzICQy",
-      "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781646995000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
       "title": "Here’s what happened in crypto today",
       "summary": "",
@@ -303,21 +380,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGVjaG5pY2FsIGZhY3Rv",
-      "title": "Technical factors are adding fuel to SpaceX&apos;s meme stock fire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/technical-factors-are-adding-fuel-to-spacexs-meme-stock-fire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781638427000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Q29pbmJhc2UgbGV0cyB1",
       "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
       "summary": "",
@@ -410,21 +472,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmV0ZXJhbiB0cmFkZXJz",
-      "title": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains: &apos;I&apos;ve never seen anything like it&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/veteran-traders-stunned-as-spacex-fans-bet-on-80percent-overnight-gains-ive-never-seen-anything-like-it.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781627667000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -640,36 +687,6 @@
         "BTC"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-VVMgZ292ZXJubWVudCB3",
-      "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781584942000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QW50aHJvcGljIHNodXRk",
-      "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781581129000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
