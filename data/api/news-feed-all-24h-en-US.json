@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1781734912112,
-  "crawlUpdatedAt": 1781734912112,
+  "updatedAt": 1781740730854,
+  "crawlUpdatedAt": 1781740730854,
   "crawlCount": 46,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIGZp",
+      "title": "Here are the five big takeaways from Kevin Warsh&apos;s first meeting as Fed chairman",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781740293000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q3J5cHRvIG1hcmtldCB0",
+      "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781739929000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q01FIENFTyBUZXJyZW5j",
+      "title": "CME CEO Terrence Duffy says the exchange operator will sue CFTC over perpetual futures",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/cme-ceo-terrence-duffy-says-the-exchange-operator-will-sue-cftc-over-perpetual-futures.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781738508000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
       "title": "Here’s what happened in crypto today",
@@ -72,23 +119,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIGZp",
-      "title": "Here are the five big takeaways from Kevin Warsh&apos;s first meeting as Fed chairman",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781731892000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -437,21 +467,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TGVzcyB0aGFuIG9uZS10",
-      "title": "Less than one-third of global workers feel their jobs are safe, ADP survey data shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/less-than-one-third-of-global-workers-feel-their-jobs-are-safe-adp-survey-data-shows.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781712001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-VHJhY2UgRmluYW5jZSBy",
       "title": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
       "summary": "",
@@ -713,23 +728,6 @@
       ],
       "symbols": [
         "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiB0b3BzICQ2",
-      "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781648920000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
