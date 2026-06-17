@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781717534785,
-  "crawlUpdatedAt": 1781717534785,
-  "crawlCount": 45,
+  "updatedAt": 1781727909968,
+  "crawlUpdatedAt": 1781727909968,
+  "crawlCount": 44,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,57 +13,47 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBs",
-      "title": "Trump says he likes idea of blaming Vance if Iran deal doesn&apos;t work out",
+      "id": "CNBC Markets-RmVkIGhvbGRzIGludGVy",
+      "title": "Fed holds interest rates steady: Here&apos;s what that means for credit cards, savings rates, mortgages and car loans",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rates-unchanged-june.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781717463000,
+      "publishedAt": 1781727864000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. will &apos;go right back to dropping bombs&apos; if he doesn&apos;t like Iran deal",
+      "id": "CNBC Markets-V2Fyc2ggZXhwZXJpZW5j",
+      "title": "Warsh experiences worst &apos;Fed day&apos; S&P 500 performance for a new chair since 1994",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html",
+      "url": "https://www.cnbc.com/2026/06/17/warsh-fed-meeting-stock-market.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781716754000,
+      "publishedAt": 1781727522000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxsYmlyZHMgY29udGlu",
-      "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781716553000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+      "symbols": [
+        "FED",
+        "SPX"
       ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz threat level downgraded after Iran deal, says U.S.-led maritime security group",
+      "id": "CNBC Markets-U3BhY2VYIHBvc3RzIGZp",
+      "title": "SpaceX posts first losing day as stock sinks 5%, losing momentum after a multiday rally",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html",
+      "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781716530000,
+      "publishedAt": 1781727012000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,62 +63,65 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VW5pUXVyZSB0byBzZWVr",
-      "title": "UniQure to seek FDA approval for Huntington&apos;s disease gene therapy after previous clash with agency",
+      "id": "CNBC Markets-RmVkIGhvbGRzIHJhdGVz",
+      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/huntingtons-disease-drugmaker-uniqure-to-seek-fda-ok-for-gene-therapy.html",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781715782000,
+      "publishedAt": 1781726662000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmV0Qmx1ZSB0byByZWR1",
-      "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781715593000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MyBvZiBvdXIgc3RvY2tz",
-      "title": "3 of our stocks struck gold and 3 others hit the skids over the past 3 weeks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/3-of-our-stocks-striking-gold-and-3-others-hitting-the-skids-over-the-past-3-weeks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781714996000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [
-        "XAU"
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Mi15ZWFyIFRyZWFzdXJ5",
+      "title": "2-year Treasury yield rockets higher as many Fed officials signal possible hike this year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781726571000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y",
+        "FED"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2Fib3RhZ2Vz",
-      "title": "Trump sabotages Senate bid to fast-track Clayton as DNI, committee scuttles hearing",
+      "id": "CNBC Markets-Q2FyTWF4IHNoYXJlcyBm",
+      "title": "CarMax shares fall after used car retailer reports earnings beats, CEO details turnaround plan",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/jay-clayton-dni-hearing-congress-trump-cancel.html",
+      "url": "https://www.cnbc.com/2026/06/17/carmax-kmx-q1-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781714899000,
+      "publishedAt": 1781726548000,
       "lang": "en-US",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FydmFuYeKAmXMgbmV3",
+      "title": "Carvana’s new vehicle strategy turns dealership into ‘playground,’ test-drive center with sales all online",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/carvana-new-vehicle-sales.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781726545000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -140,7 +133,7 @@
       "summary": "",
       "url": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
-      "publishedAt": 1781713510000,
+      "publishedAt": 1781726484000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,12 +143,226 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGFyZ2V0LCBXYWxtYXJ0",
-      "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says",
+      "id": "CNBC Markets-SmVmZnJleSBHdW5kbGFj",
+      "title": "Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/target-walmart-amazon-lgbtq-consumer-spending.html",
+      "url": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781712227000,
+      "publishedAt": 1781726438000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxsYmlyZHMgY29udGlu",
+      "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781726427000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBs",
+      "title": "Trump says he likes idea of blaming Vance if Iran deal doesn&apos;t work out",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781726053000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QmxvY2tjaGFpbi5jb20g",
+      "title": "Blockchain.com deepens onchain stock offerings as tokenized equities market grows",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/blockchaincom-adds-173-tokenized-stocks-and-etfs-through-ondo?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781724754000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hhaXJtYW4gV2Fyc2gg",
+      "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781724463000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hhaXJtYW4gV2Fyc2gg",
+      "title": "Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781724318000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QWx0Y29pbiBzZWxsaW5n",
+      "title": "Altcoin selling tops $266B as capital rotates out of crypto: Is altseason extinct?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/altcoins-witness-266b-in-selling-at-5-year-high-is-capital-leaving-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781724219000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZeKAmXMgb3VyIG1v",
+      "title": "Here’s our monthly update on all 35 portfolio stocks, including Cramer&apos;s favorite name to buy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/heres-our-monthly-update-on-all-35-portfolio-stocks-including-cramers-favorite-name-to-buy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781722970000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmV0Qmx1ZSB0byByZWR1",
+      "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781719236000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-S2Fsc2hpIGFkZHMgc29m",
+      "title": "Kalshi adds software partner as it looks to boost prediction market surveillance",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/kalshi-partners-with-starcompliance-on-prediction-market-surveillance-tool-for-institutions?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781718700000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2Fib3RhZ2Vz",
+      "title": "Trump sabotages Senate bid to fast-track Clayton as DNI, committee scuttles hearing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/jay-clayton-dni-hearing-congress-trump-cancel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781718439000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIEFJIGV4ZWMg",
+      "title": "Amazon AI exec predicts first &apos;commercially useful&apos; quantum computers in 5-7 years",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781718202000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q0VPcyBvZiBBbnRocm9w",
+      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781717407000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-VVMgbGF3bWFrZXJzIHdh",
+      "title": "US lawmakers warn against presidential pardon for Sam Bankman-Fried",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/resolution-donald-trump-against-pardon-sam-bankman-fried?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781717368000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VW5pUXVyZSB0byBzZWVr",
+      "title": "UniQure to seek FDA approval for Huntington&apos;s disease gene therapy after previous clash with agency",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/huntingtons-disease-drugmaker-uniqure-to-seek-fda-ok-for-gene-therapy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781715782000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -180,36 +387,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1hem9uIEFJIGV4ZWMg",
-      "title": "Amazon AI exec predicts first &apos;commercially useful&apos; quantum computers in 5-7 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781710855000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN1cmdlIGlz",
-      "title": "SpaceX surge is creating a unique hedging opportunity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/spacex-surge-is-creating-a-unique-hedging-opportunity.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781709920000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-VHJhY2UgRmluYW5jZSBy",
       "title": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
       "summary": "",
@@ -222,21 +399,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIHNp",
-      "title": "SpaceX stock sinks 5%, losing momentum after a multiday rally",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781708146000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -255,51 +417,6 @@
         "BTC"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FydmFuYeKAmXMgbmV3",
-      "title": "Carvana’s new vehicle strategy turns dealership into ‘playground,’ test-drive center with sales all online",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/carvana-new-vehicle-sales.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781707020000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q01FIEdyb3VwJmFwb3M7",
-      "title": "CME Group&apos;s Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781706551000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWJlcmNyb21iaWUgJiBG",
-      "title": "Abercrombie & Fitch begins selling third-party shoe brands in latest bid to chase growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/abercrombie-fitch-begins-selling-sperry-hunter-and-puma.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781706440000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -395,36 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50aHJvcGljIGFza2Vk",
-      "title": "Anthropic asked for regulation. Washington went much further",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781699578000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q05CQyB0byB3YWRlIGZ1",
-      "title": "CNBC to wade further into live sports with 11 simulcast WNBA games",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/cnbc-versant-wnba-games.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781696697000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Q2hpbmEgcGF5cyBjbG9z",
       "title": "China pays closer attention to stablecoins as cross-border role expands",
       "summary": "",
@@ -501,21 +588,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJvbSBzdXBwbHkgc2hv",
-      "title": "From supply shock to oil glut: IEA flags scale of demand destruction caused by Iran war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/17/global-oil-demand-suppy-energy-prices-iea-inventories.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781685582000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -596,23 +668,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Cointelegraph-Qml0Y29pbiBDb3ZlbmFu",
-      "title": "Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY",
-      "summary": "",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-2-op-checktemplateverify?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781650800000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0Y29pbiB0b3BzICQ2",
       "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
       "summary": "",
@@ -643,70 +698,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBtZXRyaWMg",
-      "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781639661000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q3J5cHRvIFBBQyBoYXMg",
-      "title": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781639147000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q29pbmJhc2UgbGV0cyB1",
-      "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781638279000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-WFJQIHdoYWxlIHdhbGxl",
-      "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781635491000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "XRP"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
