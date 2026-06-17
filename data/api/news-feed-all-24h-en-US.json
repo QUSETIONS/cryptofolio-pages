@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781649068861,
-  "crawlUpdatedAt": 1781649068861,
-  "crawlCount": 41,
+  "updatedAt": 1781655791866,
+  "crawlUpdatedAt": 1781655791866,
+  "crawlCount": 42,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,128 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SmFwYW4gZXhwb3J0cyBp",
+      "title": "Japan exports in May grow at fastest pace in more than three years, beating estimates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781655706000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5kaWEmYXBvcztzIHNv",
+      "title": "India&apos;s solution to entrance exam fraud: A temporary ban on Telegram",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/indias-solution-to-entrance-exam-fraud-a-temporary-ban-on-telegram.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781655357000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3JhbWVyJmFwb3M7cyBs",
+      "title": "Cramer&apos;s lightning round: Buy Cava",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/cramers-lightning-round-buy-cava.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781650561000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RE9KIGFzc2lzdHMgTXVz",
+      "title": "DOJ assists Musk&apos;s xAI in NAACP air pollution suit, asks court to toss case",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781650316000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says SpaceX investors aren&apos;t buying earnings — they&apos;re buying Elon Musk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/jim-cramer-spacex-investors-buying-elon-musk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781649725000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
+      "title": "Anthropic&apos;s Fable shutdown is a big moment for open-source AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781649272000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlsbCBsaW1pdGluZyBp",
+      "title": "Bill limiting investors from buying homes set to speed through Congress",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/16/housing-bill-limiting-investors-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781649261000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiB0b3BzICQ2",
+      "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781648920000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-RGF0YWJyaWNrcyBzYWxl",
       "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
@@ -88,21 +210,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RE9KIGFzc2lzdHMgTXVz",
-      "title": "DOJ assists Musk&apos;s xAI in NAACP air pollution suit, asks court to toss case",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781644704000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW50ZWwgYmVnaW5zIHBy",
       "title": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
       "summary": "",
@@ -143,21 +250,6 @@
       "topics": [
         "rates",
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlsbCBsaW1pdGluZyBp",
-      "title": "Bill limiting investors from buying homes set to speed through Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/housing-bill-limiting-investors-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781642857000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -241,21 +333,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2RkcyB0aGF0IGEgcHJv",
-      "title": "Odds that a proposed billionaire tax appears on California ballots plunge on prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/california-billionaire-tax-prediction-markets-show-slide-in-ballot-measure-odds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781637587000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIENoYWlyIFdhcnNo",
       "title": "Fed Chair Warsh expected to withhold &apos;dot&apos; from central bank&apos;s interest rate outlook",
       "summary": "",
@@ -269,21 +346,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2lnbmFscyBo",
-      "title": "Trump signals he could send details of Iran deal to Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781636234000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -302,36 +364,6 @@
         "XRP"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIG5ldyBvaWw/IElu",
-      "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781635348000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RkJJIHNheXMgaXQgZGlz",
-      "title": "FBI says it disrupted alleged plot targeting UFC event at White House",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/fbi-alleged-plot-targeting-ufc-event-white-house-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781631605000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -433,21 +465,6 @@
       "url": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html",
       "source": "CNBC Markets",
       "publishedAt": 1781625113000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
-      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781624641000,
       "lang": "en-US",
       "topics": [
         "macro"
