@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781902372017,
-  "crawlUpdatedAt": 1781902372017,
-  "crawlCount": 45,
+  "updatedAt": 1781907035682,
+  "crawlUpdatedAt": 1781907035682,
+  "crawlCount": 43,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,55 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Cointelegraph-Q2hhcmxlcyBTY2h3YWIg",
+      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781903467000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781902800000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-JDEzQiBCaXRjb2luIG9w",
+      "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781902669000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-V2hpdGVCSVQgc2VjdXJl",
       "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
@@ -234,15 +283,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
-      "title": "Here’s what happened in crypto today",
+      "id": "CNBC Markets-MjkteWVhci1vbGQgbWFr",
+      "title": "29-year-old making $250k in tech went &apos;undercover&apos; at a coffee chain before opening her own matcha cafe",
       "summary": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781878157000,
+      "url": "https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781877601000,
       "lang": "en-US",
       "topics": [
-        "crypto"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -628,84 +677,6 @@
       "url": "https://cointelegraph.com/markets/ether-below-17k-gains-interest-as-analysts-warn-of-another-selling-wave?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1781828799000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-TWFsdGEgcHJvcG9zZXMg",
-      "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781820259000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBkZWNvdXBs",
-      "title": "Bitcoin decouples from tech stocks: Is $60K BTC’s next stop?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-decouples-from-tech-stocks-is-60k-btcs-next-stop?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781819905000,
-      "lang": "en-US",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SXJlbGFuZCBtdWxscyBj",
-      "title": "Ireland mulls crypto safeguards in response to financial risks",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781819321000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-VVMgcmVndWxhdG9ycyBw",
-      "title": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781818933000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q3VzdG9kaWEsIFZhbnRh",
-      "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781816549000,
       "lang": "en-US",
       "topics": [
         "macro"
