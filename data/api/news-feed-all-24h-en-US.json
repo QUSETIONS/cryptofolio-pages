@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781878653184,
-  "crawlUpdatedAt": 1781878653184,
-  "crawlCount": 48,
+  "updatedAt": 1781888373064,
+  "crawlUpdatedAt": 1781888373064,
+  "crawlCount": 46,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,6 +13,132 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-TmV0SmV0cyZhcG9zOyBm",
+      "title": "NetJets&apos; first fatal crash kills influential Texas VC founder",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781887859000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHRhbmtlciB0cmFm",
+      "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781884647000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIHJpc2tpZXN0IFNw",
+      "title": "The riskiest SpaceX stock trade of all had a big first week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781884391000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QW5kcmV3IFRhdGUgbG9z",
+      "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781881510000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RydWdnbGluZyB0byBm",
+      "title": "Struggling to find a job? Try looking in Nevada",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781881319000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QWF2ZSBzdXJ2aXZlZCAk",
+      "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
+      "summary": "",
+      "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781881200000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBvcGVucyB0YXJp",
+      "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781880277000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiB0YXBzICQ2",
+      "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781879500000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
       "title": "Here’s what happened in crypto today",
       "summary": "",
@@ -22,21 +148,6 @@
       "lang": "en-US",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyB0dXJu",
-      "title": "Oil prices turn negative after U.S. official says Israel, Hezbollah agree to ceasefire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781877707000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -135,36 +246,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TmV0SmV0cyZhcG9zOyBm",
-      "title": "NetJets&apos; first fatal crash kills influential Texas VC founder",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781873215000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RydWdnbGluZyB0byBm",
-      "title": "Struggling to find a job? Try looking in Nevada",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781872425000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmlvIFBsYXRmb3JtcyBl",
       "title": "Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch",
       "summary": "",
@@ -201,21 +282,6 @@
       "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
       "source": "CNBC Markets",
       "publishedAt": 1781870402000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvcGVucyB0YXJp",
-      "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781866888000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -363,21 +429,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCB0aGlzIGJpb3Rl",
-      "title": "What this biotech&apos;s volatile stock price tells you about the weight loss market right now",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/zealand-pharma-stock-weight-loss-drugmaker-novo-lilly.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781854234000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -676,86 +727,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBtaW5lcnMg",
-      "title": "Bitcoin miners need billions to fund AI ambitions, led by IREN’s $21B gap",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-50b-ai-pivot-iren-21b-funding-gap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781801818000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T1BFQyBjaGllZiBkaXNt",
-      "title": "OPEC chief dismisses IEA supply glut forecast as &apos;critical&apos; Strait of Hormuz reopens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781795987000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QnliaXQgbGFuZHMgb24g",
-      "title": "Bybit lands on Singapore MAS Investor Alert List",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781795667000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiB0byAkMTQ1",
-      "title": "Bitcoin to $145K by October? Why this &apos;crazy accurate&apos; 4chan prediction is sketchy",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781794016000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-V2hhdCBoYXBwZW5zIHdo",
-      "title": "What happens when ChatGPT becomes the front door to crypto",
-      "summary": "",
-      "url": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781793000000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
