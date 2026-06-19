@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781821273615,
-  "crawlUpdatedAt": 1781821273615,
-  "crawlCount": 48,
+  "updatedAt": 1781827924144,
+  "crawlUpdatedAt": 1781827924144,
+  "crawlCount": 47,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SmFwYW4gY29yZSBpbmZs",
+      "title": "Japan core inflation holds steady in May, matching expectations despite energy price concerns",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/japan-core-inflation-holds-steady-in-may-matching-expectations-despite-energy-price-concerns.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781827323000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-TWFsdGEgcHJvcG9zZXMg",
       "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
@@ -438,21 +453,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW50ZWwgZ2FpbnMgMTAl",
-      "title": "Intel gains 10% after Trump says company will partner with Apple on U.S. chip design",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781801504000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R2FzIHByaWNlcyBmYWxs",
       "title": "Gas prices fall below $4 per gallon as oil supply fears ease after Iran deal",
       "summary": "",
@@ -750,21 +750,6 @@
         "XAU"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q3J5cHRvIG1hcmtldCB0",
-      "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781739929000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
