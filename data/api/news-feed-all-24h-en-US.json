@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781895966691,
-  "crawlUpdatedAt": 1781895966691,
-  "crawlCount": 47,
+  "updatedAt": 1781902372017,
+  "crawlUpdatedAt": 1781902372017,
+  "crawlCount": 45,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Cointelegraph-V2hpdGVCSVQgc2VjdXJl",
+      "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781899647000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RE9KIHJlYnVmZnMganVk",
+      "title": "DOJ rebuffs judge&apos;s request to put in writing it won&apos;t move forward with &apos;anti-weaponization&apos; fund",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781898656000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-UmVwdWJsaWNhbiBsYXdt",
       "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
@@ -213,21 +243,6 @@
       "lang": "en-US",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MjkteWVhci1vbGQgbWFr",
-      "title": "29-year-old making $250k in tech went &apos;undercover&apos; at a coffee chain before opening her own matcha cafe",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781877601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -697,58 +712,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-V2VhbHRoc2ltcGxlIGxh",
-      "title": "Wealthsimple launches Kalshi-powered prediction market app for Canadian investors",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/wealthsimple-launches-kalshi-powered-prediction-market-app-for-canadian-investors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781813247000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-RXRoZXJldW0gRm91bmRh",
-      "title": "Ethereum Foundation leadership exodus continues with director’s departure",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781812273000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "ETH"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbuKAmXMgZGVl",
-      "title": "Bitcoin’s deeply discounted versus AI-stocks, but hawkish Fed risk lingers: Bitwise",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-flashes-a-discount-to-ai-stocks-but-hawkish-fed-risk-lingers-bitwise?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781811711000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto",
-        "macro"
-      ],
-      "symbols": [
-        "BTC",
-        "FED"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
