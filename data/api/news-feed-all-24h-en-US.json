@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781888373064,
-  "crawlUpdatedAt": 1781888373064,
-  "crawlCount": 46,
+  "updatedAt": 1781895966691,
+  "crawlUpdatedAt": 1781895966691,
+  "crawlCount": 47,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,86 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Cointelegraph-UmVwdWJsaWNhbiBsYXdt",
+      "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781893821000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RydWdnbGluZyB0byBm",
+      "title": "Struggling to find a job? Try looking in Nevada",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781891812000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiB0cmFkZXJz",
+      "title": "Bitcoin traders expect new lows but data cautions against overly bearish bias",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781890689000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkc3BlYWsgdnMuIHdh",
+      "title": "Fedspeak vs. war deal: Here are the things that drove this week&apos;s stock market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781889850000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q3J5cHRvIEJpejogSXMg",
+      "title": "Crypto Biz: Is AI the exit strategy for miners?",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/crypto-biz-ai-exit-strategy-bitcoin-miners?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781888620000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-TmV0SmV0cyZhcG9zOyBm",
       "title": "NetJets&apos; first fatal crash kills influential Texas VC founder",
@@ -71,21 +151,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RydWdnbGluZyB0byBm",
-      "title": "Struggling to find a job? Try looking in Nevada",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781881319000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -306,21 +371,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VUsgZ2lsdCB5aWVsZHMg",
-      "title": "UK gilt yields jump as borrowing rises and PM Starmer faces leadership challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/andy-burnham-makerfield-by-election.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781866296000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW5kaWEmYXBvcztzIGxh",
       "title": "India&apos;s largest telecom and digital service Jio Platforms files for IPO",
       "summary": "",
@@ -444,6 +494,23 @@
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-RnJhbmtsaW4gVGVtcGxl",
+      "title": "Franklin Templeton files ETFs that turn stock dividends into Bitcoin exposure",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781848800000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -682,51 +749,6 @@
         "FED"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgRE5JIHBpY2sg",
-      "title": "Trump DNI pick Pulte poised to get access to U.S. intelligence despite congressional bid to thwart",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/18/pulte-trump-dni-us-intelligence-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781808576000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SElWRSBzZWN1cmVzICQy",
-      "title": "HIVE secures $220M AI infrastructure contract with Bell and Cohere",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/hive-secures-220m-ai-infrastructure-contract-with-bell-and-cohere?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781805297000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q01FIEdyb3VwIHN1ZXMg",
-      "title": "CME Group sues CFTC over crypto perpetual futures",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781804529000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
