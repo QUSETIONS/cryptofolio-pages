@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781942599176,
-  "crawlUpdatedAt": 1781942599176,
-  "crawlCount": 37,
+  "updatedAt": 1781953169557,
+  "crawlUpdatedAt": 1781953169557,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-TWFzc2l2ZSBib251c2Vz",
+      "title": "Massive bonuses for South Korea&apos;s chip workers puts central bank on inflation alert",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781945980000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-UGhpbGlwcGluZSBTRUMg",
       "title": "Philippine SEC signals readiness for RWA tokenization",
@@ -476,118 +491,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUsgZ2lsdCB5aWVsZHMg",
-      "title": "UK gilt yields jump as borrowing rises and PM Starmer faces leadership challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/andy-burnham-makerfield-by-election.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781866296000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5kaWEmYXBvcztzIGxh",
-      "title": "India&apos;s largest telecom and digital service Jio Platforms files for IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781866222000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TXVzayZhcG9zO3MgU3Bh",
-      "title": "Musk&apos;s SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781866077000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiB0aXBwZWQg",
-      "title": "Bitcoin tipped for Q3 &apos;macro bottom&apos; near $50K as major liquidity grab looms",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781865868000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhIHRocmVhdGVu",
-      "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781864757000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBhY3Rpdml0",
-      "title": "Bitcoin activity nears record highs on microtransaction surge",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/bitcoin-activity-nears-record-highs-on-microtransaction-surge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781860564000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-R29sZG1hbiBTYWNocyBj",
-      "title": "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781856337000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
