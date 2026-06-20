@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781975121156,
-  "crawlUpdatedAt": 1781975121156,
-  "crawlCount": 19,
+  "updatedAt": 1781981737614,
+  "crawlUpdatedAt": 1781981737614,
+  "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-JmFwb3M7RnVuIGRhZHMm",
+      "title": "&apos;Fun dads&apos; get 5 things right about parenting that many people forget—&apos;they&apos;re worth borrowing&apos; this Father&apos;s Day, says expert",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781976935000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiByZXBvcnRlZGx5",
+      "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781976532000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VGhlIGJ1ZGdldCBhaXJs",
       "title": "The budget airline model in the U.S. is running out of runway",
@@ -240,70 +270,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-UmVwdWJsaWNhbiBsYXdt",
-      "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781893821000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RydWdnbGluZyB0byBm",
-      "title": "Struggling to find a job? Try looking in Nevada",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781891812000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiB0cmFkZXJz",
-      "title": "Bitcoin traders expect new lows but data cautions against overly bearish bias",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781890689000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkc3BlYWsgdnMuIHdh",
-      "title": "Fedspeak vs. war deal: Here are the things that drove this week&apos;s stock market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781889850000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
