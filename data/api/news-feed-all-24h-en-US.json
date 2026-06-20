@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781929451671,
-  "crawlUpdatedAt": 1781929451671,
-  "crawlCount": 39,
+  "updatedAt": 1781942598964,
+  "crawlUpdatedAt": 1781942598964,
+  "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Cointelegraph-UGhpbGlwcGluZSBTRUMg",
+      "title": "Philippine SEC signals readiness for RWA tokenization",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781939120000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q3J5cHRvIGtpZG5hcHBl",
+      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781932363000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-UyB0b2tlbiBkcm9wcyA1",
       "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
@@ -558,68 +588,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QWxsVW5pdHkgZGVidXRz",
-      "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781852400000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-RnJhbmtsaW4gVGVtcGxl",
-      "title": "Franklin Templeton files ETFs that turn stock dividends into Bitcoin exposure",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781848800000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QWxnb3JhbmQgcGxhbnMg",
-      "title": "Algorand plans ‘broad quantum resilience’ by 2027",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781848284000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-TWljcm9zb2Z0IHdhcm5z",
-      "title": "Microsoft warns users of &apos;Crypto Clipper&apos; malware spread via USB drives",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781847186000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
