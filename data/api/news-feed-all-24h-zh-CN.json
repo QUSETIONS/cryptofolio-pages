@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1781981737614,
-  "crawlUpdatedAt": 1781981737614,
+  "updatedAt": 1781986887284,
+  "crawlUpdatedAt": 1781986887284,
   "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-JmFwb3M7RnVuIGRhZHMm",
-      "title": "&apos;Fun dads&apos; get 5 things right about parenting that many people forget—&apos;they&apos;re worth borrowing&apos; this Father&apos;s Day, says expert",
+      "id": "CNBC Markets-SXJhbiByZXBvcnRlZGx5",
+      "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781976935000,
+      "publishedAt": 1781986560000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,29 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiByZXBvcnRlZGx5",
-      "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+      "id": "Cointelegraph-Qml0Y29pbiByb3RhdGlv",
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons &apos;disappeared&apos;?",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781982561000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7RnVuIGRhZHMm",
+      "title": "&apos;Fun dads&apos; get 5 things right about parenting that many people forget—&apos;they&apos;re worth borrowing&apos; this Father&apos;s Day, says expert",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
       "source": "CNBC Markets",
-      "publishedAt": 1781976532000,
+      "publishedAt": 1781976935000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -255,21 +272,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-V2hpdGVCSVQgc2VjdXJl",
-      "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781899647000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
