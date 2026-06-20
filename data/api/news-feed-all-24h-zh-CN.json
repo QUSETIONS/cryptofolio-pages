@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781960201393,
-  "crawlUpdatedAt": 1781960201393,
-  "crawlCount": 30,
+  "updatedAt": 1781968013320,
+  "crawlUpdatedAt": 1781968013320,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VGhlIGJ1ZGdldCBhaXJs",
+      "title": "The budget airline model in the U.S. is running out of runway",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781967902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiZhcG9zO3Mg",
+      "title": "Bitcoin&apos;s future as revolutionary as the smartphone, according to CoinDesk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781967601000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q3J5cHRvIGluZHVzdHJ5",
+      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+      "summary": "",
+      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781967461000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QUkgYnVpbGRvdXQgZ2l2",
       "title": "AI buildout gives tech investors new reasons to watch bond market",
@@ -115,21 +162,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHRhbmtlciB0cmFm",
-      "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781910029000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -319,164 +351,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QW5kcmV3IFRhdGUgbG9z",
-      "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781881510000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QWF2ZSBzdXJ2aXZlZCAk",
-      "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
-      "summary": "",
-      "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781881200000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvcGVucyB0YXJp",
-      "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781880277000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiB0YXBzICQ2",
-      "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781879500000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MjkteWVhci1vbGQgbWFr",
-      "title": "29-year-old making $250k in tech went &apos;undercover&apos; at a coffee chain before opening her own matcha cafe",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781877601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW4gcGhvdG9zOiBTdGFy",
-      "title": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781877061000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-S2Fsc2hpIGluIGVhcmx5",
-      "title": "Kalshi in early IPO talks with investment banks: Report",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781876674000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QmluYW5jZeKAmXMgTWlD",
-      "title": "Binance’s MiCA fight raises questions over ECB influence",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781876280000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9tZW93bmVycyB0YXBw",
-      "title": "Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/home-equity-borrow.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781875801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-RXRoZXJldW0gZmFjZXMg",
-      "title": "Ethereum faces core development funding crisis, former contributor warns",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/former-ethereum-foundation-contributor-claims-core-development-funding-crisis?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781874979000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "ETH"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
