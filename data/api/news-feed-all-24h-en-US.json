@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1781953169407,
-  "crawlUpdatedAt": 1781953169407,
-  "crawlCount": 31,
+  "updatedAt": 1781960200250,
+  "crawlUpdatedAt": 1781960200250,
+  "crawlCount": 30,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QUkgYnVpbGRvdXQgZ2l2",
+      "title": "AI buildout gives tech investors new reasons to watch bond market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781956801000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U05BUCByZXN0cmljdGlv",
+      "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1781956801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-UHVkZ3kgUGVuZ3VpbnMg",
+      "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1781956142000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-TWFzc2l2ZSBib251c2Vz",
       "title": "Massive bonuses for South Korea&apos;s chip workers puts central bank on inflation alert",
@@ -431,66 +476,6 @@
       "symbols": [
         "ETH"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmlvIFBsYXRmb3JtcyBl",
-      "title": "Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781871394000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QmxvY2tTaG9hbHMgbGF3",
-      "title": "BlockShoals lawyer clarifies Binance’s regulatory status in the Philippines",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781871320000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWVtb3J5IGNyaXNpcyBo",
-      "title": "Memory crisis hits such extremes that &apos;even Apple can&apos;t be safe&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781870402000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qm9iIElnZXIgcmVmbGVj",
-      "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781866801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
