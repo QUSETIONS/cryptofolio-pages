@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1781997471016,
-  "crawlUpdatedAt": 1781997471016,
+  "updatedAt": 1782007226081,
+  "crawlUpdatedAt": 1782007226081,
   "crawlCount": 13,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Cointelegraph-Tm90b3Jpb3VzIOKAmHNh",
+      "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782000287000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SXJhbiByZXBvcnRlZGx5",
       "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
@@ -194,21 +209,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-U29uaWMgdG9rZW4gZHJv",
-      "title": "Sonic token drops 5% as 3 former execs resign from Sonic Labs board",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781919699000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
