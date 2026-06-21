@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782026207577,
-  "crawlUpdatedAt": 1782026207577,
-  "crawlCount": 13,
+  "updatedAt": 1782039206793,
+  "crawlUpdatedAt": 1782039206793,
+  "crawlCount": 14,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,55 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VmFuY2UgYXJyaXZlcyBp",
+      "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782037365000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBwcmljZSBp",
+      "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy &apos;fine&apos;?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782036957000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SmFwYW5lc2UgY29ycG9y",
+      "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782032081000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
       "title": "Here’s what happened in crypto today",
@@ -29,7 +78,7 @@
     },
     {
       "id": "Cointelegraph-Qml0Y29pbiBFVEZzIHNo",
-      "title": "Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill",
+      "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
       "summary": "",
       "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
@@ -60,23 +109,8 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiByZXBvcnRlZGx5",
-      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781996366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0Y29pbiByb3RhdGlv",
-      "title": "Bitcoin rotations into altcoins collapses: Have altseasons &apos;disappeared&apos;?",
+      "title": "Bitcoin rotations into altcoins collapse: Have altseasons &apos;disappeared&apos;?",
       "summary": "",
       "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
@@ -193,21 +227,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFzc2l2ZSBib251c2Vz",
-      "title": "Massive bonuses for South Korea&apos;s chip workers puts central bank on inflation alert",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1781945980000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
