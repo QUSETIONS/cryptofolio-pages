@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1782007224664,
-  "crawlUpdatedAt": 1782007224664,
+  "updatedAt": 1782026207467,
+  "crawlUpdatedAt": 1782026207467,
   "crawlCount": 13,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782016589000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBFVEZzIHNo",
+      "title": "Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782016200000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-Tm90b3Jpb3VzIOKAmHNh",
       "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
@@ -176,36 +208,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-UGhpbGlwcGluZSBTRUMg",
-      "title": "Philippine SEC signals readiness for RWA tokenization",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781939120000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q3J5cHRvIGtpZG5hcHBl",
-      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1781932363000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
