@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782105756461,
-  "crawlUpdatedAt": 1782105756461,
-  "crawlCount": 24,
+  "updatedAt": 1782127117415,
+  "crawlUpdatedAt": 1782127117415,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QWZ0ZXIgdGhlIGZyYWN0",
-      "title": "After the fracture: how Britain’s financial industry recovered from Brexit",
+      "id": "CNBC Markets-QWxhbiBHcmVlbnNwYW4s",
+      "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/after-the-fracture-how-britains-financial-industry-recovered-from-brexit-4751657",
-      "source": "Investing.com News",
-      "publishedAt": 1782104791000,
+      "url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782126844000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyBFbGl0ZSBBZHZp",
+      "title": "CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/uhnw-wealth-management-list-cnbc-elite-advisors.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782125864000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,27 +45,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnJlbnQgZmFsbHMgYWZ0",
-      "title": "Brent falls after US-Iran talks conclude in Switzerland",
+      "id": "Investing.com News-QUkgYm9vbeKAmXMgVVMg",
+      "title": "AI boom’s US employment, wage impact muted so far, ECB study finds",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687",
+      "url": "https://www.investing.com/news/economy-news/ai-booms-us-employment-wage-impact-muted-so-far-ecb-study-finds-4751854",
       "source": "Investing.com News",
-      "publishedAt": 1782104429000,
+      "publishedAt": 1782125744000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGFpd2Fu4oCZcyBQb3dl",
-      "title": "Taiwan’s Powerchip rallies after JPMorgan upgrades rating, doubles price target",
+      "id": "Investing.com News-R2VybWFuIGluZHVzdHJ5",
+      "title": "German industry association BDI cuts 2026 growth forecast, urges reforms",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/taiwans-powerchip-rallies-after-jpmorgan-upgrades-rating-doubles-price-target-4751725",
+      "url": "https://www.investing.com/news/economy-news/german-industry-association-bdi-cuts-2026-growth-forecast-urges-reforms-4752162",
       "source": "Investing.com News",
-      "publishedAt": 1782104217000,
+      "publishedAt": 1782125725000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +75,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U0sgSHluaXggb3ZlcnRh",
-      "title": "SK Hynix overtakes Samsung to become Korea’s most valuable company",
+      "id": "Investing.com News-VGFsb24gUmVzb3VyY2Vz",
+      "title": "Talon Resources shareholders approve AIM move, acquisition",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-overtakes-samsung-to-become-koreas-most-valuable-company-4751724",
+      "url": "https://www.investing.com/news/company-news/talon-resources-shareholders-approve-aim-move-acquisition-93CH-4752160",
       "source": "Investing.com News",
-      "publishedAt": 1782103346000,
+      "publishedAt": 1782125690000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -74,11 +91,26 @@
     },
     {
       "id": "Investing.com News-VUvigJlzIFN0YXJtZXIg",
-      "title": "UK’s Starmer could set out exit timetable on Monday as Burnham waits in the wings",
+      "title": "UK’s Starmer to resign after Labour support drains away",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/uks-starmer-could-set-out-exit-timetable-on-monday-as-burnham-waits-in-the-wings-4751721",
       "source": "Investing.com News",
-      "publishedAt": 1782103030000,
+      "publishedAt": 1782125690000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9ybmluZyBCaWQ6IFNl",
+      "title": "Morning Bid: Seventh in a decade",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/morning-bid-seventh-in-a-decade-4752159",
+      "source": "Investing.com News",
+      "publishedAt": 1782125672000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +120,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2hpbmEgdGFyZ2V0cyBV",
-      "title": "China targets US rare earth and other firms with export controls",
+      "id": "Investing.com News-V2h5IGlzIFJlZ2VueGJp",
+      "title": "Why is Regenxbio stock surging today?",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/china-targets-us-rare-earth-and-other-firms-with-export-controls-4751711",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-regenxbio-stock-surging-today-93CH-4752158",
       "source": "Investing.com News",
-      "publishedAt": 1782103011000,
+      "publishedAt": 1782125670000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,12 +135,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9ybmluZyBCaWQ6IEFu",
-      "title": "Morning Bid: Any progress is good with Hormuz at stake",
+      "id": "Investing.com News-Rm9ybSBTLTEvQSBEaWdp",
+      "title": "Form S-1/A Digital Realty Trust Inc For: 22 June",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-any-progress-is-good-with-hormuz-at-stake-4751723",
+      "url": "https://www.investing.com/news/filings/form-s1a-digital-realty-trust-inc-for-22-june-93CH-4752157",
       "source": "Investing.com News",
-      "publishedAt": 1782102990000,
+      "publishedAt": 1782125657000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,12 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG9sbGFyIHN0ZWFkeSBh",
-      "title": "Dollar steady as first round of US-Iran talks ends, pound dips on Starmer uncertainty",
+      "id": "Investing.com News-Rm9ybSAxNDQgU2hvcGlm",
+      "title": "Form 144 Shopify Inc. For: 22 June",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707",
+      "url": "https://www.investing.com/news/filings/form-144-shopify-inc-for-22-june-93CH-4752156",
       "source": "Investing.com News",
-      "publishedAt": 1782102334000,
+      "publishedAt": 1782125651000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -133,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgYW5kIElyYW4gY29u",
-      "title": "US and Iran conclude high-level talks in Switzerland, mediators say",
+      "id": "Investing.com News-RW5uaXMgZWFybmluZ3Mg",
+      "title": "Ennis earnings matched, revenue topped estimates",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698",
+      "url": "https://www.investing.com/news/earnings/ennis-earnings-matched-revenue-topped-estimates-4752155",
       "source": "Investing.com News",
-      "publishedAt": 1782102313000,
+      "publishedAt": 1782125638000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,12 +180,164 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U0sgSHluaXggZGV0aHJv",
-      "title": "SK Hynix dethrones Samsung Electronics as South Korea’s most valuable company",
+      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
+      "title": "FTSE 100 today: Stocks rise as Starmer exit paves Burnham’s path to power",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company-4751722",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-starmer-uncertainty-resurfaces-4751813",
       "source": "Investing.com News",
-      "publishedAt": 1782101546000,
+      "publishedAt": 1782125637000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUsgUE0gU3Rhcm1lciBy",
+      "title": "UK PM Starmer resigns as Britain faces its seventh leader in 10 years",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782125413000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVuY2VudCB0ZXN0cyBB",
+      "title": "Tencent tests AI assistant in China&apos;s most popular app as it looks to catch up with rivals",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782124986000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields rise ahead of key inflation data and traders weigh U.S.-Iran negotiations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/treasury-yields-investors-look-ahead-to-key-inflation-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782124957000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVmZW5zZSBnaWFudCBL",
+      "title": "Defense giant KNDS moves closer to IPO after France-Germany stake deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/knds-ipo-france-germany-defense-stake.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782124121000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGRy",
+      "title": "SpaceX stock drops again after rally following blockbuster IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782123564000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIG5ldyBhcm1zIHJh",
+      "title": "The new arms race in wealth management: Winning the ultra-wealthy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/wealth-management-firms-compete-for-ultra-wealthy-clients.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782122453000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIE5vLiAxIHF1ZXN0",
+      "title": "The No. 1 question ultra-high net worth families should ask a financial advisor",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/ultra-high-net-worth-families-choose-financial-advisor.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782122426000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hpcHBpbmcgc3RhbGxz",
+      "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782118940000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IGEgNjYteWVhci1v",
+      "title": "Why a 66-year-old water treaty is becoming the latest India-Pakistan flashpoint",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782114408000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiwgSXJhbiBhZ3Jl",
+      "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782114171000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -193,36 +377,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiwgSXJhbiBhZ3Jl",
-      "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782094666000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnJlbnQgY3J1ZGUgc2xp",
-      "title": "Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782092874000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Tm8gb25lIHdhbnRzIEFJ",
       "title": "No one wants AI data centers on Earth. Do they make sense in space?",
       "summary": "",
@@ -253,42 +407,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2hlIHNhdmVkICQyNCww",
-      "title": "She saved $24,000 to launch a craft festival in an old Joann store: &apos;This is my dream come true&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/21/she-saved-24000-to-launch-a-craft-festival-in-an-old-joann-store.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782052201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmFpc2luZyB0aGUgbWlu",
       "title": "Raising the minimum wage has been a big political winner. Now it&apos;s running into resistance",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
       "source": "CNBC Markets",
       "publishedAt": 1782050849000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIE5vLiAxIHRyaWNr",
-      "title": "The No. 1 trick I always teach to build unshakeable confidence—it worked for Beyoncé and Adele",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/21/the-no-1-trick-i-always-teach-to-build-unshakeable-confidence-therapist.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782049501000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -309,68 +433,6 @@
         "crypto"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgMyBiaWcg",
-      "title": "Here are 3 big things to watch in the stock market this coming week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782045363000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIGJlc3QgcGFyZW50",
-      "title": "The best parents and leaders use a 3-step formula to help people handle uncertainty, says Dr. Becky Kennedy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/21/use-a-3-step-formula-to-help-people-handle-uncertainty-dr-becky-kennedy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782045002000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
-      "title": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782040746000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7UmVnaW1lIGNo",
-      "title": "&apos;Regime change but in a velvet glove&apos;: How Kevin Warsh has set out to remake the Fed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782040442000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
