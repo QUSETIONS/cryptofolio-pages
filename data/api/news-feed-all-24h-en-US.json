@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782144788991,
-  "crawlUpdatedAt": 1782144788991,
-  "crawlCount": 34,
+  "updatedAt": 1782158074118,
+  "crawlUpdatedAt": 1782158074118,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,135 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-U3BhY2VYIGtpY2tzIG9m",
+      "title": "SpaceX kicks off bond sale days after record IPO, discloses over $100 billion cash pile",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782157866000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxwaGFiZXQgcGFjZXMg",
+      "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782157762000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGZh",
+      "title": "SpaceX stock falls 15%, pacing for third-straight day of losses after red-hot IPO start",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782157045000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbGRjYXJlIHRheCBi",
+      "title": "Childcare tax breaks can save families and businesses money — but few use them, congressional report finds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/child-care-tax-breaks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782156337000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-U29sYW5hIGdyYWJzIDk1",
+      "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782155854000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
+        "macro"
+      ],
+      "symbols": [
+        "SOL"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBz",
+      "title": "Nvidia&apos;s stock struggles as Kalshi traders bet chip prices are coming down",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782155297000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgaXMgYSBub3Rh",
+      "title": "Apple is a notable outlier in Monday&apos;s drubbing of mega-cap tech stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/apple-is-a-notable-outlier-in-mondays-drubbing-of-mega-cap-tech-stocks-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782153351000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29tcGFuaWVzIGFyZSBk",
+      "title": "Companies are demanding states cut red tape. Data center-wary voters may think differently",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/states-data-center-permitting-public-opposition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782152204000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJlYXN1cnkgRGVwYXJ0",
       "title": "Treasury Department authorizes Iranian oil sales through August",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782144434000,
+      "publishedAt": 1782151003000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -30,12 +153,27 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2hldnJvbiB0byBmdWVs",
-      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
+      "id": "CNBC Markets-JmFwb3M7UmV3YXJkIGZv",
+      "title": "&apos;Reward for failure&apos;: Investor support for Target Chair Brian Cornell falls to lowest level ever",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html",
+      "url": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782144365000,
+      "publishedAt": 1782150937000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIHBvaXNlZCB0",
+      "title": "Senate poised to advance housing bill to limit private equity purchases of single-family homes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782150883000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -45,18 +183,95 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7UmV3YXJkIGZv",
-      "title": "&apos;Reward for failure&apos;: Investor support for Target Chair Brian Cornell falls to lowest level ever",
+      "id": "CNBC Markets-VGhyZWUga2V5IEFJIHN0",
+      "title": "Three key AI stocks to watch this week with traders expecting giant moves",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
+      "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782144031000,
+      "publishedAt": 1782150854000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hvIGlzIEFuZHkgQnVy",
+      "title": "Who is Andy Burnham? And 4 other things investors should know as the UK replaces its prime minister",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/keir-starmer-andy-burnham-uk-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782149941000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSZhcG9zO3MgV2hh",
+      "title": "Meta&apos;s WhatsApp head to step down, will be replaced by Indian fintech founder Kunal Shah",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/meta-kunal-shah-whatsapp-will-cathcart.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782148278000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QW5kcmV3IEN1b21vIHRv",
+      "title": "Andrew Cuomo to lead joint TradFi-crypto venture between OKX and Intercontinental Exchange",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/andrew-cuomo-okx-intercontinental-exchange-venture?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782147215000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiB3ZWVrbHkg",
+      "title": "Bitcoin weekly close above $63K amid RSI divergence may be bottom signal: Data",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-63k-as-three-market-signals-remain-supportive?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782147158000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FuIGFueW9uZSBqb2lu",
+      "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782146737000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -77,21 +292,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2hvIGlzIEFuZHkgQnVy",
-      "title": "Who is Andy Burnham? And 4 other things investors should know as the U.K. replaces its prime minister",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/keir-starmer-andy-burnham-uk-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782142840000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-THVjaWQgdG8gbGF5IG9m",
       "title": "Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves",
       "summary": "",
@@ -107,36 +307,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlc2UgMiBzdG9ja3Mg",
-      "title": "These 2 stocks could be big winners from the next generation of AI chips",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782142616000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRvIHBpY2sgdXAg",
-      "title": "How to pick up some quick income using an auto stock hitting its stride",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/how-to-pick-up-some-quick-income-using-an-auto-stock-hitting-its-stride.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782141788000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VmFuY2UgaGFpbHMgJmFw",
       "title": "Vance hails &apos;great progress&apos; in U.S.-Iran talks despite &apos;threatening&apos; and &apos;whining&apos;",
       "summary": "",
@@ -149,21 +319,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSZhcG9zO3MgV2hh",
-      "title": "Meta&apos;s WhatsApp head to step down, will be replaced by Indian fintech founder Kunal Shah",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/meta-kunal-shah-whatsapp-will-cathcart.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782141186000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -274,21 +429,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29tcGFuaWVzIGFyZSBk",
-      "title": "Companies are demanding states cut red tape. Data center-wary voters may think differently",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/states-data-center-permitting-public-opposition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782135371000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2hpcHBpbmcgc3RhbGxz",
       "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again",
       "summary": "",
@@ -313,66 +453,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIG5ldyBhcm1zIHJh",
-      "title": "The new arms race in wealth management: Winning the ultra-wealthy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/wealth-management-firms-compete-for-ultra-wealthy-clients.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782133848000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIE5vLiAxIHF1ZXN0",
-      "title": "The No. 1 question ultra-high net worth families should ask a financial advisor",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/ultra-high-net-worth-families-choose-financial-advisor.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782133836000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VVBTIHRvIGludmVzdCAk",
-      "title": "UPS to invest $48 million in temperature-controlled facilities amid healthcare boom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782133702000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUsgUE0gU3Rhcm1lciBy",
-      "title": "UK PM Starmer resigns as Britain faces its seventh leader in 10 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782132530000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -473,6 +553,23 @@
       "quality": "fresh"
     },
     {
+      "id": "Cointelegraph-TW9uZXlHcmFtIGpvaW5z",
+      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782108000000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "SOL"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Cointelegraph-TW9yZ2FuIFN0YW5sZXkg",
       "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
       "summary": "",
@@ -512,21 +609,6 @@
       "url": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782100189000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgaW1wb3NlcyB0",
-      "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782099913000,
       "lang": "en-US",
       "topics": [
         "macro"
