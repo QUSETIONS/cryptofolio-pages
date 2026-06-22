@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782166197345,
-  "crawlUpdatedAt": 1782166197345,
-  "crawlCount": 41,
+  "updatedAt": 1782172314297,
+  "crawlUpdatedAt": 1782172314297,
+  "crawlCount": 42,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QmVpamluZyBpcyBzdW1t",
+      "title": "Beijing is summoning executives again, but here&apos;s why that&apos;s causing less worry than in 2021",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782170895000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Um8gS2hhbm5hIGNoYWxs",
+      "title": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782170542000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7V2UmYXBvczts",
+      "title": "&apos;We&apos;ll see&apos; — Trump hedges on guarantee Iran won&apos;t use oil profits to rebuild military",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782169783000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIGFkdmFuY2Vz",
+      "title": "Senate advances housing bill to limit private equity purchases of single-family homes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782167939000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VGVzbGEgZmFjZXMgZmVk",
       "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782164914000,
+      "publishedAt": 1782166702000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -30,17 +90,20 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7V2UmYXBvczts",
-      "title": "&apos;We&apos;ll see&apos; — Trump hedges on guarantee Iran won&apos;t use oil profits to rebuild military",
+      "id": "Cointelegraph-Qml0Y29pbiBmdW5kaW5n",
+      "title": "Bitcoin funding rate hits 2-week high: Is $70K next?",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782164428000,
+      "url": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782166551000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates",
+        "crypto"
       ],
-      "symbols": [],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -230,36 +293,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7UmV3YXJkIGZv",
-      "title": "&apos;Reward for failure&apos;: Investor support for Target Chair Brian Cornell falls to lowest level ever",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782150937000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuYXRlIHBvaXNlZCB0",
-      "title": "Senate poised to advance housing bill to limit private equity purchases of single-family homes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782150883000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhyZWUga2V5IEFJIHN0",
       "title": "Three key AI stocks to watch this week with traders expecting giant moves",
       "summary": "",
@@ -366,21 +399,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-THVjaWQgdG8gbGF5IG9m",
-      "title": "Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782142631000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
