@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782201864177,
-  "crawlUpdatedAt": 1782201864177,
-  "crawlCount": 42,
+  "updatedAt": 1782214815488,
+  "crawlUpdatedAt": 1782214815488,
+  "crawlCount": 41,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/23/apollo-private-credit-fund-withdrawals-redemptions.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782201497000,
+      "publishedAt": 1782214296000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,18 +28,200 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall as investors continue to watch U.S.-Iran moves, Citi sees &apos;overhang&apos; disappearing",
+      "id": "CNBC Markets-VGVjaCByb3V0IGludGVu",
+      "title": "Tech rout intensifies as sell-off grips global stocks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
+      "url": "https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782196852000,
+      "publishedAt": 1782214230000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBhcmUg",
+      "title": "Oil prices are little changed as investors continue to watch U.S.-Iran moves, Citi sees &apos;overhang&apos; disappearing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782213483000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIHNoZWRzIDIx",
+      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782211185000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QmluYW5jZeKAmXMgWWkg",
+      "title": "Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782210627000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBnZXRzIG5l",
+      "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782210199000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-VEhPUkNoYWluIHJlc3Vt",
+      "title": "THORChain resumes trading more than a month after $10M exploit",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782208824000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rml2ZSB0aGluZ3MgdG8g",
+      "title": "Five things to watch in Tuesday&apos;s primaries as New York races take center stage",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/new-york-maryland-utah-primaries-test-mamdani-trump-and-outside-money.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782208801000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgZ3JvdXBzIHNwZW5k",
+      "title": "AI groups spend $20 million going head-to-head in New York race pitting Bores, Lasher, Schlossberg",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/ai-groups-spend-20-million-in-new-york-race-pitting-bores-lasher-schlossberg.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782207901000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBmaWdodHMgd2l0",
+      "title": "U.S. fights with Brazil for China&apos;s giant soybean market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782207837000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IEV1cm9wZSBpcyBn",
+      "title": "How Europe is grappling with extreme heat as red alerts issued in Britain, France, Spain and Italy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/extreme-heat-wave-europe-weather-climate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782206937000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IGEgJDQgYmlsbGlv",
+      "title": "How a $4 billion Indian startup won Meta&apos;s backing but lost its founder to WhatsApp",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782205585000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-UmlwcGxlIGdhaW5zIHBy",
+      "title": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782204479000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBpc3N1ZXMgc3dl",
+      "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782202224000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -118,36 +300,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R2xvYmFsIE0mQSBkZWFs",
-      "title": "Global M&A deal value on track to reach $4 trillion this year: PwC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/global-ma-deal-value-on-track-to-reach-4-trillion-this-year-pwc-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782190152000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IGEgJDQgYmlsbGlv",
-      "title": "How a $4 billion Indian startup won Meta&apos;s backing but lost its founder to WhatsApp",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782186347000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0bWluZSwgU2hhcnBs",
       "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
       "summary": "",
@@ -212,21 +364,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVpamluZyBpcyBzdW1t",
-      "title": "Beijing is summoning executives again, but here&apos;s why that&apos;s causing less worry than in 2021",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782170895000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Um8gS2hhbm5hIGNoYWxs",
       "title": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
       "summary": "",
@@ -248,21 +385,6 @@
       "url": "https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html",
       "source": "CNBC Markets",
       "publishedAt": 1782169783000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
-      "title": "CNBC&apos;s The China Connection newsletter: Tackling EV trucks after success with cars",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/cnbcs-the-china-connection-newsletter-tackling-the-ev-truck-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782169201000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -305,21 +427,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWxwaGFiZXQgaGFzIGl0",
-      "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782162269000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-RnJhbmtsaW4gVGVtcGxl",
       "title": "Franklin Templeton launches dedicated crypto division after closing 250 Digital acquisition",
       "summary": "",
@@ -347,36 +454,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIHRh",
-      "title": "SpaceX stock tanks 16%, extending slump following post-IPO rally",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782159016000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBz",
-      "title": "Nvidia&apos;s stock struggles as Kalshi traders bet chip prices are coming down",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782158944000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -413,33 +490,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29tcGFuaWVzIGFyZSBk",
-      "title": "Companies are demanding states cut red tape. Data center-wary voters may think differently",
+      "id": "CNBC Markets-JmFwb3M7UmV3YXJkIGZv",
+      "title": "&apos;Reward for failure&apos;: Investor support for Target Chair Brian Cornell falls to lowest level ever",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/states-data-center-permitting-public-opposition.html",
+      "url": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782152204000,
+      "publishedAt": 1782150937000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhyZWUga2V5IEFJIHN0",
-      "title": "Three key AI stocks to watch this week with traders expecting giant moves",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782150854000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -492,6 +554,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-THVjaWQgdG8gbGF5IG9m",
+      "title": "Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782142631000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Cointelegraph-V2h5IEdvb2dsZSBzZWFy",
       "title": "Why Google search can be a crypto wallet risk",
       "summary": "",
@@ -504,21 +581,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q05CQyBFbGl0ZSBBZHZp",
-      "title": "CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/22/uhnw-wealth-management-list-cnbc-elite-advisors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782137018000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -573,85 +635,6 @@
       "url": "https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782131218000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-VGhlc2UgWFJQIHByaWNl",
-      "title": "These XRP price charts hint at potential 25% relief rally in July",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782128359000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "XRP"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782127012000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-UTIgMjAyNiBlbWVyZ2Vz",
-      "title": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782125570000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-VVMgZG9sbGFyIHN0cmVu",
-      "title": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782123185000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-U291dGggS29yZWEgcHVz",
-      "title": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782118723000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
