@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782235639114,
-  "crawlUpdatedAt": 1782235639114,
-  "crawlCount": 43,
+  "updatedAt": 1782242932378,
+  "crawlUpdatedAt": 1782242932378,
+  "crawlCount": 44,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,134 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SW5zaWRlIFdhcnNoJmFw",
-      "title": "Inside Warsh&apos;s selection process for the next Atlanta Fed president",
+      "id": "CNBC Markets-TWV0YSBpcyBidWlsZGlu",
+      "title": "Meta is building a prediction markets app. These stocks are falling in response",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782242747000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHJhaXNlcyAk",
+      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782241979000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-TXVsdGkteWVhciBCaXRj",
+      "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782241766000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
+      "title": "Strait of Hormuz evacuation plan to begin for ships stranded in Persian Gulf, maritime organization says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/strait-hormuz-persian-gulf-ship-tanker-evacuation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782241452000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFtZGFuaS1iYWNrZWQg",
+      "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782240973000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHNlZWluZyBz",
+      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782240876000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SlBNb3JnYW4gc2F5cyBB",
+      "title": "JPMorgan says Amazon Prime is worth 10x what members pay — a compelling case to hike fees",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/jpmorgan-says-amazon-prime-is-worth-10x-the-cost-a-compelling-case-to-hike-fees.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782239758000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UEdBIFRvdXIgQ0VPIEJy",
+      "title": "PGA Tour CEO Brian Rolapp unveils sweeping changes to professional golf",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/pga-tour-changes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782239487000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIEtldmluIFdh",
+      "title": "Inside Kevin Warsh&apos;s selection process for the next Atlanta Fed president",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782235589000,
+      "publishedAt": 1782239144000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -30,48 +152,50 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2h5",
-      "title": "Here&apos;s why we decided to put money to work in Tuesday&apos;s market pullback",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/heres-why-we-decided-to-put-money-to-work-in-tuesdays-market-pullback.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782235207000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz evacuation plan to begin for ships stranded in Persian Gulf, maritime organization says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/strait-hormuz-persian-gulf-ship-tanker-evacuation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782235051000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGNs",
-      "title": "SpaceX stock climbs 6%, rebounding from three-day losing streak",
+      "title": "SpaceX stock climbs 4%, rebounding from three-day losing streak",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782234425000,
+      "publishedAt": 1782239014000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-WmNhc2ggbWluZXIgRm9y",
+      "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782237901000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration to loan $17 billion to speed deployment of 10 big nuclear reactors in U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/trump-administration-to-loan-17-billion-to-build-10-nuclear-reactors.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782235990000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -137,42 +261,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QUkgUEFDcyBwb3VyICQy",
-      "title": "AI PACs pour $20 million into New York Democratic primary in AI regulation battle",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/ai-groups-spend-20-million-in-new-york-race-pitting-bores-lasher-schlossberg.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782229627000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Q2hhaW5saW5rIGpvaW5z",
       "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
       "summary": "",
       "url": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782229500000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration to loan $17 billion to speed deployment of 10 big nuclear reactors in U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/trump-administration-to-loan-17-billion-to-build-10-nuclear-reactors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782229291000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -259,21 +353,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QUkgbWVtb3J5IHN0YXJ0",
-      "title": "AI memory startup focused on cutting token costs raises $98 million",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/ai-memory-startup-focused-on-cutting-token-costs-raises-98-million.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782225572000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0Y29pbiBzbHVtcCB3",
       "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
       "summary": "",
@@ -302,23 +381,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29sZCBhbmQgc2lsdmVy",
-      "title": "Gold and silver tumble as rate-hike fears hit precious metals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/gold-silver-rate-hike-fears.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782224445000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -434,36 +496,6 @@
       "url": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782216395000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2Vucy4gV2FycmVuLCBL",
-      "title": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/trump-tariffs-manufacturing-warren-kelly.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782216001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBvbGxvIGN1cmJzIHdp",
-      "title": "Apollo curbs withdrawals after exit requests hit 17%, reigniting fears over private credit liquidity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/apollo-private-credit-fund-withdrawals-redemptions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782214296000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -659,24 +691,6 @@
         "crypto"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-U29sYW5hIGdyYWJzIDk1",
-      "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782155854000,
-      "lang": "en-US",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [
-        "SOL"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
