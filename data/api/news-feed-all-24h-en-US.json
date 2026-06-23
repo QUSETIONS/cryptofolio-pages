@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782242932378,
-  "crawlUpdatedAt": 1782242932378,
-  "crawlCount": 44,
+  "updatedAt": 1782249424128,
+  "crawlUpdatedAt": 1782249424128,
+  "crawlCount": 45,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,203 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TWV0YSBpcyBidWlsZGlu",
-      "title": "Meta is building a prediction markets app. These stocks are falling in response",
+      "id": "CNBC Markets-Q2VyZWJyYXMgZmFsbHMg",
+      "title": "Cerebras falls 8% after chipmaker forecasts shrinking margin in first earnings report since IPO",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+      "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782242747000,
+      "publishedAt": 1782249275000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlsbCBHYXRlcyB0ZXN0",
+      "title": "Bill Gates testimony on Jeffrey Epstein ties released by House oversight panel",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/bill-gates-jeffrey-epstein-testimony-house-oversight.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782248773000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-TWFyayBadWNrZXJiZXJn",
+      "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782248492000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q0ZUQyBzdWVzIEtlbnR1",
+      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782248145000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIGJhY2tzIEly",
+      "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump&apos;s deal to end war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/thune-congress-vote-trump-iran-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782247912000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW4gb2ZmLWdyaWQgcG93",
+      "title": "An off-grid power project gets a major proof of concept. What it means for GE Vernova",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/an-off-grid-power-project-gets-a-major-proof-of-concept-what-it-means-for-ge-vernova.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782246720000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkRXggcG9zdHMgc3Ry",
+      "title": "FedEx posts strong earnings results in last quarter with freight business",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782246638000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFtZGFuaS1iYWNrZWQg",
+      "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782246332000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBpcyBidWlsZGlu",
+      "title": "Meta is building a prediction markets app. These stocks fell in response",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782245340000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782245222000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIGNsb3NlcyBu",
+      "title": "SpaceX closes nearly 1% higher, snapping three-day losing streak",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782245157000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q3J5cHRvIGlzbiZhcG9z",
+      "title": "Crypto isn&apos;t the problem with the US economy, says senator",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782244199000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHNlZWluZyBz",
+      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782243187000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -75,51 +260,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWFtZGFuaS1iYWNrZWQg",
-      "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782240973000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHNlZWluZyBz",
-      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782240876000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SlBNb3JnYW4gc2F5cyBB",
-      "title": "JPMorgan says Amazon Prime is worth 10x what members pay — a compelling case to hike fees",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/jpmorgan-says-amazon-prime-is-worth-10x-the-cost-a-compelling-case-to-hike-fees.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782239758000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UEdBIFRvdXIgQ0VPIEJy",
       "title": "PGA Tour CEO Brian Rolapp unveils sweeping changes to professional golf",
       "summary": "",
@@ -152,21 +292,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGNs",
-      "title": "SpaceX stock climbs 4%, rebounding from three-day losing streak",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782239014000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-WmNhc2ggbWluZXIgRm9y",
       "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
       "summary": "",
@@ -180,21 +305,6 @@
       "symbols": [
         "NDX"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration to loan $17 billion to speed deployment of 10 big nuclear reactors in U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/trump-administration-to-loan-17-billion-to-build-10-nuclear-reactors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782235990000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -246,6 +356,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VHJhZGVycyBhcmUgbG92",
+      "title": "Traders are loving this cheap way to make big bets against chip stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/traders-are-loving-this-cheap-way-to-make-big-bets-against-chip-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782231037000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-TWV0YSBhbm5vdW5jZXMg",
       "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
       "summary": "",
@@ -276,21 +401,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R29vZ2xl4oCZcyBvbmxp",
-      "title": "Google’s online dominance is showing signs of cracking in AI era",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782228098000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0Y29pbiB0ZWFzZXMg",
       "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
       "summary": "",
@@ -305,21 +415,6 @@
         "BTC"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBpc3N1ZXMgc3dl",
-      "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782226598000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -385,51 +480,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QnJleGl0IDEwIHllYXJz",
-      "title": "Brexit 10 years later: How the UK economy and politics changed, in charts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/brexit-10-years-uk-economy-politics-charts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782223247000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3JhY2xlIHNoZWRzIDIx",
-      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782222480000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7SSBsaWtlIHRo",
-      "title": "&apos;I like their money&apos;: Trump threatens lawsuits against ABC for reporting on Reflecting Pool",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782220998000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Rml2ZSB0aGluZ3MgdG8g",
       "title": "Five things to watch in Tuesday&apos;s primaries as New York races take center stage",
       "summary": "",
@@ -439,21 +489,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
-      "title": "Here’s what happened in crypto today",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782220063000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -567,6 +602,21 @@
       "quality": "fresh"
     },
     {
+      "id": "Cointelegraph-T3BlcmEmYXBvcztzIE1p",
+      "title": "Opera&apos;s MiniPay launches Visa debit card for stablecoin spending",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/operas-minipay-launches-visa-debit-card-for-stablecoin-spending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782194400000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Cointelegraph-RXRoZXJldW0gRm91bmRh",
       "title": "Ethereum Foundation sacks 20% of workforce amid strategic restructuring",
       "summary": "",
@@ -661,36 +711,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-RnJhbmtsaW4gVGVtcGxl",
-      "title": "Franklin Templeton launches dedicated crypto division after closing 250 Digital acquisition",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782160613000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-TmV3IFlvcmssIE1hcnls",
-      "title": "New York, Maryland and Utah to hold primaries with crypto PAC money hanging over voters",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/us-state-primaries-crypto-pac-money-candidates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782158268000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
