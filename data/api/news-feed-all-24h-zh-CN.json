@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782249424281,
-  "crawlUpdatedAt": 1782249424281,
-  "crawlCount": 45,
+  "updatedAt": 1782254929489,
+  "crawlUpdatedAt": 1782254929489,
+  "crawlCount": 46,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,127 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QWxwaGFiZXQgYWRkZWQg",
+      "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782254685000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-JDE3ME0gRXRoZXIgbG9u",
+      "title": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782252920000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q2VyZWJyYXMgZmFsbHMg",
-      "title": "Cerebras falls 8% after chipmaker forecasts shrinking margin in first earnings report since IPO",
+      "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782249275000,
+      "publishedAt": 1782252681000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-U3Rhcm1lciBzdGVwcyBk",
+      "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+      "summary": "",
+      "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782252000000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkRXggcG9zdHMgc3Ry",
+      "title": "FedEx posts strong earnings results in last quarter with freight business",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782251911000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2UgZXhwZWN0ZWQg",
+      "title": "House expected to pass affordable housing bill, send it to Trump&apos;s desk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782250943000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q0ZUQyBzdWVzIEtlbnR1",
+      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782250309000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHJhaXNlcyAk",
+      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782250173000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -58,23 +167,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q0ZUQyBzdWVzIEtlbnR1",
-      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782248145000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2VuYXRlIGJhY2tzIEly",
       "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump&apos;s deal to end war",
       "summary": "",
@@ -101,23 +193,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkRXggcG9zdHMgc3Ry",
-      "title": "FedEx posts strong earnings results in last quarter with freight business",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782246638000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -167,21 +242,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3BhY2VYIGNsb3NlcyBu",
-      "title": "SpaceX closes nearly 1% higher, snapping three-day losing streak",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782245157000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Q3J5cHRvIGlzbiZhcG9z",
       "title": "Crypto isn&apos;t the problem with the US economy, says senator",
       "summary": "",
@@ -191,36 +251,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHNlZWluZyBz",
-      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782243187000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHJhaXNlcyAk",
-      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782241979000,
-      "lang": "zh-CN",
-      "topics": [
         "macro"
       ],
       "symbols": [],
@@ -692,24 +722,6 @@
       ],
       "symbols": [
         "ETH"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBmdW5kaW5n",
-      "title": "Bitcoin funding rate hits 2-week high: Is $70K next?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782166551000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
