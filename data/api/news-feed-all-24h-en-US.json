@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782308312463,
-  "crawlUpdatedAt": 1782308312463,
-  "crawlCount": 48,
+  "updatedAt": 1782318420440,
+  "crawlUpdatedAt": 1782318420440,
+  "crawlCount": 49,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,209 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHN0",
-      "title": "Wendy&apos;s stock soars 30% as meme traders target another turnaround play",
+      "id": "CNBC Markets-Q2VyZWJyYXMgQ0VPIHNh",
+      "title": "Cerebras CEO says margin forecast was &apos;misunderstood&apos; as stock plummets after earnings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782317566000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmlrZSBuYW1lcyBhIG5l",
+      "title": "Nike names a new finance chief, but our plan for the stock isn&apos;t changing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/nike-names-a-new-finance-chief-but-our-plan-for-the-stock-isnt-changing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782317090000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHRhbmtlcnMgd2l0",
+      "title": "Oil tankers with 35 million barrels exited Persian Gulf through Strait of Hormuz since Iran deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782317021000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2xhdGUgQXV0byBzYXlz",
+      "title": "Slate Auto says $24,950 electric truck will be profitable; targets positive cash flow next year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782316795000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG95b3RhIGlzIGdhaW5p",
+      "title": "Toyota is gaining on General Motors in U.S. sales, according to new forecast",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782316742000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkZXJhbCBzdHVkZW50",
+      "title": "Federal student loans have a new interest rate discount — here&apos;s who qualifies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/student-loan-borrowers-interest-rate-discount.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782316423000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVmZW5zZSBzdG9ja3Mg",
+      "title": "Defense stocks plummet on reports Germany is scrapping warships; Rheinmetall stock down 18%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/rheinmetall-stock-defense-germany-warship-scrap-plans.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782316250000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q3JlZGl0IHVuaW9ucyBt",
+      "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782316194000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-QmluYW5jZSB3aXRoZHJh",
+      "title": "Binance withdraws Greece-filed MiCA application",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782316025000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
+      "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782315153000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IG1lbWUgc3RvY2sg",
+      "title": "New meme stock Wendy&apos;s soars 30% with trading halted at one point",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782308238000,
+      "publishedAt": 1782314539000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBa",
+      "title": "Amazon&apos;s Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782314532000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-VHJ1bXAgY2FuY2VscyBz",
+      "title": "Trump cancels signing of housing bill with CBDC ban",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782314287000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-VGhlIEltcG9zc2liaWxp",
+      "title": "The Impossibility of Perfect Fairness in Transaction Ordering",
+      "summary": "",
+      "url": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782313200000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -29,11 +226,11 @@
     },
     {
       "id": "CNBC Markets-UXVhbGNvbW0gaW5rcyBk",
-      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
+      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center build-out",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782307763000,
+      "publishedAt": 1782312973000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +240,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhyZWUgTmV3IFlvcmsg",
-      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose",
+      "id": "CNBC Markets-T3BlbkFJIHVudmVpbHMg",
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to &apos;build the full stack&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html",
+      "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782307712000,
+      "publishedAt": 1782312806000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,18 +255,143 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBidXlp",
-      "title": "We&apos;re buying the dip in a stock that we have been itching to get bigger in",
+      "id": "CNBC Markets-VHJlYXN1cnkgU2VjcmV0",
+      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/were-buying-the-dip-in-a-stock-that-we-have-been-itching-to-get-bigger-in.html",
+      "url": "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782307405000,
+      "publishedAt": 1782311860000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
+      "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782311763000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SG93IG1lbWVjb2luIG1h",
+      "title": "How memecoin marketing moved from online speculation to real-world risk",
+      "summary": "",
+      "url": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782311400000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-RGVGaSBUVkwgZHJvcHMg",
+      "title": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782310479000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB3",
+      "title": "U.S. Treasury will oversee frozen Iranian funds when they&apos;re released, Bessent says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/us-treasury-will-oversee-frozen-iranian-funds-when-theyre-released-bessent-says.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782309842000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UG9seW1hcmtldC1iYWNr",
+      "title": "Polymarket-backed platform boosts funding to root out insider trading on prediction markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/polymarket-backed-platform-boosts-funding-to-root-out-insider-trading-on-prediction-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782309764000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782309271000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpIENFTyBzYXlz",
+      "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782308548000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCBzdG9ja3MgdHJ5",
+      "title": "Tech stocks try to rebound after global AI sell-off batters chip companies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782308344000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -88,71 +410,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Cointelegraph-QmluYW5jZSBleWVzIGFs",
-      "title": "Binance eyes alternative EU licensing route if Greek bid fails: Report",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782306745000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIHVudmVpbHMg",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to &apos;build the full stack&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782306712000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB3",
-      "title": "U.S. Treasury will oversee frozen Iranian funds when they&apos;re released, Bessent says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/us-treasury-will-oversee-frozen-iranian-funds-when-theyre-released-bessent-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782305905000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgU2VjcmV0",
-      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782305607000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-U2Vjb25kRmkgdHJhY2Vz",
       "title": "SecondFi traces Cardano wallet exploit to address-level issue",
       "summary": "",
@@ -164,38 +421,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVmZW5zZSBzdG9ja3Mg",
-      "title": "Defense stocks plummet on reports Germany is scrapping warships; Rheinmetall stock down 17%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/rheinmetall-stock-defense-germany-warship-scrap-plans.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782304267000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U291dGggS29yZWHigJlz",
-      "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing as soon as July 10",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782304210000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -217,36 +442,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2xhdGUgQXV0byBzYXlz",
-      "title": "Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782302401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHNlZSBt",
-      "title": "Democrats see midterm hope in reliably red Iowa as Trump approval ratings sag",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/election-2026-iowa-trump-approval-democrats.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782302401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Q3J5cHRvUXVhbnQgd2Fy",
       "title": "CryptoQuant warns on Strategy&apos;s dividend coverage as cash reserve falls 38%",
       "summary": "",
@@ -260,21 +455,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGVjaCBjb21wYW5pZXMg",
-      "title": "Tech companies would have to pay AI data center energy costs under bill moving in Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/ai-data-centers-tech-companies-congress-energy-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782300516000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -340,21 +520,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VWtyYWluZSBpcyByYWlz",
-      "title": "Ukraine is raising the cost of war for Russia — and testing Putin&apos;s resolve",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/ukraine-russia-drone-strikes-moscow-escalation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782292542000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-U291dGggS29yZWEgYWRk",
       "title": "South Korea adds token securities to capital market overhaul",
       "summary": "",
@@ -415,17 +580,19 @@
       "quality": "fresh"
     },
     {
-      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
-      "title": "Here’s what happened in crypto today",
+      "id": "Cointelegraph-U3dlZGVuJmFwb3M7cyBI",
+      "title": "Sweden&apos;s H100 shareholders greenlight acquisition deal to triple Bitcoin holdings",
       "summary": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/h100-clears-shareholder-hurdle-for-deal-that-would-triple-bitcoin-holdings?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782280800000,
       "lang": "en-US",
       "topics": [
         "crypto"
       ],
-      "symbols": [],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -475,51 +642,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SG91c2UgcGFzc2VzIGFm",
-      "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782266571000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIGJpZ2dlc3Qgd2Vh",
-      "title": "The biggest wealth transfer in history is here: How the next generation will spend the trillions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/global-wealth-transfer-heirs-investment-strategies-inheritance.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782266394000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgYWRkZWQg",
-      "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782265244000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-RXRoZXJldW3igJlzIG11",
       "title": "Ethereum’s much-hated staking &apos;tax&apos; may already be obsolete",
       "summary": "",
@@ -552,8 +674,8 @@
       "quality": "fresh"
     },
     {
-      "id": "Cointelegraph-U3Rhcm1lciBzdGVwcyBk",
-      "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+      "id": "Cointelegraph-U3Rhcm1lciB0byBzdGVw",
+      "title": "Starmer to step down: What Andy Burnham means for crypto in the UK",
       "summary": "",
       "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
@@ -564,38 +686,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0ZUQyBzdWVzIEtlbnR1",
-      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782250309000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHJhaXNlcyAk",
-      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782250173000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -670,85 +760,6 @@
       "url": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782233678000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q0JPRSB3ZWlnaHMgY29u",
-      "title": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782231836000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q2hhaW5saW5rIGpvaW5z",
-      "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782229500000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiB0ZWFzZXMg",
-      "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782227741000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBzbHVtcCB3",
-      "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782225512000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-V2h5IHRva2VuaXplZCBT",
-      "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
-      "summary": "",
-      "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782225000000,
       "lang": "en-US",
       "topics": [
         "macro"
