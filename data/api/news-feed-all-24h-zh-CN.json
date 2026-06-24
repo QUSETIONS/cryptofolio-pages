@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782318420671,
-  "crawlUpdatedAt": 1782318420671,
-  "crawlCount": 49,
+  "updatedAt": 1782325156486,
+  "crawlUpdatedAt": 1782325156486,
+  "crawlCount": 50,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782317566000,
+      "publishedAt": 1782324099000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,27 +28,74 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TmlrZSBuYW1lcyBhIG5l",
-      "title": "Nike names a new finance chief, but our plan for the stock isn&apos;t changing",
+      "id": "Cointelegraph-Q3J5cHRvLWJhY2tlZCBj",
+      "title": "Crypto-backed candidates notch wins in three US state primaries",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/nike-names-a-new-finance-chief-but-our-plan-for-the-stock-isnt-changing.html",
+      "url": "https://cointelegraph.com/news/crypto-backed-candidates-new-york-maryland-primaries?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782322497000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
+      "title": "Trump cancels signing of bipartisan housing bill, demanding voter ID provision",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782317090000,
+      "publishedAt": 1782322011000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJhZGVycyBhcmUgZ2V0",
+      "title": "Traders are getting worried the chip stock bull market is cracking. How to protect yourself",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/traders-are-getting-worried-the-chip-stock-bull-market-is-cracking-how-to-protect-yourself.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782321295000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBmYWxscyB1",
+      "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782320806000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
       "id": "CNBC Markets-T2lsIHRhbmtlcnMgd2l0",
-      "title": "Oil tankers with 35 million barrels exited Persian Gulf through Strait of Hormuz since Iran deal",
+      "title": "Oil tankers with 35 million barrels stuck in Persian Gulf exited Strait of Hormuz since Iran deal",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782317021000,
+      "publishedAt": 1782320790000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -63,7 +110,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782316795000,
+      "publishedAt": 1782320629000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,18 +120,110 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VG95b3RhIGlzIGdhaW5p",
-      "title": "Toyota is gaining on General Motors in U.S. sales, according to new forecast",
+      "id": "CNBC Markets-QmVzc2VudCBzZWVzIEdE",
+      "title": "Bessent sees GDP growth booming again this year. Kalshi traders see little chance of that",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
+      "url": "https://www.cnbc.com/2026/06/24/bessent-sees-gdp-growth-booming-this-year-kalshi-traders-see-little-chance-of-that.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782316742000,
+      "publishedAt": 1782320245000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9uIGVhcm5pbmdz",
+      "title": "Micron earnings are set to send the market on a wild ride — and a new ETF may add to the volatility",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/micron-earnings-could-jolt-markets-and-a-new-etf-may-fuel-volatility.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782320244000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IGVuZXJneSBjb3Vs",
+      "title": "Why energy could be a great place to invest even with oil prices retreating — 5 stocks to buy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/why-energy-could-be-a-great-place-to-invest-even-with-oil-prices-retreating-5-stocks-to-buy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782320071000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBa",
+      "title": "Amazon&apos;s Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782319992000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG95b3RhIGdhaW5zIG9u",
+      "title": "Toyota gains on General Motors in new U.S. sales forecast: &apos;GM may be looking over their shoulder&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782319183000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RG93IGluY2x1c2lvbiBp",
+      "title": "Dow inclusion is not a reason to buy Alphabet. But these other reasons may be",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/dow-inclusion-is-not-a-reason-to-buy-alphabet-but-these-other-reasons-may-be.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782318499000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBjcmFzaCB0",
+      "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782318112000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -102,21 +241,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVmZW5zZSBzdG9ja3Mg",
-      "title": "Defense stocks plummet on reports Germany is scrapping warships; Rheinmetall stock down 18%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/rheinmetall-stock-defense-germany-warship-scrap-plans.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782316250000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -150,21 +274,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
-      "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782315153000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV3IG1lbWUgc3RvY2sg",
       "title": "New meme stock Wendy&apos;s soars 30% with trading halted at one point",
       "summary": "",
@@ -177,21 +286,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBa",
-      "title": "Amazon&apos;s Zoox unveils redesigned robotaxi ahead of upcoming expansion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782314532000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -222,21 +316,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UXVhbGNvbW0gaW5rcyBk",
-      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center build-out",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782312973000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -335,21 +414,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UG9seW1hcmtldC1iYWNr",
-      "title": "Polymarket-backed platform boosts funding to root out insider trading on prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/polymarket-backed-platform-boosts-funding-to-root-out-insider-trading-on-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782309764000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
       "title": "Here’s what happened in crypto today",
       "summary": "",
@@ -377,21 +441,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGVjaCBzdG9ja3MgdHJ5",
-      "title": "Tech stocks try to rebound after global AI sell-off batters chip companies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782308344000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -734,38 +783,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-WmNhc2ggbWluZXIgRm9y",
-      "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782237901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q0ZUQyBjaGFpciBzYXlz",
-      "title": "CFTC chair says perp trading not suitable for all assets it regulates",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782233678000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
