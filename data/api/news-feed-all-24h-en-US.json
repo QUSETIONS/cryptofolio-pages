@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1782338122631,
-  "crawlUpdatedAt": 1782338122631,
+  "updatedAt": 1782342865727,
+  "crawlUpdatedAt": 1782342865727,
   "crawlCount": 50,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,81 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-U291dGggS29yZWHigJlz",
+      "title": "South Korea’s IPO bust clouds equity markets as Chaebol structure restrains listings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782342001000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9uIHN0b2NrIGp1",
+      "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782340798000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgbWVldHMgZGVm",
+      "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782339120000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SFlQRSBkb3duIDIyJSBm",
+      "title": "HYPE down 22% from record highs: Will spot demand revive the uptrend?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782338905000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hpdGUgSG91c2UgcmVx",
+      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782338139000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
       "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
@@ -28,36 +103,6 @@
         "FED"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hpdGUgSG91c2UgcmVx",
-      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782336990000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgbWVldHMgZGVm",
-      "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782336876000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -90,21 +135,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9uIHN0b2NrIGp1",
-      "title": "Micron stock jumps 12% as soaring prices from memory crunch lead to quadrupling of revenue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782335723000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -270,21 +300,6 @@
       "url": "https://www.cnbc.com/2026/06/24/this-industrial-play-has-been-a-quiet-winner-in-2026-why-the-stock-has-more-room-to-go.html",
       "source": "CNBC Markets",
       "publishedAt": 1782325993000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBI",
-      "title": "Nvidia&apos;s Huang calls black market data centers made of smuggled parts a &apos;dead end&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782325360000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -770,21 +785,6 @@
       "symbols": [
         "ETH"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-JDE3ME0gRXRoZXIgbG9u",
-      "title": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782252920000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
