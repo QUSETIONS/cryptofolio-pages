@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782325156486,
-  "crawlUpdatedAt": 1782325156486,
-  "crawlCount": 50,
+  "updatedAt": 1782332364901,
+  "crawlUpdatedAt": 1782332364901,
+  "crawlCount": 49,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,196 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-TWljcm9uIHN0b2NrIGp1",
+      "title": "Micron stock jumps 9% as soaring prices from memory crunch lead to quadrupling of revenue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782331946000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q2VyZWJyYXMgQ0VPIHNh",
       "title": "Cerebras CEO says margin forecast was &apos;misunderstood&apos; as stock plummets after earnings",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782324099000,
+      "publishedAt": 1782331274000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkZXJhbCBSZXNlcnZl",
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782331212000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
+      "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782330708000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-S2Fsc2hpIHN1ZXMgSWxs",
+      "title": "Kalshi sues Illinois officials over prediction markets restrictions",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782329688000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IG1lbWUgc3RvY2sg",
+      "title": "New meme stock Wendy&apos;s soars 27% with trading halted at one point",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782328716000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782328623000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBmYWxscyBi",
+      "title": "Bitcoin falls back under $60,000, hitting its lowest level since October 2024",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782328172000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RW5lcmd5IHNlY3JldGFy",
+      "title": "Energy secretary says U.S. has ended Iran&apos;s ability to close Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782328046000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
+      "title": "U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782327965000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UXVhbGNvbW0gYW5ub3Vu",
+      "title": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782327824000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhpcyBpbmR1c3RyaWFs",
+      "title": "This industrial play has been a quiet winner in 2026. Why the stock has more room to go",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/this-industrial-play-has-been-a-quiet-winner-in-2026-why-the-stock-has-more-room-to-go.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782325993000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBI",
+      "title": "Nvidia&apos;s Huang calls black market data centers made of smuggled parts a &apos;dead end&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782325360000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -37,21 +221,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
-      "title": "Trump cancels signing of bipartisan housing bill, demanding voter ID provision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782322011000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -87,36 +256,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHRhbmtlcnMgd2l0",
-      "title": "Oil tankers with 35 million barrels stuck in Persian Gulf exited Strait of Hormuz since Iran deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782320790000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2xhdGUgQXV0byBzYXlz",
-      "title": "Slate Auto says $24,950 electric truck will be profitable; targets positive cash flow next year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782320629000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -165,42 +304,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBa",
-      "title": "Amazon&apos;s Zoox unveils redesigned robotaxi ahead of upcoming expansion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782319992000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG95b3RhIGdhaW5zIG9u",
       "title": "Toyota gains on General Motors in new U.S. sales forecast: &apos;GM may be looking over their shoulder&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
       "source": "CNBC Markets",
       "publishedAt": 1782319183000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RG93IGluY2x1c2lvbiBp",
-      "title": "Dow inclusion is not a reason to buy Alphabet. But these other reasons may be",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/dow-inclusion-is-not-a-reason-to-buy-alphabet-but-these-other-reasons-may-be.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782318499000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -274,21 +383,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TmV3IG1lbWUgc3RvY2sg",
-      "title": "New meme stock Wendy&apos;s soars 30% with trading halted at one point",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782314539000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-VHJ1bXAgY2FuY2VscyBz",
       "title": "Trump cancels signing of housing bill with CBDC ban",
       "summary": "",
@@ -319,21 +413,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJIHVudmVpbHMg",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to &apos;build the full stack&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782312806000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJlYXN1cnkgU2VjcmV0",
       "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
       "summary": "",
@@ -349,21 +428,6 @@
         "UST10Y"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
-      "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782311763000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -394,68 +458,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB3",
-      "title": "U.S. Treasury will oversee frozen Iranian funds when they&apos;re released, Bessent says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/us-treasury-will-oversee-frozen-iranian-funds-when-theyre-released-bessent-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782309842000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
-      "title": "Here’s what happened in crypto today",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782309271000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIENFTyBzYXlz",
-      "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782308548000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgY2xhaW1zIEly",
-      "title": "Trump claims Iran has assured U.S. there won&apos;t be tolls on the Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782307158000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -691,6 +693,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SG91c2UgcGFzc2VzIGFm",
+      "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782266571000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Cointelegraph-RXRoZXJldW3igJlzIG11",
       "title": "Ethereum’s much-hated staking &apos;tax&apos; may already be obsolete",
       "summary": "",
@@ -750,39 +767,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q3J5cHRvIGlzbiZhcG9z",
-      "title": "Crypto isn&apos;t problem with US economy, Louisiana senator says",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782244199000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-TXVsdGkteWVhciBCaXRj",
-      "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782241766000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
