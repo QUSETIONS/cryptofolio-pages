@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782254929489,
-  "crawlUpdatedAt": 1782254929489,
-  "crawlCount": 46,
+  "updatedAt": 1782259447572,
+  "crawlUpdatedAt": 1782259447572,
+  "crawlCount": 47,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,68 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SG91c2UgcGFzc2VzIGFm",
+      "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782258128000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TVNDSSBrZWVwcyBTb3V0",
+      "title": "MSCI keeps South Korea as emerging market, delays Indonesia review amid downgrade risk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782257873000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGJpZ2dlc3Qgd2Vh",
+      "title": "The biggest wealth transfer in history is here: how the next generation will spend the trillions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/global-wealth-transfer-heirs-investment-strategies-inheritance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782257208000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-RXRoZXJldW3igJlzIG11",
+      "title": "Ethereum’s much-hated staking &apos;tax&apos; may already be obsolete",
+      "summary": "",
+      "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782256688000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "ETH"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QWxwaGFiZXQgYWRkZWQg",
       "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
@@ -86,21 +148,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91c2UgZXhwZWN0ZWQg",
-      "title": "House expected to pass affordable housing bill, send it to Trump&apos;s desk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782250943000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -445,36 +492,6 @@
         "BTC"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJvZ3Jlc3NpdmUgQnJh",
-      "title": "Progressive Brad Lander’s surging bid for Congress splinters Democrats&apos; labor union alliance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/new-york-elections-democrats-congress-dan-goldman-brad-lander.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782226259000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuLiBDYXNzaWR5IHBs",
-      "title": "Sen. Cassidy plans to push &apos;big idea&apos; for Social Security reform in last days in office",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/social-security-reform-cassidy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782226047000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
