@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782332364901,
-  "crawlUpdatedAt": 1782332364901,
-  "crawlCount": 49,
+  "updatedAt": 1782338123749,
+  "crawlUpdatedAt": 1782338123749,
+  "crawlCount": 50,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,177 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TWljcm9uIHN0b2NrIGp1",
-      "title": "Micron stock jumps 9% as soaring prices from memory crunch lead to quadrupling of revenue",
+      "id": "CNBC Markets-SlBNb3JnYW4gQ2hhc2Ug",
+      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782331946000,
+      "publishedAt": 1782337325000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hpdGUgSG91c2UgcmVx",
+      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782336990000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgbWVldHMgZGVm",
+      "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782336876000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkZXJhbCBSZXNlcnZl",
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782335967000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIGFjY3Vz",
+      "title": "Anthropic accuses Alibaba of campaign to &apos;brazenly&apos; and &apos;illicitly&apos; extract AI capabilities",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782335924000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9uIHN0b2NrIGp1",
+      "title": "Micron stock jumps 12% as soaring prices from memory crunch lead to quadrupling of revenue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782335723000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-RlRYIGV4ZWPigJlzIHdp",
+      "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782335223000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBuZWFybHkg",
+      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782334708000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "DXY"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SWRlbnRpdHkgdGhlZnQg",
+      "title": "Identity theft victims face &apos;unconscionable&apos; IRS delays, report says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/identity-theft-victims-face-unconscionable-irs-delays-report-says.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782334228000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UXVhbGNvbW0gc3RvY2sg",
+      "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782333893000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
+      "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782333348000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -43,59 +202,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RmVkZXJhbCBSZXNlcnZl",
-      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782331212000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBz",
-      "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782330708000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-S2Fsc2hpIHN1ZXMgSWxs",
       "title": "Kalshi sues Illinois officials over prediction markets restrictions",
       "summary": "",
       "url": "https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782329688000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IG1lbWUgc3RvY2sg",
-      "title": "New meme stock Wendy&apos;s soars 27% with trading halted at one point",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782328716000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -143,36 +255,6 @@
       "url": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
       "source": "CNBC Markets",
       "publishedAt": 1782328046000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
-      "title": "U.S. crude oil briefly dips below $70 as tankers transit Strait of Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782327965000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UXVhbGNvbW0gYW5ub3Vu",
-      "title": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782327824000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -259,21 +341,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVzc2VudCBzZWVzIEdE",
-      "title": "Bessent sees GDP growth booming again this year. Kalshi traders see little chance of that",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/bessent-sees-gdp-growth-booming-this-year-kalshi-traders-see-little-chance-of-that.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782320245000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWljcm9uIGVhcm5pbmdz",
       "title": "Micron earnings are set to send the market on a wild ride — and a new ETF may add to the volatility",
       "summary": "",
@@ -283,21 +350,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IGVuZXJneSBjb3Vs",
-      "title": "Why energy could be a great place to invest even with oil prices retreating — 5 stocks to buy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/why-energy-could-be-a-great-place-to-invest-even-with-oil-prices-retreating-5-stocks-to-buy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782320071000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -410,24 +462,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgU2VjcmV0",
-      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782311860000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -631,6 +665,21 @@
       "quality": "fresh"
     },
     {
+      "id": "Cointelegraph-QmxvY2tjaGFpbi5jb20s",
+      "title": "Blockchain.com, KuCoin expand payment rails across emerging markets",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782280800000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Cointelegraph-U3dlZGVuJmFwb3M7cyBI",
       "title": "Sweden&apos;s H100 shareholders greenlight acquisition deal to triple Bitcoin holdings",
       "summary": "",
@@ -734,36 +783,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-U3Rhcm1lciB0byBzdGVw",
-      "title": "Starmer to step down: What Andy Burnham means for crypto in the UK",
-      "summary": "",
-      "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782252000000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-TWFyayBadWNrZXJiZXJn",
-      "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782248492000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
