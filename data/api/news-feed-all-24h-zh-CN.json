@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782259447572,
-  "crawlUpdatedAt": 1782259447572,
-  "crawlCount": 47,
+  "updatedAt": 1782276478814,
+  "crawlUpdatedAt": 1782276478814,
+  "crawlCount": 49,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,57 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SG91c2UgcGFzc2VzIGFm",
-      "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
+      "id": "Cointelegraph-U2VuYXRlIERlbXMgdXJn",
+      "title": "Senate Dems urge probe into $500M crypto deal between Trumps, UAE",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+      "url": "https://cointelegraph.com/news/senate-dems-urge-probe-into-crypto-deal-between-trumps-uae?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782274362000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhyZWUgTmV3IFlvcmsg",
+      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782258128000,
+      "publishedAt": 1782273405000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXNpYSB0ZWNoIHN0b2Nr",
+      "title": "Asia tech stocks mixed as Samsung rebounds, but chip shares remain under pressure after global selloff",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782273122000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-U3RhcmtXYXJlIGludHJv",
+      "title": "StarkWare introduces &apos;Private KYC&apos; to address personal data breaches",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782270844000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +78,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782257873000,
+      "publishedAt": 1782269014000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +88,72 @@
       "quality": "fresh"
     },
     {
+      "id": "Cointelegraph-Q0ZUQyBzdWVzIEtlbnR1",
+      "title": "CFTC sues Kentucky after state’s prediction market lawsuits",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/cftc-sues-kentucky-after-states-prediction-market-lawsuits?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782268841000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VklYIG93bmVyIENib2Ug",
+      "title": "VIX owner Cboe jumps into prediction markets to build on zero-day options growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782266876000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2UgcGFzc2VzIGFm",
+      "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782266571000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VGhlIGJpZ2dlc3Qgd2Vh",
-      "title": "The biggest wealth transfer in history is here: how the next generation will spend the trillions",
+      "title": "The biggest wealth transfer in history is here: How the next generation will spend the trillions",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/global-wealth-transfer-heirs-investment-strategies-inheritance.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782257208000,
+      "publishedAt": 1782266394000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxwaGFiZXQgYWRkZWQg",
+      "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782265244000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -71,21 +176,6 @@
       "symbols": [
         "ETH"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgYWRkZWQg",
-      "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782254685000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -259,21 +349,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSBpcyBidWlsZGlu",
-      "title": "Meta is building a prediction markets app. These stocks fell in response",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782245340000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
       "title": "Here’s what happened in crypto today",
       "summary": "",
@@ -424,36 +499,6 @@
       "url": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
       "publishedAt": 1782231836000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZGVycyBhcmUgbG92",
-      "title": "Traders are loving this cheap way to make big bets against chip stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/traders-are-loving-this-cheap-way-to-make-big-bets-against-chip-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782231037000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBhbm5vdW5jZXMg",
-      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782230213000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -724,23 +769,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0bWluZSwgU2hhcnBs",
-      "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782184888000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "ETH"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
