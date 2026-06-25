@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782342865999,
-  "crawlUpdatedAt": 1782342865999,
-  "crawlCount": 50,
+  "updatedAt": 1782351173193,
+  "crawlUpdatedAt": 1782351173193,
+  "crawlCount": 49,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,59 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-U0sgSHluaXggc3VyZ2Vz",
+      "title": "SK Hynix surges 11% after filing for blockbuster Nasdaq listing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782350071000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnVpbGRpbmdzIGNvbGxh",
+      "title": "Buildings collapse as quakes rock Venezuela, &apos;high casualties&apos; likely",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/buildings-collapse-as-quakes-rock-venezuela-high-casualties-likely.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782346241000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
+      "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782346177000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-U291dGggS29yZWHigJlz",
       "title": "South Korea’s IPO bust clouds equity markets as Chaebol structure restrains listings",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782342001000,
+      "publishedAt": 1782343812000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -324,21 +371,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJhZGVycyBhcmUgZ2V0",
-      "title": "Traders are getting worried the chip stock bull market is cracking. How to protect yourself",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/traders-are-getting-worried-the-chip-stock-bull-market-is-cracking-how-to-protect-yourself.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782321295000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0Y29pbiBmYWxscyB1",
       "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
       "summary": "",
@@ -353,21 +385,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9uIGVhcm5pbmdz",
-      "title": "Micron earnings are set to send the market on a wild ride — and a new ETF may add to the volatility",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/24/micron-earnings-could-jolt-markets-and-a-new-etf-may-fuel-volatility.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782320244000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -753,38 +770,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91c2UgcGFzc2VzIGFm",
-      "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782266571000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-RXRoZXJldW3igJlzIG11",
-      "title": "Ethereum’s much-hated staking &apos;tax&apos; may already be obsolete",
-      "summary": "",
-      "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782256688000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "ETH"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
