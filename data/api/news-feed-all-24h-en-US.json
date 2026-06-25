@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782401250815,
-  "crawlUpdatedAt": 1782401250815,
-  "crawlCount": 44,
+  "updatedAt": 1782408738713,
+  "crawlUpdatedAt": 1782408738713,
+  "crawlCount": 45,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,28 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SlBNb3JnYW4gbmFtZXMg",
-      "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
+      "id": "CNBC Markets-Qm9uZCBFVEYgZmxvd3Mg",
+      "title": "Bond ETF flows surge in hunt for yield: &apos;Market sniffing out something here,&apos; says BlackRock exec",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+      "url": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782400769000,
+      "publishedAt": 1782408540000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2Ugc2F5cyBsYXdz",
+      "title": "Judge says lawsuit against Trump DOJ &apos;anti-weaponization&apos; fund will proceed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/trump-doj-fund-lawsuit-blanche.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782408415000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +44,44 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmF5ZXIgd2lucyBTdXBy",
-      "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto&apos;s Roundup",
+      "id": "Cointelegraph-WFJQIHJpc2tzIGRyb3Ag",
+      "title": "XRP risks drop below $1, but onchain data highlights silver lining",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782407493000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "XRP"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9uIHNvYXJzIDE2",
+      "title": "Micron soars 16% after blockbuster earnings, lifting some chip stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782407022000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBs",
+      "title": "Supreme Court limits Roundup cancer suits against Bayer&apos;s Monsanto",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782400382000,
+      "publishedAt": 1782406930000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +91,117 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBsb2Nr",
-      "title": "We&apos;re locking in triple-digit profits on an AI winner at record highs",
+      "id": "Cointelegraph-MjFzaGFyZXMgdHJpbXMg",
+      "title": "21shares trims 2026 crypto forecasts despite institutional adoption gains",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/were-locking-in-triple-digit-profits-on-an-ai-winner-at-record-highs.html",
+      "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782406858000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgc3RvY2sgZHJv",
+      "title": "Apple stock drops 6% on MacBook and iPad price hikes due to memory crunch",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782400295000,
+      "publishedAt": 1782406461000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbmlhbiBsZWFkZXIg",
+      "title": "Iranian leader scoffs at Trump claim that Iran must buy U.S. farm products with unfrozen assets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782406166000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THV4dXJ5IHNwZW5kaW5n",
+      "title": "Luxury spending now driven by experiences and &apos;inheritourism&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782405999000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-S3Jha2VuLCBNYXBsZSBs",
+      "title": "Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/kraken-maple-launch-onchain-warehouse-facility-for-crypto-backed-institutional-loans?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782405707000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHR1",
+      "title": "Wendy&apos;s turns lower as meme rally fails to extend to a second day",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782405372000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2UmYXBvcztyZSB0cmlt",
+      "title": "We&apos;re trimming a health-care stock into strength and raising our price target",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/were-trimming-a-stock-into-strength-raising-our-price-target.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782405324000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hhbiBadWNrZXJiZXJn",
+      "title": "Chan Zuckerberg Initiative&apos;s Biohub to open new rare disease funding round",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782405071000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -63,13 +216,61 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782399601000,
+      "publishedAt": 1782404120000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-U291dGggS29yZWFuIGF1",
+      "title": "South Korean authorities fine Bithumb $136K over sharing user information overseas",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782404023000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SlBNb3JnYW4gbmFtZXMg",
+      "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782402293000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBkcm9wcyB0",
+      "title": "Bitcoin drops to $58K on high US PCE inflation as trader sees &apos;manipulation&apos;",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-to-58-on-pce-highs?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782401685000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -103,102 +304,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW5udWl0eSBvcHRpb25z",
-      "title": "Annuity options are growing in 401(k)s, but adoption remains limited",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/annuity-options-are-growing-in-401ks-but-adoption-remains-limited.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782399057000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-THV4dXJ5IHNwZW5kaW5n",
-      "title": "Luxury spending now driven by experiences and &apos;inheritourism&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782398966000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgc3RvY2sgZHJv",
-      "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782398775000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgcGxlZGdlcyBy",
       "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html",
       "source": "CNBC Markets",
       "publishedAt": 1782398479000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHR1",
-      "title": "Wendy&apos;s turns lower as meme rally fails to extend to a second day",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782397858000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9uIGlzIHVwIDEw",
-      "title": "Micron is up 10% after blockbuster earnings, but has pulled back from highs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782397079000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiB3YXJucyBzaGlw",
-      "title": "Iran warns ships it&apos;s &apos;unacceptable and dangerous&apos; to transit the Strait of Hormuz without their approval",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782396196000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -264,38 +375,6 @@
       "lang": "en-US",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBpcyBoYXZp",
-      "title": "Bitcoin is having a tough year. Traders are betting it&apos;s going to get worse",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/bitcoin-is-having-a-tough-year-traders-are-betting-its-going-to-get-worse.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782393474000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHdvcmxk4oCZcyB0",
-      "title": "The world’s top-performing stock market still isn’t a developed market. Here’s why, according to the MSCI chief",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/south-korea-emerging-market-developed-msci-kospi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782393237000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -615,70 +694,6 @@
       "lang": "en-US",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBmYWxscyB1",
-      "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782320806000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBjcmFzaCB0",
-      "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782318112000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Q3JlZGl0IHVuaW9ucyBt",
-      "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782316194000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-QmluYW5jZSB3aXRoZHJh",
-      "title": "Binance withdraws Greece-filed MiCA application",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782316025000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
