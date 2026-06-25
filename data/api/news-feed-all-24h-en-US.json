@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782418530129,
-  "crawlUpdatedAt": 1782418530129,
-  "crawlCount": 47,
+  "updatedAt": 1782425172221,
+  "crawlUpdatedAt": 1782425172221,
+  "crawlCount": 46,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,130 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VHJ1bXAga2VlcHMgdHVy",
+      "title": "Trump keeps turning Republican wins into loyalty tests — and political liabilities",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782423399000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T24gU2VtaWNvbmR1Y3Rv",
+      "title": "On Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782423232000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgU29jaWFsIFNlY3Vy",
+      "title": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/social-security-why-some-washington-lawmakers-want-to-tax-high-earners.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782422456000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpY2FnbyBGZWQgUHJl",
+      "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782421396000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Qml0Y29pbiBib3VuY2Vz",
+      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
+      "summary": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782421370000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgc3RvY2sgZ2V0",
+      "title": "Apple stock gets slammed on bigger Mac, iPad price hikes. Why it can weather the storm",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/apple-stock-gets-slammed-on-bigger-mac-ipad-price-hikes-why-it-can-weather-the-storm.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782419278000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHR1",
+      "title": "Wendy&apos;s turns lower as meme rally fails to extend to a second day",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782419253000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IGxpZnRz",
+      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782418638000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Cointelegraph-Qml0Y29pbiBvcHRpb25z",
       "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
@@ -27,68 +151,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9uIHNheXMgdGhl",
-      "title": "Micron says the AI party is far from over, but not all are celebrating",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/micron-says-the-ai-party-is-far-from-over-but-not-all-are-celebrating.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782417985000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGxpZnRz",
-      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782417974000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHR1",
-      "title": "Wendy&apos;s turns lower as meme rally fails to extend to a second day",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782417467000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpY2FnbyBGZWQgUHJl",
-      "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782417133000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -419,21 +481,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgcGxlZGdlcyBy",
-      "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782398479000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29yZSBpbmZsYXRpb24g",
       "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
       "summary": "",
@@ -517,36 +564,6 @@
       "url": "https://www.cnbc.com/2026/06/25/chevron-gas-prices-trump-big-oil.html",
       "source": "CNBC Markets",
       "publishedAt": 1782389808000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2FtZVN0b3DigJlzIENF",
-      "title": "GameStop’s CEO just sacrificed a $35 billion pay package. Here’s how it could impact his effort to buy eBay",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/gamestops-ceo-sacrificed-pay-it-could-impact-the-effort-to-buy-ebay-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782389270000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhcSBwaWxlcyBwcmVz",
-      "title": "Iraq piles pressure on OPEC over quota dispute after UAE exit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/iraq-opec-oil-supply-quota-exports-subdued.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782388696000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -702,40 +719,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-RlRYIGV4ZWPigJlzIHdp",
-      "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782335223000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-Qml0Y29pbiBuZWFybHkg",
-      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782334708000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC",
-        "DXY"
-      ],
       "sentimentHint": "positive",
       "quality": "fresh"
     }
