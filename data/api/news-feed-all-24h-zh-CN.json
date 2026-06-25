@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1782425172322,
-  "crawlUpdatedAt": 1782425172322,
+  "updatedAt": 1782431657101,
+  "crawlUpdatedAt": 1782431657101,
   "crawlCount": 46,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAga2VlcHMgdHVy",
-      "title": "Trump keeps turning Republican wins into loyalty tests — and political liabilities",
+      "id": "CNBC Markets-Q2hhbiBadWNrZXJiZXJn",
+      "title": "Chan Zuckerberg Initiative&apos;s Biohub to open new rare disease funding round",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html",
+      "url": "https://www.cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782423399000,
+      "publishedAt": 1782431269000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +28,44 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T24gU2VtaWNvbmR1Y3Rv",
-      "title": "On Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+      "id": "CNBC Markets-VHJ1bXAga2VlcHMgdHVy",
+      "title": "Trump keeps turning Republican wins into loyalty tests — and political liabilities",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782431122000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-RG9lcyBCb3Rhbml44oCZ",
+      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+      "summary": "",
+      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782428950000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T04gU2VtaWNvbmR1Y3Rv",
+      "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782423232000,
+      "publishedAt": 1782428383000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -48,7 +80,22 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/25/social-security-why-some-washington-lawmakers-want-to-tax-high-earners.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782422456000,
+      "publishedAt": 1782427075000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVtb2NyYXRzIHByb2Jl",
+      "title": "Democrats probe Trump&apos;s troubled $16 million reflecting pool renovation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782425254000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -225,36 +272,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRzIHByb2Jl",
-      "title": "Democrats probe Trump&apos;s troubled $16 million reflecting pool renovation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782414932000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hhbiBadWNrZXJiZXJn",
-      "title": "Chan Zuckerberg Initiative&apos;s Biohub to open new rare disease funding round",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782414565000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -705,21 +722,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SFlQRSBkb3duIDIyJSBm",
-      "title": "HYPE down 22% from record highs: Will spot demand revive the uptrend?",
-      "summary": "",
-      "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782338905000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
