@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782447784045,
-  "crawlUpdatedAt": 1782447784045,
-  "crawlCount": 47,
+  "updatedAt": 1782461330514,
+  "crawlUpdatedAt": 1782461330514,
+  "crawlCount": 45,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QWlyd2FsbGV4IGhpdHMg",
-      "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents",
+      "id": "CNBC Markets-VHVtYmxpbmcgQUkgc3Rv",
+      "title": "Tumbling AI stocks signal another day of turmoil for tech companies",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html",
+      "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782447133000,
+      "publishedAt": 1782459852000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,18 +28,123 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHNsaWRlcyBuZWFy",
-      "title": "Oil slides nearly 2% as markets look past fresh Iran tensions and focus on supply outlook",
+      "id": "CNBC Markets-QmluYW5jZSB0byBzdG9w",
+      "title": "Binance to stop providing services to European clients after failing to obtain license: Financial Times",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+      "url": "https://www.cnbc.com/2026/06/26/binance-to-stop-providing-services-to-european-clients-after-failing-to-obtain-license-ft.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782446876000,
+      "publishedAt": 1782458630000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLi1JcmFuIHBlYWNl",
+      "title": "U.S.-Iran peace deal grants access to Tehran&apos;s nuclear sites, UN watchdog says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/26/us-iran-peace-deal-nuclear-access.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782456098000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
+      "title": "Here’s what happened in crypto today",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782453844000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-VGV0aGVyIHN0YWJsZWNv",
+      "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782453721000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TkJBIHRhcmdldHMgQXNp",
+      "title": "NBA targets Asian resurgence with technology and talent push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/26/nba-targets-asian-resurgence-with-technology-and-talent-push-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782453042000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Cointelegraph-Q29pbmJhc2UmYXBvcztz",
+      "title": "Coinbase&apos;s Base resumes block production after 2-hour outage",
+      "summary": "",
+      "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "publishedAt": 1782450644000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHNsaWRlcyAyJSBh",
+      "title": "Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782450081000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlyd2FsbGV4IGhpdHMg",
+      "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782449305000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -59,7 +164,7 @@
     },
     {
       "id": "Cointelegraph-U3RhYmxlY29pblggYmV0",
-      "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut on Friday",
+      "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
       "summary": "",
       "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "Cointelegraph",
@@ -81,21 +186,6 @@
       "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
       "source": "CNBC Markets",
       "publishedAt": 1782439679000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29mdEJhbmsgc2lua3Mg",
-      "title": "SoftBank sinks 12% as Asia tech rout tracks declines in the U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782437371000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -246,21 +336,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGxpZnRz",
-      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782418638000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-Qml0Y29pbiBvcHRpb25z",
       "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
       "summary": "",
@@ -310,36 +385,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SlBNb3JnYW4gbmFtZXMg",
-      "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782416049000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SGVyZeKAmXMgd2hhdCBo",
-      "title": "Here’s what happened in crypto today",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782415941000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-SGFsZiBvZiBVSyB3ZWFs",
       "title": "Half of UK wealth advisers say clients&apos; crypto is ‘invisible’ to them: CoinShares survey",
       "summary": "",
@@ -351,23 +396,6 @@
         "crypto"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIFRy",
-      "title": "Judge blocks Trump&apos;s rule limiting federal student loans for certain grad school borrowers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/judge-blocks-trumps-rule-limiting-student-loans-for-grad-students-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782413256000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -416,22 +444,6 @@
         "BTC"
       ],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qm9uZCBFVEYgZmxvd3Mg",
-      "title": "Bond ETF flows surge in hunt for yield: &apos;Market sniffing out something here,&apos; says BlackRock exec",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782408540000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -575,23 +587,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29yZSBpbmZsYXRpb24g",
-      "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782394256000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Cointelegraph-U0JJIHRvIGFjcXVpcmUg",
       "title": "SBI to acquire Bitbank in $289M deal creating Japan&apos;s biggest crypto exchange",
       "summary": "",
@@ -706,36 +701,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-VVMgYXJiaXRyYXRpb24g",
-      "title": "US arbitration giant rolls out ‘legal layer’ for agentic commerce",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/ai-is-getting-a-legal-layer-as-agentic-commerce-accelerates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782368789000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Cointelegraph-SG91c2UgRGVtb2NyYXRz",
-      "title": "House Democrats seek SEC answers on AI investment advisers",
-      "summary": "",
-      "url": "https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "publishedAt": 1782366441000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
