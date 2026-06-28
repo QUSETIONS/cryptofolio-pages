@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782651556249,
-  "crawlUpdatedAt": 1782651556249,
-  "crawlCount": 24,
+  "updatedAt": 1782658447208,
+  "crawlUpdatedAt": 1782658447208,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgYWdhaW4gdGhy",
-      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
+      "id": "Investing.com News-RWxldmVuIHBlb3BsZSBr",
+      "title": "Eleven people killed in plane crash in northeastern France",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782650735000,
+      "url": "https://www.investing.com/news/world-news/eleven-people-killed-in-plane-crash-in-northeastern-france-local-officials-say-4764112",
+      "source": "Investing.com News",
+      "publishedAt": 1782657389000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSG91c2Ugc3BlYWtl",
+      "title": "US House speaker says he will send housing bill to Trump on Monday",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-house-speaker-says-he-will-send-housing-bill-to-trump-on-monday-4764148",
+      "source": "Investing.com News",
+      "publishedAt": 1782657035000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,180 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.23%",
+      "id": "Investing.com News-RGVhdGggdG9sbCBpbiBW",
+      "title": "Death toll in Venezuela quake tops 1,400 as rescue efforts intensify",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-023-4764134",
+      "url": "https://www.investing.com/news/world-news/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors-4764033",
       "source": "Investing.com News",
-      "publishedAt": 1782650703000,
+      "publishedAt": 1782656661000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJhbGlh4oCZcyBG",
+      "title": "Australia’s Firmus Technologies strikes AI access deal with Nvidia",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-4764147",
+      "source": "Investing.com News",
+      "publishedAt": 1782655607000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29tZSByZW50ZXJzIHNh",
+      "title": "Some renters say homeownership isn&apos;t part of their American Dream: Renting is &apos;really freeing for me&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/28/some-renters-say-homeownership-isnt-part-of-their-american-dream.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782655501000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWlncmFudHMgaW4gVVMg",
+      "title": "Migrants in US on temporary status should seek permanent status or leave, Homeland Secretary says",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/migrants-in-us-on-temporary-status-should-seek-permanent-status-or-leave-homeland-secretary-says-4764145",
+      "source": "Investing.com News",
+      "publishedAt": 1782655228000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJpYSB1cmdlcyBF",
+      "title": "Austria urges Europe to host Anthropic following US curbs on AI access",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/austria-lobbies-eu-to-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-4764143",
+      "source": "Investing.com News",
+      "publishedAt": 1782654867000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgMyBiaWcg",
+      "title": "Here are 3 big things we&apos;re watching in the stock market in the week ahead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782653451000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SVJBcyBob2xkIHRyaWxs",
+      "title": "IRAs hold trillions more than 401(k) plans — yet people hardly save in them",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/28/ira-money-401k-rollovers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782653401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SWYgeW91IHRoaW5rIENo",
+      "title": "If you think China needs to dethrone U.S. dollar, you don&apos;t understand how it is waging global currency war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782653143000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVzdHJpYSByZXBvcnRl",
+      "title": "Austria reportedly pushes EU to host Anthropic amid US access restrictions",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/austria-reportedly-pushes-eu-to-host-anthropic-amid-us-access-restrictions-4764144",
+      "source": "Investing.com News",
+      "publishedAt": 1782652940000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWdhaW4gdGhy",
+      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782652118000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q1RBIFRyZWFzdXJ5IHNo",
+      "title": "CTA Treasury short covering gathers pace as equity longs face pressure",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/cta-treasury-short-covering-gathers-pace-as-equity-longs-face-pressure-4764142",
+      "source": "Investing.com News",
+      "publishedAt": 1782651335000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGkgQXJhbWNvIGhl",
+      "title": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/saudi-aramco-helicopter-crash-kills-14-nationals-state-news-agency-says-4764136",
+      "source": "Investing.com News",
+      "publishedAt": 1782650932000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,44 +226,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWxldmVuIHBlb3BsZSBr",
-      "title": "Eleven people killed in plane crash in northeastern France, officials say",
+      "id": "Investing.com News-Sm9icyBkYXRhLCByYXRl",
+      "title": "Jobs data, rate bets in focus as US stocks close solid first half",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/eleven-people-killed-in-plane-crash-in-northeastern-france-local-officials-say-4764112",
+      "url": "https://www.investing.com/news/economy-news/jobs-data-rate-bets-in-focus-as-us-stocks-close-solid-first-half-4764135",
       "source": "Investing.com News",
-      "publishedAt": 1782650544000,
+      "publishedAt": 1782650909000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJhbWNvIGhlbGljb3B0",
-      "title": "Aramco helicopter reportedly crashes in Ras Tanura, killing 14 people",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/aramco-helicopter-reportedly-crashes-in-ras-tanura-killing-14-people-4764125",
-      "source": "Investing.com News",
-      "publishedAt": 1782650418000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9wZSBMZW8gcHJheXMg",
-      "title": "Pope Leo prays for Venezuela quake victims as EU sends emergency aid",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/pope-leo-prays-for-venezuela-quake-victims-as-eu-sends-emergency-aid-4764111",
-      "source": "Investing.com News",
-      "publishedAt": 1782649836000,
-      "lang": "zh-CN",
-      "topics": [
+        "rates",
         "macro"
       ],
       "symbols": [],
@@ -103,53 +257,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBhbmQgVVMgc3Rl",
-      "title": "Iran and US step up attacks and threaten to escalate",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities-4764056",
-      "source": "Investing.com News",
-      "publishedAt": 1782649103000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVhdGggdG9sbCBpbiBW",
-      "title": "Death toll in Venezuela quake tops 1,400 as rescue efforts intensify",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors-4764033",
-      "source": "Investing.com News",
-      "publishedAt": 1782648383000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSByYWlzZXMgZ2xv",
-      "title": "BofA raises global growth outlook, sees 75 bps Fed hikes despite easing inflation",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bofa-raises-global-growth-outlook-sees-75-bps-fed-hikes-despite-easing-inflation-4764090",
-      "source": "Investing.com News",
-      "publishedAt": 1782648176000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2VuaW9ycyBpbiBNZWRp",
       "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
       "summary": "",
@@ -162,51 +269,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXVzayBzYXlzIEdyb2sg",
-      "title": "Musk says Grok 4.5 enters private beta at SpaceX and Tesla",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/musk-says-grok-45-enters-private-beta-at-spacex-and-tesla-93CH-4764089",
-      "source": "Investing.com News",
-      "publishedAt": 1782647393000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGV1dHNjaGUgQmFuayBz",
-      "title": "Deutsche Bank surges 69% after InvestingPro Fair Value signal",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/deutsche-bank-surges-69-after-investingpro-fair-value-signal-93CH-4764088",
-      "source": "Investing.com News",
-      "publishedAt": 1782644919000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJvIEZh",
-      "title": "InvestingPro Fair Value flagged Opendoor drop before 49% decline",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-flagged-opendoor-drop-before-49-decline-93CH-4764087",
-      "source": "Investing.com News",
-      "publishedAt": 1782644505000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -257,21 +319,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIEFJIHRyYWRlIGNv",
-      "title": "The AI trade cooled and oil sank. A closer look at Wall Street&apos;s volatile week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782578392000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2h5IGludmVzdG9ycyBt",
       "title": "Why investors may want to prioritize bond markets outside the U.S.",
       "summary": "",
@@ -293,81 +340,6 @@
       "url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
       "source": "CNBC Markets",
       "publishedAt": 1782572087000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYW4gY291cGxl",
-      "title": "American couple left New York City and bought a house in Italy for $13,000: &apos;We found a different way of life&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/27/american-couple-left-united-states-bought-italy-house-cassandra-tresl-alex-ninman.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782568802000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmVkIExvYnN0ZXImYXBv",
-      "title": "Red Lobster&apos;s Ultimate Endless Shrimp promotion is described as a &apos;car crash&apos; for the company, lawsuit says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782567381000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVmb3JlIHRoZXJlIHdl",
-      "title": "Before there were Trump Accounts, SEED OK gave some newborns $1,000 — how researchers say the grants affected kids",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/27/trump-accounts-seed-ok.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782567001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIG1lbW9yeSBzaG9y",
-      "title": "The memory shortage shaking Apple and Microsoft is &apos;existential crisis&apos; for smaller players",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782566497000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGhh",
-      "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn&apos;t",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782566250000,
       "lang": "zh-CN",
       "topics": [
         "macro"
