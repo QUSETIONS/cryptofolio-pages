@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782727814395,
-  "crawlUpdatedAt": 1782727814395,
-  "crawlCount": 27,
+  "updatedAt": 1782743725003,
+  "crawlUpdatedAt": 1782743725003,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,15 +13,214 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Q29tY2FzdCBhbm5vdW5j",
-      "title": "Comcast announces it will spin off media and tech wings into separate public companies",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+      "url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782727646000,
+      "publishedAt": 1782743457000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIEFJIGJvb20gaXMg",
+      "title": "The AI boom is colliding with a new threat: Severe weather",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782743456000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBy",
+      "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782743438000,
       "lang": "en-US",
       "topics": [
         "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
+      "title": "US Supreme Court rejects Trump’s unprecedented bid to fire Fed’s Cook",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-supreme-court-rejects-trumps-unprecedented-bid-to-fire-feds-cook-4765724",
+      "source": "Investing.com News",
+      "publishedAt": 1782743099000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmVsb2NpdHkgRmluYW5j",
+      "title": "Velocity Financial CFO sells $28,420 of common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/velocity-financial-cfo-sells-28420-of-common-stock-93CH-4765723",
+      "source": "Investing.com News",
+      "publishedAt": 1782743090000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEFtYXpvbiBz",
+      "title": "Why is Amazon stock up 5% today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-amazon-stock-up-5-today-93CH-4765722",
+      "source": "Investing.com News",
+      "publishedAt": 1782743086000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
+      "title": "US Supreme Court backs Trump’s firing of FTC member",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-backs-trumps-firing-of-ftc-member-4765721",
+      "source": "Investing.com News",
+      "publishedAt": 1782743077000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFdvcnRoaW5n",
+      "title": "Form 4 Worthington Industries Inc For: 29 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-worthington-industries-inc-for-29-june-93CH-4765720",
+      "source": "Investing.com News",
+      "publishedAt": 1782743048000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSBERUYgMTRDIEN1",
+      "title": "Form DEF 14C Curanex Pharmaceuticals Inc For: 29 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-def-14c-curanex-pharmaceuticals-inc-for-29-june-93CH-4765719",
+      "source": "Investing.com News",
+      "publishedAt": 1782743046000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFkaXNvbiBTcXVhcmUg",
+      "title": "Madison Square Garden Sports stock hits all-time high at 397.94 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/madison-square-garden-sports-stock-hits-alltime-high-at-39794-usd-93CH-4765718",
+      "source": "Investing.com News",
+      "publishedAt": 1782743018000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWVyY3VyeSBHZW5lcmFs",
+      "title": "Mercury General Corp stock hits all-time high of 108.1 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/mercury-general-corp-stock-hits-alltime-high-of-1081-usd-93CH-4765717",
+      "source": "Investing.com News",
+      "publishedAt": 1782743016000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJpbml0eSBDYXBpdGFs",
+      "title": "Trinity Capital stock hits 52-week high at 17.38 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/trinity-capital-stock-hits-52week-high-at-1738-usd-93CH-4765715",
+      "source": "Investing.com News",
+      "publishedAt": 1782742984000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5QmFuYyBsb3dlcnMg",
+      "title": "KeyBanc lowers McDonald’s stock price target on soft sales outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-lowers-mcdonalds-stock-price-target-on-soft-sales-outlook-93CH-4765714",
+      "source": "Investing.com News",
+      "publishedAt": 1782742965000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7VGhpcyBiYXJn",
+      "title": "&apos;This bargain is eroding&apos;: Inside the youngest generations&apos; view of the American Dream",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/gen-z-american-dream-eroding-redefining.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782742094000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -33,10 +232,132 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782727202000,
+      "publishedAt": 1782741796000,
       "lang": "en-US",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29tY2FzdCBqdW1wcyA5",
+      "title": "Comcast jumps 9% after announcing it will spin off NBCUniversal and Sky from cable business",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782741700000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHRvIGpvaW4g",
+      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782741019000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
+      "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782739981000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIENsdWImYXBvcztz",
+      "title": "The Club&apos;s top 10 things to watch in the stock market Monday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/the-clubs-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782739156000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYSBjYW4mYXBv",
+      "title": "America can&apos;t get enough of protein. The dairy industry can&apos;t keep up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782738893000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBuZWFy",
+      "title": "Oil prices near pre-war levels — but persistent supply risks could spark a rebound, analysts warn",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/strait-of-hormuz-shipping-iran-oil-war-us.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782738035000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHV0aW7igJlzIGZ1ZWwg",
+      "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782731076000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYJmFwb3M7cyAk",
+      "title": "SpaceX&apos;s $25 billion bond sale drives huge demand - and a potential headache for investors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782729419000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -58,195 +379,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UHVpZyBCcmFuZHMgdXBn",
-      "title": "Puig Brands upgraded by BNP Paribas, citing valuation and sales outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/puig-brands-upgraded-by-bnp-paribas-citing-valuation-and-sales-outlook-4764580",
-      "source": "Investing.com News",
-      "publishedAt": 1782726958000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RhZGxlciBSYWlsIHNo",
-      "title": "Stadler Rail shares climb on Berlin S-Bahn contract progress",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/stadler-rail-shares-climb-on-berlin-sbahn-contract-progress-93CH-4764579",
-      "source": "Investing.com News",
-      "publishedAt": 1782726929000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RyYXRlZ3nigJlzIHZh",
-      "title": "Strategy’s valuation falls below bitcoin holdings as crypto sentiment sours",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/strategys-valuation-falls-below-bitcoin-holdings-as-crypto-sentiment-sours-4764577",
-      "source": "Investing.com News",
-      "publishedAt": 1782726871000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T0dEQ0wgc3RhcnRzIHBy",
-      "title": "OGDCL starts production at Bobi Deep-1 well in Pakistan",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ogdcl-starts-production-at-bobi-deep1-well-in-pakistan-93CH-4764576",
-      "source": "Investing.com News",
-      "publishedAt": 1782726871000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q1ZDIGFncmVlcyB0byBi",
-      "title": "CVC agrees to buy Italian dessert maker IRCA from Advent",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/cvc-agrees-to-buy-italian-dessert-maker-irca-from-advent-93CH-4764575",
-      "source": "Investing.com News",
-      "publishedAt": 1782726843000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEN5dG9raW5l",
-      "title": "Why is Cytokinetics stock rallying today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-cytokinetics-stock-rallying-today-93CH-4764574",
-      "source": "Investing.com News",
-      "publishedAt": 1782726814000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFNvbGlkaW9u",
-      "title": "Why is Solidion Technology stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-solidion-technology-stock-surging-today-93CH-4764573",
-      "source": "Investing.com News",
-      "publishedAt": 1782726807000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Prosus posts strong FY 2026 growth, flags flat 2027 EBITDA",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-prosus-posts-strong-fy-2026-growth-flags-flat-2027-ebitda-93CH-4764572",
-      "source": "Investing.com News",
-      "publishedAt": 1782726798000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Prosus posts strong H2 2026 results, shares slip",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-prosus-posts-strong-h2-2026-results-shares-slip-93CH-4764571",
-      "source": "Investing.com News",
-      "publishedAt": 1782726790000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFByb2dyZXNz",
-      "title": "Why is Progressive stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-progressive-stock-sliding-today-93CH-4764567",
-      "source": "Investing.com News",
-      "publishedAt": 1782726711000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIEFJIGJvb20gaXMg",
-      "title": "The AI boom is colliding with a new threat: severe weather",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782724814000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UHJvdGVpbiBjb2ZmZWU/",
       "title": "Protein coffee? Brands cash in on functional beverage boom",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html",
       "source": "CNBC Markets",
       "publishedAt": 1782722621000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHV0aW4gZGV0YWlscyBS",
-      "title": "Putin details Russia’s fuel shortages after Ukrainian drone strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782719119000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -307,111 +445,6 @@
       "url": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
       "source": "CNBC Markets",
       "publishedAt": 1782697665000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXZlcnl0aGluZyB0aWVk",
-      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782684587000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYSBjYW4mYXBv",
-      "title": "America can&apos;t get enough of protein. The dairy industry can&apos;t keep up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782682515000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29tZSByZW50ZXJzIHNh",
-      "title": "Some renters say homeownership isn&apos;t part of their American Dream: Renting is &apos;really freeing for me&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/some-renters-say-homeownership-isnt-part-of-their-american-dream.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782655501000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SVJBcyBob2xkIHRyaWxs",
-      "title": "IRAs hold trillions more than 401(k) plans — yet people hardly save in them",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/ira-money-401k-rollovers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782653401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SWYgeW91IHRoaW5rIENo",
-      "title": "If you think China needs to dethrone U.S. dollar, you don&apos;t understand how it is waging global currency war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782653143000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuaW9ycyBpbiBNZWRp",
-      "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782648001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSAmYXBvcztwZXJmZWN0",
-      "title": "A &apos;perfect storm&apos; points to a much smaller U.S. auto market by 2040",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782644401000,
       "lang": "en-US",
       "topics": [
         "macro"
