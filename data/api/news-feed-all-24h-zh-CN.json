@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1782840354730,
-  "crawlUpdatedAt": 1782840354730,
+  "updatedAt": 1782847295466,
+  "crawlUpdatedAt": 1782847295466,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCB1",
-      "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
+      "id": "Investing.com News-VHJ1bXAgYWxsaWVzIGJs",
+      "title": "Trump allies block US House defense policy bill in push for voter ID law",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782840267000,
+      "url": "https://www.investing.com/news/economy-news/trump-allies-block-us-house-defense-policy-bill-in-push-for-voter-id-law-4768566",
+      "source": "Investing.com News",
+      "publishedAt": 1782846476000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TkFTQSBhd2FyZHMgQXN0",
+      "title": "NASA awards Astrobotic, Firefly, Intuitive Machines lunar lander contracts in moon base project",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nasa-awards-astrobotic-firefly-intuitive-machines-lunar-lander-contracts-in-moon-base-project-4768565",
+      "source": "Investing.com News",
+      "publishedAt": 1782846455000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1lcmljYW4gRmluYW5j",
+      "title": "American Financial Group stock hits 52-week low at $17.65",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/american-financial-group-stock-hits-52week-low-at-1765-93CH-4768564",
+      "source": "Investing.com News",
+      "publishedAt": 1782846445000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +58,196 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-QW1lcmljYW4gRmluYW5j",
+      "title": "American Financial Group stock hits 52-week low at 19.34 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/american-financial-group-stock-hits-52week-low-at-1934-usd-93CH-4768563",
+      "source": "Investing.com News",
+      "publishedAt": 1782846443000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9laW5nLCBlbmdpbmVl",
+      "title": "Boeing, engineers’ union begin contract talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-engineers-union-begin-contract-talks-4768466",
+      "source": "Investing.com News",
+      "publishedAt": 1782846435000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29jY2VyLVNhbiBGcmFu",
+      "title": "Soccer-San Francisco Mayor Lurie, a diehard soccer fan, riding the World Cup wave",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/soccersan-francisco-mayor-lurie-a-diehard-soccer-fan-riding-the-world-cup-wave-4768562",
+      "source": "Investing.com News",
+      "publishedAt": 1782846417000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFRGUyBGaW5h",
+      "title": "Form 4 TFS Financial Corporation For: 30 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-tfs-financial-corporation-for-30-june-93CH-4768561",
+      "source": "Investing.com News",
+      "publishedAt": 1782846372000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCB0ZXN0cyAkNCwx",
+      "title": "Gold tests $4,113 resistance amid RSI divergence: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-trapped-between-4050-support-and-4165-resistance-live-levels-93CH-4764320",
+      "source": "Investing.com News",
+      "publishedAt": 1782846313000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVzbGEgbmVhcnMgJDQ0",
+      "title": "Tesla nears $445-$453 resistance after breakout: Hourly levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-hits-397407-resistance-wall-live-hourly-levels-93CH-4765663",
+      "source": "Investing.com News",
+      "publishedAt": 1782846292000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQgc2F5",
+      "title": "Wall Street says sell Goldman, buy Capital One. Here&apos;s where we stand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/wall-street-says-sell-goldman-buy-capital-one-heres-where-we-stand.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782846253000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkRBIGxldHMgUGhpbGlw",
+      "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782846247000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlnIGVnZyBwcm9kdWNl",
+      "title": "Big egg producers settle price inflation probe with DOJ for 53 million eggs — and $3.3M",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782846127000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29ybiBmdXR1cmVzIHJp",
+      "title": "Corn futures rise after USDA reports lower plantings, stocks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/corn-futures-rise-after-usda-reports-lower-plantings-stocks-93CH-4768558",
+      "source": "Investing.com News",
+      "publishedAt": 1782845831000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QVdTIHB1dHMgJDEgYmls",
+      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782845590000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHJpdmF0ZSBlcXVpdHkg",
+      "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782844315000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Q2xldmVsYW5kIEZlZCBQ",
       "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782839640000,
+      "publishedAt": 1782844037000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -45,27 +259,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UHJpdmF0ZSBlcXVpdHkg",
-      "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCB1",
+      "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
+      "url": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782839595000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1Ub3AgY2Fz",
-      "title": "Factbox-Top cases on the US Supreme Court’s docket",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/factboxtop-cases-on-the-us-supreme-courts-docket-4766493",
-      "source": "Investing.com News",
-      "publishedAt": 1782839289000,
+      "publishedAt": 1782843424000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -75,162 +274,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVjaCBzZWxsb2ZmIHN0",
-      "title": "Tech selloff stirs bubble fears in US stock market",
+      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
+      "title": "American Airlines brings grab-and-go lounge to New York&apos;s JFK",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/tech-selloff-stirs-bubble-fears-in-us-stock-market-4767124",
-      "source": "Investing.com News",
-      "publishedAt": 1782839271000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RUNC4oCZcyBSZWhuIHNh",
-      "title": "ECB’s Rehn says energy shock causes stagflation-like effects - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ecbs-rehn-says-energy-shock-causes-stagflationlike-effects--bloomberg-93CH-4768436",
-      "source": "Investing.com News",
-      "publishedAt": 1782839253000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9vZHnigJlzIGNoYW5n",
-      "title": "Moody’s changes Georgia outlook to stable on robust growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/moodys-changes-georgia-outlook-to-stable-on-robust-growth-93CH-4768435",
-      "source": "Investing.com News",
-      "publishedAt": 1782839238000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3VwcmVtZSBDb3VydCBy",
-      "title": "Supreme Court rejects Trump bid to restrict birthright citizenship",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/supreme-court-to-rule-on-trump-bid-to-limit-birthright-citizenship-4767243",
-      "source": "Investing.com News",
-      "publishedAt": 1782839234000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BlbkFJIGludHJvZHVj",
-      "title": "OpenAI introduces GeneBench-Pro to test AI research judgment",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/openai-introduces-genebenchpro-to-test-ai-research-judgment-93CH-4768434",
-      "source": "Investing.com News",
-      "publishedAt": 1782839231000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUsgbWF5IGludGVydmVu",
-      "title": "UK may intervene in $110 billion Paramount-Warner Bros Discovery deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/uk-leaning-towards-intervening-in-110-billion-paramountwarner-bros-discovery-deal-4767909",
-      "source": "Investing.com News",
-      "publishedAt": 1782839216000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNvIGNvY2FpbmUg",
-      "title": "Mexico cocaine seizures may reflect World Cup demand, experts say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/mexico-cocaine-seizures-may-reflect-world-cup-demand-experts-say-4768433",
-      "source": "Investing.com News",
-      "publishedAt": 1782839200000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RUNCIG1heSBkZWxheSBy",
-      "title": "ECB may delay rate decision until September, says Dolenc",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ecb-may-delay-rate-decision-until-september-says-dolenc-93CH-4768431",
-      "source": "Investing.com News",
-      "publishedAt": 1782839016000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgTW9uZ29E",
-      "title": "Form 144 MongoDB For: 30 June",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-mongodb-for-30-june-93CH-4768430",
-      "source": "Investing.com News",
-      "publishedAt": 1782838991000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFqb3IgZWdnIHByb2R1",
-      "title": "Major egg producers settle price inflation probe for $3.3 million",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html",
+      "url": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782838693000,
+      "publishedAt": 1782842401000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RkRBIGxldHMgUGhpbGlw",
-      "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
+      "id": "CNBC Markets-Qmx1ZSBPcmlnaW4gcGl2",
+      "title": "Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
+      "url": "https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782838360000,
+      "publishedAt": 1782840641000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -252,21 +316,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qmx1ZSBPcmlnaW4gcGl2",
-      "title": "Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782837545000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -345,21 +394,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q3JhbWVyIHNheXMgdGhp",
-      "title": "Cramer says this aerospace stock is significantly undervalued, sees 35% upside",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/cramer-says-this-stock-is-significantly-undervalued-sees-35percent-upside.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782835018000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QWVyb1Zpcm9ubWVudCBz",
       "title": "AeroVironment skyrockets 15% as dronemaker capitalizes on defense spending surge",
       "summary": "",
@@ -420,21 +454,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QVdTIHB1dHMgJDEgYmls",
-      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782831601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RnJlbmNoIGJpb3RlY2gg",
       "title": "French biotech stock soars 40% after new data on experimental medicine",
       "summary": "",
@@ -486,21 +505,6 @@
       "url": "https://www.cnbc.com/2026/06/30/warren-buffett-delays-gates-foundation-donation-epstein-review.html",
       "source": "CNBC Markets",
       "publishedAt": 1782825205000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIENocm9tZWJv",
-      "title": "Google Chromebook graft case sees Indonesia&apos;s former education minister jailed for 10 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/indonesia-jails-former-education-minister-for-10-years-in-google-chromebook-graft-case.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782823665000,
       "lang": "zh-CN",
       "topics": [
         "macro"
