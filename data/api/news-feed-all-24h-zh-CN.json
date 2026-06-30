@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1782832580068,
-  "crawlUpdatedAt": 1782832580068,
+  "updatedAt": 1782840354730,
+  "crawlUpdatedAt": 1782840354730,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBz",
-      "title": "Supreme Court strikes down limits on political parties&apos; campaign spending, in win for GOP",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/supreme-court-campaign-finance-republican.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782832555000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3VwcmVtZSBDb3VydCB1",
       "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782832525000,
+      "publishedAt": 1782840267000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +28,29 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG1h",
-      "title": "Trump&apos;s massive defense budget, depleted war machine, spark U.S. state battle for business and jobs",
+      "id": "CNBC Markets-Q2xldmVsYW5kIEZlZCBQ",
+      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/trump-trillion-dollar-defense-budget-missile-contracts.html",
+      "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782832496000,
+      "publishedAt": 1782839640000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHJpdmF0ZSBlcXVpdHkg",
+      "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782839595000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,27 +60,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IEZpcnN0IFVT",
-      "title": "Form 4 First US Bancshares Inc For: 30 June",
+      "id": "Investing.com News-RmFjdGJveC1Ub3AgY2Fz",
+      "title": "Factbox-Top cases on the US Supreme Court’s docket",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-first-us-bancshares-inc-for-30-june-93CH-4768288",
+      "url": "https://www.investing.com/news/economy-news/factboxtop-cases-on-the-us-supreme-courts-docket-4766493",
       "source": "Investing.com News",
-      "publishedAt": 1782832148000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1VUyBTdXBy",
-      "title": "Factbox-US Supreme Court’s FTC ruling will affect cases related to other Trump firings",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/factboxus-supreme-courts-ftc-ruling-will-affect-cases-related-to-other-trump-firings-4767284",
-      "source": "Investing.com News",
-      "publishedAt": 1782832054000,
+      "publishedAt": 1782839289000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +75,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgY3V0cyBOZXcg",
-      "title": "Trump cuts New York funding for Medicaid fraud unit",
+      "id": "Investing.com News-VGVjaCBzZWxsb2ZmIHN0",
+      "title": "Tech selloff stirs bubble fears in US stock market",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-cuts-new-york-funding-for-medicaid-fraud-unit-4768176",
+      "url": "https://www.investing.com/news/economy-news/tech-selloff-stirs-bubble-fears-in-us-stock-market-4767124",
       "source": "Investing.com News",
-      "publishedAt": 1782832032000,
+      "publishedAt": 1782839271000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RUNC4oCZcyBSZWhuIHNh",
+      "title": "ECB’s Rehn says energy shock causes stagflation-like effects - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ecbs-rehn-says-energy-shock-causes-stagflationlike-effects--bloomberg-93CH-4768436",
+      "source": "Investing.com News",
+      "publishedAt": 1782839253000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,33 +105,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW1hem9u4oCZcyBBV1Mg",
-      "title": "Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers",
+      "id": "Investing.com News-TW9vZHnigJlzIGNoYW5n",
+      "title": "Moody’s changes Georgia outlook to stable on robust growth",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/amazons-aws-commits-1-billion-toward-new-unit-for-embedded-ai-engineers-4768286",
+      "url": "https://www.investing.com/news/world-news/moodys-changes-georgia-outlook-to-stable-on-robust-growth-93CH-4768435",
       "source": "Investing.com News",
-      "publishedAt": 1782832014000,
+      "publishedAt": 1782839238000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFzcWFsIENFTzogQXJh",
-      "title": "Pasqal CEO: Aramco deal shows quantum computing moving from research to reality",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/pasqal-ceo-aramco-deal-shows-quantum-computing-moving-from-research-to-reality-4768285",
-      "source": "Investing.com News",
-      "publishedAt": 1782832005000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -138,7 +125,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/politics-news/supreme-court-to-rule-on-trump-bid-to-limit-birthright-citizenship-4767243",
       "source": "Investing.com News",
-      "publishedAt": 1782831993000,
+      "publishedAt": 1782839234000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,12 +135,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGlvbiBGaW5hbmNlIEdy",
-      "title": "Lion Finance Group schedules August, November earnings releases",
+      "id": "Investing.com News-T3BlbkFJIGludHJvZHVj",
+      "title": "OpenAI introduces GeneBench-Pro to test AI research judgment",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/lion-finance-group-schedules-august-november-earnings-releases-93CH-4768284",
+      "url": "https://www.investing.com/news/stock-market-news/openai-introduces-genebenchpro-to-test-ai-research-judgment-93CH-4768434",
       "source": "Investing.com News",
-      "publishedAt": 1782831971000,
+      "publishedAt": 1782839231000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgbWF5IGludGVydmVu",
+      "title": "UK may intervene in $110 billion Paramount-Warner Bros Discovery deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uk-leaning-towards-intervening-in-110-billion-paramountwarner-bros-discovery-deal-4767909",
+      "source": "Investing.com News",
+      "publishedAt": 1782839216000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNvIGNvY2FpbmUg",
+      "title": "Mexico cocaine seizures may reflect World Cup demand, experts say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexico-cocaine-seizures-may-reflect-world-cup-demand-experts-say-4768433",
+      "source": "Investing.com News",
+      "publishedAt": 1782839200000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -163,48 +180,243 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-S2V5c2lnaHQsIFdJTiBT",
-      "title": "Keysight, WIN Semiconductors launch GaN MMIC design workflow",
+      "id": "Investing.com News-RUNCIG1heSBkZWxheSBy",
+      "title": "ECB may delay rate decision until September, says Dolenc",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/keysight-win-semiconductors-launch-gan-mmic-design-workflow-93CH-4768282",
+      "url": "https://www.investing.com/news/economy-news/ecb-may-delay-rate-decision-until-september-says-dolenc-93CH-4768431",
       "source": "Investing.com News",
-      "publishedAt": 1782831890000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmlzaGF5IGV4dGVuZHMg",
-      "title": "Vishay extends overcurrent protection portfolio with six new thermistor series",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vishay-extends-overcurrent-protection-portfolio-with-six-new-thermistor-series-93CH-4768281",
-      "source": "Investing.com News",
-      "publishedAt": 1782831886000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG93bmVCYW5rIGFwcG9p",
-      "title": "TowneBank appoints two directors to corporate board",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/townebank-appoints-two-directors-to-corporate-board-93CH-4768280",
-      "source": "Investing.com News",
-      "publishedAt": 1782831885000,
+      "publishedAt": 1782839016000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgTW9uZ29E",
+      "title": "Form 144 MongoDB For: 30 June",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-mongodb-for-30-june-93CH-4768430",
+      "source": "Investing.com News",
+      "publishedAt": 1782838991000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFqb3IgZWdnIHByb2R1",
+      "title": "Major egg producers settle price inflation probe for $3.3 million",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782838693000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RkRBIGxldHMgUGhpbGlw",
+      "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782838360000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration&apos;s AI crackdown opens door for China to close gap",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782838333000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qmx1ZSBPcmlnaW4gcGl2",
+      "title": "Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782837545000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBzZXQg",
+      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782836882000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U21hbGwtY2FwIHN0b2Nr",
+      "title": "Small-cap stocks enjoy their best first half in 35 years. Here&apos;s what&apos;s driving it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782836155000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmlrZSBpcyBzZXQgdG8g",
+      "title": "Nike is set to report earnings after the bell. Here&apos;s what to expect",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782835201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBz",
+      "title": "Supreme Court strikes down limits on political parties&apos; campaign spending, in win for GOP",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/supreme-court-campaign-finance-republican.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782835197000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration expands list of graduate degrees subject to higher borrowing limits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/student-loan-borrowers-subject-to-higher-borrowing-caps-than-expected.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782835164000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3JhbWVyIHNheXMgdGhp",
+      "title": "Cramer says this aerospace stock is significantly undervalued, sees 35% upside",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/cramer-says-this-stock-is-significantly-undervalued-sees-35percent-upside.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782835018000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWVyb1Zpcm9ubWVudCBz",
+      "title": "AeroVironment skyrockets 15% as dronemaker capitalizes on defense spending surge",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782834902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R09QIFJlcC4gVG9tIEtl",
+      "title": "GOP Rep. Tom Kean says depression diagnosis caused months-long absence from Congress",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/tom-kean-depression-congress-absence.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782834590000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG1h",
+      "title": "Trump&apos;s massive defense budget, depleted war machine, spark U.S. state battle for business and jobs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/trump-trillion-dollar-defense-budget-missile-contracts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782833499000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFwYW5lc2UgeWVuIHNp",
+      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782833380000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -238,21 +450,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBzZWxs",
-      "title": "We&apos;re selling some shares of a parabolic mover, more than tripling our money",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/were-selling-some-shares-of-a-parabolic-mover-more-than-tripling-our-money.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782830901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWVkaWNhcmUgd2lsbCBz",
       "title": "Medicare will start covering obesity drugs for the first time. Here&apos;s what patients should know",
       "summary": "",
@@ -265,36 +462,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hpdGUgSG91c2UgQUkg",
-      "title": "White House AI crackdown opens door for China to close gap",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782829673000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBzZXQg",
-      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782829425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -313,21 +480,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWVyb1Zpcm9ubWVudCBz",
-      "title": "AeroVironment skyrockets 21% as dronemaker capitalizes on defense spending surge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782826886000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QnVmZmV0dCBkZWxheXMg",
       "title": "Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
       "summary": "",
@@ -343,42 +495,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U21hbGwtY2FwIHN0b2Nr",
-      "title": "Small-cap stocks enjoy their best first half in 35 years. Here&apos;s what&apos;s driving it",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782824642000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29vZ2xlIENocm9tZWJv",
       "title": "Google Chromebook graft case sees Indonesia&apos;s former education minister jailed for 10 years",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/30/indonesia-jails-former-education-minister-for-10-years-in-google-chromebook-graft-case.html",
       "source": "CNBC Markets",
       "publishedAt": 1782823665000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmFmYWVsIE5hZGFsIHRh",
-      "title": "Rafael Nadal talks tennis prize money, his hotels, and what sports taught him about business",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/rafael-nadal-zel-hotels-business.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782820564000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -418,21 +540,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5mbGF0aW9uIGxpa2Vs",
-      "title": "Inflation likely to stay ‘significantly above target,’ top European central banker warns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/high-inflation-could-linger-despite-iran-war-ending-ecbs-nagel-says.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782809955000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2hvcnQgc2VsbGVycyBr",
       "title": "Short sellers keep betting against Pop Mart — even though it&apos;s been a losing trade",
       "summary": "",
@@ -445,66 +552,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW5lc2UgeWVuIHNp",
-      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782798022000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgZmFjdG9yeSBh",
-      "title": "China factory activity grows faster than expected in June on tech export demand",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782786939000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXVzdHJhbGlhJmFwb3M7",
-      "title": "Australia&apos;s competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/australias-competition-regulator-takes-amazon-to-court-over-alleged-unfair-prime-subscription-contract-terms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782784204000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgc3VwcGxpZXIg",
-      "title": "Apple supplier Luxshare seeks up to $3.1 billion in Hong Kong share sale",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/apple-supplier-luxshare-seeks-3point1-billion-in-hong-kong-share-sale-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782778263000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -540,57 +587,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5kdXN0cnkgbG9iYnlp",
-      "title": "Industry lobbyists push House committee to block a ban on Pentagon defense contractors buying back their own stock",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/29/pentagon-defense-contractor-buyback-ban-lobbying.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782770930000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxpIExpbGx5LCBSZWdl",
-      "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782770181000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29tY2FzdCZhcG9zO3Mg",
       "title": "Comcast&apos;s NBCUniversal spinoff raises hope for more deals. There may not be good options",
       "summary": "",
       "url": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html",
       "source": "CNBC Markets",
       "publishedAt": 1782766656000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3MgaG93",
-      "title": "Here&apos;s how Trump Accounts could affect women&apos;s retirement savings gap",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/29/heres-how-trump-accounts-could-affect-womens-retirement-savings-gap.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782753630000,
       "lang": "zh-CN",
       "topics": [
         "macro"
