@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1782919266001,
-  "crawlUpdatedAt": 1782919266001,
-  "crawlCount": 40,
+  "updatedAt": 1782927018893,
+  "crawlUpdatedAt": 1782927018893,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,42 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TWV0YSBwb3BzIDEwJSBh",
-      "title": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity",
+      "id": "Investing.com News-Rmlud2FyZCBCYW5jb3Jw",
+      "title": "Finward Bancorp director Amy Han acquires $128 in stock",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782919046000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBvdXRz",
-      "title": "Trump says outside funds &apos;run my money&apos; after disclosure shows billions in 2025 revenue",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782918740000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgU1RBTkRF",
-      "title": "Form 144 STANDEX INTERNATIONAL CORP/DE/ For: 1 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-standex-international-corpde-for-1-july-93CH-4770923",
+      "url": "https://www.investing.com/news/insider-trading-news/finward-bancorp-director-amy-han-acquires-128-in-stock-93CH-4771140",
       "source": "Investing.com News",
-      "publishedAt": 1782918549000,
+      "publishedAt": 1782926868000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgTmV3ZWdn",
-      "title": "Form 144 Newegg Commerce For: 1 July",
+      "id": "Investing.com News-Rm9ybSA0IE1vZHVsYXIg",
+      "title": "Form 4 Modular Medical Inc For: 1 July",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-newegg-commerce-for-1-july-93CH-4770922",
+      "url": "https://www.investing.com/news/filings/form-4-modular-medical-inc-for-1-july-93CH-4771139",
       "source": "Investing.com News",
-      "publishedAt": 1782918547000,
+      "publishedAt": 1782926828000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,27 +43,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQmFrZXIg",
-      "title": "Form 144 Baker Hughes Co For: 1 July",
+      "id": "Investing.com News-T2FrdHJlZS1iYWNrZWQg",
+      "title": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-baker-hughes-co-for-1-july-93CH-4770921",
+      "url": "https://www.investing.com/news/stock-market-news/oaktreebacked-itg-jumps-in-nasdaq-debut-signaling-strong-ai-infrastructure-demand-4771136",
       "source": "Investing.com News",
-      "publishedAt": 1782918546000,
+      "publishedAt": 1782926671000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
-      "symbols": [],
+      "symbols": [
+        "NDX"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGlvbnNnYXRlIGNvbnRl",
-      "title": "Lionsgate content momentum boosts outlook, but debt and valuation cap upside",
+      "id": "Investing.com News-SmVmZmVyaWVzIHNlZXMg",
+      "title": "Jefferies sees strong growth in Indian auto sales for June",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lionsgate-content-momentum-boosts-outlook-but-debt-and-valuation-cap-upside-4770918",
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-strong-growth-in-indian-auto-sales-for-june-93CH-4771138",
       "source": "Investing.com News",
-      "publishedAt": 1782918534000,
+      "publishedAt": 1782926617000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +75,47 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RGV1dHNjaGUgQmFuayBt",
-      "title": "Deutsche Bank maps revolution in market plumbing: Tokenized cash and collateral",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBp",
+      "title": "Goldman Sachs initiates FedEx Freight with Buy, sees 23% margin expansion upside",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-maps-revolution-in-market-plumbing-tokenized-cash-and-collateral-4770917",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-initiates-fedex-freight-with-buy-sees-23-margin-expansion-upside-4771137",
       "source": "Investing.com News",
-      "publishedAt": 1782918516000,
+      "publishedAt": 1782926593000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBXYXJzaCBw",
+      "title": "Fed’s Warsh plans to harness better economic data within a year",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-warsh-plans-to-harness-better-economic-data-within-a-year-4771131",
+      "source": "Investing.com News",
+      "publishedAt": 1782926390000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVzbGEgRXVyb3BlYW4g",
+      "title": "Tesla European registrations climb in June",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-european-registrations-climb-in-june-4770431",
+      "source": "Investing.com News",
+      "publishedAt": 1782926356000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +125,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnVsdG9uIEZpbmFuY2lh",
-      "title": "Fulton Financial Corporation stock hits all-time high at 24.44 USD",
+      "id": "Investing.com News-TGVnYWwgJiBHZW5lcmFs",
+      "title": "Legal & General admits 2.9 million shares to trading",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/fulton-financial-corporation-stock-hits-alltime-high-at-2444-usd-93CH-4770916",
+      "url": "https://www.investing.com/news/company-news/legal--general-admits-29-million-shares-to-trading-93CH-4771135",
       "source": "Investing.com News",
-      "publishedAt": 1782918507000,
+      "publishedAt": 1782926193000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +140,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R03igJlzIHNlY29uZC1x",
-      "title": "GM’s second-quarter US auto sales fall 4%",
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/gms-secondquarter-us-auto-sales-fall-4-4770915",
-      "source": "Investing.com News",
-      "publishedAt": 1782918460000,
+      "url": "https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782926159000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,27 +155,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5kaWEgY2VudHJhbCBi",
-      "title": "India central bank chief sees case for lower inflation target in long run",
+      "id": "Investing.com News-Rm9ybSAxNDQgU0VNVEVD",
+      "title": "Form 144 SEMTECH CORP For: 1 July",
       "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/india-central-bank-chief-sees-case-for-lower-inflation-target-in-long-run-4770914",
+      "url": "https://www.investing.com/news/filings/form-144-semtech-corp-for-1-july-93CH-4771134",
       "source": "Investing.com News",
-      "publishedAt": 1782918436000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IEJYUCBJbmMg",
-      "title": "Form 4 BXP Inc For: 1 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-bxp-inc-for-1-july-93CH-4770913",
-      "source": "Investing.com News",
-      "publishedAt": 1782918369000,
+      "publishedAt": 1782926106000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -178,12 +170,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IEJYUCBJbmMg",
-      "title": "Form 4 BXP Inc For: 1 July",
+      "id": "Investing.com News-RkRBIHN0YWZmIHF1ZXN0",
+      "title": "FDA staff question peptides backed by Kennedy ahead of advisory panel review",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-bxp-inc-for-1-july-93CH-4770912",
+      "url": "https://www.investing.com/news/general-news/fda-staff-question-peptides-backed-by-kennedy-ahead-of-advisory-panel-review-4768529",
       "source": "Investing.com News",
-      "publishedAt": 1782918367000,
+      "publishedAt": 1782926002000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBhdXRvIGluZHVz",
+      "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782925809000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiB3b27igJl0IHJl",
+      "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782925489000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3JhbWVyIHNoYXJlcyBu",
+      "title": "Cramer shares next steps for a software stock after a rare bullish analyst call",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/cramer-shares-next-steps-for-a-software-stock-after-a-rare-bullish-call-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782923801000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5mbGF0aW9uIHBlYWtl",
+      "title": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782923353000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration&apos;s limits on student loan forgiveness program are blocked. What to know",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782920737000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -198,7 +265,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782918163000,
+      "publishedAt": 1782920085000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -213,7 +280,37 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
       "source": "CNBC Markets",
-      "publishedAt": 1782918124000,
+      "publishedAt": 1782919823000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBwb3BzIDEwJSBh",
+      "title": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782919741000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBvdXRz",
+      "title": "Trump says outside funds &apos;run my money&apos; after disclosure shows billions in 2025 revenue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1782919625000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -238,21 +335,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLiBhdXRvIGluZHVz",
-      "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782917553000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWljaGFlbCBCdXJyeSBz",
       "title": "Michael Burry says he&apos;s shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
       "summary": "",
@@ -265,21 +347,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782914669000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -366,21 +433,6 @@
       "url": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
       "source": "CNBC Markets",
       "publishedAt": 1782910403000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBleGl0",
-      "title": "We&apos;re exiting a troubled stock after a muted quarter, while considering better options",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/01/were-exiting-a-troubled-stock-after-a-muted-quarter-while-considering-better-options.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782910069000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -510,21 +562,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBDb3Vu",
-      "title": "Trump says Council of Economic Advisers head Pierre Yared is leaving",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/trump-pierre-yared-council-economic-advisers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782859902000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmlrZSByZXN1bHRzIHRv",
       "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
       "summary": "",
@@ -537,36 +574,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RkRBIGxldHMgUGhpbGlw",
-      "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782851045000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJpdmF0ZSBlcXVpdHkg",
-      "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782848159000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -591,21 +598,6 @@
       "url": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
       "source": "CNBC Markets",
       "publishedAt": 1782842401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R09QIFJlcC4gVG9tIEtl",
-      "title": "GOP Rep. Tom Kean says depression diagnosis caused months-long absence from Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/06/30/tom-kean-depression-congress-absence.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782834590000,
       "lang": "zh-CN",
       "topics": [
         "macro"
