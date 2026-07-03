@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783075564234,
-  "crawlUpdatedAt": 1783075564234,
-  "crawlCount": 40,
+  "updatedAt": 1783083671226,
+  "crawlUpdatedAt": 1783083671226,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,149 +13,57 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Q2hyaXN0aW5lIExhZ2Fy",
-      "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+      "id": "Investing.com News-Qm9mQSBsaWZ0cyBTdG94",
+      "title": "BofA lifts Stoxx 600 price target amid hopes for improving Eurozone growth",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-lifts-stoxx-600-price-target-amid-hopes-for-improving-eurozone-growth-4775231",
+      "source": "Investing.com News",
+      "publishedAt": 1783082794000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RlbGxhbnRpcyBJdGFs",
+      "title": "Stellantis Italy production rises 13.7% in first half of 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/stellantis-italy-production-rises-137-in-first-half-of-2026-93CH-4775230",
+      "source": "Investing.com News",
+      "publishedAt": 1783082728000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SHVtYW4gcmlnaHRzIGNh",
+      "title": "Human rights catastrophe unfolding in Sudan’s al-Obeid, says UN’s Turk",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/human-rights-catastrophe-unfolding-in-sudans-alobeid-says-uns-turk-4775127",
+      "source": "Investing.com News",
+      "publishedAt": 1783082548000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIFRlY2ggRG93bmxv",
+      "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant&apos;s AI gadget push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html",
       "source": "CNBC Markets",
-      "publishedAt": 1783074872000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0b3JzIGxvb2sg",
-      "title": "Investors look for Fed clues, earnings signs as tech wobbles",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/investors-look-for-fed-clues-earnings-signs-as-tech-wobbles-4775184",
-      "source": "Investing.com News",
-      "publishedAt": 1783074270000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW5pY29ybiBNaW5lcmFs",
-      "title": "Unicorn Mineral Resources agrees £1.25m loan from chairman",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/unicorn-mineral-resources-agrees-125m-loan-from-chairman-93CH-4775182",
-      "source": "Investing.com News",
-      "publishedAt": 1783073678000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXMgQW1lcmljYSB0dXJu",
-      "title": "As America turns 250, museums and parks fight to preserve the country’s troubled history",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/as-america-turns-250-museums-and-parks-fight-to-preserve-the-countrys-troubled-history-4775181",
-      "source": "Investing.com News",
-      "publishedAt": 1783073549000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbuKAmXMgc2xhaW4g",
-      "title": "Iran’s slain leader Khamenei laid in state in Tehran for week of mass funeral events",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/irans-slain-leader-khamenei-laid-in-state-in-tehran-for-week-of-mass-funeral-events-4775171",
-      "source": "Investing.com News",
-      "publishedAt": 1783073276000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtQXJnZW50",
-      "title": "Analysis-Argentina’s plan for AI-run companies can’t avoid humans",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysisargentinas-plan-for-airun-companies-cant-avoid-humans-4775180",
-      "source": "Investing.com News",
-      "publishedAt": 1783073255000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdG8gdmlzaXQg",
-      "title": "Trump to visit Mount Rushmore to mark U.S. 250th celebrations",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-to-visit-mount-rushmore-to-mark-us-250th-celebrations-4775179",
-      "source": "Investing.com News",
-      "publishedAt": 1783073235000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBzdGFi",
-      "title": "Oil prices stable as US-Iran peace efforts hold",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-up-slightly-ahead-of-long-us-weekend-as-peace-efforts-hold-4774980",
-      "source": "Investing.com News",
-      "publishedAt": 1783073216000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBzdGFi",
-      "title": "Oil prices stable as US-Iran peace efforts hold",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-stable-as-usiran-peace-efforts-hold-4775178",
-      "source": "Investing.com News",
-      "publishedAt": 1783073200000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RlbGxhbnRpcyBkb3du",
-      "title": "Stellantis downgraded to at HSBC over rising recalls",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/stellantis-downgraded-to-at-hsbc-over-rising-recalls-4775177",
-      "source": "Investing.com News",
-      "publishedAt": 1783073168000,
+      "publishedAt": 1783082482000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -165,12 +73,177 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWxpYmFiYSB0byBiYW4g",
-      "title": "Alibaba to ban employees from using Anthropic’s coding tool, source says",
+      "id": "Investing.com News-QmFyY2xheXMgTmFtZXMg",
+      "title": "Barclays Names its Top Warehouse Automation Pick after Sector Selloff",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says-4775035",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-names-its-top-warehouse-automation-pick-after-sector-selloff-93CH-4775229",
       "source": "Investing.com News",
-      "publishedAt": 1783072834000,
+      "publishedAt": 1783082442000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2hhbWVuZWkgbGllcyBp",
+      "title": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/irans-slain-leader-khamenei-laid-in-state-in-tehran-for-week-of-mass-funeral-events-4775171",
+      "source": "Investing.com News",
+      "publishedAt": 1783082191000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3JpdGljYWwgTWV0YWxz",
+      "title": "Critical Metals amends European Lithium acquisition mechanics",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/critical-metals-amends-european-lithium-acquisition-mechanics-93CH-4775228",
+      "source": "Investing.com News",
+      "publishedAt": 1783081970000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2tzdG9uZeKAmXMg",
+      "title": "Blackstone’s QTS terminates Digital Gateway data center project in Virginia",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/blackstones-qts-terminates-digital-gateway-data-center-project-in-virginia-4774574",
+      "source": "Investing.com News",
+      "publishedAt": 1783081826000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV0YWxzIE9uZSBhd2Fy",
+      "title": "Metals One awards shares to directors, grants options",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/metals-one-awards-shares-to-directors-grants-options-93CH-4775226",
+      "source": "Investing.com News",
+      "publishedAt": 1783081591000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmVzZSByZWd1bGF0",
+      "title": "Chinese regulator proposes changes to refinancing rules for listed companies",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/chinese-regulator-proposes-changes-to-refinancing-rules-for-listed-companies-4775225",
+      "source": "Investing.com News",
+      "publishedAt": 1783081468000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJpZmFzdCBGWTI2IHNs",
+      "title": "Trifast FY26 slides: margins rise to 7.8% amid strategic pivot",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/trifast-fy26-slides-margins-rise-to-78-amid-strategic-pivot-93CH-4775224",
+      "source": "Investing.com News",
+      "publishedAt": 1783081325000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yZCBhY2hpZXZlcyBx",
+      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783080501000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXDigJlzIEZyZWVk",
+      "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783080001000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFuaGF0dGFuIGx1eHVy",
+      "title": "Manhattan luxury real estate sales hold firm despite fears of a &apos;Mamdani effect&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783080001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYW4gRXhwcmVz",
+      "title": "American Express and Chase move luxury lounge wars beyond the airport",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783080001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hyaXN0aW5lIExhZ2Fy",
+      "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783074872000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -198,21 +271,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-S3VhaXNob3Ugc2hhcmVz",
-      "title": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783067205000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXh0cmVtZSBoZWF0IHdh",
       "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
       "summary": "",
@@ -234,6 +292,21 @@
       "url": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1783065574000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2FmZSBoYXZlbnMgYXJl",
+      "title": "Safe havens aren&apos;t behaving like they used to. Here&apos;s what&apos;s changed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/03/safe-havens-arent-behaving-like-they-used-to-heres-whats-changed.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783060948000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -285,21 +358,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-NSB0YWtlYXdheXMgZnJv",
-      "title": "5 takeaways from President Donald Trump&apos;s interview with CNBC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783034458000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -410,6 +468,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-QW1hem9uIGhhcyBkZXBs",
+      "title": "Amazon has deployed enough satellites to launch Leo service later this year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783016915000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-Sm9iIHNlZWtlcnMgZ2l2",
       "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
       "summary": "",
@@ -456,36 +529,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UHJlbWllciBMYWNyb3Nz",
-      "title": "Premier Lacrosse League plans to bring in team owners by 2028 &apos;or soon thereafter,&apos; co-founder says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/premier-lacrosse-league-team-ownership.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783013272000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91c2UgbGF3bWFrZXJz",
-      "title": "House lawmakers approved a bipartisan bill to protect older adults from financial fraud. Here&apos;s what to know",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/lawmakers-approved-bipartisan-bill-to-battle-fraud-among-older-adults.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783011560000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VS5TLiBqb2IgY3JlYXRp",
       "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
       "summary": "",
@@ -495,21 +538,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGlnaC1lbmQgY2FtcGlu",
-      "title": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/autocamp-high-end-camping-summer-travel-capital-raise.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783010067000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
@@ -531,45 +559,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJlYXN1cnkgc2F5cyBU",
-      "title": "Treasury says Trump Account investment options will include State Street, BlackRock and Vanguard ETFs",
+      "id": "CNBC Markets-SGlnaC1lbmQgY2FtcGlu",
+      "title": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/trump-account-investment-picks-are-state-street-blackrock-vanguard-etfs.html",
+      "url": "https://www.cnbc.com/2026/07/02/autocamp-high-end-camping-summer-travel-capital-raise.html",
       "source": "CNBC Markets",
-      "publishedAt": 1783008204000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCBRMiBzYWxlcyBk",
-      "title": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783005251000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXV0b25vbW91cyBkcm9u",
-      "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783005191000,
+      "publishedAt": 1783010067000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -600,21 +595,6 @@
       "url": "https://www.cnbc.com/2026/07/02/led-by-buc-ees-dolly-parton-americas-gas-stations-go-mega-size-.html",
       "source": "CNBC Markets",
       "publishedAt": 1783002601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGNvbW1p",
-      "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1782997202000,
       "lang": "zh-CN",
       "topics": [
         "macro"
