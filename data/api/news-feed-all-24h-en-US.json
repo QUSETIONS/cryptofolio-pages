@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783238832014,
-  "crawlUpdatedAt": 1783238832014,
-  "crawlCount": 14,
+  "updatedAt": 1783247997226,
+  "crawlUpdatedAt": 1783247997226,
+  "crawlCount": 12,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Rm94Y29ubiBzZWNvbmQt",
-      "title": "Foxconn second-quarter revenue jumps 40% y/y",
+      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
+      "title": "US Supreme Court to hear gun, LGBT, voting rights cases in next term",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/foxconn-secondquarter-revenue-jumps-40-yy-4775408",
+      "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-to-hear-gun-lgbt-voting-rights-cases-in-next-term-4775416",
       "source": "Investing.com News",
-      "publishedAt": 1783237705000,
+      "publishedAt": 1783246732000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhyZWUgc29ucyBvZiBJ",
+      "title": "Three sons of Iran’s slain leader Khamenei appear at funeral, not his successor",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
+      "source": "Investing.com News",
+      "publishedAt": 1783246711000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,104 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGhyZWUgc29ucyBvZiBJ",
-      "title": "Three sons of Iran’s slain leader Khamenei appear at funeral, not his successor",
+      "id": "Investing.com News-Qml0Y29pbiB0cmFkZXMg",
+      "title": "Bitcoin trades above $62K as U.S. crypto bill gains fresh traction",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415",
       "source": "Investing.com News",
-      "publishedAt": 1783237347000,
+      "publishedAt": 1783245119000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BFQysgc2V0IHRvIGFw",
+      "title": "OPEC+ set to approve another oil output increase, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/opec-set-to-approve-another-oil-output-increase-sources-say-4775414",
+      "source": "Investing.com News",
+      "publishedAt": 1783244904000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm94Y29ubiBzZWNvbmQt",
+      "title": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/foxconn-secondquarter-revenue-jumps-40-yy-4775408",
+      "source": "Investing.com News",
+      "publishedAt": 1783244186000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BFQysgcmVwb3J0ZWRs",
+      "title": "OPEC+ reportedly expected to approve another oil output increase for August",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/opec-expected-to-approve-another-oil-output-increase-for-august-4775413",
+      "source": "Investing.com News",
+      "publishedAt": 1783243787000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXQgbGVhc3QgZWlnaHQg",
+      "title": "At least eight shot, including four children, in New York, ABC News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/at-least-8-shot-including-4-children-in-coney-island-abc-news-reports-4775411",
+      "source": "Investing.com News",
+      "publishedAt": 1783242728000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhyZWUgc29ucyBvZiBL",
+      "title": "Three sons of Khamenei attend funeral as successor remains out of public view",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/three-sons-of-khamenei-attend-funeral-as-successor-remains-out-of-public-view-4775412",
+      "source": "Investing.com News",
+      "publishedAt": 1783240526000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWJlciBwYXVzZXMgbW9z",
+      "title": "Uber pauses most Europe Eats expansion as Delivery Hero pursuit continues",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/uber-pauses-most-europe-eats-expansion-as-delivery-hero-pursuit-continues-4775409",
+      "source": "Investing.com News",
+      "publishedAt": 1783238135000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -49,113 +156,6 @@
       "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
       "source": "Investing.com News",
       "publishedAt": 1783236632000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWlsbGlvbnMgbW91cm4g",
-      "title": "Millions mourn Khamenei as Trump says Iran talks to resume soon",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/millions-mourn-khamenei-as-trump-says-iran-talks-to-resume-soon-4775407",
-      "source": "Investing.com News",
-      "publishedAt": 1783236255000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiB0ZXN0cyAk",
-      "title": "Bitcoin tests $63,100-$63,600 resistance: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-in-bear-flag-near-annual-low-live-levels-93CH-4764319",
-      "source": "Investing.com News",
-      "publishedAt": 1783234941000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RVYgYmF0dGVyeSBkdXJh",
-      "title": "EV battery durability exceeds expectations as replacement fears persist",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ev-battery-durability-exceeds-expectations-as-replacement-fears-persist-4775404",
-      "source": "Investing.com News",
-      "publishedAt": 1783232997000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgbWFya3MgQW1l",
-      "title": "Trump marks America’s 250th birthday with National Mall address",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-marks-americas-250th-birthday-with-national-mall-address-4775402",
-      "source": "Investing.com News",
-      "publishedAt": 1783230004000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFpd2FuIG1pbGl0YXJ5",
-      "title": "Taiwan military resumes ’anti-communist’ classes for graduates, citing Chinese threat",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/taiwan-military-resumes-anticommunist-classes-for-graduates-citing-chinese-threat-4775401",
-      "source": "Investing.com News",
-      "publishedAt": 1783229428000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWJlciBwYXVzZXMgRXVy",
-      "title": "Uber pauses Europe food delivery expansion as it pursues Delivery Hero deal, FT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/uber-pauses-europe-food-delivery-expansion-as-it-pursues-delivery-hero-deal-ft-reports-4775399",
-      "source": "Investing.com News",
-      "publishedAt": 1783228725000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hyaXN0aWFuIE5HTyB3",
-      "title": "Christian NGO welcomes release of pastor held in southern China",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/christian-ngo-welcomes-release-of-pastor-held-in-southern-china-4775398",
-      "source": "Investing.com News",
-      "publishedAt": 1783228709000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -192,36 +192,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUsgYW5kIEZyYW5jZSBh",
-      "title": "UK and France agree with Oman to ensure safety of its territorial waters",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783159087000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJvbSBNYWNyb24gdG8g",
-      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783157599000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
