@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783254097098,
-  "crawlUpdatedAt": 1783254097098,
-  "crawlCount": 12,
+  "updatedAt": 1783261098163,
+  "crawlUpdatedAt": 1783261098163,
+  "crawlCount": 16,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,128 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
+      "title": "Here are the 3 big things we&apos;re watching in the stock market this week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/05/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783260061000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJpZGVzIGFyZSBicmlu",
+      "title": "Brides are bringing back the one-night-only bachelorette party: &apos;You just come, have one perfect night and leave&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/05/brides-are-bringing-back-the-one-night-only-bachelorette-party.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783260001000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgQWNjb3VudHMg",
+      "title": "Trump Accounts for kids launched July 4: What parents need to know",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783257262000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW52ZXN0b3JzIGxvb2sg",
+      "title": "Investors look for Fed clues, earnings signs as tech wobbles",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/investors-look-for-fed-clues-earnings-signs-as-tech-wobbles-4775428",
+      "source": "Investing.com News",
+      "publishedAt": 1783256783000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FyZ28gdmVzc2VsIGlu",
+      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783256265000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
+      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.26%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-026-4775427",
+      "source": "Investing.com News",
+      "publishedAt": 1783255503000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBhcmUgdGhlIG1v",
+      "title": "What are the most powerful forces shaping wealth creation today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-are-the-most-powerful-forces-shaping-wealth-creation-today-4775426",
+      "source": "Investing.com News",
+      "publishedAt": 1783255169000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
+      "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783254601000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VGhyZWUgc29ucyBvZiBJ",
       "title": "Three sons of Iran’s slain leader Khamenei appear at funeral, not his successor",
@@ -120,51 +242,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm94Y29ubiBzZWNvbmQt",
-      "title": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/foxconn-secondquarter-revenue-jumps-40-yy-4775408",
-      "source": "Investing.com News",
-      "publishedAt": 1783244186000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T1BFQysgcmVwb3J0ZWRs",
-      "title": "OPEC+ reportedly expected to approve another oil output increase for August",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/opec-expected-to-approve-another-oil-output-increase-for-august-4775413",
-      "source": "Investing.com News",
-      "publishedAt": 1783243787000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXQgbGVhc3QgZWlnaHQg",
-      "title": "At least eight shot, including four children, in New York, ABC News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/at-least-8-shot-including-4-children-in-coney-island-abc-news-reports-4775411",
-      "source": "Investing.com News",
-      "publishedAt": 1783242728000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SeKAmXZlIHdvcmtlZCB3",
       "title": "I’ve worked with over 5,000 kids: I swear by this No. 1 parenting rule—it’s ‘surprisingly simple’",
       "summary": "",
@@ -177,21 +254,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIFdvcmxkIEN1cCBz",
-      "title": "The World Cup sends prediction market volumes soaring to record highs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783169644000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
