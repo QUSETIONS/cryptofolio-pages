@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783261098309,
-  "crawlUpdatedAt": 1783261098309,
-  "crawlCount": 16,
+  "updatedAt": 1783266537805,
+  "crawlUpdatedAt": 1783266537805,
+  "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-V29ybGQgQ3VwIGZhbnMg",
+      "title": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783262558000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BFQysgYWRkcyAxODgs",
+      "title": "OPEC+ adds 188,000 bpd to August quota amid cooling oil market",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/opec-adds-188000-bpd-to-august-quota-as-gulf-flows-resume-4775453",
+      "source": "Investing.com News",
+      "publishedAt": 1783262220000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
       "title": "Here are the 3 big things we&apos;re watching in the stock market this week",
@@ -34,6 +64,21 @@
       "url": "https://www.cnbc.com/2026/07/05/brides-are-bringing-back-the-one-night-only-bachelorette-party.html",
       "source": "CNBC Markets",
       "publishedAt": 1783260001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBhcmUgdGhlIGlt",
+      "title": "What are the implications of a K-shaped economy?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-are-the-implications-of-a-kshaped-economy-4775429",
+      "source": "Investing.com News",
+      "publishedAt": 1783259876000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -207,38 +252,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
-      "title": "US Supreme Court to hear gun, LGBT, voting rights cases in next term",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-to-hear-gun-lgbt-voting-rights-cases-in-next-term-4775416",
-      "source": "Investing.com News",
-      "publishedAt": 1783248503000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiB0cmFkZXMg",
-      "title": "Bitcoin trades above $62K as U.S. crypto bill gains fresh traction",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415",
-      "source": "Investing.com News",
-      "publishedAt": 1783245119000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
