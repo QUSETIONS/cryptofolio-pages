@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783276744342,
-  "crawlUpdatedAt": 1783276744342,
-  "crawlCount": 16,
+  "updatedAt": 1783282747478,
+  "crawlUpdatedAt": 1783282747478,
+  "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VHJ1bXAgdG8gbWVldCBs",
-      "title": "Trump to meet leaders of Ukraine, Syria alongside NATO summit",
+      "id": "Investing.com News-U29jY2VyLUZJRkEgbWFr",
+      "title": "Soccer-FIFA makes unprecedented U-turn to clear Balogun for US v Belgium World Cup clash",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/trump-to-meet-leaders-of-ukraine-syria-alongside-nato-summit-4775486",
+      "url": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
       "source": "Investing.com News",
-      "publishedAt": 1783274784000,
+      "publishedAt": 1783281269000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljaGlnYW4gRGVtb2Ny",
+      "title": "Michigan Democrat drops out of US Senate primary",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/michigan-democrat-drops-out-of-us-senate-primary-4775492",
+      "source": "Investing.com News",
+      "publishedAt": 1783280545000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhhbmtzIEZJ",
+      "title": "Trump thanks FIFA after Folarin Balogun’s World Cup red card suspension is reversed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783280148000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9yZSB0aGFuIDEwMCBk",
+      "title": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/more-than-100-detained-as-leftist-groups-hold-antinato-protests-in-turkey-4775491",
+      "source": "Investing.com News",
+      "publishedAt": 1783279831000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzdCBzaGFyZXMg",
+      "title": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/analyst-shares-5-takes-on-the-neocloud-vs-hyperscaler-opportunities-for-meta-4775490",
+      "source": "Investing.com News",
+      "publishedAt": 1783279205000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +88,59 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U29jY2VyLVVTIHN0cmlr",
-      "title": "Soccer-US striker Balogun available for Belgium clash despite red card",
+      "id": "Investing.com News-Qml0Y29pbiBzdGFsbHMg",
+      "title": "Bitcoin stalls at $63,300 resistance as momentum fades: Live levels",
       "summary": "",
-      "url": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-in-bear-flag-near-annual-low-live-levels-93CH-4764319",
       "source": "Investing.com News",
-      "publishedAt": 1783274444000,
+      "publishedAt": 1783278118000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U1RBUksgSW50cm9kdWNl",
+      "title": "STARK Introduces an Integrated Venture Builder Ecosystem Across AI, Privacy, Cybersecurity and Wearables",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/stark-introduces-an-integrated-venture-builder-ecosystem-across-ai-privacy-cybersecurity-and-wearables-4775489",
+      "source": "Investing.com News",
+      "publishedAt": 1783278082000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hpdGUgc3VwcmVtYWNp",
+      "title": "White supremacists’ July 4 march counts as free speech in ’messy democracy,’ Interior Secretary Burgum says",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/white-supremacists-july-4-march-counts-as-free-speech-in-messy-democracy-interior-secretary-burgum-says-4775487",
+      "source": "Investing.com News",
+      "publishedAt": 1783276589000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgdG8gbWVldCBs",
+      "title": "Trump to meet leaders of Ukraine, Syria alongside NATO summit",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/trump-to-meet-leaders-of-ukraine-syria-alongside-nato-summit-4775486",
+      "source": "Investing.com News",
+      "publishedAt": 1783274784000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,81 +180,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Ug",
-      "title": "Israeli strike kills two people in Gaza, medics say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-two-people-in-gaza-medics-say-4775482",
-      "source": "Investing.com News",
-      "publishedAt": 1783270449000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBhcmUgdGhlIGtl",
-      "title": "What are the key factors behind the slowdown in tech hiring?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/what-are-the-key-factors-behind-the-slowdown-in-tech-hiring-4775481",
-      "source": "Investing.com News",
-      "publishedAt": 1783269887000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-ZWFzeUpldCBhZ3JlZXMg",
-      "title": "easyJet agrees in principle on Castlelake’s sweetened £6.90 per share bid",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/easyjet-agrees-in-principle-on-castlelakes-sweetened-690-per-share-bid-4775480",
-      "source": "Investing.com News",
-      "publishedAt": 1783269413000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhyZWUgc29ucyBvZiBJ",
-      "title": "Three sons of Iran’s slain leader Khamenei appear at funeral, not his successor",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
-      "source": "Investing.com News",
-      "publishedAt": 1783269392000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWJlciBwYXVzZXMgRXVy",
-      "title": "Uber pauses Europe food delivery expansion as it pursues Delivery Hero deal, FT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/uber-pauses-europe-food-delivery-expansion-as-it-pursues-delivery-hero-deal-ft-reports-4775399",
-      "source": "Investing.com News",
-      "publishedAt": 1783266865000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V29ybGQgQ3VwIGZhbnMg",
       "title": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it",
       "summary": "",
@@ -160,21 +192,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T1BFQysgYWRkcyAxODgs",
-      "title": "OPEC+ adds 188,000 bpd to August quota amid cooling oil market",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/opec-adds-188000-bpd-to-august-quota-as-gulf-flows-resume-4775453",
-      "source": "Investing.com News",
-      "publishedAt": 1783262220000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
