@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1783529124001,
-  "crawlUpdatedAt": 1783529124001,
+  "updatedAt": 1783535001183,
+  "crawlUpdatedAt": 1783535001183,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgbG9zZXMgbGF0",
-      "title": "Trump loses latest appeals court bid to restore his name to Kennedy Center",
+      "id": "CNBC Markets-RmVkIG9mZmljaWFscyB3",
+      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/trump-kennedy-center-name-appeal-court-denied.html",
+      "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1783528129000,
+      "publishedAt": 1783534787000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxpZ25tZW50IEhlYWx0",
+      "title": "Alignment Healthcare stock tumbles on whistleblower lawsuit",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alignment-healthcare-stock-tumbles-on-whistleblower-lawsuit-93CH-4782184",
+      "source": "Investing.com News",
+      "publishedAt": 1783534706000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,74 +45,201 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IE5ld2VnZyBD",
-      "title": "Form 4 Newegg Commerce Inc For: 8 July",
+      "id": "Investing.com News-RmVkIG1pbnV0ZXMgc2hv",
+      "title": "Fed minutes show high uncertainty and debate over monetary policy outlook",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-newegg-commerce-inc-for-8-july-93CH-4782093",
+      "url": "https://www.investing.com/news/economy-news/fed-minutes-show-high-uncertainty-and-debate-over-monetary-policy-outlook-4782167",
       "source": "Investing.com News",
-      "publishedAt": 1783528028000,
+      "publishedAt": 1783534548000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXZvbHYgVGVjaG5vbG9n",
-      "title": "Evolv Technologies stock hits 52-week low at 0.01 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/evolv-technologies-stock-hits-52week-low-at-001-usd-93CH-4782092",
-      "source": "Investing.com News",
-      "publishedAt": 1783527974000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgdW5leHBlY3Rl",
-      "title": "Trump unexpectedly switches back to old Air Force One, sidelining Qatari jet",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/trump-says-he-will-use-old-air-force-one-to-travel-to-uk-with-new-plane-going-there-too-4781975",
-      "source": "Investing.com News",
-      "publishedAt": 1783527940000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtSG93IEly",
-      "title": "Analysis-How Iran’s ’golden weapon’ of Hormuz became a bigger priority than its long-disputed nuclear programme",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/analysishow-irans-golden-weapon-of-hormuz-became-a-bigger-priority-than-its-longdisputed-nuclear-programme-4782091",
-      "source": "Investing.com News",
-      "publishedAt": 1783527921000,
-      "lang": "en-US",
-      "topics": [
+        "rates",
         "macro"
       ],
       "symbols": [
-        "XAU"
+        "FED"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgc2xp",
-      "title": "Wall Street slips, Dow sheds over 1% as geopolitical risk premium resurges",
+      "id": "Investing.com News-RmVkIHBvbGljeW1ha2Vy",
+      "title": "Fed policymakers saw inflation concerns mounting at June meeting, minutes show",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-focus-on-iran-tensions-fed-meeting-mins-4780613",
+      "url": "https://www.investing.com/news/economy-news/fed-policymakers-saw-inflation-concerns-mounting-at-june-meeting-minutes-show-4782177",
       "source": "Investing.com News",
-      "publishedAt": 1783527907000,
+      "publishedAt": 1783534440000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmF0YWwgSUNFIHNob290",
+      "title": "Fatal ICE shooting in Houston sparks demands for transparency, independent investigation",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/fatal-ice-shooting-in-houston-sparks-demands-for-transparency-independent-investigation-4782148",
+      "source": "Investing.com News",
+      "publishedAt": 1783534415000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1NYWpvciBB",
+      "title": "Factbox-Major AI offerings at a glance",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/factboxmajor-ai-models-at-a-glance-4781880",
+      "source": "Investing.com News",
+      "publishedAt": 1783534389000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SnVkZ2Ugc2F5cyBFLiBK",
+      "title": "Judge says E. Jean Carroll can collect $5 million damages award from Trump",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-opposes-letting-e-jean-carroll-collect5-million-award-cites-supreme-court-bid-4781810",
+      "source": "Investing.com News",
+      "publishedAt": 1783534372000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3dpc3Mgb2ZmaWNpYWwg",
+      "title": "Swiss official sees good chance 15% US tariff rate maintained",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/swiss-official-sees-good-chance-15-us-tariff-rate-maintained-4782182",
+      "source": "Investing.com News",
+      "publishedAt": 1783534357000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29tZSBGZWQgb2ZmaWNp",
+      "title": "Some Fed officials made case for rate hike amid inflation concerns, minutes show",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/some-fed-officials-made-case-for-rate-hike-amid-inflation-concerns-minutes-show-4782181",
+      "source": "Investing.com News",
+      "publishedAt": 1783534228000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFsbyBBbHRvIE5ldHdv",
+      "title": "Palo Alto Networks, Dell among market cap stock movers on Wednesday",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/palo-alto-networks-dell-among-market-cap-stock-movers-on-wednesday-93CH-4782176",
+      "source": "Investing.com News",
+      "publishedAt": 1783533985000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFdvcnRoaW5n",
+      "title": "Form 4 Worthington Industries Inc For: 8 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-worthington-industries-inc-for-8-july-93CH-4782175",
+      "source": "Investing.com News",
+      "publishedAt": 1783533968000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2Ugb3JkZXJzIEUu",
+      "title": "Judge orders E. Jean Carroll be paid $5M in damages from Trump verdict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783533501000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
+      "title": "Strait of Hormuz traffic won&apos;t return to normal until 2027 after latest setback, Kalshi traders predict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783532724000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVsYXlpbmcgU29jaWFs",
+      "title": "Delaying Social Security reform raises risks for bond markets and the economy, research finds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/08/social-security-trust-fund-depletion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783532632000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWNDb25uZWxsIGhlYWx0",
+      "title": "McConnell health update demanded by Gov. Beshear as Senate vacancy questions grow",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783532545000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -105,12 +249,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5hbHlzaXMtVW5pQ3Jl",
-      "title": "Analysis-UniCredit closes in on Commerzbank as battle enters endgame",
+      "id": "CNBC Markets-T3BlbkFJIHRvIHB1Ymxp",
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysisunicredit-closes-in-on-commerzbank-as-battle-enters-endgame-4782090",
-      "source": "Investing.com News",
-      "publishedAt": 1783527880000,
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783531718000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -120,12 +264,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSAxNDQgQ0FTRVlT",
-      "title": "Form 144 CASEYS GENERAL STORES INC For: 8 July",
+      "id": "CNBC Markets-VGhlIFN0cmVldCBpcyBk",
+      "title": "The Street is divided over Meta&apos;s latest gamble. Here&apos;s where we land",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-caseys-general-stores-inc-for-8-july-93CH-4782089",
-      "source": "Investing.com News",
-      "publishedAt": 1783527847000,
+      "url": "https://www.cnbc.com/2026/07/08/the-street-is-divided-over-metas-latest-gamble-heres-where-we-land.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783530424000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -135,12 +279,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2l0aSBOYW1lcyBUb3Ag",
-      "title": "Citi Names Top Life Science Tools & Diagnostics Stocks for Second Half",
+      "id": "CNBC Markets-QXBwbGUgY29tbWl0cyAk",
+      "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/citi-names-top-life-science-tools--diagnostics-stocks-for-second-half-93CH-4782088",
-      "source": "Investing.com News",
-      "publishedAt": 1783527755000,
+      "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783530096000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,12 +294,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TEFNREEgUTEgMjAyNiBz",
-      "title": "LAMDA Q1 2026 slides: record malls offset Ellinikon costs",
+      "id": "CNBC Markets-VHJ1bXAgZG93bnBsYXlz",
+      "title": "Trump downplays Iran&apos;s nuclear threat as ceasefire collapses",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/lamda-q1-2026-slides-record-malls-offset-ellinikon-costs-93CH-4782087",
-      "source": "Investing.com News",
-      "publishedAt": 1783527717000,
+      "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783529567000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Uml2aWFuIHRhaWxzcGlu",
+      "title": "Rivian tailspin hasn&apos;t shaken one trader&apos;s resolve",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/08/rivian-tailspin-hasnt-shaken-one-traders-resolve.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783529398000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -165,12 +324,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2FhYiBkcmF3cyBHZXJt",
-      "title": "Saab draws German interest for fighter jet collaboration",
+      "id": "CNBC Markets-VHJ1bXAgbG9zZXMgbGF0",
+      "title": "Trump loses latest appeals court bid to restore his name to Kennedy Center",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/saab-draws-german-interest-for-fighter-jet-collaboration-93CH-4782086",
-      "source": "Investing.com News",
-      "publishedAt": 1783527703000,
+      "url": "https://www.cnbc.com/2026/07/08/trump-kennedy-center-name-appeal-court-denied.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783528129000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -192,21 +351,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJcmFu",
-      "title": "Trump says Iran ceasefire is &apos;over,&apos; U.S. will &apos;hit them hard tonight&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783527181000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -255,36 +399,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgb3Bwb3NlcyBD",
-      "title": "Trump opposes Carroll getting $5 million damages verdict, cites last-ditch Supreme Court bid",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783525684000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBleGl0",
-      "title": "We&apos;re exiting our position in an AI chipmaker to lock in big gains",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/were-exiting-our-position-in-an-ai-chipmaker-to-lock-in-big-gains.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783525570000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV0ZmxpeCwgRGlzbmV5",
       "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
       "summary": "",
@@ -297,22 +411,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVsYXlpbmcgU29jaWFs",
-      "title": "Delaying Social Security reform raises risks for bond markets and the economy, research finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/social-security-trust-fund-depletion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783523482000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -331,21 +429,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-S2VudHVja3kgR292LiBC",
-      "title": "Kentucky Gov. Beshear presses McConnell to provide health update as speculation grows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783522334000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIG1lZXRpbmcgbWlu",
       "title": "Fed meeting minutes to show &apos;family fight&apos; over rates. The squabble could drag on for a while",
       "summary": "",
@@ -359,21 +442,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz traffic won&apos;t return to normal until 2027 after latest setback, Kalshi traders predict",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783519496000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -423,21 +491,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJIHRvIHB1Ymxp",
-      "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783515412000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2Vla2x5IG1vcnRnYWdl",
       "title": "Weekly mortgage demand drops as rates remain stuck in a narrow range",
       "summary": "",
@@ -459,36 +512,6 @@
       "url": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html",
       "source": "CNBC Markets",
       "publishedAt": 1783508327000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgY29tbWl0cyAk",
-      "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783506975000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIHNlY3VyZXMg",
-      "title": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783502930000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -594,21 +617,6 @@
       "url": "https://www.cnbc.com/2026/07/07/mitch-mcconnell-health-senate-gop.html",
       "source": "CNBC Markets",
       "publishedAt": 1783454221000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBlbnRlcnMgQUkg",
-      "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783447201000,
       "lang": "en-US",
       "topics": [
         "macro"
