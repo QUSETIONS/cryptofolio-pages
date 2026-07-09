@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1783634637952,
-  "crawlUpdatedAt": 1783634637952,
+  "updatedAt": 1783640852878,
+  "crawlUpdatedAt": 1783640852878,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Rm9ybSA0IEltbXVub21l",
-      "title": "Form 4 Immunome Inc For: 9 July",
+      "id": "CNBC Markets-T3BlbkFJIGV4ZWMgRmlk",
+      "title": "OpenAI exec Fidji Simo says she&apos;s stepping down due to chronic illness, will transition to advisor",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-immunomeinc-for-9-july-93CH-4785094",
-      "source": "Investing.com News",
-      "publishedAt": 1783633560000,
+      "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783640293000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIE5BVE8mYXBv",
+      "title": "Inside NATO&apos;s extraordinary 48 hours that revealed Trump&apos;s grip on global diplomacy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783638052000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +43,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnVib1RWIG5hbWVzIERp",
-      "title": "FuboTV names Disney’s Bowen CEO, removes veteran Gandler",
+      "id": "CNBC Markets-TmV3IEZlZCB0YXNrIGZv",
+      "title": "New Fed task force members share Chairman Kevin Warsh&apos;s embrace of AI",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fubotv-names-disneys-bowen-ceo-removes-veteran-gandler-4785084",
+      "url": "https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783638010000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSG91c2UgdG8gdm90",
+      "title": "US House to vote on bill to make daylight saving time permanent",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-house-to-vote-on-bill-to-make-daylight-saving-time-permanent-4785146",
       "source": "Investing.com News",
-      "publishedAt": 1783633373000,
+      "publishedAt": 1783637310000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +75,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW1tdW5vbWUgQ0JPIEhv",
-      "title": "Immunome CBO Horn Kinney sells $27,300 in stock",
+      "id": "CNBC Markets-V2hlcmUgSmltIENyYW1l",
+      "title": "Where Jim Cramer stands on SK Hynix&apos;s massive offering",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/immunome-cbo-horn-kinney-sells-27300-in-stock-93CH-4785093",
-      "source": "Investing.com News",
-      "publishedAt": 1783633372000,
+      "url": "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783637221000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +90,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW4gSG91c3RvbuKAmXMg",
-      "title": "In Houston’s ’Little Mexico,’ an ICE shooting leaves scars",
+      "id": "Investing.com News-TmV1cm9jcmluZSBCaW9z",
+      "title": "Neurocrine Biosciences chief regulatory officer sells $2.6m stock",
       "summary": "",
-      "url": "https://www.investing.com/news/politics-news/in-houstons-little-mexico-an-ice-shooting-leaves-scars-4785092",
+      "url": "https://www.investing.com/news/insider-trading-news/neurocrine-biosciences-chief-regulatory-officer-sells-26m-stock-93CH-4785144",
       "source": "Investing.com News",
-      "publishedAt": 1783633353000,
+      "publishedAt": 1783637157000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,27 +105,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW1hem9u4oCZcyBBV1Mg",
-      "title": "Amazon’s AWS releases Loom for AWS platform for secure AI agent deployment",
+      "id": "Investing.com News-U0sgSHluaXggcmFpc2Vz",
+      "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/amazons-aws-releases-loom-for-aws-platform-for-secure-ai-agent-deployment-93CH-4785091",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-4782931",
       "source": "Investing.com News",
-      "publishedAt": 1783633317000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmlndXJlIHByaWNlcyAk",
-      "title": "Figure prices $600 million senior notes offering at 8.5%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/figure-prices-600-million-senior-notes-offering-at-85-93CH-4785090",
-      "source": "Investing.com News",
-      "publishedAt": 1783633251000,
+      "publishedAt": 1783636941000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,12 +120,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q291cnQgYXBwcm92ZXMg",
-      "title": "Court approves New Era Energy settlement for $1 million",
+      "id": "Investing.com News-Rm9ybSAxNDQgQXJjdXMg",
+      "title": "Form 144 Arcus Biosciences For: 9 July",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/court-approves-new-era-energy-settlement-for-1-million-93CH-4785089",
+      "url": "https://www.investing.com/news/filings/form-144-arcus-biosciences-for-9-july-93CH-4785142",
       "source": "Investing.com News",
-      "publishedAt": 1783633245000,
+      "publishedAt": 1783636746000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,28 +135,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIENs",
-      "title": "Form DEF 14A Clockwise U.S. Core Equity ETF For: 9 July",
+      "id": "Investing.com News-Rm9ybSA0IEV2ZXJDb21t",
+      "title": "Form 4 EverCommerce Inc For: 9 July",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-clockwise-us-core-equity-etf-for-9-july-93CH-4785088",
+      "url": "https://www.investing.com/news/filings/form-4-evercommerce-inc-for-9-july-93CH-4785141",
       "source": "Investing.com News",
-      "publishedAt": 1783633147000,
-      "lang": "en-US",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhbiBtYW4gcGxl",
-      "title": "Russian man pleads not guilty in US cyber espionage case",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/russian-man-pleads-not-guilty-in-us-cyber-espionage-case-4785087",
-      "source": "Investing.com News",
-      "publishedAt": 1783633049000,
+      "publishedAt": 1783636630000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -149,12 +150,72 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhjbHVzaXZlLUthbHNo",
-      "title": "Exclusive-Kalshi in talks with regulators to expand never-expiring derivatives to new areas",
+      "id": "Investing.com News-VHdvIEhhbmRzIGNvbXBs",
+      "title": "Two Hands completes CSE delisting, seeks name change to Quantum X",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivekalshi-in-talks-with-regulators-to-expand-neverexpiring-derivatives-to-new-areas-4783252",
+      "url": "https://www.investing.com/news/company-news/two-hands-completes-cse-delisting-seeks-name-change-to-quantum-x-93CH-4785139",
       "source": "Investing.com News",
-      "publishedAt": 1783633048000,
+      "publishedAt": 1783636604000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXZlckNvbW1lcmNlIENF",
+      "title": "EverCommerce CEO Eric Remer sells $199,734 in EVCM stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/evercommerce-ceo-eric-remer-sells-199734-in-evcm-stock-93CH-4785138",
+      "source": "Investing.com News",
+      "publishedAt": 1783636437000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFNhbXNhcmEg",
+      "title": "Form 4 Samsara Inc For: 9 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-samsara-inc-for-9-july-93CH-4785137",
+      "source": "Investing.com News",
+      "publishedAt": 1783636287000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29mdHdhcmUgcHJvdmlk",
+      "title": "Software provider CCC Intelligent Solutions weighs sale, Reuters reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/software-provider-ccc-intelligent-solutions-weighs-sale-reuters-reports-4785135",
+      "source": "Investing.com News",
+      "publishedAt": 1783636189000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2Ftc2FyYSBDRU8gU2Fu",
+      "title": "Samsara CEO Sanjit Biswas sells $9.67m of IoT stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-967m-of-iot-stock-93CH-4785134",
+      "source": "Investing.com News",
+      "publishedAt": 1783636082000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -170,21 +231,6 @@
       "url": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1783630537000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIE5BVE8mYXBv",
-      "title": "Inside NATO&apos;s extraordinary 48 hours that revealed Trump&apos;s grip on global diplomacy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783630098000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -460,21 +506,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3MgaG93",
-      "title": "Here&apos;s how Trump Account assets may affect your college aid eligibility",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/09/trump-accounts-college-financial-aid.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783613066000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG93IGFsbCA1MCBVLlMu",
       "title": "How all 50 U.S. states performed over 20 years of Top States for Business",
       "summary": "",
@@ -552,21 +583,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VWtyYWluZeKAmXMgZHJv",
-      "title": "Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783601320000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW1lcmljYSZhcG9zO3Mg",
       "title": "America&apos;s Top States for Business 2026: See the full rankings and where your state finished",
       "summary": "",
@@ -588,21 +604,6 @@
       "url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1783599494000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2xlYW4gcG93ZXIgY29t",
-      "title": "Clean power comeback? Don&apos;t count out renewable energy and this one stock in particular",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/09/clean-power-comeback-dont-count-out-renewable-energy-and-this-one-stock-in-particular.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783597741000,
       "lang": "en-US",
       "topics": [
         "macro"
