@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783801473427,
-  "crawlUpdatedAt": 1783801473427,
-  "crawlCount": 29,
+  "updatedAt": 1783805071068,
+  "crawlUpdatedAt": 1783805071068,
+  "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens to &apos;decimate&apos; Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783802121000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFtaWx5IGRlbWFuZHMg",
+      "title": "Family demands answers in death of young Black man in Mississippi",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/family-demands-answers-in-death-of-young-black-man-in-mississippi-4786916",
+      "source": "Investing.com News",
+      "publishedAt": 1783801466000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBob2xkcyBn",
       "title": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
@@ -142,21 +174,6 @@
       "url": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
       "source": "Investing.com News",
       "publishedAt": 1783789736000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSDi",
-      "title": "Trump says he ’just finished’ a physical at Walter Reed",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-says-he-just-finished-a-physical-at-walter-reed-4787291",
-      "source": "Investing.com News",
-      "publishedAt": 1783788531000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -303,23 +320,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens to &apos;decimate&apos; Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783774310000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7RnVuZmxhdGlv",
       "title": "&apos;Funflation&apos; hits home: Why staying in isn&apos;t the cost-saver it used to be",
       "summary": "",
@@ -421,38 +421,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIHBvd2VyIGNv",
-      "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783716669000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0sgSHluaXggcmlzZXMg",
-      "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC &apos;demand is enormous&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783715672000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
