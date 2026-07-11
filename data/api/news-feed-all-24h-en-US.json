@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1783758107222,
-  "crawlUpdatedAt": 1783758107222,
+  "updatedAt": 1783764079690,
+  "crawlUpdatedAt": 1783764079690,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,71 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens to &apos;decimate&apos; Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783762563000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzdGF5cyBh",
+      "title": "Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
+      "source": "Investing.com News",
+      "publishedAt": 1783762296000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
+        "macro"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgZXZhY3VhdGVz",
+      "title": "China evacuates over one million as Typhoon Bavi nears",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/china-evacuates-over-one-million-as-typhoon-bavi-nears-4787223",
+      "source": "Investing.com News",
+      "publishedAt": 1783761508000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5keSBCdXJuaGFtIHNl",
+      "title": "Andy Burnham set to become UK PM as policy agenda remains unclear",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/andy-burnham-set-to-become-uk-pm-as-policy-agenda-remains-unclear-4787222",
+      "source": "Investing.com News",
+      "publishedAt": 1783758310000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QnVzaW5lc3NtYW4gd2hv",
       "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
@@ -120,57 +185,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2hpbmEgdGVtcG9yYXJp",
-      "title": "China temporarily bans helium exports as US-Iran tensions flare again",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/china-temporarily-bans-helium-exports-as-usiran-tensions-flare-again-4785887",
-      "source": "Investing.com News",
-      "publishedAt": 1783746368000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXN0cmFaZW5lY2EmYXBv",
       "title": "AstraZeneca&apos;s trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
       "source": "CNBC Markets",
       "publishedAt": 1783746001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUywg",
-      "title": "Trump says US, Iran agree to continue talks but ceasefire over",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over-4787214",
-      "source": "Investing.com News",
-      "publishedAt": 1783745308000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMsIENhbmFkYSBzdHJp",
-      "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
-      "source": "Investing.com News",
-      "publishedAt": 1783744583000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -308,21 +328,6 @@
       "url": "https://www.cnbc.com/2026/07/10/trump-accounts-foster-children.html",
       "source": "CNBC Markets",
       "publishedAt": 1783713443000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SSB3b3JrZWQgYXQgYSBn",
-      "title": "I worked at a garden center for $17/hour after getting laid off—why it&apos;s &apos;one of the best jobs I&apos;ve ever had&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/48-year-old-worked-at-a-garden-center-to-make-ends-meet-one-of-best-jobs-ever-had.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783711068000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -482,21 +487,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QUksIGRhdGEgY2VudGVy",
-      "title": "AI, data center fears could be key in closely watched Michigan Democratic Senate primary",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/ai-data-center-fears-michigan-democratic-senate-primary.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783696717000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UHJpdmF0ZSBjaGVmIHNh",
       "title": "Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
       "summary": "",
@@ -536,6 +526,21 @@
       "lang": "en-US",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIENsdWImYXBvcztz",
+      "title": "The Club&apos;s top 10 things to watch in the stock market Friday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/10/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783690228000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
