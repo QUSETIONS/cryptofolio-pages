@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783797372296,
-  "crawlUpdatedAt": 1783797372296,
-  "crawlCount": 32,
+  "updatedAt": 1783801473427,
+  "crawlUpdatedAt": 1783801473427,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,17 +13,20 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VmVuZXp1ZWxhIHF1YWtl",
-      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "id": "Investing.com News-Qml0Y29pbiBob2xkcyBn",
+      "title": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
       "source": "Investing.com News",
-      "publishedAt": 1783793184000,
+      "publishedAt": 1783801049000,
       "lang": "zh-CN",
       "topics": [
+        "crypto",
         "macro"
       ],
-      "symbols": [],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -33,7 +36,97 @@
       "summary": "",
       "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
       "source": "Investing.com News",
-      "publishedAt": 1783789949000,
+      "publishedAt": 1783800386000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMsIENhbmFkYSBzdHJp",
+      "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
+      "source": "Investing.com News",
+      "publishedAt": 1783798951000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgUG9zdGFsIFNlcnZp",
+      "title": "US Postal Service raises stamp price to 82 cents",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-postal-service-raises-stamp-price-to-82-cents-4787302",
+      "source": "Investing.com News",
+      "publishedAt": 1783798605000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhbiBzdHJpa2Vz",
+      "title": "Russian strikes kill seven, wound dozens, Ukraine’s Zelenskiy seeks faster weapons deliveries",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+      "source": "Investing.com News",
+      "publishedAt": 1783798229000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbuKAmXMgS2hhbWVu",
+      "title": "Iran’s Khamenei vows revenge as Trump warns of devastating U.S. response",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-threatens-to-decimate-iran-as-us-steps-up-military-diplomatic-pressure-4787217",
+      "source": "Investing.com News",
+      "publishedAt": 1783797754000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWtyYWluZSBzYXlzIGRy",
+      "title": "Ukraine says drone strikes damage 21 Russian oil tankers in Sea of Azov attack",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/ukraine-says-drone-strikes-damage-21-russian-oil-tankers-in-sea-of-azov-attack-4787300",
+      "source": "Investing.com News",
+      "publishedAt": 1783797100000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmVuZXp1ZWxhIHF1YWtl",
+      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
+      "source": "Investing.com News",
+      "publishedAt": 1783793184000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,102 +166,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHlwaG9vbiBCYXZpIG1h",
-      "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/china-evacuates-over-one-million-as-typhoon-bavi-nears-4787223",
-      "source": "Investing.com News",
-      "publishedAt": 1783788511000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIFEyIHNs",
-      "title": "China’s Q2 slowdown worsened by ’de facto’ fiscal austerity, Citi says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/chinas-q2-slowdown-worsened-by-de-facto-fiscal-austerity-citi-says-4787290",
-      "source": "Investing.com News",
-      "publishedAt": 1783788166000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2l4IGRlYWQsIGRvemVu",
-      "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
-      "source": "Investing.com News",
-      "publishedAt": 1783788144000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIHZvbGF0aWxlIEFJ",
       "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
       "source": "CNBC Markets",
       "publishedAt": 1783787158000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: LTIM Q1 2027 profit, AI momentum lift shares 4.7%",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ltim-q1-2027-profit-ai-momentum-lift-shares-47-93CH-4787289",
-      "source": "Investing.com News",
-      "publishedAt": 1783785953000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBzYXlzIHllbiBi",
-      "title": "BofA says yen bearishness hits four-year extreme as policy fears mount",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/bofa-says-yen-bearishness-hits-fouryear-extreme-as-policy-fears-mount-4787286",
-      "source": "Investing.com News",
-      "publishedAt": 1783785032000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgRGVtb2NyYXQgUm8g",
-      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit-4787240",
-      "source": "Investing.com News",
-      "publishedAt": 1783782385000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -450,51 +453,6 @@
       "symbols": [
         "NDX"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSZhcG9zO3Mgc3Rv",
-      "title": "Meta&apos;s stock has best week since early 2024 as optimism builds around AI strategy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783713979000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhYmxlY29pbiBpc3N1",
-      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783713689000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgQWNjb3VudHMg",
-      "title": "Trump Accounts may help foster children build a financial safety net. What to know",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/trump-accounts-foster-children.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783713443000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
