@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783805071068,
-  "crawlUpdatedAt": 1783805071068,
-  "crawlCount": 27,
+  "updatedAt": 1783808742727,
+  "crawlUpdatedAt": 1783808742727,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhbiBzdHJpa2Vz",
+      "title": "Russian strikes kill seven, wound dozens, Ukraine’s Zelenskiy seeks faster weapons deliveries",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+      "source": "Investing.com News",
+      "publishedAt": 1783807585000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4787306",
+      "source": "Investing.com News",
+      "publishedAt": 1783804804000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
       "title": "Trump threatens to &apos;decimate&apos; Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
@@ -108,21 +138,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UnVzc2lhbiBzdHJpa2Vz",
-      "title": "Russian strikes kill seven, wound dozens, Ukraine’s Zelenskiy seeks faster weapons deliveries",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
-      "source": "Investing.com News",
-      "publishedAt": 1783798229000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-SXJhbuKAmXMgS2hhbWVu",
       "title": "Iran’s Khamenei vows revenge as Trump warns of devastating U.S. response",
       "summary": "",
@@ -159,21 +174,6 @@
       "url": "https://www.investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
       "source": "Investing.com News",
       "publishedAt": 1783793184000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJvYWRlciBBSSBkZW1h",
-      "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
-      "source": "Investing.com News",
-      "publishedAt": 1783789736000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -386,36 +386,6 @@
       "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
       "source": "CNBC Markets",
       "publishedAt": 1783742960000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gZWFz",
-      "title": "Trump admin eases export controls for UAE; Warren blasts &apos;corrupt&apos; provision",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783720924000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIEFJIHJhY2UgaXMg",
-      "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783718838000,
       "lang": "zh-CN",
       "topics": [
         "macro"
