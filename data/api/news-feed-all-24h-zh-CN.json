@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783791247362,
-  "crawlUpdatedAt": 1783791247362,
-  "crawlCount": 37,
+  "updatedAt": 1783797372296,
+  "crawlUpdatedAt": 1783797372296,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VmVuZXp1ZWxhIHF1YWtl",
+      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
+      "source": "Investing.com News",
+      "publishedAt": 1783793184000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
+      "source": "Investing.com News",
+      "publishedAt": 1783789949000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QnJvYWRlciBBSSBkZW1h",
       "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
@@ -118,21 +148,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
-      "source": "Investing.com News",
-      "publishedAt": 1783785632000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-Qm9mQSBzYXlzIHllbiBi",
       "title": "BofA says yen bearishness hits four-year extreme as policy fears mount",
       "summary": "",
@@ -175,21 +190,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgaGFsdHMgaGVs",
-      "title": "China halts helium exports as renewed Middle East tensions threaten chip supplies",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/china-halts-helium-exports-as-renewed-middle-east-tensions-threaten-chip-supplies-4787283",
-      "source": "Investing.com News",
-      "publishedAt": 1783781932000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -496,81 +496,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIEVURiBtYXJrZXQg",
-      "title": "The ETF market is pushing the limits of the leverage it can handle. SK Hynix is the latest example",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/etfs-investing-market-risk-leverage.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783710738000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSB3",
-      "title": "Trump says he won&apos;t sign housing bill, which would become law automatically",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783710272000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcHVyZ2VzIEVs",
-      "title": "Trump purges Election Assistance Commission members, months before midterms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/trump-purges-election-assistance-commission.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783706724000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuYXRlIERlbW9jcmF0",
-      "title": "Senate Democrats want hearings on Trump’s crypto holdings and foreign investors",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/trump-crypto-senate-democrats.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783705457000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZGVycyBmYWxsIGJh",
-      "title": "Traders fall back in love with Meta. Here&apos;s where bulls see it going",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783705229000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
