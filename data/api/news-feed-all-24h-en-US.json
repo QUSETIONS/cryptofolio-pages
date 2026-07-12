@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1783885452206,
-  "crawlUpdatedAt": 1783885452206,
+  "updatedAt": 1783890020994,
+  "crawlUpdatedAt": 1783890020994,
   "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RWxvbiBNdXNrIGFuZCBT",
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783888146000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVhdGggdG9sbCBmcm9t",
+      "title": "Death toll from Venezuela earthquakes rises to 4,490",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-earthquakes-rises-to-4490-4787374",
+      "source": "Investing.com News",
+      "publishedAt": 1783884990000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-JmFwb3M7RnVuZmxhdGlv",
       "title": "&apos;Funflation&apos; hits home: Why staying in isn&apos;t the cost-saver it used to be",
@@ -49,21 +79,6 @@
       "url": "https://www.investing.com/news/stock-market-news/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-4787372",
       "source": "Investing.com News",
       "publishedAt": 1783882828000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNrIGFuZCBT",
-      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783880171000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -206,25 +221,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBkaXNjdXNz",
-      "title": "Goldman discusses what the Fed policy outlook means for equities",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-fed-rate-outlook-as-key-risk-for-us-stocks-ahead-of-cpi-4787366",
-      "source": "Investing.com News",
-      "publishedAt": 1783869931000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "XAU",
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
