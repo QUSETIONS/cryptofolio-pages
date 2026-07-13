@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1783905010463,
-  "crawlUpdatedAt": 1783905010463,
-  "crawlCount": 23,
+  "updatedAt": 1783919038316,
+  "crawlUpdatedAt": 1783919038316,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-U0sgSHluaXggc2hhcmVz",
+      "title": "SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783913639000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hpbGUgTXVzayZhcG9z",
+      "title": "While Musk&apos;s Neuralink drills into skulls, China&apos;s BrainCo bets the future of brain tech is wearable",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783907775000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWNDb25uZWxsIHByb3Zp",
+      "title": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1783905920000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-T2lsIHByaWNlcyBqdW1w",
       "title": "Oil prices jump over 3% after Iran declares Strait of Hormuz closed",
@@ -130,21 +177,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWNDb25uZWxsIHByb3Zp",
-      "title": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783896673000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -334,21 +366,6 @@
       "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
       "source": "CNBC Markets",
       "publishedAt": 1783857902000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-4oCYQWxtb3N0IHVubGlt",
-      "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783832401000,
       "lang": "en-US",
       "topics": [
         "macro"
