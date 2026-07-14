@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1784030225931,
-  "crawlUpdatedAt": 1784030225931,
+  "updatedAt": 1784037926092,
+  "crawlUpdatedAt": 1784037926092,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,224 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SUJNIHNoYXJlcyBza2lk",
-      "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations",
+      "id": "CNBC Markets-Q29uc3VtZXIgcHJpY2Vz",
+      "title": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784037721000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates MKS Instruments stock rating at $600",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-mks-instruments-stock-rating-at-600-93CH-4791127",
+      "source": "Investing.com News",
+      "publishedAt": 1784037528000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QlRJRyByZWl0ZXJhdGVz",
+      "title": "BTIG reiterates CleanSpark stock rating on $6.6B HPC contract",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/btig-reiterates-cleanspark-stock-rating-on-66b-hpc-contract-93CH-4791126",
+      "source": "Investing.com News",
+      "publishedAt": 1784037528000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Onto Innovation stock rating on product cycle strength",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-onto-innovation-stock-rating-on-product-cycle-strength-93CH-4791125",
+      "source": "Investing.com News",
+      "publishedAt": 1784037526000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SUJNIHN0b2NrIGNyYXRl",
+      "title": "IBM stock craters 23% after issuing second-quarter earnings warning",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784029783000,
+      "publishedAt": 1784037459000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: VNV Global Q2 2026 NAV steady as shares slip",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vnv-global-q2-2026-nav-steady-as-shares-slip-93CH-4791124",
+      "source": "Investing.com News",
+      "publishedAt": 1784037376000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IFlvcmsgYmVjb21l",
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/new-york-becomes-the-first-state-to-impose-a-data-center-moratorium-4789994",
+      "source": "Investing.com News",
+      "publishedAt": 1784037340000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJhZGVycyBleHBlY3Qg",
+      "title": "Traders expect Fed to skip July rate hike as inflation cools",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/traders-expect-fed-to-skip-july-rate-hike-as-inflation-cools-4791112",
+      "source": "Investing.com News",
+      "publishedAt": 1784037318000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T0dFIEVuZXJneSBzdG9j",
+      "title": "OGE Energy stock hits all-time high at 50.15 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/oge-energy-stock-hits-alltime-high-at-5015-usd-93CH-4791122",
+      "source": "Investing.com News",
+      "publishedAt": 1784037302000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV0YSB1c2VkIEFJIHRv",
+      "title": "Meta used AI to target workers with medical conditions for layoffs, former employees’ lawsuit claims",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/meta-used-ai-to-target-workers-with-medical-conditions-for-layoffs-former-employees-lawsuit-claims-4791121",
+      "source": "Investing.com News",
+      "publishedAt": 1784037301000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVycGV0dWFscy5jb20g",
+      "title": "Perpetuals.com ends acquisition talks with Trump-linked crypto firm",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/perpetualscom-ends-acquisitiontalks-with-trumplinked-crypto-firm-4791120",
+      "source": "Investing.com News",
+      "publishedAt": 1784037281000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: JPMorgan Chase tops Q2 2026 forecasts as stock rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jpmorgan-chase-tops-q2-2026-forecasts-as-stock-rises-93CH-4791119",
+      "source": "Investing.com News",
+      "publishedAt": 1784037253000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuLiBUaW0gU2NvdHQg",
+      "title": "Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784036164000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBvaWwgdG9wcyAk",
+      "title": "U.S. oil tops $80 after Trump bombs Iran for third day, Tehran attacks tankers in Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784035643000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784035525000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +245,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/14/world-cups-semifinals-travel-to-host-cities-rises.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784029528000,
+      "publishedAt": 1784035382000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,88 +255,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RGV1dHNjaGUgQmFuayBz",
-      "title": "Deutsche Bank sees SpaceX orbital data centers matching ground costs",
+      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
+      "title": "United Airlines&apos; new upsell: Keeping other travelers out of the middle seat",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-spacex-orbital-data-centers-matching-ground-costs-93CH-4790612",
-      "source": "Investing.com News",
-      "publishedAt": 1784029477000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJpdGFpbiBhbmQgRVUg",
-      "title": "Britain and EU sign treaty on Gibraltar border crossings",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/britain-and-eu-sign-treaty-on-gibraltar-border-crossings-93CH-4790611",
-      "source": "Investing.com News",
-      "publishedAt": 1784029471000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9F4oCZcyBCYWlsZXkg",
-      "title": "BoE’s Bailey says fresh Gulf clashes make outlook more unstable",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/resumption-of-hostilities-in-middle-east-underlines-instability-says-boe-governor-bailey-4789993",
-      "source": "Investing.com News",
-      "publishedAt": 1784029393000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SC5DLiBXYWlud3JpZ2h0",
-      "title": "H.C. Wainwright cuts NervGen stock price target to $15 on dilution",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-cuts-nervgen-stock-price-target-to-15-on-dilution-93CH-4790610",
-      "source": "Investing.com News",
-      "publishedAt": 1784029365000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um9zZW5ibGF0dCByZWl0",
-      "title": "Rosenblatt reiterates Neutral rating on Netflix stock amid slump",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-neutral-rating-on-netflix-stock-amid-slump-93CH-4790609",
-      "source": "Investing.com News",
-      "publishedAt": 1784029365000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUkgZmluYW5jZSBzdGFy",
-      "title": "AI finance startup Flex doubles valuation to about $1.2 billion, source says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ai-finance-startup-flex-doubles-valuation-to-about-12-billion-source-says-4790608",
-      "source": "Investing.com News",
-      "publishedAt": 1784029357000,
+      "url": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784035052000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -134,29 +270,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBi",
-      "title": "Goldman Sachs beats estimates on strong trading revenue",
+      "id": "CNBC Markets-VHJ1bXAgdG8gY2xhaW0g",
+      "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/goldman-sachs-beats-estimates-on-strong-trading-revenue-4790607",
-      "source": "Investing.com News",
-      "publishedAt": 1784029286000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG93ZXIgU2VtaWNvbmR1",
-      "title": "Tower Semiconductor shares jump on $3B Japan expansion",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tower-semiconductor-shares-jump-on-3b-japan-expansion-93CH-4790606",
-      "source": "Investing.com News",
-      "publishedAt": 1784029209000,
+      "url": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784035050000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -166,12 +285,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIEdS",
-      "title": "Form DEF 14A GRAHAM CORPORATION For: 14 July",
+      "id": "CNBC Markets-U3BhY2VYIGFsdW1uaSBi",
+      "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-graham-corporation-for-14-july-93CH-4790605",
-      "source": "Investing.com News",
-      "publishedAt": 1784029150000,
+      "url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784034001000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -181,12 +300,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SENBIEhlYWx0aGNhcmUg",
-      "title": "HCA Healthcare lowers 2026 guidance on insurance coverage losses",
+      "id": "CNBC Markets-RnJvbnRpZXIgQWlybGlu",
+      "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX&apos;s Starlink",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/hca-healthcare-lowers-2026-guidance-on-insurance-coverage-losses-93CH-4790603",
-      "source": "Investing.com News",
-      "publishedAt": 1784029021000,
+      "url": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784034001000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2xvYmFsIHNoaXBwaW5n",
+      "title": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/shipping-industry-trump-hormuz-toll-backfire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784033558000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784032873000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2Fyc2ggcHJvbWlzZXMg",
+      "title": "Warsh promises inflation will be a &apos;thing of the past,&apos; cites benefits of AI investment boom",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784032221000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29uc3VtZXJzIHR1cm4g",
+      "title": "Consumers turn to buy now, pay later for essential expenses — with growing risks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/buy-now-pay-later-bnpl-finance-groceries-rent-and-bills.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784031301000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGlrVG9rIHBvbGljeSBj",
+      "title": "TikTok policy chief defends safety measures amid EU push to limit children&apos;s social media access",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/tiktok-social-media-safety-measures-teens-bans-eu.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784030492000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -211,36 +405,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R2xvYmFsIHNoaXBwaW5n",
-      "title": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/shipping-industry-trump-hormuz-toll-backfire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784025644000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSBqdW1w",
-      "title": "U.S. crude jumps above $80 as Iran ceasefire fractures; Trump&apos;s Hormuz toll plans reignite supply fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784025321000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QSBGcmVuY2ggdW5kZXJ3",
       "title": "A French underwear brand is taking on fast fashion — with an IPO",
       "summary": "",
@@ -252,24 +416,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields rise as Fed rate hike expectations grow ahead of June inflation print",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784023479000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y",
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -379,55 +525,10 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2luZ2Fwb3JlJmFwb3M7",
-      "title": "Singapore&apos;s economy expands 5.7% in the second quarter, beating expectations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/singapore-gdp-iran-war-impact-takes-hold.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783997455000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7TGlzdGluZyBp",
-      "title": "&apos;Listing is a must&apos;: Chinese humanoid startups are rushing to launch IPOs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783989061000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
       "title": "Jim Cramer says these &apos;Pavlovian trades&apos; are the stocks that benefit when oil spikes",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/13/jim-cramer-stocks-benefit-when-oil-spikes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783983601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
-      "title": "CNBC&apos;s The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html",
       "source": "CNBC Markets",
       "publishedAt": 1783983601000,
       "lang": "en-US",
@@ -454,72 +555,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
-      "title": "Jim Cramer says tech remains the market&apos;s best place to find big winners despite recent struggles",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783981200000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gY2xhaW0g",
-      "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783980562000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-MyB0aGluZ3MgeW91IG5l",
       "title": "3 things you need to know about cyclospora",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/13/3-things-you-need-to-know-about-cyclospora.html",
       "source": "CNBC Markets",
       "publishedAt": 1783978444000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U291dGggQ2Fyb2xpbmEg",
-      "title": "South Carolina governor taps Lindsey Graham&apos;s sister to serve as interim senator",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783976593000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIHNp",
-      "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783973796000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -544,42 +585,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QSB0b3hpYyBzdGV3IGRy",
-      "title": "A toxic stew drags stocks lower as we look at what can get the AI trade back on track",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/a-toxic-stew-drags-stocks-lower-as-we-look-at-what-can-get-the-ai-trade-back-on-track.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783969682000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGFyYW1vdW50LCBXQkQg",
       "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
       "source": "CNBC Markets",
       "publishedAt": 1783969127000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VU4gbWFyaXRpbWUgYWdl",
-      "title": "UN maritime agency opposes Hormuz transit fees after Trump demands protection money",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783967284000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -600,23 +611,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBKdWx5IHJhdGUgaGlr",
-      "title": "A July rate hike from the Fed? The odds are rising",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783962471000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
