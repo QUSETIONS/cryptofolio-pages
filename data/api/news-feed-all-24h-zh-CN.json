@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1784044782074,
-  "crawlUpdatedAt": 1784044782074,
+  "updatedAt": 1784049831745,
+  "crawlUpdatedAt": 1784049831745,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBvZmYg",
-      "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic",
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBK",
+      "title": "Supreme Court Justice Barrett says &apos;the threat level is really high&apos; in budget testimony",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+      "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784044483000,
+      "publishedAt": 1784049266000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIHJhaXNl",
+      "title": "Jefferies raises AAR stock price target on software growth visibility",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-raises-aar-stock-price-target-on-software-growth-visibility-93CH-4791392",
+      "source": "Investing.com News",
+      "publishedAt": 1784048209000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGF2ZSBzdG9jayBoaXRz",
+      "title": "Dave stock hits 52-week high at $416.75",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/dave-stock-hits-52week-high-at-41675-93CH-4791391",
+      "source": "Investing.com News",
+      "publishedAt": 1784048179000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +58,164 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-MyByZWFzb25zIHdoeSBO",
+      "title": "3 reasons why Netflix shares are down 20% in 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/3-reasons-why-netflix-shares-are-down-20-in-2026-4791390",
+      "source": "Investing.com News",
+      "publishedAt": 1784048151000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBw",
+      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/goldmans-profit-jumps-on-trading-surge-corporate-deal-spree-4790572",
+      "source": "Investing.com News",
+      "publishedAt": 1784048131000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IFlvcmsgYmVjb21l",
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/new-york-becomes-the-first-state-to-impose-a-data-center-moratorium-4789994",
+      "source": "Investing.com News",
+      "publishedAt": 1784048110000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJlbnQgb2lsIHN0cnVj",
+      "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/brent-oil-structure-changes-to-reflect-mounting-supply-risk-as-iran-tensions-flare-4791389",
+      "source": "Investing.com News",
+      "publishedAt": 1784048096000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhcSBQTSBzZWVrcyBm",
+      "title": "Iraq PM seeks fair OPEC share amid U.S. investment talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/iraq-pm-seeks-fair-opec-share-amid-us-investment-talks-93CH-4791388",
+      "source": "Investing.com News",
+      "publishedAt": 1784048094000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Citigroup tops Q2 2026 estimates, shares fall",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-citigroup-tops-q2-2026-estimates-shares-fall-93CH-4791387",
+      "source": "Investing.com News",
+      "publishedAt": 1784048090000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-Rm9ybSA0IEJPSyBGaW5h",
       "title": "Form 4 BOK Financial Corporation For: 14 July",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-bok-financial-corporation-for-14-july-93CH-4791318",
+      "url": "https://www.investing.com/news/filings/form-4-bok-financial-corporation-for-14-july-93CH-4791386",
       "source": "Investing.com News",
-      "publishedAt": 1784044267000,
+      "publishedAt": 1784047869000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IExhdHRpY2Ug",
+      "title": "Form 4 Lattice Semiconductor Corporation For: 14 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-lattice-semiconductor-corporation-for-14-july-93CH-4791385",
+      "source": "Investing.com News",
+      "publishedAt": 1784047869000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiB0cmFkZSBvZmZp",
+      "title": "U.S. trade official says &apos;very few&apos; Nvidia H200 AI chips have been shipped to China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784047828000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
+      "title": "Social Security cost-of-living adjustment estimate for 2027 falls as inflation cools",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/social-security-cola-in-2027-cooling-inflation-lowers-estimate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784047820000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBvZmYg",
+      "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784046668000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,21 +240,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBK",
-      "title": "Supreme Court Justice Barrett says &apos;the threat level is really high&apos; in budget testimony",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784044027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RS4gSmVhbiBDYXJyb2xs",
       "title": "E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case: Court filing",
       "summary": "",
@@ -88,117 +255,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q1QgR2xvYmFsIE1hbmFn",
-      "title": "CT Global Managed Portfolio Trust issues 225,000 income shares",
+      "id": "CNBC Markets-Q29uc3VtZXIgcHJpY2Vz",
+      "title": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ct-global-managed-portfolio-trust-issues-225000-income-shares-93CH-4791316",
-      "source": "Investing.com News",
-      "publishedAt": 1784043948000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IFByb2dyZXNz",
-      "title": "Form 4 Progressive Corp For: 14 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-progressive-corp-for-14-july-93CH-4791315",
-      "source": "Investing.com News",
-      "publishedAt": 1784043912000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IEJPSyBGaW5h",
-      "title": "Form 4 BOK Financial Corporation For: 14 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-bok-financial-corporation-for-14-july-93CH-4791314",
-      "source": "Investing.com News",
-      "publishedAt": 1784043910000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IFByb2dyZXNz",
-      "title": "Form 4 Progressive Corp For: 14 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-progressive-corp-for-14-july-93CH-4791313",
-      "source": "Investing.com News",
-      "publishedAt": 1784043909000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxM0QvQSBGcmFu",
-      "title": "Form 13D/A Franklin BSP Lending Fund For: 14 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-13da-franklin-bsp-lending-fund-for-14-july-93CH-4791312",
-      "source": "Investing.com News",
-      "publishedAt": 1784043906000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9sbHV0aW9uIGZyb20g",
-      "title": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/pollution-from-musks-unpermitted-xai-power-project-hits-hardest-in-black-communities-4790181",
-      "source": "Investing.com News",
-      "publishedAt": 1784043796000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q1QgR2xvYmFsIE1hbmFn",
-      "title": "CT Global Managed Portfolio Trust issues 225,000 income shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ct-global-managed-portfolio-trust-issues-225000-income-shares-93CH-4791311",
-      "source": "Investing.com News",
-      "publishedAt": 1784043762000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNb3JnYW7igJlzIERp",
-      "title": "JPMorgan’s Dimon says regulators should not set ’false’ capital requirements",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgans-dimon-says-regulators-should-not-set-false-capital-requirements-4791310",
-      "source": "Investing.com News",
-      "publishedAt": 1784043757000,
+      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784043907000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -222,21 +284,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IFByb2dyZXNz",
-      "title": "Form 4 Progressive Corp For: 14 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-progressive-corp-for-14-july-93CH-4791309",
-      "source": "Investing.com News",
-      "publishedAt": 1784043548000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -337,21 +384,6 @@
       "url": "https://www.cnbc.com/2026/07/14/tiktok-social-media-safety-measures-teens-bans-eu.html",
       "source": "CNBC Markets",
       "publishedAt": 1784041835000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2xvYmFsIHNoaXBwaW5n",
-      "title": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/shipping-industry-trump-hormuz-toll-backfire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784041149000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -577,36 +609,6 @@
       "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
       "source": "CNBC Markets",
       "publishedAt": 1783983139000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MyB0aGluZ3MgeW91IG5l",
-      "title": "3 things you need to know about cyclospora",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/3-things-you-need-to-know-about-cyclospora.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783978444000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration urges banks to scrutinize lending to immigrants without work authorization",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/13/regulators-urge-banks-to-scrutinize-loans-to-unauthorized-immigrants.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1783964238000,
       "lang": "zh-CN",
       "topics": [
         "macro"
