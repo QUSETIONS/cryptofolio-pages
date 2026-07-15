@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784144784482,
-  "crawlUpdatedAt": 1784144784482,
-  "crawlCount": 38,
+  "updatedAt": 1784149753029,
+  "crawlUpdatedAt": 1784149753029,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,119 +13,179 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgYmxhc3RzIE5l",
-      "title": "Trump blasts New York AI data center ban, says state should change policy &apos;immediately&apos;",
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
+      "title": "Raymond James resumes Extra Space Storage stock coverage with outperform rating",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-resumes-extra-space-storage-stock-coverage-with-outperform-rating-93CH-4794410",
+      "source": "Investing.com News",
+      "publishedAt": 1784149725000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
+      "title": "Raymond James resumes Public Storage stock rating at Market Perform",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-resumes-public-storage-stock-rating-at-market-perform-93CH-4794409",
+      "source": "Investing.com News",
+      "publishedAt": 1784149722000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvc3Blcml0eSBCYW5j",
+      "title": "Prosperity Bancshares director Ned S Holmes sells $80,360 of shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-s-holmes-sells-80360-of-shares-93CH-4794408",
+      "source": "Investing.com News",
+      "publishedAt": 1784149616000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFZlcmlTaWdu",
+      "title": "Form 4 VeriSign Inc For: 15 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-verisign-inc-for-15-july-93CH-4794407",
+      "source": "Investing.com News",
+      "publishedAt": 1784149607000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtU3BhY2VY",
+      "title": "Analysis-SpaceX’s slide below IPO price risks turning blockbuster IPO into confidence test",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/spacexs-slide-risks-turning-blockbuster-ipo-into-confidence-test-4792669",
+      "source": "Investing.com News",
+      "publishedAt": 1784149603000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VW5pdGVkIHdhcm5zIG9m",
+      "title": "United warns of nearly $6 billion fuel hit as oil-price surge weighs on outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/united-sees-2026-profit-at-high-end-of-forecast-despite-renewed-fuel-surge-4794226",
+      "source": "Investing.com News",
+      "publishedAt": 1784149589000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRHJvcGJv",
+      "title": "Form 144 Dropbox For: 15 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-dropbox-for-15-july-93CH-4794406",
+      "source": "Investing.com News",
+      "publishedAt": 1784149580000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgSU5URVJO",
+      "title": "Form 144 INTERNATIONAL SEAWAYS For: 15 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-international-seaways-for-15-july-93CH-4794405",
+      "source": "Investing.com News",
+      "publishedAt": 1784149578000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRklHTUEg",
+      "title": "Form 144 FIGMA For: 15 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-figma-for-15-july-93CH-4794404",
+      "source": "Investing.com News",
+      "publishedAt": 1784149574000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgRklHTUEg",
+      "title": "Form 144 FIGMA For: 15 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-figma-for-15-july-93CH-4794403",
+      "source": "Investing.com News",
+      "publishedAt": 1784149573000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V29ybGQgQ3VwIGdhdmUg",
+      "title": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784144380000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IE9yaWdpbiBC",
-      "title": "Form 4 Origin Bancorp Inc For: 15 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-origin-bancorp-inc-for-15-july-93CH-4794116",
-      "source": "Investing.com News",
-      "publishedAt": 1784143226000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T0VDRCBzYXlzIGdsb2Jh",
-      "title": "OECD says global minimum tax boosted revenue, not job losses",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/oecd-says-global-minimum-tax-boosted-revenue-not-job-losses-4794103",
-      "source": "Investing.com News",
-      "publishedAt": 1784143113000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWdpbG9uIGhlYWx0aCBz",
-      "title": "Agilon health stock hits 52-week high at 126.0 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/agilon-health-stock-hits-52week-high-at-1260-usd-93CH-4794115",
-      "source": "Investing.com News",
-      "publishedAt": 1784142996000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JpZ2luIEJhbmNvcnAg",
-      "title": "Origin Bancorp director Farr Kennedy sells $86,908 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/origin-bancorp-director-farr-kennedy-sells-86908-in-company-stock-93CH-4794114",
-      "source": "Investing.com News",
-      "publishedAt": 1784142985000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGViYmllIFdhc3Nlcm1h",
-      "title": "Debbie Wasserman Schultz sells Ichor Holdings shares from her retirement account",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/debbie-wasserman-schultz-sells-ichor-holdings-shares-from-her-retirement-account-93CH-4794113",
-      "source": "Investing.com News",
-      "publishedAt": 1784142818000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2F0aGVyaW5lIENsYXJr",
-      "title": "Katherine Clark from Massachusetts’s 5th District invests in United States Treasury Securities",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/katherine-clark-from-massachusettss-5th-district-invests-in-united-states-treasury-securities-93CH-4794112",
-      "source": "Investing.com News",
-      "publishedAt": 1784142742000,
+      "publishedAt": 1784149425000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
       "symbols": [
-        "UST10Y"
+        "FED"
       ],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RGViYmllIERpbmdlbGwg",
-      "title": "Debbie Dingell acquires Honeywell Aerospace stock in Morgan Stanley brokerage account",
+      "id": "CNBC Markets-VW5pdGVkIGVhcm5pbmdz",
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/debbie-dingell-acquires-honeywell-aerospace-stock-in-morgan-stanley-brokerage-account-93CH-4794111",
-      "source": "Investing.com News",
-      "publishedAt": 1784142675000,
+      "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784149211000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -135,12 +195,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3BlY3RydW0gQnJhbmRz",
-      "title": "Spectrum Brands stock hits 52-week high at $88.21",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJcmFu",
+      "title": "Trump says Iran wants to meet as U.S. fires more strikes; analysts warn of &apos;forever war&apos; risk",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/spectrum-brands-stock-hits-52week-high-at-8821-93CH-4794110",
-      "source": "Investing.com News",
-      "publishedAt": 1784142636000,
+      "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784148572000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYmxhc3RzIE5l",
+      "title": "Trump blasts New York AI data center moratorium, says state should change policy &apos;immediately&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784147740000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,12 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IEdyYXBoaWMg",
-      "title": "Form 4 Graphic Packaging Holding Comp For: 15 July",
+      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIHNp",
+      "title": "SpaceX stock sinks below $135 IPO price for the first time",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-graphic-packaging-holding-comp-for-15-july-93CH-4794109",
-      "source": "Investing.com News",
-      "publishedAt": 1784142550000,
+      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784146810000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -165,18 +240,33 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IEFBUiBDb3Jw",
-      "title": "Form 4 AAR Corp For: 15 July",
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIHBp",
+      "title": "Trump&apos;s pick to head national intelligence, Jay Clayton, won&apos;t tell senators Biden won the 2020 election",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-aar-corp-for-15-july-93CH-4794108",
-      "source": "Investing.com News",
-      "publishedAt": 1784142549000,
+      "url": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784144909000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SiZKIGZhbGxzIGRlc3Bp",
+      "title": "J&J falls despite a beat-and-raise quarter. Why we&apos;re raising our price target anyways",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/jj-falls-despite-a-beat-and-raise-quarter-why-were-raising-our-price-target-anyways.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784143830000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -198,42 +288,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIERO",
-      "title": "Trump&apos;s DNI pick Jay Clayton won&apos;t tell senators Biden won the 2020 election",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784142133000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG9kZCBCbGFuY2hlIHNh",
       "title": "Todd Blanche says he has &apos;full faith&apos; in Kash Patel as FBI director",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/15/todd-blanche-attorney-general-trump-senate-nomination-hearing.html",
       "source": "CNBC Markets",
       "publishedAt": 1784141525000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUmYXBvcztzIENo",
-      "title": "Apple&apos;s China breakthrough on AI provides another tailwind for its stock",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/apples-china-breakthrough-provides-another-tailwind-for-its-stock.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784140571000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -333,21 +393,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIHNp",
-      "title": "SpaceX stock sinks below $135 IPO price for the first time",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784135231000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -456,21 +501,6 @@
         "XAU"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBsYXVuY2hlcyBm",
-      "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming &apos;forever war&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784125704000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
