@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1784113868068,
-  "crawlUpdatedAt": 1784113868068,
+  "updatedAt": 1784120005095,
+  "crawlUpdatedAt": 1784120005095,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley is set to report second-quarter earnings — here&apos;s what the Street expects",
+      "id": "CNBC Markets-V2hvbGVzYWxlIHByaWNl",
+      "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+      "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784113514000,
+      "publishedAt": 1784119975000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett on the market today: &apos;It&apos;s tough to find values when everybody is preferring gambling&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784119850000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,117 +43,44 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWVyY2sgdG8gcHJlc2Vu",
-      "title": "Merck to present HIV treatment trial data at AIDS conference",
+      "id": "CNBC Markets-TmV3IFlvcmsgRmVkIFBy",
+      "title": "New York Fed President Williams says inflation has peaked, rates &apos;well positioned&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/merck-to-present-hiv-treatment-trial-data-at-aids-conference-93CH-4792919",
-      "source": "Investing.com News",
-      "publishedAt": 1784113505000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGlnaXRhbE9jZWFuIHBs",
-      "title": "DigitalOcean plans $500M convertible note repurchase",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/digitalocean-plans-500m-convertible-note-repurchase-93CH-4792918",
-      "source": "Investing.com News",
-      "publishedAt": 1784113503000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WFBlbmcgc3RvY2sgcmlz",
-      "title": "XPeng stock rises on plans to scale robot production",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/xpeng-stock-rises-on-plans-to-scale-robot-production-93CH-4792917",
-      "source": "Investing.com News",
-      "publishedAt": 1784113500000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmVyYWRlcm1pY3MgcmVw",
-      "title": "Veradermics reports phase 2 hair loss trial results",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/veradermics-reports-phase-2-hair-loss-trial-results-93CH-4792916",
-      "source": "Investing.com News",
-      "publishedAt": 1784113500000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmlvQ3J5c3QgbmFtZXMg",
-      "title": "BioCryst names David Jenkins as chief scientific officer",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/biocryst-names-david-jenkins-as-chief-scientific-officer-93CH-4792915",
-      "source": "Investing.com News",
-      "publishedAt": 1784113500000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TnV2aW5pIGFwcG9pbnRz",
-      "title": "Nuvini appoints Rodrigo Natale as chief financial officer",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nuvini-appoints-rodrigo-natale-as-chief-financial-officer-93CH-4792914",
-      "source": "Investing.com News",
-      "publishedAt": 1784113499000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley reiterates Lucid stock Underweight on capital needs",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-lucid-stock-underweight-on-capital-needs-93CH-4792913",
-      "source": "Investing.com News",
-      "publishedAt": 1784113497000,
+      "url": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784119618000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V1JBUCBjb21wbGV0ZXMg",
-      "title": "WRAP completes first Wraptor MX multi-shot restraint prototype",
+      "id": "Investing.com News-VWdhbmRh4oCZcyBmaXNj",
+      "title": "Uganda’s fiscal deficit to fall to 3% of GDP by 2030/31",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/wrap-completes-first-wraptor-mx-multishot-restraint-prototype-93CH-4792912",
+      "url": "https://www.investing.com/news/economy-news/ugandas-fiscal-deficit-to-fall-to-3-of-gdp-by-203031-93CH-4793379",
       "source": "Investing.com News",
-      "publishedAt": 1784113497000,
+      "publishedAt": 1784119325000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: VEF Q2 2026 NAV slips as AI gains lift portfolio",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vef-q2-2026-nav-slips-as-ai-gains-lift-portfolio-93CH-4793378",
+      "source": "Investing.com News",
+      "publishedAt": 1784119322000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,12 +90,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGV4YXMgQ2FwaXRhbCB1",
-      "title": "Texas Capital upgrades AMC Entertainment stock rating on debt progress",
+      "id": "Investing.com News-UHJvZ3Jlc3NpdmUgYmVh",
+      "title": "Progressive beats Q2 profit estimates; shares fall 4% premarket",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/texas-capital-upgrades-amc-entertainment-stock-rating-on-debt-progress-93CH-4792911",
+      "url": "https://www.investing.com/news/earnings/progressive-beats-q2-profit-estimates-shares-fall-4-premarket-4793376",
       "source": "Investing.com News",
-      "publishedAt": 1784113494000,
+      "publishedAt": 1784119239000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,12 +105,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnJ1a2VyIGFjcXVpcmVz",
-      "title": "Bruker acquires clinical metagenomics platform from Noscendo",
+      "id": "Investing.com News-Q2ludGFzIGVhcm5pbmdz",
+      "title": "Cintas earnings beat by $0.05, revenue topped estimates",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/bruker-acquires-clinical-metagenomics-platform-from-noscendo-93CH-4792910",
+      "url": "https://www.investing.com/news/earnings/cintas-earnings-beat-by-005-revenue-topped-estimates-4793375",
       "source": "Investing.com News",
-      "publishedAt": 1784113493000,
+      "publishedAt": 1784119200000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSAxNDQgVmFsZW5z",
+      "title": "Form 144 Valens Semiconductor Ltd. For: 15 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-144-valens-semiconductor-ltd-for-15-july-93CH-4793374",
+      "source": "Investing.com News",
+      "publishedAt": 1784119170000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -178,12 +135,59 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates rise to highest level in nearly a year, causing homebuyers to pause",
+      "id": "CNBC Markets-SGFzc2V0dCBzZWVzIG5v",
+      "title": "Hassett sees no &apos;excuse&apos; to raise rates, says Warsh will push Fed to &apos;right answer&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/mortgage-rates-rise-to-highest-level-in-nearly-a-year.html",
+      "url": "https://www.cnbc.com/2026/07/15/kevin-hassett-warsh-fed-interest-rates.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784113201000,
+      "publishedAt": 1784119098000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2V2byBleHBlY3RzIHRv",
+      "title": "Gevo expects to double 2026 adjusted EBITDA on carbon credits",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/gevo-expects-to-double-2026-adjusted-ebitda-on-carbon-credits-93CH-4793372",
+      "source": "Investing.com News",
+      "publishedAt": 1784119028000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHVyZUN5Y2xlIHBhcnRu",
+      "title": "PureCycle partners with RM TOHCELLO on recycled BOPP film",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/purecycle-partners-with-rm-tohcello-on-recycled-bopp-film-93CH-4793371",
+      "source": "Investing.com News",
+      "publishedAt": 1784119028000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Disc Medicine stock rating on pipeline catalysts",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-disc-medicine-stock-rating-on-pipeline-catalysts-93CH-4793370",
+      "source": "Investing.com News",
+      "publishedAt": 1784119028000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -193,15 +197,152 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UmVuZXdlZCBIb3JtdXog",
-      "title": "Renewed Hormuz hostilities drive ECB rates rethin amid ‘extremely volatile’ outlook",
+      "id": "Investing.com News-QXR0b3ZpYSBUaGVyYXBl",
+      "title": "Attovia Therapeutics appoints John Smither to board",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
+      "url": "https://www.investing.com/news/company-news/attovia-therapeutics-appoints-john-smither-to-board-93CH-4793369",
+      "source": "Investing.com News",
+      "publishedAt": 1784119027000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmViaXVzIGxhdW5jaGVz",
+      "title": "Nebius launches asset-light model for AI cloud expansion",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/nebius-launches-assetlight-model-for-ai-cloud-expansion-93CH-4793368",
+      "source": "Investing.com News",
+      "publishedAt": 1784119026000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SVJTIGNoaWVmIEZyYW5r",
+      "title": "IRS chief Frank Bisignano will lead Trump accounts expansion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/irs-chief-frank-bisignano-will-lead-trump-accounts-expansion.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784112749000,
+      "publishedAt": 1784118736000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYW5zIHNheSB0",
+      "title": "Americans say they need $1.2 million to retire comfortably, survey finds — but many expect to fall short",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/retirement-savings-goal-1point2-million.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784118710000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGF5UGFsIGp1bXBzIDIw",
+      "title": "PayPal jumps 20% in premarket on report of Stripe, Advent $53 billion takeover offer",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784118567000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnVmZmV0dCBzYXlzIFRy",
+      "title": "Buffett says Trump&apos;s pick of Kevin Warsh for Fed chair was &apos;good choice&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784118093000,
       "lang": "en-US",
       "topics": [
         "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett tells CNBC he initiated Berkshire Hathaway&apos;s investment in Alphabet",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-tells-cnbc-he-initiated-berkshire-hathaways-investment-in-alphabet.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784117899000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784117699000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
+      "title": "Mortgage rates rise to highest level in nearly a year, causing homebuyers to pause",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/mortgage-rates-rise-to-highest-level-in-nearly-a-year.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784117612000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett calls Bill Gates&apos; actions with Epstein &apos;distasteful,&apos; but people make mistakes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784117402000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -213,7 +354,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784111929000,
+      "publishedAt": 1784117232000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -223,63 +364,95 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QVNNTCByaXNlcyA0JSBh",
-      "title": "ASML rises 4% after hiking sales forecast for second time this year on strong AI chip demand",
+      "id": "CNBC Markets-R29sZG1hbiBTYWNocyZh",
+      "title": "Goldman Sachs&apos; Ruemmler to face House questioning on Jeffrey Epstein",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/epstein-files-kathryn-ruemmler-goldman-sachs-house-oversight-interview.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784116801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxpYmFiYeKAmXMgVS5T",
+      "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784116531000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhciBhbmFseXN0IERh",
+      "title": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784116315000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmVuZXdlZCBIb3JtdXog",
+      "title": "Renewed Hormuz hostilities drive ECB rates rethink amid ‘extremely volatile’ outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784115199000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIGF0",
+      "title": "Trump&apos;s attorney general nominee Todd Blanche faces Senate Judiciary questions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/15/todd-blanche-attorney-general-trump-senate-nomination-hearing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784115002000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QVNNTCByaXNlcyAzJSBh",
+      "title": "ASML rises 3% after hiking sales forecast for second time this year on strong AI chip demand",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784110485000,
+      "publishedAt": 1784114749000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGF5UGFsIGp1bXBzIDE2",
-      "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784107748000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0sgSHluaXggU291dGgg",
-      "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784104667000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgcG9zdHMgc2xv",
-      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784092451000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -313,42 +486,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q3liZXJzZWN1cml0eSBz",
-      "title": "Cybersecurity stocks rally on AI spending change comments from IBM&apos;s Krishna",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784063619000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3VycmVudCBhbmQgZm9y",
       "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
       "source": "CNBC Markets",
       "publishedAt": 1784063564000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-WmlwbGluZSBhZGRzIGV4",
-      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784063283000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -370,36 +513,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SUJNIHN0b2NrIGNyYXRl",
-      "title": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784062866000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
-      "title": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784060217000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -450,21 +563,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBK",
-      "title": "Supreme Court Justice Barrett says the threat level against judges &apos;is really high&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784058160000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmlwYXJ0aXNhbiBncm91",
       "title": "Bipartisan group of senators propose Social Security reform process ahead of funding shortfall",
       "summary": "",
@@ -486,36 +584,6 @@
       "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
       "source": "CNBC Markets",
       "publishedAt": 1784054954000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security cost-of-living adjustment estimate for 2027 falls as inflation cools",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/social-security-cola-in-2027-cooling-inflation-lowers-estimate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784054676000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
-      "title": "Warren Buffett is accelerating his charitable donations with aim to give away Berkshire wealth by 2034",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/warren-buffett-is-accelerating-his-charitable-donations-with-aim-to-give-away-berkshire-wealth-by-2034.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784054041000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -555,66 +623,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VC4gcmV4IHNlbGxzIGZv",
-      "title": "T. rex sells for $50 million, becoming the most expensive dinosaur fossil ever auctioned",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/trex-fossil-auction-sothebys.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784049135000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiB0cmFkZSBvZmZp",
-      "title": "U.S. trade official says &apos;very few&apos; Nvidia H200 AI chips have been shipped to China",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784047828000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFyYW1vdW50IHN0aWxs",
-      "title": "Paramount still plans to close WBD merger by end of September despite lawsuit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784043384000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
-      "title": "United Airlines&apos; new upsell: Keeping other travelers out of the middle seat",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784042335000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
