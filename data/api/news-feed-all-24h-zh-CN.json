@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784480836486,
-  "crawlUpdatedAt": 1784480836486,
-  "crawlCount": 24,
+  "updatedAt": 1784485809219,
+  "crawlUpdatedAt": 1784485809219,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-U29jY2VyLVdpdGggc2Vj",
+      "title": "Soccer-With security lines and star-studded spectacle, World Cup prepares for final showdown",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/soccerwith-security-lines-and-starstudded-spectacle-world-cup-prepares-for-final-showdown-4799734",
+      "source": "Investing.com News",
+      "publishedAt": 1784484749000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBjb21wYW5pZXMg",
+      "title": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-companies-pouring-swelling-cash-balances-into-growth-plans--morgan-stanley-4799733",
+      "source": "Investing.com News",
+      "publishedAt": 1784481055000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QXQgbGVhc3Qgc2l4IGRl",
       "title": "At least six dead and 21 injured after 2 earthquakes in Peru",
@@ -178,21 +208,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgcmVuZXdzIHN0cmlr",
-      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
-      "source": "Investing.com News",
-      "publishedAt": 1784468548000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QUkgbWF5IG1ha2UgeW91",
       "title": "AI may make you &apos;boring&apos; at work, Columbia Business School professor says: How it can hurt your career",
       "summary": "",
@@ -214,21 +229,6 @@
       "url": "https://www.cnbc.com/2026/07/19/stop-asking-how-was-work-today-successful-mentally-strong-couples-ask-these-questions-instead.html",
       "source": "CNBC Markets",
       "publishedAt": 1784467801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxwaGFiZXQsIEludGVs",
-      "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up-4799723",
-      "source": "Investing.com News",
-      "publishedAt": 1784466030000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -355,23 +355,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7V2Fyc2hHUFQm",
-      "title": "&apos;WarshGPT&apos;: How Wall Street is adapting to the Fed&apos;s new era of communication",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784398602000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
