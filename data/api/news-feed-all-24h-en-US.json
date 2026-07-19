@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784446274975,
-  "crawlUpdatedAt": 1784446274975,
-  "crawlCount": 23,
+  "updatedAt": 1784455110635,
+  "crawlUpdatedAt": 1784455110635,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,128 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VS5TLiBzYXlzIGl0IHRh",
+      "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784454448000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5zdGl0dXRpb25hbCBk",
+      "title": "Institutional demand for CXMT’s $8.6 billion Shanghai IPO dented by chip stock selloff",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/institutional-demand-for-cxmts-86-billion-shanghai-ipo-dented-by-chip-stock-selloff-4799712",
+      "source": "Investing.com News",
+      "publishedAt": 1784452712000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-NSBiaWcgYW5hbHlzdCBB",
+      "title": "5 big analyst AI moves: Apple upgraded as HSBC flags ’operational turning point’",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-as-hsbc-flags-operational-turning-point-4798630",
+      "source": "Investing.com News",
+      "publishedAt": 1784451602000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBleWVzICQ3",
+      "title": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711",
+      "source": "Investing.com News",
+      "publishedAt": 1784451421000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VXNlcnMgb2YgTWV0YeKA",
+      "title": "Users of Meta’s Facebook, Instagram report suffering some outages",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/users-of-metas-facebook-instagram-report-suffering-some-outages-4799710",
+      "source": "Investing.com News",
+      "publishedAt": 1784451266000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWVuIG1vcmUgbGlrZWx5",
+      "title": "Men more likely than women to use job offers for pay rises, study finds",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/men-more-likely-than-women-to-use-job-offers-for-pay-rises-study-finds-4799709",
+      "source": "Investing.com News",
+      "publishedAt": 1784448388000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IEJvZkEgcmVtYWlu",
+      "title": "Why BofA remains negative on European equities",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-bofa-remains-negative-on-european-equities-4799707",
+      "source": "Investing.com News",
+      "publishedAt": 1784447912000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9vbnNob3QgQUkgcGxh",
+      "title": "Moonshot AI plans Hong Kong IPO within six months after Kimi breakthrough",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/moonshot-ai-plans-hong-kong-ipo-within-six-months-after-kimi-breakthrough-4799706",
+      "source": "Investing.com News",
+      "publishedAt": 1784445707000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBzdHVjayBp",
       "title": "Bitcoin stuck in tight range below $65,600: Hourly levels",
@@ -54,111 +176,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgTWFyc2hhbHMgYXJy",
-      "title": "US Marshals arrest ’hypermasculine’ social media stars Andrew and Tristan Tate, UK seeks extradition",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-marshals-arrest-hypermasculine-social-media-stars-andrew-and-tristan-tate-uk-seeks-extradition-4799694",
-      "source": "Investing.com News",
-      "publishedAt": 1784440828000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RkRBIGZpbmRzIG91dGJy",
-      "title": "FDA finds outbreak-linked parasite in Taylor Farms lettuce sample",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/fda-finds-outbreaklinked-parasite-in-taylor-farms-lettuce-sample-4799703",
-      "source": "Investing.com News",
-      "publishedAt": 1784440805000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluZSBzdHJpa2Vz",
-      "title": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ukraine-strikes-wildberries-warehouses-deep-inside-russia-killing-eight-4799702",
-      "source": "Investing.com News",
-      "publishedAt": 1784438589000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgcmVuZXdzIHN0cmlr",
-      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
-      "source": "Investing.com News",
-      "publishedAt": 1784437228000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzdCBzYXlzIHRo",
-      "title": "Analyst says there is a divide in how Americans shop for Apparel & Footwear",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analyst-says-there-is-a-divide-in-how-americans-shop-for-apparel--footwear-4799701",
-      "source": "Investing.com News",
-      "publishedAt": 1784436910000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLVNhbXN1",
-      "title": "Exclusive-Samsung cuts US jobs, offers relocations ahead of HQ move",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
-      "source": "Investing.com News",
-      "publishedAt": 1784435784000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5kcmV3IGFuZCBUcmlz",
-      "title": "Andrew and Tristan Tate arrested in Miami on UK extradition request",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/andrew-and-tristan-tate-arrested-in-miami-on-uk-extradition-request-4799700",
-      "source": "Investing.com News",
-      "publishedAt": 1784433401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
