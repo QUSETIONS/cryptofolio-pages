@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784417409614,
-  "crawlUpdatedAt": 1784417409614,
-  "crawlCount": 25,
+  "updatedAt": 1784423213157,
+  "crawlUpdatedAt": 1784423213157,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-V2h5IHdvdWxkIFN0cmlw",
+      "title": "Why would Stripe want PayPal?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-would-stripe-want-paypal-4799689",
+      "source": "Investing.com News",
+      "publishedAt": 1784421575000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-VVMgcmVuZXdzIHN0cmlr",
-      "title": "US renews strikes on Iran after two military personnel were killed by Iranian attack",
+      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
       "summary": "",
       "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
       "source": "Investing.com News",
-      "publishedAt": 1784417074000,
+      "publishedAt": 1784421030000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGF0YSBjZW50ZXIgb3Bw",
+      "title": "Data center opponents stage 142 protests across 42 US states",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
+      "source": "Investing.com News",
+      "publishedAt": 1784419232000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNv4oCZcyBTaGVp",
+      "title": "Mexico’s Sheinbaum to attend World Cup final at President Trump’s invitation",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/mexicos-sheinbaum-to-attend-world-cup-final-at-president-trumps-invitation-4799687",
+      "source": "Investing.com News",
+      "publishedAt": 1784418866000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc3RyaWtlcyBJcmFu",
+      "title": "US strikes Iran after attack kills two American troops",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-strikes-iran-after-attack-kills-two-american-troops-4799686",
+      "source": "Investing.com News",
+      "publishedAt": 1784418804000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,21 +163,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgZGF0YSBjZW50ZXIg",
-      "title": "US data center protests go national as backlash grows",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
-      "source": "Investing.com News",
-      "publishedAt": 1784413124000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-Q3ViYW4gZGlzc2lkZW50",
       "title": "Cuban dissident artist arrives in US after five years in prison, Rubio says",
       "summary": "",
@@ -144,53 +189,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S09TUEkgZWFybmluZ3Mg",
-      "title": "KOSPI earnings are better. So why are stocks falling harder?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kospi-earnings-are-better-so-why-are-stocks-falling-harder-4799678",
-      "source": "Investing.com News",
-      "publishedAt": 1784411561000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgc2F5cyB0d28gbWls",
-      "title": "US says two military personnel killed by Iranian attack in Jordan",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
-      "source": "Investing.com News",
-      "publishedAt": 1784410225000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiByZWNvdmVy",
-      "title": "Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577",
-      "source": "Investing.com News",
-      "publishedAt": 1784410215000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -374,21 +372,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmVzZSBBSSBoYXMg",
-      "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784336627000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
