@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1784580575906,
-  "crawlUpdatedAt": 1784580575906,
+  "updatedAt": 1784585247019,
+  "crawlUpdatedAt": 1784585247019,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,104 +13,192 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-VHJ1bXAgaW1wb3Npbmcg",
+      "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784585049000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBOZXRh",
+      "title": "Trump says Netanyahu won&apos;t be arrested in New York, pushing back on Mamdani",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784584217000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5dGhlb24gd2lucyAk",
+      "title": "Raytheon wins $1.8B Navy radar contract modification",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/raytheon-wins-18b-navy-radar-contract-modification-93CH-4801760",
+      "source": "Investing.com News",
+      "publishedAt": 1784583678000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIHJlaXRl",
+      "title": "Jefferies reiterates Tempus AI stock rating on acquisition concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-tempus-ai-stock-rating-on-acquisition-concerns-93CH-4801759",
+      "source": "Investing.com News",
+      "publishedAt": 1784583650000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29tcGFzcyBQb2ludCBy",
+      "title": "Compass Point reiterates eToro stock rating on strong June metrics",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/compass-point-reiterates-etoro-stock-rating-on-strong-june-metrics-93CH-4801758",
+      "source": "Investing.com News",
+      "publishedAt": 1784583650000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHJpc2VzIGFib3V0",
+      "title": "Oil rises about 1% as Trump says Iran will ’pay’ for death of U.S. service members",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-surge-brent-crosses-90-as-usiran-conflict-worsens-4799759",
+      "source": "Investing.com News",
+      "publishedAt": 1784583636000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FwaXRhbCBPbmUgZGVm",
+      "title": "Capital One defeats lawsuit alleging excessive credit card rates",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/capital-one-defeats-lawsuit-alleging-excessive-credit-card-rates-4801756",
+      "source": "Investing.com News",
+      "publishedAt": 1784583455000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0YW55YWh1IHdpbGwg",
+      "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/netanyahu-will-not-be-arrested-in-us-trump-says-as-new-york-mayor-mulls-options-4801521",
+      "source": "Investing.com News",
+      "publishedAt": 1784583434000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2VuYXRvcnMgYXQg",
+      "title": "US senators at airshow to reassure foreign defense contractors, urge tariff-free trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-senators-at-airshow-to-reassure-foreign-defense-contractors-urge-tarifffree-trade-4801465",
+      "source": "Investing.com News",
+      "publishedAt": 1784583417000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgaW1wb3NlcyA1MCUg",
+      "title": "US imposes 50% tariffs on wide range of Canadian products",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-imposes-50-tariffs-on-wide-range-of-canadian-products-4801755",
+      "source": "Investing.com News",
+      "publishedAt": 1784583408000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-THV4eGZvbGlvIGNsb3Nl",
+      "title": "Luxxfolio closes $1.55M private placement for crypto projects",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/luxxfolio-closes-155m-private-placement-for-crypto-projects-93CH-4801754",
+      "source": "Investing.com News",
+      "publishedAt": 1784583401000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgaW5k",
+      "title": "Wall Street indexes fall, with Iran and earnings season in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-ahead-of-this-weeks-megacap-earnings-4800229",
+      "source": "Investing.com News",
+      "publishedAt": 1784583394000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-QWxwaGFiZXQgc3RvY2sg",
       "title": "Alphabet stock pops on report it&apos;s developing a more efficient AI chip",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
       "source": "CNBC Markets",
       "publishedAt": 1784580286000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBzdG9ja3MgbG93",
-      "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.59%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-059-4801671",
-      "source": "Investing.com News",
-      "publishedAt": 1784579459000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWRhIHN0b2NrcyBs",
-      "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.86%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-086-4801670",
-      "source": "Investing.com News",
-      "publishedAt": 1784579431000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhemlsIHN0b2NrcyBs",
-      "title": "Brazil stocks lower at close of trade; Bovespa down 0.20%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-020-4801667",
-      "source": "Investing.com News",
-      "publishedAt": 1784579403000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXVkZHkgV2F0ZXJzIHNl",
-      "title": "Muddy Waters seeks to disqualify Quinn Emanuel from Techtronic lawsuit",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/muddy-waters-seeks-to-disqualify-quinn-emanuel-from-techtronic-lawsuit-93CH-4801666",
-      "source": "Investing.com News",
-      "publishedAt": 1784579357000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um95YWwgQ2FyaWJiZWFu",
-      "title": "Royal Caribbean Group appoints Tara Bunch to board",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/royal-caribbean-group-appoints-tara-bunch-to-board-93CH-4801664",
-      "source": "Investing.com News",
-      "publishedAt": 1784579327000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVzYSBSb3lhbHR5IFRy",
-      "title": "Mesa Royalty Trust suspends July distribution amid costs",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mesa-royalty-trust-suspends-july-distribution-amid-costs-93CH-4801663",
-      "source": "Investing.com News",
-      "publishedAt": 1784579326000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -131,83 +219,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWZ0ZXIgZGVhZGx5IHdl",
-      "title": "After deadly weekend for US troops, Trump vows revenge against Iran",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/after-deadly-weekend-for-us-troops-trump-vows-revenge-against-iran-4801512",
-      "source": "Investing.com News",
-      "publishedAt": 1784579086000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WmlvbnMgQmFuY29ycCBm",
-      "title": "Zions Bancorp falls despite beating Q2 earnings estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/zions-bancorp-falls-despite-beating-q2-earnings-estimates-93CH-4801658",
-      "source": "Investing.com News",
-      "publishedAt": 1784579071000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSBz",
-      "title": "Trump says he signed proclamation to adjust tariffs on aluminum imports",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/trump-signs-proclamation-adjusting-imports-of-aluminum-into-us-white-house-says-4801582",
-      "source": "Investing.com News",
-      "publishedAt": 1784579068000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3BhY2VYIHNldHMgZGF0",
-      "title": "SpaceX sets date for maiden earnings report: Why August 4 is make-or-break",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-4801629",
-      "source": "Investing.com News",
-      "publishedAt": 1784579032000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB5",
-      "title": "U.S. Treasury yields rise as Wall Street monitors Middle East tensions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784578019000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -242,12 +253,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-MiB0aGluZ3MgY2FwcGlu",
-      "title": "2 things capping Monday&apos;s market — plus, Alphabet&apos;s new AI chip roadmap",
+      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgb3Vy",
+      "title": "Here&apos;s our advice for investors looking to buy the dip in volatile AI stocks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/2-things-capping-monday-market-rally-alphabet-new-ai-chip-plans.html",
+      "url": "https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784575474000,
+      "publishedAt": 1784575709000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -293,21 +304,6 @@
       "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
       "source": "CNBC Markets",
       "publishedAt": 1784573604000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBOZXRh",
-      "title": "Trump says Netanyahu won&apos;t be arrested in New York, pushing back on Mamdani",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784573350000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -422,6 +418,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SXJhbiZhcG9zO3MgSG91",
+      "title": "Iran&apos;s Houthi allies declare maritime embargo against Saudi Arabia, escalating threat to oil market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/iran-houthi-yemen-saudi-arabia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784560459000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-UnlhbmFpciBzYXlzICZh",
       "title": "Ryanair says &apos;no shortage&apos; of travelers despite Iran war denting profit",
       "summary": "",
@@ -494,21 +505,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7R2l2ZSBtZSBt",
-      "title": "&apos;Give me my money back&apos;: South Korean traders&apos; leveraged SK Hynix, Samsung bets unravel after sell-off",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784550926000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
