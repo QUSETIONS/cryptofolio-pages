@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784566816489,
-  "crawlUpdatedAt": 1784566816489,
-  "crawlCount": 35,
+  "updatedAt": 1784574237030,
+  "crawlUpdatedAt": 1784574237030,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QXJjaGVyIHN0b2NrIHJp",
-      "title": "Archer stock rips 18% higher as company unveils military craft with Anduril",
+      "id": "Investing.com News-VS5TLiBzdG9ja3MgbWl4",
+      "title": "U.S. stocks mixed as investors eye earnings season for next major market catalyst",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784566648000,
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
+      "source": "Investing.com News",
+      "publishedAt": 1784574065000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,132 +28,30 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIE5hbWVzIFRvcCBV",
-      "title": "UBS Names Top Uranium Stocks Amid Record Contract Prices",
+      "id": "Investing.com News-UyZQIDUwMCwgTmFzZGFx",
+      "title": "S&P 500, Nasdaq rise with chips boost; Iran and megacap earnings in focus",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ubs-names-top-uranium-stocks-amid-record-contract-prices-93CH-4801462",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-ahead-of-this-weeks-megacap-earnings-4800229",
       "source": "Investing.com News",
-      "publishedAt": 1784566580000,
+      "publishedAt": 1784574042000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
-      "symbols": [],
+      "symbols": [
+        "NDX",
+        "SPX"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U291dGggQ2Fyb2xpbmEg",
-      "title": "South Carolina Republicans crowd field to succeed Sen. Lindsey Graham",
+      "id": "Investing.com News-TW9vZHnigJlzIHVwZ3Jh",
+      "title": "Moody’s upgrades Fortinet rating to A3 on strong execution",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784566500000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGF0YXZhdWx0IEFJIG91",
-      "title": "Datavault AI outlines Q3 2026 operational priorities",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/datavault-ai-outlines-q3-2026-operational-priorities-93CH-4801459",
+      "url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-fortinet-rating-to-a3-on-strong-execution-93CH-4801543",
       "source": "Investing.com News",
-      "publishedAt": 1784566373000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmVydGljYWwgQWVyb3Nw",
-      "title": "Vertical Aerospace completes first public eVTOL flight at airshow",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vertical-aerospace-completes-first-public-evtol-flight-at-airshow-93CH-4801458",
-      "source": "Investing.com News",
-      "publishedAt": 1784566371000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF0aW9uYWwgQmFuayBv",
-      "title": "National Bank of Canada explores SRT deal on project finance loans - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/national-bank-of-canada-explores-srt-deal-on-project-finance-loans--bloomberg-93CH-4801457",
-      "source": "Investing.com News",
-      "publishedAt": 1784566273000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgU3RyYXRlZ2ljIFBl",
-      "title": "US Strategic Petroleum Reserve drops to lowest since 1983",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-strategic-petroleum-reserve-drops-to-lowest-since-1983-93CH-4801456",
-      "source": "Investing.com News",
-      "publishedAt": 1784566193000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TG9ja2hlZWQgdG8gbWFr",
-      "title": "Lockheed to make cheaper Patriot interceptors as air defense demand soars",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lockheed-to-make-cheaper-patriot-interceptors-as-air-defense-demand-soars-4799831",
-      "source": "Investing.com News",
-      "publishedAt": 1784566107000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW5rbm93biBzaGFyZWhv",
-      "title": "Unknown shareholder offers £167 million stake in BT for sale",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/unknown-shareholder-offers-167-million-stake-in-bt-for-sale-93CH-4801454",
-      "source": "Investing.com News",
-      "publishedAt": 1784566096000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley increases stake in Central Asia Metals to 6%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/morgan-stanley-increases-stake-in-central-asia-metals-to-6-93CH-4801452",
-      "source": "Investing.com News",
-      "publishedAt": 1784565996000,
+      "publishedAt": 1784573828000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,12 +61,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVyb3BlYW4gd2hlYXQg",
-      "title": "European wheat futures hold steady despite French crop decline",
+      "id": "Investing.com News-Qm9mQSBjdXRzIEF0bGFz",
+      "title": "BofA cuts Atlassian stock price target on lower revenue outlook",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/european-wheat-futures-hold-steady-despite-french-crop-decline-93CH-4801451",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-atlassian-stock-price-target-on-lower-revenue-outlook-93CH-4801542",
       "source": "Investing.com News",
-      "publishedAt": 1784565989000,
+      "publishedAt": 1784573813000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -178,12 +76,254 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-WWVtZW7igJlzIEhvdXRo",
-      "title": "Yemen’s Houthis declare naval blockade against Saudi Arabia",
+      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
+      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-declare-naval-blockade-against-saudi-arabia--statement-4800903",
+      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784573767000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFyYW1vdW50IFNreWRh",
+      "title": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/judge-orders-paramount-to-temporarily-pause-warner-bros-acquisition-4801471",
       "source": "Investing.com News",
-      "publishedAt": 1784565775000,
+      "publishedAt": 1784573691000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgRkRBIHNheXMgZGF0",
+      "title": "US FDA says data continues to support Taylor Farms’ lettuce as cyclospora source",
+      "summary": "",
+      "url": "https://www.investing.com/news/general-news/cyclosporiasis-cases-in-michigan-climb-to-over-6000-state-health-officials-say-4801350",
+      "source": "Investing.com News",
+      "publishedAt": 1784573672000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuLiBEYXJsaW5lIEdy",
+      "title": "Sen. Darline Graham running for full term to replace late brother Lindsey Graham",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784573604000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U21pdGgtTWlkbGFuZCBi",
+      "title": "Smith-Midland begins production for Virginia data center",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/smithmidland-begins-production-for-virginia-data-center-93CH-4801541",
+      "source": "Investing.com News",
+      "publishedAt": 1784573566000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1hem9uIGdyb3d0aCBj",
+      "title": "Amazon growth catalysts: AWS, Project Kuiper and the Jul 30 earnings setup",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-growth-catalysts-aws-project-kuiper-and-the-jul-30-earnings-setup-93CH-4801540",
+      "source": "Investing.com News",
+      "publishedAt": 1784573393000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFyYW1vdW50IGFuZCBX",
+      "title": "Paramount and Warner Bros. merger hit with temporary restraining order",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784573373000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBOZXRh",
+      "title": "Trump says Netanyahu won&apos;t be arrested in New York, pushing back on Mamdani",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784573350000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZ0ZXIgZGVhZGx5IHdl",
+      "title": "After deadly weekend for US troops, Trump vows revenge against Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/after-deadly-weekend-for-us-troops-trump-vows-revenge-against-iran-4801512",
+      "source": "Investing.com News",
+      "publishedAt": 1784573303000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGFybGluZSBHcmFoYW0g",
+      "title": "Darline Graham enters South Carolina Senate race",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/darline-graham-enters-south-carolina-senate-race-93CH-4801538",
+      "source": "Investing.com News",
+      "publishedAt": 1784573210000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmV0Qmx1ZSB3aW5zIFNw",
+      "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784572271000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q291bGQg4oCYVGhlIE9k",
+      "title": "Could ‘The Odyssey’ lead the &apos;apes&apos; back home to AMC shares?",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/could-the-odyssey-lead-the-apes-back-home-to-amc-shares.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784570706000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIEZEQSBtYWRlIGEg",
+      "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784570654000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFuIHdpdGggYWlyc29m",
+      "title": "Man with airsoft rifles caused fireworks explosion outside NYC immigration court: MS NOW",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/new-york-nyc-fbi-incendiary-device.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784568609000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB5",
+      "title": "U.S. Treasury yields rise as Wall Street monitors Middle East tensions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784568224000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGJhciBmb3IgVGVz",
+      "title": "The bar for Tesla earnings is sky-high. Here&apos;s why and how options traders can capitalize",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784567782000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXJjaGVyIHN0b2NrIHJp",
+      "title": "Archer stock rips 20% higher as company unveils military craft with Anduril",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784567714000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -205,36 +345,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyB0dXJu",
-      "title": "Oil prices turn lower after Iran says U.S. talks could be pursued based on national interests",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784565369000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFuIHdpdGggYWlyc29m",
-      "title": "Man with airsoft rifles caused fireworks explosion outside NYC immigration court: MS NOW",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/new-york-nyc-fbi-incendiary-device.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784564517000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -268,21 +378,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmV0Qmx1ZSB3aW5zIFNw",
-      "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784563004000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hhdCB0byBrbm93IGFi",
       "title": "What to know about testosterone replacement therapy as the U.S. military plans to test troops",
       "summary": "",
@@ -294,23 +389,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB5",
-      "title": "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784559061000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -465,21 +543,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2Ftc3VuZyBCaW9sb2dp",
-      "title": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland&apos;s PolyPeptide Group",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784534668000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RnJvbSAmYXBvcztTdXBl",
       "title": "From &apos;Super El Niño&apos; to Europe’s extreme heatwave: How this year&apos;s weather shocks are rattling commodity markets",
       "summary": "",
@@ -507,21 +570,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhIHBvdW5kcyBL",
-      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would &apos;lose a lot&apos; by attacking Baltics",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784522964000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
