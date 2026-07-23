@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1784812019611,
-  "crawlUpdatedAt": 1784812019611,
+  "updatedAt": 1784820800371,
+  "crawlUpdatedAt": 1784820800371,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBTYXVk",
-      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+      "id": "CNBC Markets-SG91c2UgbGF3bWFrZXJz",
+      "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+      "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784811608000,
+      "publishedAt": 1784820789000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,29 +28,162 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield tops 4.7%, highest since January 2025",
+      "id": "CNBC Markets-R29vZ2xlIENsb3VkIENF",
+      "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
+      "url": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784811482000,
+      "publishedAt": 1784820586000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
-      "symbols": [
-        "UST10Y"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U291dGh3ZXN0IEFpcmxp",
-      "title": "Southwest Airlines&apos; third-quarter forecast falls short as fuel bill climbs",
+      "id": "CNBC Markets-QWxwaGFiZXQgYW5kIFRl",
+      "title": "Alphabet and Tesla test Wall Street&apos;s patience as AI spending overshadows growth",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784811077000,
+      "publishedAt": 1784820367000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
+      "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784820314000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUNFQSAxSCAyMDI2IHNs",
+      "title": "ACEA 1H 2026 slides: organic growth drives 4% EBITDA gain",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/acea-1h-2026-slides-organic-growth-drives-4-ebitda-gain-93CH-4809503",
+      "source": "Investing.com News",
+      "publishedAt": 1784819999000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGFkZGVyIENhcGl0YWwg",
+      "title": "Ladder Capital Q2 2026 slides: loan growth accelerates despite EPS miss",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ladder-capital-q2-2026-slides-loan-growth-accelerates-despite-eps-miss-93CH-4809501",
+      "source": "Investing.com News",
+      "publishedAt": 1784819988000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlkIEdvb2dsZSBhbmQg",
+      "title": "Did Google and Tesla just break AI trade’s bull case?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/did-google-and-tesla-just-break-ai-trades-bull-case-4809500",
+      "source": "Investing.com News",
+      "publishedAt": 1784819976000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Snap-on tops Q2 2026 estimates as sales hit record",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-snapon-tops-q2-2026-estimates-as-sales-hit-record-93CH-4809499",
+      "source": "Investing.com News",
+      "publishedAt": 1784819925000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qk1XIHRvIHJlY2FsbCBv",
+      "title": "BMW to recall over 318,000 US vehicles over starter motor overheating risk",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/bmw-to-recall-over-318000-us-vehicles-over-starter-motor-overheating-4807676",
+      "source": "Investing.com News",
+      "publishedAt": 1784819916000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hvaWNlIFByb3BlcnRp",
+      "title": "Choice Properties Q2 2026 slides: solid operations, mixed financials",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/choice-properties-q2-2026-slides-solid-operations-mixed-financials-93CH-4809498",
+      "source": "Investing.com News",
+      "publishedAt": 1784819882000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Richardson Electronics tops Q4 2026 forecasts, shares jump",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-richardson-electronics-tops-q4-2026-forecasts-shares-jump-93CH-4809497",
+      "source": "Investing.com News",
+      "publishedAt": 1784819856000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-THlmdCBzdG9jayB0dW1i",
+      "title": "Lyft stock tumbles on short report citing legal risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/lyft-stock-tumbles-on-short-report-citing-legal-risks-93CH-4809496",
+      "source": "Investing.com News",
+      "publishedAt": 1784819855000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -61,11 +194,11 @@
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: IndiGo posts q1 loss as fuel costs weigh on margins",
+      "title": "Earnings call transcript: WEX tops Q2 2026 estimates and shares rise 5.4%",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-indigo-posts-q1-loss-as-fuel-costs-weigh-on-margins-93CH-4808963",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wex-tops-q2-2026-estimates-and-shares-rise-54-93CH-4809495",
       "source": "Investing.com News",
-      "publishedAt": 1784810988000,
+      "publishedAt": 1784819835000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -75,42 +208,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SnViaWxhbnQgSW5ncmV2",
-      "title": "Jubilant Ingrevia Q1 FY27 slides: record revenue, EBITDA growth",
+      "id": "Investing.com News-RG9sbGFyIGhpdHMgZnJl",
+      "title": "Dollar hits fresh 40-year high against yen as oil tops $100, ECB stands pat",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/jubilant-ingrevia-q1-fy27-slides-record-revenue-ebitda-growth-93CH-4808964",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-yen-steadies-near-40year-low-as-oil-fed-outlook-weigh-on-regional-fx-4807462",
       "source": "Investing.com News",
-      "publishedAt": 1784810983000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5zdGFudCBWaWV3OiBF",
-      "title": "Instant View: ECB leaves rates on hold, but keeps door open to further rate hikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/instant-view-ecb-leaves-rates-on-hold-but-keeps-door-open-to-further-rate-hikes-4808962",
-      "source": "Investing.com News",
-      "publishedAt": 1784810948000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIHJhaXNlcyBU",
-      "title": "Stifel raises Teledyne stock price target to $775 on strong results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-raises-teledyne-stock-price-target-to-775-on-strong-results-93CH-4808959",
-      "source": "Investing.com News",
-      "publishedAt": 1784810929000,
+      "publishedAt": 1784819824000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -120,104 +223,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2hpbmEgU1hUIFBoYXJt",
-      "title": "China SXT Pharmaceuticals prices $9 million registered offering",
+      "id": "CNBC Markets-SW50ZWwgc3RvY2sgaXMg",
+      "title": "Intel stock is down 27% from June record highs. How the chipmaker can reverse the slide",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/china-sxt-pharmaceuticals-prices-9-million-registered-offering-93CH-4808958",
-      "source": "Investing.com News",
-      "publishedAt": 1784810915000,
+      "url": "https://www.cnbc.com/2026/07/23/intel-is-down-27percent-from-june-record-highs-how-it-can-reverse-the-slide.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784819781000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW9zIEVuZXJneSBhbm5v",
-      "title": "Eos Energy announces $263 million equity raise for storage venture",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/eos-energy-announces-263-million-equity-raise-for-storage-venture-93CH-4808957",
-      "source": "Investing.com News",
-      "publishedAt": 1784810914000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV4aWNhbiBlY29ub215",
-      "title": "Mexican economy falters in May as construction dips",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/mexican-economy-falters-in-may-as-construction-dips-4808956",
-      "source": "Investing.com News",
-      "publishedAt": 1784810912000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Vm95YSBGaW5hbmNpYWwg",
-      "title": "Voya Financial renews Honolulu retirement plan contract",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/voya-financial-renews-honolulu-retirement-plan-contract-93CH-4808955",
-      "source": "Investing.com News",
-      "publishedAt": 1784810911000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW9zIEVuZXJneSByYWlz",
-      "title": "Eos Energy raises $37.7 million in rights offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/eos-energy-raises-377-million-in-rights-offering-93CH-4808954",
-      "source": "Investing.com News",
-      "publishedAt": 1784810908000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9uZCB5aWVsZHMgcmlz",
-      "title": "Bond yields rise as persistent energy shock fuels hawkish ECB and Fed hike bets",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/shortdated-yields-touch-highest-level-since-2024-ahead-of-ecb-rate-decision-4807611",
-      "source": "Investing.com News",
-      "publishedAt": 1784810881000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
-      "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
+      "id": "CNBC Markets-QWxiZXJ0c29ucyBzdG9j",
+      "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784810691000,
+      "publishedAt": 1784819625000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -232,13 +258,150 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784810638000,
+      "publishedAt": 1784818433000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBTYXVk",
+      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784818250000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3ljbG9zcG9yYSBvdXRi",
+      "title": "Cyclospora outbreak tests RFK Jr.&apos;s promise to overhaul food system, rebuild trust in CDC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784818088000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SVJTIGNoaWVmIEZyYW5r",
+      "title": "IRS chief Frank Bisignano may have misled Congress, Democrats say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/frank-bisignano-irs-misled-congress-warren-democrats.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784816761000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCByZXBvcnRlciBK",
+      "title": "Tech reporter Joanna Stern asked AI to do &apos;almost everything&apos; for a year—the No. 1 tool she&apos;ll keep using",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/joanna-stern-used-ai-for-almost-everything-for-a-year-the-no-1-tool-shell-keep-using.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784816701000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield rises to highest since January 2025 as surging oil rekindles inflation fear",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784816130000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxpIExpbGx5IHNheXMg",
+      "title": "Eli Lilly says it will file for approval of next-generation obesity drug in 2027 as it clears two more trials",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/eli-lilly-will-file-for-approval-of-retatrutide-obesity-drug-in-2027.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784814720000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJlbnQgY3J1ZGUgdG9w",
+      "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784813789000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJhZGVycyBzZWUgU2Vw",
+      "title": "Traders see September rate hike as European Central Bank mulls energy price spike",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784813157000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGh3ZXN0IEFpcmxp",
+      "title": "Southwest Airlines&apos; third-quarter forecast falls short as fuel bill climbs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784813127000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -278,21 +441,6 @@
       "url": "https://www.cnbc.com/2026/07/23/aarp-opposes-bipartisan-social-security-reform-proposal.html",
       "source": "CNBC Markets",
       "publishedAt": 1784810101000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3ljbG9zcG9yYSBvdXRi",
-      "title": "Cyclospora outbreak tests RFK Jr.&apos;s promise to overhaul food system, rebuild trust in CDC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784809930000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -392,134 +540,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SVJTIGNoaWVmIEZyYW5r",
-      "title": "IRS chief Frank Bisignano may have misled Congress, Democrats say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/frank-bisignano-irs-misled-congress-warren-democrats.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784804401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29vZ2xlIHNsYXBwZWQg",
       "title": "Google slapped with $1 billion fine under landmark EU digital law",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html",
       "source": "CNBC Markets",
       "publishedAt": 1784804301000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxpIExpbGx5IHNheXMg",
-      "title": "Eli Lilly says it will file for approval of next-generation obesity drug in 2027 as it clears two more trials",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/eli-lilly-will-file-for-approval-of-retatrutide-obesity-drug-in-2027.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784803502000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvaWwgdG9wcyAk",
-      "title": "U.S. oil tops $90, Brent above $98 after tankers struck off Saudi Arabia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784799374000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVkZ2UgZnVuZHMgY2ly",
-      "title": "Hedge funds circle UK stocks as new PM Andy Burnham pledges &apos;new economic model&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784783201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2lsdmVyIGFuZCBnb2xk",
-      "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784782801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2VuIFogcHJvdGVzdHMg",
-      "title": "Gen Z protests led by India’s &apos;Cockroach party&apos; are testing Modi’s leadership",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/gen-z-protest-india-cockroach-modi-leadership.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784779347000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgYW5kIFRl",
-      "title": "Alphabet and Tesla test Wall Street&apos;s patience as AI spending overshadows growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784771302000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IHdlJmFwb3M7cmUg",
-      "title": "Why we&apos;re sticking with Alphabet despite an imperfect quarter and more AI spending",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784768221000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -580,36 +606,6 @@
       "url": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
       "source": "CNBC Markets",
       "publishedAt": 1784756066000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBTZWNyZXQgU2Vy",
-      "title": "U.S. Secret Service official: &apos;Threat environment is the highest we&apos;ve ever seen&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/secret-service-threat-trump-white-house-drones.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784750989000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RVUgYW50aXRydXN0IHJl",
-      "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784747982000,
       "lang": "en-US",
       "topics": [
         "macro"
