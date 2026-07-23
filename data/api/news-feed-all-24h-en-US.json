@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1784806059179,
-  "crawlUpdatedAt": 1784806059179,
+  "updatedAt": 1784812019611,
+  "crawlUpdatedAt": 1784812019611,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,346 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SG91dGhpcyBjbGFpbSBz",
-      "title": "Houthis claim strikes on Saudi oil tankers as Rubio says Iran not ready to make a deal",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBTYXVk",
+      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784811608000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield tops 4.7%, highest since January 2025",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784811482000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U291dGh3ZXN0IEFpcmxp",
+      "title": "Southwest Airlines&apos; third-quarter forecast falls short as fuel bill climbs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784811077000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: IndiGo posts q1 loss as fuel costs weigh on margins",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-indigo-posts-q1-loss-as-fuel-costs-weigh-on-margins-93CH-4808963",
+      "source": "Investing.com News",
+      "publishedAt": 1784810988000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SnViaWxhbnQgSW5ncmV2",
+      "title": "Jubilant Ingrevia Q1 FY27 slides: record revenue, EBITDA growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jubilant-ingrevia-q1-fy27-slides-record-revenue-ebitda-growth-93CH-4808964",
+      "source": "Investing.com News",
+      "publishedAt": 1784810983000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5zdGFudCBWaWV3OiBF",
+      "title": "Instant View: ECB leaves rates on hold, but keeps door open to further rate hikes",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/instant-view-ecb-leaves-rates-on-hold-but-keeps-door-open-to-further-rate-hikes-4808962",
+      "source": "Investing.com News",
+      "publishedAt": 1784810948000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RpZmVsIHJhaXNlcyBU",
+      "title": "Stifel raises Teledyne stock price target to $775 on strong results",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/stifel-raises-teledyne-stock-price-target-to-775-on-strong-results-93CH-4808959",
+      "source": "Investing.com News",
+      "publishedAt": 1784810929000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgU1hUIFBoYXJt",
+      "title": "China SXT Pharmaceuticals prices $9 million registered offering",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/china-sxt-pharmaceuticals-prices-9-million-registered-offering-93CH-4808958",
+      "source": "Investing.com News",
+      "publishedAt": 1784810915000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW9zIEVuZXJneSBhbm5v",
+      "title": "Eos Energy announces $263 million equity raise for storage venture",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/eos-energy-announces-263-million-equity-raise-for-storage-venture-93CH-4808957",
+      "source": "Investing.com News",
+      "publishedAt": 1784810914000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNhbiBlY29ub215",
+      "title": "Mexican economy falters in May as construction dips",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/mexican-economy-falters-in-may-as-construction-dips-4808956",
+      "source": "Investing.com News",
+      "publishedAt": 1784810912000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Vm95YSBGaW5hbmNpYWwg",
+      "title": "Voya Financial renews Honolulu retirement plan contract",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/voya-financial-renews-honolulu-retirement-plan-contract-93CH-4808955",
+      "source": "Investing.com News",
+      "publishedAt": 1784810911000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW9zIEVuZXJneSByYWlz",
+      "title": "Eos Energy raises $37.7 million in rights offering",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/eos-energy-raises-377-million-in-rights-offering-93CH-4808954",
+      "source": "Investing.com News",
+      "publishedAt": 1784810908000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9uZCB5aWVsZHMgcmlz",
+      "title": "Bond yields rise as persistent energy shock fuels hawkish ECB and Fed hike bets",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/shortdated-yields-touch-highest-level-since-2024-ahead-of-ecb-rate-decision-4807611",
+      "source": "Investing.com News",
+      "publishedAt": 1784810881000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
+      "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784810691000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29tY2FzdCBlYXJuaW5n",
+      "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784810638000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VW5pQ3JlZGl0IENFTyB0",
+      "title": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784810383000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784805940000,
+      "publishedAt": 1784810177000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUFSUCB0byBDb25ncmVz",
+      "title": "AARP to Congress: &apos;We strongly object to fast-tracking Social Security changes&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/aarp-opposes-bipartisan-social-security-reform-proposal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784810101000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3ljbG9zcG9yYSBvdXRi",
+      "title": "Cyclospora outbreak tests RFK Jr.&apos;s promise to overhaul food system, rebuild trust in CDC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784809930000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UnVzc2lh4oCZcyBBbWF6",
+      "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here&apos;s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784808823000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3plbXBpYyBmYWNlPyBC",
+      "title": "Ozempic face? Botox boom boosted by &apos;sagging face&apos; trend, Swiss firm says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/botox-galderma-ozempic-face-glp1.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784807851000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIEdl",
+      "title": "China&apos;s Geely to make EVs at Ford plant in Spain under new joint venture",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/ford-china-geely-ev-europe.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784807369000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSB0YXggYnJlYWsgZm9y",
+      "title": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/conservation-easements-tax-incentives-irs-crackdown.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784806201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,208 +377,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29tY2FzdCBlYXJuaW5n",
-      "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784805441000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
-      "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784805436000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TW9vbnNob3QgQUkgYWNj",
       "title": "Moonshot AI accessed Nvidia&apos;s chips despite Chinese export ban, White House official says",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
       "source": "CNBC Markets",
       "publishedAt": 1784805224000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SWxsdW1pbmEgc3RvY2sg",
-      "title": "Illumina stock surges 90% after InvestingPro Fair Value spotted opportunity",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/illumina-stock-surges-90-after-investingpro-fair-value-spotted-opportunity-93CH-4808332",
-      "source": "Investing.com News",
-      "publishedAt": 1784804973000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG92ZXIgc2hhcmVzIHR1",
-      "title": "Dover shares tumble over 5% despite beating earnings estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/dover-shares-tumble-over-5-despite-beating-earnings-estimates-93CH-4808331",
-      "source": "Investing.com News",
-      "publishedAt": 1784804937000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJhdG9uIHNoYXJlcyBq",
-      "title": "Traton shares jump to record high on raised 2026 guidance, strong Q2 orders",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/traton-shares-jump-over-6-on-raised-2025-guidance-4807712",
-      "source": "Investing.com News",
-      "publishedAt": 1784804915000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29vZ2xlIGhpdCB3aXRo",
-      "title": "Google hit with $1 billion EU fine, in ’constructive’ talks to avoid more penalties",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/google-hit-with-1-billion-eu-fine-first-under-landmark-rules-4808059",
-      "source": "Investing.com News",
-      "publishedAt": 1784804866000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUNPIEJhbmsgUTEgRlky",
-      "title": "UCO Bank Q1 FY27 slides: operating profit surges 80%, digital business triples",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/uco-bank-q1-fy27-slides-operating-profit-surges-80-digital-business-triples-93CH-4808322",
-      "source": "Investing.com News",
-      "publishedAt": 1784804862000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmxhY2tzdG9uZeKAmXMg",
-      "title": "Blackstone’s quarterly profit gets boost from asset pile, AI investment gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/blackstones-quarterly-profit-gets-boost-from-asset-pile-ai-investment-gains-4808255",
-      "source": "Investing.com News",
-      "publishedAt": 1784804849000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2xkIFJlcHVibGljIGVh",
-      "title": "Old Republic earnings missed by $0.02, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/old-republic-earnings-missed-by-002-revenue-fell-short-of-estimates-4808321",
-      "source": "Investing.com News",
-      "publishedAt": 1784804848000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SUJNIGJ1eXMgSFJMIExh",
-      "title": "IBM buys HRL Laboratories in shift to two-track quantum computing strategy",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ibm-buys-hrl-laboratories-in-shift-to-twotrack-quantum-computing-strategy-4808320",
-      "source": "Investing.com News",
-      "publishedAt": 1784804816000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2lsbGlhbSBSLiBUaW1t",
-      "title": "William R. Timmons IV purchases SpaceX shares valued between $50,001 and $100,000",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/william-r-timmons-iv-purchases-spacex-shares-valued-between-50001-and-100000-93CH-4808319",
-      "source": "Investing.com News",
-      "publishedAt": 1784804795000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVuYXVsdOKAmXMgaGl0",
-      "title": "Renault’s hit EV helps fend off Chinese rivals as quarterly sales rebound",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/renault-firsthalf-sales-volumes-slip-04-vs-yearago-period-4807526",
-      "source": "Investing.com News",
-      "publishedAt": 1784804793000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIEdl",
-      "title": "China&apos;s Geely to make EVs at Ford plant in Spain under new joint venture",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/ford-china-geely-ev-europe.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784804440000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -284,21 +422,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3plbXBpYyBmYWNlPyBC",
-      "title": "Ozempic face? Botox maker reports boost from &apos;sagging face&apos; trend",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/botox-galderma-ozempic-face-glp1.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784803727000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RWxpIExpbGx5IHNheXMg",
       "title": "Eli Lilly says it will file for approval of next-generation obesity drug in 2027 as it clears two more trials",
       "summary": "",
@@ -314,42 +437,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UnVzc2lh4oCZcyBBbWF6",
-      "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784800493000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VS5TLiBvaWwgdG9wcyAk",
       "title": "U.S. oil tops $90, Brent above $98 after tankers struck off Saudi Arabia",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1784799374000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VW5pQ3JlZGl0IENFTyB0",
-      "title": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784797056000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -406,36 +499,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2hpcCBmaXJtIHByaWNl",
-      "title": "Chip firm priced as China&apos;s most valuable company before its IPO brings scrutiny to crypto platform",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784777302000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784774232000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QWxwaGFiZXQgYW5kIFRl",
       "title": "Alphabet and Tesla test Wall Street&apos;s patience as AI spending overshadows growth",
       "summary": "",
@@ -481,21 +544,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U291dGh3ZXN0IEFpcmxp",
-      "title": "Southwest Airlines&apos; third-quarter forecast falls short as fuel bill climbs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784762725000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2VydmljZU5vdyBDRU8g",
       "title": "ServiceNow CEO defends the company&apos;s relevancy, touting a kill switch for rogue AI agents",
       "summary": "",
@@ -517,21 +565,6 @@
       "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
       "source": "CNBC Markets",
       "publishedAt": 1784759440000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBzaWducyBudWNs",
-      "title": "U.S. signs nuclear power agreement with Saudi Arabia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784757418000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -577,36 +610,6 @@
       "url": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
       "source": "CNBC Markets",
       "publishedAt": 1784747982000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91dGhpcyBkZXBsb3kg",
-      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784745955000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIGN5YmVyIG1v",
-      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784745457000,
       "lang": "en-US",
       "topics": [
         "macro"
