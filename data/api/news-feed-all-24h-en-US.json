@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784898184210,
-  "crawlUpdatedAt": 1784898184210,
-  "crawlCount": 39,
+  "updatedAt": 1784906053905,
+  "crawlUpdatedAt": 1784906053905,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,27 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q2hpbmHigJlzIENBVEwg",
-      "title": "China’s CATL tops quarterly profit forecasts on robust energy storage business",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields retreat, 10-year stays near January 2025 highs",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-catl-sees-net-profit-rise-42-in-first-half-4811511",
-      "source": "Investing.com News",
-      "publishedAt": 1784897314000,
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784905284000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "UST10Y"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWl6dWhvIGN1dHMgVHJh",
-      "title": "Mizuho cuts Tractor Supply stock price target on guidance concerns",
+      "id": "Investing.com News-UGh5c2ljYWwgb2lsIHBy",
+      "title": "Physical oil prices jump to two-month highs amid supply disruptions",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-tractor-supply-stock-price-target-on-guidance-concerns-93CH-4811774",
+      "url": "https://www.investing.com/news/commodities-news/physical-oil-prices-jump-to-twomonth-highs-amid-supply-disruptions-93CH-4812153",
       "source": "Investing.com News",
-      "publishedAt": 1784897221000,
+      "publishedAt": 1784904935000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,72 +45,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UkJDIENhcGl0YWwgcmFp",
-      "title": "RBC Capital raises Blackstone stock price target on strong results",
+      "id": "Investing.com News-SXNyYWVsIHN0b2NrcyBo",
+      "title": "Israel stocks higher at close of trade; TA 35 up 0.62%",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-blackstone-stock-price-target-on-strong-results-93CH-4811773",
+      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-062-4812152",
       "source": "Investing.com News",
-      "publishedAt": 1784897220000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIHJhaXNlcyBTb3V0",
-      "title": "BMO raises Southwest Airlines stock price target on margin gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-southwest-airlines-stock-price-target-on-margin-gains-93CH-4811772",
-      "source": "Investing.com News",
-      "publishedAt": 1784897220000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UkJDIGN1dHMgQ29nbml6",
-      "title": "RBC cuts Cognizant stock price target on IT spending headwinds",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rbc-cuts-cognizant-stock-price-target-on-it-spending-headwinds-93CH-4811771",
-      "source": "Investing.com News",
-      "publishedAt": 1784897220000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIGN1dHMgRmlyc3RT",
-      "title": "BMO cuts FirstService stock price target to $192 on roofing weakness",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-cuts-firstservice-stock-price-target-to-192-on-roofing-weakness-93CH-4811770",
-      "source": "Investing.com News",
-      "publishedAt": 1784897220000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIHJhaXNlcyBTQVAg",
-      "title": "BMO raises SAP stock price target to $177 on cloud growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-sap-stock-price-target-to-177-on-cloud-growth-93CH-4811769",
-      "source": "Investing.com News",
-      "publishedAt": 1784897219000,
+      "publishedAt": 1784904928000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,12 +60,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UkJDIENhcGl0YWwgcmFp",
-      "title": "RBC Capital raises Popular stock price target on strong capital position",
+      "id": "Investing.com News-R3JlZWNlIHN0b2NrcyBo",
+      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.49%",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-popular-stock-price-target-on-strong-capital-position-93CH-4811768",
+      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-149-4812151",
       "source": "Investing.com News",
-      "publishedAt": 1784897219000,
+      "publishedAt": 1784904903000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFRyYXZlbGVy",
+      "title": "Why is Travelers Companies stock rallying today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-travelers-companies-stock-rallying-today-93CH-4812150",
+      "source": "Investing.com News",
+      "publishedAt": 1784904894000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtSW52ZXN0",
+      "title": "Analysis-Investors fret that spiking oil prices and rising yields could threaten stock rally",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/analysisinvestors-fret-that-spiking-oil-prices-and-rising-yields-could-threaten-stockrally-4812149",
+      "source": "Investing.com News",
+      "publishedAt": 1784904872000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q09QVCBEZWZlbnNlIFBy",
+      "title": "COPT Defense Properties stock hits 52-week high at 38.07 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/copt-defense-properties-stock-hits-52week-high-at-3807-usd-93CH-4812148",
+      "source": "Investing.com News",
+      "publishedAt": 1784904865000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -133,12 +120,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9iaWxleWUgc3RvY2sg",
-      "title": "Mobileye stock price target lowered to $8 by Mizuho on CEO exit",
+      "id": "Investing.com News-RkRBIGNsZWFycyBmaXJz",
+      "title": "FDA clears first over-the-counter acetaminophen-naproxen combo",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/mobileye-stock-price-target-lowered-to-8-by-mizuho-on-ceo-exit-93CH-4811767",
+      "url": "https://www.investing.com/news/company-news/fda-clears-first-overthecounter-acetaminophennaproxen-combo-93CH-4812147",
       "source": "Investing.com News",
-      "publishedAt": 1784897219000,
+      "publishedAt": 1784904854000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,18 +135,168 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Royal Heijmans posts stronger H1 2026 profit, shares fall",
+      "id": "Investing.com News-U291dGggQWZyaWNhbiBy",
+      "title": "South African rand nears 17 per dollar after rate decision",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-royal-heijmans-posts-stronger-h1-2026-profit-shares-fall-93CH-4811763",
+      "url": "https://www.investing.com/news/forex-news/south-african-rand-nears-17-per-dollar-after-rate-decision-93CH-4812146",
       "source": "Investing.com News",
-      "publishedAt": 1784897029000,
+      "publishedAt": 1784904803000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXTigJlz",
+      "title": "Wall Street’s rebound attempt from oil-led wipeout loses steam as chips struggle",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-techfueled-wipeout-tariffs-iran-tensions-in-focus-4810435",
+      "source": "Investing.com News",
+      "publishedAt": 1784904732000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gY3V0cyBS",
+      "title": "JPMorgan cuts Rollins to Neutral on demand uncertainty, slashes price target",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-cuts-rollins-to-neutral-on-demand-uncertainty-slashes-price-target-4812145",
+      "source": "Investing.com News",
+      "publishedAt": 1784904729000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhLCBNaWNyb3Nv",
+      "title": "Nvidia, Microsoft, Meta warn against &apos;premature restrictions&apos; of open-weight models",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784902547000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIHNpZ25zIDEw",
+      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784902335000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hvcnRzaWdodGVkIHN0",
+      "title": "Shortsighted stock market can no longer brush off war: &apos;It&apos;s too hard to ignore $100 oil&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784902240000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW50ZWwgcmlkZXMgQUkg",
+      "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784901935000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IENvc3RjbyBrZWVw",
+      "title": "Why Costco keeps gas prices so low—it&apos;s &apos;straight out of the retail playbook,&apos; expert says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/24/why-costco-keeps-gas-prices-so-low.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784901601000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UnVzc2lhbiBhdHRhY2sg",
+      "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784898561000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIENsdWImYXBvcztz",
+      "title": "The Club&apos;s top 10 things to watch in the stock market Friday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/24/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784898386000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IGEgQ2hpbmVzZSBB",
+      "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1784898114000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -193,19 +330,17 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields retreat, 10-year hovers around January 2025 highs",
+      "id": "CNBC Markets-VHJ1bXAgY29uc2lkZXJp",
+      "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784894014000,
+      "publishedAt": 1784894235000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
-      "symbols": [
-        "UST10Y"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -216,36 +351,6 @@
       "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
       "source": "CNBC Markets",
       "publishedAt": 1784890801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gc2xhcCAm",
-      "title": "Trump to slap &apos;sweeping&apos; new tariffs on 60 trade partners as global duties expire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784889986000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhbiBhdHRhY2sg",
-      "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784887638000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -375,81 +480,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW50ZWwmYXBvcztzIHR1",
-      "title": "Intel&apos;s turnaround under CEO Lip-Bu Tan gains steam with another strong quarter",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/intels-turnaround-under-ceo-lip-bu-tan-gains-steam-with-another-strong-quarter.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784850837000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SUJNJmFwb3M7cyBLcmlz",
-      "title": "IBM&apos;s Krishna tries to reassure investors that AI won&apos;t disrupt company&apos;s software unit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784846453000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwmYXBvcztzIHN0",
-      "title": "Intel&apos;s stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784845029000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3JhY2xlIHNpZ25zIDEw",
-      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784843791000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RE9KIHdpdGhkcmF3cyBz",
-      "title": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784841464000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJJmFwb3M7cyBI",
       "title": "OpenAI&apos;s Hugging Face hack triggers &apos;AI Kill Switch&apos; bill in Congress",
       "summary": "",
@@ -553,21 +583,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hvcnRzaWdodGVkIHN0",
-      "title": "Shortsighted stock market can no longer brush off war: &apos;It&apos;s too hard to ignore $100 oil&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784834341000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
