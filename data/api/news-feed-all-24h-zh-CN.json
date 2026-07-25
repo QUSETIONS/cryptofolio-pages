@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785008909711,
-  "crawlUpdatedAt": 1785008909711,
-  "crawlCount": 29,
+  "updatedAt": 1785013322216,
+  "crawlUpdatedAt": 1785013322216,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VVMgYXBwZWFscyBjb3Vy",
-      "title": "US appeals court rules Trump cannot implement mail-in voting order",
+      "id": "Investing.com News-VS5TLiBwYXVzZXMgSXJh",
+      "title": "U.S. pauses Iran air strikes as Trump signals push for deal",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-appeals-court-rules-trump-cannot-implement-mailin-voting-order-4812812",
+      "url": "https://www.investing.com/news/economy-news/usiran-talks-continue-as-trump-warns-forces-are-ready-4812721",
       "source": "Investing.com News",
-      "publishedAt": 1785008190000,
+      "publishedAt": 1785012356000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2F1ZGkgbWlsaXRhcnkg",
+      "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785011381000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +48,69 @@
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
       "source": "Investing.com News",
-      "publishedAt": 1785007467000,
+      "publishedAt": 1785011069000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmxhdmlvIEJvbHNvbmFy",
+      "title": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei, Netanyahu",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/flavio-bolsonaro-launches-brazil-presidential-campaign-touts-support-from-milei-netanyahu-4812815",
+      "source": "Investing.com News",
+      "publishedAt": 1785010703000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgYXBwZWFscyBjb3Vy",
+      "title": "US appeals court rules Trump cannot implement mail-in voting order",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-appeals-court-rules-trump-cannot-implement-mailin-voting-order-4812812",
+      "source": "Investing.com News",
+      "publishedAt": 1785009985000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
+      "title": "Goldman Sachs raises TOPIX 12-month target to 4,500 on weaker yen outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-raises-topix-12month-target-to-4500-on-weaker-yen-outlook-4812814",
+      "source": "Investing.com News",
+      "publishedAt": 1785009677000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgNCBmb3Jj",
+      "title": "Here are 4 forces that drove a tough week for stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785009415000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,57 +182,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VS5TLiBwYXVzZXMgSXJh",
-      "title": "U.S. pauses Iran air strikes as Trump signals push for deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/usiran-talks-continue-as-trump-warns-forces-are-ready-4812721",
-      "source": "Investing.com News",
-      "publishedAt": 1785004742000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-TWljaGlnYW4gYmF0dGxl",
       "title": "Michigan battles massive outbreak as state reels from Trump cuts",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/michigan-battles-massive-outbreak-as-state-reels-from-trump-cuts-4812766",
       "source": "Investing.com News",
       "publishedAt": 1785000279000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S3V3YWl04oCZcyBLUEMg",
-      "title": "Kuwait’s KPC signs $16 billion lease and leaseback deal for oil pipeline network",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
-      "source": "Investing.com News",
-      "publishedAt": 1784999211000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TFNFR+KAmXMgTGlwcGVy",
-      "title": "LSEG’s Lipper reviews transaction affecting fixed-income fund flow data",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lsegs-lipper-reviews-transaction-affecting-fixedincome-fund-flow-data-4812804",
-      "source": "Investing.com News",
-      "publishedAt": 1784997413000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -285,18 +317,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2F1ZGkgbWlsaXRhcnkg",
-      "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+      "id": "CNBC Markets-TnZpZGlhIGxvY2tzIGRv",
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
       "source": "CNBC Markets",
-      "publishedAt": 1784974978000,
+      "publishedAt": 1784969340000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -360,21 +392,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UGFyYW1vdW50IGFncmVl",
-      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784928249000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2h5IGJvbmQgaW52ZXN0",
       "title": "Why bond investors are pushing up some of your interest rates",
       "summary": "",
@@ -387,66 +404,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZGVmZW5kcyBE",
-      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784924592000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qm9uZCBtYXJrZXQgYW54",
-      "title": "Bond market anxiety is growing over AI capex budgets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784923656000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RyYWl0IG9mIEhvcm11",
-      "title": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784923104000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0RDIHNheXMgbWFzc2l2",
-      "title": "CDC says massive cyclospora outbreak is now in nine states",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784922781000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
