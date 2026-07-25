@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1784999340602,
-  "crawlUpdatedAt": 1784999340602,
-  "crawlCount": 37,
+  "updatedAt": 1785004146963,
+  "crawlUpdatedAt": 1785004146963,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-TWljaGlnYW4gYmF0dGxl",
+      "title": "Michigan battles massive outbreak as state reels from Trump cuts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/michigan-battles-massive-outbreak-as-state-reels-from-trump-cuts-4812766",
+      "source": "Investing.com News",
+      "publishedAt": 1785000279000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S3V3YWl04oCZcyBLUEMg",
+      "title": "Kuwait’s KPC signs $16 billion lease and leaseback deal for oil pipeline network",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
+      "source": "Investing.com News",
+      "publishedAt": 1784999211000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-TFNFR+KAmXMgTGlwcGVy",
       "title": "LSEG’s Lipper reviews transaction affecting fixed-income fund flow data",
@@ -145,36 +175,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhemlsIGJhcnMgVS5T",
-      "title": "Brazil bars U.S. officials planning to challenge vote integrity - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/general-news/brazil-bars-us-officials-planning-to-challenge-vote-integrity--report-4812798",
-      "source": "Investing.com News",
-      "publishedAt": 1784992867000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3J1cG8gQmltYm8gUTIg",
-      "title": "Grupo Bimbo Q2 2026 slides: margin expansion accelerates",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/grupo-bimbo-q2-2026-slides-margin-expansion-accelerates-93CH-4812796",
-      "source": "Investing.com News",
-      "publishedAt": 1784991519000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -514,51 +514,6 @@
       "url": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
       "source": "CNBC Markets",
       "publishedAt": 1784918861000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhLCBNaWNyb3Nv",
-      "title": "Nvidia, Microsoft, Meta warn against &apos;premature restrictions&apos; of open-weight models",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784915737000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZGVyIHdobyBzdWNj",
-      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784914095000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
-      "title": "Anthropic&apos;s new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784913647000,
       "lang": "en-US",
       "topics": [
         "macro"
