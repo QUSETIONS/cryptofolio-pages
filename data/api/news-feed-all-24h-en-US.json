@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785082102631,
-  "crawlUpdatedAt": 1785082102631,
-  "crawlCount": 22,
+  "updatedAt": 1785087308976,
+  "crawlUpdatedAt": 1785087308976,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,89 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SG9uZHVyYXMgZXgtUHJl",
-      "title": "Honduras ex-President Hernandez returns home after Trump pardon",
+      "id": "Investing.com News-SXJhbiB3aWxsIGhhbHQg",
+      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/honduras-expresident-hernandez-to-return-home-after-trump-pardon-4812857",
+      "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898",
       "source": "Investing.com News",
-      "publishedAt": 1785081272000,
+      "publishedAt": 1785086310000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVRGIGFzc2V0cyBpbiBC",
+      "title": "ETF assets in Brazil nearly triple in two years to $22.8bn",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/etf-assets-in-brazil-nearly-triple-in-two-years-to-228bn-93CH-4812905",
+      "source": "Investing.com News",
+      "publishedAt": 1785085958000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VWtyYWluZSBzdHJpa2Vz",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of &apos;hostile and criminal act&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785085896000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hlaW4gZmxhZ3MgdGFy",
+      "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/shein-reveals-key-financials-ahead-of-hong-kong-ipo-4812893",
+      "source": "Investing.com News",
+      "publishedAt": 1785085593000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rk9NQyBQcmV2aWV3OiBG",
+      "title": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fomc-preview-fed-likely-to-hold-rates-despite-oil-spike-citi-sees-dovish-outcome-4812904",
+      "source": "Investing.com News",
+      "publishedAt": 1785085577000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsZGZpcmVzIHRocmVh",
+      "title": "Wildfires threaten Bordeaux as France, Spain battle blazes",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
+      "source": "Investing.com News",
+      "publishedAt": 1785084870000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,37 +110,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
       "source": "Investing.com News",
-      "publishedAt": 1785079874000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3ViYW4gcHJlc2lkZW50",
-      "title": "Cuban president accuses US of ’political genocide’ on anniversary of revolution",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/cuban-president-accuses-us-of-political-genocide-on-anniversary-of-revolution-4812900",
-      "source": "Investing.com News",
-      "publishedAt": 1785079857000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-THVsYSBjYWxscyBuZXcg",
-      "title": "Lula calls new US tariffs a mistake in Washington Post op-ed",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/lula-calls-new-us-tariffs-a-mistake-in-washington-post-oped-4812899",
-      "source": "Investing.com News",
-      "publishedAt": 1785078746000,
+      "publishedAt": 1785083786000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -78,7 +125,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820",
       "source": "Investing.com News",
-      "publishedAt": 1785078409000,
+      "publishedAt": 1785083459000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +135,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiB3aWxsIHJlcG9y",
-      "title": "Iran will reportedly pause attacks if U.S. maintains halt to air strikes",
+      "id": "Investing.com News-QnJhemlsIHJlY2FsbHMg",
+      "title": "Brazil recalls ambassador to Argentina after Milei attacks Lula, sources say",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-war-widens-to-red-sea-and-caspian-despite-pause-in-us-strikes-4812824",
+      "url": "https://www.investing.com/news/world-news/brazil-recalls-ambassador-to-argentina-after-milei-attacks-lula-sources-say-4812903",
       "source": "Investing.com News",
-      "publishedAt": 1785078307000,
+      "publishedAt": 1785083428000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,42 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmVybGluIFByaWRlIGF0",
-      "title": "Berlin Pride attack prompts grief and solidarity with LGBTQ community",
+      "id": "Investing.com News-T25lU291cmNlIFExRlky",
+      "title": "OneSource Q1FY27 slides: semaglutide drives 37% revenue growth",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/berlin-pride-attack-prompts-grief-and-solidarity-with-lgbtq-community-4812850",
+      "url": "https://www.investing.com/news/company-news/onesource-q1fy27-slides-semaglutide-drives-37-revenue-growth-93CH-4812902",
       "source": "Investing.com News",
-      "publishedAt": 1785077675000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VWtyYWluZSBzdHJpa2Vz",
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of &apos;hostile and criminal act&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785077420000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2hlaW4gZmlsZXMgZm9y",
-      "title": "Shein files for Hong Kong IPO as tariff changes weigh on growth, profits",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/shein-files-for-hong-kong-ipo-after-profit-drops-despite-revenue-growth-4812897",
-      "source": "Investing.com News",
-      "publishedAt": 1785077400000,
+      "publishedAt": 1785082996000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -148,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiB3aWxsIGhhbHQg",
-      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+      "id": "Investing.com News-SG9uZHVyYXMgZXgtUHJl",
+      "title": "Honduras ex-President Hernandez returns home after Trump pardon",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898",
+      "url": "https://www.investing.com/news/world-news/honduras-expresident-hernandez-to-return-home-after-trump-pardon-4812857",
       "source": "Investing.com News",
-      "publishedAt": 1785077313000,
+      "publishedAt": 1785081990000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -169,21 +186,6 @@
       "url": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
       "source": "CNBC Markets",
       "publishedAt": 1785077069000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgaXMgZ2l2aW5n",
-      "title": "Trump is giving Iran talks ’a little bit of room,’ US ambassador to UN says",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/trumpis-giving-iran-talks-a-little-bit-of-room-us-ambassador-to-un-says-4812892",
-      "source": "Investing.com News",
-      "publishedAt": 1785076944000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -321,21 +323,6 @@
       "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
       "source": "CNBC Markets",
       "publishedAt": 1785009415000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW1heCA3MCBtbSBzY3Jl",
-      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1784996771000,
       "lang": "en-US",
       "topics": [
         "macro"
