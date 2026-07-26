@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785097890420,
-  "crawlUpdatedAt": 1785097890420,
-  "crawlCount": 20,
+  "updatedAt": 1785103519903,
+  "crawlUpdatedAt": 1785103519903,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4812915",
+      "source": "Investing.com News",
+      "publishedAt": 1785101103000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJlIE1pZHRlcm0gRWxl",
+      "title": "Are Midterm Elections a headwind for stocks?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/are-midterm-elections-a-headwind-for-stocks-4812914",
+      "source": "Investing.com News",
+      "publishedAt": 1785101057000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
+      "title": "Here are the 3 big things we&apos;re watching in the stock market in the week ahead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785099054000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2h5IHRoaXMgYW5hbHlz",
       "title": "Why this analyst says Reconciliation 3.0 is still a long shot even as it shrinks",
@@ -129,38 +174,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhlIEV4cGxvcmF0aW9u",
-      "title": "The Exploration Company in talks to raise $300 million, FT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/the-exploration-company-in-talks-to-raise-300-million-ft-reports-93CH-4812908",
-      "source": "Investing.com News",
-      "publishedAt": 1785092645000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBzcXVlZXpl",
-      "title": "Bitcoin squeezed at $64,730 in volatility coil: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-64k-range-doji-at-resistance-live-levels-93CH-4800901",
-      "source": "Investing.com News",
-      "publishedAt": 1785092527000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
