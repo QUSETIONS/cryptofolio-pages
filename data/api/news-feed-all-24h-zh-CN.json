@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785087309240,
-  "crawlUpdatedAt": 1785087309240,
+  "updatedAt": 1785093763180,
+  "crawlUpdatedAt": 1785093763180,
   "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,108 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SXJhbiB3aWxsIGhhbHQg",
-      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+      "id": "Investing.com News-VGhlIEV4cGxvcmF0aW9u",
+      "title": "The Exploration Company in talks to raise $300 million, FT reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/the-exploration-company-in-talks-to-raise-300-million-ft-reports-93CH-4812908",
+      "source": "Investing.com News",
+      "publishedAt": 1785092645000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzcXVlZXpl",
+      "title": "Bitcoin squeezed at $64,730 in volatility coil: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-64k-range-doji-at-resistance-live-levels-93CH-4800901",
+      "source": "Investing.com News",
+      "publishedAt": 1785092527000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3VzcGVjdCBpbiBCZXJs",
+      "title": "Suspect in Berlin Pride attack shot dead by police",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
+      "source": "Investing.com News",
+      "publishedAt": 1785092071000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSBo",
+      "title": "Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-64000-as-traders-brace-for-upcoming-fed-decision-4812846",
+      "source": "Investing.com News",
+      "publishedAt": 1785091967000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WWFyZGVuaSBhc2tzOiBX",
+      "title": "Yardeni asks: Which Inflation Rate Is Warsh Targeting?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/yardeni-asks-which-inflation-rate-is-warsh-targeting-4812906",
+      "source": "Investing.com News",
+      "publishedAt": 1785088657000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZ0ZXIgVHJ1bXAgY2Fs",
+      "title": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898",
       "source": "Investing.com News",
-      "publishedAt": 1785086310000,
+      "publishedAt": 1785088466000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsZGZpcmVzIHRocmVh",
+      "title": "Wildfires threaten Bordeaux as France, Spain battle blazes",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
+      "source": "Investing.com News",
+      "publishedAt": 1785088103000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -86,96 +182,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2lsZGZpcmVzIHRocmVh",
-      "title": "Wildfires threaten Bordeaux as France, Spain battle blazes",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
-      "source": "Investing.com News",
-      "publishedAt": 1785084870000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFueSBodW50cyBJ",
-      "title": "Germany hunts Islamist suspect after Berlin Pride crowd ramming",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
-      "source": "Investing.com News",
-      "publishedAt": 1785083786000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S3lpdiBoaXQgd2l0aCBt",
-      "title": "Kyiv hit with missiles; Russia and Ukraine both report civilians killed in strikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820",
-      "source": "Investing.com News",
-      "publishedAt": 1785083459000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhemlsIHJlY2FsbHMg",
-      "title": "Brazil recalls ambassador to Argentina after Milei attacks Lula, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/brazil-recalls-ambassador-to-argentina-after-milei-attacks-lula-sources-say-4812903",
-      "source": "Investing.com News",
-      "publishedAt": 1785083428000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T25lU291cmNlIFExRlky",
-      "title": "OneSource Q1FY27 slides: semaglutide drives 37% revenue growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/onesource-q1fy27-slides-semaglutide-drives-37-revenue-growth-93CH-4812902",
-      "source": "Investing.com News",
-      "publishedAt": 1785082996000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9uZHVyYXMgZXgtUHJl",
-      "title": "Honduras ex-President Hernandez returns home after Trump pardon",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/honduras-expresident-hernandez-to-return-home-after-trump-pardon-4812857",
-      "source": "Investing.com News",
-      "publishedAt": 1785081990000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
