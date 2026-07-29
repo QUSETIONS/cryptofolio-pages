@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785307168781,
-  "crawlUpdatedAt": 1785307168781,
-  "crawlCount": 39,
+  "updatedAt": 1785318226679,
+  "crawlUpdatedAt": 1785318226679,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIGp1bXBzIGFzIFUu",
-      "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+      "id": "CNBC Markets-VUJTIENFTyBzYXlzIHRo",
+      "title": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "url": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
       "source": "CNBC Markets",
-      "publishedAt": 1785305759000,
+      "publishedAt": 1785318012000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWtyYWluaWFuIGRyb25l",
+      "title": "Ukrainian drones strike across Russia, hitting refineries, Wildberries warehouse",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/drones-attack-industrial-sites-in-russias-ryazan-wildberries-warehouse-evacuated-4818910",
+      "source": "Investing.com News",
+      "publishedAt": 1785317788000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,90 +43,77 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSBERUYgMTRBIFNP",
-      "title": "Form DEF 14A SONOMA PHARMACEUTICALS For: 29 July",
+      "id": "Investing.com News-TWVsZXhpcyBRMiAyMDI2",
+      "title": "Melexis Q2 2026 slides: margins expand amid automotive sensor growth",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-def-14a-sonoma-pharmaceuticals-for-29-july-93CH-4818639",
+      "url": "https://www.investing.com/news/company-news/melexis-q2-2026-slides-margins-expand-amid-automotive-sensor-growth-93CH-4819098",
       "source": "Investing.com News",
-      "publishedAt": 1785305720000,
+      "publishedAt": 1785317619000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IEhhZW1vbmV0",
-      "title": "Form 4 Haemonetics Corp For: 29 July",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBy",
+      "title": "Goldman Sachs reinstates Steel Dynamics stock rating at Buy on aluminum growth",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-haemonetics-corp-for-29-july-93CH-4818638",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reinstates-steel-dynamics-stock-rating-at-buy-on-aluminum-growth-93CH-4819076",
       "source": "Investing.com News",
-      "publishedAt": 1785305715000,
+      "publishedAt": 1785317458000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2Fub21hIEgxIDIwMjYg",
+      "title": "Sanoma H1 2026 slides: learning growth offsets media headwinds",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/sanoma-h1-2026-slides-learning-growth-offsets-media-headwinds-93CH-4819075",
+      "source": "Investing.com News",
+      "publishedAt": 1785317453000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IFd5bmRoYW0g",
-      "title": "Form 4 Wyndham Hotels & Resorts Inc For: 29 July",
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley resumes Kinetik stock with overweight on Permian growth",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-wyndham-hotels--resorts-inc-for-29-july-93CH-4818637",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-resumes-kinetik-stock-with-overweight-on-permian-growth-93CH-4819074",
       "source": "Investing.com News",
-      "publishedAt": 1785305711000,
+      "publishedAt": 1785317448000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IFd5bmRoYW0g",
-      "title": "Form 4 Wyndham Hotels & Resorts Inc For: 29 July",
+      "id": "Investing.com News-QnliaXQgSW50cm9kdWNl",
+      "title": "Bybit Introduces Finloop’s FUIDL backed by an AAA-rated Money Market Fund",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-wyndham-hotels--resorts-inc-for-29-july-93CH-4818636",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-introduces-finloops-fuidl-backed-by-an-aaarated-money-market-fund-4819073",
       "source": "Investing.com News",
-      "publishedAt": 1785305711000,
+      "publishedAt": 1785317441000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgUkFZTU9O",
-      "title": "Form 144 RAYMOND JAMES FINANCIAL INC For: 29 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-raymond-james-financial-inc-for-29-july-93CH-4818635",
-      "source": "Investing.com News",
-      "publishedAt": 1785305710000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV4dGVxIHJlY2VpdmVz",
-      "title": "Nexteq receives mass production order for Tactila display solution",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nexteq-receives-mass-production-order-for-tactila-display-solution-93CH-4818634",
-      "source": "Investing.com News",
-      "publishedAt": 1785305708000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -119,11 +121,11 @@
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Djerriwarrh lifts dividend in H2 2026 despite lagging market",
+      "title": "Earnings call transcript: DWS Q2 2026 profit and flows lift stock 30%",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-djerriwarrh-lifts-dividend-in-h2-2026-despite-lagging-market-93CH-4818633",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dws-q2-2026-profit-and-flows-lift-stock-30-93CH-4819072",
       "source": "Investing.com News",
-      "publishedAt": 1785305661000,
+      "publishedAt": 1785317411000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +135,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5hbHlzdHMgcmVhY3Qg",
-      "title": "Analysts react to steep rout in South Korea stocks",
+      "id": "Investing.com News-RnJlbmNoIGx1eHVyeSBz",
+      "title": "French luxury stocks mixed after Kering, Hermes reports",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysts-react-to-steep-rout-in-south-korea-stocks-4818632",
+      "url": "https://www.investing.com/news/stock-market-news/french-luxury-stocks-mixed-after-kering-hermes-reports-4819071",
       "source": "Investing.com News",
-      "publishedAt": 1785305581000,
+      "publishedAt": 1785317374000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,45 +150,120 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qmlya2luIGJhZyBtYWtl",
-      "title": "Birkin bag maker Hermes posts 7% rise in quarterly sales",
+      "id": "Investing.com News-Q1RUIEgxIDIwMjYgc2xp",
+      "title": "CTT H1 2026 slides: CEP growth strong but customs pressure weighs",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/birkin-bag-maker-hermes-posts-7-rise-in-quarterly-sales-4818631",
+      "url": "https://www.investing.com/news/company-news/ctt-h1-2026-slides-cep-growth-strong-but-customs-pressure-weighs-93CH-4819070",
       "source": "Investing.com News",
-      "publishedAt": 1785305551000,
+      "publishedAt": 1785317361000,
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2VycnkgSDEgMjAyNiBz",
-      "title": "Kerry H1 2026 slides: volume growth accelerates, margins expand 60bps",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/kerry-h1-2026-slides-volume-growth-accelerates-margins-expand-60bps-93CH-4818630",
-      "source": "Investing.com News",
-      "publishedAt": 1785305527000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QlRTJmFwb3M7IGNvbmNl",
-      "title": "BTS&apos; concerts have been so successful, it&apos;s now bad for its own agency Hybe&apos;s shares",
+      "id": "Investing.com News-R2VuZXJhbGZpbmFuY2Ug",
+      "title": "Generalfinance H1 2026 slides: growth continues despite profit dip",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785303214000,
+      "url": "https://www.investing.com/news/company-news/generalfinance-h1-2026-slides-growth-continues-despite-profit-dip-93CH-4819063",
+      "source": "Investing.com News",
+      "publishedAt": 1785317326000,
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VWtyYWluZSBoYXMgZm91",
+      "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785315739000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U0sgSHluaXggc2hhcmVz",
+      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785314593000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCBzdG9ja3MgZXh0",
+      "title": "Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785313761000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiBsYXVuY2hlcyBz",
+      "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785311395000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QlRTJmFwb3M7IGNvbmNl",
+      "title": "BTS&apos; concerts have been so successful, it’s now bad for its own agency’s shares",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785310003000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWluaXN0ZXIgYXBvbG9n",
+      "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785308488000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -199,36 +276,6 @@
       "url": "https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html",
       "source": "CNBC Markets",
       "publishedAt": 1785301202000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXNpYW4gdGVjaG5vbG9n",
-      "title": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785298350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0sgSHluaXggc2hhcmVz",
-      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785298227000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -253,12 +300,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXJhbiBsYXVuY2hlcyBz",
-      "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+      "id": "CNBC Markets-QXVkaSBjb250aW51ZXMg",
+      "title": "Audi continues U.S. product push with three-row Q9 SUV",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+      "url": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
       "source": "CNBC Markets",
-      "publishedAt": 1785290809000,
+      "publishedAt": 1785290212000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -343,6 +390,36 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785277201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29ybmluZyBwbHVuZ2Vz",
+      "title": "Corning plunges despite strong quarterly results — here&apos;s our plan for the stock",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/28/corning-plunges-despite-strong-results-heres-our-plan-for-the-stock.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785271668000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-QXBwbGUgdG91Y2hlcyAk",
       "title": "Apple touches $5 trillion market cap for first time",
       "summary": "",
@@ -364,21 +441,6 @@
       "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
       "source": "CNBC Markets",
       "publishedAt": 1785267910000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIERvdyBqdW1wcyBh",
-      "title": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785266115000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -495,42 +557,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIGZ1dHVyZSBvZiBX",
-      "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785255385000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qmx1cnJlZCBmcm9udCBs",
       "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
       "source": "CNBC Markets",
       "publishedAt": 1785254344000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBob3N0cyBIb3Jt",
-      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785253232000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -552,21 +584,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29jYS1Db2xhIGhpa2Vz",
-      "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785249779000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
