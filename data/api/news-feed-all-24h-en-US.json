@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785412600458,
-  "crawlUpdatedAt": 1785412600458,
+  "updatedAt": 1785421478598,
+  "crawlUpdatedAt": 1785421478598,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-Um9sbHMtUm95Y2UgQ0VP",
-      "title": "Rolls-Royce CEO says major hyperscaler nuclear deal is imminent as data center demand soars",
+      "id": "CNBC Markets-QUkgaW52ZXN0b3IgTGVv",
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
       "source": "CNBC Markets",
-      "publishedAt": 1785412578000,
+      "publishedAt": 1785421228000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,18 +28,311 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-WXVtIEJyYW5kcyByZXBv",
-      "title": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak",
+      "id": "CNBC Markets-TmV3IGRldGFpbHMgaW4g",
+      "title": "New details in the OpenAI Hugging Face hack show how far agents will go: &apos;It&apos;s now remarkably easy&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
       "source": "CNBC Markets",
-      "publishedAt": 1785412547000,
+      "publishedAt": 1785420576000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gY3V0cyBN",
+      "title": "JPMorgan cuts Meta stock price target to $640 on AI monetization concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-meta-stock-price-target-to-640-on-ai-monetization-concerns-93CH-4824973",
+      "source": "Investing.com News",
+      "publishedAt": 1785420422000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Gildan tops Q2 2026 EPS forecast as sales miss slightly",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gildan-tops-q2-2026-eps-forecast-as-sales-miss-slightly-93CH-4824972",
+      "source": "Investing.com News",
+      "publishedAt": 1785420412000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBh",
+      "title": "Goldman Sachs asset arm forms an AI investing platform, memo shows",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-asset-arm-forms-an-ai-investing-platform-memo-shows-4824971",
+      "source": "Investing.com News",
+      "publishedAt": 1785420394000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBnYWlucyBhcyBp",
+      "title": "Gold gains as investors assess Fed decision, Mideast tensions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
+      "source": "Investing.com News",
+      "publishedAt": 1785420393000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW1iYXNzeSBSRUlUIFEx",
+      "title": "Embassy REIT Q1 FY2027 slides: 17% NOI growth, strong GCC leasing",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/embassy-reit-q1-fy2027-slides-17-noi-growth-strong-gcc-leasing-93CH-4824970",
+      "source": "Investing.com News",
+      "publishedAt": 1785420372000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Vicat jumps on H1 2026 revenue beat and raised outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vicat-jumps-on-h1-2026-revenue-beat-and-raised-outlook-93CH-4824969",
+      "source": "Investing.com News",
+      "publishedAt": 1785420371000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbGJveCBOViBlYXJu",
+      "title": "Wallbox NV earnings beat by €0.28, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/wallbox-nv-earnings-beat-by-028-revenue-fell-short-of-estimates-4824968",
+      "source": "Investing.com News",
+      "publishedAt": 1785420371000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb25ldCBlYXJuaW5n",
+      "title": "Euronet earnings missed by $0.15, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/euronet-earnings-missed-by-015-revenue-fell-short-of-estimates-4824967",
+      "source": "Investing.com News",
+      "publishedAt": 1785420371000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkZXJhbCBTaWduYWwg",
+      "title": "Federal Signal earnings beat by $0.13, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/federal-signal-earnings-beat-by-013-revenue-topped-estimates-4824966",
+      "source": "Investing.com News",
+      "publishedAt": 1785420361000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q1NXIEluZHVzdHJpYWxz",
+      "title": "CSW Industrials Inc earnings beat by $0.36, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/csw-industrials-inc-earnings-beat-by-036-revenue-topped-estimates-4824965",
+      "source": "Investing.com News",
+      "publishedAt": 1785420361000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBlY29ub215IHNs",
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785420188000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVycmFyaSByYWlzZXMg",
+      "title": "Ferrari raises 2026 guidance after Q2 earnings beat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785419803000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpcG90bGUgc3RvY2sg",
+      "title": "Chipotle stock jumps as chain hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785419763000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSB0YW5rcyA5JSwg",
+      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785419709000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzIHJhaXNl",
+      "title": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785418178000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785416832000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3ljbG9zcG9yYSBvdXRi",
+      "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785416814000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWd5cHQgc2F5cyBkcm9u",
+      "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785415554000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Um9sbHMtUm95Y2UgQ0VP",
+      "title": "Rolls-Royce CEO says major hyperscaler nuclear deal is imminent as data center demand soars",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785412868000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -51,157 +344,6 @@
       "publishedAt": 1785412060000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RENNIFNocmlyYW0gUTEg",
-      "title": "DCM Shriram Q1 FY2027 slides: chemicals surge offsets agri weakness",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/dcm-shriram-q1-fy2027-slides-chemicals-surge-offsets-agri-weakness-93CH-4823851",
-      "source": "Investing.com News",
-      "publishedAt": 1785411929000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUdDTyBzaGFyZXMgZmFs",
-      "title": "AGCO shares fall on weak guidance despite Q2 beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/agco-shares-fall-on-weak-guidance-despite-q2-beat-93CH-4823850",
-      "source": "Investing.com News",
-      "publishedAt": 1785411926000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBpIEdyb3VwIENvcnAg",
-      "title": "Api Group Corp earnings matched, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/api-groupcorp-earnings-matched-revenue-topped-estimates-4823849",
-      "source": "Investing.com News",
-      "publishedAt": 1785411908000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSAxNDQgV0VTQkFO",
-      "title": "Form 144 WESBANCO INC For: 30 July",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-144-wesbanco-inc-for-30-july-93CH-4823848",
-      "source": "Investing.com News",
-      "publishedAt": 1785411905000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVsZGVuIGVhcm5pbmdz",
-      "title": "Belden earnings beat by $0.32, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/belden-earnings-beat-by-032-revenue-topped-estimates-4823847",
-      "source": "Investing.com News",
-      "publishedAt": 1785411884000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9ubmVsbGV5IEZpbmFu",
-      "title": "Donnelley Financial Solutions earnings beat by $0.09, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/donnelley-financial-solutions-earnings-beat-by-009-revenue-topped-estimates-4823846",
-      "source": "Investing.com News",
-      "publishedAt": 1785411883000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SE5JIGVhcm5pbmdzIGJl",
-      "title": "HNI earnings beat by $0.21, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/hni-earnings-beat-by-021-revenue-fell-short-of-estimates-4823845",
-      "source": "Investing.com News",
-      "publishedAt": 1785411882000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9uZGkgZGVjbGFyZXMg",
-      "title": "Mondi declares 9.42 euro cents interim dividend for 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mondi-declares-942-euro-cents-interim-dividend-for-2026-93CH-4823844",
-      "source": "Investing.com News",
-      "publishedAt": 1785411858000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Lloyds beats revenue in H1 2026 as dividend rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lloyds-beats-revenue-in-h1-2026-as-dividend-rises-93CH-4823843",
-      "source": "Investing.com News",
-      "publishedAt": 1785411854000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgMzAteWVhciB5aWVs",
-      "title": "US 30-year yield hits 2007 high, stocks attempt post-earnings recovery",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/asian-stocks-choppy-after-rout-fed-leaves-markets-uncertain-on-rates-4822256",
-      "source": "Investing.com News",
-      "publishedAt": 1785411835000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
         "macro"
       ],
       "symbols": [],
@@ -268,51 +410,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSB0YW5rcyBuZWFy",
-      "title": "Meta tanks nearly 9%, Microsoft jumps 9% as the AI trade splits Big Tech",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785407232000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhcmJ1Y2tzIHN0b2Nr",
-      "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785407134000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBtb3Zl",
-      "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785402852000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -422,53 +519,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2hpbmEgQUkgc3VwcGxp",
-      "title": "China AI supplier Zhongji Innolight slips in Hong Kong debut after $6.8 billion IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/china-ai-supplier-zhongji-innolight-hong-kong-debut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785377740000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: Meta&apos;s clout in the world&apos;s largest democracy is surging — inviting scrutiny",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785376680000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEZlZCBD",
-      "title": "Analysis: Fed Chairman Warsh&apos;s credibility in question after leaving interest rates unchanged",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785373201000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-WnVja2VyYmVyZyBsYXlz",
       "title": "Zuckerberg lays out Meta&apos;s AI capacity dilemma: What to sell vs. what to keep",
       "summary": "",
@@ -484,42 +534,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIG1hcmtldCBpcyBv",
-      "title": "The market is overreacting to Meta&apos;s earnings and guidance. Here&apos;s our plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/the-market-is-overreacting-to-metas-earnings-heres-our-plan-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785373000000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3BhY2VYIGZhY2VzIEhv",
       "title": "SpaceX faces House Energy Committee demand to tour its AI data centers in Memphis",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
       "source": "CNBC Markets",
       "publishedAt": 1785370310000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIFUuUy4gd2FudHMg",
-      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785366646000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -590,21 +610,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FydmFuYSBzdG9jayBm",
-      "title": "Carvana stock falls as auto retailer’s 2026 earnings guidance misses Wall Street’s expectations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785361648000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
