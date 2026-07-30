@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785421478598,
-  "crawlUpdatedAt": 1785421478598,
+  "updatedAt": 1785427660443,
+  "crawlUpdatedAt": 1785427660443,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,17 +13,383 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QUkgaW52ZXN0b3IgTGVv",
-      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "id": "CNBC Markets-QW1hem9uIG9uIGRlY2sg",
+      "title": "Amazon on deck to report earnings after the bell with cloud, capex in focus",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1785421228000,
+      "publishedAt": 1785427606000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IE5CQ1VuaXZlcnNh",
+      "title": "How NBCUniversal&apos;s deal with YouTube could jump-start the next chapter of the streaming wars",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785427598000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIHJlYWwgc3Rvcnkg",
+      "title": "The real story at Apple is the memory crunch — and there&apos;s little room for error",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/the-real-story-at-apple-is-memory-and-theres-little-room-for-error.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785427198000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: SiriusPoint tops q2 2026 EPS view but revenue misses",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-siriuspoint-tops-q2-2026-eps-view-but-revenue-misses-93CH-4825438",
+      "source": "Investing.com News",
+      "publishedAt": 1785427056000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVycmFyaSBDRU8gc2F5",
+      "title": "Ferrari CEO says he &apos;would not change anything&apos; about polarizing Luce EV debut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/ferrari-ceo-luce-ev-debut.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785426968000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xhcmlhbmUgSDEgMjAy",
+      "title": "Clariane H1 2026 slides: EBITDA growth outpaces revenue gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/clariane-h1-2026-slides-ebitda-growth-outpaces-revenue-gains-93CH-4825437",
+      "source": "Investing.com News",
+      "publishedAt": 1785426961000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RFhDIFRlY2hub2xvZ3kg",
+      "title": "DXC Technology stock falls after leadership restructuring",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/dxc-technology-stock-falls-after-leadership-restructuring-93CH-4825436",
+      "source": "Investing.com News",
+      "publishedAt": 1785426957000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xhcmlhbmUgSDEgMjAy",
+      "title": "Clariane H1 2026 slides: EBITDA surges 15% on occupancy gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/clariane-h1-2026-slides-ebitda-surges-15-on-occupancy-gains-93CH-4825435",
+      "source": "Investing.com News",
+      "publishedAt": 1785426950000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJ1ZGVudGlhbCBGaW5h",
+      "title": "Prudential Financial stock hits 52-week low at 15.81 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-1581-usd-93CH-4825434",
+      "source": "Investing.com News",
+      "publishedAt": 1785426877000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBx",
+      "title": "Goldman Sachs queried top lawyer Ruemmler on Epstein links as scrutiny mounted",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-queried-top-lawyer-ruemmler-on-epstein-links-as-scrutiny-mounted-4825433",
+      "source": "Investing.com News",
+      "publishedAt": 1785426869000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgaW52ZXN0b3IgTGVv",
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785426759000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUkgd2l6a2lkIExlb3Bv",
+      "title": "AI wizkid Leopold Aschenbrenner forced to sell entire portfolio after rout",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ai-wizkid-leopold-aschenbrenner-seeks-new-funds-after-ai-rout--report-4823476",
+      "source": "Investing.com News",
+      "publishedAt": 1785426692000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGFiY29ycCBRMiAyMDI2",
+      "title": "Labcorp Q2 2026 slides: strong results drive guidance raise",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/labcorp-q2-2026-slides-strong-results-drive-guidance-raise-93CH-4825432",
+      "source": "Investing.com News",
+      "publishedAt": 1785426675000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBa",
+      "title": "Amazon&apos;s Zoox to begin charging for rides in Las Vegas after clearing NHTSA hurdle",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785426660000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Ventas tops revenue views in Q2 2026, shares fall",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ventas-tops-revenue-views-in-q2-2026-shares-fall-93CH-4825431",
+      "source": "Investing.com News",
+      "publishedAt": 1785426642000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Patterson-UTI tops revenue forecast in Q2 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pattersonuti-tops-revenue-forecast-in-q2-2026-93CH-4825428",
+      "source": "Investing.com News",
+      "publishedAt": 1785426636000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZmxvYXRzIHB1",
+      "title": "Trump floats pulling Blanche&apos;s AG nomination until after GOP holdouts leave office",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785426546000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TllTRSBDRU8gU3ByZWNo",
+      "title": "NYSE CEO Sprecher, SBA head Loeffler&apos;s husband, has ties to Trump Jr.-backed private club",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785425363000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgYW5kIEFtYXpv",
+      "title": "Apple and Amazon report after the bell. Here&apos;s what the options market is saying",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785424290000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
+      "title": "Bank of England holds UK interest rate steady at 3.75% — but policymakers see upside inflation risk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/interest-rates-inflation-bank-of-england.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785424049000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBlY29ub215IHNs",
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785423883000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VhbHRoIG1hbmFnZXJz",
+      "title": "Wealth managers face a new challenger: Their clients’ AI chatbots",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785423744000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmVlcCBtYWtlciBTdGVs",
+      "title": "Jeep maker Stellantis swings to profit on rising demand in North America",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785423737000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIG9pbCBtYWpvcnMg",
+      "title": "The oil majors are about to report booming profits. These smaller stocks may be better buys",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/the-oil-majors-are-about-to-report-booming-profits-these-smaller-stocks-may-be-better-buys.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785423520000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW5hbHlzaXM6IEZlZCBD",
+      "title": "Analysis: Fed Chairman Warsh&apos;s credibility in question after leaving interest rates unchanged",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785421454000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -43,194 +409,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SlBNb3JnYW4gY3V0cyBN",
-      "title": "JPMorgan cuts Meta stock price target to $640 on AI monetization concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-meta-stock-price-target-to-640-on-ai-monetization-concerns-93CH-4824973",
-      "source": "Investing.com News",
-      "publishedAt": 1785420422000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Gildan tops Q2 2026 EPS forecast as sales miss slightly",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gildan-tops-q2-2026-eps-forecast-as-sales-miss-slightly-93CH-4824972",
-      "source": "Investing.com News",
-      "publishedAt": 1785420412000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBh",
-      "title": "Goldman Sachs asset arm forms an AI investing platform, memo shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-asset-arm-forms-an-ai-investing-platform-memo-shows-4824971",
-      "source": "Investing.com News",
-      "publishedAt": 1785420394000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZCBnYWlucyBhcyBp",
-      "title": "Gold gains as investors assess Fed decision, Mideast tensions",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
-      "source": "Investing.com News",
-      "publishedAt": 1785420393000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW1iYXNzeSBSRUlUIFEx",
-      "title": "Embassy REIT Q1 FY2027 slides: 17% NOI growth, strong GCC leasing",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/embassy-reit-q1-fy2027-slides-17-noi-growth-strong-gcc-leasing-93CH-4824970",
-      "source": "Investing.com News",
-      "publishedAt": 1785420372000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Vicat jumps on H1 2026 revenue beat and raised outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vicat-jumps-on-h1-2026-revenue-beat-and-raised-outlook-93CH-4824969",
-      "source": "Investing.com News",
-      "publishedAt": 1785420371000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbGJveCBOViBlYXJu",
-      "title": "Wallbox NV earnings beat by €0.28, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/wallbox-nv-earnings-beat-by-028-revenue-fell-short-of-estimates-4824968",
-      "source": "Investing.com News",
-      "publishedAt": 1785420371000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb25ldCBlYXJuaW5n",
-      "title": "Euronet earnings missed by $0.15, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/euronet-earnings-missed-by-015-revenue-fell-short-of-estimates-4824967",
-      "source": "Investing.com News",
-      "publishedAt": 1785420371000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVkZXJhbCBTaWduYWwg",
-      "title": "Federal Signal earnings beat by $0.13, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/federal-signal-earnings-beat-by-013-revenue-topped-estimates-4824966",
-      "source": "Investing.com News",
-      "publishedAt": 1785420361000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q1NXIEluZHVzdHJpYWxz",
-      "title": "CSW Industrials Inc earnings beat by $0.36, revenue topped estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/csw-industrials-inc-earnings-beat-by-036-revenue-topped-estimates-4824965",
-      "source": "Investing.com News",
-      "publishedAt": 1785420361000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBlY29ub215IHNs",
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785420188000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVycmFyaSByYWlzZXMg",
-      "title": "Ferrari raises 2026 guidance after Q2 earnings beat",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785419803000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpcG90bGUgc3RvY2sg",
       "title": "Chipotle stock jumps as chain hikes same-store sales forecast, says cyclospora fears hit sales in late July",
       "summary": "",
@@ -246,42 +424,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWV0YSB0YW5rcyA5JSwg",
-      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785419709000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RhcmJ1Y2tzIHJhaXNl",
       "title": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1785418178000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785416832000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -321,73 +469,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Um9sbHMtUm95Y2UgQ0VP",
-      "title": "Rolls-Royce CEO says major hyperscaler nuclear deal is imminent as data center demand soars",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785412868000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiBzYXlzIGl0IHdp",
       "title": "Iran says it will &apos;punish the aggressor today&apos; after &apos;heavy wave&apos; of U.S. strikes",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
       "source": "CNBC Markets",
       "publishedAt": 1785412060000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England holds UK interest rate steady at 3.75% — but policymakers see upside inflation risk",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/interest-rates-inflation-bank-of-england.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785411762000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2VhbHRoIG1hbmFnZXJz",
-      "title": "Wealth managers face a new challenger: their clients’ AI chatbots",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785411001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TG9lZmZsZXImYXBvcztz",
-      "title": "Loeffler&apos;s financial disclosure reveals husband’s ties to exclusive Trump Jr.-backed private club",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785409201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -420,66 +507,6 @@
       "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
       "source": "CNBC Markets",
       "publishedAt": 1785402614000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJvbSBIb3JtdXogdG8g",
-      "title": "From Hormuz to the Black Sea: Maritime battlefields are shaping ‘a new world order’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785401530000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hlbGwgcG9zdHMgYmVz",
-      "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785400820000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmVlcCBtYWtlciBTdGVs",
-      "title": "Jeep maker Stellantis swings to profit on rising demand in North America; shares fall 5%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785399650000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZeKAmXMgd2h5IEV1",
-      "title": "Here’s why Europe’s hot summers are becoming an expensive challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/europe-heatwaves-economy-wildfires-summer.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785388274000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -579,23 +606,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIGZp",
-      "title": "Here are the five big takeaways from this week&apos;s Fed meeting",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785365649000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmVmZnJleSBHdW5kbGFj",
       "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
       "summary": "",
@@ -609,21 +619,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UXVhbGNvbW0gdG8gcmFp",
-      "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785359992000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
