@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785451092753,
-  "crawlUpdatedAt": 1785451092753,
+  "updatedAt": 1785456630808,
+  "crawlUpdatedAt": 1785456630808,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q29ydGV2YSByYWlzZXMg",
-      "title": "Corteva raises full-year profit forecast, shares fall after revenue miss",
+      "id": "CNBC Markets-QW50aHJvcGljIHNheXMg",
+      "title": "Anthropic says its Claude models &apos;gained unauthorized access&apos; to other organizations&apos; systems",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/corteva-beats-quarterly-profit-estimates-4826229",
-      "source": "Investing.com News",
-      "publishedAt": 1785450649000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9tYWluIHJlZ2lzdHJh",
-      "title": "Domain registrar GoDaddy narrows annual revenue forecast",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/domain-registrar-godaddy-narrows-annual-revenue-forecast-4826492",
-      "source": "Investing.com News",
-      "publishedAt": 1785450632000,
+      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785456037000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IENvc3RhbWFy",
-      "title": "Form 4 Costamare Inc. For: 30 July",
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBHYXph",
+      "title": "Trump says Gaza disarmament deal reached by Board of Peace",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-costamare-inc-for-30-july-93CH-4826491",
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-gaza-disarmament-deal-reached-by-board-of-peace-93CH-4826566",
       "source": "Investing.com News",
-      "publishedAt": 1785450617000,
+      "publishedAt": 1785455763000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,18 +43,203 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9ybSA0IEFvbiBwbGMg",
-      "title": "Form 4 Aon plc For: 30 July",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: MicroStrategy Q2 2026 loss deepens as bitcoin bets weigh",
       "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-aon-plc-for-30-july-93CH-4826490",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategy-q2-2026-loss-deepens-as-bitcoin-bets-weigh-93CH-4826565",
       "source": "Investing.com News",
-      "publishedAt": 1785450611000,
+      "publishedAt": 1785455548000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFNub3dmbGFr",
+      "title": "Form 4 Snowflake Inc For: 30 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-snowflakeinc-for-30-july-93CH-4826564",
+      "source": "Investing.com News",
+      "publishedAt": 1785455478000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IFBheW1lbnR1",
+      "title": "Form 4 Paymentus Holdings Inc For: 30 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-paymentus-holdings-inc-for-30-july-93CH-4826563",
+      "source": "Investing.com News",
+      "publishedAt": 1785455452000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ybSA0IEVkd2FyZHMg",
+      "title": "Form 4 Edwards Lifesciences Corp For: 30 July",
+      "summary": "",
+      "url": "https://www.investing.com/news/filings/form-4-edwards-lifesciences-corp-for-30-july-93CH-4826562",
+      "source": "Investing.com News",
+      "publishedAt": 1785455450000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBwZWFj",
+      "title": "Trump says peace plan will lead to Hamas disarmament, Israel support uncertain",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-three-in-gaza-including-two-children-amid-new-ceasefire-push-4822572",
+      "source": "Investing.com News",
+      "publishedAt": 1785455357000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWlncmFudHMgcG91ciBp",
+      "title": "Migrants pour into Spain’s Ceuta from Morocco, military called in",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/thousands-of-migrants-cross-into-spains-ceuta-on-foot-efe-reports-4824095",
+      "source": "Investing.com News",
+      "publishedAt": 1785455337000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIHNheXMg",
+      "title": "Anthropic says Claude AI models hacked three organizations during tests",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-says-claude-ai-models-hacked-three-organizations-during-tests-4826561",
+      "source": "Investing.com News",
+      "publishedAt": 1785455305000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U25vd2ZsYWtlIGRpcmVj",
+      "title": "Snowflake director Benoit Dageville sells $14 million in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-14-million-in-stock-93CH-4826560",
+      "source": "Investing.com News",
+      "publishedAt": 1785455228000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGF5bWVudHVzIGRpcmVj",
+      "title": "Paymentus director Gary Trainor sells $2.7 million in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/paymentus-director-gary-trainor-sells-27-million-in-stock-93CH-4826559",
+      "source": "Investing.com News",
+      "publishedAt": 1785455216000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmFzdC1mYXNoaW9uIHJl",
+      "title": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785454234000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIHNvYXJzIGFm",
+      "title": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785454024000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0JmFwb3M7",
+      "title": "Microsoft&apos;s Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785451710000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says this hedge fund&apos;s blowup reveals the hidden risks of leverage",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785451022000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -103,93 +273,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW5ncmFtIE1pY3JvIFEy",
-      "title": "Ingram Micro Q2 2026 slides: strong execution drives 40% profit growth",
+      "id": "CNBC Markets-Q2hpbmHigJlzIFUuUy4t",
+      "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/ingram-micro-q2-2026-slides-strong-execution-drives-40-profit-growth-93CH-4826489",
-      "source": "Investing.com News",
-      "publishedAt": 1785450494000,
+      "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785448861000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JpZCBEeW5hbWljcyBR",
-      "title": "Grid Dynamics Q2 2026 slides: AI crosses 30% of revenue milestone",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/grid-dynamics-q2-2026-slides-ai-crosses-30-of-revenue-milestone-93CH-4826488",
-      "source": "Investing.com News",
-      "publishedAt": 1785450474000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGVyY3VsZXMgQ2FwaXRh",
-      "title": "Hercules Capital Q2 2026 slides: record income, premium valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hercules-capital-q2-2026-slides-record-income-premium-valuation-93CH-4826487",
-      "source": "Investing.com News",
-      "publishedAt": 1785450390000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q292ZW8gUTEgRlnigJky",
-      "title": "Coveo Q1 FY’27 slides: first $10M customer, stock slips 2.7%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/coveo-q1-fy27-slides-first-10m-customer-stock-slips-27-93CH-4826486",
-      "source": "Investing.com News",
-      "publishedAt": 1785450375000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29EYWRkeSBRMiAyMDI2",
-      "title": "GoDaddy Q2 2026 slides: AI push drives results, market skeptical",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/godaddy-q2-2026-slides-ai-push-drives-results-market-skeptical-93CH-4826485",
-      "source": "Investing.com News",
-      "publishedAt": 1785450301000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgcmV2ZW51ZSBm",
-      "title": "Apple revenue forecast lags Wall Street targets as iPhone maker struggles with supply chain",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-revenue-profits-beat-expectations-on-iphone-mac-sales-4826219",
-      "source": "Investing.com News",
-      "publishedAt": 1785450288000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -298,21 +393,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q3ljbG9zcG9yYSBvdXRi",
-      "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785443565000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmVyc2V5IE1pa2UmYXBv",
       "title": "Jersey Mike&apos;s stock falls 6% in public market debut after pricing shares at $23",
       "summary": "",
@@ -388,42 +468,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QUkgc3RvY2tzIHJlYm91",
-      "title": "AI stocks rebound, and why J&J&apos;s earnings guidance cut is not cause for concern",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/ai-stocks-rebound-and-why-jjs-earnings-guidance-cut-is-not-cause-for-concern.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785438346000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmHigJlzIG9wZW4t",
       "title": "China’s open-weight model lead exposes America’s AI blind spot",
       "summary": "",
       "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
       "source": "CNBC Markets",
       "publishedAt": 1785437502000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgYW5kIEFtYXpv",
-      "title": "Apple and Amazon report after the bell. Here&apos;s what the options market is saying",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785435449000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -454,36 +504,6 @@
       "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
       "source": "CNBC Markets",
       "publishedAt": 1785431128000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVyIHNlZXMgYSAm",
-      "title": "Cramer sees a &apos;sure signal to buy&apos; stocks. Plus what we want from Amazon&apos;s results",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/cramer-sees-signal-to-buy-stocks-previews-reports-amzn-aapl.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785428231000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVycmFyaSBDRU8gc2F5",
-      "title": "Ferrari CEO says he &apos;would not change anything&apos; about polarizing Luce EV debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/ferrari-ceo-luce-ev-debut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785426968000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -550,23 +570,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEZlZCBD",
-      "title": "Analysis: Fed Chairman Warsh&apos;s credibility in question after leaving interest rates unchanged",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785421454000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
