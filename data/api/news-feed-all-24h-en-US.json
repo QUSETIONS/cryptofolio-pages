@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785613505912,
-  "crawlUpdatedAt": 1785613505912,
-  "crawlCount": 31,
+  "updatedAt": 1785618127171,
+  "crawlUpdatedAt": 1785618127171,
+  "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,140 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-UmVzdGF1cmFudCBleHBs",
-      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+      "id": "CNBC Markets-VGFua2VycyBuZWFyIE9t",
+      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
-      "source": "Investing.com News",
-      "publishedAt": 1785612267000,
+      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785617755000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhpcnRlZW4gZGllIGlu",
+      "title": "Thirteen die in tourist plane crash over Peru’s Nazca Lines",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
+      "source": "Investing.com News",
+      "publishedAt": 1785616567000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBlbWJhc3NpZXMg",
+      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
+      "source": "Investing.com News",
+      "publishedAt": 1785616292000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBkb2VzIHRoZSBD",
+      "title": "What does the China reset mean for the Nike business?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/what-does-the-china-reset-mean-for-the-nike-business-4829652",
+      "source": "Investing.com News",
+      "publishedAt": 1785615771000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29sZG1hbiB0cmFkZXJz",
+      "title": "Goldman traders are on pace for a record year. A close-up look at how they&apos;re doing it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785615735000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFuY28gRGUgQ2hpbGUg",
+      "title": "Banco De Chile earnings beat, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/banco-de-chile-earnings-beat-revenue-topped-estimates-4829651",
+      "source": "Investing.com News",
+      "publishedAt": 1785615553000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsZGZpcmVzIHNwcmVh",
+      "title": "Wildfires spread across Greece, conditions worsen in France and Spain",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
+      "source": "Investing.com News",
+      "publishedAt": 1785615146000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVzdGF1cmFudCBleHBs",
+      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
+      "source": "Investing.com News",
+      "publishedAt": 1785614067000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUkgc3BlbmRpbmcgYm9v",
+      "title": "AI spending boom faces two key policy risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ai-spending-boom-faces-two-key-policy-risks-4829648",
+      "source": "Investing.com News",
+      "publishedAt": 1785613461000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -34,21 +156,6 @@
       "url": "https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645",
       "source": "Investing.com News",
       "publishedAt": 1785611550000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBlbWJhc3NpZXMg",
-      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
-      "source": "Investing.com News",
-      "publishedAt": 1785611329000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -81,81 +188,6 @@
       "url": "https://www.investing.com/news/stock-market-news/westjet-begins-flight-cancellations-ahead-of-strike-4829644",
       "source": "Investing.com News",
       "publishedAt": 1785610470000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U29jY2VyLUluZmFudGlu",
-      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
-      "source": "Investing.com News",
-      "publishedAt": 1785606161000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2xheXRvbiB3aWxsIHRh",
-      "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/clayton-set-to-take-over-as-top-us-spy-on-monday-pulte-says-4829640",
-      "source": "Investing.com News",
-      "publishedAt": 1785606145000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgZGlzcHV0ZXMg",
-      "title": "Trump disputes his own Justice Department’s findings on Reflecting Pool",
-      "summary": "",
-      "url": "https://www.investing.com/news/politics-news/trump-disputes-his-own-justice-departments-findings-on-reflecting-pool-4829641",
-      "source": "Investing.com News",
-      "publishedAt": 1785605787000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhvdXNhbmRzIGluIEFt",
-      "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
-      "source": "Investing.com News",
-      "publishedAt": 1785605088000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3BhaW4gaW5zdGFsbHMg",
-      "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/spain-installs-floating-barrier-in-ceuta-after-calm-night-following-border-rush-4829586",
-      "source": "Investing.com News",
-      "publishedAt": 1785605065000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -255,23 +287,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RnJvbSBhIEZlZCBkZWNp",
-      "title": "From a Fed decision to Big Tech earnings: What drove last week&apos;s volatile market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785586573000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG8ga2VlcCBncm93aW5n",
       "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
       "summary": "",
@@ -293,21 +308,6 @@
       "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1785585601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGFua2VycyBuZWFyIE9t",
-      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785581771000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -413,66 +413,6 @@
       "url": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
       "source": "CNBC Markets",
       "publishedAt": 1785531996000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RklGQSB0ZXN0cyB0aGUg",
-      "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785530451000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IExlb3BvbGQgQXNj",
-      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785529143000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQsIEFtYXpv",
-      "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785529074000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RHdpbmRsaW5nIGNhc2gg",
-      "title": "Dwindling cash and soaring memory costs: Tech&apos;s AI buildout has ballooning price tag",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785527713000,
       "lang": "en-US",
       "topics": [
         "macro"
