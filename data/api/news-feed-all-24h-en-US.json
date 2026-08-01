@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785569666151,
-  "crawlUpdatedAt": 1785569666151,
+  "updatedAt": 1785578786915,
+  "crawlUpdatedAt": 1785578786915,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,42 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VVMgYW5kIGFsbGllcyBk",
-      "title": "US and allies display growing naval cooperation in Pacific drills",
+      "id": "Investing.com News-UnVzc2lhbiBiYXJyYWdl",
+      "title": "Russian barrage kills nine in Kyiv, damages Lithuanian embassy",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-and-allies-display-growing-naval-cooperation-in-pacific-drills-4829571",
+      "url": "https://www.investing.com/news/economy-news/russian-barrage-kills-nine-in-kyiv-damages-lithuanian-embassy-4829581",
       "source": "Investing.com News",
-      "publishedAt": 1785568788000,
+      "publishedAt": 1785576605000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVYgZGVsaXZlcnkgdXBk",
+      "title": "EV delivery update: Xpeng deliveries top 38k, NIO falls 11% from June",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ev-delivery-update-xpeng-deliveries-top-38k-nio-falls-11-from-june-93CH-4829580",
+      "source": "Investing.com News",
+      "publishedAt": 1785576009000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-UnVzc2lhIHBvdW5kcyBL",
-      "title": "Russia pounds Kyiv with missiles, killing at least nine",
+      "title": "Russia pounds Kyiv, kills 9 as Ukraine appeals for Patriot interceptors",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/russia-pounds-kyiv-with-missiles-4829396",
       "source": "Investing.com News",
-      "publishedAt": 1785568355000,
+      "publishedAt": 1785575552000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBiZWFyIGZs",
-      "title": "Bitcoin bear flag 80% complete near $62,383 support: Live levels",
+      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyB0",
+      "title": "Bitcoin slips to trade above $63,000 but records 7.5% July gain",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-trade-above-63000-but-records-75-july-gain-4829579",
       "source": "Investing.com News",
-      "publishedAt": 1785567721000,
+      "publishedAt": 1785574913000,
       "lang": "en-US",
       "topics": [
         "crypto"
@@ -56,7 +71,97 @@
       "symbols": [
         "BTC"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5kaWFuIE9pbCBRMSBG",
+      "title": "Indian Oil Q1 FY27 slides show sharp loss amid crude volatility",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/indian-oil-q1-fy27-slides-show-sharp-loss-amid-crude-volatility-93CH-4829578",
+      "source": "Investing.com News",
+      "publishedAt": 1785574174000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Indian Oil posts Q1 2026 loss as crude swings bite",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-indian-oil-posts-q1-2026-loss-as-crude-swings-bite-93CH-4829577",
+      "source": "Investing.com News",
+      "publishedAt": 1785573549000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-4oCZTGUgY2FtcGluZ+KA",
+      "title": "’Le camping’, an egalitarian symbol of French summers, faces a fiery future",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/le-camping-an-egalitarian-symbol-of-french-summers-faces-a-fiery-future-4829576",
+      "source": "Investing.com News",
+      "publishedAt": 1785572313000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hvdWxkIHlvdSBpbnZl",
+      "title": "Should you invest in the stock market now? UBS weighs in",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/should-you-invest-in-the-stock-market-now-ubs-weighs-in-4829574",
+      "source": "Investing.com News",
+      "publishedAt": 1785571084000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29jY2VyLUZJRkEgZmFj",
+      "title": "Soccer-FIFA faces fresh transparency calls after retreat on World Cup sell-off plan",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
+      "source": "Investing.com News",
+      "publishedAt": 1785570511000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZ0ZXIgRklWRSA1MCUr",
+      "title": "After FIVE 50%+ wins in July, a new list of AI picks for August IS LIVE NOW",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/after-five-50-wins-in-july-a-new-list-of-ai-picks-for-august-is-live-now-4829572",
+      "source": "Investing.com News",
+      "publishedAt": 1785569878000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -87,111 +192,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29tbWVyemJhbmsgQ0VP",
-      "title": "Commerzbank CEO to hold UniCredit talks as takeover battle enters new phase",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/commerzbank-ceo-to-hold-unicredit-talks-as-takeover-battle-enters-new-phase-4829570",
-      "source": "Investing.com News",
-      "publishedAt": 1785566456000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXB0dXMgVmFsdWUgUTEg",
-      "title": "Aptus Value Q1 FY27 slides: profit jumps 19% but NPAs rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/aptus-value-q1-fy27-slides-profit-jumps-19-but-npas-rise-93CH-4829569",
-      "source": "Investing.com News",
-      "publishedAt": 1785565945000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Aptus Value Housing Finance falls on q1 2027 asset-quality concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aptus-value-housing-finance-falls-on-q1-2027-assetquality-concerns-93CH-4829568",
-      "source": "Investing.com News",
-      "publishedAt": 1785565234000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG91dGhpcyBkZW55IFJl",
-      "title": "Houthis deny Red Sea fee plan as Trump prepares new Iran strikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
-      "source": "Investing.com News",
-      "publishedAt": 1785564810000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUsgUE0gQnVybmhhbSB1",
-      "title": "UK PM Burnham uses policy blitz to buy time for tougher decisions",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-uses-policy-blitz-to-buy-time-for-tougher-decisions-4829567",
-      "source": "Investing.com News",
-      "publishedAt": 1785564451000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhvdXNhbmRzIGV4cGVj",
-      "title": "Thousands expected in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
-      "source": "Investing.com News",
-      "publishedAt": 1785564389000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SVJCIEluZnJhc3RydWN0",
-      "title": "IRB Infrastructure Q1 FY27 slides: profit surges 51% on InvIT growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/irb-infrastructure-q1-fy27-slides-profit-surges-51-on-invit-growth-93CH-4829565",
-      "source": "Investing.com News",
-      "publishedAt": 1785563549000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
