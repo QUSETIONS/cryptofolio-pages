@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785618127309,
-  "crawlUpdatedAt": 1785618127309,
-  "crawlCount": 27,
+  "updatedAt": 1785623315681,
+  "crawlUpdatedAt": 1785623315681,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VGhpcnRlZW4gZGllIGlu",
+      "title": "Thirteen die in tourist plane crash over Peru’s Nazca Lines",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
+      "source": "Investing.com News",
+      "publishedAt": 1785621247000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9tYiBjYXJyaWVkIGJ5",
+      "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
+      "source": "Investing.com News",
+      "publishedAt": 1785620187000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VGFua2VycyBuZWFyIE9t",
       "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
@@ -25,21 +55,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhpcnRlZW4gZGllIGlu",
-      "title": "Thirteen die in tourist plane crash over Peru’s Nazca Lines",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
-      "source": "Investing.com News",
-      "publishedAt": 1785616567000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -111,21 +126,6 @@
       "url": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
       "source": "Investing.com News",
       "publishedAt": 1785615146000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVzdGF1cmFudCBleHBs",
-      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
-      "source": "Investing.com News",
-      "publishedAt": 1785614067000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -359,66 +359,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYXBwZWFscyBv",
-      "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785535443000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmludGVjaCBicm9rZXIg",
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785534580000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIEFJ",
-      "title": "Trump&apos;s AI executive order nears key deadline as regulation debate intensifies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785534392000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-4oCYU3BpZGVyLU1hbjog",
-      "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785531996000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
