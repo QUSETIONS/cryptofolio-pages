@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785607455025,
-  "crawlUpdatedAt": 1785607455025,
-  "crawlCount": 34,
+  "updatedAt": 1785613506075,
+  "crawlUpdatedAt": 1785613506075,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,83 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UmVzdGF1cmFudCBleHBs",
+      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
+      "source": "Investing.com News",
+      "publishedAt": 1785612267000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgSnVzdGljZSBEZXBh",
+      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645",
+      "source": "Investing.com News",
+      "publishedAt": 1785611550000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBlbWJhc3NpZXMg",
+      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
+      "source": "Investing.com News",
+      "publishedAt": 1785611329000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBicmVha3Mg",
+      "title": "Bitcoin breaks below $63,139 SMA: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
+      "source": "Investing.com News",
+      "publishedAt": 1785610940000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VzdEpldCBiZWdpbnMg",
+      "title": "WestJet begins flight cancellations ahead of strike",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-begins-flight-cancellations-ahead-of-strike-4829644",
+      "source": "Investing.com News",
+      "publishedAt": 1785610470000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-U29jY2VyLUluZmFudGlu",
       "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
@@ -88,87 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VS5TLiBlbWJhc3NpZXMg",
-      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
-      "source": "Investing.com News",
-      "publishedAt": 1785604772000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNyYWVsaSBzdHJpa2Vz",
-      "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-two-in-gaza-destroy-medicine-storage-warehouses-4829615",
-      "source": "Investing.com News",
-      "publishedAt": 1785599666000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2lsZGZpcmVzIHJhZ2Ug",
-      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
-      "source": "Investing.com News",
-      "publishedAt": 1785598591000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWlncmFudHMgc2F5IGh1",
-      "title": "Migrants say hunger and hostility drove them back from Spain’s Ceuta to Morocco",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/migrants-say-hunger-and-hostility-drove-them-back-from-spains-ceuta-to-morocco-4829638",
-      "source": "Investing.com News",
-      "publishedAt": 1785596427000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QmVya3NoaXJlIEhhdGhh",
       "title": "Berkshire Hathaway shares hit eight-month high",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
       "source": "CNBC Markets",
       "publishedAt": 1785595314000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgYmFycyBpbXBvcnRz",
-      "title": "US bars imports from 43 more companies over China’s alleged forced labor involving Uyghurs",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-bars-imports-from-43-more-companies-over-chinas-alleged-forced-labor-involving-uyghurs-4829635",
-      "source": "Investing.com News",
-      "publishedAt": 1785594276000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -476,57 +478,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW52ZXN0b3JzIG1heSB3",
-      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785523605000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IE1hcmtl",
-      "title": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman&apos;s own words suggest a rate hike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785521778000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIFMmUCA1MDAgaXMg",
-      "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785521256000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
