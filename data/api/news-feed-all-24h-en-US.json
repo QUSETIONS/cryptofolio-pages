@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785623315499,
-  "crawlUpdatedAt": 1785623315499,
+  "updatedAt": 1785627149403,
+  "crawlUpdatedAt": 1785627149403,
   "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,81 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RW1iYXNzaWVzIHdhcm4g",
+      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785626386000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IHdpbGwgYWRqdXN0",
+      "title": "How will adjustment in Japanese stocks impact the USD/JPY?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/how-will-adjustment-in-japanese-stocks-impact-the-usdjpy-4829655",
+      "source": "Investing.com News",
+      "publishedAt": 1785625319000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgbGFzaGVzIG91",
+      "title": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying &apos;flawed installation&apos; to blame",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785624485000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiB0aHJlYXRlbnMg",
+      "title": "Iran threatens to strike other nations’ energy fields if US launches fresh attacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
+      "source": "Investing.com News",
+      "publishedAt": 1785624161000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29jY2VyLUluZmFudGlu",
+      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
+      "source": "Investing.com News",
+      "publishedAt": 1785622706000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VGhpcnRlZW4gZGllIGlu",
       "title": "Thirteen die in tourist plane crash over Peru’s Nazca Lines",
@@ -34,21 +109,6 @@
       "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
       "source": "Investing.com News",
       "publishedAt": 1785620187000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGFua2VycyBuZWFyIE9t",
-      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785617755000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -147,53 +207,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgSnVzdGljZSBEZXBh",
-      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645",
-      "source": "Investing.com News",
-      "publishedAt": 1785611550000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBicmVha3Mg",
-      "title": "Bitcoin breaks below $63,139 SMA: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
-      "source": "Investing.com News",
-      "publishedAt": 1785610940000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VzdEpldCBiZWdpbnMg",
-      "title": "WestJet begins flight cancellations ahead of strike",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/westjet-begins-flight-cancellations-ahead-of-strike-4829644",
-      "source": "Investing.com News",
-      "publishedAt": 1785610470000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -344,21 +357,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGlycm8gbW92ZXMgdG8g",
-      "title": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by &apos;flawed installation&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785539956000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
