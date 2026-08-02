@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785698499610,
-  "crawlUpdatedAt": 1785698499610,
-  "crawlCount": 23,
+  "updatedAt": 1785702571804,
+  "crawlUpdatedAt": 1785702571804,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,128 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QXN0cmFaZW5lY2EgaW4g",
+      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785701561000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW4gdG8gYW5ub3Vu",
+      "title": "Japan to announce Tokyo, Washington took joint action on yen, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/exclusivejapan-to-announce-tokyo-washington-took-joint-action-on-yen-sources-say-4829661",
+      "source": "Investing.com News",
+      "publishedAt": 1785700832000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhlc2UgNCB0b3BpY3Mg",
+      "title": "These 4 topics are central to the success of SpaceX valuation: Bernstein",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/these-4-topics-are-central-to-the-success-of-spacex-valuation-bernstein-4829709",
+      "source": "Investing.com News",
+      "publishedAt": 1785700605000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXN0cmFaZW5lY2EgaG9s",
+      "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
+      "source": "Investing.com News",
+      "publishedAt": 1785700471000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgbGF3bWFrZXIgS2Fw",
+      "title": "US lawmaker Kaptur injured in car crash, her office says",
+      "summary": "",
+      "url": "https://www.investing.com/news/politics-news/us-lawmaker-kaptur-injured-in-car-crash-her-office-says-4829707",
+      "source": "Investing.com News",
+      "publishedAt": 1785699386000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R09QIFNlbi4gTW9yZW5v",
+      "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn&apos;t serve in House, needs &apos;serious psychological help&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785698027000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VzdEpldCBmbGlnaHQg",
+      "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
+      "source": "Investing.com News",
+      "publishedAt": 1785697592000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiB0cmFwcGVk",
+      "title": "Bitcoin trapped $62,280-$65,000 in tight range: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
+      "source": "Investing.com News",
+      "publishedAt": 1785697316000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiBkZW5pZXMgYWdy",
       "title": "Iran denies agreement to reopen Strait of Hormuz, says policy unchanged – Report",
@@ -88,51 +210,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUyB3",
-      "title": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
-      "source": "Investing.com News",
-      "publishedAt": 1785693261000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHdvIGRpZSBhcyBmaXJl",
-      "title": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
-      "source": "Investing.com News",
-      "publishedAt": 1785692917000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtQ2hpbmEg",
-      "title": "Analysis-China draws ’red lines’ around its economic model ahead of EU, US trade talks",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysischina-draws-red-lines-around-its-economic-model-ahead-of-eu-us-trade-talks-4829703",
-      "source": "Investing.com News",
-      "publishedAt": 1785690744000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TG9va2luZyBhdCBqdXN0",
       "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
       "summary": "",
@@ -145,21 +222,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VzdEpldCBmbGlnaHQg",
-      "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
-      "source": "Investing.com News",
-      "publishedAt": 1785687867000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -184,36 +246,6 @@
       "url": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
       "source": "CNBC Markets",
       "publishedAt": 1785684961000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBpcyB0aGUgQW5u",
-      "title": "What is the Anna Karenina Principle of Monetary Policy?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/what-is-the-anna-karenina-principle-of-monetary-policy-4829702",
-      "source": "Investing.com News",
-      "publishedAt": 1785684093000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVhdGggdG9sbCBmcm9t",
-      "title": "Death toll from migrant rush into Ceuta rises to 72",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/death-toll-from-migrant-rush-into-ceuta-rises-to-72-4829701",
-      "source": "Investing.com News",
-      "publishedAt": 1785681037000,
       "lang": "zh-CN",
       "topics": [
         "macro"
