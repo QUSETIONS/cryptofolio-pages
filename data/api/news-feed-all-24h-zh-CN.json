@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785681678461,
-  "crawlUpdatedAt": 1785681678461,
-  "crawlCount": 20,
+  "updatedAt": 1785686839913,
+  "crawlUpdatedAt": 1785686839913,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,66 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-JmFwb3M7U3BpZGVyLU1h",
+      "title": "&apos;Spider-Man: Brand New Day&apos; chases &apos;Avengers: Endgame&apos; opening record with $355 million domestic debut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785686045000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VzdEpldCBmbGlnaHQg",
+      "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
+      "source": "Investing.com News",
+      "publishedAt": 1785685353000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDIg",
+      "title": "Here are the 2 big things we&apos;re watching in the stock market in the week ahead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785684961000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBpcyB0aGUgQW5u",
+      "title": "What is the Anna Karenina Principle of Monetary Policy?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-is-the-anna-karenina-principle-of-monetary-policy-4829702",
+      "source": "Investing.com News",
+      "publishedAt": 1785684093000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VHdvIGhlbGljb3B0ZXJz",
       "title": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant",
@@ -40,6 +100,21 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHBlb3BsZSBhcmUg",
+      "title": "Why people are dropping out of the workforce and not looking for new jobs: &apos;The market wore me down&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785681001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -182,36 +257,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.10%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-110-4829695",
-      "source": "Investing.com News",
-      "publishedAt": 1785674703000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVtYWxlIGJvbWJlciBr",
-      "title": "Female bomber kills at least three, injures 21 near Moscow restaurant, authorities say",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
-      "source": "Investing.com News",
-      "publishedAt": 1785674188000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3AtZWQ6IFRoZSBVLlMu",
       "title": "Op-ed: The U.S. lead over China in AI is all but gone",
       "summary": "",
@@ -299,21 +344,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVya3NoaXJlIEhhdGhh",
-      "title": "Berkshire Hathaway shares hit eight-month high",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785595314000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
