@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785686839732,
-  "crawlUpdatedAt": 1785686839732,
-  "crawlCount": 22,
+  "updatedAt": 1785692084668,
+  "crawlUpdatedAt": 1785692084668,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-JmFwb3M7U3BpZGVyLU1h",
-      "title": "&apos;Spider-Man: Brand New Day&apos; chases &apos;Avengers: Endgame&apos; opening record with $355 million domestic debut",
+      "id": "Investing.com News-QW5hbHlzaXMtQ2hpbmEg",
+      "title": "Analysis-China draws ’red lines’ around its economic model ahead of EU, US trade talks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "url": "https://www.investing.com/news/economy-news/analysischina-draws-red-lines-around-its-economic-model-ahead-of-eu-us-trade-talks-4829703",
+      "source": "Investing.com News",
+      "publishedAt": 1785690744000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG9va2luZyBhdCBqdXN0",
+      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
       "source": "CNBC Markets",
-      "publishedAt": 1785686045000,
+      "publishedAt": 1785689658000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHdvIGhlbGljb3B0ZXJz",
+      "title": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
+      "source": "Investing.com News",
+      "publishedAt": 1785689309000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,13 +63,28 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
       "source": "Investing.com News",
-      "publishedAt": 1785685353000,
+      "publishedAt": 1785687867000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U3BpZGVyLU1h",
+      "title": "&apos;Spider-Man: Brand New Day&apos; chases &apos;Avengers: Endgame&apos; opening record with $355 million domestic debut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785686045000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -64,21 +109,6 @@
       "url": "https://www.investing.com/news/economy-news/what-is-the-anna-karenina-principle-of-monetary-policy-4829702",
       "source": "Investing.com News",
       "publishedAt": 1785684093000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHdvIGhlbGljb3B0ZXJz",
-      "title": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
-      "source": "Investing.com News",
-      "publishedAt": 1785681075000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -218,21 +248,6 @@
       "url": "https://www.investing.com/news/stock-market-news/is-now-the-time-to-buy-european-equities-4829697",
       "source": "Investing.com News",
       "publishedAt": 1785675757000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVldGVyaW5nIFVTIHN0",
-      "title": "Teetering US stock market faces jobs report, big earnings week",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/teetering-us-stock-market-faces-jobs-report-big-earnings-week-4829696",
-      "source": "Investing.com News",
-      "publishedAt": 1785675636000,
       "lang": "en-US",
       "topics": [
         "macro"
