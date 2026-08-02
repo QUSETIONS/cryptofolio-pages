@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1785662091274,
-  "crawlUpdatedAt": 1785662091274,
+  "updatedAt": 1785668540699,
+  "crawlUpdatedAt": 1785668540699,
   "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,113 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSB3",
+      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
+      "source": "Investing.com News",
+      "publishedAt": 1785666287000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VzdEpldCBmbGlnaHQg",
+      "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
+      "source": "Investing.com News",
+      "publishedAt": 1785666268000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FuY2VscyBw",
+      "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the &apos;perimeters of a deal&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785665915000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9tYiBjYXJyaWVkIGJ5",
+      "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
+      "summary": "",
+      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
+      "source": "Investing.com News",
+      "publishedAt": 1785665188000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RyZWV0IENhbGxzIG9m",
+      "title": "Street Calls of the Week",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4827261",
+      "source": "Investing.com News",
+      "publishedAt": 1785664802000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBob2xkcyBh",
+      "title": "Bitcoin holds above $63,000 as Coldcard losses near $89 million",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-coldcard-losses-near-89-million-4829683",
+      "source": "Investing.com News",
+      "publishedAt": 1785663971000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWtyYWluaWFuIGRyb25l",
+      "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
+      "source": "Investing.com News",
+      "publishedAt": 1785662313000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-NSBiaWcgYW5hbHlzdCBB",
       "title": "5 big analyst AI moves: AI rally to resume but S&P 500 faces pullback by end-2027",
@@ -60,21 +167,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2VzdEpldCBmbGlnaHQg",
-      "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
-      "source": "Investing.com News",
-      "publishedAt": 1785659455000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-Qm9tYiBraWxscyB0aHJl",
       "title": "Bomb kills three and wounds 21 at central Moscow restaurant",
       "summary": "",
@@ -86,98 +178,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T1BFQysgc2V0IGZvciBT",
-      "title": "OPEC+ set for September quota increase followed by pause, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/opec-set-for-september-quota-increase-followed-by-pause-sources-say-4829678",
-      "source": "Investing.com News",
-      "publishedAt": 1785657626000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSB3",
-      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
-      "source": "Investing.com News",
-      "publishedAt": 1785657266000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBo",
-      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the &apos;perimeters of a deal&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785656857000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluaWFuIGRyb25l",
-      "title": "Ukrainian drone strikes kill two in Russia, hit Wildberries warehouse",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ukrainian-drone-strikes-kill-two-in-russia-hit-wildberries-warehouse-4829676",
-      "source": "Investing.com News",
-      "publishedAt": 1785655114000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluaWFuIGRyb25l",
-      "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
-      "source": "Investing.com News",
-      "publishedAt": 1785654727000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBjb25zb2xp",
-      "title": "Bitcoin consolidates at $63,477 below key resistance: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
-      "source": "Investing.com News",
-      "publishedAt": 1785654134000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
