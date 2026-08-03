@@ -377,7 +377,7 @@
         },
         {
           "ts": 1785715200000,
-          "value": 63447.359375
+          "value": 62826.01171875
         }
       ]
     },
@@ -945,7 +945,11 @@
         },
         {
           "ts": 1785643200000,
-          "value": 99.72799682617188
+          "value": 0
+        },
+        {
+          "ts": 1785729600000,
+          "value": 0
         }
       ]
     },
@@ -1468,19 +1472,19 @@
           "value": 4049.10009765625
         },
         {
-          "ts": 1785714872000,
-          "value": 4127.7001953125
+          "ts": 1785729600000,
+          "value": 0
         }
       ]
     }
   ],
   "factors": {
-    "totalMarketCapUsd": 2262152413833.3955,
-    "totalVolumeUsd": 39101247209.92871,
-    "marketCapChange24h": 1.1759153924359447,
-    "btcDominance": 56.289034295564456
+    "totalMarketCapUsd": 2242834028149.2637,
+    "totalVolumeUsd": 38459312971.511215,
+    "marketCapChange24h": -0.6292553262466137,
+    "btcDominance": 56.22511016503153
   },
-  "updatedAt": 1785715475840,
+  "updatedAt": 1785730121276,
   "quality": "fresh",
   "sources": [
     "Yahoo Finance",
