@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1785757077119,
-  "crawlUpdatedAt": 1785757077119,
-  "crawlCount": 29,
+  "updatedAt": 1785769667879,
+  "crawlUpdatedAt": 1785769667879,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,309 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QXJlIEFtZXJpY2FucyBy",
+      "title": "Are Americans ready to embrace tiny &apos;cars&apos;? These companies think so",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785768942000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U3BpZGVyLU1h",
+      "title": "&apos;Spider-Man: Brand New Day&apos; beats out &apos;Avengers: Endgame&apos; for highest domestic opening ever",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785768929000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald raises Atlassian stock price target on cloud growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-atlassian-stock-price-target-on-cloud-growth-93CH-4831731",
+      "source": "Investing.com News",
+      "publishedAt": 1785768422000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5QmFuYyBjdXRzIE1h",
+      "title": "KeyBanc cuts MasTec stock price target on communications guidance",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-cuts-mastec-stock-price-target-on-communications-guidance-93CH-4831730",
+      "source": "Investing.com News",
+      "publishedAt": 1785768419000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5QmFuYyBsb3dlcnMg",
+      "title": "KeyBanc lowers Zillow stock price target on housing challenges",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-lowers-zillow-stock-price-target-on-housing-challenges-93CH-4831729",
+      "source": "Investing.com News",
+      "publishedAt": 1785768417000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2VlZmUgQnJ1eWV0dGUg",
+      "title": "Keefe Bruyette raises Capital Bancorp stock price target on growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/keefe-bruyette-raises-capital-bancorp-stock-price-target-on-growth-93CH-4831728",
+      "source": "Investing.com News",
+      "publishedAt": 1785768417000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2hpbmEgaG91c2luZyBw",
+      "title": "China housing prices fall 0.5% in July, sales volume weakens",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/china-housing-prices-fall-05-in-july-sales-volume-weakens-93CH-4831727",
+      "source": "Investing.com News",
+      "publishedAt": 1785768410000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5QmFuYyBsb3dlcnMg",
+      "title": "KeyBanc lowers Carpenter Technology stock price target on valuation",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-lowers-carpenter-technology-stock-price-target-on-valuation-93CH-4831726",
+      "source": "Investing.com News",
+      "publishedAt": 1785768410000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald cuts Strategy stock price target on bitcoin outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-strategy-stock-price-target-on-bitcoin-outlook-93CH-4831725",
+      "source": "Investing.com News",
+      "publishedAt": 1785768408000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald lowers Arch Capital stock price target on segment assumptions",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-lowers-arch-capital-stock-price-target-on-segment-assumptions-93CH-4831724",
+      "source": "Investing.com News",
+      "publishedAt": 1785768405000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGlubmFjbGUgV2VzdCBl",
+      "title": "Pinnacle West earnings on deck as rate case decision looms",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/pinnacle-west-earnings-on-deck-as-rate-case-decision-looms-93CH-4831723",
+      "source": "Investing.com News",
+      "publishedAt": 1785768394000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9pc2UgQ2FzY2FkZSBl",
+      "title": "Boise Cascade earnings on deck amid lumber market headwinds",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/boise-cascade-earnings-on-deck-amid-lumber-market-headwinds-93CH-4831722",
+      "source": "Investing.com News",
+      "publishedAt": 1785768341000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmlzYSB0byBidXkgY3li",
+      "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785766277000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHRoZSBVLlMuIHN0",
+      "title": "Why the U.S. stepped in after decades to prop up Japan&apos;s yen — and what&apos;s at stake",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785764957000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYJmFwb3M7cyBw",
+      "title": "SpaceX&apos;s post-IPO plunge sets tense backdrop for first earnings report",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785764702000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCB0aGUgbWFya2V0",
+      "title": "What the market is saying about the U.S. intervention to prop up the yen",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785764635000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxpYmFiYSBzaGFyZXMg",
+      "title": "Alibaba shares rally after unveiling its &apos;most powerful&apos; AI model as U.S.-China competition heats up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785764313000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785762480000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIGFwcGVhcnMg",
+      "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785761540000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R3JlZWNlIHdpbGRmaXJl",
+      "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1785759065000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QXN0cmFaZW5lY2Egc2xp",
       "title": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts &apos;perplexed&apos;",
@@ -34,201 +337,6 @@
       "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
       "source": "CNBC Markets",
       "publishedAt": 1785756233000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBzdG9jayBmdXR1",
-      "title": "U.S. stock futures tick higher as Trump touts Iran negotiations",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-touts-iran-negotiations-4829740",
-      "source": "Investing.com News",
-      "publishedAt": 1785756135000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEluZGl2aW9y",
-      "title": "Why is Indivior stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-indivior-stock-surging-today-93CH-4830727",
-      "source": "Investing.com News",
-      "publishedAt": 1785756076000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0VTIEFJIHNpZ25zIGJh",
-      "title": "SES AI signs battery design deal with Doroni Aerospace",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ses-ai-signs-battery-design-deal-with-doroni-aerospace-93CH-4830726",
-      "source": "Investing.com News",
-      "publishedAt": 1785756045000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFycmlvdHQgSW50IGVh",
-      "title": "Marriott Int earnings beat by $0.14, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/marriott-int-earnings-beat-by-014-revenue-fell-short-of-estimates-4830725",
-      "source": "Investing.com News",
-      "publishedAt": 1785755976000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybSA0IFZGIENvcnBv",
-      "title": "Form 4 VF Corporation For: 3 August",
-      "summary": "",
-      "url": "https://www.investing.com/news/filings/form-4-vf-corporation-for-3-august-93CH-4830724",
-      "source": "Investing.com News",
-      "publishedAt": 1785755958000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCB0aGUgbWFya2V0",
-      "title": "What the market is saying about the U.S. intervention to prop up the yen",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785755941000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJnZW50aW5h4oCZcyBm",
-      "title": "Argentina’s farm exports fall 28% in July to $2.92 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/argentinas-farm-exports-fall-28-in-july-to-292-billion-93CH-4830723",
-      "source": "Investing.com News",
-      "publishedAt": 1785755918000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S0tSIHRvIGJ1eSBtZWRp",
-      "title": "KKR to buy medical device firm Integer Holdings for $5.7 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kkr-to-buy-medical-device-firm-integer-holdings-for-57-billion-4830722",
-      "source": "Investing.com News",
-      "publishedAt": 1785755916000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Concord Biotech misses Q1 2026 estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-concord-biotech-misses-q1-2026-estimates-93CH-4830721",
-      "source": "Investing.com News",
-      "publishedAt": 1785755904000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFycmlvdHQgc2hhcmVz",
-      "title": "Marriott shares fall on revenue miss despite earnings beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/marriott-shares-fall-on-revenue-miss-despite-earnings-beat-4830720",
-      "source": "Investing.com News",
-      "publishedAt": 1785755902000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0FTIE5vcndheSBjYWJp",
-      "title": "SAS Norway cabin crew to strike from August 8 over wages",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sas-norway-cabin-crew-to-strike-from-august-8-over-wages-93CH-4830719",
-      "source": "Investing.com News",
-      "publishedAt": 1785755859000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJcmFu",
-      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785755847000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785755749000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -268,21 +376,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWxpYmFiYSBzaGFyZXMg",
-      "title": "Alibaba shares rally after unveiling its &apos;most powerful&apos; AI model as U.S.-China competition heats up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785753275000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG91cmlzbSBwcmljZSB3",
       "title": "Tourism price wars threaten to dim a rare bright spot in China&apos;s consumer spending",
       "summary": "",
@@ -304,21 +397,6 @@
       "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
       "source": "CNBC Markets",
       "publishedAt": 1785733201000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3MgbXkg",
-      "title": "Here&apos;s my power rankings for the big 4 hyperscalers after this earnings season",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785702464000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -352,98 +430,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TG9va2luZyBhdCBqdXN0",
-      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785689658000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7U3BpZGVyLU1h",
-      "title": "&apos;Spider-Man: Brand New Day&apos; chases &apos;Avengers: Endgame&apos; opening record with $355 million domestic debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785686045000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IHBlb3BsZSBhcmUg",
-      "title": "Why people are dropping out of the workforce and not looking for new jobs: &apos;The market wore me down&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785681001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhdGVzIGV4cGFuZCBz",
-      "title": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785677401000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW52ZXN0b3JzIHNjb3Jl",
-      "title": "Investors scored on Iran war&apos;s oil market boom. Staying long the trade will get trickier",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785675601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IGZsaWdodHMgYXJl",
-      "title": "Why flights are so expensive and will likely stay that way",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785672001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
