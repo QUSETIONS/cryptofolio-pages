@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786000727216,
-  "crawlUpdatedAt": 1786000727216,
-  "crawlCount": 38,
+  "updatedAt": 1786011113712,
+  "crawlUpdatedAt": 1786011113712,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,29 +13,57 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Qml0Y29pbiBuZWFycyAk",
-      "title": "Bitcoin nears $65k amid Hormuz hopes, improving ETF flows",
+      "id": "CNBC Markets-VWtyYWluZeKAmXMgbWls",
+      "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-nears-65k-amid-hormuz-hopes-improving-etf-flows-4840150",
-      "source": "Investing.com News",
-      "publishedAt": 1786000344000,
+      "url": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786010394000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
       ],
-      "symbols": [
-        "BTC"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U29mdEJhbmsgcG9zdHMg",
-      "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
+      "id": "CNBC Markets-SGFkcmlhbiB2YWx1ZWQg",
+      "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+      "url": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786000324000,
+      "publishedAt": 1786010098000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXN0cmFaZW5lY2EgbWF5",
+      "title": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/06/astrazeneca-bristol-myers-merger-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786009216000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW90b3JvbGEgU29sdXRp",
+      "title": "Motorola Solutions jumps on earnings beat and raised outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/motorola-solutions-surges-on-earnings-beat-and-raised-outlook-4839663",
+      "source": "Investing.com News",
+      "publishedAt": 1786008781000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -45,102 +73,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
-      "title": "FTSE 100 today: Stocks tick up on Hormuz hopes, earnings watch",
+      "id": "Investing.com News-UG9sYXIgQ2FwaXRhbCBU",
+      "title": "Polar Capital Technology Trust discloses July portfolio holdings",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-tick-up-on-hormuz-hopes-earnings-watch-4840149",
+      "url": "https://www.investing.com/news/company-news/polar-capital-technology-trust-discloses-july-portfolio-holdings-93CH-4840551",
       "source": "Investing.com News",
-      "publishedAt": 1786000274000,
+      "publishedAt": 1786008745000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIGRvd25ncmFkZXMg",
-      "title": "UBS downgrades Fomento Economico Mexicano stock rating on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-fomento-economico-mexicano-stock-rating-on-valuation-93CH-4840148",
-      "source": "Investing.com News",
-      "publishedAt": 1786000256000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNb3JnYW4gdXBncmFk",
-      "title": "JPMorgan upgrades Charles River Labs stock rating on bookings",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-charles-river-labs-stock-rating-on-bookings-93CH-4840147",
-      "source": "Investing.com News",
-      "publishedAt": 1786000253000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWRtaXJhbCBHcm91cCBi",
-      "title": "Admiral Group beats margin expectations, shares jump",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/admiral-group-beats-margin-expectations-shares-jump-93CH-4840146",
-      "source": "Investing.com News",
-      "publishedAt": 1786000245000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: KOKUSAI ELECTRIC posts record Q1 2026 sales",
+      "title": "Earnings call transcript: Hikma posts solid H1 2026 growth as shares jump 9.9%",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kokusai-electric-posts-record-q1-2026-sales-93CH-4840145",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hikma-posts-solid-h1-2026-growth-as-shares-jump-99-93CH-4840550",
       "source": "Investing.com News",
-      "publishedAt": 1786000244000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um9sZXggUmluZ3MgUTEg",
-      "title": "Rolex Rings Q1 FY27 slides: margins expand despite labor constraints",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/rolex-rings-q1-fy27-slides-margins-expand-despite-labor-constraints-93CH-4840144",
-      "source": "Investing.com News",
-      "publishedAt": 1786000157000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VsbG5leCBMaWZlIHRv",
-      "title": "Wellnex Life to sell Pain Away business for up to A$21.3m",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/wellnex-life-to-sell-pain-away-business-for-up-to-a213m-93CH-4840142",
-      "source": "Investing.com News",
-      "publishedAt": 1786000121000,
+      "publishedAt": 1786008683000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -150,33 +103,168 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RGVyd2VudCBMb25kb24g",
-      "title": "Derwent London falls as net asset value drops 2.1%",
+      "id": "Investing.com News-VmlydHVpeCBDT08gQWxs",
+      "title": "Virtuix COO Allan sells $193,253 in shares",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/derwent-london-falls-as-net-asset-value-drops-21-93CH-4840141",
+      "url": "https://www.investing.com/news/insider-trading-news/virtuix-coo-allan-sells-193253-in-shares-93CH-4840549",
       "source": "Investing.com News",
-      "publishedAt": 1786000098000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29wcGVyIHJlamVjdHMg",
-      "title": "Copper rejects ATH at $6.765 with MFI at 88: Hourly levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/copper-nears-alltime-highs-with-overbought-rsi-live-levels-93CH-4833093",
-      "source": "Investing.com News",
-      "publishedAt": 1785999911000,
+      "publishedAt": 1786008679000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVybnN0ZWluIHJhaXNl",
+      "title": "Bernstein raises SpaceX stock price target on AI revenue outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-spacex-stock-price-target-on-ai-revenue-outlook-93CH-4840548",
+      "source": "Investing.com News",
+      "publishedAt": 1786008657000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEhvbmV5d2Vs",
+      "title": "Why is Honeywell Aerospace stock plunging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-honeywell-aerospace-stock-plunging-today-93CH-4840547",
+      "source": "Investing.com News",
+      "publishedAt": 1786008649000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2hhbm5hIHRvIGludHJv",
+      "title": "Khanna to introduce &apos;Data Center Bill of Rights&apos; as fight over AI power plants heats up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786008601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEZhc3RseSBz",
+      "title": "Why is Fastly stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-fastly-stock-sliding-today-93CH-4840531",
+      "source": "Investing.com News",
+      "publishedAt": 1786008537000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VvcmdpbmEgRW5lcmd5",
+      "title": "Georgina Energy advances pre-drill work at Hussar helium site",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/georgina-energy-advances-predrill-work-at-hussar-helium-site-93CH-4840530",
+      "source": "Investing.com News",
+      "publishedAt": 1786008519000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0JNIE9mZnNob3JlIEgx",
+      "title": "SBM Offshore H1 2026 slides: record backlog, raised guidance",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/sbm-offshore-h1-2026-slides-record-backlog-raised-guidance-93CH-4840529",
+      "source": "Investing.com News",
+      "publishedAt": 1786008476000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q0xQIEhvbGRpbmdzIEgx",
+      "title": "CLP Holdings H1 2026 slides: 10% earnings growth, portfolio transformation",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/clp-holdings-h1-2026-slides-10-earnings-growth-portfolio-transformation-93CH-4840525",
+      "source": "Investing.com News",
+      "publishedAt": 1786008400000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U29mdEJhbmsgZ2V0cyAk",
+      "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786007475000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVpamluZyBmbGlwcyB0",
+      "title": "Beijing flips the script on the U.S. tech war — and tests the truce weeks before Xi&apos;s visit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786003172000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmludGVuZG8mYXBvcztz",
+      "title": "Nintendo&apos;s fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786002199000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -267,21 +355,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBkb3du",
-      "title": "We&apos;re downgrading Honeywell Aerospace after a shockingly bad earnings debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785974976000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -377,21 +450,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SG93IERpc25leSBwYXJr",
-      "title": "How Disney parks are bucking a travel slowdown",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785964956000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RS5sLmYuIEJlYXV0eSBz",
       "title": "E.l.f. Beauty sees $50 million windfall in tariff refunds as profits surge 100%",
       "summary": "",
@@ -454,21 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGZh",
-      "title": "SpaceX stock falls 13% as AI spending surge rattles investors and massive share unlock looms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785960123000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgYWRtaW4gcmVm",
       "title": "Trump admin refunds $100 billion in &apos;liberation day&apos; tariffs",
       "summary": "",
@@ -484,21 +527,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBpbmNy",
-      "title": "We&apos;re increasing our Eli Lilly price target after another beat-and-raise quarter",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/05/were-increasing-our-eli-lilly-price-target-after-another-beat-and-raise-quarter.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785958112000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2FsbCBTdHJlZXQmYXBv",
       "title": "Wall Street&apos;s &apos;fear gauge&apos; is doing something unusual as stocks hit record highs",
       "summary": "",
@@ -511,21 +539,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlJmFwb3M7cyBB",
-      "title": "Google&apos;s AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1785955913000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
