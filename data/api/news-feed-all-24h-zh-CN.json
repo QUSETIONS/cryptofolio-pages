@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786228620322,
-  "crawlUpdatedAt": 1786228620322,
-  "crawlCount": 23,
+  "updatedAt": 1786232163819,
+  "crawlUpdatedAt": 1786232163819,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "id": "CNBC Markets-VmVyaXpvbiBtb2JpbGUg",
+      "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847688",
+      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786230840000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RyYXRlZ2lzdCBleHBs",
+      "title": "Strategist explains why U.S. yen support is built to fail",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/strategist-explains-why-us-yen-support-is-built-to-fail-4847690",
       "source": "Investing.com News",
-      "publishedAt": 1786224003000,
+      "publishedAt": 1786229815000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIGRlYWwg",
+      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+      "source": "Investing.com News",
+      "publishedAt": 1786229305000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBzYXlzIGRlYWwg",
-      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847688",
       "source": "Investing.com News",
-      "publishedAt": 1786223909000,
+      "publishedAt": 1786224003000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -146,21 +176,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q0FTWCBUb2tlbiBQcmVz",
-      "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
-      "summary": "",
-      "url": "https://www.investing.com/news/press-releases/casx-token-presale-marks-the-next-milestone-for-the-cashelix-payment-ecosystem-4847677",
-      "source": "Investing.com News",
-      "publishedAt": 1786213902000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
