@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786201176271,
-  "crawlUpdatedAt": 1786201176271,
+  "updatedAt": 1786203535147,
+  "crawlUpdatedAt": 1786203535147,
   "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,52 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-SW5zaWRlIHRoZSBzdGFy",
+      "title": "Inside the startup drone maker powering Ukraine&apos;s deep-strike campaign",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786202959000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUFFIHNheXMgb25lIG9m",
+      "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786202201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV4dCBiaWcgcHVzaCBp",
+      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786201201000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QmVya3NoaXJl4oCZcyBw",
       "title": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares",
@@ -142,21 +188,6 @@
       "url": "https://www.investing.com/news/stock-market-news/michigan-salad-warnings-ease-but-cyclospora-keeps-shoppers-and-grocers-on-edge-4847658",
       "source": "Investing.com News",
       "publishedAt": 1786194391000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUFFIHNheXMgb25lIG9m",
-      "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786194390000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -314,21 +345,6 @@
       "symbols": [
         "SPX"
       ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIHRoZSBzdGFy",
-      "title": "Inside the startup drone maker powering Ukraine&apos;s deep-strike campaign",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786166472000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
@@ -555,21 +571,6 @@
       "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
       "source": "CNBC Markets",
       "publishedAt": 1786118401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29tcGFuaWVzIHNjb2Zm",
-      "title": "Companies scoff at airlines&apos; cheapest business class tickets. &apos;The real value is flexibility&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786115591000,
       "lang": "zh-CN",
       "topics": [
         "macro"
