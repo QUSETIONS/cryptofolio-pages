@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786188938214,
-  "crawlUpdatedAt": 1786188938214,
-  "crawlCount": 32,
+  "updatedAt": 1786194247971,
+  "crawlUpdatedAt": 1786194247971,
+  "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-UGF5Y29tIHN0b2NrIGRl",
-      "title": "Paycom stock delivers 71% return after Fair Value signal",
+      "id": "Investing.com News-QmVya3NoaXJl4oCZcyBw",
+      "title": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares",
       "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/paycom-stock-delivers-71-return-after-fair-value-signal-93CH-4847647",
+      "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
       "source": "Investing.com News",
-      "publishedAt": 1786187368000,
+      "publishedAt": 1786193204000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIFN0cmFp",
+      "title": "Iran says Strait of Hormuz deal with Oman close; demands U.S. yield on conditions",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
+      "source": "Investing.com News",
+      "publishedAt": 1786193010000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIGRlYWwg",
+      "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+      "source": "Investing.com News",
+      "publishedAt": 1786192945000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +58,164 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SG93IEZhaXIgVmFsdWUg",
-      "title": "How Fair Value spotted Avis Budget’s 52% plunge four months early",
+      "id": "Investing.com News-QXBwbGUgc2F5cyBNYWMg",
+      "title": "Apple says Mac users in China can connect to Alibaba’s Qwen AI service",
       "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-spotted-avis-budgets-52-plunge-four-months-early-93CH-4847646",
+      "url": "https://www.investing.com/news/stock-market-news/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service-4847655",
       "source": "Investing.com News",
-      "publishedAt": 1786186924000,
+      "publishedAt": 1786192590000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVya3NoaXJlIHNheXMg",
+      "title": "Berkshire says operating profit rises, conducts stock buybacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
+      "source": "Investing.com News",
+      "publishedAt": 1786192209000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IGNsZWFuaW5nIHVw",
+      "title": "How cleaning up space debris could grow to become a big business",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786190655000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2V2byBDRU8gUGF1bCBC",
+      "title": "Gevo CEO Paul Bloom sells $48,068 in company shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/gevo-ceo-paul-bloom-sells-48068-in-company-shares-93CH-4847652",
+      "source": "Investing.com News",
+      "publishedAt": 1786190463000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SHVnZ2luZyBGYWNlIGhh",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms &apos;don&apos;t even know it&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786190401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3ljbG9zcG9yYSBmZWFy",
+      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786190401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxldmF0b3IgZ2lhbnQg",
+      "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786190401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSByZWNvcmQtYnJlYWtp",
+      "title": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786189762000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUFFIHNheXMgSXJhbiBh",
+      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uae-says-iran-attacked-adnoc-vessel-with-missile-in-strait-of-hormuz-4847650",
+      "source": "Investing.com News",
+      "publishedAt": 1786189709000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T25lbWVkbmV0IGRpcmVj",
+      "title": "Onemednet director Thomas Kosasa buys $1 million in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/onemednet-director-thomas-kosasa-buys-1-million-in-shares-93CH-4847649",
+      "source": "Investing.com News",
+      "publishedAt": 1786189583000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2F0ZXJzIENvcnAgZGly",
+      "title": "Waters Corp director sells $1.44 million in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/waters-corp-director-sells-144-million-in-stock-93CH-4847648",
+      "source": "Investing.com News",
+      "publishedAt": 1786189581000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -48,122 +230,13 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
       "source": "Investing.com News",
-      "publishedAt": 1786185031000,
+      "publishedAt": 1786188268000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9yY2ggZ3JvdXAgQ0ZP",
-      "title": "Porch group CFO Shawn Tabak sells $405k in PRCH stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/porch-group-cfo-shawn-tabak-sells-405k-in-prch-stock-93CH-4847644",
-      "source": "Investing.com News",
-      "publishedAt": 1786184216000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TnZpZGlhIGFuYWx5c2lz",
-      "title": "Nvidia analysis: Should you buy the stock into earnings amid 10-yr low valuation?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-analysis-should-you-buy-the-stock-into-earnings-amid-10yr-low-valuation-93CH-4847641",
-      "source": "Investing.com News",
-      "publishedAt": 1786182923000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBTZW5hdGUgcGFz",
-      "title": "U.S. Senate passes stopgap spending bill without Trump priorities",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-senate-passes-stopgap-spending-bill-without-trump-priorities-4847640",
-      "source": "Investing.com News",
-      "publishedAt": 1786182912000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVyZWxsYSBXZWluYmVy",
-      "title": "Perella Weinberg Partners CEO Andrew Bednar sells $4.08m in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/perella-weinberg-partners-ceo-andrew-bednar-sells-408m-in-stock-93CH-4847638",
-      "source": "Investing.com News",
-      "publishedAt": 1786182388000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TnZpZGlhIGludmVzdHMg",
-      "title": "Nvidia invests $2 billion in power developer Lancium - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nvidia-invests-2-billion-in-power-developer-lancium--report-93CH-4847637",
-      "source": "Investing.com News",
-      "publishedAt": 1786181799000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0YWRlbCBTZWN1cml0",
-      "title": "Citadel Securities’ Rubner says it’s time to start buying gold again",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142",
-      "source": "Investing.com News",
-      "publishedAt": 1786181434000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFoYXJhc2h0cmEgU2Vh",
-      "title": "Maharashtra Seamless Q1 FY27 slides: profit surges on treasury gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/maharashtra-seamless-q1-fy27-slides-profit-surges-on-treasury-gains-93CH-4847632",
-      "source": "Investing.com News",
-      "publishedAt": 1786180632000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -464,36 +537,6 @@
       "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
       "source": "CNBC Markets",
       "publishedAt": 1786111570000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJpdmF0ZSBlcXVpdHkg",
-      "title": "Private equity is circling budget airlines after Apollo&apos;s EasyJet deal — and this carrier could be next",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786106119000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Vm9sa3N3YWdlbiBjb250",
-      "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786104929000,
       "lang": "zh-CN",
       "topics": [
         "macro"
