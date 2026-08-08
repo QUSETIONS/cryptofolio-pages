@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786210632864,
-  "crawlUpdatedAt": 1786210632864,
-  "crawlCount": 35,
+  "updatedAt": 1786215013103,
+  "crawlUpdatedAt": 1786215013103,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Q0FTWCBUb2tlbiBQcmVz",
+      "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/casx-token-presale-marks-the-next-milestone-for-the-cashelix-payment-ecosystem-4847677",
+      "source": "Investing.com News",
+      "publishedAt": 1786213902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzZXRzIHRvdWdo",
+      "title": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
+      "source": "Investing.com News",
+      "publishedAt": 1786212873000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiBzZXRzIGNvbmRp",
+      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786210891000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SHVudGVyIEJpZGVuIHNh",
       "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
@@ -34,21 +79,6 @@
       "url": "https://www.investing.com/news/stock-market-news/nvidias-valuation-is-lowest-in-10-years-despite-mindblowing-ai-demand-bofa-say-4847675",
       "source": "Investing.com News",
       "publishedAt": 1786209776000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBzZXRzIGNvbmRp",
-      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786209412000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -272,36 +302,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBzYXlzIFN0cmFp",
-      "title": "Iran says Strait of Hormuz deal with Oman close; demands U.S. yield on conditions",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
-      "source": "Investing.com News",
-      "publishedAt": 1786193010000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgc2F5cyBNYWMg",
-      "title": "Apple says Mac users in China can connect to Alibaba’s Qwen AI service",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service-4847655",
-      "source": "Investing.com News",
-      "publishedAt": 1786192590000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG93IGNsZWFuaW5nIHVw",
       "title": "How cleaning up space debris could grow to become a big business",
       "summary": "",
@@ -451,100 +451,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcmV2aXZlcyBl",
-      "title": "Trump revives effort to fire Fed&apos;s Lisa Cook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786127897000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29sZCBidWdzIHNwZW5k",
-      "title": "Gold bugs spend $180 million betting all&apos;s clear for metal as bond yields stall",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786126976000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnVyZ2VyIEtpbmcgb3Zl",
-      "title": "Burger King overtakes Wendy&apos;s as the nation&apos;s second-largest burger chain",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786126779000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhyZWUg",
-      "title": "Here are three key takeaways from the disappointing July jobs report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786126158000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGVhc2VkIGFu",
-      "title": "Trump teased an Iran deal that didn&apos;t come, but markets soared. Here’s why it keeps happening",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786125012000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmFsbGluZyBsb25nLXRl",
-      "title": "Falling long-term unemployment isn&apos;t good news, economists say — what it means for jobseekers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/long-term-unemployment-job-market-workers-labor-force.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786124908000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
