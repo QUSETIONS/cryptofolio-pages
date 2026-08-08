@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786215012872,
-  "crawlUpdatedAt": 1786215012872,
-  "crawlCount": 29,
+  "updatedAt": 1786217773138,
+  "crawlUpdatedAt": 1786217773138,
+  "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VVMgU2VuYXRlIGFkdmFu",
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+      "source": "Investing.com News",
+      "publishedAt": 1786216705000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc29mdHdh",
+      "title": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680",
+      "source": "Investing.com News",
+      "publishedAt": 1786215739000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzcXVlZXpl",
+      "title": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
+      "source": "Investing.com News",
+      "publishedAt": 1786215689000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Q0FTWCBUb2tlbiBQcmVz",
       "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
@@ -239,54 +286,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hhdCBoYXBwZW5zIHRv",
-      "title": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/what-happens-to-stocks-when-the-fed-starts-hiking-barclays-weighs-in-4847660",
-      "source": "Investing.com News",
-      "publishedAt": 1786195320000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVya3NoaXJlIGxvd2Vy",
-      "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-lowers-cash-stake-as-buybacks-accelerate-reports-higher-profit-4847659",
-      "source": "Investing.com News",
-      "publishedAt": 1786194408000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWljaGlnYW4gc2FsYWQg",
-      "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/michigan-salad-warnings-ease-but-cyclospora-keeps-shoppers-and-grocers-on-edge-4847658",
-      "source": "Investing.com News",
-      "publishedAt": 1786194391000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Rm9yIHJldGlyZWVzLCBz",
       "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
       "summary": "",
@@ -415,36 +414,6 @@
       "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
       "source": "CNBC Markets",
       "publishedAt": 1786134137000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhIHNhbmN0aW9u",
-      "title": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786130482000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBlY29ub215IHVu",
-      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786130062000,
       "lang": "en-US",
       "topics": [
         "macro"
