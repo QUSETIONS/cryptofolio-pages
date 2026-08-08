@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786203535147,
-  "crawlUpdatedAt": 1786203535147,
-  "crawlCount": 37,
+  "updatedAt": 1786207396799,
+  "crawlUpdatedAt": 1786207396799,
+  "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-RWxldmF0b3IgZ2lhbnQg",
+      "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786203803000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-SW5zaWRlIHRoZSBzdGFy",
       "title": "Inside the startup drone maker powering Ukraine&apos;s deep-strike campaign",
@@ -25,6 +40,21 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIGRlYWwg",
+      "title": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+      "source": "Investing.com News",
+      "publishedAt": 1786202669000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -227,21 +257,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBzYXlzIGRlYWwg",
-      "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
-      "source": "Investing.com News",
-      "publishedAt": 1786192945000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-QXBwbGUgc2F5cyBNYWMg",
       "title": "Apple says Mac users in China can connect to Alibaba’s Qwen AI service",
       "summary": "",
@@ -306,21 +321,6 @@
       "title": "Cyclospora fears lead consumers to lose their appetite for salads",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786190401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxldmF0b3IgZ2lhbnQg",
-      "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
       "source": "CNBC Markets",
       "publishedAt": 1786190401000,
       "lang": "zh-CN",
@@ -542,38 +542,6 @@
       "lang": "zh-CN",
       "topics": [
         "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hlc2t5IHNheXMgQWly",
-      "title": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786120134000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BNB"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9wIERlbW9jcmF0IHBy",
-      "title": "Top Democrat proposes killing tax breaks for overseas oil production",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786118401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
