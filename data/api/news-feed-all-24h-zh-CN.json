@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786194247971,
-  "crawlUpdatedAt": 1786194247971,
-  "crawlCount": 35,
+  "updatedAt": 1786198048838,
+  "crawlUpdatedAt": 1786198048838,
+  "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,126 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-JmFwb3M7TW9uZXltYXh4",
+      "title": "&apos;Moneymaxxing&apos; isn&apos;t a trend, it&apos;s a &apos;cultural shift,&apos; financial advisor says — here&apos;s how to get started",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786195801000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVya3NoaXJlIGVhcm5p",
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786195680000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBoYXBwZW5zIHRv",
+      "title": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/what-happens-to-stocks-when-the-fed-starts-hiking-barclays-weighs-in-4847660",
+      "source": "Investing.com News",
+      "publishedAt": 1786195320000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-QmVya3NoaXJl4oCZcyBw",
       "title": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
       "source": "Investing.com News",
-      "publishedAt": 1786193204000,
+      "publishedAt": 1786194876000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVya3NoaXJlIGxvd2Vy",
+      "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-lowers-cash-stake-as-buybacks-accelerate-reports-higher-profit-4847659",
+      "source": "Investing.com News",
+      "publishedAt": 1786194408000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljaGlnYW4gc2FsYWQg",
+      "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/michigan-salad-warnings-ease-but-cyclospora-keeps-shoppers-and-grocers-on-edge-4847658",
+      "source": "Investing.com News",
+      "publishedAt": 1786194391000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUFFIHNheXMgb25lIG9m",
+      "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786194390000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yIHJldGlyZWVzLCBz",
+      "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786194001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -192,51 +300,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T25lbWVkbmV0IGRpcmVj",
-      "title": "Onemednet director Thomas Kosasa buys $1 million in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/onemednet-director-thomas-kosasa-buys-1-million-in-shares-93CH-4847649",
-      "source": "Investing.com News",
-      "publishedAt": 1786189583000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2F0ZXJzIENvcnAgZGly",
-      "title": "Waters Corp director sells $1.44 million in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/waters-corp-director-sells-144-million-in-stock-93CH-4847648",
-      "source": "Investing.com News",
-      "publishedAt": 1786189581000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHlwaG9vbiBEb2xwaGlu",
-      "title": "Typhoon Dolphin hits Japan’s Okinawa, China shuts ports ahead of landfall",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
-      "source": "Investing.com News",
-      "publishedAt": 1786188268000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -507,36 +570,6 @@
       "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
       "source": "CNBC Markets",
       "publishedAt": 1786115591000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdG5vdCB2YWx1ZWQg",
-      "title": "Whatnot valued at $20 billion as live shopping continues to boom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786114932000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiZhcG9zO3MgY2hp",
-      "title": "Iran&apos;s chief negotiator accuses Trump of &apos;theater diplomacy&apos; with Hormuz traffic near standstill",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786111570000,
       "lang": "zh-CN",
       "topics": [
         "macro"
