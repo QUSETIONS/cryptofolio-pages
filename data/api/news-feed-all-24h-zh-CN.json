@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786284510388,
-  "crawlUpdatedAt": 1786284510388,
+  "updatedAt": 1786287743381,
+  "crawlUpdatedAt": 1786287743381,
   "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-T2Nhc2lvLUNvcnRleiBo",
+      "title": "Ocasio-Cortez hasn&apos;t &apos;ruled out&apos; running for president or Senate in 2028",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786286717000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiBzYXlzIE9tYW4g",
       "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
@@ -340,22 +355,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV4dCBiaWcgcHVzaCBp",
-      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786201201000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
