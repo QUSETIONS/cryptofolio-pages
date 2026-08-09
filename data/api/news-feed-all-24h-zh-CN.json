@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786301531091,
-  "crawlUpdatedAt": 1786301531091,
+  "updatedAt": 1786304372006,
+  "crawlUpdatedAt": 1786304372006,
   "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qml0Y29pbiBoaXRzIG92",
+      "title": "Bitcoin hits overbought MFI at $65,500 resistance: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
+      "source": "Investing.com News",
+      "publishedAt": 1786302139000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIE9tYW4g",
+      "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
+      "source": "Investing.com News",
+      "publishedAt": 1786301310000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-TWF4IE1pbGxlciBzdGF5",
       "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
@@ -49,21 +81,6 @@
       "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
       "source": "CNBC Markets",
       "publishedAt": 1786299357000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBzYXlzIE9tYW4g",
-      "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
-      "source": "Investing.com News",
-      "publishedAt": 1786296987000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -207,21 +224,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmlvaGF2ZW4gZWFybmlu",
-      "title": "Biohaven earnings set to show cash burn ahead of epilepsy data",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/biohaven-earnings-set-to-show-cash-burn-ahead-of-epilepsy-data-93CH-4847742",
-      "source": "Investing.com News",
-      "publishedAt": 1786282611000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
