@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786304372006,
-  "crawlUpdatedAt": 1786304372006,
+  "updatedAt": 1786308100395,
+  "crawlUpdatedAt": 1786308100395,
   "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-WWVtZW7igJlzIEhvdXRo",
+      "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
+      "source": "Investing.com News",
+      "publishedAt": 1786304546000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBoaXRzIG92",
       "title": "Bitcoin hits overbought MFI at $65,500 resistance: Live levels",
@@ -118,21 +133,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WWVtZW7igJlzIEhvdXRo",
-      "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
-      "source": "Investing.com News",
-      "publishedAt": 1786290864000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
