@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786280788768,
-  "crawlUpdatedAt": 1786280788768,
-  "crawlCount": 24,
+  "updatedAt": 1786284510388,
+  "crawlUpdatedAt": 1786284510388,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,87 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.05%",
+      "id": "Investing.com News-SXJhbiBzYXlzIE9tYW4g",
+      "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-005-4847735",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
       "source": "Investing.com News",
-      "publishedAt": 1786279503000,
+      "publishedAt": 1786283331000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q0VWQSBlYXJuaW5ncyBv",
+      "title": "CEVA earnings on deck: Can licensing sustain royalty wait?",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/ceva-earnings-on-deck-can-licensing-sustain-royalty-wait-93CH-4847747",
+      "source": "Investing.com News",
+      "publishedAt": 1786282879000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVya3NoaXJlIEhhdGhh",
+      "title": "Berkshire Hathaway earnings on deck as Abel faces cash test",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/berkshire-hathaway-earnings-on-deck-as-abel-faces-cash-test-93CH-4847746",
+      "source": "Investing.com News",
+      "publishedAt": 1786282827000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJpbWJsZSBlYXJuaW5n",
+      "title": "Trimble earnings on deck amid portfolio simplification push",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/trimble-earnings-on-deck-amid-portfolio-simplification-push-93CH-4847745",
+      "source": "Investing.com News",
+      "publishedAt": 1786282773000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2lsaWNvbiBMYWJzIGZh",
+      "title": "Silicon Labs faces earnings test amid Texas Instruments deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/silicon-labs-faces-earnings-test-amid-texas-instruments-deal-93CH-4847744",
+      "source": "Investing.com News",
+      "publishedAt": 1786282719000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SHViIEdyb3VwIGVhcm5p",
+      "title": "Hub Group earnings ahead: Can execution match freight rebound?",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/hub-group-earnings-ahead-can-execution-match-freight-rebound-93CH-4847743",
+      "source": "Investing.com News",
+      "publishedAt": 1786282664000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,42 +103,102 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-QmlvaGF2ZW4gZWFybmlu",
+      "title": "Biohaven earnings set to show cash burn ahead of epilepsy data",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/biohaven-earnings-set-to-show-cash-burn-ahead-of-epilepsy-data-93CH-4847742",
+      "source": "Investing.com News",
+      "publishedAt": 1786282611000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2FuYSBCaW90ZWNobm9s",
+      "title": "Sana Biotechnology faces earnings test as CAR-T program advances",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/sana-biotechnology-faces-earnings-test-as-cart-program-advances-93CH-4847741",
+      "source": "Investing.com News",
+      "publishedAt": 1786282557000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVwbGltdW5lIGluIHRo",
+      "title": "Replimune in the spotlight: Earnings loom days after FDA approval",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/replimune-in-the-spotlight-earnings-loom-days-after-fda-approval-93CH-4847740",
+      "source": "Investing.com News",
+      "publishedAt": 1786282503000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-NSDigJhydWxlc+KAmSB5",
+      "title": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786282441000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WWVtZW7igJlzIEhvdXRo",
+      "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
+      "source": "Investing.com News",
+      "publishedAt": 1786281170000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDIg",
+      "title": "Here are the 2 big things we&apos;re watching in the stock market in the week ahead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786281112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-TXlzcGFjZSBleWVzIGNv",
       "title": "Myspace eyes comeback as an &apos;antidote&apos; to social media fatigue — but it may be a long shot",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
       "source": "CNBC Markets",
       "publishedAt": 1786278234000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBzYXlzIE9tYW4g",
-      "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
-      "source": "Investing.com News",
-      "publishedAt": 1786277907000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgdGVzdHMgQ2hp",
-      "title": "Apple tests China’s CXMT memory chips for iPhones and MacBooks, WSJ reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-tests-chinas-cxmt-memory-chips-for-iphones-and-macbooks-wsj-reports-4847734",
-      "source": "Investing.com News",
-      "publishedAt": 1786277550000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,36 +238,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IHRoZSB1cGNvbWlu",
-      "title": "Why the upcoming CPI report is a bigger event than last week’s jobs data",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/why-the-upcoming-cpi-report-is-a-bigger-event-than-last-weeks-jobs-data-4847733",
-      "source": "Investing.com News",
-      "publishedAt": 1786276801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUktZHJpdmVuIHRlY2gg",
-      "title": "AI-driven tech volatility reaches dot-com era extremes: UBS",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/aidriven-tech-volatility-reaches-dotcom-era-extremes-ubs-4847730",
-      "source": "Investing.com News",
-      "publishedAt": 1786275317000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG93IGEgc21hbGwgSXNy",
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
       "summary": "",
@@ -154,81 +259,6 @@
       "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
       "source": "CNBC Markets",
       "publishedAt": 1786274580000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgdGVzdHMgbWVt",
-      "title": "Apple tests memory chips from China’s CXMT to ease AI-driven supply crunch - WSJ",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-tests-memory-chips-from-chinas-cxmt-to-ease-aidriven-supply-crunch--wsj-4847728",
-      "source": "Investing.com News",
-      "publishedAt": 1786273853000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29sdW1idXMgTWNLaW5u",
-      "title": "Columbus McKinnon delivers 66% return after Fair Value call",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/columbus-mckinnon-delivers-66-return-after-fair-value-call-93CH-4847727",
-      "source": "Investing.com News",
-      "publishedAt": 1786273761000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
-      "title": "InvestingPro’s Fair Value flagged SSII as overvalued before 55% drop",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-flagged-ssii-as-overvalued-before-55-drop-93CH-4847726",
-      "source": "Investing.com News",
-      "publishedAt": 1786273342000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WWVtZW7igJlzIEhvdXRo",
-      "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
-      "source": "Investing.com News",
-      "publishedAt": 1786271792000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TUVYQyBMaXN0cyBOZXcg",
-      "title": "MEXC Lists New Ondo Tokenized Stock Pairs Spanning AI Infrastructure, Semiconductor and Rare Earth Sectors",
-      "summary": "",
-      "url": "https://www.investing.com/news/press-releases/mexc-lists-new-ondo-tokenized-stock-pairs-spanning-ai-infrastructure-semiconductor-and-rare-earth-sectors-4847725",
-      "source": "Investing.com News",
-      "publishedAt": 1786271459000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -326,51 +356,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZeKAmXMgaG93IHdl",
-      "title": "Here’s how we played the massive rebound in AI stocks this week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786198050000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7TW9uZXltYXh4",
-      "title": "&apos;Moneymaxxing&apos; isn&apos;t a trend, it&apos;s a &apos;cultural shift,&apos; financial advisor says — here&apos;s how to get started",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786195801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVya3NoaXJlIGVhcm5p",
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786195680000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
