@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786354939756,
-  "crawlUpdatedAt": 1786354939756,
-  "crawlCount": 21,
+  "updatedAt": 1786360462176,
+  "crawlUpdatedAt": 1786360462176,
+  "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,42 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2lnbmFscyBz",
-      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+      "id": "CNBC Markets-T3BlbkFJIHRpZ2h0ZW5z",
+      "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+      "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786354411000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SEFOZXRmIElJIElDQVYg",
-      "title": "HANetf II ICAV announces August dividends for seven ETFs",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hanetf-ii-icav-announces-august-dividends-for-seven-etfs-93CH-4848206",
-      "source": "Investing.com News",
-      "publishedAt": 1786353884000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks steady as investors weigh Hormuz risks, data calendar",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/european-stocks-steady-as-investors-weigh-hormuz-risks-data-calendar-4847963",
-      "source": "Investing.com News",
-      "publishedAt": 1786353875000,
+      "publishedAt": 1786359890000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9mQSBzZWVzIEluZGlh",
-      "title": "BofA sees Indiana utilities facing tighter scrutiny on returns",
+      "id": "CNBC Markets-U2hlaW4gZmFjZXMgZXhp",
+      "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-indiana-utilities-facing-tighter-scrutiny-on-returns-93CH-4848204",
-      "source": "Investing.com News",
-      "publishedAt": 1786353724000,
+      "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786359601000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +43,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIENvY2EgQ29s",
-      "title": "Why is Coca Cola HBC stock sliding today?",
+      "id": "CNBC Markets-SG91c2UgRGVtcyBjYWxs",
+      "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-coca-cola-hbc-stock-sliding-today-93CH-4848203",
+      "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786359601000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QlRJRyByYWlzZXMgVGFr",
+      "title": "BTIG raises Take-Two stock price target to $313 on GTA strength",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/btig-raises-taketwo-stock-price-target-to-313-on-gta-strength-93CH-4848538",
       "source": "Investing.com News",
-      "publishedAt": 1786353614000,
+      "publishedAt": 1786359418000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +73,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVybyB6b25lIGludmVz",
-      "title": "Euro zone investor morale turns positive in August, Sentix survey shows",
+      "id": "Investing.com News-SmVmZmVyaWVzIGluaXRp",
+      "title": "Jefferies initiates Csquare stock with buy rating on AI demand",
       "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/euro-zone-investor-morale-turns-positive-in-august-sentix-survey-shows-4848055",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-csquare-stock-with-buy-rating-on-ai-demand-93CH-4848537",
       "source": "Investing.com News",
-      "publishedAt": 1786353537000,
+      "publishedAt": 1786359416000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,29 +88,137 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-S2Fsc2hpIHRpZXMgdXAg",
-      "title": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+      "id": "Investing.com News-QWNjZW5kcmEgSGVhbHRo",
+      "title": "Accendra Health adopts plan to preserve tax loss carryforwards",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kalshi-ties-up-with-nasdaq-to-bolster-trade-surveillance-4848145",
+      "url": "https://www.investing.com/news/company-news/accendra-health-adopts-plan-to-preserve-tax-loss-carryforwards-93CH-4848536",
       "source": "Investing.com News",
-      "publishedAt": 1786353537000,
+      "publishedAt": 1786359406000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEFpclNjdWxw",
+      "title": "Why is AirSculpt Technologies stock tumbling today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-airsculpt-technologies-stock-tumbling-today-93CH-4848535",
+      "source": "Investing.com News",
+      "publishedAt": 1786359404000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgU2VuYXRlIGFkdmFu",
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4848514",
+      "source": "Investing.com News",
+      "publishedAt": 1786359271000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWlyc2N1bHB0IFRlY2hu",
+      "title": "Airsculpt Technologies earnings matched, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/airsculpt-technologies-earnings-matched-revenue-fell-short-of-estimates-4848513",
+      "source": "Investing.com News",
+      "publishedAt": 1786359194000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWlyU2N1bHB0IFRlY2hu",
+      "title": "AirSculpt Technologies stock tumbles 13% on revenue miss, weak guidance",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/airsculpt-technologies-stock-tumbles-13-on-revenue-miss-weak-guidance-93CH-4848492",
+      "source": "Investing.com News",
+      "publishedAt": 1786359155000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks flatline as traders weigh oil risk and packed data week",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-drift-as-traders-weigh-hormuz-conditions-and-upcoming-us-data-4847846",
+      "source": "Investing.com News",
+      "publishedAt": 1786359109000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Sky Gold and Diamonds posts Q1 2026 beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sky-gold-and-diamonds-posts-q1-2026-beat-93CH-4848490",
+      "source": "Investing.com News",
+      "publishedAt": 1786359106000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [
-        "NDX"
+        "XAU"
       ],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2lsbGlhbSBCbGFpciBj",
-      "title": "William Blair cites tight labor market in staffing stock outlook",
+      "id": "Investing.com News-UyZQLCBOYXNkYXEgZnV0",
+      "title": "S&P, Nasdaq futures climb amid uncertain Hormuz outlook",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/william-blair-cites-tight-labor-market-in-staffing-stock-outlook-93CH-4848197",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changedas-hormuz-reopening-doubts-grow-4847793",
       "source": "Investing.com News",
-      "publishedAt": 1786353480000,
+      "publishedAt": 1786359096000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX",
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2FudG9saTogU3RvY2tz",
+      "title": "Santoli: Stocks return to their winning ways. But was July&apos;s brief pain enough to satisfy the market gods?",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786358618000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -135,12 +228,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hpY2ggc3RvY2tzIGRv",
-      "title": "Which stocks does Morgan Stanley prefer as earnings growth broadens?",
+      "id": "CNBC Markets-VHJ1bXDigJlzIGZvcmVp",
+      "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/which-stocks-does-morgan-stanley-prefer-as-earnings-growth-broadens-4848180",
-      "source": "Investing.com News",
-      "publishedAt": 1786353381000,
+      "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786357801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V29ybGQmYXBvcztzIGJp",
+      "title": "World&apos;s biggest chipmaker TSMC&apos;s sales surge 45% amid buoyant AI demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786357767000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -150,30 +258,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Solid Biosciences stock rating on pipeline progress",
+      "id": "CNBC Markets-VHJ1bXAgc2lnbmFscyBz",
+      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-solid-biosciences-stock-rating-on-pipeline-progress-93CH-4848179",
-      "source": "Investing.com News",
-      "publishedAt": 1786353299000,
+      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786354411000,
       "lang": "en-US",
       "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Newmark stock rating on hiring momentum",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-newmark-stock-rating-on-hiring-momentum-93CH-4848178",
-      "source": "Investing.com News",
-      "publishedAt": 1786353297000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
