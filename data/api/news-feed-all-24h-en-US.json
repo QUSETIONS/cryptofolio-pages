@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786386457814,
-  "crawlUpdatedAt": 1786386457814,
-  "crawlCount": 36,
+  "updatedAt": 1786390498345,
+  "crawlUpdatedAt": 1786390498345,
+  "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SHlwb3BvcnQgSDEgMjAy",
-      "title": "Hypoport H1 2026 slides: EBIT jumps 20% as margins expand",
+      "id": "CNBC Markets-VHJ1bXAgc2lnbnMgZXhl",
+      "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/hypoport-h1-2026-slides-ebit-jumps-20-as-margins-expand-93CH-4850020",
-      "source": "Investing.com News",
-      "publishedAt": 1786386205000,
+      "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786390356000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,18 +28,249 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmlnZXJpYeKAmXMgb2ls",
-      "title": "Nigeria’s oil producers meet 97% of domestic supply targets",
+      "id": "Investing.com News-VmFyYSBoZWRnZSBmdW5k",
+      "title": "Vara hedge fund shares fall 44% in July on AI stock selloff - Bloomberg",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/nigerias-oil-producers-meet-97-of-domestic-supply-targets-93CH-4850017",
+      "url": "https://www.investing.com/news/stock-market-news/vara-hedge-fund-shares-fall-44-in-july-on-ai-stock-selloff--bloomberg-93CH-4850058",
       "source": "Investing.com News",
-      "publishedAt": 1786386108000,
+      "publishedAt": 1786389987000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FsdW1ldCBzdG9jayBy",
+      "title": "Calumet stock reaches 52-week high at $45.20",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/calumet-stock-reaches-52week-high-at-4520-93CH-4850056",
+      "source": "Investing.com News",
+      "publishedAt": 1786389913000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SkJTIG5hbWVzIFdlc2xl",
+      "title": "JBS names Wesley Batista Filho as global CEO effective January",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jbs-names-wesley-batista-filho-as-global-ceo-effective-january-93CH-4850055",
+      "source": "Investing.com News",
+      "publishedAt": 1786389633000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiB0ZWV0ZXJz",
+      "title": "Bitcoin teeters on 200-period MA: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+      "source": "Investing.com News",
+      "publishedAt": 1786389536000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVzbGEgdHJhcHBlZCBh",
+      "title": "Tesla trapped at $329 resistance in bull-trap zone: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-presses-330336-resistance-with-bear-flag-live-levels-93CH-4849700",
+      "source": "Investing.com News",
+      "publishedAt": 1786389531000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG93IEpvbmVzIHNxdWVl",
+      "title": "Dow Jones squeezed near all-time high: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/dow-jones-slips-from-ath-as-bears-eye-53849-support-live-93CH-4849696",
+      "source": "Investing.com News",
+      "publishedAt": 1786389530000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmFzZGFxIDEwMCBzdGFs",
+      "title": "Nasdaq 100 stalls near 30,000 after failed breakout: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-100-stalls-below-30000-bull-trap-zone-live-levels-93CH-4849697",
+      "source": "Investing.com News",
+      "publishedAt": 1786389527000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgZXh0ZW5kcyBK",
+      "title": "Trump extends Jones Act waiver for 90 days, narrows scope",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-extends-jones-act-waiver-with-some-limitations-white-house-official-says-4849972",
+      "source": "Investing.com News",
+      "publishedAt": 1786389527000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxwaGFiZXQgQyBzdGFs",
+      "title": "Alphabet C stalls below 200 SMA near cloud support: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alphabet-c-stuck-in-nomans-land-at-353-live-levels-93CH-4849699",
+      "source": "Investing.com News",
+      "publishedAt": 1786389526000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF0dXJhbCBHYXMgdGVz",
+      "title": "Natural Gas tests $2.800 resistance at breaking point: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/natural-gas-snaps-back-to-275-after-spike-chaos-live-levels-93CH-4847936",
+      "source": "Investing.com News",
+      "publishedAt": 1786389522000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSZhcG9zO3MgbGF0",
+      "title": "Meta&apos;s latest model advances Zuckerberg&apos;s vision for personal AI assistants",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786388996000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIHRlYW1zIHVw",
+      "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786388327000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SEhTIG1vdmVzIHRvIHRp",
+      "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786387603000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJIGV4cGFuZHMg",
+      "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786387397000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGluIFUuUy4gU3Ry",
+      "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786387386000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhyZWUgcmVhc29ucyBH",
+      "title": "Three reasons Goldman&apos;s co-head of global banking and markets says to stay invested",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786386986000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -58,158 +289,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SHVtYW5hIGFwcG9pbnRz",
-      "title": "Humana appoints James Holland to lead Medicaid business",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/humana-appoints-james-holland-to-lead-medicaid-business-93CH-4850016",
-      "source": "Investing.com News",
-      "publishedAt": 1786386035000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXZlUG9pbnQgYXQgVGVj",
-      "title": "AvePoint at Technology Leadership Forum 2026: ai trust layer gains ground",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/avepoint-at-technology-leadership-forum-2026-ai-trust-layer-gains-ground-93CH-4850013",
-      "source": "Investing.com News",
-      "publishedAt": 1786385874000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: California Resources posts Q2 2026 revenue beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-california-resources-posts-q2-2026-revenue-beat-93CH-4850012",
-      "source": "Investing.com News",
-      "publishedAt": 1786385804000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgbXV0",
-      "title": "Wall Street muted after notching best week since April",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changedas-hormuz-reopening-doubts-grow-4847793",
-      "source": "Investing.com News",
-      "publishedAt": 1786385785000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29nZW50IGF0IHRlY2hu",
-      "title": "Cogent at technology leadership forum 2026: growth slows, AI lifts outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/cogent-at-technology-leadership-forum-2026-growth-slows-ai-lifts-outlook-93CH-4850011",
-      "source": "Investing.com News",
-      "publishedAt": 1786385614000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Motorcar Parts of America Q1 2026 misses estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-motorcar-parts-of-america-q1-2026-misses-estimates-93CH-4850010",
-      "source": "Investing.com News",
-      "publishedAt": 1786385597000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgZXh0ZW5kcyBK",
-      "title": "Trump extends Jones Act waiver for 90 days, narrows scope",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-extends-jones-act-waiver-with-some-limitations-white-house-official-says-4849972",
-      "source": "Investing.com News",
-      "publishedAt": 1786385547000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SHAgc3RvY2sgaGl0cyA1",
-      "title": "Hp stock hits 52-week high at $41.88",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hp-stock-hits-52week-high-at-4188-93CH-4850009",
-      "source": "Investing.com News",
-      "publishedAt": 1786385479000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RG9uJmFwb3M7dCBsZXQg",
-      "title": "Don&apos;t let a Wall Street analyst&apos;s downgrade of Apple scare you out of the stock",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/dont-let-a-wall-street-analysts-downgrade-of-apple-scare-you-out-of-the-stock.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786385215000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhyZWUgcmVhc29ucyBH",
-      "title": "Three reasons Goldman&apos;s co-head of global banking and markets says to stay invested",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786384997000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3Jvd2RTdHJpa2UsIFBh",
       "title": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
       "summary": "",
@@ -222,21 +301,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGluIFUuUy4gU3Ry",
-      "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786383214000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -324,21 +388,6 @@
       "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
       "source": "CNBC Markets",
       "publishedAt": 1786374418000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SEhTIG1vdmVzIHRvIHRp",
-      "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786374204000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -519,36 +568,6 @@
       "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
       "source": "CNBC Markets",
       "publishedAt": 1786343644000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBvaWwg",
-      "title": "Trump says oil supermajors are making too much money. What will they do with it?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786338002000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWF4IE1pbGxlciBzdGF5",
-      "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786300703000,
       "lang": "en-US",
       "topics": [
         "macro"
