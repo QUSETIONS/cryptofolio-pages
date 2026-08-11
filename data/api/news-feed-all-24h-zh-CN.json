@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786447386238,
-  "crawlUpdatedAt": 1786447386238,
-  "crawlCount": 38,
+  "updatedAt": 1786451041790,
+  "crawlUpdatedAt": 1786451041790,
+  "crawlCount": 36,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SXRhbHnigJlzIExlYWd1",
-      "title": "Italy’s League party to propose three-year bank levy in 2027",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields are little changed as investors await inflation data",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/italys-league-party-to-propose-threeyear-bank-levy-in-2027-93CH-4851293",
-      "source": "Investing.com News",
-      "publishedAt": 1786447028000,
+      "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786450554000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBvaWwgcHJpY2Ug",
+      "title": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786450544000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +45,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RW5RdWVzdCBzaGFyZWhv",
-      "title": "EnQuest shareholders approve Malaysia asset acquisition",
+      "id": "CNBC Markets-QmFieSBwcm9kdWN0cyBj",
+      "title": "Baby products company Frida is expanding into kids’ personal care",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/enquest-shareholders-approve-malaysia-asset-acquisition-93CH-4851292",
-      "source": "Investing.com News",
-      "publishedAt": 1786446995000,
+      "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786449602000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +60,147 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmVyZW15IFByYWhtLCBG",
-      "title": "Jeremy Prahm, FOA CIO, sells $133,540 in Finance of America stock",
+      "id": "Investing.com News-RmlyeSBJbmMuIHRvIHJl",
+      "title": "Firy Inc. to redeem $80 million of secured notes due 2026",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/jeremy-prahm-foa-cio-sells-133540-in-finance-of-america-stock-93CH-4851291",
+      "url": "https://www.investing.com/news/sec-filings/firy-inc-to-redeem-80-million-of-secured-notes-due-2026-93CH-4851437",
       "source": "Investing.com News",
-      "publishedAt": 1786446971000,
+      "publishedAt": 1786449437000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WHRhbnQgTWVkaWNhbCBl",
+      "title": "Xtant Medical earnings missed by $0.05, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/xtant-medical-earnings-missed-by-005-revenue-fell-short-of-estimates-4851436",
+      "source": "Investing.com News",
+      "publishedAt": 1786449433000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFudXMgSW50ZXJuYXRp",
+      "title": "Janus International shares tumble 14% on weak guidance despite earnings beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/janus-international-shares-tumble-14-on-weak-guidance-despite-earnings-beat-93CH-4851435",
+      "source": "Investing.com News",
+      "publishedAt": 1786449407000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJndXMgdXBncmFkZXMg",
+      "title": "Argus upgrades Boeing stock rating on production progress",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-upgrades-boeing-stock-rating-on-production-progress-93CH-4851434",
+      "source": "Investing.com News",
+      "publishedAt": 1786449405000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5kZXJlcyBRMiAyMDI2",
+      "title": "Inderes Q2 2026 slides: revenue growth hits 14%, all units expand",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/inderes-q2-2026-slides-revenue-growth-hits-14-all-units-expand-93CH-4851433",
+      "source": "Investing.com News",
+      "publishedAt": 1786449374000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VFNYIGZ1dHVyZXMgaW5j",
+      "title": "TSX futures inch higher with U.S. inflation data, choppy oil prices in focus",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-with-us-inflation-data-choppy-oil-prices-in-focus-4851432",
+      "source": "Investing.com News",
+      "publishedAt": 1786449371000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFVuZGVyIEFy",
+      "title": "Why is Under Armour stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-under-armour-stock-sliding-today-93CH-4851424",
+      "source": "Investing.com News",
+      "publishedAt": 1786449309000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJhemlsIGNlbnRyYWwg",
+      "title": "Brazil central bank says inflation remains demand-driven despite growing impact of rate hikes",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/brazil-central-bank-says-inflation-remains-demanddriven-despite-growing-impact-of-rate-hikes-4851423",
+      "source": "Investing.com News",
+      "publishedAt": 1786449307000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEdhcCBzdG9j",
+      "title": "Why is Gap stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-gap-stock-sliding-today-93CH-4851422",
+      "source": "Investing.com News",
+      "publishedAt": 1786449282000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHBhcmVzIGdhaW5z",
+      "title": "Oil pares gains as traders weigh Oman-Iran talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-steadies-near-oneweek-highs-as-usiran-peace-deal-hopes-dim-4850678",
+      "source": "Investing.com News",
+      "publishedAt": 1786449272000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -64,114 +216,6 @@
       "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
       "source": "CNBC Markets",
       "publishedAt": 1786446916000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyB3",
-      "title": "Goldman Sachs warns AI investment may be crowding out other business spending",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-warns-ai-investment-may-be-crowding-out-other-business-spending-4851288",
-      "source": "Investing.com News",
-      "publishedAt": 1786446911000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnJhemlsIGNlbnRyYWwg",
-      "title": "Brazil central bank signals tight policy to continue despite rate cut",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/brazil-central-bank-signals-tight-policy-to-continue-despite-rate-cut-93CH-4851286",
-      "source": "Investing.com News",
-      "publishedAt": 1786446898000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGggQWZyaWNh4oCZ",
-      "title": "South Africa’s manufacturing output falls 1.7% in June",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/south-africas-manufacturing-output-falls-17-in-june-93CH-4851285",
-      "source": "Investing.com News",
-      "publishedAt": 1786446848000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmVlZGhhbSByYWlzZXMg",
-      "title": "Needham raises NIQ Global Intelligence stock price target on AI growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/needham-raises-niq-global-intelligence-stock-price-target-on-ai-growth-93CH-4851283",
-      "source": "Investing.com News",
-      "publishedAt": 1786446784000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW52aXJpIHN0b2NrIGVk",
-      "title": "Enviri stock edges down slightly on Q2 loss despite beating adjusted EBITDA target",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/enviri-stock-edges-down-slightly-on-q2-loss-despite-beating-adjusted-ebitda-target-93CH-4851282",
-      "source": "Investing.com News",
-      "publishedAt": 1786446780000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV1ckF4aXMgcmVwb3J0",
-      "title": "NeurAxis reports 116% revenue growth in second quarter 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/neuraxis-reports-116-revenue-growth-in-second-quarter-2026-93CH-4851281",
-      "source": "Investing.com News",
-      "publishedAt": 1786446771000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VFJJU08tWCBleHRlbmRz",
-      "title": "TRISO-X extends nuclear fuel research deal with Oak Ridge lab",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/trisox-extends-nuclear-fuel-research-deal-with-oak-ridge-lab-93CH-4851280",
-      "source": "Investing.com News",
-      "publishedAt": 1786446765000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -268,38 +312,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBvaWwgdG9wcyAk",
-      "title": "U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786439545000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields up as oil prices jump and investors await inflation data",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786437541000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -542,51 +554,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3R1ZGVudCBsb2FuIGJv",
-      "title": "Student loan borrowers face steeper &apos;marriage penalty&apos; under new repayment plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786364101000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2FudG9saTogU3RvY2tz",
-      "title": "Santoli: Stocks return to winning ways. Why the market gods may not be satisfied with July&apos;s brief pain",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786362350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXVzdHJhbGlhbiByYXJl",
-      "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786362254000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
