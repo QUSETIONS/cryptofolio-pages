@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786479054107,
-  "crawlUpdatedAt": 1786479054107,
-  "crawlCount": 40,
+  "updatedAt": 1786483433063,
+  "crawlUpdatedAt": 1786483433063,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,162 +13,224 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q29yZVdlYXZlIHN0b2Nr",
+      "title": "CoreWeave stock pops 13% as revenue doubles on accelerating AI infrastructure demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786483400000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R00gcmVhY2hlcyB1cCB0",
+      "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786482901000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJlYXN1cnkgc2NyYXBz",
+      "title": "Treasury scraps ownership reporting rule for US companies",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/treasury-scraps-ownership-reporting-rule-for-us-companies-4852773",
+      "source": "Investing.com News",
+      "publishedAt": 1786482421000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration finalizes ownership reporting exemption for US firms",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-administration-finalizes-ownership-reporting-exemption-for-us-firms-4852772",
+      "source": "Investing.com News",
+      "publishedAt": 1786482412000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Red Violet tops Q2 2026 estimates as shares jump",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-red-violet-tops-q2-2026-estimates-as-shares-jump-93CH-4852771",
+      "source": "Investing.com News",
+      "publishedAt": 1786482396000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXN0cm9uaWNzIGVhcm5p",
+      "title": "Astronics earnings beat by $0.16, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/astronics-earnings-beat-by-016-revenue-topped-estimates-4852770",
+      "source": "Investing.com News",
+      "publishedAt": 1786482394000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW50ZWxsaWdlbnQgUHJv",
+      "title": "Intelligent Protection Management earnings missed by $0.12, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/intelligent-protection-management-earnings-missed-by-012-revenue-fell-short-of-estimates-4852769",
+      "source": "Investing.com News",
+      "publishedAt": 1786482393000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmlvbVggdG8gYWNxdWly",
+      "title": "BiomX to acquire 10% stake in MEA Testing Systems, grants option for majority buyout",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/biomx-to-acquire-10-stake-in-mea-testing-systems-grants-option-for-majority-buyout-93CH-4852767",
+      "source": "Investing.com News",
+      "publishedAt": 1786482388000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEFiY2VsbGVy",
+      "title": "Why is Abcellera Biologics stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-abcellera-biologics-stock-sliding-today-93CH-4852766",
+      "source": "Investing.com News",
+      "publishedAt": 1786482330000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FGZCBkZWNsYXJlcyBx",
+      "title": "WaFd declares quarterly dividend of 27 cents per share",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/wafd-declares-quarterly-dividend-of-27-cents-per-share-93CH-4852764",
+      "source": "Investing.com News",
+      "publishedAt": 1786482270000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVzb3VyY2VzIENvbm5l",
+      "title": "Resources Connection declares $0.07 per share dividend",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/resources-connection-declares-007-per-share-dividend-93CH-4852763",
+      "source": "Investing.com News",
+      "publishedAt": 1786482269000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1lcmljYW4gUHVibGlj",
+      "title": "American Public Education stock rises on Salesforce AI deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/american-public-education-stock-rises-on-salesforce-ai-deal-93CH-4852762",
+      "source": "Investing.com News",
+      "publishedAt": 1786482182000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IEplbnNlbiBIdWFu",
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786482073000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UG9seW1hcmtldCBtYWtl",
+      "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786479982000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-V2UmYXBvcztyZSBsaWZ0",
       "title": "We&apos;re lifting our price target on Cardinal Health after issuing rosy profit guidance",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/11/were-lifting-our-price-target-on-cardinal-health-after-issuing-rosy-profit-guidance-.html",
       "source": "CNBC Markets",
       "publishedAt": 1786478746000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXRyb24gYXQgT3BwZW5o",
-      "title": "Itron at Oppenheimer conference: platform push meets long utility cycles",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/itron-at-oppenheimer-conference-platform-push-meets-long-utility-cycles-93CH-4852531",
-      "source": "Investing.com News",
-      "publishedAt": 1786478557000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2F2ZSBMaWZlIFNjaWVu",
-      "title": "Wave Life Sciences stock hits 52-week low at $5.01",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/wave-life-sciences-stock-hits-52week-low-at-501-93CH-4852530",
-      "source": "Investing.com News",
-      "publishedAt": 1786478545000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2VuZWNhIEZvb2RzIENv",
-      "title": "Seneca Foods Corp B stock hits all-time high at 185.06 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/seneca-foods-corp-b-stock-hits-alltime-high-at-18506-usd-93CH-4852524",
-      "source": "Investing.com News",
-      "publishedAt": 1786478523000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVjaGFuaWNzIEJhbmNv",
-      "title": "Mechanics Bancorp stock hits 52-week high at 17.2 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mechanics-bancorp-stock-hits-52week-high-at-172-usd-93CH-4852521",
-      "source": "Investing.com News",
-      "publishedAt": 1786478439000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLUJvbHNv",
-      "title": "Exclusive-Bolsonaro campaign drafts debt-linked fiscal rule to replace Brazil framework, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/exclusivebolsonaro-campaign-drafts-debtlinked-fiscal-rule-to-replace-brazil-framework-sources-say-4852520",
-      "source": "Investing.com News",
-      "publishedAt": 1786478436000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VlNFIENvcnBvcmF0aW9u",
-      "title": "VSE Corporation stock hits all-time high at 241.27 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vse-corporation-stock-hits-alltime-high-at-24127-usd-93CH-4852518",
-      "source": "Investing.com News",
-      "publishedAt": 1786478406000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VuZUR4IGF0IENhbmFj",
-      "title": "GeneDx at Canaccord Genuity conference: volume rises, collections lag",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/genedx-at-canaccord-genuity-conference-volume-rises-collections-lag-93CH-4852516",
-      "source": "Investing.com News",
-      "publishedAt": 1786478374000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXRyaUN1cmUgYXQgQ2Fu",
-      "title": "AtriCure at Canaccord Genuity conference: growth, trials and margin gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/atricure-at-canaccord-genuity-conference-growth-trials-and-margin-gains-93CH-4852515",
-      "source": "Investing.com News",
-      "publishedAt": 1786478361000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJjdHVydXMgYXQgQ2Fu",
-      "title": "Arcturus at Canaccord Genuity’s 46th Annual Growth Conference: cash, catalysts",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/arcturus-at-canaccord-genuitys-46th-annual-growth-conference-cash-catalysts-93CH-4852514",
-      "source": "Investing.com News",
-      "publishedAt": 1786478280000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Si5CLiBIdW50IGF0IERl",
-      "title": "J.B. Hunt at Deutsche Bank summit: pricing tailwinds build",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/jb-hunt-at-deutsche-bank-summit-pricing-tailwinds-build-93CH-4852513",
-      "source": "Investing.com News",
-      "publishedAt": 1786478267000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -297,6 +359,21 @@
       "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
       "source": "CNBC Markets",
       "publishedAt": 1786471748000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVtb2NyYXRzIGNsYXNo",
+      "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786471512000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -443,36 +520,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RWxpIExpbGx5IHRha2Vz",
-      "title": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval in Europe",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786457993000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG9seW1hcmtldCBtYWtl",
-      "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786457733000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2FsbCBTdHJlZXQganVz",
       "title": "Wall Street just endorsed Jensen Huang&apos;s &apos;big concept&apos; for AI. What now?",
       "summary": "",
@@ -488,42 +535,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TXkgNDAxKGspIGZ1bGx5",
-      "title": "My 401(k) fully vests this month—why my latest work anniversary is worth thousands",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/why-knowing-a-401k-vesting-schedule-could-be-worth-thousands.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786453201000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-WmVsZW5za3l5IHdhcm5z",
       "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
       "source": "CNBC Markets",
       "publishedAt": 1786452925000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9ybXV6IGRlYWRsb2Nr",
-      "title": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786444174000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -578,42 +595,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgTWVkaWEgcG9z",
-      "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786401235000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIHdyYXBzICQ3",
       "title": "OpenAI wraps $7 billion share sale ahead of potential IPO",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
       "source": "CNBC Markets",
       "publishedAt": 1786400131000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2lnbnMgZXhl",
-      "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786395077000,
       "lang": "zh-CN",
       "topics": [
         "macro"
