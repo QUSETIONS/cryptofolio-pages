@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786565410827,
-  "crawlUpdatedAt": 1786565410827,
+  "updatedAt": 1786569778709,
+  "crawlUpdatedAt": 1786569778709,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,255 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q2VyZWJyYXMgc3RvY2sg",
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786569520000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hlcmUgZ29sZCBwcmlj",
+      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786569515000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHN0",
+      "title": "Wendy&apos;s stock jumps on report of potential takeover bid from Nelson Peltz&apos;s Trian Fund Management",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786569191000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhIHJh",
+      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786568658000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-ZVBsdXMgQ09PIERhcnJl",
+      "title": "ePlus COO Darren Raiguel sells $90,827 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/eplus-coo-darren-raiguel-sells-90827-in-company-stock-93CH-4856177",
+      "source": "Investing.com News",
+      "publishedAt": 1786568458000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVkZGl0IGFubm91bmNl",
+      "title": "Reddit announces chief legal officer transition, appoints Paul Cappuccio",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/reddit-announces-chief-legal-officer-transition-appoints-paul-cappuccio-93CH-4856176",
+      "source": "Investing.com News",
+      "publishedAt": 1786568436000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Sm91cm5leSBNZWRpY2Fs",
+      "title": "Journey Medical earnings beat by $0.12, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/journey-medical-earnings-beat-by-012-revenue-topped-estimates-4856173",
+      "source": "Investing.com News",
+      "publishedAt": 1786568269000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxsb2dlbmUgVGhlcmFw",
+      "title": "Allogene Therapeutics earnings beat by $0.04, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/allogene-therapeutics-earnings-beat-by-004-revenue-topped-estimates-4856172",
+      "source": "Investing.com News",
+      "publishedAt": 1786568268000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3BpcmUgR2xvYmFsIGVh",
+      "title": "Spire Global earnings beat by $0.02, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/spire-global-earnings-beat-by-002-revenue-fell-short-of-estimates-4856171",
+      "source": "Investing.com News",
+      "publishedAt": 1786568238000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BUSU1JWkVSeCBlYXJu",
+      "title": "OPTIMIZERx earnings beat by $0.06, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/optimizerx-earnings-beat-by-006-revenue-topped-estimates-4856169",
+      "source": "Investing.com News",
+      "publishedAt": 1786568219000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3VyaW9zaXR5c3RyZWFt",
+      "title": "Curiositystream earnings beat by $0.11, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/curiositystream-earnings-beat-by-011-revenue-topped-estimates-4856170",
+      "source": "Investing.com News",
+      "publishedAt": 1786568219000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFuayBvZiBOZXcgWW9y",
+      "title": "Bank of New York Mellon issues $2.5 billion in senior notes",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/bank-of-new-york-mellon-issues-25-billion-in-senior-notes-93CH-4856168",
+      "source": "Investing.com News",
+      "publishedAt": 1786568199000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FycGVudGVyIFRlY2hu",
+      "title": "Carpenter Technology appoints Ken Giacobbe to board",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/carpenter-technology-appoints-ken-giacobbe-to-board-93CH-4856167",
+      "source": "Investing.com News",
+      "publishedAt": 1786568188000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBj",
+      "title": "Raymond James cuts On Holding target on wholesale weakness",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/raymond-james-cuts-on-holding-target-on-wholesale-weakness-4856156",
+      "source": "Investing.com News",
+      "publishedAt": 1786568130000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2lzY28mYXBvcztzIHN0",
+      "title": "Cisco&apos;s stock drops despite earnings, revenue beat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786567867000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBLYXJv",
       "title": "Trump says Karoline Leavitt resigning as White House press secretary",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786565355000,
+      "publishedAt": 1786567721000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29yZVdlYXZlIGNvdW50",
+      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786565765000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,211 +286,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgY29uc3VtZXIgaW5m",
-      "title": "US consumer inflation mild in July, economy still not out of the woods",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-consumer-prices-increase-as-expected-in-july-4854914",
-      "source": "Investing.com News",
-      "publishedAt": 1786564835000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHRoZSBtYXJrZXQg",
-      "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786564645000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RSZQIHN0b2NrcyBsZWFk",
-      "title": "E&P stocks lead oil sector upside with fair-value gaps of 30-45%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ep-stocks-lead-oil-sector-upside-with-fairvalue-gaps-of-3045-93CH-4855944",
-      "source": "Investing.com News",
-      "publishedAt": 1786564576000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG9wIExhcmdlIENhcCBQ",
-      "title": "Top Large Cap Pharma Stock: Jefferies Highlights Eli Lilly",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/top-large-cap-pharma-stock-jefferies-highlights-eli-lilly-93CH-4855943",
-      "source": "Investing.com News",
-      "publishedAt": 1786564510000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluZSBwb3VuZHMg",
-      "title": "Ukraine pounds naval base, grain terminals at Russia’s Black Sea port of Novorossiysk",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589",
-      "source": "Investing.com News",
-      "publishedAt": 1786564490000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhIHJh",
-      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786564311000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7Tm9ib2R5IHdh",
       "title": "&apos;Nobody wants it&apos;: Lettuce prices see record-setting plunge as cyclospora spooks consumers",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
       "source": "CNBC Markets",
       "publishedAt": 1786564229000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29tcHV0ZXJzaGFyZSBG",
-      "title": "Computershare FY26 slides: 7% EPS growth beats, stock falls on outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/computershare-fy26-slides-7-eps-growth-beats-stock-falls-on-outlook-93CH-4855940",
-      "source": "Investing.com News",
-      "publishedAt": 1786564219000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtVG9wIFVT",
-      "title": "Analysis-Top US refiners see profits soar, step up investor rewards",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/analysistop-us-refiners-see-profits-soar-step-up-investor-rewards-4855934",
-      "source": "Investing.com News",
-      "publishedAt": 1786564111000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1hbGdhbWF0ZWQgQmFu",
-      "title": "Amalgamated Bank stock hits all-time high at 50.93 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/amalgamated-bank-stock-hits-alltime-high-at-5093-usd-93CH-4855939",
-      "source": "Investing.com News",
-      "publishedAt": 1786563996000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9yaXpvbiBLaW5ldGlj",
-      "title": "Horizon Kinetics buys $352 of Texas Pacific Land Corp common stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-352-of-texas-pacific-land-corp-common-stock-93CH-4855938",
-      "source": "Investing.com News",
-      "publishedAt": 1786563983000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29oZXJlbnQgYW5kIENp",
-      "title": "Coherent and Cisco earnings preview: what to watch after the bell",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/coherent-and-cisco-earnings-preview-what-to-watch-after-the-bell-93CH-4855937",
-      "source": "Investing.com News",
-      "publishedAt": 1786563981000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2VuZHkmYXBvcztzIHN0",
-      "title": "Wendy&apos;s stock jumps on report of potential takeover bid from Nelson Peltz&apos;s Trian Fund Management",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786563968000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2VuYXRvcnMgcHJlc3Mg",
-      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/senators-press-rubio-bessent-on-lack-of-counterevasion-sanctions-on-russia-4855935",
-      "source": "Investing.com News",
-      "publishedAt": 1786563806000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -299,21 +343,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q0VPIG9mIEludGVsIGp1",
-      "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/ceo-of-intel-just-gave-jim-cramer-one-more-reason-to-call-it-his-favorite-stock.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786559909000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -559,21 +588,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SG9uZyZhcG9zO3MgZGVm",
-      "title": "Hong&apos;s defeat in Wisconsin deals blow to rising Democratic socialists",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786536321000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V29ybGQmYXBvcztzIGxh",
       "title": "World&apos;s largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
       "summary": "",
@@ -601,21 +615,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IEplbnNlbiBIdWFu",
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786482073000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
