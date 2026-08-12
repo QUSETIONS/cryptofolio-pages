@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786543148073,
-  "crawlUpdatedAt": 1786543148073,
-  "crawlCount": 40,
+  "updatedAt": 1786547287555,
+  "crawlUpdatedAt": 1786547287555,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Kontoor Brands tops Q2 2026 expectations, lifts outlook",
+      "id": "CNBC Markets-QUnigJlzIGNvc3RseSBi",
+      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kontoor-brands-tops-q2-2026-expectations-lifts-outlook-93CH-4855267",
+      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786546583000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QVNVUyBRMiAyMDI2IHNs",
+      "title": "ASUS Q2 2026 slides: record revenue, server sales double on AI demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/asus-q2-2026-slides-record-revenue-server-sales-double-on-ai-demand-93CH-4855509",
       "source": "Investing.com News",
-      "publishedAt": 1786542565000,
+      "publishedAt": 1786546414000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,27 +45,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration set to spend at least $900 million on White House construction, Washington Post reports",
+      "id": "Investing.com News-UHJlc3RpZ2UgQ29uc3Vt",
+      "title": "Prestige Consumer Healthcare at Canaccord Genuity: growth bets build",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-administration-set-to-spend-at-least-900-million-on-white-house-construction-wapo-reports-4854179",
+      "url": "https://www.investing.com/news/transcripts/prestige-consumer-healthcare-at-canaccord-genuity-growth-bets-build-93CH-4855508",
       "source": "Investing.com News",
-      "publishedAt": 1786542555000,
+      "publishedAt": 1786546412000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Stabilis Solutions misses Q2 2026 estimates as stock falls",
+      "id": "Investing.com News-VW5pdmVyc2FsIERpc3Bs",
+      "title": "Universal Display at Oppenheimer conference: oled growth still in view",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-stabilis-solutions-misses-q2-2026-estimates-as-stock-falls-93CH-4855266",
+      "url": "https://www.investing.com/news/transcripts/universal-display-at-oppenheimer-conference-oled-growth-still-in-view-93CH-4855506",
       "source": "Investing.com News",
-      "publishedAt": 1786542550000,
+      "publishedAt": 1786546251000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3JlZWNlIHN0b2NrcyBs",
+      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.03%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-003-4855505",
+      "source": "Investing.com News",
+      "publishedAt": 1786546203000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +90,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Viveo posts Q2 2026 miss as margins improve",
+      "id": "Investing.com News-V2h5IGlzIFdlc3Rlcm4g",
+      "title": "Why is Western Digital stock surging today?",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-viveo-posts-q2-2026-miss-as-margins-improve-93CH-4855265",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-surging-today-93CH-4855504",
       "source": "Investing.com News",
-      "publishedAt": 1786542542000,
+      "publishedAt": 1786546201000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +105,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmVybWkgZWFybmluZ3Mg",
-      "title": "Fermi earnings up next after landing first $6.5B data center lease",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Mount Logan Capital narrows loss in Q2 2026 as stock falls",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/fermi-earnings-up-next-after-landing-first-65b-data-center-lease-93CH-4855264",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mount-logan-capital-narrows-loss-in-q2-2026-as-stock-falls-93CH-4855503",
       "source": "Investing.com News",
-      "publishedAt": 1786542540000,
+      "publishedAt": 1786546173000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hlaW7igJlzIHNsb3dp",
+      "title": "Shein’s slowing growth tests investor appetite ahead of Hong Kong IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sheins-slowing-growth-tests-investor-appetite-ahead-of-hong-kong-ipo-4855502",
+      "source": "Investing.com News",
+      "publishedAt": 1786546153000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +135,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGlwZXIgU2FuZGxlciBy",
-      "title": "Piper Sandler raises Claritev stock price target to $73 on platform strength",
+      "id": "Investing.com News-UXVlc3RlcnJlIFEyIDIw",
+      "title": "Questerre Q2 2026 slides: Brazil profit record amid production woes",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-raises-claritev-stock-price-target-to-73-on-platform-strength-93CH-4855263",
+      "url": "https://www.investing.com/news/company-news/questerre-q2-2026-slides-brazil-profit-record-amid-production-woes-93CH-4855500",
       "source": "Investing.com News",
-      "publishedAt": 1786542537000,
+      "publishedAt": 1786546116000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +150,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VFNYIGZ1dHVyZXMgcG9p",
-      "title": "TSX futures point higher ahead of key U.S. inflation data",
+      "id": "Investing.com News-R2VybWFuIGdyb3VwIGZp",
+      "title": "German group files complaint against Meta over AI glasses",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-ahead-of-key-us-inflation-data-4854819",
+      "url": "https://www.investing.com/news/stock-market-news/german-group-files-complaint-against-meta-over-ai-glasses-93CH-4855499",
       "source": "Investing.com News",
-      "publishedAt": 1786542532000,
+      "publishedAt": 1786546114000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1lcmljYW4gSW50ZWdy",
+      "title": "American Integrity Q2 2026 slides: record earnings, 40% ROE",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/american-integrity-q2-2026-slides-record-earnings-40-roe-93CH-4855498",
+      "source": "Investing.com News",
+      "publishedAt": 1786546102000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3MgdGhl",
+      "title": "Here&apos;s the inflation breakdown for July 2026 — in one chart",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786545704000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
+      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786544919000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -118,12 +210,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmVuY2htYXJrIHJhaXNl",
-      "title": "Benchmark raises Antero Resources stock price target on costs",
+      "id": "CNBC Markets-Q29uc3VtZXIgcHJpY2Vz",
+      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-raises-antero-resources-stock-price-target-on-costs-93CH-4855262",
-      "source": "Investing.com News",
-      "publishedAt": 1786542527000,
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786544855000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSBhbmQgTnZpZGlh",
+      "title": "Meta and Nvidia plant &apos;very firm flag&apos; in open-weight AI race led by Chinese Labs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786544410000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +240,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVuY2VudCBRMiAyMDI2",
-      "title": "Tencent Q2 2026 slides: AI spending surge amid solid revenue growth",
+      "id": "CNBC Markets-Q29yZVdlYXZlIHN1cmdl",
+      "title": "CoreWeave surges 18% after a &apos;cleaner quarter.&apos; Here&apos;s what&apos;s happening",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/tencent-q2-2026-slides-ai-spending-surge-amid-solid-revenue-growth-93CH-4855261",
-      "source": "Investing.com News",
-      "publishedAt": 1786542521000,
+      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786544208000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,18 +255,48 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: The Eastern Company misses Q2 2026 estimates",
+      "id": "CNBC Markets-QUkgY29tcHV0aW5nIHBv",
+      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-eastern-company-misses-q2-2026-estimates-93CH-4855260",
-      "source": "Investing.com News",
-      "publishedAt": 1786542505000,
+      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786544050000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xl4oCZcyBuZXcg",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786543201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1c3QsIGJ1dCBoZWRn",
+      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786543157000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -175,21 +312,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29yZVdlYXZlIHN1cmdl",
-      "title": "CoreWeave surges 23% after a &apos;cleaner quarter.&apos; Here&apos;s what&apos;s happening",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786542053000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -220,21 +342,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29uc3VtZXIgcHJpY2Vz",
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786541369000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -298,21 +405,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786536825000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV3IFlvcmsgQ2l0eSBD",
       "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
       "summary": "",
@@ -334,21 +426,6 @@
       "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
       "source": "CNBC Markets",
       "publishedAt": 1786536321000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBhbmQgTnZpZGlh",
-      "title": "Meta and Nvidia plant &apos;very firm flag&apos; in open-weight AI race led by Chinese Labs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786536001000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -463,42 +540,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R00gcmVhY2hlcyB1cCB0",
-      "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786488130000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3JhbWVyIHNheXMgYXNr",
       "title": "Cramer says ask yourself these 3 questions to figure out what&apos;s really happening in the market",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html",
       "source": "CNBC Markets",
       "publishedAt": 1786486530000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786484163000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -538,38 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBOWUMg",
-      "title": "Trump says NYC pied-à-terre tax &apos;must be stopped,&apos; eyes federal block",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786471810000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgY29tcHV0aW5nIHBv",
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786471748000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGFyZW50cyBjb3VsZCBw",
       "title": "Parents could put pretax paycheck money into Trump Accounts, with employers matching, Treasury says",
       "summary": "",
@@ -583,36 +598,6 @@
       "symbols": [
         "UST10Y"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFraXN0YW4gc2lnbmFs",
-      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786460203000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbCBTdHJlZXQganVz",
-      "title": "Wall Street just endorsed Jensen Huang&apos;s &apos;big concept&apos; for AI. What now?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786457465000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
