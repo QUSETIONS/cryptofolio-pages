@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786629622650,
-  "crawlUpdatedAt": 1786629622650,
+  "updatedAt": 1786633759410,
+  "crawlUpdatedAt": 1786633759410,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,179 +13,237 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-JmFwb3M7QmlnIFNob3J0",
+      "title": "&apos;Big Short&apos; investor Steve Eisman sees an Achilles&apos; heel in the AI boom",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786633454000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGF0YWJyaWNrcyB3cmFw",
+      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786633343000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW50ZXJneSBMb3Vpc2lh",
+      "title": "Entergy Louisiana completes $1 billion bond offering with two new series",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/entergy-louisiana-completes-1-billion-bond-offering-with-two-new-series-93CH-4858584",
+      "source": "Investing.com News",
+      "publishedAt": 1786633332000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Pershing Square posts strong Q2 2026 start after IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pershing-square-posts-strong-q2-2026-start-after-ipo-93CH-4858583",
+      "source": "Investing.com News",
+      "publishedAt": 1786633304000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF1dGljdXMgUTIgMjAy",
+      "title": "Nauticus Q2 2026 slides: strategic progress as revenue falls 57%",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/nauticus-q2-2026-slides-strategic-progress-as-revenue-falls-57-93CH-4858582",
+      "source": "Investing.com News",
+      "publishedAt": 1786633298000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qmlya2Vuc3RvY2sgcmFp",
+      "title": "Birkenstock raises revenue forecast on strong demand, shares jump",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/birkenstock-raises-annual-revenue-forecast-on-strong-demand-4856977",
+      "source": "Investing.com News",
+      "publishedAt": 1786633296000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Adcore posts stronger Q2 2026 growth, margin gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-adcore-posts-stronger-q2-2026-growth-margin-gains-93CH-4858579",
+      "source": "Investing.com News",
+      "publishedAt": 1786633267000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1c3QgU3RhbXAgcmVw",
+      "title": "Trust Stamp reports 22% revenue increase in first half of 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/trust-stamp-reports-22-revenue-increase-in-first-half-of-2026-93CH-4858577",
+      "source": "Investing.com News",
+      "publishedAt": 1786633245000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZnVsbHkgcmVzdGFy",
+      "title": "US fully restarts activities in Mexico’s avocado hub after security concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-fully-restarts-activities-in-mexicos-avocado-hub-after-security-concerns-4858576",
+      "source": "Investing.com News",
+      "publishedAt": 1786633242000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Innovative Aerosystems tops Q3 2026 estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-innovative-aerosystems-tops-q3-2026-estimates-93CH-4858575",
+      "source": "Investing.com News",
+      "publishedAt": 1786633231000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVyc2hpbmcgU3F1YXJl",
+      "title": "Pershing Square Q2 2026 slides: fee-paying AUM surges 31% on PSUS",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/pershing-square-q2-2026-slides-feepaying-aum-surges-31-on-psus-93CH-4858572",
+      "source": "Investing.com News",
+      "publishedAt": 1786633178000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHJlaXRlcmF0ZXMg",
+      "title": "UBS reiterates Sysco stock rating citing AI and cost savings",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-sysco-stock-rating-citing-ai-and-cost-savings-93CH-4858570",
+      "source": "Investing.com News",
+      "publishedAt": 1786633137000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBkcm9w",
+      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786632870000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIFdlYWx0aDog",
+      "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786630099000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MyBvZiBvdXIgc3RvY2tz",
+      "title": "3 of our stocks surged in the AI trade came back. 3 others stumbled",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/3-of-our-stocks-surged-in-the-ai-trade-came-back-3-others-stumbled.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786629865000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-RGVtb2NyYXRzIGRlbWFu",
       "title": "Democrats demand Trump reveal stock managers, explain suspicious trades",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786629495000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Elmet Group Q2 2026 revenue jumps 35% on defense demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-elmet-group-q2-2026-revenue-jumps-35-on-defense-demand-93CH-4858310",
-      "source": "Investing.com News",
-      "publishedAt": 1786628983000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: GMR Solutions posts Q2 2026 revenue growth as stock rises",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gmr-solutions-posts-q2-2026-revenue-growth-as-stock-rises-93CH-4858303",
-      "source": "Investing.com News",
-      "publishedAt": 1786628815000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Melco Resorts misses Q2 2026 profit forecast",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-melco-resorts-misses-q2-2026-profit-forecast-93CH-4858302",
-      "source": "Investing.com News",
-      "publishedAt": 1786628807000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEJ1bGxpc2gg",
-      "title": "Why is Bullish stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bullish-stock-surging-today-93CH-4858301",
-      "source": "Investing.com News",
-      "publishedAt": 1786628798000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Bullish Q2 2026 revenue rises 62% as tokenization gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bullish-q2-2026-revenue-rises-62-as-tokenization-gains-93CH-4858300",
-      "source": "Investing.com News",
-      "publishedAt": 1786628775000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3JlZGljb3JwIGVhcm5p",
-      "title": "Credicorp earnings on deck: Can Peru’s banking giant maintain momentum?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/credicorp-earnings-on-deck-can-perus-banking-giant-maintain-momentum-93CH-4858299",
-      "source": "Investing.com News",
-      "publishedAt": 1786628772000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Allied posts record Q2 2026 profit as shares jump 19.1%",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-allied-posts-record-q2-2026-profit-as-shares-jump-191-93CH-4858297",
-      "source": "Investing.com News",
-      "publishedAt": 1786628745000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2lnbWEgTGl0aGl1bSBl",
-      "title": "Sigma Lithium earnings on deck: Can production gains sustain profit surge?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/sigma-lithium-earnings-on-deck-can-production-gains-sustain-profit-surge-93CH-4858296",
-      "source": "Investing.com News",
-      "publishedAt": 1786628719000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Minerva Foods beats Q2 2026 estimates as stock slips",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-minerva-foods-beats-q2-2026-estimates-as-stock-slips-93CH-4858295",
-      "source": "Investing.com News",
-      "publishedAt": 1786628715000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZG9sbGFyIGZhbGxz",
-      "title": "US dollar falls after softer-than-expected US PPI eases fed rate-hike bets",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-dollar-steady-as-traders-weigh-fed-outlook-after-inline-us-cpi-4856590",
-      "source": "Investing.com News",
-      "publishedAt": 1786628709000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U291dGggS29yZWEmYXBv",
-      "title": "South Korea&apos;s Kospi swings from bear to bull-market territory in just over a month on AI trade",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786628234000,
+      "publishedAt": 1786629815000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -227,42 +285,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7QmlnIFNob3J0",
-      "title": "&apos;Big Short&apos; investor Steve Eisman sees an Achilles heel in the AI boom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786627140000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hvbGVzYWxlIHByaWNl",
       "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
       "source": "CNBC Markets",
       "publishedAt": 1786627116000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786626607000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -391,21 +419,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBkcm9w",
-      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786622114000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -601,22 +614,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSBhcmUgZml2ZSBr",
-      "title": "Here are five key takeaways from the July CPI inflation report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786554849000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
