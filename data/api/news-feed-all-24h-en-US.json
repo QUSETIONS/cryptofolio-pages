@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786651533579,
-  "crawlUpdatedAt": 1786651533579,
+  "updatedAt": 1786656239933,
+  "crawlUpdatedAt": 1786656239933,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,240 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QXBwbGUmYXBvcztzIFRp",
+      "title": "Apple&apos;s Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786656215000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUNvbm4gd29tZW4mYXBv",
+      "title": "UConn women&apos;s coach Geno Auriemma says WNBA should shift focus away from transgender debate",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/uconn-coach-geno-auriemma-wnba-trans-debate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786656092000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: TechPrecision jumps after Q1 2027 revenue grows 23%",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-techprecision-jumps-after-q1-2027-revenue-grows-23-93CH-4859324",
+      "source": "Investing.com News",
+      "publishedAt": 1786655709000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: ARS Pharmaceuticals shares fall after Q2 2026 report",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ars-pharmaceuticals-shares-fall-after-q2-2026-report-93CH-4859322",
+      "source": "Investing.com News",
+      "publishedAt": 1786655673000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: NextBoat posts record Q2 2026 revenue as shares fall",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nextboat-posts-record-q2-2026-revenue-as-shares-fall-93CH-4859321",
+      "source": "Investing.com News",
+      "publishedAt": 1786655651000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: GrabAGun tops revenue forecast in Q2 2026 as shares slip",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-grabagun-tops-revenue-forecast-in-q2-2026-as-shares-slip-93CH-4859320",
+      "source": "Investing.com News",
+      "publishedAt": 1786655647000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBmbGF0IGF0",
+      "title": "Bitcoin flat at around $63.4k as reduced rate hike bets provide little support",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758",
+      "source": "Investing.com News",
+      "publishedAt": 1786655645000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: VirTra tops Q2 2026 estimates as shares rise after hours",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-virtra-tops-q2-2026-estimates-as-shares-rise-after-hours-93CH-4859319",
+      "source": "Investing.com News",
+      "publishedAt": 1786655624000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Vuzix posts Q2 2026 revenue miss as stock falls after hours",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vuzix-posts-q2-2026-revenue-miss-as-stock-falls-after-hours-93CH-4859318",
+      "source": "Investing.com News",
+      "publishedAt": 1786655609000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFjcXVhcmllLCBXZXN0",
+      "title": "Macquarie, Westpac to testify in KPMG Australia audit scandal probe",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/macquarie-westpac-to-testify-in-kpmg-australia-audit-scandal-probe-4859297",
+      "source": "Investing.com News",
+      "publishedAt": 1786655599000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QlRJRyBjdXRzIExlZ2Vu",
+      "title": "BTIG cuts Legence stock price target on margin concerns despite earnings beat",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/btig-cuts-legence-stock-price-target-on-margin-concerns-despite-earnings-beat-93CH-4859315",
+      "source": "Investing.com News",
+      "publishedAt": 1786655571000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V29ybGQgQWNjZXB0YW5j",
+      "title": "World Acceptance Corp board approves $50 million share repurchase program",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/world-acceptance-corp-board-approves-50-million-share-repurchase-program-93CH-4859303",
+      "source": "Investing.com News",
+      "publishedAt": 1786655461000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2VubmVkeSBDZW50ZXIg",
+      "title": "Kennedy Center board votes to put Trump name on facade despite court order",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786654856000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2lzY28gc2hhcmVzIHNs",
+      "title": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786654651000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlc2UgY2hhcnRzIHNo",
+      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786652511000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-V29ya2RheSBzaGFyZXMg",
       "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786651505000,
+      "publishedAt": 1786651644000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -29,11 +257,11 @@
     },
     {
       "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall after U.S. says crude exports through Hormuz near 9 million barrels per day",
+      "title": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786651474000,
+      "publishedAt": 1786651516000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,195 +286,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIFRoZSBUcmFk",
-      "title": "Why is The Trade Desk stock rallying today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-the-trade-desk-stock-rallying-today-93CH-4859012",
-      "source": "Investing.com News",
-      "publishedAt": 1786650513000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Security National Financial lifts q2 profit, shares slip",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-security-national-financial-lifts-q2-profit-shares-slip-93CH-4859011",
-      "source": "Investing.com News",
-      "publishedAt": 1786650474000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9sbGFyIGZhbGxzIGFz",
-      "title": "Dollar falls as traders reduce Fed rate hike bets; sterling slips after GDP data",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-dollar-steady-as-traders-weigh-fed-outlook-after-inline-us-cpi-4856590",
-      "source": "Investing.com News",
-      "publishedAt": 1786650278000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Ftc3VuZyBGaXJlIEgx",
-      "title": "Samsung Fire H1 2026 slides: record profit, AA rating upgrade",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/samsung-fire-h1-2026-slides-record-profit-aa-rating-upgrade-93CH-4859010",
-      "source": "Investing.com News",
-      "publishedAt": 1786650200000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RHJvcGJveCBzdG9jayBo",
-      "title": "Dropbox stock hits 52-week high at 35.73 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/dropbox-stock-hits-52week-high-at-3573-usd-93CH-4859009",
-      "source": "Investing.com News",
-      "publishedAt": 1786650188000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHNldHRsZXMgZG93",
-      "title": "Oil settles down 2% on weak demand outlook, hefty US crude build",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-usiran-talks-4856497",
-      "source": "Investing.com News",
-      "publishedAt": 1786650145000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QU5aIFEzIDIwMjYgc2xp",
-      "title": "ANZ Q3 2026 slides: profit rises 5%, capital strengthens to 12.51%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/anz-q3-2026-slides-profit-rises-5-capital-strengthens-to-1251-93CH-4859008",
-      "source": "Investing.com News",
-      "publishedAt": 1786649810000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUmYXBvcztzIFRp",
-      "title": "Apple&apos;s Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786649591000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Samsung Fire & Marine posts record H1 2026 profit",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-samsung-fire--marine-posts-record-h1-2026-profit-93CH-4859007",
-      "source": "Investing.com News",
-      "publishedAt": 1786649530000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVsZWR5bmUgdGVjaG5v",
-      "title": "Teledyne technologies director sells $321,342 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/teledyne-technologies-director-sells-321342-in-shares-93CH-4859006",
-      "source": "Investing.com News",
-      "publishedAt": 1786649479000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WmViZWMgSW50cm9kdWNl",
-      "title": "Zebec Introduces “Earn on Pay” Capability with Solstice’s USX",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/zebec-introduces-earn-on-pay-capability-with-solstices-usx-4859004",
-      "source": "Investing.com News",
-      "publishedAt": 1786649431000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3JhbWVyOiBIb3cgd29y",
       "title": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
       "source": "CNBC Markets",
       "publishedAt": 1786649004000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUNvbm4gd29tZW4mYXBv",
-      "title": "UConn women&apos;s coach Geno Auriemma says WNBA should shift focus away from transgender debate",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/uconn-coach-geno-auriemma-wnba-trans-debate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786648801000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -268,21 +313,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2lzY28gc2hhcmVzIHNs",
-      "title": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786645057000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -481,21 +511,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R29hdCBoZXJkaW5nIGhl",
-      "title": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786624051000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TmV3IGZlZGVyYWwgcnVs",
       "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
       "summary": "",
@@ -564,21 +579,6 @@
       "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
       "source": "CNBC Markets",
       "publishedAt": 1786611601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhpcyBDaGluZXNlIGZp",
-      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786589990000,
       "lang": "en-US",
       "topics": [
         "macro"
