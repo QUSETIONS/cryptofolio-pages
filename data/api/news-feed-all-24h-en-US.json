@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786719596273,
-  "crawlUpdatedAt": 1786719596273,
-  "crawlCount": 36,
+  "updatedAt": 1786723308932,
+  "crawlUpdatedAt": 1786723308932,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-V2lzY29uc2luLCBNaWNo",
-      "title": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
+      "id": "CNBC Markets-THVpZ2kgTWFuZ2lvbmUg",
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
+      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786719030000,
+      "publishedAt": 1786723122000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: DeFi Technologies Q2 2026 revenue falls as stock slips",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-defi-technologies-q2-2026-revenue-falls-as-stock-slips-93CH-4861284",
+      "source": "Investing.com News",
+      "publishedAt": 1786722921000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxwaGFiZXTigJlzIFNw",
+      "title": "Alphabet’s SpaceX bet grows 100-fold over a decade to $94 billion",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alphabets-spacex-bet-grows-100fold-over-a-decade-to-94-billion-4860157",
+      "source": "Investing.com News",
+      "publishedAt": 1786722883000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,27 +60,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIHJlaXRlcmF0ZXMg",
-      "title": "UBS reiterates Buy on Nvidia stock, sees strong revenue beat",
+      "id": "Investing.com News-T2lsIHByaWNlcyByYWxs",
+      "title": "Oil prices rally as global stocks retreat",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-nvidia-stock-sees-strong-revenue-beat-93CH-4861199",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-set-for-weekly-gain-on-fading-us-rate-hike-wagers-4859652",
       "source": "Investing.com News",
-      "publishedAt": 1786718696000,
+      "publishedAt": 1786722864000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIHJhaXNlcyBXb2x2",
-      "title": "UBS raises Wolverine World Wide stock price target on brand strength",
+      "id": "Investing.com News-VW51c3VhbCBNYWNoaW5l",
+      "title": "Unusual Machines options signal bullish momentum as UMAC jumps 24.6%",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-wolverine-world-wide-stock-price-target-on-brand-strength-93CH-4861198",
+      "url": "https://www.investing.com/news/stock-market-news/unusual-machines-options-signal-bullish-momentum-as-umac-jumps-246-93CH-4861283",
       "source": "Investing.com News",
-      "publishedAt": 1786718688000,
+      "publishedAt": 1786722853000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,42 +90,59 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIHJlaXRlcmF0ZXMg",
-      "title": "UBS reiterates Hilton stock Buy rating on owner economics clarity",
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBz",
+      "title": "Goldman Sachs sees China retail sales growth staying weak",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-hilton-stock-buy-rating-on-owner-economics-clarity-93CH-4861197",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-china-retail-sales-growth-staying-weak-93CH-4861282",
       "source": "Investing.com News",
-      "publishedAt": 1786718685000,
+      "publishedAt": 1786722762000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Credicorp tops Q2 2026 estimates as ROE rises",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-credicorp-tops-q2-2026-estimates-as-roe-rises-93CH-4861279",
+      "source": "Investing.com News",
+      "publishedAt": 1786722685000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIHJlaXRlcmF0ZXMg",
-      "title": "UBS reiterates Buy on HF Sinclair stock, keeps $105 target",
+      "id": "Investing.com News-Q29wYXJ0IG9wdGlvbnMg",
+      "title": "Copart options signal caution despite 7% rally",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-hf-sinclair-stock-keeps-105-target-93CH-4861196",
+      "url": "https://www.investing.com/news/stock-market-news/copart-options-signal-caution-despite-7-rally-93CH-4861278",
       "source": "Investing.com News",
-      "publishedAt": 1786718683000,
+      "publishedAt": 1786722594000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SlAgM0UgSG9sZGluZ3Mg",
-      "title": "JP 3E Holdings appoints three directors to board",
+      "id": "Investing.com News-SVJCIFEyIDIwMjYgc2xp",
+      "title": "IRB Q2 2026 slides: profitability rises as premiums contract",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/jp-3e-holdings-appoints-three-directors-to-board-93CH-4861195",
+      "url": "https://www.investing.com/news/company-news/irb-q2-2026-slides-profitability-rises-as-premiums-contract-93CH-4861277",
       "source": "Investing.com News",
-      "publishedAt": 1786718674000,
+      "publishedAt": 1786722575000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -104,17 +153,124 @@
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Light S.A. posts stronger Q2 2026 results as debt falls",
+      "title": "Earnings call transcript: Americas Gold and Silver posts strong Q2 2026 growth",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-light-sa-posts-stronger-q2-2026-results-as-debt-falls-93CH-4861194",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-americas-gold-and-silver-posts-strong-q2-2026-growth-93CH-4861276",
       "source": "Investing.com News",
-      "publishedAt": 1786718621000,
+      "publishedAt": 1786722565000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-YmlvQWZmaW5pdHkgVGVj",
+      "title": "bioAffinity Technologies closes $4M private placement",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/bioaffinity-technologies-closes-4m-private-placement-93CH-4861275",
+      "source": "Investing.com News",
+      "publishedAt": 1786722508000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJIHRhbGVudCBl",
+      "title": "OpenAI talent exodus raises &apos;huge red flag&apos; ahead of IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786722315000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGlzbmV5IENFTyBKb3No",
+      "title": "Disney CEO Josh D&apos;Amaro tells CNBC parks were &apos;big surprise&apos; in last quarter, company has &apos;clarity&apos; and &apos;stability&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786721926000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IENOQkMgR2VuZXJh",
+      "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786720920000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYXNrcyBTdXBy",
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786720301000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2UmYXBvcztyZSBidXlp",
+      "title": "We&apos;re buying more shares of a recent spin-off that has great long-term prospects",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/were-buying-more-shares-of-a-recent-spin-off-that-has-great-long-term-prospects.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786720045000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2luZyBpbnZlc3Rv",
+      "title": "Housing investors say this is their worst market in at least 3 years",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786719746000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -133,102 +289,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWF0dGVsIG9wdGlvbnMg",
-      "title": "Mattel options activity surges with 16,938 calls targeting $15 strike by September",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/mattel-options-activity-surges-with-16938-calls-targeting-15-strike-by-september-93CH-4861193",
-      "source": "Investing.com News",
-      "publishedAt": 1786718603000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: VerticalScope posts Q2 2026 EPS beat as shares jump 12.5%",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-verticalscope-posts-q2-2026-eps-beat-as-shares-jump-125-93CH-4861192",
-      "source": "Investing.com News",
-      "publishedAt": 1786718589000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgcmFpc2VzIHByZXNz",
-      "title": "US raises pressure on EU to ’deliver’ on non-tariff trade commitments",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-raises-pressure-on-eu-to-deliver-on-nontariff-trade-commitments-4861191",
-      "source": "Investing.com News",
-      "publishedAt": 1786718571000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UjggQ2FwaXRhbCBwcm9w",
-      "title": "R8 Capital proposes Neil Jefferey as non-executive director",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/r8-capital-proposes-neil-jefferey-as-nonexecutive-director-93CH-4861190",
-      "source": "Investing.com News",
-      "publishedAt": 1786718555000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJvcGVydHkgUGxheTog",
-      "title": "Property Play: Housing investors say this is their worst market in at least 3 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786718233000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG93IGEgbmljaGUgY29w",
       "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
       "source": "CNBC Markets",
       "publishedAt": 1786713894000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIENsdWImYXBvcztz",
-      "title": "The Club&apos;s top 10 things to watch in the stock market Friday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/14/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786713445000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -465,21 +531,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlc2UgY2hhcnRzIHNo",
-      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786652511000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V29ya2RheSBzaGFyZXMg",
       "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
       "summary": "",
@@ -531,21 +582,6 @@
       "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
       "source": "CNBC Markets",
       "publishedAt": 1786646652000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7QmlnIFNob3J0",
-      "title": "&apos;Big Short&apos; investor Steve Eisman sees an Achilles&apos; heel in the AI boom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786634160000,
       "lang": "en-US",
       "topics": [
         "macro"
