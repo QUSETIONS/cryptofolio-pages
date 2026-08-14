@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786750097929,
-  "crawlUpdatedAt": 1786750097929,
+  "updatedAt": 1786751600836,
+  "crawlUpdatedAt": 1786751600836,
   "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VHJ1bXAgZmFtaWx5LWJh",
+      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786750910000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-RHV0Y2ggQnJvcyBkaXJl",
       "title": "Dutch Bros director Todd Penegor buys $103,120 in Bros stock",
@@ -161,21 +176,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZmFtaWx5LWJh",
-      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786746997000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
