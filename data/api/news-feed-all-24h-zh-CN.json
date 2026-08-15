@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786789768518,
-  "crawlUpdatedAt": 1786789768518,
+  "updatedAt": 1786791188551,
+  "crawlUpdatedAt": 1786791188551,
   "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -14,11 +14,11 @@
   "items": [
     {
       "id": "Investing.com News-SG9yaXpvbiBLaW5ldGlj",
-      "title": "Horizon Kinetics buys Texas Pacific Land stock for $343",
+      "title": "Horizon Kinetics Asset Management buys $2,192 of RENN Fund stock",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-343-93CH-4861763",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-2192-of-renn-fund-stock-93CH-4861766",
       "source": "Investing.com News",
-      "publishedAt": 1786787172000,
+      "publishedAt": 1786789862000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -29,11 +29,11 @@
     },
     {
       "id": "Investing.com News-Qml0Y29pbiBwcmljZSBo",
-      "title": "Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress",
+      "title": "Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress",
       "summary": "",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
       "source": "Investing.com News",
-      "publishedAt": 1786786871000,
+      "publishedAt": 1786788771000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
@@ -41,6 +41,36 @@
       "symbols": [
         "BTC"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXDigJlzIDIwMjQg",
+      "title": "Trump’s 2024 grocery photo op now haunts Republicans in the midterms",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms-4861765",
+      "source": "Investing.com News",
+      "publishedAt": 1786788771000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG9yaXpvbiBLaW5ldGlj",
+      "title": "Horizon Kinetics buys Texas Pacific Land stock for $343",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-343-93CH-4861763",
+      "source": "Investing.com News",
+      "publishedAt": 1786787172000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -131,38 +161,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3J1c2FkaW5nIEluZGlh",
-      "title": "Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/crusading-india-state-food-safety-chief-targets-eternal-swiggy-zepto-in-sweeping-crackdown-4861750",
-      "source": "Investing.com News",
-      "publishedAt": 1786777953000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBiZWFyIGZs",
-      "title": "Bitcoin bear flag 80% complete near $62,500: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
-      "source": "Investing.com News",
-      "publishedAt": 1786777339000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
