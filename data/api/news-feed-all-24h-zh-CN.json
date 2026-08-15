@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786779384523,
-  "crawlUpdatedAt": 1786779384523,
-  "crawlCount": 10,
+  "updatedAt": 1786783039603,
+  "crawlUpdatedAt": 1786783039603,
+  "crawlCount": 36,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VUJTIGxpc3RzIDQgcmVh",
+      "title": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ubs-lists-4-reasons-why-it-may-be-a-good-time-to-look-at-infrastructure-now-4861756",
+      "source": "Investing.com News",
+      "publishedAt": 1786781789000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW1wZXJ5IEFzc2V0IE1h",
+      "title": "Empery Asset Management acquires $4.07m in Empery Digital stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/empery-asset-management-acquires-407m-in-empery-digital-stock-93CH-4861754",
+      "source": "Investing.com News",
+      "publishedAt": 1786780889000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5LLiBzdGVwcyB1cCBk",
+      "title": "U.K. steps up defense supply-chain checks after naval drones signal China",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/uk-steps-up-defense-supplychain-checks-after-naval-drones-signal-china-4861752",
+      "source": "Investing.com News",
+      "publishedAt": 1786778976000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiBkZWZpYW50IG9u",
       "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
@@ -120,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXZpZGJhbmsgSG9sZGlu",
-      "title": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
+      "id": "CNBC Markets-UnVzc2lhJmFwb3M7cyBl",
+      "title": "Russia&apos;s economy has defied the skeptics. Cracks are getting harder to hide",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/avidbank-holdings-evp-wasson-sells-331400-in-company-stock-93CH-4861745",
-      "source": "Investing.com News",
-      "publishedAt": 1786771850000,
+      "url": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786770001000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -135,12 +180,318 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hhdCBoYXBwZW5zIGlm",
-      "title": "What happens if USD/JPY goes above 160? ‘Credibility falls further’",
+      "id": "CNBC Markets-RXh0cmVtZSBoZWF0IHNw",
+      "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
       "summary": "",
-      "url": "https://www.investing.com/news/forex-news/what-happens-if-usdjpy-goes-above-160-credibility-falls-further-4861744",
-      "source": "Investing.com News",
-      "publishedAt": 1786771727000,
+      "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786770001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZmFtaWx5LWJh",
+      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786750910000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGRpc2Nsb3Nl",
+      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786743919000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVya3NoaXJlIEhhdGhh",
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786741608000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiB0byB1c2UgZWNv",
+      "title": "U.S. to use economic tactics on Iran &apos;that have never been seen&apos;; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786740461000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29sZG1hbuKAmXMgbGF0",
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786737957000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RHJvbmUgc3RvY2tzIHJh",
+      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786737868000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THVpZ2kgTWFuZ2lvbmUg",
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786737011000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmVndWxhdG9ycyBhbmQg",
+      "title": "Regulators and banks step up scrutiny of prediction markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786735309000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYXNrcyBTdXBy",
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786734618000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJIHRhbGVudCBl",
+      "title": "OpenAI talent exodus raises &apos;huge red flag&apos; ahead of IPO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786734431000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield inches higher as traders digest soft retail sales, monitor the Middle East",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786731889000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGFtYm9yZ2hpbmkgdW52",
+      "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786730401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R3JvdXAgaW5jbHVkaW5n",
+      "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786725603000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGlzbmV5IENFTyBKb3No",
+      "title": "Disney CEO Josh D&apos;Amaro tells CNBC parks were &apos;big surprise&apos; in last quarter, company has &apos;clarity&apos; and &apos;stability&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786724865000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q291cnQgcnVsZXMgY29t",
+      "title": "Court rules companies can&apos;t import Gilead medications from overseas in blow to AFP health programs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786724827000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IENOQkMgR2VuZXJh",
+      "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786720920000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2luZyBpbnZlc3Rv",
+      "title": "Housing investors say this is their worst market in at least 3 years",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786719746000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IGEgbmljaGUgY29w",
+      "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786713894000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-4oCYQWJzb2x1dGVseSB1",
+      "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786710534000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TkFUTyBhaXJjcmFmdCBz",
+      "title": "NATO aircraft shoot down drone over Latvia, which blames &apos;Russian electromagnetic warfare&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/nato-drone-latvia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786710104000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -150,12 +501,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW1lcmljYW4gQXNzZXRz",
-      "title": "American Assets Trust executive chairman Rady acquires $3.4m in shares",
+      "id": "CNBC Markets-RGF0YSBicmVhY2ggbm90",
+      "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/american-assets-trust-executive-chairman-rady-acquires-34m-in-shares-93CH-4861743",
-      "source": "Investing.com News",
-      "publishedAt": 1786770963000,
+      "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786709701000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUnigJlzIGluZnJhc3Ry",
+      "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786709012000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGF0YSBjZW50ZXJzIGlu",
+      "title": "Data centers in space could be a new frontier for insurers — if they can price the risk",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786706391000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmludGVuZG8gc2hhcmVz",
+      "title": "Nintendo shares pop 7% after &apos;Pokémon Pokopia&apos; sales top 5 million",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786698214000,
       "lang": "zh-CN",
       "topics": [
         "macro"
