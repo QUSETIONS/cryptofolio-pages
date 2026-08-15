@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786786359113,
-  "crawlUpdatedAt": 1786786359113,
+  "updatedAt": 1786789768371,
+  "crawlUpdatedAt": 1786789768371,
   "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SG9yaXpvbiBLaW5ldGlj",
+      "title": "Horizon Kinetics buys Texas Pacific Land stock for $343",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-343-93CH-4861763",
+      "source": "Investing.com News",
+      "publishedAt": 1786787172000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSBo",
+      "title": "Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
+      "source": "Investing.com News",
+      "publishedAt": 1786786871000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VVMgcHJlc3NlcyBBcHBs",
       "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
@@ -131,36 +163,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnVuZCBtYW5hZ2VycyBj",
-      "title": "Fund managers chase €500 billion German pension overhaul",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fund-managers-chase-500-billion-german-pension-overhaul-4861749",
-      "source": "Investing.com News",
-      "publishedAt": 1786775887000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QUROT0MgdmVzc2VsIGF0",
-      "title": "ADNOC vessel attacked in Hormuz as Trump defends extended carrier deployment",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748",
-      "source": "Investing.com News",
-      "publishedAt": 1786774016000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
