@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786783039603,
-  "crawlUpdatedAt": 1786783039603,
-  "crawlCount": 36,
+  "updatedAt": 1786786359548,
+  "crawlUpdatedAt": 1786786359548,
+  "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VVMgcHJlc3NlcyBBcHBs",
+      "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-presses-apple-to-avoid-chinese-memory-chips-amid-shortage--wsj-reports-4861759",
+      "source": "Investing.com News",
+      "publishedAt": 1786784122000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S25pZ2h0LVN3aWZ0IENF",
+      "title": "Knight-Swift CEO Reid Dove sells $12.3m in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/knightswift-ceo-reid-dove-sells-123m-in-company-stock-93CH-4861757",
+      "source": "Investing.com News",
+      "publishedAt": 1786783594000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-VUJTIGxpc3RzIDQgcmVh",
       "title": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
@@ -126,36 +156,6 @@
       "url": "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748",
       "source": "Investing.com News",
       "publishedAt": 1786774016000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9yYWNlIE1hbm4gZGly",
-      "title": "Horace Mann director Reece sells $70,018 of HMN stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-reece-sells-70018-of-hmn-stock-93CH-4861747",
-      "source": "Investing.com News",
-      "publishedAt": 1786772773000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9yYWNlIE1hbm4gZGly",
-      "title": "Horace Mann director Thomas Bradley sells $258,623 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-thomas-bradley-sells-258623-in-stock-93CH-4861746",
-      "source": "Investing.com News",
-      "publishedAt": 1786772772000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -543,21 +543,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmludGVuZG8gc2hhcmVz",
-      "title": "Nintendo shares pop 7% after &apos;Pokémon Pokopia&apos; sales top 5 million",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786698214000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
