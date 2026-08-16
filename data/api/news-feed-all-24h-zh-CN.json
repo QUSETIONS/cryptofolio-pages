@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786890617542,
-  "crawlUpdatedAt": 1786890617542,
-  "crawlCount": 18,
+  "updatedAt": 1786892064318,
+  "crawlUpdatedAt": 1786892064318,
+  "crawlCount": 15,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UHViTWF0aWMgQ0VPIFJh",
+      "title": "PubMatic CEO Rajeev Goel sells $3.75 million in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-375-million-in-company-stock-93CH-4861991",
+      "source": "Investing.com News",
+      "publishedAt": 1786890672000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-U2F2ZXJzIHZhbHVlIHZp",
       "title": "Savers value village general counsel Medway sells $648,900 in shares",
@@ -148,21 +163,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGFuZG1hcmsgQmFuY29y",
-      "title": "Landmark Bancorp director Kohlrus buys $31,767 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-kohlrus-buys-31767-in-stock-93CH-4861979",
-      "source": "Investing.com News",
-      "publishedAt": 1786887074000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hhdCB0aGUgcmVzdWx0",
       "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
       "summary": "",
@@ -235,51 +235,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
-      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786805203000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIHJldmVu",
-      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786805131000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QU9DIHNheXMgc2hlJmFw",
-      "title": "AOC says she&apos;s been saving up to freeze her eggs. Here&apos;s how much the procedure can cost",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786804501000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
