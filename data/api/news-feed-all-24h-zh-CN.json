@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786920719948,
-  "crawlUpdatedAt": 1786920719948,
+  "updatedAt": 1786922811062,
+  "crawlUpdatedAt": 1786922811062,
   "crawlCount": 16,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Freightways posts strong H2 2026 results as fuel costs bite",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
+      "source": "Investing.com News",
+      "publishedAt": 1786921411000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBob3ZlcnMg",
       "title": "Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’",
@@ -177,23 +192,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBjb2lscyBi",
-      "title": "Bitcoin coils below $64K resistance: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
-      "source": "Investing.com News",
-      "publishedAt": 1786906885000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
