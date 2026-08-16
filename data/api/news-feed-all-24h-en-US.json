@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786884797390,
-  "crawlUpdatedAt": 1786884797390,
-  "crawlCount": 20,
+  "updatedAt": 1786887406416,
+  "crawlUpdatedAt": 1786887406416,
+  "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,24 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-V2l0aCBGZWQgbXVtIG9u",
+      "title": "With Fed mum on next move, investors look to earnings to keep stocks afloat",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/with-fed-mum-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat-4861978",
+      "source": "Investing.com News",
+      "publishedAt": 1786885226000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
       "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.89%",
@@ -163,21 +181,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJvIEZh",
-      "title": "InvestingPro Fair Value nails 68% return on LiveRamp in 5 months",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-nails-68-return-on-liveramp-in-5-months-93CH-4861968",
-      "source": "Investing.com News",
-      "publishedAt": 1786878590000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2VjcmV0IG91dHBlcmZv",
       "title": "Secret outperformer: Dispelling the &apos;myths&apos; about an unloved stock market",
       "summary": "",
@@ -292,21 +295,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29sbGVnZSBjYW4gY29z",
-      "title": "College can cost $100,000 a year. Here&apos;s how families are covering the tab",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786800601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
