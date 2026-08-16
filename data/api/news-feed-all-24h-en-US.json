@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786912224717,
-  "crawlUpdatedAt": 1786912224717,
-  "crawlCount": 17,
+  "updatedAt": 1786915629513,
+  "crawlUpdatedAt": 1786915629513,
+  "crawlCount": 16,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-RmVycmFyaeKAmXMgZWxl",
+      "title": "Ferrari’s electric car Luce sells for $40 million at charity auction",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ferraris-electric-car-luce-sells-for-40-million-at-charity-auction-4862011",
+      "source": "Investing.com News",
+      "publishedAt": 1786913474000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VG9wIFUuUy4gY29tbWFu",
       "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
@@ -180,21 +195,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2VhcmNoIHRlYW1zIGNv",
-      "title": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/search-teams-comb-rubble-in-colombia-nearly-a-week-after-quake-as-aid-effort-expands-4861998",
-      "source": "Investing.com News",
-      "publishedAt": 1786897468000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIGludGVybmV0JmFw",
       "title": "The internet&apos;s grandma has advice for late bloomers: &apos;It doesn&apos;t all have to be perfect&apos;",
       "summary": "",
@@ -246,21 +246,6 @@
       "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
       "source": "CNBC Markets",
       "publishedAt": 1786873545000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiByZWJ1ZmZzIFRy",
-      "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786826309000,
       "lang": "en-US",
       "topics": [
         "macro"
