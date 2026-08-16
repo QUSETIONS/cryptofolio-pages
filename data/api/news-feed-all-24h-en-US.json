@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1786916911537,
-  "crawlUpdatedAt": 1786916911537,
+  "updatedAt": 1786919338259,
+  "crawlUpdatedAt": 1786919338259,
   "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,54 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qml0Y29pbiBob3ZlcnMg",
+      "title": "Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
+      "source": "Investing.com News",
+      "publishedAt": 1786918848000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IEFJIGZpbmFuY2lu",
+      "title": "New AI financing backstops allows compute buyers more control over business models",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
+      "source": "Investing.com News",
+      "publishedAt": 1786918204000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IFplYWxhbmTigJlz",
+      "title": "New Zealand’s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
+      "source": "Investing.com News",
+      "publishedAt": 1786916902000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QmVsaWV2ZSB0aGUgdW5i",
       "title": "Believe the unbelievable in this market — things can be different this time",
@@ -49,21 +97,6 @@
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-429-4862013",
       "source": "Investing.com News",
       "publishedAt": 1786915203000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IFplYWxhbmTigJlz",
-      "title": "New Zealand’s a2 Milk posts 44% fall in full-year profit",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
-      "source": "Investing.com News",
-      "publishedAt": 1786914386000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -161,36 +194,6 @@
       "symbols": [
         "BTC"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F2ZXJzIHZhbHVlIHZp",
-      "title": "Savers value village CEO Mark Walsh sells over $2.4m in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/savers-value-village-ceo-mark-walsh-sells-over-24m-in-shares-93CH-4862005",
-      "source": "Investing.com News",
-      "publishedAt": 1786905977000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpZWYgcGVvcGxlIHNl",
-      "title": "Chief people services officer Melinda Geisser sells $766k Savers Value Village stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/chief-people-services-officer-melinda-geisser-sells-766k-savers-value-village-stock-93CH-4862004",
-      "source": "Investing.com News",
-      "publishedAt": 1786905967000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
