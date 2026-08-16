@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786898010394,
-  "crawlUpdatedAt": 1786898010394,
-  "crawlCount": 15,
+  "updatedAt": 1786901145711,
+  "crawlUpdatedAt": 1786901145711,
+  "crawlCount": 17,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-TGFtYm9yZ2hpbmkgdW52",
+      "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786900084000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
+      "title": "Morgan Stanley says disinflation is here, but risks to 2027 rate outlook remain",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/morgan-stanley-says-disinflation-is-here-but-risks-to-2027-rate-outlook-remain-4862000",
+      "source": "Investing.com News",
+      "publishedAt": 1786899570000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VhcmNoIHRlYW1zIGNv",
+      "title": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/search-teams-comb-rubble-in-colombia-nearly-a-week-after-quake-as-aid-effort-expands-4861998",
+      "source": "Investing.com News",
+      "publishedAt": 1786897468000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-U2VudGluZWxPbmUgY2hp",
       "title": "SentinelOne chief accounting officer Robin Tomasello sells $109,799 in stock",
@@ -103,6 +148,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VGhlIGludGVybmV0JmFw",
+      "title": "The internet&apos;s grandma has advice for late bloomers: &apos;It doesn&apos;t all have to be perfect&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786890601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-U2F2ZXJzIHZhbHVlIHZp",
       "title": "Savers value village general counsel Medway sells $648,900 in shares",
       "summary": "",
@@ -124,36 +184,6 @@
       "url": "https://www.investing.com/news/insider-trading-news/natera-director-jonathan-sheena-sells-289m-in-stock-93CH-4861988",
       "source": "Investing.com News",
       "publishedAt": 1786888864000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGVhciBDb3JwIGRpcmVj",
-      "title": "Lear Corp director Conrad Mallett Jr. sells $199,742 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/lear-corp-director-conrad-mallett-jr-sells-199742-in-stock-93CH-4861986",
-      "source": "Investing.com News",
-      "publishedAt": 1786887996000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0bGlzdCBFVlAgYW5k",
-      "title": "Netlist EVP and CFO Gail Sasaki sells $99,750 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/netlist-evp-and-cfo-gail-sasaki-sells-99750-in-company-stock-93CH-4861985",
-      "source": "Investing.com News",
-      "publishedAt": 1786887992000,
       "lang": "zh-CN",
       "topics": [
         "macro"
