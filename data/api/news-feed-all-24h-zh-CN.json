@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786963139178,
-  "crawlUpdatedAt": 1786963139178,
-  "crawlCount": 22,
+  "updatedAt": 1786966353028,
+  "crawlUpdatedAt": 1786966353028,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,209 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QWxpYmFiYSBhbnN3ZXJz",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786965863000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIHRvIGhvbGQgaW50",
+      "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-to-hold-interest-rates-this-year-economists-say-sticking-to-their-view-reuters-poll-4862717",
+      "source": "Investing.com News",
+      "publishedAt": 1786965148000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VsbHMgRmFyZ28gdXBn",
+      "title": "Wells Fargo upgrades Okta stock rating on AI growth potential",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-okta-stock-rating-on-ai-growth-potential-93CH-4862743",
+      "source": "Investing.com News",
+      "publishedAt": 1786965050000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VsbHMgRmFyZ28gcmFp",
+      "title": "Wells Fargo raises CrowdStrike stock price target on strong pipeline",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-crowdstrike-stock-price-target-on-strong-pipeline-93CH-4862742",
+      "source": "Investing.com News",
+      "publishedAt": 1786965047000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VFNYIGZ1dHVyZXMgaW5j",
+      "title": "TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741",
+      "source": "Investing.com News",
+      "publishedAt": 1786965010000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IEZhaXIgVmFsdWUg",
+      "title": "How Fair Value spotted Insperity’s 68% rally nine months early",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-spotted-insperitys-68-rally-nine-months-early-93CH-4862740",
+      "source": "Investing.com News",
+      "publishedAt": 1786965004000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FzdGxlIEJpb3NjaWVu",
+      "title": "Castle Biosciences gains dual listing on Nasdaq Texas",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/castle-biosciences-gains-dual-listing-on-nasdaq-texas-93CH-4862739",
+      "source": "Investing.com News",
+      "publishedAt": 1786964927000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXllUG9pbnTigJlzIERV",
+      "title": "EyePoint’s DURAVYU misses primary endpoint in wet AMD trial",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/eyepoints-duravyu-misses-primary-endpoint-in-wet-amd-trial-93CH-4862738",
+      "source": "Investing.com News",
+      "publishedAt": 1786964926000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXVkZGlhIHBhcnRuZXJz",
+      "title": "Auddia partners with AMG Corp for digital radio releases",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/auddia-partners-with-amg-corp-for-digital-radio-releases-93CH-4862735",
+      "source": "Investing.com News",
+      "publishedAt": 1786964924000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHVsc2VubW9yZSByZWNl",
+      "title": "Pulsenmore receives $1.27M grant for AI ultrasound program",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/pulsenmore-receives-127m-grant-for-ai-ultrasound-program-93CH-4862736",
+      "source": "Investing.com News",
+      "publishedAt": 1786964924000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZGVyYSBhcHBvaW50",
+      "title": "Goldera appoints former IAMGOLD director to board",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/goldera-appoints-former-iamgold-director-to-board-93CH-4862737",
+      "source": "Investing.com News",
+      "publishedAt": 1786964924000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmlzdGEgRW5lcmd5IHVw",
+      "title": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786964758000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCB3aWxsIFRWIGxv",
+      "title": "What will TV look like in three years? Media insiders share their predictions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786964401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-U2FudG9saTogRWFybmlu",
       "title": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
@@ -25,156 +228,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIE1lcmN1cnkg",
-      "title": "Why is Mercury Systems stock rising over 10% today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-mercury-systems-stock-rising-over-10-today-93CH-4862550",
-      "source": "Investing.com News",
-      "publishedAt": 1786962672000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFNhbkRpc2sg",
-      "title": "Why is SanDisk stock gaining over 5% today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-gaining-over-5-today-93CH-4862546",
-      "source": "Investing.com News",
-      "publishedAt": 1786962622000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kaWEgc3RvY2tzIGxv",
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.32%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-032-4862543",
-      "source": "Investing.com News",
-      "publishedAt": 1786962606000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VsbHMgRmFyZ28gc2Vl",
-      "title": "Wells Fargo sees dollar store earnings ahead with varied outlooks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-dollar-store-earnings-ahead-with-varied-outlooks-93CH-4862540",
-      "source": "Investing.com News",
-      "publishedAt": 1786962518000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VEQgQ293ZW4gcmFpc2Vz",
-      "title": "TD Cowen raises CrowdStrike stock price target to $235 on AI security demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-crowdstrike-stock-price-target-to-235-on-ai-security-demand-93CH-4862539",
-      "source": "Investing.com News",
-      "publishedAt": 1786962427000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qk1PIHJlc3VtZXMgR2xv",
-      "title": "BMO resumes Global Net Lease stock coverage with outperform rating",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-resumes-global-net-lease-stock-coverage-with-outperform-rating-93CH-4862536",
-      "source": "Investing.com News",
-      "publishedAt": 1786962292000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgY3J5cHRvIGZp",
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies-4862497",
-      "source": "Investing.com News",
-      "publishedAt": 1786962290000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgdG8gY2hhbmdl",
-      "title": "Apple to change app data consent rules, German regulator says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-to-change-app-data-consent-rules-german-regulator-says-4862535",
-      "source": "Investing.com News",
-      "publishedAt": 1786962270000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGVvbmFCaW8gYmVhdHMg",
-      "title": "LeonaBio beats second quarter loss estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/leonabio-beats-second-quarter-loss-estimates-93CH-4862534",
-      "source": "Investing.com News",
-      "publishedAt": 1786962125000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Vml2b3MgVGhlcmFwZXV0",
-      "title": "Vivos Therapeutics stock falls 6% on second quarter revenue miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/vivos-therapeutics-stock-falls-6-on-second-quarter-revenue-miss-93CH-4862533",
-      "source": "Investing.com News",
-      "publishedAt": 1786962120000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -238,21 +291,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmFwYW5lc2UgYXV0b21h",
-      "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786943924000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmFwYW4gc2Vjb25kLXF1",
       "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
       "summary": "",
@@ -274,21 +312,6 @@
       "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
       "source": "CNBC Markets",
       "publishedAt": 1786915945000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9wIFUuUy4gY29tbWFu",
-      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786910312000,
       "lang": "zh-CN",
       "topics": [
         "macro"
