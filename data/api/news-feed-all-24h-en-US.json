@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786988018513,
-  "crawlUpdatedAt": 1786988018513,
-  "crawlCount": 32,
+  "updatedAt": 1786992600585,
+  "crawlUpdatedAt": 1786992600585,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
-      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
+      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
       "source": "CNBC Markets",
-      "publishedAt": 1786987767000,
+      "publishedAt": 1786992213000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFyYW1vdW50IHNlZWtz",
+      "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786991768000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3luY2hyb255LCBjcmVk",
+      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786991574000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +60,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q21zIEVuZXJneSBzdG9j",
-      "title": "Cms Energy stock hits 52-week low at 20.44 USD",
+      "id": "Investing.com News-U0hSbGltaXRlZCBBbm5v",
+      "title": "SHRlimited Announces Continued Investment in Trading Infrastructure, Analytics, and Platform Transparency",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2044-usd-93CH-4863761",
+      "url": "https://www.investing.com/news/press-releases/shrlimited-announces-continued-investment-in-trading-infrastructure-analytics-and-platform-transparency-4863808",
       "source": "Investing.com News",
-      "publishedAt": 1786986877000,
+      "publishedAt": 1786991478000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,18 +75,186 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UmF0cywgbm90IHBvd2Vy",
-      "title": "Rats, not power, could pose overlooked risk to AI data centers",
+      "id": "Investing.com News-T2lsIHJpc2VzIG5lYXJs",
+      "title": "Oil rises nearly 3%, Brent tops $90 a barrel as Trump threatens to bomb Oman",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/rats-not-power-could-pose-overlooked-risk-to-ai-data-centers-4863760",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-after-strong-week-iran-jitters-persist-4862062",
       "source": "Investing.com News",
-      "publishedAt": 1786986871000,
+      "publishedAt": 1786991380000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEJyZW50IE9p",
+      "title": "Why is Brent Oil Futures stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-brent-oil-futures-stock-surging-today-93CH-4863805",
+      "source": "Investing.com News",
+      "publishedAt": 1786991352000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEZsb3RlayBJ",
+      "title": "Why is Flotek Industries stock crashing today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-flotek-industries-stock-crashing-today-93CH-4863802",
+      "source": "Investing.com News",
+      "publishedAt": 1786991159000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RvY2tzIHNsaXAgYXMg",
+      "title": "Stocks slip as oil climbs; investors eye Fed minutes, retail earnings this week",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-rate-hike-fears-ease-earnings-buoy-stocks-4862054",
+      "source": "Investing.com News",
+      "publishedAt": 1786991104000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJlbnQgb2lsIHJpc2Vz",
+      "title": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786991101000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBOb3J0",
+      "title": "Trump says North Korea’s Kim responded to his outreach",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-says-north-koreas-kim-responded-to-his-outreach-93CH-4863800",
+      "source": "Investing.com News",
+      "publishedAt": 1786990868000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmxvdGVrIEluZHVzdHJp",
+      "title": "Flotek Industries stock plummets on short seller report",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/flotek-industries-stock-plummets-on-short-seller-report-93CH-4863799",
+      "source": "Investing.com News",
+      "publishedAt": 1786990836000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3Jhbml0ZSBSaWRnZSBk",
+      "title": "Granite Ridge director John McCartney buys $10,000 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/granite-ridge-director-john-mccartney-buys-10000-in-stock-93CH-4863797",
+      "source": "Investing.com News",
+      "publishedAt": 1786990558000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Boa Safra Sementes posts Q2 2026 miss, shares jump",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-boa-safra-sementes-posts-q2-2026-miss-shares-jump-93CH-4863796",
+      "source": "Investing.com News",
+      "publishedAt": 1786990330000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGVwbGV0ZWQgc3RyYXRl",
+      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786990141000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWljcm9zb2Z0LWxpbmtl",
+      "title": "Microsoft-linked QTS bond sale draws $8 billion in demand - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/microsoftlinked-qts-bond-sale-draws-8-billion-in-demand--bloomberg-93CH-4863795",
+      "source": "Investing.com News",
+      "publishedAt": 1786990127000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
+      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786988620000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -73,162 +273,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgbWlkdGVybSBlbGVj",
-      "title": "US midterm election betting races past 2024 congressional total, data shows",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-midterm-election-betting-races-past-2024-congressional-total-data-shows-4863759",
-      "source": "Investing.com News",
-      "publishedAt": 1786986756000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJlZWRvbSBCcm9rZXIg",
-      "title": "Freedom Broker raises Candel Therapeutics stock price target on trial progress",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-raises-candel-therapeutics-stock-price-target-on-trial-progress-93CH-4863757",
-      "source": "Investing.com News",
-      "publishedAt": 1786986650000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3luY2hyb255LCBjcmVk",
-      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786986601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Um95YWwgVW5pYnJldyBy",
-      "title": "Royal Unibrew reports higher interim first-half profit as margins improve",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/royal-unibrew-reports-higher-interim-firsthalf-profit-as-margins-improve-4863755",
-      "source": "Investing.com News",
-      "publishedAt": 1786986490000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Cloudastructure Q2 2026 loss narrows as recurring revenue jumps",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cloudastructure-q2-2026-loss-narrows-as-recurring-revenue-jumps-93CH-4863752",
-      "source": "Investing.com News",
-      "publishedAt": 1786986422000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qi5SaWxleSBkb3duZ3Jh",
-      "title": "B.Riley downgrades Lantheus stock rating on Curium acquisition",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/briley-downgrades-lantheus-stock-rating-on-curium-acquisition-93CH-4863751",
-      "source": "Investing.com News",
-      "publishedAt": 1786986297000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJlZWRvbSBCcm9rZXIg",
-      "title": "Freedom Broker upgrades PrimeEnergy stock rating to Hold on pricing",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-primeenergy-stock-rating-to-hold-on-pricing-93CH-4863749",
-      "source": "Investing.com News",
-      "publishedAt": 1786986292000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VuZXJhbCBBdGxhbnRp",
-      "title": "General Atlantic picks JPMorgan to lead revived IPO effort, source says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/general-atlantic-picks-jpmorgan-to-lead-revived-ipo-effort-source-says-4863748",
-      "source": "Investing.com News",
-      "publishedAt": 1786986050000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIHJlaXRlcmF0",
-      "title": "Stifel reiterates EyePoint stock Buy rating after trial miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-eyepoint-stock-buy-rating-after-trial-miss-93CH-4863745",
-      "source": "Investing.com News",
-      "publishedAt": 1786985934000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJJmFwb3M7cyBC",
       "title": "OpenAI&apos;s Brockman brushes off concerns about leadership changes in CNBC exclusive",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
       "source": "CNBC Markets",
       "publishedAt": 1786984580000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
-      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786983577000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -382,21 +432,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVwbGV0ZWQgc3RyYXRl",
-      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1786969406000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
