@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786946493471,
-  "crawlUpdatedAt": 1786946493471,
-  "crawlCount": 19,
+  "updatedAt": 1786952082314,
+  "crawlUpdatedAt": 1786952082314,
+  "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,149 +13,181 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-R29sZCBlZGdlcyBoaWdo",
-      "title": "Gold edges higher near $4,400 as softer dollar offsets Middle East inflation risks",
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIGVj",
+      "title": "China&apos;s economy slows further in July as retail sales barely grow, investment slump steepens",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-4862058",
-      "source": "Investing.com News",
-      "publishedAt": 1786945713000,
+      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786952037000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLVNoZWlu",
+      "title": "Exclusive-Shein eyes company valuation of around $25 billion in Hong Kong IPO, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveshein-eyes-company-valuation-of-around-25-billion-in-hong-kong-ipo-sources-say-4862226",
+      "source": "Investing.com News",
+      "publishedAt": 1786950752000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TG9uZG9uIEdhcyBPaWwg",
+      "title": "London Gas Oil coils near $1,241 before breakout: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/london-gas-oil-coils-near-1241-before-breakout-live-levels-93CH-4862236",
+      "source": "Investing.com News",
+      "publishedAt": 1786950695000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2lsdmVyIHN0YWxscyBi",
+      "title": "Silver stalls below $67 resistance as momentum fades: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/silver-stalls-below-67-resistance-as-momentum-fades-live-levels-93CH-4862235",
+      "source": "Investing.com News",
+      "publishedAt": 1786950688000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBjb2lsZWQg",
+      "title": "Bitcoin coiled at $63,591 with volatility at 6-month lows: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "source": "Investing.com News",
+      "publishedAt": 1786950679000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
       ],
       "symbols": [
-        "XAU"
+        "BTC"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF0dXJhbCBHYXMgYmVh",
+      "title": "Natural Gas bear flag breaks at $2.645: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/natural-gas-bear-flag-breaks-at-2645-live-levels-93CH-4862233",
+      "source": "Investing.com News",
+      "publishedAt": 1786950676000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJlbnQgT2lsIHRyYXBw",
+      "title": "Brent Oil trapped at $88.42 in choppy range: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/brent-oil-trapped-at-8842-in-choppy-range-live-levels-93CH-4862231",
+      "source": "Investing.com News",
+      "publishedAt": 1786950669000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3J1ZGUgT2lsIFdUSSBz",
+      "title": "Crude Oil WTI stalls below VWAP at $81.08: Hourly levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-stalls-below-vwap-at-8108-hourly-levels-93CH-4862232",
+      "source": "Investing.com News",
+      "publishedAt": 1786950669000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGFuZyBTZW5nIGNvaWxz",
+      "title": "Hang Seng coils in Ichimoku cloud at 25,497: Hourly",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-cloud-at-2505025650-live-levels-93CH-4862072",
+      "source": "Investing.com News",
+      "publishedAt": 1786950667000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29wcGVyIHN0YWxscyBh",
+      "title": "Copper stalls at $6.86 resistance, double-top risk: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/copper-stalls-at-686-resistance-doubletop-risk-live-levels-93CH-4862230",
+      "source": "Investing.com News",
+      "publishedAt": 1786950663000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R0lDIFJlIFExIEZZMjcg",
-      "title": "GIC Re Q1 FY27 slides: combined ratio improves, profitability prioritized",
+      "id": "Investing.com News-R29sZCBjb25zb2xpZGF0",
+      "title": "Gold consolidates at $4,456 with MACD divergence: Live levels",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/gic-re-q1-fy27-slides-combined-ratio-improves-profitability-prioritized-93CH-4862156",
+      "url": "https://www.investing.com/news/commodities-news/gold-consolidates-at-4456-with-macd-divergence-live-levels-93CH-4862229",
       "source": "Investing.com News",
-      "publishedAt": 1786945704000,
+      "publishedAt": 1786950658000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5zbWVkIENNTyBNYXJ0",
-      "title": "Insmed CMO Martina Flammer sells $3.49m in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/insmed-cmo-martina-flammer-sells-349m-in-company-stock-93CH-4862155",
-      "source": "Investing.com News",
-      "publishedAt": 1786945583000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
+      "symbols": [
+        "XAU"
       ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWxwaGFiZXQgZXllcyBp",
-      "title": "Alphabet eyes inaugural Australian dollar bond, bookrunner’s message says",
+      "id": "CNBC Markets-RmVycmFyaSBMdWNlOiBQ",
+      "title": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-4862099",
-      "source": "Investing.com News",
-      "publishedAt": 1786945394000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFNoYW5naGFp",
-      "title": "Why is Shanghai Henlius Biotech stock climbing today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-shanghai-henlius-biotech-stock-climbing-today-93CH-4862154",
-      "source": "Investing.com News",
-      "publishedAt": 1786945369000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEFsaWJhYmEg",
-      "title": "Why is Alibaba stock climbing today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-climbing-today-93CH-4862153",
-      "source": "Investing.com News",
-      "publishedAt": 1786945366000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJvbSBjb2ZmZWUgdG8g",
-      "title": "From coffee to hotpot, brands race to grab a bite of China’s growing burger market",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/from-coffee-to-hotpot-brands-race-to-grab-a-bite-of-chinas-growing-burger-market-4862025",
-      "source": "Investing.com News",
-      "publishedAt": 1786945353000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FtcG8gYnV5cyBiYWNr",
-      "title": "Sampo buys back €12.1M worth of shares in week 33",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/sampo-buys-back-121m-worth-of-shares-in-week-33-93CH-4862152",
-      "source": "Investing.com News",
-      "publishedAt": 1786945170000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FtcG8gYnV5cyBiYWNr",
-      "title": "Sampo buys back 1.27 million shares in week 33",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/sampo-buys-back-127-million-shares-in-week-33-93CH-4862151",
-      "source": "Investing.com News",
-      "publishedAt": 1786944971000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: GIC posts stronger Q1 2026 underwriting results",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gic-posts-stronger-q1-2026-underwriting-results-93CH-4862150",
-      "source": "Investing.com News",
-      "publishedAt": 1786944779000,
+      "url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786949543000,
       "lang": "zh-CN",
       "topics": [
         "macro"
