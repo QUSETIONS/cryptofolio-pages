@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1786924114256,
-  "crawlUpdatedAt": 1786924114256,
-  "crawlCount": 16,
+  "updatedAt": 1786931250011,
+  "crawlUpdatedAt": 1786931250011,
+  "crawlCount": 18,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-QWxpYmFiYSB0byBzZWxs",
+      "title": "Alibaba to sell gaming arm for $1.5 bln as AI focus intensifies - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-to-sell-gaming-arm-for-15-bln-as-ai-focus-intensifies--bloomberg-4862065",
+      "source": "Investing.com News",
+      "publishedAt": 1786930777000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Freightways posts strong H2 2026 results as fuel costs bite",
+      "title": "Earnings call transcript: BlueScope posts strong H2 2026, stock slips 2.4%",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bluescope-posts-strong-h2-2026-stock-slips-24-93CH-4862064",
       "source": "Investing.com News",
-      "publishedAt": 1786921411000,
+      "publishedAt": 1786930718000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,30 +43,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBob3ZlcnMg",
-      "title": "Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: New Hope Group posts strong FY 2026 cash flow",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-new-hope-group-posts-strong-fy-2026-cash-flow-93CH-4862063",
       "source": "Investing.com News",
-      "publishedAt": 1786918848000,
+      "publishedAt": 1786930705000,
       "lang": "en-US",
       "topics": [
-        "rates",
-        "crypto"
+        "macro"
       ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV3IEFJIGZpbmFuY2lu",
-      "title": "New AI financing backstops allows compute buyers more control over business models",
+      "id": "Investing.com News-SmFwYW4gUTIgZ3Jvd3Ro",
+      "title": "Japan Q2 growth misses forecasts on weaker spending, investment",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
+      "url": "https://www.investing.com/news/economy-news/japans-economy-grows-slower-than-expected-in-apriljune-4862030",
       "source": "Investing.com News",
-      "publishedAt": 1786918204000,
+      "publishedAt": 1786930584000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHByaWNlcyBlZGdl",
+      "title": "Oil prices edge lower after strong week; Iran jitters persist",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-after-strong-week-iran-jitters-persist-4862062",
+      "source": "Investing.com News",
+      "publishedAt": 1786930561000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -61,18 +88,93 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV3IFplYWxhbmTigJlz",
-      "title": "New Zealand’s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
+      "id": "Investing.com News-V2h5IGlzIFRyZW5kIE1p",
+      "title": "Why is Trend Micro stock sliding today?",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-trend-micro-stock-sliding-today-93CH-4862061",
       "source": "Investing.com News",
-      "publishedAt": 1786916902000,
+      "publishedAt": 1786930272000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW7igJlzIERp",
+      "title": "JPMorgan’s Dimon cautions UK on bank tax increases- FT",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgans-dimon-cautions-uk-on-bank-tax-increases-ft-93CH-4862060",
+      "source": "Investing.com News",
+      "publishedAt": 1786930249000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGVuZGxlYXNlIEZZMjYg",
+      "title": "Lendlease FY26 slides: construction recovery offset by $749m loss",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/lendlease-fy26-slides-construction-recovery-offset-by-749m-loss-93CH-4862059",
+      "source": "Investing.com News",
+      "publishedAt": 1786930070000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TkFCIHNoYXJlcyBmYWxs",
+      "title": "NAB shares fall as softer home lending overshadows Q3 earnings growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/national-australia-bank-q3-cash-earnings-rise-on-lower-bad-loan-charges-4862036",
+      "source": "Investing.com News",
+      "publishedAt": 1786929887000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYW4gc2hhcmVzIG1h",
+      "title": "Asian shares mark time as Gulf war keeps oil prices up",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/asian-shares-mark-time-as-gulf-war-keeps-oil-prices-up-4862057",
+      "source": "Investing.com News",
+      "publishedAt": 1786929886000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmFwYW4gc2Vjb25kLXF1",
+      "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786927818000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -91,102 +193,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TnZpZGlh4oCZcyBuZW9j",
-      "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nvidias-neocloud-funding-could-drive-significant-revenue-stream--morgan-stanley-4862014",
-      "source": "Investing.com News",
-      "publishedAt": 1786915294000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 4.29%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-429-4862013",
-      "source": "Investing.com News",
-      "publishedAt": 1786915203000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVycmFyaeKAmXMgZWxl",
-      "title": "Ferrari’s electric car Luce sells for $40 million at charity auction",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/ferraris-electric-car-luce-sells-for-40-million-at-charity-auction-4862011",
-      "source": "Investing.com News",
-      "publishedAt": 1786913474000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG9wIFUuUy4gY29tbWFu",
       "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
       "source": "CNBC Markets",
       "publishedAt": 1786910312000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2Nob2xhc3RpYyBFVlAs",
-      "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-sasha-quinton-sells-over-12m-in-stock-93CH-4862008",
-      "source": "Investing.com News",
-      "publishedAt": 1786908751000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2hhcmtOaW5qYSBDQ08g",
-      "title": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55m-in-company-stock-93CH-4862007",
-      "source": "Investing.com News",
-      "publishedAt": 1786908745000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWFzc2FjaHVzZXR0cyBh",
-      "title": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts​",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/massachusetts-antihunger-advocate-fasts-to-protest-trump-food-stamp-cuts-4861967",
-      "source": "Investing.com News",
-      "publishedAt": 1786907186000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -247,6 +259,21 @@
       "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "source": "CNBC Markets",
       "publishedAt": 1786881495000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VjcmV0IG91dHBlcmZv",
+      "title": "Secret outperformer: Dispelling the &apos;myths&apos; about an unloved stock market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1786873545000,
       "lang": "en-US",
       "topics": [
         "macro"
