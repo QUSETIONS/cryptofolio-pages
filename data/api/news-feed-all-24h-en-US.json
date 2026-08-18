@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787081578411,
-  "crawlUpdatedAt": 1787081578411,
+  "updatedAt": 1787085109417,
+  "crawlUpdatedAt": 1787085109417,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-UGhpbGxpcHMgNjYgc3Rv",
-      "title": "Phillips 66 stock hits all-time high at 242.49 USD",
+      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
+      "title": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/phillips-66-stock-hits-alltime-high-at-24249-usd-93CH-4865909",
-      "source": "Investing.com News",
-      "publishedAt": 1787080505000,
+      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787085073000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAsIENhcm5leSBy",
+      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787084424000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +45,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: NowVertical jumps 32% after q2 2026 profit gains",
+      "id": "Investing.com News-VEQgQ293ZW4gcmFpc2Vz",
+      "title": "TD Cowen raises Grocery Outlet stock price target on turnaround signs",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nowvertical-jumps-32-after-q2-2026-profit-gains-93CH-4865908",
+      "url": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-grocery-outlet-stock-price-target-on-turnaround-signs-93CH-4865958",
       "source": "Investing.com News",
-      "publishedAt": 1787080489000,
+      "publishedAt": 1787083374000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,42 +60,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2luZ3VsYXJpdHkgRnV0",
-      "title": "Singularity Future Technology prices $1.8M stock offering",
+      "id": "Investing.com News-QWtzbyBIZWFsdGggR3Jv",
+      "title": "Akso Health Group stock hits 52-week low at 1.03 USD",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/singularity-future-technology-prices-18m-stock-offering-93CH-4865906",
+      "url": "https://www.investing.com/news/company-news/akso-health-group-stock-hits-52week-low-at-103-usd-93CH-4865950",
       "source": "Investing.com News",
-      "publishedAt": 1787080355000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Corporación América Airports posts mixed Q2 2026 results",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-corporacion-america-airports-posts-mixed-q2-2026-results-93CH-4865904",
-      "source": "Investing.com News",
-      "publishedAt": 1787080313000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJlY2lzaW9uIE9wdGlj",
-      "title": "Precision Optics at Lytham Partners summit: growth shifts to scale",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/precision-optics-at-lytham-partners-summit-growth-shifts-to-scale-93CH-4865903",
-      "source": "Investing.com News",
-      "publishedAt": 1787080283000,
+      "publishedAt": 1787083290000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +75,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBz",
-      "title": "Raymond James sees positive earnings trends across market caps",
+      "id": "Investing.com News-UHN5ZW5jZSBCaW9tZWRp",
+      "title": "Psyence Biomedical stock surges on Trump ibogaine announcement",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/raymond-james-sees-positive-earnings-trends-across-market-caps-93CH-4865902",
+      "url": "https://www.investing.com/news/stock-market-news/psyence-biomedical-stock-surges-on-trump-ibogaine-announcement-93CH-4865947",
       "source": "Investing.com News",
-      "publishedAt": 1787080228000,
+      "publishedAt": 1787083205000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3Jhbml0ZSBSaWRnZSBS",
+      "title": "Granite Ridge Resources at EnerCom Denver: eyes cash flow shift",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/granite-ridge-resources-at-enercom-denver-eyes-cash-flow-shift-93CH-4865946",
+      "source": "Investing.com News",
+      "publishedAt": 1787083102000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,83 +105,111 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2NvdHQgUGV0ZXJzIGZy",
-      "title": "Scott Peters from California’s 50th District makes extensive trades in U.S. Treasury Bills and other assets",
+      "id": "Investing.com News-Q0NDIEludGVsbGlnZW50",
+      "title": "CCC Intelligent Solutions shares jump on takeover report",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/scott-peters-from-californias-50th-district-makes-extensive-trades-in-us-treasury-bills-and-other-assets-93CH-4865900",
+      "url": "https://www.investing.com/news/stock-market-news/ccc-intelligent-solutions-shares-jump-on-takeover-report-93CH-4865945",
       "source": "Investing.com News",
-      "publishedAt": 1787080153000,
+      "publishedAt": 1787083077000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmF0aW9uYWwgSGVhbHRo",
+      "title": "National HealthCare Corp stock hits all-time high at 232.78 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/national-healthcare-corp-stock-hits-alltime-high-at-23278-usd-93CH-4865944",
+      "source": "Investing.com News",
+      "publishedAt": 1787082965000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9vZHnigJlzIGFmZmly",
+      "title": "Moody’s affirms Darling Ingredients rating, revises outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/moodys-affirms-darling-ingredients-rating-revises-outlook-93CH-4865943",
+      "source": "Investing.com News",
+      "publishedAt": 1787082935000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV0YSByZWplY3RzIGFs",
+      "title": "Meta rejects allegations it sought to hook children as landmark trial begins",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/meta-faces-29state-trial-that-could-reshape-instagram-and-facebook-4864684",
+      "source": "Investing.com News",
+      "publishedAt": 1787082864000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBmYWxscyBvdmVy",
+      "title": "Gold falls over 1.5%, weighed down by elevated Treasury yields, higher oil prices",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-rises-near-4450-as-fed-hike-bets-fade-dollar-weakens-risks-persist-4864147",
+      "source": "Investing.com News",
+      "publishedAt": 1787082722000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
       "symbols": [
+        "XAU",
         "UST10Y"
       ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgU0VDIHN1ZXMgZm9y",
+      "title": "US SEC sues former executives of collapsed auto lender Tricolor",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-sec-sues-former-executives-of-collapsed-auto-lender-tricolor-4865938",
+      "source": "Investing.com News",
+      "publishedAt": 1787082513000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UmV0YWlsIGdpYW50IENv",
-      "title": "Retail giant Costco sets its sights on a new kind of product: Medicare Advantage",
+      "id": "CNBC Markets-V2UgdXBncmFkZWQgSG9t",
+      "title": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/costco-sets-its-sights-on-a-new-kind-of-product-medicare-advantage.html",
+      "url": "https://www.cnbc.com/2026/08/18/we-upgraded-home-depot-and-raised-our-price-target-it-made-the-best-of-a-terrible-hand.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787080082000,
+      "publishedAt": 1787081274000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BlbkFJIHNsb3dzIG1v",
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/openai-slows-model-training-to-bolster-security-after-hugging-face-hack-4865899",
-      "source": "Investing.com News",
-      "publishedAt": 1787080012000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RldmUgQ29oZW4gYWNx",
-      "title": "Steve Cohen acquires significant stakes in JPMorgan Chase and U.S. Treasury Bill",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/steve-cohen-acquires-significant-stakes-in-jpmorgan-chase-and-us-treasury-bill-93CH-4865897",
-      "source": "Investing.com News",
-      "publishedAt": 1787079993000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWRhIHN0b2NrcyBz",
-      "title": "Canada stocks slip 1% as inflation, tariffs and Middle East tensions weigh",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/tsx-futures-inch-lower-amid-mideast-tensions-looming-us-tariff-deadline-4865076",
-      "source": "Investing.com News",
-      "publishedAt": 1787079959000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -210,38 +240,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
-      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787077343000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAsIENhcm5leSBy",
-      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787076305000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
