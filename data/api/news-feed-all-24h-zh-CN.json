@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787119058228,
-  "crawlUpdatedAt": 1787119058228,
-  "crawlCount": 37,
+  "updatedAt": 1787122728210,
+  "crawlUpdatedAt": 1787122728210,
+  "crawlCount": 36,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,150 +13,199 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q2hpbmHigJlzIHlvdXRo",
-      "title": "China’s youth jobless rate hits 11-month high in July",
+      "id": "CNBC Markets-R29sZG1hbiBzdHVkaWVk",
+      "title": "Goldman studied where AI is squeezing labor markets. Here&apos;s what it found",
       "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/chinas-youth-jobless-rate-hits-11month-high-in-july-4866454",
+      "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787122557000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiByZXBvcnRlZGx5",
+      "title": "Iran reportedly weighs attacks on European military targets as UAE severs trade with Tehran",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787122332000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGV4dGVuZHMgY2xp",
+      "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-edges-up-on-uncertainty-over-exports-through-hormuz-4866269",
       "source": "Investing.com News",
-      "publishedAt": 1787118868000,
+      "publishedAt": 1787122103000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VWtyYWluZSZhcG9zO3Mg",
+      "title": "Ukraine&apos;s Zelenskyy faces call for wartime election from former defense chief",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787122098000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFJ1c2FsIHN0",
+      "title": "Why is Rusal stock gaining today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-rusal-stock-gaining-today-93CH-4866498",
+      "source": "Investing.com News",
+      "publishedAt": 1787122036000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmluZ0NlbnRyYWwgQ0ZP",
+      "title": "RingCentral CFO Vaibhav Agarwal sells $110,567 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ringcentral-cfo-vaibhav-agarwal-sells-110567-in-company-stock-93CH-4866496",
+      "source": "Investing.com News",
+      "publishedAt": 1787121963000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29yZUNpdmljIGRpcmVj",
+      "title": "CoreCivic director John R. Prann Jr. sells $1.34m in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/corecivic-director-john-r-prann-jr-sells-134m-in-shares-93CH-4866495",
+      "source": "Investing.com News",
+      "publishedAt": 1787121959000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZHBsYXQgcmVwb3J0",
+      "title": "Goldplat reports Q4 profit rise, declares interim dividend",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/goldplat-reports-q4-profit-rise-declares-interim-dividend-93CH-4866493",
+      "source": "Investing.com News",
+      "publishedAt": 1787121890000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGF0b3Vy4oCZcyBRMiBp",
+      "title": "Latour’s Q2 industrial sales rise 3% amid market recovery",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/latours-q2-industrial-sales-rise-3-amid-market-recovery-93CH-4866492",
+      "source": "Investing.com News",
+      "publishedAt": 1787121853000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3dpc3MgaW5kdXN0cmlh",
+      "title": "Swiss industrial output climbs 5.5% in second quarter",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/swiss-industrial-output-climbs-55-in-second-quarter-93CH-4866490",
+      "source": "Investing.com News",
+      "publishedAt": 1787121688000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SERJIEdsb2JhbCBwb3N0",
+      "title": "HDI Global posts improved combined ratio in first half",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/hdi-global-posts-improved-combined-ratio-in-first-half-93CH-4866489",
+      "source": "Investing.com News",
+      "publishedAt": 1787121680000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkxTbWlkdGggcmFpc2Vz",
+      "title": "FLSmidth raises full-year guidance after strong Q2 profit growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/flsmidth-raises-fullyear-guidance-after-strong-q2-profit-growth-4866486",
+      "source": "Investing.com News",
+      "publishedAt": 1787121543000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBzdG9jayBmdXR1",
+      "title": "U.S. stock futures dip after Wall St hit by higher yields, oil",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
+      "source": "Investing.com News",
+      "publishedAt": 1787121398000,
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WmFwdGVjIFEyIDIwMjYg",
-      "title": "Zaptec Q2 2026 slides: record revenue, orders nearly double",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/zaptec-q2-2026-slides-record-revenue-orders-nearly-double-93CH-4866453",
-      "source": "Investing.com News",
-      "publishedAt": 1787118837000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW1taSByYWlzZXMgSDEg",
-      "title": "Emmi raises H1 sales outlook on broad-based volume growth, margin gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/emmi-raises-h1-sales-outlook-on-broadbased-volume-growth-margin-gains-4866452",
-      "source": "Investing.com News",
-      "publishedAt": 1787118323000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RyYXVtYW5uIHByb2Zp",
-      "title": "Straumann profit misses estimates as legal, M&A costs weigh on earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/straumann-profit-misses-estimates-as-legal-ma-costs-weigh-on-earnings-4866451",
-      "source": "Investing.com News",
-      "publishedAt": 1787118202000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Zaptec posts record Q2 2026 revenue, shares edge up",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zaptec-posts-record-q2-2026-revenue-shares-edge-up-93CH-4866450",
-      "source": "Investing.com News",
-      "publishedAt": 1787118163000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGV1dHNjaGUgUm9oc3Rv",
-      "title": "Deutsche Rohstoff reports revenue rise on higher oil prices",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/deutsche-rohstoff-reports-revenue-rise-on-higher-oil-prices-93CH-4866449",
-      "source": "Investing.com News",
-      "publishedAt": 1787118063000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIFVuaXRy",
-      "title": "China’s Unitree Robotics rallies over 600% in Shanghai public market debut",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-unitree-robotics-rallies-over-600-in-shanghai-public-market-debut-4866448",
-      "source": "Investing.com News",
-      "publishedAt": 1787118060000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhhc29sIHNlZXMgSDEg",
-      "title": "Exasol sees H1 revenue drop on lower non-recurring sales",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exasol-sees-h1-revenue-drop-on-lower-nonrecurring-sales-93CH-4866447",
-      "source": "Investing.com News",
-      "publishedAt": 1787118044000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9jTW9ycmlzIHJhaXNl",
-      "title": "DocMorris raises 2026 guidance after strong first-half growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/docmorris-raises-2026-guidance-after-strong-firsthalf-growth-4866446",
-      "source": "Investing.com News",
-      "publishedAt": 1787117944000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Snlza2UgQmFuayByZXBv",
-      "title": "Jyske Bank reports H1 earnings per share of DKK 39",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/jyske-bank-reports-h1-earnings-per-share-of-dkk-39-93CH-4866445",
-      "source": "Investing.com News",
-      "publishedAt": 1787117558000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -390,21 +439,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEJvbmQg",
-      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787071680000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QSBmaW50ZWNoIGFwcCBi",
       "title": "A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets",
       "summary": "",
@@ -441,36 +475,6 @@
       "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
       "source": "CNBC Markets",
       "publishedAt": 1787069601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SVJTIGNsYXJpZmllcyAm",
-      "title": "IRS clarifies &apos;no tax on overtime&apos; deduction rules. What workers need to know",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/irs-no-tax-on-overtime-deduction-rules-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787068781000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VhIFJheSBwYXJlbnQg",
-      "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787067915000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -552,23 +556,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIDMwLXllYXIgVHJl",
-      "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787033512000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
