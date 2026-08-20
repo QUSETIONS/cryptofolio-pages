@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787225639285,
-  "crawlUpdatedAt": 1787225639285,
+  "updatedAt": 1787230975448,
+  "crawlUpdatedAt": 1787230975448,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,57 +13,121 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-TWl6dWhvIHJlaXRlcmF0",
-      "title": "Mizuho reiterates Cerebras Systems stock rating after product event",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields rebound, wiping out the decline following Bessent&apos;s intervention",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/mizuho-reiterates-cerebras-systems-stock-rating-after-product-event-93CH-4869391",
+      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787230865000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgcHJvcG9z",
+      "title": "Treasury proposes low-cost investment rules for Trump Accounts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/trump-accounts-investment-rules-treasury.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787230828000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbWFydCBoaWtlcyBm",
+      "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787230134000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SHl1bmRhaSZhcG9zO3Mg",
+      "title": "Hyundai&apos;s new flagship vehicle is a large luxury Genesis EV",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787229935000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hlcmUgY29tbWVyY2lh",
+      "title": "Where commercial real estate demand is the highest, according to new data",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787229503000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGV1dHNjaGUgQmFuayBp",
+      "title": "Deutsche Bank initiates Ardagh Metal Packaging stock with Hold rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/deutsche-bank-initiates-ardagh-metal-packaging-stock-with-hold-rating-93CH-4869727",
       "source": "Investing.com News",
-      "publishedAt": 1787225103000,
+      "publishedAt": 1787229425000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
+      "title": "European shares languish at Aug lows as hawkish central banks counter bond rebound",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-languish-at-aug-lows-as-hawkish-central-banks-counter-bond-rebound-4868726",
+      "source": "Investing.com News",
+      "publishedAt": 1787229404000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWl6dWhvIGN1dHMgTG93",
-      "title": "Mizuho cuts Lowe’s stock price target on flat comps, softer outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-lowes-stock-price-target-on-flat-comps-softer-outlook-93CH-4869390",
-      "source": "Investing.com News",
-      "publishedAt": 1787225098000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: KGHM posts strong H1 2026 growth, but EPS misses",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kghm-posts-strong-h1-2026-growth-but-eps-misses-93CH-4869389",
-      "source": "Investing.com News",
-      "publishedAt": 1787225095000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWl6dWhvIHJhaXNlcyBU",
-      "title": "Mizuho raises Target stock price target to $150 on Q2 strength",
+      "id": "Investing.com News-Q2FsbGFuIEpNQiB0byBh",
+      "title": "Callan JMB to acquire Williston Basin oil assets from Reger Oil",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/mizuho-raises-target-stock-price-target-to-150-on-q2-strength-93CH-4869387",
+      "url": "https://www.investing.com/news/company-news/callan-jmb-to-acquire-williston-basin-oil-assets-from-reger-oil-93CH-4869726",
       "source": "Investing.com News",
-      "publishedAt": 1787225086000,
+      "publishedAt": 1787229400000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,46 +137,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiwgY3J5cHRv",
-      "title": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
+      "id": "Investing.com News-RnVzaW9uIEZ1ZWwgc3Vi",
+      "title": "Fusion Fuel subsidiary signs LPG contracts worth $1.4 million",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341",
+      "url": "https://www.investing.com/news/company-news/fusion-fuel-subsidiary-signs-lpg-contracts-worth-14-million-93CH-4869723",
       "source": "Investing.com News",
-      "publishedAt": 1787225079000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley is out with its gold price outlook for 2027",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/morgan-stanley-is-out-with-its-gold-price-outlook-for-2027-4869386",
-      "source": "Investing.com News",
-      "publishedAt": 1787225068000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0YSBiZWNvbWVzIG1h",
-      "title": "Meta becomes major AI customer of Microsoft’s Azure cloud - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/meta-becomes-major-ai-customer-of-microsofts-azure-cloud--report-93CH-4869381",
-      "source": "Investing.com News",
-      "publishedAt": 1787224904000,
+      "publishedAt": 1787229399000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -122,48 +152,153 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T3BwZW5oZWltZXIgcmVp",
-      "title": "Oppenheimer reiterates Outperform on Salesforce stock ahead of earnings",
+      "id": "Investing.com News-SGVscG9ydCBBSSBkZXBs",
+      "title": "Helport AI deploys AI labor for consumer hardware brands",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-outperform-on-salesforce-stock-ahead-of-earnings-93CH-4869376",
+      "url": "https://www.investing.com/news/company-news/helport-ai-deploys-ai-labor-for-consumer-hardware-brands-93CH-4869724",
       "source": "Investing.com News",
-      "publishedAt": 1787224738000,
+      "publishedAt": 1787229399000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R3JlZW4gZ2lhbnQ6IEhv",
-      "title": "Green giant: How Taylor Farms became a top salad supplier before US diarrhea outbreak",
+      "id": "Investing.com News-UHJvZnVzYSBjb252ZXJ0",
+      "title": "Profusa converts $4.6M debt to preferred stock ahead of G3 deal",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/green-giant-how-taylor-farms-became-a-top-salad-supplier-before-us-diarrhea-outbreak-4869166",
+      "url": "https://www.investing.com/news/company-news/profusa-converts-46m-debt-to-preferred-stock-ahead-of-g3-deal-93CH-4869725",
       "source": "Investing.com News",
-      "publishedAt": 1787224730000,
+      "publishedAt": 1787229399000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TFNJIEluZHVzdHJpZXMg",
-      "title": "LSI Industries stock rises 2% on beating Q4 revenue and earnings estimates",
+      "id": "Investing.com News-TWljcm9uIHVudmVpbHMg",
+      "title": "Micron unveils research lab with planned $10B investment",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/lsi-industries-stock-rises-2-on-beating-q4-revenue-and-earnings-estimates-93CH-4869364",
+      "url": "https://www.investing.com/news/company-news/micron-unveils-research-lab-with-planned-10b-investment-93CH-4869722",
       "source": "Investing.com News",
-      "publishedAt": 1787224653000,
+      "publishedAt": 1787229398000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtQUJDIHNh",
+      "title": "Analysis-ABC says intimidation by Trump’s FCC forced programming changes",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/analysisabc-says-intimidation-by-trumps-fcc-forced-programming-changes-4867993",
+      "source": "Investing.com News",
+      "publishedAt": 1787229397000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVub3ZvUnggcmVjZWl2",
+      "title": "RenovoRx receives U.S. patent allowance for cancer device",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/renovorx-receives-us-patent-allowance-for-cancer-device-93CH-4869721",
+      "source": "Investing.com News",
+      "publishedAt": 1787229397000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFpcmQgTWVkaWNhbCBy",
+      "title": "Baird Medical receives Pakistan regulatory approvals for devices",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/baird-medical-receives-pakistan-regulatory-approvals-for-devices-93CH-4869718",
+      "source": "Investing.com News",
+      "publishedAt": 1787229396000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IHdlYWx0aHkgZmFt",
+      "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787229001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
+      "title": "Trump threatens &apos;Economic D-Day&apos; for Iran and ‘tremendous’ consequences for its backers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787228893000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
+      "title": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787227169000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hhdEdQVCBmb3IgVGVl",
+      "title": "ChatGPT for Teens makes vital safety strides, says expert. &apos;The real question is, does any of this work?&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787224517000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -179,36 +314,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbWFydCBoaWtlcyBm",
-      "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787224402000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29tYWxpIHBpcmF0ZSBt",
-      "title": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787224393000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -259,21 +364,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdGhyZWF0ZW5z",
-      "title": "Trump threatens &apos;Economic D-Day&apos; for Iran and ‘tremendous’ consequences for its backers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787218249000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SHVtYW5vaWQgcm9ib3Rz",
       "title": "Humanoid robots&apos; &apos;ChatGPT moment&apos; could be 10 years away, Unitree founder says",
       "summary": "",
@@ -285,23 +375,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qm9uZCB5aWVsZHMgZWRn",
-      "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787216267000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -378,21 +451,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SHl1bmRhaSZhcG9zO3Mg",
-      "title": "Hyundai&apos;s new flagship vehicle is a large luxury Genesis EV",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787195670000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -551,77 +609,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJICZhcG9zO3dp",
-      "title": "OpenAI &apos;will be a public company in 2027&apos; or sooner, CFO Friar tells employees",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787170029000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVzc2VudCBtb3ZlcyB0",
-      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh&apos;s Fed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787169752000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hlcmUgd2Ugc3RhbmQg",
       "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
       "source": "CNBC Markets",
       "publishedAt": 1787165928000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIG9mZmljaWFscyBz",
-      "title": "Fed officials saw need for rate hike if inflation doesn&apos;t cool, minutes show",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787165690000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIHBsYXlzIG1h",
-      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787149512000,
       "lang": "zh-CN",
       "topics": [
         "macro"
