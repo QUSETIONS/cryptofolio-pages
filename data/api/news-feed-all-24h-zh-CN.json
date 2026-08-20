@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787241638511,
-  "crawlUpdatedAt": 1787241638511,
+  "updatedAt": 1787245318900,
+  "crawlUpdatedAt": 1787245318900,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q2FsaWZvcm5pYSBBRyB0",
+      "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require &apos;robust structural remedies&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787244176000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
-      "title": "Oil prices rise 3% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
+      "title": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787241581000,
+      "publishedAt": 1787244083000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -27,6 +42,266 @@
         "UST10Y"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNvIGNlbnRyYWwg",
+      "title": "Mexico central bank signals prolonged pause in rates",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/mexico-central-bank-signals-more-rate-holds-ahead-4870182",
+      "source": "Investing.com News",
+      "publishedAt": 1787243852000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBNdXNhbGVt",
+      "title": "Fed’s Musalem says on CNBC he won’t prejudge rate call view for September FOMC",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-musalem-says-wont-prejudge-rate-call-view-for-september-fomc--cnbc-4870186",
+      "source": "Investing.com News",
+      "publishedAt": 1787243796000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TFNJIEluZHVzdHJpZXMg",
+      "title": "LSI Industries Q4 FY26 slides: 51% revenue surge, margin headwinds loom",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/lsi-industries-q4-fy26-slides-51-revenue-surge-margin-headwinds-loom-93CH-4870238",
+      "source": "Investing.com News",
+      "publishedAt": 1787243766000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Banco Macro beats Q2 2026 EPS forecast as stock slips",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-banco-macro-beats-q2-2026-eps-forecast-as-stock-slips-93CH-4870237",
+      "source": "Investing.com News",
+      "publishedAt": 1787243704000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3hmb3JkIE5hbm9wb3Jl",
+      "title": "Oxford Nanopore CEO receives 49,676 shares under LTIP award",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/oxford-nanopore-ceo-receives-49676-shares-under-ltip-award-93CH-4870235",
+      "source": "Investing.com News",
+      "publishedAt": 1787243556000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBzdG9ja3MgZmFs",
+      "title": "U.S. stocks fall amid short-lived bond rally; Dow also under pressure from Walmart",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-easing-treasury-yields-fed-minutes-in-focus-4868458",
+      "source": "Investing.com News",
+      "publishedAt": 1787243531000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFR3ZW50eSBP",
+      "title": "Why is Twenty One Capital stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-twenty-one-capital-stock-surging-today-93CH-4870234",
+      "source": "Investing.com News",
+      "publishedAt": 1787243438000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hlaW4gYWltcyB0byBJ",
+      "title": "Shein aims to IPO on September 1, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257",
+      "source": "Investing.com News",
+      "publishedAt": 1787243435000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2F0ZWtlZXBpbmcgYm90",
+      "title": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787243401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIENyb3dkU3Ry",
+      "title": "Why is CrowdStrike stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-sliding-today-93CH-4870232",
+      "source": "Investing.com News",
+      "publishedAt": 1787243350000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: LSI Industries beats Q4 estimates, shares fall 13.6% on margin concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lsi-industries-beats-q4-estimates-shares-fall-136-on-margin-concerns-93CH-4870231",
+      "source": "Investing.com News",
+      "publishedAt": 1787243143000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBzcG9ydHMgZmFu",
+      "title": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787242501000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzc2VudCBzYXlzIFUu",
+      "title": "Bessent says U.S. likely won&apos;t restart large-scale Iran combat as it steps up economic pressure",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787242464000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBzdXJnZXMg",
+      "title": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787242073000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IE1pY3JvbiZhcG9z",
+      "title": "How Micron&apos;s $50 billion Boise buildout is reshaping its hometown",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787242044000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXJjdG9zIGFncmVlcyB0",
+      "title": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787241740000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IG91ciBjeWJlciBz",
+      "title": "Why our cyber stocks are dropping and our favorite memory play is rallying",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/why-our-cyber-stocks-are-dropping-and-our-favorite-memory-play-is-rallying.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787241463000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -45,36 +320,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVzc2VudCBzYXlzIFUu",
-      "title": "Bessent says U.S. likely won&apos;t restart large-scale Iran combat as it steps up economic pressure",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787241287000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjaGFuZ2UgQmFuayBk",
-      "title": "Exchange Bank declares $1.35 quarterly dividend, CEO to retire",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/exchange-bank-declares-135-quarterly-dividend-ceo-to-retire-93CH-4870192",
-      "source": "Investing.com News",
-      "publishedAt": 1787241156000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2FsbWFydCBoaWtlcyBm",
       "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
       "summary": "",
@@ -90,156 +335,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2V4IHN0b2NrIGhpdHMg",
-      "title": "Wex stock hits 52-week high at 199.71 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/wex-stock-hits-52week-high-at-19971-usd-93CH-4870189",
-      "source": "Investing.com News",
-      "publishedAt": 1787240948000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVk4oCZcyBNdXNhbGVt",
-      "title": "Fed’s Musalem keeps options open for September meeting",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/feds-musalem-keeps-options-open-for-september-meeting-4870188",
-      "source": "Investing.com News",
-      "publishedAt": 1787240942000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgVHJlYXN1cnkgU2Vj",
-      "title": "US Treasury Secretary Bessent to hold press conference on Iran on Monday",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-treasury-secretary-bessent-to-hold-press-conference-on-iranon-monday-4870187",
-      "source": "Investing.com News",
-      "publishedAt": 1787240929000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2FsbC1idXlpbmcgYm9u",
       "title": "Call-buying bonanza around Trump&apos;s Hyperliquid comments includes some eyebrow-raising trades",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
       "source": "CNBC Markets",
       "publishedAt": 1787240914000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVk4oCZcyBNdXNhbGVt",
-      "title": "Fed’s Musalem says won’t prejudge rate call view for September FOMC - CNBC",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/feds-musalem-says-wont-prejudge-rate-call-view-for-september-fomc--cnbc-4870186",
-      "source": "Investing.com News",
-      "publishedAt": 1787240909000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QVNQIElzb3RvcGVzIGF0",
-      "title": "ASP Isotopes at emerging growth conference: push to commercialize key materials",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/asp-isotopes-at-emerging-growth-conference-push-to-commercialize-key-materials-93CH-4870184",
-      "source": "Investing.com News",
-      "publishedAt": 1787240704000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9uZCByZWxpZWYgZWJi",
-      "title": "Bond relief ebbs, stocks fall as investors question Treasury’s rescue efforts",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bonds-steady-after-us-treasury-comes-to-the-rescue-4868552",
-      "source": "Investing.com News",
-      "publishedAt": 1787240614000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVlcmUgcmFpc2VzIDIw",
-      "title": "Deere raises 2026 profit view as AI construction boom lifts quarterly income, shares jump",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/deere-raises-lower-end-of-2026-net-income-forecast-range-4869172",
-      "source": "Investing.com News",
-      "publishedAt": 1787240595000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLVNlbmF0",
-      "title": "Exclusive-Senate Democrats question USDA about data errors, staff losses",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/exclusivesenate-democrats-question-usda-about-data-errors-staff-losses-4869135",
-      "source": "Investing.com News",
-      "publishedAt": 1787240574000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3luYWlyZ2VuIHRvIGhv",
-      "title": "Synairgen to hold shareholder vote on voluntary liquidation",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/synairgen-to-hold-shareholder-vote-on-voluntary-liquidation-93CH-4870183",
-      "source": "Investing.com News",
-      "publishedAt": 1787240432000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -266,57 +367,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2FsaWZvcm5pYSBBRyB0",
-      "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require &apos;robust structural remedies&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787239924000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXJjdG9zIGFncmVlcyB0",
-      "title": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787238508000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hlcmUgY29tbWVyY2lh",
       "title": "Where commercial real estate demand is the highest, according to new data",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
       "source": "CNBC Markets",
       "publishedAt": 1787235660000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IE1pY3JvbiZhcG9z",
-      "title": "How Micron&apos;s $50 billion Boise buildout is reshaping its hometown",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787233821000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -347,38 +403,6 @@
       "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
       "source": "CNBC Markets",
       "publishedAt": 1787232899000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBzdXJnZXMg",
-      "title": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787231190000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Thursday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787231170000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -480,21 +504,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SG9uZyBLb25n4oCZcyBJ",
-      "title": "Hong Kong’s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/hong-kong-ipo-hkex-bonnie-chan-investors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787213319000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2NhbGluZyBk",
       "title": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness",
       "summary": "",
@@ -519,21 +528,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgaXMgZGVmeWlu",
-      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787193554000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "positive",
