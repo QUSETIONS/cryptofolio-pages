@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787333748559,
-  "crawlUpdatedAt": 1787333748559,
+  "updatedAt": 1787338075311,
+  "crawlUpdatedAt": 1787338075311,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,286 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VGhpcyBzbGVlcHkgc2Vj",
-      "title": "This sleepy sector could offer big returns, says Mike Khouw",
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBh",
+      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
+      "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787333500000,
+      "publishedAt": 1787337785000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgR09QIHdhcm5zIGRh",
+      "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787337556000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2VydmljZSBzZWN0",
+      "title": "US service sector fuels acceleration in business activity, S&P Global says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/us-service-sector-fuels-acceleration-in-business-activity-sp-global-says-4871819",
+      "source": "Investing.com News",
+      "publishedAt": 1787337398000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2VuIEdyaWZmaW4gc2F5",
+      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787337268000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFuIHN0YXRlIHBv",
+      "title": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/german-state-politician-calls-for-eu-tariffs-on-chinese-hybrid-cars-letter-shows-4872022",
+      "source": "Investing.com News",
+      "publishedAt": 1787337112000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHNvbWUgb2YgQW1l",
+      "title": "Why some of America&apos;s biggest brands are losing ground in China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787337101000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgc2hvcHBlcnMgdGln",
+      "title": "US shoppers tighten budgets, but still find room for treats and splurges",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-shoppers-tighten-budgets-but-still-find-room-for-treats-and-splurges-4871230",
+      "source": "Investing.com News",
+      "publishedAt": 1787337094000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FycmlvciBNZXQgQ29h",
+      "title": "Warrior Met Coal CAO Brian Chopin sells $336k in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/warrior-met-coal-cao-brian-chopin-sells-336k-in-common-stock-93CH-4872031",
+      "source": "Investing.com News",
+      "publishedAt": 1787337068000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2VuIEdyaWZmaW7igJlz",
+      "title": "Ken Griffin’s Citadel sheds over 80% of Situational Awareness’ bets",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ken-griffins-citadel-sheds-over-4-billion-of-situational-awareness-bets-4871963",
+      "source": "Investing.com News",
+      "publishedAt": 1787336685000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGFyaWZmIGRl",
+      "title": "Trump tariff deadline looms as Canada says it&apos;s working to resolve &apos;trade issues&apos; with U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787336623000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBz",
+      "title": "Raymond James sees token pricing gap widen in August 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/raymond-james-sees-token-pricing-gap-widen-in-august-2026-93CH-4872027",
+      "source": "Investing.com News",
+      "publishedAt": 1787336500000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVvcGxlcyBCYW5jb3Jw",
+      "title": "Peoples Bancorp of North Carolina declares $0.21 quarterly dividend",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/peoples-bancorp-of-north-carolina-declares-021-quarterly-dividend-93CH-4872026",
+      "source": "Investing.com News",
+      "publishedAt": 1787336194000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWdpbGVudCBUZWNobm9s",
+      "title": "Agilent Technologies stock hits 52-week high at 160.36 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/agilent-technologies-stock-hits-52week-high-at-16036-usd-93CH-4872025",
+      "source": "Investing.com News",
+      "publishedAt": 1787336079000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBtaWxpdGFyeSBz",
+      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787335901000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FuYWRh4oCZcyBCaWcg",
+      "title": "Canada’s Big Six banks head into Q3 2026 earnings on four-quarter beat streaks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-big-six-banks-head-into-q3-2026-earnings-on-fourquarter-beat-streaks-93CH-4872021",
+      "source": "Investing.com News",
+      "publishedAt": 1787335879000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3Jvd2RTdHJpa2UgdnMu",
+      "title": "CrowdStrike vs. Palo Alto Networks: valuation, growth, and profitability compared",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/crowdstrike-vs-palo-alto-networks-valuation-growth-and-profitability-compared-93CH-4872020",
+      "source": "Investing.com News",
+      "publishedAt": 1787335748000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzc2VudCZhcG9zO3Mg",
+      "title": "Bessent&apos;s bond gambit aimed at calming markets is instead stirring inflation worries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787334670000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpIHRyYWRlcnMg",
+      "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787334205000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBsb29r",
+      "title": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787333893000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -42,175 +316,6 @@
         "UST10Y"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBtaWxpdGFyeSBz",
-      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787332464000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLVVTIHBs",
-      "title": "Exclusive-US plans $725 million payment towards its large UN debt",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/exclusiveus-plans-725-million-payment-towards-its-large-un-debt-4871986",
-      "source": "Investing.com News",
-      "publishedAt": 1787332014000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-THVsYSwgVHJ1bXAgZGlz",
-      "title": "Lula, Trump discuss tariffs in phone call, Brazil says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/lula-trump-discuss-tariffs-in-phone-call-brazil-says-4871985",
-      "source": "Investing.com News",
-      "publishedAt": 1787331999000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgcmlz",
-      "title": "Wall Street rises as materials and crypto stocks offset continued bond sell-off",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
-      "source": "Investing.com News",
-      "publishedAt": 1787331885000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVkaWZhc3QgZGlyZWN0",
-      "title": "Medifast director Parsa Kiai acquires $842,698 in company shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/medifast-director-parsa-kiai-acquires-842698-in-company-shares-93CH-4871983",
-      "source": "Investing.com News",
-      "publishedAt": 1787331676000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FidGVjIHByZXNpZGVu",
-      "title": "Wabtec president Michael Fetsko sells $952,961 of WAB shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/wabtec-president-michael-fetsko-sells-952961-of-wab-shares-93CH-4871982",
-      "source": "Investing.com News",
-      "publishedAt": 1787331658000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmlyZW8gR3Jvd3RoIGNv",
-      "title": "Vireo Growth completes acquisition of C21 Investments",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vireo-growth-completes-acquisition-of-c21-investments-93CH-4871980",
-      "source": "Investing.com News",
-      "publishedAt": 1787331402000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFyY2xheXMgaW5jcmVh",
-      "title": "Barclays increases stake in Central Asia Metals to 5.57%",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/barclays-increases-stake-in-central-asia-metals-to-557-93CH-4871977",
-      "source": "Investing.com News",
-      "publishedAt": 1787331160000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSBmdW5k",
-      "title": "Guggenheim fund shares hit 17-year low after short-seller report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/guggenheim-fund-shares-hit-17year-low-after-shortseller-report-93CH-4871976",
-      "source": "Investing.com News",
-      "publishedAt": 1787330993000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxsaWFueiBDb21tZXJj",
-      "title": "Allianz Commercial names Emma Woolley to specialty role",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/allianz-commercial-names-emma-woolley-to-specialty-role-93CH-4871974",
-      "source": "Investing.com News",
-      "publishedAt": 1787330933000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgVHJlYXN1cnkgeWll",
-      "title": "US Treasury yields rise on strong services sector data",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-treasury-yields-rise-on-strong-services-sector-data-93CH-4871973",
-      "source": "Investing.com News",
-      "publishedAt": 1787330926000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -276,36 +381,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-S2VuIEdyaWZmaW4gc2F5",
-      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787329119000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IHNvbWUgb2YgQW1l",
-      "title": "Why some of America&apos;s biggest brands are losing ground in China",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787328481000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QnJvYWRjb20gZGVidCBk",
       "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
       "summary": "",
@@ -342,36 +417,6 @@
       "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
       "source": "CNBC Markets",
       "publishedAt": 1787325031000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGFyaWZmIGRl",
-      "title": "Trump tariff deadline looms as U.S. and Canada say final trade deal is near",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787324027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-NCBtZW1vcnkgc3RvY2tz",
-      "title": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/4-memory-stocks-are-darlings-of-the-ai-boom-how-they-differ-and-why-we-own-micron.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787323442000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -458,23 +503,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVzc2VudCZhcG9zO3Mg",
-      "title": "Bessent&apos;s efforts in the Treasury market so far haven&apos;t worked. Here&apos;s what else he can try",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787316184000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Tm8gbW9yZSBkb29tIHNj",
       "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
       "summary": "",
@@ -517,21 +545,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2Ftc3VuZyBwbGFucyB1",
-      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787303298000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -611,21 +624,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWR1Y2F0aW9uIERlcGFy",
-      "title": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787253184000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
