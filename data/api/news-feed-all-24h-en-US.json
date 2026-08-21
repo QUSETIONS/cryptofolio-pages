@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787303350818,
-  "crawlUpdatedAt": 1787303350818,
+  "updatedAt": 1787306544005,
+  "crawlUpdatedAt": 1787306544005,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,15 +13,15 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Hovnanian stock rating on August order uptick",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: cBrain returns to growth in H1 2026 as shares jump",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-hovnanian-stock-rating-on-august-order-uptick-93CH-4871084",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cbrain-returns-to-growth-in-h1-2026-as-shares-jump-93CH-4871168",
       "source": "Investing.com News",
-      "publishedAt": 1787302729000,
+      "publishedAt": 1787305509000,
       "lang": "en-US",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
@@ -29,11 +29,26 @@
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Better Collective posts solid Q2 2026 growth",
+      "title": "Earnings call transcript: Modulight posts stronger margins in Q2 2026 as revenue falls",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-better-collective-posts-solid-q2-2026-growth-93CH-4871083",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-modulight-posts-stronger-margins-in-q2-2026-as-revenue-falls-93CH-4871152",
       "source": "Investing.com News",
-      "publishedAt": 1787302705000,
+      "publishedAt": 1787305302000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHJhaXNlcyBVSyBl",
+      "title": "UBS raises UK earnings growth forecast, sees supportive backdrop for equities",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ubs-raises-uk-earnings-growth-forecast-sees-supportive-backdrop-for-equities-4871151",
+      "source": "Investing.com News",
+      "publishedAt": 1787305047000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,18 +58,172 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIHByaWNlcyBvbiB0",
-      "title": "Oil prices on track for second straight weekly rise amid Mideast tensions",
+      "id": "CNBC Markets-TG9uZ2VyLWRhdGVkIFRy",
+      "title": "Longer-dated Treasury yields rise as Bessent&apos;s bond buyback rally fizzles out",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-from-1mth-high-set-for-weekly-gain-on-usiran-tensions-4870734",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787305006000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIGxhbmd1aXNo",
+      "title": "Dollar languishes at 3-month lows as sovereign debt doubts overshadow buybacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-set-for-weekly-gains-dollar-near-3mth-lows-despite-us-treasury-move-4870812",
       "source": "Investing.com News",
-      "publishedAt": 1787302669000,
+      "publishedAt": 1787304886000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWluZyBZYW5nIHVwZGF0",
+      "title": "Ming Yang updates on Uniwatt Technology acquisition progress",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ming-yang-updates-on-uniwatt-technology-acquisition-progress-93CH-4871147",
+      "source": "Investing.com News",
+      "publishedAt": 1787304761000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2xvYmFsIGVxdWl0eSBm",
+      "title": "Global equity fund inflows hit three-week high before late selloff",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/global-equity-fund-inflows-hit-threeweek-high-before-late-selloff-4871146",
+      "source": "Investing.com News",
+      "publishedAt": 1787304716000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmVzZSBodW1hbm9p",
+      "title": "Chinese humanoid robots&apos; biggest obstacle: Humans are still (mostly) better",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787304655000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9zcyBTdG9yZXMganVt",
+      "title": "Ross Stores jumps after raising full-year profit guidance",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ross-stores-jumps-after-raising-fullyear-profit-guidance-4871144",
+      "source": "Investing.com News",
+      "publishedAt": 1787304649000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SHVudGluZyBIMSAyMDI2",
+      "title": "Hunting H1 2026 slides: Subsea surge offsets KOC delay, shares fall 13%",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/hunting-h1-2026-slides-subsea-surge-offsets-koc-delay-shares-fall-13-93CH-4871139",
+      "source": "Investing.com News",
+      "publishedAt": 1787304522000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-aVNoYXJlcyBmdW5kIHNo",
+      "title": "iShares fund shifts to monthly dividend distribution",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ishares-fund-shifts-to-monthly-dividend-distribution-93CH-4871138",
+      "source": "Investing.com News",
+      "publishedAt": 1787304519000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEZsb3dlcnMg",
+      "title": "Why is Flowers Foods stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-flowers-foods-stock-sliding-today-93CH-4871137",
+      "source": "Investing.com News",
+      "publishedAt": 1787304306000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBvbiB0cmFj",
+      "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787304031000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2Ftc3VuZyBwbGFucyB1",
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787303298000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -73,160 +242,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SHl1bmRhaSBNb3RvcuKA",
-      "title": "Hyundai Motor’s South Korean union stages first full strike in a decade over pay",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hyundai-motors-union-stages-first-full-strike-in-10-years-over-wage-talks-4870780",
-      "source": "Investing.com News",
-      "publishedAt": 1787302481000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIENUUyBFdmVu",
-      "title": "Why is CTS Eventim stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-cts-eventim-stock-sliding-today-93CH-4871082",
-      "source": "Investing.com News",
-      "publishedAt": 1787302419000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
-      "title": "Citizens reiterates Bicara Therapeutics stock rating on trial progress",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-bicara-therapeutics-stock-rating-on-trial-progress-93CH-4871081",
-      "source": "Investing.com News",
-      "publishedAt": 1787302385000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmVzZSBodW1hbm9p",
-      "title": "Chinese humanoid robots&apos; biggest obstacle: humans are still (mostly) better",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787302373000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Jumpgate posts Q2 2026 revenue growth on Star Trek success",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jumpgate-posts-q2-2026-revenue-growth-on-star-trek-success-93CH-4871080",
-      "source": "Investing.com News",
-      "publishedAt": 1787302305000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SHlkcm9nZW5Qcm8gUTIg",
-      "title": "HydrogenPro Q2 2026 slides: tech gains, cost cuts amid market caution",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/hydrogenpro-q2-2026-slides-tech-gains-cost-cuts-amid-market-caution-93CH-4871079",
-      "source": "Investing.com News",
-      "publishedAt": 1787302293000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJlbml0IEgxIDIwMjYg",
-      "title": "Arenit H1 2026 slides: sales surge 54%, leverage turns negative",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/arenit-h1-2026-slides-sales-surge-54-leverage-turns-negative-93CH-4871078",
-      "source": "Investing.com News",
-      "publishedAt": 1787302129000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXMgZmlzY2FsIGRvbWlu",
-      "title": "Is fiscal dominance becoming markets’ biggest risk? Barclays weighs in",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/is-fiscal-dominance-becoming-markets-biggest-risk-barclays-weighs-in-4871077",
-      "source": "Investing.com News",
-      "publishedAt": 1787302074000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TG9uZ2VyLWRhdGVkIFRy",
-      "title": "Longer-dated Treasury yields rise as Bessent&apos;s bond buyback rally fizzles out",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787301394000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBvbiB0cmFj",
-      "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787300898000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7QSBkZWxpY2F0",
       "title": "&apos;A delicate dance&apos;: JD Vance says economic pressure is the best way to achieve Washington&apos;s objectives in Iran",
       "summary": "",
@@ -238,6 +253,24 @@
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29sZG1hbiBzYXlzIGhl",
+      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787290048000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU",
+        "SPX"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -347,6 +380,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-TWljcm9uIENFTzogQUkg",
+      "title": "Micron CEO: AI has &apos;totally changed&apos; the equation for the boom-and-bust memory industry",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787266296000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-SHl1bmRhaSBjb25zaWRl",
       "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
       "summary": "",
@@ -379,44 +427,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVzc2VudCZhcG9zO3Mg",
-      "title": "Bessent&apos;s efforts in the Treasury market so far haven&apos;t worked. Here&apos;s what else he can try",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787260394000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIExvcyBBbmdlbGVz",
       "title": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
       "source": "CNBC Markets",
       "publishedAt": 1787257701000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbWFydCBzdG9jayB0",
-      "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787256109000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -530,21 +546,6 @@
         "BTC"
       ],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IE1pY3JvbiZhcG9z",
-      "title": "How Micron&apos;s $50 billion Boise buildout is reshaping its hometown",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787242044000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
