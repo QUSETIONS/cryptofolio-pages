@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787324682541,
-  "crawlUpdatedAt": 1787324682541,
-  "crawlCount": 40,
+  "updatedAt": 1787327994736,
+  "crawlUpdatedAt": 1787327994736,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,89 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-S2VuIEdyaWZmaW4gc2F5",
-      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+      "id": "CNBC Markets-VHJ1bXAgdG8gYWxsb3cg",
+      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787324479000,
+      "publishedAt": 1787327797000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBvbiB0cmFj",
+      "title": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787327387000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIEluZGlhbiBCYW5r",
+      "title": "Top Indian Banking Pick: State Bank of India Leads on Deposits",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/top-indian-banking-pick-state-bank-of-india-leads-on-deposits-93CH-4871916",
+      "source": "Investing.com News",
+      "publishedAt": 1787327384000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVhbSBJbmMuIGRpcmVj",
+      "title": "Team Inc. director Anthony Horton buys $45,420 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/team-inc-director-anthony-horton-buys-45420-in-company-stock-93CH-4871913",
+      "source": "Investing.com News",
+      "publishedAt": 1787327172000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3VnZ2VuaGVpbSBmdW5k",
+      "title": "Guggenheim fund hits 17-year low after short-seller claims",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/guggenheim-fund-hits-17year-low-after-shortseller-claims-4871911",
+      "source": "Investing.com News",
+      "publishedAt": 1787326998000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWlyYnVzIGJhY2tzIGRv",
+      "title": "Airbus backs down on return-to-office after protests, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/airbus-backs-down-on-returntooffice-after-protests-sources-say-4871098",
+      "source": "Investing.com News",
+      "publishedAt": 1787326970000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +105,132 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgdG8gYWxsb3cg",
-      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "id": "Investing.com News-Q2hpbmEgY2hpcG1ha2Vy",
+      "title": "China chipmaker YMTC files for $4.9 billion IPO",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+      "url": "https://www.investing.com/news/stock-market-news/china-chipmaker-ymtc-files-for-49-billion-ipo-4871910",
+      "source": "Investing.com News",
+      "publishedAt": 1787326884000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmlkY2/igJlzIFBpbmV3",
+      "title": "Bidco’s Pinewood.AI takeover support drops to 46.72%",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/bidcos-pinewoodai-takeover-support-drops-to-4672-93CH-4871909",
+      "source": "Investing.com News",
+      "publishedAt": 1787326720000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJ0aWZpY2lhbCBpbnRl",
+      "title": "Artificial intelligence could push up inflation - SNB’s Tschudin says",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/artificial-intelligence-could-push-up-inflation--snbs-tschudin-says-4871908",
+      "source": "Investing.com News",
+      "publishedAt": 1787326691000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gaGlyaW5n",
+      "title": "JPMorgan hiring Bank of America’s David Fishman as head of technology M&A, memo says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-hiring-bank-of-americas-david-fishman-as-head-of-technology-ma-memo-says-4871897",
+      "source": "Investing.com News",
+      "publishedAt": 1787326625000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2l0YWRlbCBzaGVkcyBv",
+      "title": "Citadel sheds over 80% of aggregate risk from Situational Awareness portfolio",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/citadel-sheds-over-80-of-aggregate-risk-from-situational-awareness-portfolio-4871907",
+      "source": "Investing.com News",
+      "publishedAt": 1787326601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UG9sYW5kIHN0b2NrcyBo",
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.51%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-051-4871906",
+      "source": "Investing.com News",
+      "publishedAt": 1787326503000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2VuIEdyaWZmaW4gc2F5",
+      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787324336000,
+      "publishedAt": 1787325427000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQmYXBv",
+      "title": "Wall Street&apos;s existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787325326000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdGFw",
+      "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787325031000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,194 +255,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9zdG9uIEJlZXIgc3Rv",
-      "title": "Boston Beer stock falls as CFO Reynoso to depart",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/boston-beer-stock-falls-as-cfo-reynoso-to-depart-93CH-4871871",
-      "source": "Investing.com News",
-      "publishedAt": 1787323945000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JlZWNlIHN0b2NrcyBo",
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.34%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-134-4871870",
-      "source": "Investing.com News",
-      "publishedAt": 1787323805000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIENsZXZlbGFu",
-      "title": "Why is Cleveland-Cliffs stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-clevelandcliffs-stock-surging-today-93CH-4871869",
-      "source": "Investing.com News",
-      "publishedAt": 1787323765000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWVyY2sgc3RvY2sgYW5h",
-      "title": "Merck stock analysis: great pipeline at a stretched valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/merck-stock-analysis-great-pipeline-at-a-stretched-valuation-93CH-4871868",
-      "source": "Investing.com News",
-      "publishedAt": 1787323666000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: EnWave’s Q3 2026 revenue rises as losses narrow",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-enwaves-q3-2026-revenue-rises-as-losses-narrow-93CH-4871867",
-      "source": "Investing.com News",
-      "publishedAt": 1787323549000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-NCBtZW1vcnkgc3RvY2tz",
       "title": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/21/4-memory-stocks-are-darlings-of-the-ai-boom-how-they-differ-and-why-we-own-micron.html",
       "source": "CNBC Markets",
       "publishedAt": 1787323442000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUsgZWNvbm9teSBoYW5k",
-      "title": "UK economy hands Burnham surprise boost before first budget",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/uk-economy-hands-burnham-surprise-boost-before-first-budget-4871859",
-      "source": "Investing.com News",
-      "publishedAt": 1787323350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-REEgRGF2aWRzb24gY3V0",
-      "title": "DA Davidson cuts Advance Auto Parts stock price target on comp miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-advance-auto-parts-stock-price-target-on-comp-miss-93CH-4871864",
-      "source": "Investing.com News",
-      "publishedAt": 1787323158000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-REEgRGF2aWRzb24gY3V0",
-      "title": "DA Davidson cuts Rockwell Automation price target on valuation",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-rockwell-automation-price-target-on-valuation-93CH-4871862",
-      "source": "Investing.com News",
-      "publishedAt": 1787323157000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RC5BLiBEYXZpZHNvbiBy",
-      "title": "D.A. Davidson reiterates Buy on Box stock ahead of earnings",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-on-box-stock-ahead-of-earnings-93CH-4871863",
-      "source": "Investing.com News",
-      "publishedAt": 1787323157000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmF0aW9ud2lkZSBCdWls",
-      "title": "Nationwide Building Society admits €40m covered bonds to LSE",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nationwide-building-society-admits-40m-covered-bonds-to-lse-93CH-4871860",
-      "source": "Investing.com News",
-      "publishedAt": 1787323104000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBvbiB0cmFj",
-      "title": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787322728000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdGFw",
-      "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787321175000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -353,21 +368,6 @@
       "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html",
       "source": "CNBC Markets",
       "publishedAt": 1787317901000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FsbCBTdHJlZXQmYXBv",
-      "title": "Wall Street&apos;s existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787317459000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -606,21 +606,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgZGF0YSBjZW50ZXIg",
-      "title": "AI data center outrage is showing up everywhere from ads to elections",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787241372000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
