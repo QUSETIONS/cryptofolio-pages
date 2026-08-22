@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787437775478,
-  "crawlUpdatedAt": 1787437775478,
-  "crawlCount": 29,
+  "updatedAt": 1787439222036,
+  "crawlUpdatedAt": 1787439222036,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-R2VybWFueeKAmXMgTWVy",
+      "title": "Germany’s Merz to press cabinet for faster pro-growth reforms",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393",
+      "source": "Investing.com News",
+      "publishedAt": 1787436751000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -201,21 +216,6 @@
       "url": "https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382",
       "source": "Investing.com News",
       "publishedAt": 1787424187000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBjb25kZW1ucyBV",
-      "title": "Iran condemns US plans to announce new sanctions",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
-      "source": "Investing.com News",
-      "publishedAt": 1787419122000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -436,21 +436,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gYWxsb3cg",
-      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787351717000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
