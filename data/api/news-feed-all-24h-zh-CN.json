@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787405837149,
-  "crawlUpdatedAt": 1787405837149,
-  "crawlCount": 37,
+  "updatedAt": 1787408926117,
+  "crawlUpdatedAt": 1787408926117,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VS5TLi1DYW5hZGEgdHJh",
+      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787407068000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q1RBIGVxdWl0eSBwb3Np",
+      "title": "CTA equity positioning back to pre-Iran levels: BofA",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/cta-equity-positioning-back-to-preiran-levels-bofa-4872364",
+      "source": "Investing.com News",
+      "publishedAt": 1787406476000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VGhlIGJpZ2dlc3QgVS5T",
       "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
@@ -252,21 +282,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhlc2UgMyBBSSBzdG9j",
-      "title": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
-      "source": "Investing.com News",
-      "publishedAt": 1787396473000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
