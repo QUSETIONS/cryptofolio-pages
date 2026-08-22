@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787381539354,
-  "crawlUpdatedAt": 1787381539354,
+  "updatedAt": 1787384250196,
+  "crawlUpdatedAt": 1787384250196,
   "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VmF0aWNhbiB0byBidWls",
+      "title": "Vatican to build €100 million renewable energy plant, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/vatican-to-build-100-million-renewable-energy-plant-sources-say-4872308",
+      "source": "Investing.com News",
+      "publishedAt": 1787382757000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBSU0kgaGl0",
+      "title": "Bitcoin RSI hits 87 with MFI maxed at 100: Hourly levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "source": "Investing.com News",
+      "publishedAt": 1787382144000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBqdWRnZSBzdHJp",
+      "title": "U.S. judge strikes down immigrant visa suspension covering 75 countries",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-judge-strikes-down-immigrant-visa-suspension-covering-75-countries-4872307",
+      "source": "Investing.com News",
+      "publishedAt": 1787381790000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Q2hpbmHigJlzIHJvYm90",
       "title": "China’s robot games evolve from science fair to strategic showcase",
@@ -124,51 +171,6 @@
       "url": "https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296",
       "source": "Investing.com News",
       "publishedAt": 1787372129000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW5pdmVyc2FsIHNhZmV0",
-      "title": "Universal safety products: Director Ault buys $183,344 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/universal-safety-products-director-ault-buys-183344-in-stock-93CH-4872295",
-      "source": "Investing.com News",
-      "publishedAt": 1787369460000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGV4YXMgUm9hZGhvdXNl",
-      "title": "Texas Roadhouse CEO Gerald Morgan sells $3.03m in TXRH stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/texas-roadhouse-ceo-gerald-morgan-sells-303m-in-txrh-stock-93CH-4872294",
-      "source": "Investing.com News",
-      "publishedAt": 1787369456000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBJcmFu",
-      "title": "Trump says Iran not ready to make the ’right deal’",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246",
-      "source": "Investing.com News",
-      "publishedAt": 1787369427000,
       "lang": "zh-CN",
       "topics": [
         "macro"
