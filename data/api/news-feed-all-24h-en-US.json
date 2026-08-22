@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787412498367,
-  "crawlUpdatedAt": 1787412498367,
+  "updatedAt": 1787413861120,
+  "crawlUpdatedAt": 1787413861120,
   "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,22 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-UmlzaW5nIHlpZWxkcyBy",
+      "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787411334000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-VS5TLi1DYW5hZGEgdHJh",
       "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
@@ -463,21 +479,6 @@
       "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
       "source": "CNBC Markets",
       "publishedAt": 1787340588000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW4gb3Zlcmxvb2tlZCBB",
-      "title": "An overlooked AI winner names a new CFO — plus, Nvidia&apos;s key earnings loom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787338505000,
       "lang": "en-US",
       "topics": [
         "macro"
