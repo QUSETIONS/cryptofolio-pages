@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787410392624,
-  "crawlUpdatedAt": 1787410392624,
-  "crawlCount": 38,
+  "updatedAt": 1787412498367,
+  "crawlUpdatedAt": 1787412498367,
+  "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VS5TLi1DYW5hZGEgdHJh",
+      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787410412000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiBsZXRzIElyYXFp",
       "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VS5TLi1DYW5hZGEgdHJh",
-      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "id": "CNBC Markets-MzgteWVhci1vbGQgcnVu",
+      "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It&apos;s &apos;like a circus or a magic act&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787407068000,
+      "publishedAt": 1787407201000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -457,21 +472,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TW9zdCBBbWVyaWNhbnMg",
-      "title": "Most Americans aren&apos;t anti-vaccine. They&apos;re uncertain — and that&apos;s a growing public health challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787339696000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW4gb3Zlcmxvb2tlZCBB",
       "title": "An overlooked AI winner names a new CFO — plus, Nvidia&apos;s key earnings loom",
       "summary": "",
@@ -576,21 +576,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdGFw",
-      "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787325031000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
