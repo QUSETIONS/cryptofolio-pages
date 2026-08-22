@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787394689803,
-  "crawlUpdatedAt": 1787394689803,
-  "crawlCount": 35,
+  "updatedAt": 1787398033194,
+  "crawlUpdatedAt": 1787398033194,
+  "crawlCount": 36,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QWhlYWQgb2YgdG91Z2gg",
+      "title": "Ahead of tough new U.S. sanctions, Iran criticizes &apos;extraterritorial sovereignty&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787394863000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJhemUgQ0JPIEFzdGhh",
+      "title": "Braze CBO Astha Malik sells $464,910 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/braze-cbo-astha-malik-sells-464910-in-stock-93CH-4872327",
+      "source": "Investing.com News",
+      "publishedAt": 1787393789000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBob2xkcyBh",
       "title": "Bitcoin holds above $77,000 after Treasury-fuelled short squeeze",
@@ -152,21 +182,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Rm9zc2lsIGdyb3VwIGRp",
-      "title": "Fossil group director Pamela Edwards buys $40,220 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/fossil-group-director-pamela-edwards-buys-40220-in-stock-93CH-4872316",
-      "source": "Investing.com News",
-      "publishedAt": 1787387467000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2l4IGludmVzdG9ycyBy",
       "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
       "summary": "",
@@ -272,6 +287,23 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG9uZ2VyLWRhdGVkIFRy",
+      "title": "Longer-dated Treasury yields rise as Bessent&apos;s bond buyback rally fizzles out",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787342714000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -527,21 +559,6 @@
       "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
       "source": "CNBC Markets",
       "publishedAt": 1787314274000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IFlvcmsgdW5zZWF0",
-      "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787308567000,
       "lang": "zh-CN",
       "topics": [
         "macro"
