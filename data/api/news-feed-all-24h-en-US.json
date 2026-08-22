@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787419624692,
-  "crawlUpdatedAt": 1787419624692,
+  "updatedAt": 1787421054711,
+  "crawlUpdatedAt": 1787421054711,
   "crawlCount": 35,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-VHJ1bXAgcmVzaHVmZmxl",
+      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787420033000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBjb25kZW1ucyBV",
+      "title": "Iran condemns US plans to announce new sanctions",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
+      "source": "Investing.com News",
+      "publishedAt": 1787419122000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-V2lsbCBBcHBsZeKAmXMg",
       "title": "Will Apple’s risk appetite change under John Ternus?",
@@ -131,6 +161,24 @@
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlyYm5iJmFwb3M7cyBu",
+      "title": "Airbnb&apos;s new fee change frustrates hosts—what to know before renting out your home",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787407201000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BNB"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -285,21 +333,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgaGl0cyBDYW5hZGlh",
-      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
-      "source": "Investing.com News",
-      "publishedAt": 1787399323000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBh",
       "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
       "summary": "",
@@ -405,21 +438,6 @@
         "XAU"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZXJuYXRpb25hbCBz",
-      "title": "International student enrollment falls amid tighter U.S. visa policies, reports show",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787343387000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -529,23 +547,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIHRyYWRlcnMg",
-      "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787334205000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
