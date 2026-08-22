@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787426864951,
-  "crawlUpdatedAt": 1787426864951,
-  "crawlCount": 32,
+  "updatedAt": 1787428200303,
+  "crawlUpdatedAt": 1787428200303,
+  "crawlCount": 31,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-TnZpZGlhIGN1c3RvbWVy",
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
+      "source": "Investing.com News",
+      "publishedAt": 1787426673000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UGFyYW1vdW50IGFuZCBD",
       "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
@@ -226,21 +241,6 @@
       "symbols": [
         "BNB"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q1RBIGVxdWl0eSBwb3Np",
-      "title": "CTA equity positioning back to pre-Iran levels: BofA",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/cta-equity-positioning-back-to-preiran-levels-bofa-4872364",
-      "source": "Investing.com News",
-      "publishedAt": 1787406476000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -489,21 +489,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGVzbGEgcmVjYWxscyAz",
-      "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787340588000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
