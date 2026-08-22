@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787424004138,
-  "crawlUpdatedAt": 1787424004138,
+  "updatedAt": 1787426864951,
+  "crawlUpdatedAt": 1787426864951,
   "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,59 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-UGFyYW1vdW50IGFuZCBD",
+      "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/paramount-and-california-to-hold-preliminary-talks-on-warner-bros-deal-nyt-reports-4872384",
+      "source": "Investing.com News",
+      "publishedAt": 1787425593000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBoaXRzIFJT",
+      "title": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "source": "Investing.com News",
+      "publishedAt": 1787425329000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgcmVzaHVmZmxl",
       "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787420033000,
+      "publishedAt": 1787425066000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBoYXBwZW5zIHdo",
+      "title": "What happens when the AI capex cycle slows?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382",
+      "source": "Investing.com News",
+      "publishedAt": 1787424187000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -243,42 +290,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9mQSBtYWludGFpbnMg",
-      "title": "BofA maintains underperform ratings on six BDC stocks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-maintains-underperform-ratings-on-six-bdc-stocks-93CH-4872361",
-      "source": "Investing.com News",
-      "publishedAt": 1787400588000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
       "title": "Warren Buffett Watch: It&apos;s Buffett, not Abel, who appears to be calling the shots on stocks",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
       "source": "CNBC Markets",
       "publishedAt": 1787400397000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V29sZmUgUmVzZWFyY2gg",
-      "title": "Wolfe Research sees CNH stock flat 2027 outlook on commodity prices",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wolfe-research-sees-cnh-stock-flat-2027-outlook-on-commodity-prices-93CH-4872360",
-      "source": "Investing.com News",
-      "publishedAt": 1787400356000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -309,21 +326,6 @@
       "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
       "source": "CNBC Markets",
       "publishedAt": 1787400001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmVmZmVyaWVzIHNlZXMg",
-      "title": "Jefferies sees metals breakout on currency concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-metals-breakout-on-currency-concerns-93CH-4872341",
-      "source": "Investing.com News",
-      "publishedAt": 1787399815000,
       "lang": "en-US",
       "topics": [
         "macro"
