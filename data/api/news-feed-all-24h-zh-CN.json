@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787428200472,
-  "crawlUpdatedAt": 1787428200472,
-  "crawlCount": 31,
+  "updatedAt": 1787430661652,
+  "crawlUpdatedAt": 1787430661652,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,42 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-TnZpZGlhIGN1c3RvbWVy",
+      "title": "Nvidia customers reportedly warned about AI-related price hikes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787430404000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgVS5TLi1DYW5hZGEg",
+      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787429895000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-TnZpZGlhIGN1c3RvbWVy",
       "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
       "source": "Investing.com News",
-      "publishedAt": 1787426673000,
+      "publishedAt": 1787428833000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -117,21 +147,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXMgVS5TLi1DYW5hZGEg",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787418078000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -242,6 +257,21 @@
         "BNB"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RW1lcmdlbmN5IHNhdmlu",
+      "title": "Emergency savings shortfall signals &apos;danger&apos; for working households, Suze Orman says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787405401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -416,73 +446,6 @@
       "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "source": "CNBC Markets",
       "publishedAt": 1787349819000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmF5IERhbGlvIHNheXMg",
-      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787343561000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC",
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TG9uZ2VyLWRhdGVkIFRy",
-      "title": "Longer-dated Treasury yields rise as Bessent&apos;s bond buyback rally fizzles out",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787342714000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBzdXJnZXMg",
-      "title": "Bitcoin surges 22% for the week as investor optimism floods back",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787342647000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2VuIEdyaWZmaW4gc2F5",
-      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787342316000,
       "lang": "zh-CN",
       "topics": [
         "macro"
