@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787374834088,
-  "crawlUpdatedAt": 1787374834088,
+  "updatedAt": 1787378097448,
+  "crawlUpdatedAt": 1787378097448,
   "crawlCount": 37,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VVMgaGl0cyBDYW5hZGlh",
+      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
+      "source": "Investing.com News",
+      "publishedAt": 1787376625000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJlYWtpbmcgZG93biB0",
+      "title": "Breaking down the U.S.-Japan “currency alliance”",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/breaking-down-the-usjapan-currency-alliance-4872302",
+      "source": "Investing.com News",
+      "publishedAt": 1787375531000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2l4IGludmVzdG9ycyBy",
+      "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787374801000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-UGVudGFnb24gcmVtb3Zl",
       "title": "Pentagon removes Stars and Stripes newspaper leadership",
@@ -49,21 +94,6 @@
       "url": "https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296",
       "source": "Investing.com News",
       "publishedAt": 1787372129000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMsIENhbmFkYSBmYWls",
-      "title": "US, Canada fail to reach a tariff deal, deepen trade war",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
-      "source": "Investing.com News",
-      "publishedAt": 1787371586000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -139,21 +169,6 @@
       "url": "https://www.investing.com/news/economy-news/iran-threatens-military-response-to-us-sanctions-4872287",
       "source": "Investing.com News",
       "publishedAt": 1787366906000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29yZVdlYXZlIENPTyBT",
-      "title": "CoreWeave COO Sachin Jain sells $582,427 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-582427-in-shares-93CH-4872286",
-      "source": "Investing.com News",
-      "publishedAt": 1787366763000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -558,24 +573,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29sZG1hbiBzYXlzIGhl",
-      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787290048000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU",
-        "SPX"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
