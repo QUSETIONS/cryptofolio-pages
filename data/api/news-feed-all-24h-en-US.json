@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787461408059,
-  "crawlUpdatedAt": 1787461408059,
+  "updatedAt": 1787468069722,
+  "crawlUpdatedAt": 1787468069722,
   "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,96 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-QXMgVS5TLi1DYW5hZGEg",
+      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787467140000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxpYmFiYSBwbGFucyAk",
+      "title": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "source": "Investing.com News",
+      "publishedAt": 1787466636000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S29yZWFuIHJldGFpbCB0",
+      "title": "Korean retail traders chase 40% coupons after historic stock rout - report",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/korean-retail-traders-chase-40-coupons-after-historic-stock-rout--report-4872421",
+      "source": "Investing.com News",
+      "publishedAt": 1787465349000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-NSBiaWcgYW5hbHlzdCBB",
+      "title": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
+      "source": "Investing.com News",
+      "publishedAt": 1787465101000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgZGlzY2xvc3Vy",
+      "title": "Trump disclosure shows more than 1,000 securities trades in June - report",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/trump-disclosure-shows-more-than-1000-securities-trades-in-june--report-4872419",
+      "source": "Investing.com News",
+      "publishedAt": 1787465035000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9ib3RzIGNhbiBvdXRy",
+      "title": "Robots can outrun humans, but can they plug in a cable?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/robots-can-outrun-humans-but-can-they-plug-in-a-cable-4872417",
+      "source": "Investing.com News",
+      "publishedAt": 1787461591000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-WFJQIEZhbGxzIDExJSBJ",
       "title": "XRP Falls 11% In Bearish Trade",
@@ -90,36 +180,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBsZXRzIElyYXFp",
-      "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
-      "source": "Investing.com News",
-      "publishedAt": 1787432173000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TnZpZGlhIGN1c3RvbWVy",
-      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389",
-      "source": "Investing.com News",
-      "publishedAt": 1787431664000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGFyYW1vdW50LCBDYWxp",
       "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
       "summary": "",
@@ -141,66 +201,6 @@
       "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
       "source": "CNBC Markets",
       "publishedAt": 1787430404000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWRh4oCZcyBVbmlm",
-      "title": "Canada’s Unifor union, GM reach tentative agreements",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-unifor-union-gm-reach-tentative-agreements-4872388",
-      "source": "Investing.com News",
-      "publishedAt": 1787430272000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2lsbCBCZXNzZW504oCZ",
-      "title": "Will Bessent’s intervention mark a turning point for the yen?",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/will-bessents-intervention-mark-a-turning-point-for-the-yen-4872387",
-      "source": "Investing.com News",
-      "publishedAt": 1787429921000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXMgVS5TLi1DYW5hZGEg",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787429895000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TnZpZGlhIGN1c3RvbWVy",
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
-      "source": "Investing.com News",
-      "publishedAt": 1787428833000,
       "lang": "en-US",
       "topics": [
         "macro"
