@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787498957775,
-  "crawlUpdatedAt": 1787498957775,
+  "updatedAt": 1787500375194,
+  "crawlUpdatedAt": 1787500375194,
   "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Q2FuIEhlcnNoZXkgc3Rl",
+      "title": "Can Hershey step up to buy Mondelez?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/can-hershey-step-up-to-buy-mondelez-4872464",
+      "source": "Investing.com News",
+      "publishedAt": 1787499188000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwYXJlcyBs",
+      "title": "Bitcoin pares losses as recent rally finds fresh momentum",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
+      "source": "Investing.com News",
+      "publishedAt": 1787498257000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiBzYXlzIG5ldyBz",
       "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
@@ -150,21 +182,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiB3YXJucyBuZWln",
-      "title": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-warns-neighbours-against-joining-us-sanctions-as-hormuz-stays-closed-4872428",
-      "source": "Investing.com News",
-      "publishedAt": 1787489207000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U21hbGwgVUsgcG93ZXIg",
       "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
       "summary": "",
@@ -177,21 +194,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-113-4872445",
-      "source": "Investing.com News",
-      "publishedAt": 1787489103000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
