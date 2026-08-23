@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787502854000,
-  "crawlUpdatedAt": 1787502854000,
+  "updatedAt": 1787505977289,
+  "crawlUpdatedAt": 1787505977289,
   "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,39 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-QWxpYmFiYSBsYXVuY2hl",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "source": "Investing.com News",
+      "publishedAt": 1787504429000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBLYXNoa2Fy",
+      "title": "Fed’s Kashkari says rising Treasury yields not a concern",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-rising-treasury-yields-not-a-concern-4872467",
+      "source": "Investing.com News",
+      "publishedAt": 1787503032000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Q29tbWVyemJhbmsgY2hh",
       "title": "Commerzbank chair calls for review of German takeover rules",
@@ -126,36 +159,6 @@
       "url": "https://www.investing.com/news/earnings/organon-earnings-up-next-can-drugmaker-rebound-after-q1-miss-93CH-4872453",
       "source": "Investing.com News",
       "publishedAt": 1787492266000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QVRBSSBCZWNrbGV5IGVh",
-      "title": "ATAI Beckley earnings up next in final report before acquisition",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/atai-beckley-earnings-up-next-in-final-report-before-acquisition-93CH-4872450",
-      "source": "Investing.com News",
-      "publishedAt": 1787492212000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SHViIEdyb3VwIGVhcm5p",
-      "title": "Hub Group earnings up next as freight recovery meets execution risk",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/hub-group-earnings-up-next-as-freight-recovery-meets-execution-risk-93CH-4872449",
-      "source": "Investing.com News",
-      "publishedAt": 1787492158000,
       "lang": "en-US",
       "topics": [
         "macro"
