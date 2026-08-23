@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787468069827,
-  "crawlUpdatedAt": 1787468069827,
+  "updatedAt": 1787470746350,
+  "crawlUpdatedAt": 1787470746350,
   "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,23 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzdXJnZXMg",
+      "title": "Bitcoin surges past $76K with overbought RSI: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "source": "Investing.com News",
+      "publishedAt": 1787468556000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QXMgVS5TLi1DYW5hZGEg",
       "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
@@ -162,21 +179,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872390",
-      "source": "Investing.com News",
-      "publishedAt": 1787433604000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
