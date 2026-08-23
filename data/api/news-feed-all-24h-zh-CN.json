@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787521847557,
-  "crawlUpdatedAt": 1787521847557,
+  "updatedAt": 1787524180287,
+  "crawlUpdatedAt": 1787524180287,
   "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787521527000,
+      "publishedAt": 1787523978000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -27,6 +27,21 @@
         "UST10Y"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlIEVWIG1hcmtl",
+      "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/europe-ev-market-share-tops-25-in-july-as-france-germany-drive-growth-4872477",
+      "source": "Investing.com News",
+      "publishedAt": 1787522790000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -206,21 +221,6 @@
       "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-93CH-4872466",
       "source": "Investing.com News",
       "publishedAt": 1787501190000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29tbWVyemJhbmsgY2hh",
-      "title": "Commerzbank chair calls for review of German takeover rules after UniCredit bid",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-after-unicredit-bid-4872465",
-      "source": "Investing.com News",
-      "publishedAt": 1787500469000,
       "lang": "zh-CN",
       "topics": [
         "macro"
