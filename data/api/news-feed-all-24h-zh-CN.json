@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787524180287,
-  "crawlUpdatedAt": 1787524180287,
-  "crawlCount": 20,
+  "updatedAt": 1787525606882,
+  "crawlUpdatedAt": 1787525606882,
+  "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787523978000,
+      "publishedAt": 1787524781000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -26,6 +26,36 @@
       "symbols": [
         "UST10Y"
       ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFzdCBmYXNoaW9uIGdp",
+      "title": "Fast fashion giant Shein launches up to $1.8 billion Hong Kong IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+      "source": "Investing.com News",
+      "publishedAt": 1787524583000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IHNvdmVyZWlnbiBB",
+      "title": "Why sovereign AI should reinforce rather than undermine the AI capex cycle?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-sovereign-ai-should-reinforce-rather-than-undermine-the-ai-capex-cycle-4872480",
+      "source": "Investing.com News",
+      "publishedAt": 1787524436000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -197,39 +227,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmVk4oCZcyBLYXNoa2Fy",
-      "title": "Fed’s Kashkari says rising Treasury yields not a concern",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-rising-treasury-yields-not-a-concern-4872467",
-      "source": "Investing.com News",
-      "publishedAt": 1787503032000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y",
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q29tbWVyemJhbmsgY2hh",
-      "title": "Commerzbank chair calls for review of German takeover rules",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-93CH-4872466",
-      "source": "Investing.com News",
-      "publishedAt": 1787501190000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXF1YWwtd2VpZ2h0IFMm",
       "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
       "summary": "",
@@ -304,21 +301,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXMgVS5TLi1DYW5hZGEg",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787467140000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
