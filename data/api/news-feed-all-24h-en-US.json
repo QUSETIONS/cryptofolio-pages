@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787510361973,
-  "crawlUpdatedAt": 1787510361973,
-  "crawlCount": 21,
+  "updatedAt": 1787513228216,
+  "crawlUpdatedAt": 1787513228216,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,23 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qml0Y29pbiBjb2lscyBp",
+      "title": "Bitcoin coils in bull flag near $77K: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "source": "Investing.com News",
+      "publishedAt": 1787511733000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QnVycnkgZXhpdHMgQWxp",
       "title": "Burry exits Alibaba, builds large JD.com position over valuation concerns",
@@ -198,21 +215,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIGRvd25ncmFkZXMg",
-      "title": "UBS downgrades Klarna stock rating on guidance cut, executive departures",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-klarna-stock-rating-on-guidance-cut-executive-departures-93CH-4872462",
-      "source": "Investing.com News",
-      "publishedAt": 1787494977000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXF1YWwtd2VpZ2h0IFMm",
       "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
       "summary": "",
@@ -311,21 +313,6 @@
       "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
       "source": "CNBC Markets",
       "publishedAt": 1787430404000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcmVzaHVmZmxl",
-      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787425066000,
       "lang": "en-US",
       "topics": [
         "macro"
