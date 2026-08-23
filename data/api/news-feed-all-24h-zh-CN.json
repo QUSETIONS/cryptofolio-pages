@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787517082080,
-  "crawlUpdatedAt": 1787517082080,
+  "updatedAt": 1787520481114,
+  "crawlUpdatedAt": 1787520481114,
   "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872476",
+      "source": "Investing.com News",
+      "publishedAt": 1787520004000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW7igJlzIHN0b2Nr",
+      "title": "Japan’s stock market setup looks similar to late 2023. Here’s what it means",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
+      "source": "Investing.com News",
+      "publishedAt": 1787517272000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXRhbHkgZXh0ZW5kcyBk",
       "title": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
@@ -180,38 +210,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuIEhlcnNoZXkgc3Rl",
-      "title": "Can Hershey step up to buy Mondelez?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/can-hershey-step-up-to-buy-mondelez-4872464",
-      "source": "Investing.com News",
-      "publishedAt": 1787499188000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBwYXJlcyBs",
-      "title": "Bitcoin pares losses as recent rally finds fresh momentum",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
-      "source": "Investing.com News",
-      "publishedAt": 1787498257000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
