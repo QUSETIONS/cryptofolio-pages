@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787481057234,
-  "crawlUpdatedAt": 1787481057234,
-  "crawlCount": 26,
+  "updatedAt": 1787484421741,
+  "crawlUpdatedAt": 1787484421741,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
+      "title": "InvestingPro’s Fair Value flagged Vicor before 45% decline",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-flagged-vicor-before-45-decline-93CH-4872440",
+      "source": "Investing.com News",
+      "publishedAt": 1787482932000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW5pIHRhcmdldHMgY29t",
+      "title": "Eni targets commercial fusion power plant in Europe by 2040s",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/eni-targets-commercial-fusion-power-plant-in-europe-by-2040s-93CH-4872439",
+      "source": "Investing.com News",
+      "publishedAt": 1787482905000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2lub3BlYyByZXBvcnRz",
+      "title": "Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/sinopec-reports-19-profit-jump-in-h1-2026-despite-middle-east-crisis-4872438",
+      "source": "Investing.com News",
+      "publishedAt": 1787482886000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBzbGlwcyB1",
       "title": "Bitcoin slips under $77,000 as rally boosts mining economics",
@@ -120,53 +165,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-NSBiaWcgYW5hbHlzdCBB",
-      "title": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
-      "source": "Investing.com News",
-      "publishedAt": 1787471772000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxpYmFiYSBwbGFucyBy",
-      "title": "Alibaba plans record $10.2 billion Hong Kong share sale to fund AI",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/alibaba-plans-record-102-billion-hong-kong-share-sale-to-fund-ai-4872426",
-      "source": "Investing.com News",
-      "publishedAt": 1787471409000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBzdXJnZXMg",
-      "title": "Bitcoin surges past $76K with overbought RSI: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "source": "Investing.com News",
-      "publishedAt": 1787468556000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -396,21 +394,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWhlYWQgb2YgdG91Z2gg",
-      "title": "Ahead of tough new U.S. sanctions, Iran criticizes &apos;extraterritorial sovereignty&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787394863000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
