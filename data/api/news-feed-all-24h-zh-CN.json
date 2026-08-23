@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787454628251,
-  "crawlUpdatedAt": 1787454628251,
+  "updatedAt": 1787458238340,
+  "crawlUpdatedAt": 1787458238340,
   "crawlCount": 27,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Q2FyZGFubyBGYWxscyAx",
+      "title": "Cardano Falls 10% In Bearish Trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4872414",
+      "source": "Investing.com News",
+      "publishedAt": 1787456455000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBjb25kZW1ucyBV",
+      "title": "Iran condemns US plans to announce new sanctions",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
+      "source": "Investing.com News",
+      "publishedAt": 1787454037000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-R2VybWFueeKAmXMgTWVy",
       "title": "Germany’s Merz to press cabinet for faster pro-growth reforms",
@@ -178,44 +208,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBoaXRzIFJT",
-      "title": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "source": "Investing.com News",
-      "publishedAt": 1787425329000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgcmVzaHVmZmxl",
       "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
       "source": "CNBC Markets",
       "publishedAt": 1787425066000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBoYXBwZW5zIHdo",
-      "title": "What happens when the AI capex cycle slows?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382",
-      "source": "Investing.com News",
-      "publishedAt": 1787424187000,
       "lang": "zh-CN",
       "topics": [
         "macro"
