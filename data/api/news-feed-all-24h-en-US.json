@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787514582910,
-  "crawlUpdatedAt": 1787514582910,
-  "crawlCount": 20,
+  "updatedAt": 1787517081902,
+  "crawlUpdatedAt": 1787517081902,
+  "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-SXRhbHkgZXh0ZW5kcyBk",
+      "title": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/italy-extends-diesel-tax-cut-to-wednesday-amid-rising-fuel-prices-93CH-4872473",
+      "source": "Investing.com News",
+      "publishedAt": 1787513997000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Qml0Y29pbiBjb2lscyBp",
       "title": "Bitcoin coils in bull flag near $77K: Live levels",
@@ -200,21 +215,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBzYXlzIG5ldyBz",
-      "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
-      "source": "Investing.com News",
-      "publishedAt": 1787495431000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RXF1YWwtd2VpZ2h0IFMm",
       "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
       "summary": "",
@@ -298,21 +298,6 @@
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "source": "CNBC Markets",
       "publishedAt": 1787467140000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIGN1c3RvbWVy",
-      "title": "Nvidia customers reportedly warned about AI-related price hikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787430404000,
       "lang": "en-US",
       "topics": [
         "macro"
