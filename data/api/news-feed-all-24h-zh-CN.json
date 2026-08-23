@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787505977406,
-  "crawlUpdatedAt": 1787505977406,
+  "updatedAt": 1787507376982,
+  "crawlUpdatedAt": 1787507376982,
   "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,21 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-UGFyYW1vdW50LCBDYWxp",
+      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787506214000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-QWxpYmFiYSBsYXVuY2hl",
       "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
@@ -200,21 +215,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QWZ0ZXIgMTAgeWVhcnMg",
-      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787486401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2VsbHMgRmFyZ28gYW5k",
       "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
       "summary": "",
@@ -227,6 +227,21 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWZ0ZXIgMTAgeWVhcnMg",
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787486401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -251,21 +266,6 @@
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "source": "CNBC Markets",
       "publishedAt": 1787467140000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFyYW1vdW50LCBDYWxp",
-      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787430853000,
       "lang": "zh-CN",
       "topics": [
         "macro"
