@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787484421824,
-  "crawlUpdatedAt": 1787484421824,
+  "updatedAt": 1787485840080,
+  "crawlUpdatedAt": 1787485840080,
   "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-U21hbGwgVUsgcG93ZXIg",
+      "title": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787484952000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2l0aSBleHBlY3RzIE52",
+      "title": "Citi expects Nvidia stock to trade higher post earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
+      "source": "Investing.com News",
+      "publishedAt": 1787483827000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FzdGxlIEJpb3NjaWVu",
+      "title": "Castle Biosciences surges 67% after InvestingPro Fair Value call",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/castle-biosciences-surges-67-after-investingpro-fair-value-call-93CH-4872441",
+      "source": "Investing.com News",
+      "publishedAt": 1787483368000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
       "title": "InvestingPro’s Fair Value flagged Vicor before 45% decline",
@@ -129,36 +174,6 @@
       "url": "https://www.investing.com/news/stock-market-news/ecb-chief-lagarde-ready-to-serve-wef-swiss-newspaper-reports-4872430",
       "source": "Investing.com News",
       "publishedAt": 1787474547000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2VsbCBVLlMuIGRvbGxh",
-      "title": "Sell U.S. dollar versus these currencies, BCA says",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/sell-us-dollar-versus-these-currencies-bca-says-4872431",
-      "source": "Investing.com News",
-      "publishedAt": 1787473807000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiB3YXJucyBuZWln",
-      "title": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-warns-neighbours-against-joining-us-sanctions-as-hormuz-stays-closed-4872428",
-      "source": "Investing.com News",
-      "publishedAt": 1787472623000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -379,21 +394,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBh",
-      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787398854000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
