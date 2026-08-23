@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787485839856,
-  "crawlUpdatedAt": 1787485839856,
-  "crawlCount": 25,
+  "updatedAt": 1787489653581,
+  "crawlUpdatedAt": 1787489653581,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -14,17 +14,77 @@
   "items": [
     {
       "id": "CNBC Markets-U21hbGwgVUsgcG93ZXIg",
-      "title": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
+      "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787484952000,
+      "publishedAt": 1787489161000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWZ0ZXIgMTAgeWVhcnMg",
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787486401000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VsbHMgRmFyZ28gYW5k",
+      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787486401000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWxpYmFiYSBsYXVuY2hl",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "source": "Investing.com News",
+      "publishedAt": 1787484988000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
+      "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787484545000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -165,21 +225,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RUNCIGNoaWVmIExhZ2Fy",
-      "title": "ECB chief Lagarde ’ready to serve’ WEF, Swiss newspaper reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ecb-chief-lagarde-ready-to-serve-wef-swiss-newspaper-reports-4872430",
-      "source": "Investing.com News",
-      "publishedAt": 1787474547000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -328,66 +373,6 @@
       "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
       "source": "CNBC Markets",
       "publishedAt": 1787403901000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBpcyB0aGUgbGF0",
-      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787400723000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
-      "title": "Warren Buffett Watch: It&apos;s Buffett, not Abel, who appears to be calling the shots on stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787400397000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIENvY2EtQ29s",
-      "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787400001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yIHlvdW5nIEFtZXJp",
-      "title": "For young Americans, the workplace is the new phoneless frontier. &apos;It allows us to hyper focus on the task at hand,&apos; says employer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787400001000,
       "lang": "en-US",
       "topics": [
         "macro"
