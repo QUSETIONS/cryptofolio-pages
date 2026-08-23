@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787458238243,
-  "crawlUpdatedAt": 1787458238243,
-  "crawlCount": 27,
+  "updatedAt": 1787461408059,
+  "crawlUpdatedAt": 1787461408059,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,23 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-WFJQIEZhbGxzIDExJSBJ",
+      "title": "XRP Falls 11% In Bearish Trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-bearish-trade-4872415",
+      "source": "Investing.com News",
+      "publishedAt": 1787457661000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "XRP"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-Q2FyZGFubyBGYWxscyAx",
       "title": "Cardano Falls 10% In Bearish Trade",
@@ -184,21 +201,6 @@
       "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
       "source": "Investing.com News",
       "publishedAt": 1787428833000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFyYW1vdW50IGFuZCBD",
-      "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/paramount-and-california-to-hold-preliminary-talks-on-warner-bros-deal-nyt-reports-4872384",
-      "source": "Investing.com News",
-      "publishedAt": 1787425593000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -404,21 +406,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2l4IGludmVzdG9ycyBy",
-      "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787374801000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
