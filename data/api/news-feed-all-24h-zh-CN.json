@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787477679537,
-  "crawlUpdatedAt": 1787477679537,
+  "updatedAt": 1787481057548,
+  "crawlUpdatedAt": 1787481057548,
   "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
+      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyB1",
+      "title": "Bitcoin slips under $77,000 as rally boosts mining economics",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
+      "source": "Investing.com News",
+      "publishedAt": 1787479085000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-SXJhbiBzYXlzIFBha2lz",
       "title": "Iran says Pakistan’s army chief to visit Tehran on Monday",
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/iran-says-pakistans-army-chief-to-visit-tehran-on-monday-4872425",
       "source": "Investing.com News",
-      "publishedAt": 1787476711000,
+      "publishedAt": 1787478891000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -159,21 +176,6 @@
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "source": "CNBC Markets",
       "publishedAt": 1787467140000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxpYmFiYSBwbGFucyAk",
-      "title": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
-      "source": "Investing.com News",
-      "publishedAt": 1787466636000,
       "lang": "zh-CN",
       "topics": [
         "macro"
