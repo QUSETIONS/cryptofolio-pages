@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787610849268,
-  "crawlUpdatedAt": 1787610849268,
-  "crawlCount": 36,
+  "updatedAt": 1787614093459,
+  "crawlUpdatedAt": 1787614093459,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,15 +13,227 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Qm9laW5nIGF3YXJkZWQg",
-      "title": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-awarded-contract-with-ceiling-value-of-1312-billion-for-f15-program-4874267",
-      "source": "Investing.com News",
-      "publishedAt": 1787610290000,
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787614021000,
       "lang": "en-US",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW4gZXllcyB0YXgg",
+      "title": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
+      "source": "Investing.com News",
+      "publishedAt": 1787613541000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SnVkZ2UgcmVqZWN0cyBG",
+      "title": "Judge rejects First Brands’ plan to pay down debts by pursuing lawsuits",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/judge-rejects-first-brands-plan-to-pay-down-debts-by-pursuing-lawsuits-4874293",
+      "source": "Investing.com News",
+      "publishedAt": 1787613522000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkRBIGFwcHJvdmVzIEom",
+      "title": "FDA approves J&J’s Imaavy for rare blood disorder treatment",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fda-approves-jjs-imaavy-for-rare-blood-disorder-treatment-93CH-4874292",
+      "source": "Investing.com News",
+      "publishedAt": 1787613399000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Vulcan Steel posts stronger FY2026 as growth builds in H2",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vulcan-steel-posts-stronger-fy2026-as-growth-builds-in-h2-93CH-4874291",
+      "source": "Investing.com News",
+      "publishedAt": 1787613393000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFyayBXYWx0ZXImYXBv",
+      "title": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787613379000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3JvY2VyeSBvdXRsZXQg",
+      "title": "Grocery outlet EVP Frank Kerr sells $16,181 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/grocery-outlet-evp-frank-kerr-sells-16181-in-shares-93CH-4874290",
+      "source": "Investing.com News",
+      "publishedAt": 1787613370000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2V2byBjaGllZiBsZWdh",
+      "title": "Gevo chief legal officer Kettner buys $19,368 in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/gevo-chief-legal-officer-kettner-buys-19368-in-common-stock-93CH-4874288",
+      "source": "Investing.com News",
+      "publishedAt": 1787613369000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2V2byBkaXJlY3RvciBK",
+      "title": "Gevo director James Barber acquires $77,000 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/gevo-director-james-barber-acquires-77000-in-shares-93CH-4874289",
+      "source": "Investing.com News",
+      "publishedAt": 1787613369000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGlmZXRpbWUgQnJhbmRz",
+      "title": "Lifetime Brands director Siegel sells $24,450 in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/lifetime-brands-director-siegel-sells-24450-in-common-stock-93CH-4874287",
+      "source": "Investing.com News",
+      "publishedAt": 1787613368000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFzdC1mYXNoaW9uIGdp",
+      "title": "Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+      "source": "Investing.com News",
+      "publishedAt": 1787613212000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2hlaW7igJlzIHN0b2Nr",
+      "title": "Shein’s stock market listing will not mask sustainability challenges",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sheins-stock-market-listing-will-not-mask-sustainability-challenges-4874285",
+      "source": "Investing.com News",
+      "publishedAt": 1787613191000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787612401000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG9zIEFuZ2VsZXMgTGFr",
+      "title": "Los Angeles Lakers worth &apos;every bit&apos; of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787611876000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2hh",
+      "title": "Here&apos;s what Jim Cramer says stock investors need to know about the bond market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787611201000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -58,147 +270,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SG9uZXN0IGNvbXBhbnkg",
-      "title": "Honest company CEO Carla Vernon sells $588,286 of stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/honest-company-ceo-carla-vernon-sells-588286-of-stock-93CH-4874266",
-      "source": "Investing.com News",
-      "publishedAt": 1787609778000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsc3RhciBkaXJl",
-      "title": "Globalstar director Benjamin Wolff sells $1.64m in GSAT stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/globalstar-director-benjamin-wolff-sells-164m-in-gsat-stock-93CH-4874265",
-      "source": "Investing.com News",
-      "publishedAt": 1787609763000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGVvcGxlcyBGaW5hbmNp",
-      "title": "Peoples Financial CEO Swetman buys $23,250 PFBX stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/peoples-financial-ceo-swetman-buys-23250-pfbx-stock-93CH-4874264",
-      "source": "Investing.com News",
-      "publishedAt": 1787609752000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UGFyYW1vdW50IENFTyBE",
       "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
       "source": "CNBC Markets",
       "publishedAt": 1787609746000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWNFd2VuIG5hbWVzIFNo",
-      "title": "McEwen names Shaver’s successor, promotes three executives",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/mcewen-names-shavers-successor-promotes-three-executives-93CH-4874263",
-      "source": "Investing.com News",
-      "publishedAt": 1787609319000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgd2lkZW5zIHNhbmN0",
-      "title": "US widens sanctions on Iran but withholds more punishing options",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522",
-      "source": "Investing.com News",
-      "publishedAt": 1787609182000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29vc2VoZWFkIEluc3Vy",
-      "title": "Goosehead Insurance director Adrienne Kebodeaux sells $490,000 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/goosehead-insurance-director-adrienne-kebodeaux-sells-490000-in-shares-93CH-4874261",
-      "source": "Investing.com News",
-      "publishedAt": 1787608869000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9uZXN0IGNvbXBhbnkg",
-      "title": "Honest company SVP, supply chain, sells $35,994 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/honest-company-svp-supply-chain-sells-35994-in-shares-93CH-4874260",
-      "source": "Investing.com News",
-      "publishedAt": 1787608867000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG9uZXN0IGNvbXBhbnkg",
-      "title": "Honest company SVP Mayle sells $30,743 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/honest-company-svp-mayle-sells-30743-in-shares-93CH-4874259",
-      "source": "Investing.com News",
-      "publishedAt": 1787608864000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV4c3RhciBtZWRpYSBk",
-      "title": "Nexstar media director Aulestia sells $56,040 in common stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/nexstar-media-director-aulestia-sells-56040-in-common-stock-93CH-4874258",
-      "source": "Investing.com News",
-      "publishedAt": 1787608858000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -235,23 +312,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFyayBXYWx0ZXImYXBv",
-      "title": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787607458000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -314,21 +374,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787598536000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -522,21 +567,6 @@
       "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787569201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJhbmNlLCBVSyBzdGVw",
-      "title": "France, UK step up missile support for Ukraine as European leaders meet",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/ukraine-coalition-support-russia-strikes.html",
       "source": "CNBC Markets",
       "publishedAt": 1787569201000,
       "lang": "en-US",
