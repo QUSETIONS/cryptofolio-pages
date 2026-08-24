@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787591201006,
-  "crawlUpdatedAt": 1787591201006,
-  "crawlCount": 33,
+  "updatedAt": 1787594370647,
+  "crawlUpdatedAt": 1787594370647,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,12 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QXhpcyBCYW5rIHRvIHJl",
-      "title": "Axis Bank to redeem $600 million AT1 notes on Sept. 8",
+      "id": "Investing.com News-U2Nob2xhciBSb2NrIEhv",
+      "title": "Scholar Rock Holding Corp stock hits 52-week high at 58.52 USD",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/axis-bank-to-redeem-600-million-at1-notes-on-sept-8-93CH-4873977",
+      "url": "https://www.investing.com/news/company-news/scholar-rock-holding-corp-stock-hits-52week-high-at-5852-usd-93CH-4874017",
       "source": "Investing.com News",
-      "publishedAt": 1787590362000,
+      "publishedAt": 1787593956000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +28,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VmFuY2Ugc2F5cyB0YWxr",
-      "title": "Vance says talks with Canada ongoing, US seeks fairness",
+      "id": "Investing.com News-Q2FsaWZvcm5pYSBleHBl",
+      "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/vance-says-talks-with-canada-ongoing-us-seeks-fairness-93CH-4873976",
+      "url": "https://www.investing.com/news/stock-market-news/california-expected-to-seek-tv-channel-sales-from-paramountwarner-wsj-reports-4872493",
       "source": "Investing.com News",
-      "publishedAt": 1787590316000,
+      "publishedAt": 1787593756000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,30 +43,72 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVjaCBkcmFncyBTJlAg",
-      "title": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom",
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdW52",
+      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
-      "source": "Investing.com News",
-      "publishedAt": 1787590155000,
+      "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787593755000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
-      "symbols": [
-        "NDX",
-        "SPX"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks flat as markets weigh Iran tensions, await economic data",
+      "id": "Investing.com News-QnJvYWRjb20gY3JlZGl0",
+      "title": "Broadcom credit risk measures rise amid AI financing deals",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/european-shares-slip-as-tech-drags-iran-sanctions-in-focus-4872794",
+      "url": "https://www.investing.com/news/stock-market-news/broadcom-credit-risk-measures-rise-amid-ai-financing-deals-4874015",
       "source": "Investing.com News",
-      "publishedAt": 1787590129000,
+      "publishedAt": 1787593552000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG9yaXpvbiBLaW5ldGlj",
+      "title": "Horizon Kinetics acquires $2,169 of RENN Fund common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-acquires-2169-of-renn-fund-common-stock-93CH-4874016",
+      "source": "Investing.com News",
+      "publishedAt": 1787593552000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvdGFnZW5pYyBUaGVy",
+      "title": "Protagenic Therapeutics exec. chair Garo Armen buys $13,000 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/protagenic-therapeutics-exec-chair-garo-armen-buys-13000-in-shares-93CH-4874014",
+      "source": "Investing.com News",
+      "publishedAt": 1787593548000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FuYWRhIHRvIGludmVz",
+      "title": "Canada to invest C$11 billion in six new Coast Guard icebreakers",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/canada-to-invest-c11-billion-in-six-new-coast-guard-icebreakers-4874013",
+      "source": "Investing.com News",
+      "publishedAt": 1787593478000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -81,7 +123,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/california-cancels-talks-with-paramount-over-warner-bros-merger-4873780",
       "source": "Investing.com News",
-      "publishedAt": 1787590113000,
+      "publishedAt": 1787593369000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -91,12 +133,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWF0dGhld3MgSW50ZXJu",
-      "title": "Matthews International director Nauman buys $41,724 in stock",
+      "id": "Investing.com News-RXVyb3BlYW4gZGllc2Vs",
+      "title": "European diesel margins drop over 7% on lower gasoil premium",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/matthews-international-director-nauman-buys-41724-in-stock-93CH-4873972",
+      "url": "https://www.investing.com/news/commodities-news/european-diesel-margins-drop-over-7-on-lower-gasoil-premium-93CH-4874012",
       "source": "Investing.com News",
-      "publishedAt": 1787589960000,
+      "publishedAt": 1787593271000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgbWl4",
+      "title": "Wall Street mixed amid falling tech stocks, rising U.S.-Canada trade tensions",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-weekly-losses-nvidia-results-jackson-hole-in-focus-4872516",
+      "source": "Investing.com News",
+      "publishedAt": 1787593212000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WFBlbmcgc3RvY2sgcHJp",
+      "title": "XPeng stock price target lowered to $15 by Tiger Securities",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/xpeng-stock-price-target-lowered-to-15-by-tiger-securities-93CH-4874011",
+      "source": "Investing.com News",
+      "publishedAt": 1787593008000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -106,12 +178,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2xpbiBzdG9jayBoaXRz",
-      "title": "Olin stock hits 52-week low at $17.72",
+      "id": "CNBC Markets-Q2FsaWZvcm5pYSBBRyBS",
+      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing &apos;lack of good faith&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/olin-stock-hits-52week-low-at-1772-93CH-4873971",
-      "source": "Investing.com News",
-      "publishedAt": 1787589806000,
+      "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787592234000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -121,42 +193,29 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgZXhwZWN0ZWQgdG8g",
-      "title": "US expected to broaden secondary sanctions to isolate Iran on ’economic D-Day’",
+      "id": "CNBC Markets-WWllbGRzIGRlY2xpbmUg",
+      "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522",
-      "source": "Investing.com News",
-      "publishedAt": 1787589789000,
+      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787591992000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
-      "symbols": [],
+      "symbols": [
+        "UST10Y"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXMgVVMgYm9yZGVyIHNl",
-      "title": "As US border set to reopen to Mexican cattle, concerns persist over screwworm spread",
+      "id": "CNBC Markets-TnZpZGlhIHNheXMgR3Jv",
+      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/mexico-boosts-sterile-fly-dispersal-as-us-reopens-cattle-trade-4873810",
-      "source": "Investing.com News",
-      "publishedAt": 1787589750000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFZlcmFkZXJt",
-      "title": "Why is Veradermics stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-veradermics-stock-sliding-today-93CH-4873970",
-      "source": "Investing.com News",
-      "publishedAt": 1787589670000,
+      "url": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787591974000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -198,21 +257,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787589064000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3JhbWVyIHNheXMgdGhp",
       "title": "Cramer says this stock tied to the AI data center trade may be up next for a trim",
       "summary": "",
@@ -243,23 +287,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-WWllbGRzIGRlY2xpbmUg",
-      "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787587616000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-R29sZG1hbiBTYWNocyBw",
       "title": "Goldman Sachs partner warns of &apos;huge danger&apos; in letting AI replace bankers&apos; reasoning skills",
       "summary": "",
@@ -273,21 +300,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FsaWZvcm5pYSBBRyBS",
-      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing &apos;lack of good faith&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787586089000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -334,21 +346,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIHNheXMgR3Jv",
-      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787583601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -495,21 +492,6 @@
       "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
       "source": "CNBC Markets",
       "publishedAt": 1787556857000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRpYyBIb3Vz",
-      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787507886000,
       "lang": "en-US",
       "topics": [
         "macro"
