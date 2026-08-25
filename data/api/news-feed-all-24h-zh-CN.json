@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787662980022,
-  "crawlUpdatedAt": 1787662980022,
+  "updatedAt": 1787667702037,
+  "crawlUpdatedAt": 1787667702037,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,231 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T2lsIGRyb3BzIDMlIGFz",
-      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "id": "CNBC Markets-RGljayZhcG9zO3MgU3Bv",
+      "title": "Dick&apos;s Sporting Goods stock falls 20% as retailer misses expectations, cites &apos;challenging&apos; footwear market",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787662905000,
+      "publishedAt": 1787667420000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VFNYIGZhbGxzIGFzIFRy",
+      "title": "TSX falls as Trump tariff threat weighs on Canadian stocks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-us-tariffs-bank-earnings-4875098",
+      "source": "Investing.com News",
+      "publishedAt": 1787667090000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-THVsdWxlbW9uIHN0b2Nr",
+      "title": "Lululemon stock price target lowered by UBS on weak sales outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/lululemon-stock-price-target-lowered-by-ubs-on-weak-sales-outlook-93CH-4875595",
+      "source": "Investing.com News",
+      "publishedAt": 1787667081000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHJlaXRlcmF0ZXMg",
+      "title": "UBS reiterates Abercrombie & Fitch stock rating on growth outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-abercrombie--fitch-stock-rating-on-growth-outlook-93CH-4875596",
+      "source": "Investing.com News",
+      "publishedAt": 1787667081000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE1hcnZlbGwg",
+      "title": "Why is Marvell Technology stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-surging-today-93CH-4875594",
+      "source": "Investing.com News",
+      "publishedAt": 1787667075000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFN1cGVyIE1p",
+      "title": "Why is Super Micro Computer stock rallying today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-super-micro-computer-stock-rallying-today-93CH-4875593",
+      "source": "Investing.com News",
+      "publishedAt": 1787666916000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkRBIGFwcHJvdmVzIEph",
+      "title": "FDA approves Jazz’s Ziihera for HER2+ gastric cancer treatment",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fda-approves-jazzs-ziihera-for-her2-gastric-cancer-treatment-93CH-4875591",
+      "source": "Investing.com News",
+      "publishedAt": 1787666675000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGVpZG9zIHdpbnMgJDU2",
+      "title": "Leidos wins $56M Navy contract for military health research",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/leidos-wins-56m-navy-contract-for-military-health-research-93CH-4875590",
+      "source": "Investing.com News",
+      "publishedAt": 1787666669000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WnltZXdvcmtzIHN0b2Nr",
+      "title": "Zymeworks stock hits 52-week high at 29.81 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/zymeworks-stock-hits-52week-high-at-2981-usd-93CH-4875589",
+      "source": "Investing.com News",
+      "publishedAt": 1787666649000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIFNlbWljb25kdWN0",
+      "title": "Top Semiconductor Stocks for AI Server CPU Growth, Says Raymond James",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/top-semiconductor-stocks-for-ai-server-cpu-growth-says-raymond-james-93CH-4875588",
+      "source": "Investing.com News",
+      "publishedAt": 1787666632000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVuY2htYXJrIHNlZXMg",
+      "title": "Benchmark sees buying opportunity in trucking stocks amid seasonal weakness",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/benchmark-sees-buying-opportunity-in-trucking-stocks-amid-seasonal-weakness-93CH-4875586",
+      "source": "Investing.com News",
+      "publishedAt": 1787666573000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlICZhcG9zO2RlYmFz",
+      "title": "The &apos;debasement trade&apos; returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787665449000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIGRyb3BzIDMlIGFz",
+      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787664571000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here&apos;s what it says about travel today",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787663352000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FuYWRhIHBvaXNlZCB0",
+      "title": "Canada poised to retaliate against Trump tariffs: &apos;We&apos;re not waiting by the phone&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787663255000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -73,179 +286,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2FuYWRhIHBvaXNlZCB0",
-      "title": "Canada poised to retaliate against Trump tariffs: &apos;We&apos;re not waiting by the phone&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787662549000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Jacktel posts strong Q2 2026 revenue beat as shares rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jacktel-posts-strong-q2-2026-revenue-beat-as-shares-rise-93CH-4875370",
-      "source": "Investing.com News",
-      "publishedAt": 1787661946000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Gabler Group tops H1 2026 sales guidance, shares rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gabler-group-tops-h1-2026-sales-guidance-shares-rise-93CH-4875366",
-      "source": "Investing.com News",
-      "publishedAt": 1787661858000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmEgbmVlZHMgVS5T",
       "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
       "source": "CNBC Markets",
       "publishedAt": 1787661735000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdHJlZXQgc2V0",
-      "title": "Wall Street set for a higher open amid falling oil prices and Treasury yields",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
-      "source": "Investing.com News",
-      "publishedAt": 1787661587000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Tuniu posts small profit in Q2 2026 as travel mix shifts",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tuniu-posts-small-profit-in-q2-2026-as-travel-mix-shifts-93CH-4875342",
-      "source": "Investing.com News",
-      "publishedAt": 1787661584000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXZlcmFnZSB3ZWVrbHkg",
-      "title": "Average weekly U.S. private payrolls rise 11,750 in four weeks ending Aug 8 - ADP",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/average-weekly-us-private-payrolls-rise-11750-in-four-weeks-ending-aug-8--adp-4875339",
-      "source": "Investing.com News",
-      "publishedAt": 1787661457000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnVpbGRpbmcgcGVybWl0",
-      "title": "Building permits rise 4.3%, missing forecast but showing improvement",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/building-permits-rise-43-missing-forecast-but-showing-improvement-93CH-4875335",
-      "source": "Investing.com News",
-      "publishedAt": 1787661278000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley Ranks These EU Diagnostics Stocks by China Reform Risk",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-ranks-these-eu-diagnostics-stocks-by-china-reform-risk-93CH-4875334",
-      "source": "Investing.com News",
-      "publishedAt": 1787661251000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: BMO tops Q3 2026 estimates as profit rises 22%",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bmo-tops-q3-2026-estimates-as-profit-rises-22-93CH-4875332",
-      "source": "Investing.com News",
-      "publishedAt": 1787661223000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: FluoGuide advances U.S. cancer trial setup in H1 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fluoguide-advances-us-cancer-trial-setup-in-h1-2026-93CH-4875331",
-      "source": "Investing.com News",
-      "publishedAt": 1787661215000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Vipshop Q2 2026 profit miss weighs on shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vipshop-q2-2026-profit-miss-weighs-on-shares-93CH-4875316",
-      "source": "Investing.com News",
-      "publishedAt": 1787661150000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -285,36 +331,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGljayZhcG9zO3MgU3Bv",
-      "title": "Dick&apos;s Sporting Goods stock falls 15% as retailer misses expectations, cites &apos;challenging&apos; footwear market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787658109000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
-      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here&apos;s what it says about travel today",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787657526000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QnVnYXR0aSBDRU8gTWF0",
       "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
       "summary": "",
@@ -327,24 +343,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlICZhcG9zO2RlYmFz",
-      "title": "The &apos;debasement trade&apos; returns after Bessent bond maneuver. Crypto and gold are back in style",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787657090000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
