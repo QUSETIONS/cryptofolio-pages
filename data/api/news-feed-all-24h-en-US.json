@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787680720570,
-  "crawlUpdatedAt": 1787680720570,
+  "updatedAt": 1787683927944,
+  "crawlUpdatedAt": 1787683927944,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-UGFyYW1vdW50IENFTyBE",
-      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787680135000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiBhbmQgT21hbiBk",
       "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787680073000,
+      "publishedAt": 1787683773000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +33,205 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787679348000,
+      "publishedAt": 1787683713000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXMgdGhlIEstc2hhcGVk",
+      "title": "Is the K-shaped economy ending? Finance pros weigh in",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787683154000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZ29lcyBhbGwg",
+      "title": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787682691000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm91ciBGZWQgYmFuayBi",
+      "title": "Four Fed bank boards wanted rate hike, minutes show",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/four-fed-bank-boards-wanted-rate-hike-minutes-show-4875819",
+      "source": "Investing.com News",
+      "publishedAt": 1787682655000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FsaWZvcm5pYSBBRyBz",
+      "title": "California AG says no settlement talks scheduled with Paramount",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/california-ag-says-no-settlement-talks-scheduled-with-paramount-4875831",
+      "source": "Investing.com News",
+      "publishedAt": 1787682634000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VtdGVjaCBvcHRpb25z",
+      "title": "Semtech options activity points to bullish bets on a breakout by September 18",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/semtech-options-activity-points-to-bullish-bets-on-a-breakout-by-september-18-93CH-4875829",
+      "source": "Investing.com News",
+      "publishedAt": 1787682515000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgYm9v",
+      "title": "Wall Street boosted by tech stocks, falling oil prices, and bond market rally",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
+      "source": "Investing.com News",
+      "publishedAt": 1787682355000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGZhbGxzIDQlIGFz",
+      "title": "Oil falls 4% as investors shrug off US sanctions on Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-investors-weigh-impact-of-expanded-us-sanctions-against-iran-4874373",
+      "source": "Investing.com News",
+      "publishedAt": 1787682311000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFjdGJveC1Db21wYW5p",
+      "title": "Factbox-Companies face backlash over controversial products and advertisement campaigns",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/factboxcompanies-face-backlash-over-controversial-products-and-advertisement-campaigns-4875828",
+      "source": "Investing.com News",
+      "publishedAt": 1787682271000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUFNSSBzdG9jayBoaXRz",
+      "title": "AAMI stock hits all-time high at 94.0 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/aami-stock-hits-alltime-high-at-940-usd-93CH-4875827",
+      "source": "Investing.com News",
+      "publishedAt": 1787682210000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S29obOKAmXMgb3B0aW9u",
+      "title": "Kohl’s options show heavy put volume and elevated volatility ahead of earnings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/kohls-options-show-heavy-put-volume-and-elevated-volatility-ahead-of-earnings-93CH-4875826",
+      "source": "Investing.com News",
+      "publishedAt": 1787681945000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG9yaXpvbiBraW5ldGlj",
+      "title": "Horizon kinetics, TPL director, buys $377 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-tpl-director-buys-377-in-stock-93CH-4875824",
+      "source": "Investing.com News",
+      "publishedAt": 1787681776000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgcGxhbnMgdG8gYXBw",
+      "title": "US plans to appoint two new FDA deputy commissioners for tech and drugs, CNBC reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-plans-to-appoint-two-new-fda-deputy-commissioners-for-tech-and-drugs-cnbc-reports-4875823",
+      "source": "Investing.com News",
+      "publishedAt": 1787681608000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFyYW1vdW50IENFTyBE",
+      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787680135000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,36 +256,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2FuYWRhIHVudmVpbHMg",
-      "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787678675000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVsbCBhdCB0aGUgU2l4",
-      "title": "Dell at the Six Five Summit: ai push shifts from pilots to production",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/dell-at-the-six-five-summit-ai-push-shifts-from-pilots-to-production-93CH-4875784",
-      "source": "Investing.com News",
-      "publishedAt": 1787678611000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXBwbGXigJlzIG5leHQg",
       "title": "Apple’s next chapter: 3 pressing challenges facing Tim Cook’s successor as CEO",
       "summary": "",
@@ -118,51 +271,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVyb3BlYW4gd2hlYXQg",
-      "title": "European wheat futures drop on potential Black Sea talks",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/european-wheat-futures-drop-on-potential-black-sea-talks-93CH-4875783",
-      "source": "Investing.com News",
-      "publishedAt": 1787678489000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IFVTIGhvbWUgc2Fs",
-      "title": "New US home sales drop 10.5% in July on high mortgage rates",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/new-us-home-sales-drop-105-in-july-on-high-mortgage-rates-93CH-4875780",
-      "source": "Investing.com News",
-      "publishedAt": 1787678403000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGhvZW5peCBGaW5hbmNp",
-      "title": "Phoenix Financial H1 2026 slides: asset management surges 48% in Q2",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/phoenix-financial-h1-2026-slides-asset-management-surges-48-in-q2-93CH-4875779",
-      "source": "Investing.com News",
-      "publishedAt": 1787678374000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RhbmxleSBEcnVja2Vu",
       "title": "Stanley Druckenmiller leads doubters who think Bessent&apos;s bond ploys will fail",
       "summary": "",
@@ -172,66 +280,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFyZ2V0IHNoYXJlcyBk",
-      "title": "Target shares drop after Halloween costume backlash",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/target-shares-drop-5-after-halloween-costume-backlash-4875625",
-      "source": "Investing.com News",
-      "publishedAt": 1787677945000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V1RJIE1pZGxhbmQgY3J1",
-      "title": "WTI Midland crude weakens as Chevron lowers offer",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/wti-midland-crude-weakens-as-chevron-lowers-offer-93CH-4875777",
-      "source": "Investing.com News",
-      "publishedAt": 1787677700000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Phoenix Financial posts strong H1 2026 growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-phoenix-financial-posts-strong-h1-2026-growth-93CH-4875776",
-      "source": "Investing.com News",
-      "publishedAt": 1787677626000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWRhIHNsYXBzIHJl",
-      "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679",
-      "source": "Investing.com News",
-      "publishedAt": 1787677584000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -253,36 +301,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U29ub2NvIHRvIHJhaXNl",
-      "title": "Sonoco to raise European paperboard prices by 60 euros per ton",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/sonoco-to-raise-european-paperboard-prices-by-60-euros-per-ton-93CH-4875775",
-      "source": "Investing.com News",
-      "publishedAt": 1787677469000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW50aHJvcGljIGV4cGVj",
-      "title": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-wsj-reports-4875772",
-      "source": "Investing.com News",
-      "publishedAt": 1787677240000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SEhTIHBsYW5zIG5ldyBG",
       "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
       "summary": "",
@@ -295,21 +313,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZ29lcyBhbGwg",
-      "title": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787676409000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -372,21 +375,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGRyb3BzIDMlIGFz",
-      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787671877000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -519,6 +507,21 @@
       "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
       "source": "CNBC Markets",
       "publishedAt": 1787656869000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IERlbGhpIGRyYXdz",
+      "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787653433000,
       "lang": "en-US",
       "topics": [
         "macro"
