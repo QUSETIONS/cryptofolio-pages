@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787634420622,
-  "crawlUpdatedAt": 1787634420622,
+  "updatedAt": 1787637581868,
+  "crawlUpdatedAt": 1787637581868,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,36 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "CNBC Markets-U2hlaW4gdGFyZ2V0cyAk",
+      "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787637519000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdGFyZ2V0cyBJ",
+      "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787635781000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-WHBlbmcgc2hhcmVzIHNp",
       "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
@@ -574,36 +604,6 @@
       "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
       "source": "CNBC Markets",
       "publishedAt": 1787572305000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VVBTIGlzIGludmVzdGlu",
-      "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787569201000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2hlaW4gdGFyZ2V0cyAk",
-      "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787556857000,
       "lang": "zh-CN",
       "topics": [
         "macro"
