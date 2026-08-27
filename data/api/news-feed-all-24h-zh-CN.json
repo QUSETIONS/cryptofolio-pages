@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1787828831921,
-  "crawlUpdatedAt": 1787828831921,
+  "updatedAt": 1787864860425,
+  "crawlUpdatedAt": 1787864860425,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QmVzdCBCdXkgdG9wcyBx",
-      "title": "Best Buy tops quarterly estimates, raises outlook as computing shows strength",
+      "id": "CNBC Markets-RmVkIENoYWlybWFuIEtl",
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here&apos;s what to expect",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
+      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787828465000,
+      "publishedAt": 1787864588000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGFkZHMgbW9y",
+      "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787863656000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +45,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnVpbGQtQS1CZWFyIFdv",
-      "title": "Build-A-Bear Workshop earnings beat by $0.03, revenue fell short of estimates",
+      "id": "CNBC Markets-R2FwIHNoYXJlcyBqdW1w",
+      "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/buildabear-workshop-earnings-beat-by-003-revenue-fell-short-of-estimates-4878907",
+      "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787863563000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFydmVsbCBpc3N1ZXMg",
+      "title": "Marvell issues better-than-expected revenue guidance, shares slip after big run-up",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/marvell-technology-current-quarter-revenue-guidance-beats-shares-slip-after-hours-4880076",
       "source": "Investing.com News",
-      "publishedAt": 1787828353000,
+      "publishedAt": 1787863051000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +75,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnVybGluZ3RvbiBTdG9y",
-      "title": "Burlington Stores earnings beat by $0.20, revenue fell short of estimates",
+      "id": "Investing.com News-V2h5IGlzIEVsYXN0aWMg",
+      "title": "Why is Elastic stock surging today?",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/burlington-stores-earnings-beat-by-020-revenue-fell-short-of-estimates-4878906",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-elastic-stock-surging-today-93CH-4880192",
       "source": "Investing.com News",
-      "publishedAt": 1787828338000,
+      "publishedAt": 1787863014000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V29ya2RheeKAmXMgb3V0",
+      "title": "Workday’s outlook meets estimates despite AI demand, shares slip",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/workday-beats-secondquarter-revenue-estimates-4880121",
+      "source": "Investing.com News",
+      "publishedAt": 1787863006000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFnZXJkdXR5IGVhcm5p",
+      "title": "Pagerduty earnings beat by $0.01, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/pagerduty-earnings-beat-by-001-revenue-topped-estimates-4880191",
+      "source": "Investing.com News",
+      "publishedAt": 1787862999000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,29 +120,147 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBzdGVhZGll",
-      "title": "Bitcoin steadies above $78k with U.S. regulations, M.East conflict in focus",
+      "id": "Investing.com News-RkRBIGFwcHJvdmVzIFBm",
+      "title": "FDA approves Pfizer-BioNTech COVID vaccine targeting XFG variant",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-near-79k-with-us-regulations-meast-conflict-in-focus-4878407",
+      "url": "https://www.investing.com/news/company-news/fda-approves-pfizerbiontech-covid-vaccine-targeting-xfg-variant-93CH-4880190",
       "source": "Investing.com News",
-      "publishedAt": 1787828337000,
+      "publishedAt": 1787862995000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VudGluZWxPbmUgZWFy",
+      "title": "SentinelOne earnings beat, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/sentinelone-earnings-beat-revenue-topped-estimates-4880189",
+      "source": "Investing.com News",
+      "publishedAt": 1787862993000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnVpbGQtQS1CZWFyIHNo",
+      "title": "Build-A-Bear shares drop most ever on weak annual revenue outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/buildabear-shareson-track-for-biggest-drop-ever-on-weak-revenue-outlook-4880037",
+      "source": "Investing.com News",
+      "publishedAt": 1787862991000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9zYWljIGRlY2xhcmVz",
+      "title": "Mosaic declares $0.22 quarterly dividend per share",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/mosaic-declares-022-quarterly-dividend-per-share-93CH-4880188",
+      "source": "Investing.com News",
+      "publishedAt": 1787862987000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2FsZXNmb3JjZSBhdCBE",
+      "title": "Salesforce at Deutsche Bank 2026 Technology Conference: AI push lifts outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/salesforce-at-deutsche-bank-2026-technology-conference-ai-push-lifts-outlook-93CH-4880186",
+      "source": "Investing.com News",
+      "publishedAt": 1787862902000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZ0ZXItSG91cnMgTW92",
+      "title": "After-Hours Movers: WDAY, ADSK, S, RBRK, MRVL, ULTA, GAP",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/afterhours-movers-wday-adsk-s-rbrk-mrvl-ulta-gap-432SI-4880184",
+      "source": "Investing.com News",
+      "publishedAt": 1787862841000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUFFIOKAmHNweSBzaGVp",
+      "title": "UAE ‘spy sheikh’ backs 49% stake in Trump family’s crypto bank venture, WSJ reports",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/uae-spy-sheikh-trump-family-crypto-bank.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787861782000,
       "lang": "zh-CN",
       "topics": [
         "crypto"
       ],
-      "symbols": [
-        "BTC"
-      ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG9sbGFyIEdlbmVyYWwg",
-      "title": "Dollar General stock jumps on earnings beat and raised guidance",
+      "id": "CNBC Markets-QUkgYnVyc3RzIHRvIHRo",
+      "title": "AI bursts to the front of Massachusetts Democratic Senate primary",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/dollar-general-stock-jumps-on-earnings-beat-and-raised-guidance-4878897",
-      "source": "Investing.com News",
-      "publishedAt": 1787828245000,
+      "url": "https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787861469000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3Jvd2RTdHJpa2UgcG9z",
+      "title": "CrowdStrike posts best day ever, Okta&apos;s stock pops nearly 29% as rising AI threat lifts earnings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787861323000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2FsZXNmb3JjZSByb2Nr",
+      "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787861041000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -90,12 +270,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmVmZmVyaWVzIGN1dHMg",
-      "title": "Jefferies cuts Alliant Energy stock price target on valuation",
+      "id": "CNBC Markets-RG9uYWxkIFRydW1wIEpy",
+      "title": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-alliant-energy-stock-price-target-on-valuation-93CH-4878896",
-      "source": "Investing.com News",
-      "publishedAt": 1787828216000,
+      "url": "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787860305000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,12 +285,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIEJ1cmxpbmd0",
-      "title": "Why is Burlington Stores stock sliding today?",
+      "id": "CNBC Markets-V2hhdCBXYXJzaCB3aWxs",
+      "title": "What Warsh will say and how the market will react, according to prediction markets",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-burlington-stores-stock-sliding-today-93CH-4878895",
-      "source": "Investing.com News",
-      "publishedAt": 1787828208000,
+      "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787859496000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -120,27 +300,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-S29udG9vciBCcmFuZHMg",
-      "title": "Kontoor Brands appoints C.J. King to lead Helly Hansen sport unit",
+      "id": "CNBC Markets-VGV4YXMgU2VuYXRlIGhv",
+      "title": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare &apos;monopolies&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/kontoor-brands-appoints-cj-king-to-lead-helly-hansen-sport-unit-93CH-4878894",
-      "source": "Investing.com News",
-      "publishedAt": 1787828192000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QnVpbGQtQS1CZWFyIGZh",
-      "title": "Build-A-Bear falls 5% on weak guidance despite earnings beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/buildabear-falls-5-on-weak-guidance-despite-earnings-beat-93CH-4878893",
-      "source": "Investing.com News",
-      "publishedAt": 1787828136000,
+      "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787858756000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -150,12 +315,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnVybGluZ3RvbiBTdG9y",
-      "title": "Burlington Stores stock falls 3% on revenue miss despite earnings beat",
+      "id": "CNBC Markets-RmFtaWx5IG9mZmljZXMg",
+      "title": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/burlington-stores-stock-falls-3-on-revenue-miss-despite-earnings-beat-93CH-4878877",
-      "source": "Investing.com News",
-      "publishedAt": 1787827931000,
+      "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787857528000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2lnbnMgb3Jk",
+      "title": "Trump signs order to rename Lake Ontario &apos;Lake America&apos; amid Canada trade war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787856840000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHNoYXJlcyBh",
+      "title": "SpaceX shares are doing something very unusual. Options traders are taking note",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/spacex-shares-are-doing-something-very-unusual-options-traders-are-taking-note.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787856629000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCZhcG9zO3MgZXhw",
+      "title": "What&apos;s expected at Apple&apos;s September event — plus, an uneven rally in AI stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/what-to-expect-from-apples-september-event-and-whats-driving-rally.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787856513000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -165,18 +375,123 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VEQgQmFuayBzaGFyZXMg",
-      "title": "TD Bank shares rise on higher fiscal Q3 earnings and revenue",
+      "id": "CNBC Markets-QXVndXN0IGFwYXJ0bWVu",
+      "title": "August apartment rents turn positive for the first time in four years",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/td-bank-shares-rise-on-higher-fiscal-q3-earnings-and-revenue-4878874",
-      "source": "Investing.com News",
-      "publishedAt": 1787827879000,
+      "url": "https://www.cnbc.com/2026/08/27/august-apartment-rents-turn-positive-for-the-first-time-in-four-years.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787856481000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7V2UgaGF2ZSBh",
+      "title": "&apos;We have a limited window&apos;: 116 companies, entities sign on to major AI cyber defense push",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787854925000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U0sgSHluaXggQ0VPIHNh",
+      "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787854024000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJpYW4gU3VsbGl2YW46",
+      "title": "Brian Sullivan: Gulf nations are unlikely to agree to a toll plan for Strait of Hormuz safe passage",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/brian-sullivan-gulf-nations-are-unlikely-to-agree-to-a-toll-plan-for-strait-of-hormuz-safe-passage.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787852749000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHRvIGRlbGF5IGNs",
+      "title": "Why to delay claiming Social Security — even when COLAs are high",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/social-security-claim-cola.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787851687000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIGlzIGJvbHN0",
+      "title": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787841466000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWZ0ZXIgTWV0YSZhcG9z",
+      "title": "After Meta&apos;s landmark settlement with state AGs, legal headaches remain",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/after-meta-landmark-settlement-with-state-ags-legal-headaches-remain.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787841012000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzdCBCdXkgYmVhdHMg",
+      "title": "Best Buy beats quarterly estimates and hikes its outlook, but stock falls",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787838525000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -185,7 +500,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787823390000,
+      "publishedAt": 1787838357000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -195,12 +510,42 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TnZpZGlhIGp1bXBzIDcl",
-      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "id": "CNBC Markets-VGhpcyBpcyDigJhvbmUg",
+      "title": "This is ‘one of the worst’ credit card habits, experts say—41% of cardholders do it",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "url": "https://www.cnbc.com/2026/08/27/this-is-one-of-the-worst-credit-card-habits-41percent-of-cardholders-do-it.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787820200000,
+      "publishedAt": 1787835602000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCB0aGUgQnVzcyBm",
+      "title": "What the Buss family Lakers dispute can teach the wealthy about trusts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787833509000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
+      "title": "American Airlines adds batch of new international routes on its XLR planes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1787832001000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -225,170 +570,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmFuayBvZiBLb3JlYSBk",
-      "title": "Bank of Korea delivers back-to-back rate hikes as core inflation stays elevated",
+      "id": "CNBC Markets-TnZpZGlh4oCZcyA3MCUg",
+      "title": "Nvidia’s 70% growth forecast puts it on track to become tech’s No. 2 company by revenue",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html",
+      "url": "https://www.cnbc.com/2026/08/26/nvidia-70percent-growth-forecast-puts-it-on-track-to-be-tech-no-2-company.html",
       "source": "CNBC Markets",
-      "publishedAt": 1787809531000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Wi5haSBzaGFyZXMgc3Vy",
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787808853000,
+      "publishedAt": 1787807475000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UWFudGFzIHNoYXJlcyBq",
-      "title": "Qantas shares jump after earnings as airline unveils new business-class seats",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787806964000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXVyb3Bl4oCZcyBnYXMg",
-      "title": "Europe’s gas stores are running low — and prices could top 100 euros this winter",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787806801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmFwYW5lc2Ugc3RhcnR1",
-      "title": "Japanese startups, IPOs set for boost with platform to trade unlisted companies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787802060000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgaW5kdXN0cmlh",
-      "title": "China industrial profits growth cools to slowest in seven months as economic slowdown deepens",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787800934000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmVuc2VuIEh1YW5nIGRl",
-      "title": "Jensen Huang defends Nvidia&apos;s growing financial support for AI ecosystem, says &apos;the risk is low&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/jensen-huang-defends-nvidias-growing-financial-support-for-ai-ecosystem-says-the-risk-is-low-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787792035000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787790104000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIEdvdiBMaXNhIENv",
-      "title": "Fed Gov Lisa Cook’s lawyer fires back at Trump&apos;s renewed threat to oust her",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787789735000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHRveSBpbmR1c3Ry",
-      "title": "The toy industry&apos;s latest craze is cheap, colorful and very squishy",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/the-toy-industrys-latest-craze-is-cheap-colorful-and-very-squishy-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787789220000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBzdGlsbCB3YXRj",
-      "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787788425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -418,207 +611,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3Jvd2RTdHJpa2UganVt",
-      "title": "CrowdStrike jumps 11% on record second quarter as &apos;Mythos moment&apos; drives AI cyber wave",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787782820000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2t0YSBwb3BzIDIwJSBh",
-      "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787779673000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIHJlbGVhc2Vz",
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787779054000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2FsZXNmb3JjZSwgQW50",
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787777445000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkZXJhbCBqdWRnZSBs",
-      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787771745000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGFzIFZlZ2FzIFNhbmRz",
-      "title": "Las Vegas Sands shares are about to &apos;catch a heater,&apos; says Mike Khouw",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/las-vegas-sands-shares-are-about-to-catch-a-heater-says-mike-khouw.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787768224000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkLCBOQVNBIGFuZCBE",
-      "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787768198000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIGFuZCBO",
-      "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787767635000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgc2V0cyBpUGhv",
-      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/apple-iphone-launch-date-john-ternus.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787766028000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWNvbm9taXN0cyB3YW50",
-      "title": "Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787763744000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHBvc3QtcGVubnkg",
-      "title": "The post-penny economy: How cash rounding and credit card surcharges are changing what you pay",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/cash-rounding-credit-card-surcharges-penny-production-ends.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787763506000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TG9zdCBpbiBsaW1ibzog",
-      "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787754707000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVk4oCZcyBwcmVmZXJy",
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787751350000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
