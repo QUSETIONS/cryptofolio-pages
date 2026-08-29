@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1788014361083,
-  "crawlUpdatedAt": 1788014361083,
-  "crawlCount": 32,
+  "updatedAt": 1788027541498,
+  "crawlUpdatedAt": 1788027541498,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,119 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBpbiB0",
-      "title": "We&apos;re in the midst of an &apos;Imax awakening,&apos; CEO says. How the company makes millions",
+      "id": "CNBC Markets-TmF0aW9uYWwgUGFyayBT",
+      "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+      "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788012471000,
+      "publishedAt": 1788027223000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2xlbmNvcmUgdGFrZXMg",
+      "title": "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/glencore-takes-480-mln-provision-on-radiant-world-exposure--bloomberg-4881992",
+      "source": "Investing.com News",
+      "publishedAt": 1788025135000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Uml2YWwgZmFjdGlvbnMg",
+      "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/mutinous-soldiers-attack-airport-presidency-in-niger-capital-sources-say-4881969",
+      "source": "Investing.com News",
+      "publishedAt": 1788024264000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
+      "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
+      "source": "Investing.com News",
+      "publishedAt": 1788024211000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVzc2VudCBzYXlzIGRp",
+      "title": "Bessent says disorderly yen moves can destabilize global markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989",
+      "source": "Investing.com News",
+      "publishedAt": 1788022107000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SERGQyBCYW5rIENFTyBK",
+      "title": "HDFC Bank CEO Jagdishan to step down in October as governance pressures mount",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/hdfc-bank-ceo-jagdishan-to-step-down-in-october-as-governance-pressures-mount-4881988",
+      "source": "Investing.com News",
+      "publishedAt": 1788019466000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SWNlbGFuZCB2b3RlcyBp",
+      "title": "Iceland votes in tight referendum on whether to start EU membership talks",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+      "source": "Investing.com News",
+      "publishedAt": 1788018507000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBkbyBob3VzZWhv",
+      "title": "What do households want from the UK Budget?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
+      "source": "Investing.com News",
+      "publishedAt": 1788016202000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,6 +150,36 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VGhlIGJpZyBsZXNzb24g",
+      "title": "The big lesson from this week&apos;s earnings: The AI buildout is not a zero-sum game",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788009955000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2VuIFplcnMgcXVpdCB0",
+      "title": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/how-two-gen-z-founders-made-hot-girl-pickles-stand-out.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788008701000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-R29sZG1hbiBkcmF3cyAz",
       "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
       "summary": "",
@@ -56,21 +193,6 @@
       "symbols": [
         "XAU"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXV0aW5vdXMgc29sZGll",
-      "title": "Mutinous soldiers attack airport, presidency in Niger capital",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/mutinous-soldiers-attack-airport-presidency-in-niger-capital-sources-say-4881969",
-      "source": "Investing.com News",
-      "publishedAt": 1788006983000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -156,99 +278,6 @@
       "url": "https://www.investing.com/news/investment-ideas/cbiz-soars-78-in-4-months-after-investingpro-fair-value-signal-93CH-4881972",
       "source": "Investing.com News",
       "publishedAt": 1788001747000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG93IEludmVzdGluZ1By",
-      "title": "How InvestingPro’s Fair Value spotted Ouster’s 48% decline",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-ousters-48-decline-93CH-4881971",
-      "source": "Investing.com News",
-      "publishedAt": 1788001299000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TEVTUyBUSEFOIDQ4IEhP",
-      "title": "LESS THAN 48 HOURS TO GO: Get InvestingPro for 55% off BEFORE THE SALE ENDS",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/less-than-48-hours-to-go-get-investingpro-for-55-off-before-the-sale-ends-4881970",
-      "source": "Investing.com News",
-      "publishedAt": 1788000745000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhbiBzdHJpa2Ug",
-      "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964",
-      "source": "Investing.com News",
-      "publishedAt": 1787997259000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RU9TIENsaW1icyAxMiUg",
-      "title": "EOS Climbs 12% In Bullish Trade",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4881962",
-      "source": "Investing.com News",
-      "publishedAt": 1787996581000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBwcmljZSBz",
-      "title": "Bitcoin price slips below $78,000 as ‘digital gold’ narrative faces fresh test",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-slips-below-78000-as-digital-gold-narrative-faces-fresh-test-4881960",
-      "source": "Investing.com News",
-      "publishedAt": 1787995154000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC",
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TG93ZXIgU2F4b255IHBy",
-      "title": "Lower Saxony premier urges agreement on VW restructuring before board meeting",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lower-saxony-premier-urges-agreement-on-vw-restructuring-before-board-meeting-4881958",
-      "source": "Investing.com News",
-      "publishedAt": 1787992286000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -419,85 +448,6 @@
       "url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
       "source": "CNBC Markets",
       "publishedAt": 1787944174000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgbW92ZXMg",
-      "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787940793000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCB3ZSBsZWFybmVk",
-      "title": "What we learned from Warsh&apos;s Jackson Hole speech, and GE Vernova&apos;s CFO to retire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787940185000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEtldmlu",
-      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787939042000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIENoYWlybWFuIFdh",
-      "title": "Fed Chairman Warsh expresses concern about inflation, advocates for &apos;quieter&apos; central bank",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787933511000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7R3JhbmQgVGhl",
-      "title": "&apos;Grand Theft Auto 6&apos; preview signals blockbuster demand, analysts say",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/gta-6-preview-netflix.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787931141000,
       "lang": "en-US",
       "topics": [
         "macro"
