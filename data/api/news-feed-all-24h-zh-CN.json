@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1787995171979,
-  "crawlUpdatedAt": 1787995171979,
-  "crawlCount": 40,
+  "updatedAt": 1788014361233,
+  "crawlUpdatedAt": 1788014361233,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,164 +13,242 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-V2UmYXBvcztyZSBpbiB0",
+      "title": "We&apos;re in the midst of an &apos;Imax awakening,&apos; CEO says. How the company makes millions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788012471000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZHllYXIgYnVybmlu",
+      "title": "Goodyear burning rubber and cash as turnaround plan continues",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788011818000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBkcmF3cyAz",
+      "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/goldman-draws-3-lessons-from-economic-research-on-us-inflation-expectations-4881977",
+      "source": "Investing.com News",
+      "publishedAt": 1788007629000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TXV0aW5vdXMgc29sZGll",
+      "title": "Mutinous soldiers attack airport, presidency in Niger capital",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/mutinous-soldiers-attack-airport-presidency-in-niger-capital-sources-say-4881969",
+      "source": "Investing.com News",
+      "publishedAt": 1788006983000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVuYXggcHJlc2VudHMg",
+      "title": "Tenax presents additional Phase 3 trial data for TNX-103",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/tenax-presents-additional-phase-3-trial-data-for-tnx103-93CH-4881976",
+      "source": "Investing.com News",
+      "publishedAt": 1788006281000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SywgQyBvciBFPyBXaHkg",
+      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788006170000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCBiYWNrbGFzaCBy",
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788005763000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXJhbiB0cmFkZSBmYWxs",
+      "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788005288000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnVmZmV0dCByZW1haW5z",
+      "title": "Buffett remains active at 96, but Berkshire&apos;s shares aren&apos;t doing much",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788004416000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q0JJWiBzb2FycyA3OCUg",
+      "title": "CBIZ soars 78% in 4 months after InvestingPro Fair Value signal",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/cbiz-soars-78-in-4-months-after-investingpro-fair-value-signal-93CH-4881972",
+      "source": "Investing.com News",
+      "publishedAt": 1788001747000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IEludmVzdGluZ1By",
+      "title": "How InvestingPro’s Fair Value spotted Ouster’s 48% decline",
+      "summary": "",
+      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-ousters-48-decline-93CH-4881971",
+      "source": "Investing.com News",
+      "publishedAt": 1788001299000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TEVTUyBUSEFOIDQ4IEhP",
+      "title": "LESS THAN 48 HOURS TO GO: Get InvestingPro for 55% off BEFORE THE SALE ENDS",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/less-than-48-hours-to-go-get-investingpro-for-55-off-before-the-sale-ends-4881970",
+      "source": "Investing.com News",
+      "publishedAt": 1788000745000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhbiBzdHJpa2Ug",
+      "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964",
+      "source": "Investing.com News",
+      "publishedAt": 1787997259000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RU9TIENsaW1icyAxMiUg",
+      "title": "EOS Climbs 12% In Bullish Trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4881962",
+      "source": "Investing.com News",
+      "publishedAt": 1787996581000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBwcmljZSBz",
+      "title": "Bitcoin price slips below $78,000 as ‘digital gold’ narrative faces fresh test",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-slips-below-78000-as-digital-gold-narrative-faces-fresh-test-4881960",
+      "source": "Investing.com News",
+      "publishedAt": 1787995154000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-TG93ZXIgU2F4b255IHBy",
       "title": "Lower Saxony premier urges agreement on VW restructuring before board meeting",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/lower-saxony-premier-urges-agreement-on-vw-restructuring-before-board-meeting-4881958",
       "source": "Investing.com News",
       "publishedAt": 1787992286000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHVya2V5IHRpZ2h0ZW5z",
-      "title": "Turkey tightens hedge fund rules amid concerns over market manipulation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/turkey-tightens-hedge-fund-rules-amid-concerns-over-market-manipulation-4881956",
-      "source": "Investing.com News",
-      "publishedAt": 1787990614000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tml1dGVjaCBzaWducyB3",
-      "title": "Niutech signs waste plastic pyrolysis deal with energy major",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/niutech-signs-waste-plastic-pyrolysis-deal-with-energy-major-93CH-4881955",
-      "source": "Investing.com News",
-      "publishedAt": 1787990444000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmHigJlzIG1hc3Np",
-      "title": "China’s massive oil reserves give Beijing leverage during Iran war",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/chinas-massive-oil-reserves-give-beijing-leverage-during-iran-war-4881952",
-      "source": "Investing.com News",
-      "publishedAt": 1787988239000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BlbkFJIHRvIGN1dCBv",
-      "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/openai-to-end-partnership-with-spacexs-cursor-4881924",
-      "source": "Investing.com News",
-      "publishedAt": 1787987189000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBzdGFsbHMg",
-      "title": "Bitcoin stalls at $77,465 with bearish momentum: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-below-78500-resistance-live-hourly-levels-93CH-4872743",
-      "source": "Investing.com News",
-      "publishedAt": 1787986973000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG93IG5ldHdvcmtpbmcg",
-      "title": "How networking became the critical layer of AI",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/how-networking-became-the-critical-layer-of-ai-4881950",
-      "source": "Investing.com News",
-      "publishedAt": 1787986014000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJlZXBvcnQtTWNNb1Jh",
-      "title": "Freeport-McMoRan director Lydia Kennard sells $300,470 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/freeportmcmoran-director-lydia-kennard-sells-300470-in-stock-93CH-4881949",
-      "source": "Investing.com News",
-      "publishedAt": 1787985968000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsc3RhciBkaXJl",
-      "title": "Globalstar director Benjamin Wolff sells $1.64 million in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/globalstar-director-benjamin-wolff-sells-164-million-in-stock-93CH-4881948",
-      "source": "Investing.com News",
-      "publishedAt": 1787985077000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RFNUIEdsb2JhbCBBZHZp",
-      "title": "DST Global Advisors sells $38.6 million of Chime Financial shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-386-million-of-chime-financial-shares-93CH-4881947",
-      "source": "Investing.com News",
-      "publishedAt": 1787985065000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YeKAmXMgJDE4IGJp",
-      "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who&apos;s next on the firing line?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787979601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -222,21 +300,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSZhcG9zO3MgJDE3",
-      "title": "Meta&apos;s $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787969498000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -412,21 +475,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIERlbW9jcmF0aWMg",
-      "title": "The Democratic Socialist and the retired Rear Admiral: How Democrats aim to win in Colorado",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/democrats-colorado-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787934615000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIENoYWlybWFuIFdh",
       "title": "Fed Chairman Warsh expresses concern about inflation, advocates for &apos;quieter&apos; central bank",
       "summary": "",
@@ -444,177 +492,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-NTIlIG9mIEdlbiBaIGlu",
-      "title": "52% of Gen Z investors have redirected investing money to sports bets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/sports-betting-gen-z-investors.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787933401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7R3JhbmQgVGhl",
       "title": "&apos;Grand Theft Auto 6&apos; preview signals blockbuster demand, analysts say",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/28/gta-6-preview-netflix.html",
       "source": "CNBC Markets",
       "publishedAt": 1787931141000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXDigJlzIEdyZWVu",
-      "title": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787924742000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFyYyBCZW5pb2ZmIGlz",
-      "title": "Marc Benioff is getting his mojo back as Salesforce&apos;s AI strength quiets skeptics",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787924665000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFydmVsbCBzaGFyZXMg",
-      "title": "Marvell shares tumble 6% as outlook underwhelms despite 37% revenue growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787924563000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IFRheWxvciBGYXJt",
-      "title": "How Taylor Farms became integral to America&apos;s food supply system",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787923072000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiBjYWxscyBmb3Ig",
-      "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy &apos;isn&apos;t impossible&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787920742000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW1heCBzYXlzIGl0JmFw",
-      "title": "Imax says it&apos;s open to a sale. Why is no one buying?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787918093000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBOYXZ5IGJsb2Nr",
-      "title": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787917845000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGFib3IgRGVwYXJ0bWVu",
-      "title": "Labor Department to propose expansion of association health plans, which could lower insurance costs for some workers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/trump-labor-department-proposal-association-health-insurance-plans.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787914801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlvQ3J5c3QgaXMgcHJv",
-      "title": "BioCryst is profitable. Now it wants to buy more rare disease drugs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/biocryst-is-profitable-now-it-wants-to-buy-more-rare-disease-drugs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787914801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhbiBmb3JjZXMg",
-      "title": "Russian forces intensify attacks in Donetsk as Ukraine lauds fresh EU push to unlock frozen assets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1787909625000,
       "lang": "zh-CN",
       "topics": [
         "macro"
