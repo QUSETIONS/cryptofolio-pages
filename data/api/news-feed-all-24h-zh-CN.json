@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1788256497323,
-  "crawlUpdatedAt": 1788256497323,
+  "updatedAt": 1788273761903,
+  "crawlUpdatedAt": 1788273761903,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,15 +13,317 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-R2xvYmFsIGJvbmQgeWll",
-      "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
+      "id": "CNBC Markets-MTAteWVhciB5aWVsZCBo",
+      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
+      "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788255861000,
+      "publishedAt": 1788273299000,
       "lang": "zh-CN",
       "topics": [
         "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzc2VudCByZXBvcnRl",
+      "title": "Bessent reportedly tells Russia it won&apos;t get economic relief until it ends Ukraine war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788273070000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5kaWFuIFByaW1lIE1p",
+      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788272580000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FzZXnigJlzIEdlbmVy",
+      "title": "Casey’s General Stores stock may move 6.9% on earnings release",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/caseys-general-stores-stock-may-move-69-on-earnings-release-93CH-4884275",
+      "source": "Investing.com News",
+      "publishedAt": 1788272263000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3BhcnRvbiBSZXNvdXJj",
+      "title": "Sparton Resources signs option deal on Morrison silver property",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/sparton-resources-signs-option-deal-on-morrison-silver-property-93CH-4884274",
+      "source": "Investing.com News",
+      "publishedAt": 1788272205000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2FtZVN0b3Agc2hhcmVz",
+      "title": "GameStop shares may move 4.7% on Sept. 8 earnings release",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/gamestop-shares-may-move-47-on-sept-8-earnings-release-93CH-4884273",
+      "source": "Investing.com News",
+      "publishedAt": 1788272203000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFBpY2FyZCBN",
+      "title": "Why is Picard Medical stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-picard-medical-stock-sliding-today-93CH-4884272",
+      "source": "Investing.com News",
+      "publishedAt": 1788272187000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE5vY2VyYSBz",
+      "title": "Why is Nocera stock plunging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nocera-stock-plunging-today-93CH-4884271",
+      "source": "Investing.com News",
+      "publishedAt": 1788272142000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE1pbmlNZWQg",
+      "title": "Why is MiniMed stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-minimed-stock-surging-today-93CH-4884270",
+      "source": "Investing.com News",
+      "publishedAt": 1788272123000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEhvd21ldCBB",
+      "title": "Why is Howmet Aerospace stock rallying today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-rallying-today-93CH-4884269",
+      "source": "Investing.com News",
+      "publishedAt": 1788272062000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEZvdW5kZXIg",
+      "title": "Why is Founder Group stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-founder-group-stock-surging-today-93CH-4884268",
+      "source": "Investing.com News",
+      "publishedAt": 1788272061000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBKdWx5IGpvYiBv",
+      "title": "U.S. July job openings come in soft, but tick up from revised June figure",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/us-july-job-openings-come-in-soft-but-tick-up-from-revised-june-figure-4884238",
+      "source": "Investing.com News",
+      "publishedAt": 1788272048000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEFudGVsb3Bl",
+      "title": "Why is Antelope Enterprise stock plunging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-antelope-enterprise-stock-plunging-today-93CH-4884267",
+      "source": "Investing.com News",
+      "publishedAt": 1788272004000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIEdvdmVybm9yIEJh",
+      "title": "Fed Governor Barr says he&apos;ll support rate hike if inflation doesn&apos;t ease",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788271287000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2F5bW8gYW5kIFpvb3gg",
+      "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788271201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBIb3VzZSBhaW1z",
+      "title": "U.S. House aims to avoid government shutdown amid GOP hardliner resistance",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788270718000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGl2ZXN0cmVhbSBzaG9w",
+      "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788270048000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788268931000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IG9uZSBvZiB0aGUg",
+      "title": "How one of the largest investors in student housing is playing this school year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788267640000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Tuesday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788267577000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T25lUmFpbCBsYXVuY2hl",
+      "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788267057000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -33,7 +335,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788255628000,
+      "publishedAt": 1788265362000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,42 +345,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUJTIGluaXRpYXRlcyBJ",
-      "title": "UBS initiates Interactive Brokers stock coverage with neutral rating",
+      "id": "CNBC Markets-VG95b3RhJmFwb3M7cyBo",
+      "title": "Toyota&apos;s hybrid RAV4 is in demand as dealers wait for more supply",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-initiates-interactive-brokers-stock-coverage-with-neutral-rating-93CH-4883674",
-      "source": "Investing.com News",
-      "publishedAt": 1788255423000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEdvUHJvIHN0",
-      "title": "Why is GoPro stock surging 80% today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-gopro-stock-surging-80-today-93CH-4883673",
-      "source": "Investing.com News",
-      "publishedAt": 1788255393000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Aedifica posts strong H1 2026 growth after Cofinimmo merger",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aedifica-posts-strong-h1-2026-growth-after-cofinimmo-merger-93CH-4883672",
-      "source": "Investing.com News",
-      "publishedAt": 1788255346000,
+      "url": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788264001000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +360,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Wm9wYSByZXBvcnRzIGZs",
-      "title": "Zopa reports flat H1 profit as customer base grows 26%",
+      "id": "CNBC Markets-QXBwbGUgZW50ZXJzIEpv",
+      "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/zopa-reports-flat-h1-profit-as-customer-base-grows-26-93CH-4883671",
-      "source": "Investing.com News",
-      "publishedAt": 1788255156000,
+      "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788260401000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,72 +375,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Partners Group H1 2026 fundraising beats, stock sinks 47%",
+      "id": "CNBC Markets-VXNlZCBjYXJzIHVuZGVy",
+      "title": "Used cars under $20,000 tend to sell quickly — but there are tradeoffs for buyers",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-partners-group-h1-2026-fundraising-beats-stock-sinks-47-93CH-4883669",
-      "source": "Investing.com News",
-      "publishedAt": 1788255092000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2hvcHJpdGUgRlkyMDI2",
-      "title": "Shoprite FY2026 slides: profit growth outpaces sales amid deflation",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/shoprite-fy2026-slides-profit-growth-outpaces-sales-amid-deflation-93CH-4883668",
-      "source": "Investing.com News",
-      "publishedAt": 1788255071000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
-      "title": "Raymond James reiterates Intercontinental Exchange stock Strong Buy on mortgage tech strength",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-intercontinental-exchange-stock-strong-buy-on-mortgage-tech-strength-93CH-4883667",
-      "source": "Investing.com News",
-      "publishedAt": 1788255043000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QllE4oCZcyBzYWxlcyBl",
-      "title": "BYD’s sales extend growth streak on strong exports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/byds-sales-extend-growth-streak-on-strong-exports-4883663",
-      "source": "Investing.com News",
-      "publishedAt": 1788255033000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG93ZXIgQnJpZGdlIEZ1",
-      "title": "Tower Bridge Funding 2024-3 notes to be redeemed on Sept. 21",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/tower-bridge-funding-20243-notes-to-be-redeemed-on-sept-21-93CH-4883665",
-      "source": "Investing.com News",
-      "publishedAt": 1788254797000,
+      "url": "https://www.cnbc.com/2026/09/01/used-cars-under-20000-sell-quickly-tradeoffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788260401000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -178,12 +390,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVybyB6b25lIGluZmxh",
-      "title": "Euro zone inflation hits 3.3% in August as energy costs fuel price pressures",
+      "id": "CNBC Markets-SW5kaWEgcmVqZWN0cyBj",
+      "title": "India rejects court order to uphold decades-old water-sharing treaty with Pakistan",
       "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/euro-zone-inflation-hits-33-in-august-as-energy-costs-fuel-price-pressures-4883664",
-      "source": "Investing.com News",
-      "publishedAt": 1788254784000,
+      "url": "https://www.cnbc.com/2026/09/01/india-hague-ruling-pakistan-water-treaty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788260311000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVybyB6b25lIGluZmxh",
+      "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788259827000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -223,21 +450,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5kaWFuIFByaW1lIE1p",
-      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788243801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBs",
       "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
       "summary": "",
@@ -250,51 +462,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlc2UgZW1lcmdpbmcg",
-      "title": "These emerging markets are favored to get &apos;a wall of money&apos; from carry trades",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788239558000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmFzdC1mYXNoaW9uIGdp",
-      "title": "Fast-fashion giant Shein&apos;s shares drop 9% in Hong Kong market debut",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788234259000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVzc2VudCByZXBvcnRl",
-      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788232976000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -313,42 +480,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlICQzIHRyaWxsaW9u",
-      "title": "The $3 trillion oil market has just gotten more accessible than ever: No longer a &apos;rich man&apos;s game&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788223791000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXVndXN0IHdhcyB0aGUg",
       "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
       "source": "CNBC Markets",
       "publishedAt": 1788218618000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0IE91dGxv",
-      "title": "Microsoft Outlook and OpenAI&apos;s ChatGPT Work are experiencing user outages",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788212192000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -385,36 +522,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVzc2VudCBwdXNoZXMg",
-      "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788210015000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788209401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -478,21 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788202416000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
       "title": "Trump says U.S. communities opposing AI data centers could end up &apos;backwards and poor&apos;",
       "summary": "",
@@ -508,102 +600,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TGlsbHkgdGFwcyBvYmVz",
-      "title": "Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/lilly-taps-obesity-windfall-for-more-ma-plus-elon-musk-remarks-pull-ge-vernova-lower.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788200831000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgdG8gbWVldCB3",
       "title": "Trump to meet with U.S. oil refiners as White House pushes to lower gas prices",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
       "source": "CNBC Markets",
       "publishedAt": 1788198271000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2Fsc2hpIHBlcm1hbmVu",
-      "title": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/kalshi-perman.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788197780000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYW4gQWlybGlu",
-      "title": "American Airlines announces Trump Accounts matching program",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788196786000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnJvYWRjb20gcmVwb3J0",
-      "title": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/broadcom-reports-earnings-this-week-mike-khouw-says-this-trade-could-be-a-winner.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788196695000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2FybnMgJmFw",
-      "title": "Trump warns &apos;we&apos;re going to hit them hard&apos; after Iran targets U.S. forces in Jordan: Report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788190410000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFuaGF0dGFuJmFwb3M7",
-      "title": "Manhattan&apos;s luxury rental market is booming, with units reaching $100,000 a month",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788175640000,
       "lang": "zh-CN",
       "topics": [
         "macro"
