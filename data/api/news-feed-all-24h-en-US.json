@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1788452315560,
-  "crawlUpdatedAt": 1788452315560,
-  "crawlCount": 40,
+  "updatedAt": 1788463409920,
+  "crawlUpdatedAt": 1788463409920,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,171 +13,20 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks climb as yields ease, but hot eurozone PPI clouds ECB outlook",
+      "id": "CNBC Markets-VmFuY2Ugc2F5cyBGZWQg",
+      "title": "Vance says Fed should lower interest rates: &apos;Would be nice to have some help&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-stabilize-from-1month-lows-as-weak-payrolls-data-check-rate-bets-4886988",
-      "source": "Investing.com News",
-      "publishedAt": 1788451956000,
+      "url": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788463139000,
       "lang": "en-US",
       "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmlsbGlvbmFpcmUgTGVv",
-      "title": "Billionaire Leon Black sues US House committee over Epstein investigation",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/billionaire-leon-black-sues-us-house-committee-over-epstein-investigation-4888319",
-      "source": "Investing.com News",
-      "publishedAt": 1788451952000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U291dGggQWZyaWNhbiBy",
-      "title": "South African rand rises as dollar weakens, gold gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/south-african-rand-rises-as-dollar-weakens-gold-gains-93CH-4888318",
-      "source": "Investing.com News",
-      "publishedAt": 1788451919000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [
-        "XAU"
+        "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5LLiBzdG9ja3MgaGln",
-      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.73%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-073-4888317",
-      "source": "Investing.com News",
-      "publishedAt": 1788451737000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3BhaW4gc3RvY2tzIGhp",
-      "title": "Spain stocks higher at close of trade; IBEX 35 up 1.12%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-112-4888316",
-      "source": "Investing.com News",
-      "publishedAt": 1788451711000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hhcmdlUG9pbnQgQ0VP",
-      "title": "ChargePoint CEO says 50% stock surge &apos;is the beginning of the momentum&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788451698000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9ydHVnYWwgc3RvY2tz",
-      "title": "Portugal stocks lower at close of trade; PSI down 0.04%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-004-4888315",
-      "source": "Investing.com News",
-      "publishedAt": 1788451686000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV0aGVybGFuZHMgc3Rv",
-      "title": "Netherlands stocks higher at close of trade; AEX up 0.09%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-009-4888314",
-      "source": "Investing.com News",
-      "publishedAt": 1788451657000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXRhbHkgc3RvY2tzIGhp",
-      "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.89%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-089-4888313",
-      "source": "Investing.com News",
-      "publishedAt": 1788451630000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXV0b21ha2VycyB1cmdl",
-      "title": "Automakers urge Congress to quickly pass law banning Chinese cars",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/automakers-urge-congress-to-quickly-pass-law-banning-chinese-cars-4888312",
-      "source": "Investing.com News",
-      "publishedAt": 1788451615000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFueSBzdG9ja3Mg",
-      "title": "Germany stocks higher at close of trade; DAX up 0.65%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-065-4888310",
-      "source": "Investing.com News",
-      "publishedAt": 1788451578000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -186,7 +35,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788451573000,
+      "publishedAt": 1788462970000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -196,18 +45,288 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmlnIGxlc3NvbnMgZnJv",
-      "title": "Big lessons from 12 stock exits, including Cramer&apos;s biggest-ever disappointment",
+      "id": "CNBC Markets-T2lsIHByaWNlcyBsaXR0",
+      "title": "Oil prices little changed after Iran fires missiles at Kuwait",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/big-lessons-from-12-stock-exits-including-cramers-biggest-ever-disappointment-.html",
+      "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788450786000,
+      "publishedAt": 1788462846000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IHRvIGlt",
+      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788462236000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGlwZXIgU2FuZGxlciBl",
+      "title": "Piper Sandler expects Robinhood to kickstart football season with a win",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/piper-sandler-expects-robinhood-to-start-football-season-with-a-win.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788462096000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFuayBvZiBDYW5hZGEg",
+      "title": "Bank of Canada unveils new $20 bill with King Charles portrait",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bank-of-canada-unveils-new-20-bill-with-king-charles-portrait-93CH-4888428",
+      "source": "Investing.com News",
+      "publishedAt": 1788462024000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3J1c29lIHNpZ25zICQx",
+      "title": "Crusoe signs $13 billion cloud deal with Jane Street - Bloomberg",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/crusoe-signs-13-billion-cloud-deal-with-jane-street--bloomberg-93CH-4888427",
+      "source": "Investing.com News",
+      "publishedAt": 1788462013000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rmlyc3RFbmVyZ3kgbmFt",
+      "title": "FirstEnergy names Jon Dormo VP of generation project development",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/firstenergy-names-jon-dormo-vp-of-generation-project-development-93CH-4888425",
+      "source": "Investing.com News",
+      "publishedAt": 1788461801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U25vd2ZsYWtlIGVhcm5p",
+      "title": "Snowflake earnings support software rerate as product revenue accelerates to 37%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/snowflake-earnings-support-software-rerate-as-product-revenue-accelerates-to-37-93CH-4888423",
+      "source": "Investing.com News",
+      "publishedAt": 1788461697000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Vm9sa3N3YWdlbiBwbGFu",
+      "title": "Volkswagen plans to cut 50,000 jobs by 2030",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/volkswagen-plans-to-cut-50000-jobs-by-2030-93CH-4888422",
+      "source": "Investing.com News",
+      "publishedAt": 1788461668000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WWVuIHNvYXJzIHRvIG9u",
+      "title": "Yen soars to one-month high against dollar amid intervention, rate hike chatter",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asian-currencies-rise-as-yen-surges-toward-158-intervention-risk-returns-4886966",
+      "source": "Investing.com News",
+      "publishedAt": 1788461589000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEJyb2FkY29t",
+      "title": "Why is Broadcom falling despite strong growth commentary?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-broadcom-falling-despite-strong-growth-commentary-93CH-4888419",
+      "source": "Investing.com News",
+      "publishedAt": 1788461481000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SFBFIGVhcm5pbmdzIGFu",
+      "title": "HPE earnings analysis: questions answered and next catalysts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/hpe-earnings-analysis-questions-answered-and-next-catalysts-93CH-4888417",
+      "source": "Investing.com News",
+      "publishedAt": 1788461278000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Vmljb3IgQ29ycC4gZGly",
+      "title": "Vicor Corp. director Philip Davies sells $546,083 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/vicor-corp-director-philip-davies-sells-546083-in-stock-93CH-4888416",
+      "source": "Investing.com News",
+      "publishedAt": 1788461172000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29ydmVsIGRpcmVjdG9y",
+      "title": "Corvel director Judd Jessup sells $281,891 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/corvel-director-judd-jessup-sells-281891-in-company-stock-93CH-4888415",
+      "source": "Investing.com News",
+      "publishedAt": 1788461165000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2UmYXBvcztyZSBsaWZ0",
+      "title": "We&apos;re lifting our price targets on 2 stocks that have shaken off AI disruption concerns",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/were-lifting-our-price-targets-on-2-stocks-that-have-shaken-off-ai-disruption-concerns.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788460053000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJIGJlZ2lucyBy",
+      "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788458402000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3B0aW9ucyB2b2x1bWUg",
+      "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788458213000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7Tm8gc3RlZXJp",
+      "title": "&apos;No steering wheel, no pedals&apos;: Tesla teases fans ahead of long-awaited Cybercab update",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788456815000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGVvbiBCbGFjayBzdWVz",
+      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won&apos;t appear Thursday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788455707000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hhcmdlUG9pbnQgQ0VP",
+      "title": "ChargePoint CEO says 70% stock surge &apos;is the beginning of the momentum&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788455108000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -216,7 +335,37 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788450383000,
+      "publishedAt": 1788454834000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXV0b21ha2VycyB1cmdl",
+      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788454273000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SHVnZ2luZyBGYWNlIGFw",
+      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788453802000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -271,51 +420,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-JmFwb3M7Tm8gc3RlZXJp",
-      "title": "&apos;No steering wheel, no pedals&apos;: Tesla teases fans ahead of long-awaited Cybercab update",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788449007000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGVvbiBCbGFjayBzdWVz",
-      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won&apos;t appear Thursday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788448344000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SHVnZ2luZyBGYWNlIGFw",
-      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788446305000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SXJhbiBzdHJpa2VzIEt1",
       "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last &apos;too long&apos;",
       "summary": "",
@@ -358,36 +462,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnJlbnQgb2lsIHByaWNl",
-      "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788442813000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIHN0YXJ0cyBT",
-      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788438675000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -481,23 +555,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RHV0Y2ggY2VudHJhbCBi",
-      "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788428285000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TkJBIHN1c3BlbmRzIENs",
       "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "summary": "",
@@ -510,23 +567,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RhdGVzIG5vdyBtdXN0",
-      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788410354000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -545,36 +585,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2h5IEhpbHRvbiBjYWxs",
-      "title": "Why Hilton calls this Asian country the fastest-growing tourism market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/hilton-hotel-market-expansion-india-china-southeast-asia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788394413000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UEcmRSBDRU8gY2FsbHMg",
-      "title": "PG&E CEO calls on California to pass wildfire reform after the shelved effort crushed the stock",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/02/pge-ceo-calls-on-california-to-pass-wildfire-reform-after-the-shelved-effort-crushed-the-stock.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788391424000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgYW5kIFhpIGFy",
       "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
       "summary": "",
@@ -587,36 +597,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IEplcnNleSBhc2tz",
-      "title": "New Jersey asks the Supreme Court to take on prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788383730000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCZhcG9zO3MgcHJv",
-      "title": "Ford&apos;s production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788366319000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
