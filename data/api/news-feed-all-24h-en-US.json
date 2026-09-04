@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1788512380533,
-  "crawlUpdatedAt": 1788512380533,
-  "crawlCount": 38,
+  "updatedAt": 1788528367473,
+  "crawlUpdatedAt": 1788528367473,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,102 +13,108 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q2hpbmEgcmFyZSBlYXJ0",
-      "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say",
+      "id": "Investing.com News-VS5TLiBqb2IgZ3Jvd3Ro",
+      "title": "U.S. job growth smashes expectations in August, unemployment rate remains flat",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say-4888882",
+      "url": "https://www.investing.com/news/economic-indicators/us-job-growth-smashes-expectations-in-august-unemployment-rate-remains-flat-4889557",
       "source": "Investing.com News",
-      "publishedAt": 1788512071000,
+      "publishedAt": 1788527658000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: ReFuels posts profit in Q1 2026 as stock jumps 16%",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-refuels-posts-profit-in-q1-2026-as-stock-jumps-16-93CH-4889003",
-      "source": "Investing.com News",
-      "publishedAt": 1788511968000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Sectra posts strong Q1 2026 growth as cloud revenue jumps",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sectra-posts-strong-q1-2026-growth-as-cloud-revenue-jumps-93CH-4889002",
-      "source": "Investing.com News",
-      "publishedAt": 1788511963000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Vm9sa3N3YWdlbiBzaGFy",
-      "title": "Volkswagen shares jump as surprise turnaround deal averts showdown as job cuts loom",
+      "id": "Investing.com News-UyZQIDUwMCwgRG93IHNl",
+      "title": "S&P 500, Dow set for lower open after jobs report fuels rate-hike bets",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/volkswagen-shares-jump-in-early-trade-following-turnaround-agreement-4888864",
+      "url": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
       "source": "Investing.com News",
-      "publishedAt": 1788511729000,
+      "publishedAt": 1788527559000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmlsaWJpbGkgcHJpY2Vz",
+      "title": "Bilibili prices $700 million convertible notes due 2031",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/bilibili-prices-700-million-convertible-notes-due-2031-93CH-4889645",
+      "source": "Investing.com News",
+      "publishedAt": 1788527556000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: U.S. Global Investors posts profit in Q4 2026, shares rise",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-us-global-investors-posts-profit-in-q4-2026-shares-rise-93CH-4889644",
+      "source": "Investing.com News",
+      "publishedAt": 1788527514000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBtaW5lcnMgYW5k",
+      "title": "Gold miners and bitcoin stocks fall on strong jobs data",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/gold-miners-and-bitcoin-stocks-fall-on-strong-jobs-data-4889640",
+      "source": "Investing.com News",
+      "publishedAt": 1788527479000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
+        "macro"
+      ],
+      "symbols": [
+        "BTC",
+        "XAU"
+      ],
       "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Vml2ZW5kaSBzaGFyZXMg",
-      "title": "Vivendi shares fall 4% as first-half earnings hit by restructuring costs",
+      "id": "Investing.com News-Kzg5JSBzaW5jZSBlbnRy",
+      "title": "+89% since entry: AI-powered strategy closes massive healthcare win in September",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/vivendi-shares-fall-4-as-firsthalf-earnings-hit-by-restructuring-costs-4889001",
+      "url": "https://www.investing.com/news/stock-market-news/89-since-entry-aipowered-strategy-closes-massive-healthcare-win-in-september-4889643",
       "source": "Investing.com News",
-      "publishedAt": 1788511642000,
+      "publishedAt": 1788527478000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFpcmQgZG93bmdyYWRl",
-      "title": "Baird downgrades Duluth Holdings stock rating on revenue concerns",
+      "id": "Investing.com News-RVFUIGFjcXVpcmVzIE1j",
+      "title": "EQT acquires McGill and Partners for $2 billion from Warburg Pincus",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/baird-downgrades-duluth-holdings-stock-rating-on-revenue-concerns-93CH-4888999",
+      "url": "https://www.investing.com/news/stock-market-news/eqt-acquires-mcgill-and-partners-for-2-billion-from-warburg-pincus-93CH-4889642",
       "source": "Investing.com News",
-      "publishedAt": 1788511610000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2ktQm9uZSBkaXJlY3Rv",
-      "title": "Si-Bone director Jeffrey Dunn sells $378,160 of common stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/sibone-director-jeffrey-dunn-sells-378160-of-common-stock-93CH-4888998",
-      "source": "Investing.com News",
-      "publishedAt": 1788511565000,
+      "publishedAt": 1788527441000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,64 +124,281 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RE5PIGNvbmZpcm1zIGl0",
-      "title": "DNO confirms it will not make offer for Genel Energy",
+      "id": "Investing.com News-RlRTRSAxMDAgdG9kYXk6",
+      "title": "FTSE 100 today: Stocks slip as strong U.S. jobs data lifts Fed hike bets",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/dno-confirms-it-will-not-make-offer-for-genel-energy-93CH-4888997",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-traders-eye-us-jobs-data-4888877",
       "source": "Investing.com News",
-      "publishedAt": 1788511481000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-THVsdWxlbW9uIGZvcmVj",
-      "title": "Lululemon forecast cut hits shares, underscores challenge for next CEO",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/lululemon-forecast-cut-hits-shares-underscores-challenge-for-next-ceo-4888996",
-      "source": "Investing.com News",
-      "publishedAt": 1788511431000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyBzZXQg",
-      "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-set-for-weekly-gain-as-usiran-hostilities-intensify-4888883",
-      "source": "Investing.com News",
-      "publishedAt": 1788511409000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIGJlY29tZXMg",
-      "title": "Nvidia becomes one of world&apos;s biggest strategic tech backers as equity investments soar to $99 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788509331000,
+      "publishedAt": 1788527351000,
       "lang": "en-US",
       "topics": [
         "rates",
         "macro"
       ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmVmZmVyaWVzIGN1dHMg",
+      "title": "Jefferies cuts Clearway Energy stock price target on rates",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-clearway-energy-stock-price-target-on-rates-93CH-4889641",
+      "source": "Investing.com News",
+      "publishedAt": 1788527328000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VFNYIGZ1dHVyZXMgbXV0",
+      "title": "TSX futures muted ahead of domestic, US jobs reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/tsx-futures-muted-ahead-of-domestic-us-jobs-reports-4889409",
+      "source": "Investing.com News",
+      "publishedAt": 1788527271000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgb3VyIHRv",
+      "title": "Here are our top 10 things to watch in the stock market Friday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/here-are-our-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788527249000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Vm9sa3N3YWdlbiBwbGFu",
+      "title": "Volkswagen plans 50,000 job cuts as analysts see ‘halo effect’ for German auto industry",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788527089000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBy",
+      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788526467000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THVsdWxlbW9uIHN0b2Nr",
+      "title": "Lululemon stock plunges 20% on disappointing earnings and outlook",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788525950000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGllc2VsIGhpdHMgcmVj",
+      "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788525643000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V29ybGQmYXBvcztzIGJp",
+      "title": "World&apos;s biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788524529000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiAmYXBvcztFY29u",
+      "title": "U.S. &apos;Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788524407000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qml0Y29pbiBoZWFkcyBm",
+      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788524240000,
+      "lang": "en-US",
+      "topics": [
+        "crypto",
+        "macro"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdGFy",
+      "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788524144000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGJpZyBidXNpbmVz",
+      "title": "The big business of personal protection: How private security became a $50 billion industry",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788523068000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIHdlYWx0aCBvZiB0",
+      "title": "The wealth of the world&apos;s billionaires reached $15.1 trillion last year, per a new report",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788521575000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IE52aWRpYSZhcG9z",
+      "title": "Why Nvidia&apos;s &apos;defensive move&apos; to acquire Hugging Face is about much more than chips",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788521490000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VEhDIGRyaW5rcyBjb3Vs",
+      "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788519601000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyBp",
+      "title": "Nvidia&apos;s investments grow to $99 billion as chip giant becomes major backer of AI companies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788514329000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXJnZW50aW5hJmFwb3M7",
+      "title": "Argentina&apos;s Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788508249000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -203,38 +426,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V29ybGQmYXBvcztzIGJp",
-      "title": "World&apos;s biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788504395000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiAmYXBvcztFY29u",
-      "title": "U.S. &apos;Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788502677000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -346,21 +537,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW4gdGFy",
-      "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788469221000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXV0b21ha2VycyB1cmdl",
       "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
       "summary": "",
@@ -376,87 +552,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-THVsdWxlbW9uIHN0b2Nr",
-      "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788468723000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2FybmV5IGNsYXBzIGJh",
       "title": "Carney claps back at Lutnick, says Canada will resume trade talks &apos;when the Americans are ready&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
       "source": "CNBC Markets",
       "publishedAt": 1788468149000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-WnNjYWxlciBzdG9jayBy",
-      "title": "Zscaler stock rises on earnings beat, upbeat guidance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788468107000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hhcmdlUG9pbnQgQ0VP",
-      "title": "ChargePoint CEO says 70% stock surge &apos;is the beginning of the momentum&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788466162000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2h5",
-      "title": "Here&apos;s why Jim Cramer is putting Costco stock in the penalty box",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/heres-why-jim-cramer-is-putting-costco-stock-is-in-the-penalty-box-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788465034000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIGJpZyBBdWd1c3Qg",
-      "title": "The big August jobs report is due out Friday. Here&apos;s what to expect for what has been a jobless summer",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788464289000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -519,66 +620,6 @@
       "url": "https://www.cnbc.com/2026/09/03/piper-sandler-expects-robinhood-to-start-football-season-with-a-win.html",
       "source": "CNBC Markets",
       "publishedAt": 1788462096000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGVvbiBCbGFjayBzdWVz",
-      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won&apos;t appear Thursday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788455707000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNrIHN0YXJ0",
-      "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788454834000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SHVnZ2luZyBGYWNlIGFw",
-      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788453802000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TkZMIHNldCBmb3IgZmly",
-      "title": "NFL set for first-ever game in Melbourne, Australia, in international expansion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788449881000,
       "lang": "en-US",
       "topics": [
         "macro"
