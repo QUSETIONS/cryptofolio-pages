@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1788597104298,
-  "crawlUpdatedAt": 1788597104298,
-  "crawlCount": 35,
+  "updatedAt": 1788611648155,
+  "crawlUpdatedAt": 1788611648155,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-QmFyY2xheXMgc2VlcyBh",
-      "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
+      "id": "Investing.com News-Rm94Y29ubiBleHBlY3Rz",
+      "title": "Foxconn expects Q3 to beat market expectations as AI demand stays strong",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/barclays-sees-a-36-trillion-annual-investment-opportunity-in-this-sector-4890178",
+      "url": "https://www.investing.com/news/stock-market-news/foxconn-expects-q3-to-beat-market-expectations-as-ai-demand-stays-strong-4890202",
       "source": "Investing.com News",
-      "publishedAt": 1788595096000,
+      "publishedAt": 1788611124000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhpcyBlbmhhbmNlZCBn",
+      "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788610842000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QW5vdGhlciBmYWxzZSBk",
-      "title": "Another false dawn? China’s luxury spending revival seems to be fading: Bernstein",
+      "id": "CNBC Markets-V2l0aCBIU0FzLCBlbXBs",
+      "title": "With HSAs, employers are turning to the 401(k) playbook",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/another-false-dawn-chinas-luxury-spending-revival-seems-to-be-fading-bernstein-4890177",
-      "source": "Investing.com News",
-      "publishedAt": 1788592646000,
+      "url": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788610542000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,29 +58,104 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qml0Y29pbiBzdHVjayBp",
-      "title": "Bitcoin stuck in $4K range with Doji signal: Live levels",
+      "id": "CNBC Markets-VHJ1bXDigJlzIHN0YXRl",
+      "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-      "source": "Investing.com News",
-      "publishedAt": 1788591724000,
+      "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788610478000,
       "lang": "zh-CN",
       "topics": [
-        "crypto"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJvbSDigJhteXN0ZXJ5",
+      "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788610461000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFtaWxpZXMgb2YgbWlz",
+      "title": "Families of missing pilgrims in Tibet demand answers from China",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/families-of-missing-pilgrims-in-tibet-demand-answers-from-china-4890200",
+      "source": "Investing.com News",
+      "publishedAt": 1788610349000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R00gdnMuIEZvcmQ6IFUu",
+      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers&apos; century-old rivalry",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788609601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWVldCB0aGUgQ0lTTzog",
+      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788609601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2l0aSBwdXNoZXMgRmVk",
+      "title": "Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/citi-pushes-fed-ratecut-forecast-to-june-2027-after-resilient-jobs-market-4890197",
+      "source": "Investing.com News",
+      "publishedAt": 1788608302000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
       ],
       "symbols": [
-        "BTC"
+        "FED"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U291dGggS29yZWEgZXhw",
-      "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+      "id": "Investing.com News-SG93IEludmVzdGluZ1By",
+      "title": "How InvestingPro’s Fair Value spotted Hanmi Financial’s 65% gain",
       "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-surpass-fullyear-record-hit-7094-billion-ytd-4890167",
+      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-hanmi-financials-65-gain-93CH-4890195",
       "source": "Investing.com News",
-      "publishedAt": 1788590907000,
+      "publishedAt": 1788606579000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -75,12 +165,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Tm9yd29vZCBGaW5hbmNp",
-      "title": "Norwood Financial EVP O’Bell sells $103.5k in shares",
+      "id": "Investing.com News-QW1lcmljYW5zIGhpdCB3",
+      "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/norwood-financial-evp-obell-sells-1035k-in-shares-93CH-4890176",
+      "url": "https://www.investing.com/news/commodities-news/americans-hit-with-recordhigh-labor-day-weekend-gasoline-prices-4890194",
       "source": "Investing.com News",
-      "publishedAt": 1788590784000,
+      "publishedAt": 1788606384000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -90,12 +180,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RHJlYW0gRmluZGVycyBI",
-      "title": "Dream Finders Homes director Len Sturm purchases $20,205 in stock",
+      "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
+      "title": "InvestingPro’s fair value warned CAVA was 43% overvalued before 50% drop",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/dream-finders-homes-director-len-sturm-purchases-20205-in-stock-93CH-4890175",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-warned-cava-was-43-overvalued-before-50-drop-93CH-4890193",
       "source": "Investing.com News",
-      "publishedAt": 1788590763000,
+      "publishedAt": 1788606138000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RhdGVzIHJlYWNoIGFn",
+      "title": "States reach agreement at autonomous weapons talks in Geneva",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/states-reach-agreement-at-autonomous-weapons-talks-in-geneva-4890192",
+      "source": "Investing.com News",
+      "publishedAt": 1788605647000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,14 +210,15 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VmlzdGFuY2UgTmV0d29y",
-      "title": "Vistance Networks director L. William Krause sells $149,555 shares",
+      "id": "Investing.com News-V2hlbiBkbyBoaWdoZXIg",
+      "title": "When do higher bond yields become a bigger problem for stocks?",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/vistance-networks-director-l-william-krause-sells-149555-shares-93CH-4890174",
+      "url": "https://www.investing.com/news/stock-market-news/when-do-higher-bond-yields-become-a-bigger-problem-for-stocks-4890191",
       "source": "Investing.com News",
-      "publishedAt": 1788590756000,
+      "publishedAt": 1788605628000,
       "lang": "zh-CN",
       "topics": [
+        "rates",
         "macro"
       ],
       "symbols": [],
@@ -120,47 +226,36 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmFyYWdlIHR1cm1vaWwg",
-      "title": "Farage turmoil gives UK PM Burnham breathing room ahead of budget",
+      "id": "Investing.com News-R29sZG1hbiByYWlzZXMg",
+      "title": "Goldman raises Asia-Pacific equity target on tech earnings outlook",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/farage-turmoil-gives-uk-pm-burnham-breathing-room-ahead-of-budget-4890173",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-raises-asiapacific-equity-target-on-tech-earnings-outlook-93CH-4890190",
       "source": "Investing.com News",
-      "publishedAt": 1788590323000,
+      "publishedAt": 1788604389000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
-      "symbols": [],
+      "symbols": [
+        "XAU"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UHVibWF0aWMgY2hhaXJt",
-      "title": "Pubmatic chairman, chief innovation officer Goel sells $106,526 in stock",
+      "id": "Investing.com News-SGVyZSBhcmUgdGhyZWUg",
+      "title": "Here are three scenarios that could drive gold above $5,000",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-chairman-chief-innovation-officer-goel-sells-106526-in-stock-93CH-4890171",
+      "url": "https://www.investing.com/news/commodities-news/jefferies-identifies-three-scenarios-that-could-drive-gold-above-5000-4890189",
       "source": "Investing.com News",
-      "publishedAt": 1788588066000,
+      "publishedAt": 1788603628000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rmlyc3QgVVMgQmFuY3No",
-      "title": "First US Bancshares director Robert Field buys $1,858 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/first-us-bancshares-director-robert-field-buys-1858-in-stock-93CH-4890170",
-      "source": "Investing.com News",
-      "publishedAt": 1788588064000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
+      "symbols": [
+        "XAU"
       ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -171,21 +266,6 @@
       "url": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
       "source": "CNBC Markets",
       "publishedAt": 1788584401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBsaXZpbmcgcm9vbSB1",
-      "title": "A living room unlike any other—how to gather and connect like Gloria Steinem, says expert",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788566646000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -251,23 +331,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Mi15ZWFyIHlpZWxkIHJp",
-      "title": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788552746000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -382,6 +445,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-V2hpdGUgSG91c2UgaGFz",
+      "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It&apos;s unclear if they will be filled",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788544387000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-TGFib3IgRGF5IG1hcmtz",
       "title": "Labor Day marks the start of &apos;fallcations&apos; as wealthy travelers avoid summer crowds",
       "summary": "",
@@ -397,6 +475,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-VS5TLiBwYXlyb2xscyBy",
+      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788542197000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-RGllc2VsIGhpdHMgcmVj",
       "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
       "summary": "",
@@ -408,24 +501,6 @@
         "rates"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qml0Y29pbiBoZWFkcyBm",
-      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788532608000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -445,104 +520,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Vm9sa3N3YWdlbiBwbGFu",
-      "title": "Volkswagen plans 50,000 job cuts as analysts see ‘halo effect’ for German auto industry",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788527089000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-THVsdWxlbW9uIHN0b2Nr",
       "title": "Lululemon stock plunges 20% on disappointing earnings and outlook",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
       "source": "CNBC Markets",
       "publishedAt": 1788525950000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V29ybGQmYXBvcztzIGJp",
-      "title": "World&apos;s biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788524529000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiAmYXBvcztFY29u",
-      "title": "U.S. &apos;Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788524407000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHdlYWx0aCBvZiB0",
-      "title": "The wealth of the world&apos;s billionaires reached $15.1 trillion last year, per a new report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788521575000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IE52aWRpYSZhcG9z",
-      "title": "Why Nvidia&apos;s &apos;defensive move&apos; to acquire Hugging Face is about much more than chips",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788521490000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VEhDIGRyaW5rcyBjb3Vs",
-      "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788519601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
