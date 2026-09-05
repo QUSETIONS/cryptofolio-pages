@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1788640750610,
-  "crawlUpdatedAt": 1788640750610,
-  "crawlCount": 27,
+  "updatedAt": 1788648360098,
+  "crawlUpdatedAt": 1788648360098,
+  "crawlCount": 26,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,51 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VVMsIElyYW5pYW4gZm9y",
+      "title": "US, Iranian forces fire at vessels in waters near Iran",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says-4890210",
+      "source": "Investing.com News",
+      "publishedAt": 1788644212000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+      "source": "Investing.com News",
+      "publishedAt": 1788643204000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXMgVFRGIGdhcyBmYWly",
+      "title": "Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238",
+      "source": "Investing.com News",
+      "publishedAt": 1788642383000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-R3JlZWsgUE0gdW52ZWls",
       "title": "Greek PM unveils plan to boost incomes ahead of elections",
@@ -122,21 +167,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgc3RyaWtlcyB0aHJl",
-      "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says-4890210",
-      "source": "Investing.com News",
-      "publishedAt": 1788632308000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-RU9TIENsaW1icyAxNCUg",
       "title": "EOS Climbs 14% In Bullish Trade",
       "summary": "",
@@ -193,40 +223,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnVlbCB0YW5rZXIgZXhw",
-      "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/fuel-tanker-explosion-after-traffic-accident-kills-10-in-western-iran-state-media-says-4890219",
-      "source": "Investing.com News",
-      "publishedAt": 1788625447000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBob2xkcyBi",
-      "title": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184",
-      "source": "Investing.com News",
-      "publishedAt": 1788625047000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC",
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -402,21 +398,6 @@
       "url": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
       "source": "CNBC Markets",
       "publishedAt": 1788584401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBzYW5jdGlvbnMg",
-      "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he &apos;hopes for&apos; no further bank penalties",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788554394000,
       "lang": "en-US",
       "topics": [
         "macro"
