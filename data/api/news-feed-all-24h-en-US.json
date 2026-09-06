@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1788715076148,
-  "crawlUpdatedAt": 1788715076148,
-  "crawlCount": 21,
+  "updatedAt": 1788722805648,
+  "crawlUpdatedAt": 1788722805648,
+  "crawlCount": 20,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qml0Y29pbiBjb25zb2xp",
+      "title": "Bitcoin consolidates near $79,955 with overbought signals: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
+      "source": "Investing.com News",
+      "publishedAt": 1788721331000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U0VDIHN1ZXMgSVNTIGFz",
+      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1788717233000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-S2V5QmFuYyB3YXJucyBB",
       "title": "KeyBanc warns Apple’s iPhone 18 launch may be a negative catalyst for shares",
@@ -70,21 +102,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0VDIHN1ZXMgSVNTIGFz",
-      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788708916000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -172,21 +189,6 @@
       "url": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
       "source": "Investing.com News",
       "publishedAt": 1788704533000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3VsZiBtYXJrZXRzIGNs",
-      "title": "Gulf markets close mixed amid US-Iran tensions",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/gulf-markets-close-mixed-amid-usiran-tensions-93CH-4890296",
-      "source": "Investing.com News",
-      "publishedAt": 1788704409000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -312,23 +314,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdHVybnMgdXAg",
-      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788635573000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "positive",
       "quality": "fresh"
     }
