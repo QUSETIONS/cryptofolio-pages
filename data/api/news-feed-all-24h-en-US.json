@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789075938724,
-  "crawlUpdatedAt": 1789075938724,
+  "updatedAt": 1789084660710,
+  "crawlUpdatedAt": 1789084660710,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SHVtYW5zIG5lZWQgdG8g",
-      "title": "Humans need to &apos;surf the wave&apos; of AI rather than get swallowed by it, Chesky says at Communacopia",
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789075359000,
+      "publishedAt": 1789083841000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says this is the key force driving stocks right now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789080414000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +45,46 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-VGV4YXMgU3RvY2sgRXhj",
+      "title": "Texas Stock Exchange captures first primary equity market listings from NYSE",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/texas-stock-exchange-captures-first-primary-equity-market-listings-from-nyse-4897004",
+      "source": "Investing.com News",
+      "publishedAt": 1789076631000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBkaXBzIHRv",
+      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
+      "source": "Investing.com News",
+      "publishedAt": 1789076628000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-T3JhY2xlJmFwb3M7cyBz",
-      "title": "Oracle&apos;s stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
+      "title": "Oracle&apos;s stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789075065000,
+      "publishedAt": 1789076567000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,27 +94,61 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2VkYnVzaCBpbml0aWF0",
-      "title": "Wedbush initiates Datadog stock coverage with Outperform rating",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Alliance Entertainment rallies on Q4 2026 growth",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/wedbush-initiates-datadog-stock-coverage-with-outperform-rating-93CH-4896975",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alliance-entertainment-rallies-on-q4-2026-growth-93CH-4897003",
       "source": "Investing.com News",
-      "publishedAt": 1789074764000,
+      "publishedAt": 1789076475000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R29sZGNhbmEgUmVzb3Vy",
-      "title": "Goldcana Resources announces private placement terms",
+      "id": "Investing.com News-TmV4c3RhciBhdCBHb2xk",
+      "title": "Nexstar at Goldman Sachs conference: growth bets meet regulatory lift",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/goldcana-resources-announces-private-placement-terms-93CH-4896974",
+      "url": "https://www.investing.com/news/transcripts/nexstar-at-goldman-sachs-conference-growth-bets-meet-regulatory-lift-93CH-4897002",
       "source": "Investing.com News",
-      "publishedAt": 1789074751000,
+      "publishedAt": 1789076334000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-THlmdCBhdCBHb2xkbWFu",
+      "title": "Lyft at Goldman Sachs Communacopia + Technology Conference 2026: growth shifts",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/lyft-at-goldman-sachs-communacopia--technology-conference-2026-growth-shifts-93CH-4897001",
+      "source": "Investing.com News",
+      "publishedAt": 1789076245000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UEFSIFRlY2hub2xvZ3kg",
+      "title": "PAR Technology at Goldman Sachs Communacopia + Technology Conference 2026: AI push",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/par-technology-at-goldman-sachs-communacopia--technology-conference-2026-ai-push-93CH-4896999",
+      "source": "Investing.com News",
+      "publishedAt": 1789076195000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -75,27 +160,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnJhbmtsaW4gQlNQIFJl",
-      "title": "Franklin BSP Realty Trust declares Q3 dividend, reauthorizes buyback",
+      "id": "Investing.com News-UG9ydHVndWVzZSBncm91",
+      "title": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/franklin-bsp-realty-trust-declares-q3-dividend-reauthorizes-buyback-93CH-4896970",
+      "url": "https://www.investing.com/news/stock-market-news/portuguese-group-d3-sues-meta-tiktok-and-youtube-over-addictive-design-4896466",
       "source": "Investing.com News",
-      "publishedAt": 1789074511000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW50aHJvcGljIGRpc3J1",
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-4896930",
-      "source": "Investing.com News",
-      "publishedAt": 1789074438000,
+      "publishedAt": 1789076192000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -105,12 +175,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmF0aCAmIEJvZHkgV29y",
-      "title": "Bath & Body Works gains in extended trading as Barington pushes for a sale",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Zumiez posts Q2 2026 miss as stock sinks after hours",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bath--body-works-gains-in-extended-trading-as-barington-pushes-for-a-sale-4896969",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zumiez-posts-q2-2026-miss-as-stock-sinks-after-hours-93CH-4896998",
       "source": "Investing.com News",
-      "publishedAt": 1789074424000,
+      "publishedAt": 1789076175000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -120,12 +190,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TnZpZGlhIHN0b2NrIGVk",
-      "title": "Nvidia stock edges higher on Microsoft data center expansion report",
+      "id": "Investing.com News-aWJleCBRNCBGWTI2IHNs",
+      "title": "ibex Q4 FY26 slides: AI push drives growth, margins face pressure",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-stock-edges-higher-on-microsoft-data-center-expansion-report-4896967",
+      "url": "https://www.investing.com/news/company-news/ibex-q4-fy26-slides-ai-push-drives-growth-margins-face-pressure-93CH-4896997",
       "source": "Investing.com News",
-      "publishedAt": 1789074415000,
+      "publishedAt": 1789075985000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q09NUEFTUyBQYXRod2F5",
+      "title": "COMPASS Pathways at cantor healthcare conference: launch path sharpens",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/compass-pathways-at-cantor-healthcare-conference-launch-path-sharpens-93CH-4896996",
+      "source": "Investing.com News",
+      "publishedAt": 1789075958000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -135,57 +220,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJhZGluZyBEYXk6IElu",
-      "title": "Trading Day: Inflation palpitations",
+      "id": "CNBC Markets-SHVtYW5zIG5lZWQgdG8g",
+      "title": "Humans need to &apos;surf the wave&apos; of AI rather than get swallowed by it, Chesky says at Communacopia",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/trading-day-inflation-palpitations-4896968",
-      "source": "Investing.com News",
-      "publishedAt": 1789074397000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgZGllc2VsIHByaWNl",
-      "title": "US diesel prices top $6 per gallon for first time",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-diesel-prices-top-6-per-gallon-for-first-time-93CH-4896966",
-      "source": "Investing.com News",
-      "publishedAt": 1789074312000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FyZGlvbCBUaGVyYXBl",
-      "title": "Cardiol Therapeutics files $150 million shelf prospectus",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/cardiol-therapeutics-files-150-million-shelf-prospectus-93CH-4896965",
-      "source": "Investing.com News",
-      "publishedAt": 1789074279000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VEhPUiBJbmR1c3RyaWVz",
-      "title": "THOR Industries restructures North American RV leadership",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/thor-industries-restructures-north-american-rv-leadership-93CH-4896964",
-      "source": "Investing.com News",
-      "publishedAt": 1789074275000,
+      "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789075359000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -252,23 +292,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789069051000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -420,21 +443,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgaXMgbG9zaW5nIGl0",
-      "title": "AI is losing its stranglehold on the U.S. stock market. Here&apos;s why",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789062144000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
