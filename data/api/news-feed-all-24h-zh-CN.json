@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789038395739,
-  "crawlUpdatedAt": 1789038395739,
-  "crawlCount": 39,
+  "updatedAt": 1789052804440,
+  "crawlUpdatedAt": 1789052804440,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,533 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-T3VyIHRvcCAzIHN0b2Nr",
+      "title": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789052447000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hlcmUgaW52ZXN0b3Jz",
+      "title": "Where investors are finding income outside traditional bonds as rates rise",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/income-alternatives-bond-yields-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789052288000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2ltbWVsIHNheXMgaW50",
+      "title": "Kimmel says interview with Senate candidate Talarico won&apos;t air on ABC amid FCC threats",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789052139000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
+      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789051970000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGxpa2VsaWhvb2Qg",
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789051896000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGUgbWFrZXMgYmln",
+      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus&apos; first showcase as CEO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789051552000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWZsYWMgYXQgS0JXIElu",
+      "title": "Aflac at KBW Insurance Conference 2026: capital, growth and AI",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/aflac-at-kbw-insurance-conference-2026-capital-growth-and-ai-93CH-4896352",
+      "source": "Investing.com News",
+      "publishedAt": 1789051479000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: GURU Organic Energy tops Q3 2026 estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-guru-organic-energy-tops-q3-2026-estimates-93CH-4896350",
+      "source": "Investing.com News",
+      "publishedAt": 1789051471000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIERpZ2l0YWwg",
+      "title": "Why is Digital Brands stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-digital-brands-stock-surging-today-93CH-4896351",
+      "source": "Investing.com News",
+      "publishedAt": 1789051471000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdCBzbGlwcyBh",
+      "title": "Wall St slips after hotter-than-expected producer inflation data",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
+      "source": "Investing.com News",
+      "publishedAt": 1789051371000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGV2b2dlbiByZWdhaW5z",
+      "title": "Tevogen regains Nasdaq compliance with minimum market value requirement",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/tevogen-regains-nasdaq-compliance-with-minimum-market-value-requirement-93CH-4896349",
+      "source": "Investing.com News",
+      "publishedAt": 1789051371000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9laW5nIHRlY2huaWNh",
+      "title": "Boeing technical analysis: Strong Sell signal across daily, weekly and hourly charts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-technical-analysis-strong-sell-signal-across-daily-weekly-and-hourly-charts-93CH-4896348",
+      "source": "Investing.com News",
+      "publishedAt": 1789051353000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmFldGggVGhlcmFwZXV0",
+      "title": "Faeth Therapeutics at Cantor Fitzgerald conference: oral PI3K push",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/faeth-therapeutics-at-cantor-fitzgerald-conference-oral-pi3k-push-93CH-4896337",
+      "source": "Investing.com News",
+      "publishedAt": 1789051254000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3JhY2xlIGVhcm5pbmdz",
+      "title": "Oracle earnings read-throughs: cloud rivals, AI suppliers, and hyperscalers to watch",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/oracle-earnings-readthroughs-cloud-rivals-ai-suppliers-and-hyperscalers-to-watch-93CH-4896336",
+      "source": "Investing.com News",
+      "publishedAt": 1789051085000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SUZGIGF0IEJhcmNsYXlz",
+      "title": "IFF at Barclays consumer conference: turnaround gains traction",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/iff-at-barclays-consumer-conference-turnaround-gains-traction-93CH-4896335",
+      "source": "Investing.com News",
+      "publishedAt": 1789051074000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Imperial Petroleum posts record Q2 2026 revenue",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-imperial-petroleum-posts-record-q2-2026-revenue-93CH-4896334",
+      "source": "Investing.com News",
+      "publishedAt": 1789051070000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzICQx",
+      "title": "Trump&apos;s $1 trillion-plus &apos;dividend&apos; plan meets immediate bipartisan pushback",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789050780000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789050400000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgd2FybnMgVGVo",
+      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789050015000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG9tZSBzYWxlcyBmYWxs",
+      "title": "Home sales fall in August despite the highest supply in over a decade",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789049221000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpIGxhdW5jaGVz",
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789048811000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzIENFTyBC",
+      "title": "Starbucks CEO Brian Niccol says next stage of turnaround focuses on cafe makeovers, customer experience",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/starbucks-ceo-brian-niccol-cafe-renovations-customer-service.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789048222000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29pbmJhc2UgcGFydG5l",
+      "title": "Coinbase partners with Moov to boost community bank stablecoin capabilities before Clarity vote",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-clarity-moov-banks-stablecoin.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789047917000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-TWFjeSZhcG9zO3MgcG9z",
       "title": "Macy&apos;s posts strong results, raises guidance as turnaround begins to take hold",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789038027000,
+      "publishedAt": 1789047860000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TkZMIENvbW1pc3Npb25l",
+      "title": "NFL Commissioner Roger Goodell says league could rework TV packages in next media deal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789047028000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hvbGVzYWxlIHByaWNl",
+      "title": "Wholesale prices rose 0.4% in August, as expected",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789046625000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVyb3BlYW4gQ2VudHJh",
+      "title": "European Central Bank hikes interest rates to 2.5% as policymakers see risk of higher inflation, weaker growth",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789046397000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TkZMJmFwb3M7cyBSb2dl",
+      "title": "NFL&apos;s Roger Goodell is playing the international long game ahead of league&apos;s Australia debut",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789045410000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIGdpdmVzIE9w",
+      "title": "Amazon gives OpenAI&apos;s ad business a boost, letting its advertisers into ChatGPT",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789045370000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2VhbHRoeSBpbnZlc3Rv",
+      "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789045151000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmFzZGFxIGludmVzdHMg",
+      "title": "Nasdaq invests $100 million in Kraken parent, eyeing 2027 launch of &apos;tokenized&apos; stock trading",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789044482000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmVwdWJsaWNhbnMgdG8g",
+      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789043753000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIG9wdGlvbnMg",
+      "title": "Oracle options are doing something curious heading into earnings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789042851000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIGJhY2tzIEFy",
+      "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789039576000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSByYXJlIGRpc2Vhc2Ug",
+      "title": "A rare disease is taking his vision. A gene therapy could help — if he can get it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/rare-disease-is-taking-his-sight-access-to-a-treatment-is-hard-to-get.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789038001000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,299 +564,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RGV1dHNjaGUgQmFuayBz",
-      "title": "Deutsche Bank starts bullish Kongsberg coverage on missile growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-starts-bullish-kongsberg-coverage-on-missile-growth-4895452",
-      "source": "Investing.com News",
-      "publishedAt": 1789037191000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5zdGFjYXJ0IChDQVJU",
-      "title": "Instacart (CART) stock analysis: fundamentals solid, technicals mixed",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/instacart-cart-stock-analysis-fundamentals-solid-technicals-mixed-93CH-4895449",
-      "source": "Investing.com News",
-      "publishedAt": 1789037152000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields move higher as investors await key wholesale inflation data",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789037150000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWJlciBzdG9jayBhbmFs",
-      "title": "Uber stock analysis: strong fundamentals but technical signals point to caution",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/uber-stock-analysis-strong-fundamentals-but-technical-signals-point-to-caution-93CH-4895444",
-      "source": "Investing.com News",
-      "publishedAt": 1789036989000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIENlbnRydXMg",
-      "title": "Why is Centrus Energy stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-centrus-energy-stock-sliding-today-93CH-4895441",
-      "source": "Investing.com News",
-      "publishedAt": 1789036880000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSByYWlzZXMgU2ln",
-      "title": "BofA raises Signet Jewelers stock price target on strong results",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-signet-jewelers-stock-price-target-on-strong-results-93CH-4895438",
-      "source": "Investing.com News",
-      "publishedAt": 1789036877000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIGN1dHMgQnVuZ2Ug",
-      "title": "UBS cuts Bunge stock price target on valuation, keeps buy rating",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-cuts-bunge-stock-price-target-on-valuation-keeps-buy-rating-93CH-4895439",
-      "source": "Investing.com News",
-      "publishedAt": 1789036877000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSBjdXRzIEFwcGxl",
-      "title": "BofA cuts Apple stock price target to $370 on margin pressure",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
-      "source": "Investing.com News",
-      "publishedAt": 1789036877000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VsbHMgRmFyZ28gY3V0",
-      "title": "Wells Fargo cuts Kimberly-Clark stock price target on earnings concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-kimberlyclark-stock-price-target-on-earnings-concerns-93CH-4895437",
-      "source": "Investing.com News",
-      "publishedAt": 1789036876000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VUJTIHJhaXNlcyBBbWVy",
-      "title": "UBS raises American Water stock price target on valuation update",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-american-water-stock-price-target-on-valuation-update-93CH-4895433",
-      "source": "Investing.com News",
-      "publishedAt": 1789036875000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9mQSByYWlzZXMgSmVy",
-      "title": "BofA raises Jersey Mike’s Subs stock price target on traffic gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-jersey-mikes-subs-stock-price-target-on-traffic-gains-93CH-4895434",
-      "source": "Investing.com News",
-      "publishedAt": 1789036875000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7RmVhciBnYXVn",
-      "title": "&apos;Fear gauge&apos; VIX is starting to attract hedges into historically volatile part of calendar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789035724000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW4gRUNCIHJhdGUgaGlr",
-      "title": "An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789034482000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnlhbmFpciBDRU8gc2F5",
-      "title": "Ryanair CEO says to brace for a &apos;significant uplift&apos; in airfares as oil prices soar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789032914000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29pbmJhc2UgQ0VPIHNh",
-      "title": "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789032334000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBleHRl",
-      "title": "Oil prices extend gains, Brent stays above $100 a barrel on Mideast worries",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789031863000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgd2FybnMgVGVo",
-      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789031033000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcHJvbWlzZXMg",
-      "title": "Trump promises $5,000 &apos;dividend&apos; to U.S. citizens if Republicans win midterms",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789029550000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V29ybGTigJlzIGxhcmdl",
       "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
       "source": "CNBC Markets",
       "publishedAt": 1789022755000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7U2F2ZWQgdGhl",
-      "title": "&apos;Saved the day&apos;: How China helped keep the lid on oil price surge as Iran war disrupted supplies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789021394000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -375,113 +609,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50IEludGVybmF0aW9u",
-      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789005230000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: India’s green push aims to boost energy security but exposes China dependency",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788998946000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtb2NyYXRpYyBTZW4u",
-      "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788998211000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TkZMIHRlYW1zIHN0aWxs",
-      "title": "NFL teams still &apos;undervalued,&apos; says Jacksonville Jaguars owner Shad Khan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/nfl-teams-still-undervalued-says-jacksonville-jaguars-owner-shad-khan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788994181000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1hem9uIGFkZHMgY3li",
-      "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788990334000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29udmVyc2F0aW9ucyBm",
-      "title": "Conversations from Goldman Sachs&apos; Communacopia: AI blowback, broadband and Disney&apos;s free tier",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788989854000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmV3ZXIgdGhhbiBoYWxm",
-      "title": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/trump-gop-convention-dallas-speakers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788989303000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qm9uZCBzZWxsLW9mZiwg",
       "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
       "summary": "",
@@ -491,111 +618,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmVwdWJsaWNhbnMgdG8g",
-      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788985004000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCBhIGhpc3Rvcmlj",
-      "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788981718000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgZHJvcHMgaXRz",
-      "title": "Apple drops its folding iPhone. Our first reaction, plus the other key launch news",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/apple-drops-its-folding-iphone-our-first-reaction-plus-the-other-key-launch-news.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788981432000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TEEgUmFtcyBQcmVzaWRl",
-      "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788972444000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiByZXZlYWxzIGlt",
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788970666000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Um9iaW5ob29kIENFTyBz",
-      "title": "Robinhood CEO says companies can&apos;t control how their stock is tokenized as AMC clash escalates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788964712000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBkZW5pZXMgY2xh",
-      "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788961571000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
