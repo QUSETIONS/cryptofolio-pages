@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789019234385,
-  "crawlUpdatedAt": 1789019234385,
-  "crawlCount": 40,
+  "updatedAt": 1789038395739,
+  "crawlUpdatedAt": 1789038395739,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,120 +13,89 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-V2h5IGlzIE1ldGFYIElu",
-      "title": "Why is MetaX Integrated Circuits stock sliding today?",
+      "id": "CNBC Markets-TWFjeSZhcG9zO3MgcG9z",
+      "title": "Macy&apos;s posts strong results, raises guidance as turnaround begins to take hold",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-metax-integrated-circuits-stock-sliding-today-93CH-4894957",
+      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789038027000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7RXh0aW5jdGlv",
+      "title": "&apos;Extinction&apos; warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789037369000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGV1dHNjaGUgQmFuayBz",
+      "title": "Deutsche Bank starts bullish Kongsberg coverage on missile growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-starts-bullish-kongsberg-coverage-on-missile-growth-4895452",
       "source": "Investing.com News",
-      "publishedAt": 1789018951000,
+      "publishedAt": 1789037191000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW5zdGFjYXJ0IChDQVJU",
+      "title": "Instacart (CART) stock analysis: fundamentals solid, technicals mixed",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/instacart-cart-stock-analysis-fundamentals-solid-technicals-mixed-93CH-4895449",
+      "source": "Investing.com News",
+      "publishedAt": 1789037152000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields move higher as investors await key wholesale inflation data",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789037150000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEx1eHNoYXJl",
-      "title": "Why is Luxshare Precision Industry stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-luxshare-precision-industry-stock-sliding-today-93CH-4894956",
-      "source": "Investing.com News",
-      "publishedAt": 1789018947000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V29ybGTigJlzIGxhcmdl",
-      "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789018827000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-4oCZV2VsY29tZSB0byBG",
-      "title": "’Welcome to Foldables’: Samsung braces for Apple’s foldable iPhone challenge",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/welcome-to-foldables-samsung-braces-for-apples-foldable-iphone-challenge-4894955",
-      "source": "Investing.com News",
-      "publishedAt": 1789018258000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgam9pbnMgZm9s",
-      "title": "Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-expected-to-unveil-first-folding-phone-with-new-ceo-ternus-in-command-4893058",
-      "source": "Investing.com News",
-      "publishedAt": 1789018237000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29pbmJhc2UgQ0VPIHNl",
-      "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789017892000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBkb3duIHRv",
-      "title": "Bitcoin down to $78.3k on Iran jitters, higher yields",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "source": "Investing.com News",
-      "publishedAt": 1789017720000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
       "symbols": [
-        "BTC"
+        "UST10Y"
       ],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RkRBIGdyYW50cyBwcmlv",
-      "title": "FDA grants priority review for Enspryng in rare disease MOGAD",
+      "id": "Investing.com News-VWJlciBzdG9jayBhbmFs",
+      "title": "Uber stock analysis: strong fundamentals but technical signals point to caution",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/fda-grants-priority-review-for-enspryng-in-rare-disease-mogad-93CH-4894953",
+      "url": "https://www.investing.com/news/stock-market-news/uber-stock-analysis-strong-fundamentals-but-technical-signals-point-to-caution-93CH-4895444",
       "source": "Investing.com News",
-      "publishedAt": 1789017638000,
+      "publishedAt": 1789036989000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -136,12 +105,87 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UG9ydHVnYWwgZGVidCB1",
-      "title": "Portugal debt upgrade seals PIIGS passage from pariahs to pin-ups",
+      "id": "Investing.com News-V2h5IGlzIENlbnRydXMg",
+      "title": "Why is Centrus Energy stock sliding today?",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/portugal-debt-upgrade-seals-piigs-passage-from-pariahs-to-pinups-4894949",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-centrus-energy-stock-sliding-today-93CH-4895441",
       "source": "Investing.com News",
-      "publishedAt": 1789017551000,
+      "publishedAt": 1789036880000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSByYWlzZXMgU2ln",
+      "title": "BofA raises Signet Jewelers stock price target on strong results",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-signet-jewelers-stock-price-target-on-strong-results-93CH-4895438",
+      "source": "Investing.com News",
+      "publishedAt": 1789036877000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIGN1dHMgQnVuZ2Ug",
+      "title": "UBS cuts Bunge stock price target on valuation, keeps buy rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-cuts-bunge-stock-price-target-on-valuation-keeps-buy-rating-93CH-4895439",
+      "source": "Investing.com News",
+      "publishedAt": 1789036877000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qm9mQSBjdXRzIEFwcGxl",
+      "title": "BofA cuts Apple stock price target to $370 on margin pressure",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
+      "source": "Investing.com News",
+      "publishedAt": 1789036877000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VsbHMgRmFyZ28gY3V0",
+      "title": "Wells Fargo cuts Kimberly-Clark stock price target on earnings concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-kimberlyclark-stock-price-target-on-earnings-concerns-93CH-4895437",
+      "source": "Investing.com News",
+      "publishedAt": 1789036876000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHJhaXNlcyBBbWVy",
+      "title": "UBS raises American Water stock price target on valuation update",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-american-water-stock-price-target-on-valuation-update-93CH-4895433",
+      "source": "Investing.com News",
+      "publishedAt": 1789036875000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -151,12 +195,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXhlIENvbXB1dGUgZGly",
-      "title": "Axe Compute director Theodore Zhu buys $98,325 shares",
+      "id": "Investing.com News-Qm9mQSByYWlzZXMgSmVy",
+      "title": "BofA raises Jersey Mike’s Subs stock price target on traffic gains",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/axe-compute-director-theodore-zhu-buys-98325-shares-93CH-4894952",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-jersey-mikes-subs-stock-price-target-on-traffic-gains-93CH-4895434",
       "source": "Investing.com News",
-      "publishedAt": 1789017368000,
+      "publishedAt": 1789036875000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -166,27 +210,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SElWRSBEaWdpdGFsIGFw",
-      "title": "HIVE Digital appoints Mark Volk as revenue chief at BUZZ HPC unit",
+      "id": "CNBC Markets-JmFwb3M7RmVhciBnYXVn",
+      "title": "&apos;Fear gauge&apos; VIX is starting to attract hedges into historically volatile part of calendar",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/hive-digital-appoints-mark-volk-as-revenue-chief-at-buzz-hpc-unit-93CH-4894951",
-      "source": "Investing.com News",
-      "publishedAt": 1789017165000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXhjbHVzaXZlLUNoaW5h",
-      "title": "Exclusive-China’s AI chipmakers raise prices as high-bandwidth memory shortage bites",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivechinas-ai-chipmakers-raise-prices-as-highbandwidth-memory-shortage-bites-4894950",
-      "source": "Investing.com News",
-      "publishedAt": 1789017147000,
+      "url": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789035724000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -201,13 +230,118 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789016402000,
+      "publishedAt": 1789034482000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UnlhbmFpciBDRU8gc2F5",
+      "title": "Ryanair CEO says to brace for a &apos;significant uplift&apos; in airfares as oil prices soar",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789032914000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29pbmJhc2UgQ0VPIHNh",
+      "title": "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789032334000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBleHRl",
+      "title": "Oil prices extend gains, Brent stays above $100 a barrel on Mideast worries",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789031863000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgd2FybnMgVGVo",
+      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789031033000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgcHJvbWlzZXMg",
+      "title": "Trump promises $5,000 &apos;dividend&apos; to U.S. citizens if Republicans win midterms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789029550000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V29ybGTigJlzIGxhcmdl",
+      "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789022755000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U2F2ZWQgdGhl",
+      "title": "&apos;Saved the day&apos;: How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789021394000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -223,21 +357,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUJTIENFTyBmbGFncyBp",
-      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789008775000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -393,21 +512,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBvaWwg",
-      "title": "Trump says oil and gas prices won&apos;t fall until &apos;right after&apos; midterm election",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788983531000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2hhdCBhIGhpc3Rvcmlj",
       "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
       "summary": "",
@@ -423,65 +527,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgcHVzaGVzIEZl",
-      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
+      "id": "CNBC Markets-QXBwbGUgZHJvcHMgaXRz",
+      "title": "Apple drops its folding iPhone. Our first reaction, plus the other key launch news",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
+      "url": "https://www.cnbc.com/2026/09/09/apple-drops-its-folding-iphone-our-first-reaction-plus-the-other-key-launch-news.html",
       "source": "CNBC Markets",
-      "publishedAt": 1788978591000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXhwZXJ0cyB3ZWlnaCBp",
-      "title": "Experts weigh in as researcher says AI has more than 10% chance of &apos;killing all humans&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788975825000,
+      "publishedAt": 1788981432000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlc2UgYXJlIHRoZSB0",
-      "title": "These are the top 10 U.S. states for workers&apos; rights, says new report—8 of them have a minimum wage over $15",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/the-top-us-states-for-workers-in-2026-according-to-oxfam-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788975405000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IG11Y2ggZG9lcyBp",
-      "title": "How much does it cost to move a midterm prediction market? Not much",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788974904000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -515,36 +572,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2h5IENyYW1lciBzdGls",
-      "title": "Why Cramer still recommends being &apos;a little more reserved&apos; about data center stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/why-cramer-still-recommends-being-a-little-more-reserved-about-data-center-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788970280000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5kcmVlc3Nlbi0gYW5k",
-      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788967233000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Um9iaW5ob29kIENFTyBz",
       "title": "Robinhood CEO says companies can&apos;t control how their stock is tokenized as AMC clash escalates",
       "summary": "",
@@ -566,51 +593,6 @@
       "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1788961571000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVtYW5kIGZvciByaXNr",
-      "title": "Demand for riskier mortgages rises again, along with interest rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788955195000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG9p",
-      "title": "Trump&apos;s oil investments have gained millions during Iran war as his accounts keep trading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788949801000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIHRvIGludmVz",
-      "title": "Google to invest record $15 billion in AI infrastructure in the &apos;Texas of Europe&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1788945341000,
       "lang": "zh-CN",
       "topics": [
         "macro"
