@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789148529882,
-  "crawlUpdatedAt": 1789148529882,
-  "crawlCount": 40,
+  "updatedAt": 1789159930077,
+  "crawlUpdatedAt": 1789159930077,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SG91dGhpcyByZXBvcnRl",
-      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+      "id": "CNBC Markets-RGVsbCBzdG9jayBqdW1w",
+      "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+      "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789148446000,
+      "publishedAt": 1789159699000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VuIERpZ2l0YWwgc2hh",
+      "title": "Gen Digital shareholders elect board and reject executive pay in annual meeting",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/gen-digital-shareholders-elect-board-and-reject-executive-pay-in-annual-meeting-93CH-4898437",
+      "source": "Investing.com News",
+      "publishedAt": 1789159375000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,63 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-S29ybiBGZXJyeSBhdCBH",
-      "title": "Korn Ferry at Goldman Sachs Communacopia + Technology Conference 2026: growth broadens",
+      "id": "Investing.com News-UnVzc2lhbiBhdHRhY2tz",
+      "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/korn-ferry-at-goldman-sachs-communacopia--technology-conference-2026-growth-broadens-93CH-4898287",
+      "url": "https://www.investing.com/news/stock-market-news/russian-air-strikes-injure-two-cause-fire-in-9storey-apartment-building-in-kyiv-officials-say-4897164",
       "source": "Investing.com News",
-      "publishedAt": 1789147439000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S0xBIGF0IEdvbGRtYW4g",
-      "title": "KLA at Goldman Sachs conference: growth outlook stays strong",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/kla-at-goldman-sachs-conference-growth-outlook-stays-strong-93CH-4898286",
-      "source": "Investing.com News",
-      "publishedAt": 1789147350000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2V5c2lnaHQgYXQgR29s",
-      "title": "Keysight at Goldman Sachs Communacopia + Technology Conference: growth broadens",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/keysight-at-goldman-sachs-communacopia--technology-conference-growth-broadens-93CH-4898285",
-      "source": "Investing.com News",
-      "publishedAt": 1789147182000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm9ydGh3ZXN0IEV1cm9w",
-      "title": "Northwest European gasoline margins climb $16.92 on Friday",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-climb-1692-on-friday-93CH-4898284",
-      "source": "Investing.com News",
-      "publishedAt": 1789147169000,
+      "publishedAt": 1789159352000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -94,27 +58,165 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGV2ZXJhZ2VkIEVURiBw",
-      "title": "Leveraged ETF pairs: best relative-value setups and risks",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields remain near multiyear highs as August CPI shows sticky inflation",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/leveraged-etf-pairs-best-relativevalue-setups-and-risks-93CH-4898283",
-      "source": "Investing.com News",
-      "publishedAt": 1789147143000,
+      "url": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789159029000,
       "lang": "en-US",
       "topics": [
-        "crypto"
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VuZXJhdGlvbiBFc3Nl",
+      "title": "Generation Essentials Group receives NYSE delisting warning",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/generation-essentials-group-receives-nyse-delisting-warning-93CH-4898424",
+      "source": "Investing.com News",
+      "publishedAt": 1789158989000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWFya2V0IGVhcm5pbmdz",
-      "title": "Market earnings outlook: selective optimism as oil and inflation set the tone",
+      "id": "Investing.com News-VHJ1bXAgYW5kIE11c2sg",
+      "title": "Trump and Musk super PACs unleash millions to boost Republicans in battleground races",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/market-earnings-outlook-selective-optimism-as-oil-and-inflation-set-the-tone-93CH-4898282",
+      "url": "https://www.investing.com/news/stock-market-news/trump-and-musk-super-pacs-unleash-millions-to-boost-republicans-in-battleground-races-4897512",
       "source": "Investing.com News",
-      "publishedAt": 1789147032000,
+      "publishedAt": 1789158988000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIG9uIHRyYWNrIHRv",
+      "title": "Oil on track to settle above $100 a barrel after whopping 20% two-week surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-brent-tests-110-a-barrel-as-meast-supply-risks-grow-4897144",
+      "source": "Investing.com News",
+      "publishedAt": 1789158844000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGdyYWRlcyBkZWNs",
+      "title": "Oil grades decline as US drilling rises and Hormuz talks advance",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-grades-decline-as-us-drilling-rises-and-hormuz-talks-advance-93CH-4898422",
+      "source": "Investing.com News",
+      "publishedAt": 1789158778000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJlZGVnYXIgZ2VuZXJh",
+      "title": "Tredegar general counsel Kevin Donnelly to resign Oct. 1",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/tredegar-general-counsel-kevin-donnelly-to-resign-oct-1-93CH-4898421",
+      "source": "Investing.com News",
+      "publishedAt": 1789158750000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RlbGxhbnRpcyBzaWdu",
+      "title": "Stellantis signs deal to sell idled Toronto factory to Roshel",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/stellantis-signs-deal-to-sell-idled-toronto-factory-to-roshel-93CH-4898420",
+      "source": "Investing.com News",
+      "publishedAt": 1789158687000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGlmZmFueSBJbmdsaXMs",
+      "title": "Tiffany Inglis, Sera Prognostics CMO, sells $972 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/tiffany-inglis-sera-prognostics-cmo-sells-972-in-shares-93CH-4898418",
+      "source": "Investing.com News",
+      "publishedAt": 1789158668000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2VyYSBwcm9nbm9zdGlj",
+      "title": "Sera prognostics CCO Lee Jr. sells $3,600 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/sera-prognostics-cco-lee-jr-sells-3600-in-stock-93CH-4898415",
+      "source": "Investing.com News",
+      "publishedAt": 1789158665000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGFuIENodW5nIHJlYnVp",
+      "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He&apos;s still finding the market&apos;s winners",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789158061000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW4gcGljdHVyZXM6IFRo",
+      "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789157139000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -124,12 +226,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley cuts stake in Pinewood Technologies to 5.09%",
+      "id": "CNBC Markets-T3JhY2xlIHBvc3RzIDMw",
+      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/morgan-stanley-cuts-stake-in-pinewood-technologies-to-509-93CH-4898281",
-      "source": "Investing.com News",
-      "publishedAt": 1789147002000,
+      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789157075000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhIHNo",
+      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789156905000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789154707000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IHRoaXMgaW5kdXN0",
+      "title": "Why this industrial gas giant deserves its premium valuation (and should be owned)",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/11/why-this-stock-deserves-its-premium-valuation-and-should-be-owned.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789151188000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -139,12 +286,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QnJpZGdmb3JkIEZvb2Rz",
-      "title": "Bridgford Foods consultant Allan Bridgford Jr. buys $2,716 stock",
+      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
+      "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/bridgford-foods-consultant-allan-bridgford-jr-buys-2716-stock-93CH-4898279",
-      "source": "Investing.com News",
-      "publishedAt": 1789146951000,
+      "url": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789150041000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91dGhpcyByZXBvcnRl",
+      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789148446000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -166,36 +328,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW5lcmd5IHNlY3RvciBi",
-      "title": "Energy sector basics: valuation, cash flow, and how beginners can start",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/energy-sector-basics-valuation-cash-flow-and-how-beginners-can-start-93CH-4898278",
-      "source": "Investing.com News",
-      "publishedAt": 1789146830000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QlJJQ1MgZmluYW5jZSBj",
-      "title": "BRICS finance chiefs urge reform of global development financial institutions",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions-4898277",
-      "source": "Investing.com News",
-      "publishedAt": 1789146765000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -223,21 +355,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW4gcGljdHVyZXM6IFRo",
-      "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789145455000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -274,21 +391,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3JhY2xlIHBvc3RzIDMw",
-      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789144426000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qm9uZHMgYXJlIGdvaW5n",
       "title": "Bonds are going on tilt. How to play them, says Mike Khouw",
       "summary": "",
@@ -298,68 +400,6 @@
       "lang": "en-US",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEhvdCBp",
-      "title": "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789143713000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VS5TLiBjcnVkZSBvaWwg",
-      "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789143705000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciBjYWxs",
-      "title": "Jim Cramer calls an AI data center stock a buy, offers a level to buy a household name",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/jim-cramer-calls-an-ai-data-center-stock-a-buy-offers-a-level-to-buy-a-household-name.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789143383000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789142756000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -426,21 +466,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIG9pbCBzaG9jayBp",
-      "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789137188000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgZGlzbWlzc2Vz",
       "title": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
       "summary": "",
@@ -497,24 +522,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields remain near multi-year highs as August CPI shows sticky inflation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789132133000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -592,36 +599,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmVzZSBBSSBsYWJz",
-      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789088385000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNrJmFwb3M7",
-      "title": "Elon Musk&apos;s Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789064159000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
