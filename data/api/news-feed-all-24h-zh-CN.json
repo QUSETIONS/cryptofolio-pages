@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789233832850,
-  "crawlUpdatedAt": 1789233832850,
-  "crawlCount": 30,
+  "updatedAt": 1789241771929,
+  "crawlUpdatedAt": 1789241771929,
+  "crawlCount": 28,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,18 +13,93 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2VlcyBJcmFu",
-      "title": "Trump sees Iran war ending soon after midterm elections, predicts oil prices will then fall sharply",
+      "id": "CNBC Markets-Q29udmVyc2F0aW9ucyB0",
+      "title": "Conversations that AIs are having in the office that may influence your performance review and pay",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+      "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789233746000,
+      "publishedAt": 1789234750000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhbiBhdHRhY2tz",
+      "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russian-air-strikes-injure-two-cause-fire-in-9storey-apartment-building-in-kyiv-officials-say-4897164",
+      "source": "Investing.com News",
+      "publishedAt": 1789234225000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGlzIHNodXQgZG93",
+      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-4898593",
+      "source": "Investing.com News",
+      "publishedAt": 1789233865000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGFycnkgRWxsaXNvbiBu",
+      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789233296000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWtyYWluZSBicmFjZXMg",
+      "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/ukraine-braces-for-harsh-winter-as-russian-attacks-hit-economy-4898677",
+      "source": "Investing.com News",
+      "publishedAt": 1789232787000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzYXlzIEhvcm11",
+      "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+      "source": "Investing.com News",
+      "publishedAt": 1789232649000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -43,12 +118,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2h5IGl0IG1pZ2h0IGJl",
-      "title": "Why it might be time to use AI to rehearse pay, performance chats before meeting with your manager",
+      "id": "Investing.com News-SW5kaWHigJlzIE1vZGkg",
+      "title": "India’s Modi and China’s Xi push business links, border peace as ties revive",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789229833000,
+      "url": "https://www.investing.com/news/economic-indicators/indias-modi-and-chinas-xi-push-business-links-border-peace-as-ties-revive-4898675",
+      "source": "Investing.com News",
+      "publishedAt": 1789232065000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,21 +193,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2F1ZGlzIHNodXQgZG93",
-      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-4898593",
-      "source": "Investing.com News",
-      "publishedAt": 1789224148000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RvY2tzIHN0dW1ibGUg",
       "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
       "summary": "",
@@ -164,74 +224,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2VhU3RhciBNZWRpY2Fs",
-      "title": "SeaStar Medical at H.C. Wainwright: adult trial looms over small cap",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/seastar-medical-at-hc-wainwright-adult-trial-looms-over-small-cap-93CH-4898662",
-      "source": "Investing.com News",
-      "publishedAt": 1789223070000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3V0bG9vayBUaGVyYXBl",
-      "title": "Outlook Therapeutics at H.C. Wainwright: launch hinges on access",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/outlook-therapeutics-at-hc-wainwright-launch-hinges-on-access-93CH-4898661",
-      "source": "Investing.com News",
-      "publishedAt": 1789222979000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2FpbFBvaW50IGF0IEdv",
-      "title": "SailPoint at Goldman Sachs Communacopia + Technology Conference: agentic push",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/sailpoint-at-goldman-sachs-communacopia--technology-conference-agentic-push-93CH-4898660",
-      "source": "Investing.com News",
-      "publishedAt": 1789222455000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q29uc3RydWN0aW9uIHJv",
       "title": "Construction robots are tackling America&apos;s housing shortage, but we&apos;re a long way from humanoid homebuilders",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
       "source": "CNBC Markets",
       "publishedAt": 1789221123000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJ1bXAgc2F5cyBJcmFu",
-      "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-      "source": "Investing.com News",
-      "publishedAt": 1789220294000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -316,6 +314,21 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SW5mbGF0aW9uIGlzIG91",
+      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789217355000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-T2lsJmFwb3M7cyByb3Vu",
       "title": "Oil&apos;s roundtrip back to $100. Why China could determine what happens next",
       "summary": "",
@@ -391,21 +404,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhIHNo",
-      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789162514000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RGVsbCBzdG9jayBqdW1w",
       "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
       "summary": "",
@@ -427,36 +425,6 @@
       "url": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
       "source": "CNBC Markets",
       "publishedAt": 1789158061000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789150041000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91dGhpcyByZXBvcnRl",
-      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789148446000,
       "lang": "zh-CN",
       "topics": [
         "macro"
