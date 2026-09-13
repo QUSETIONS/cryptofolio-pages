@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789322605925,
-  "crawlUpdatedAt": 1789322605925,
+  "updatedAt": 1789333468816,
+  "crawlUpdatedAt": 1789333468816,
   "crawlCount": 21,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,38 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzdGFsbHMg",
+      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "source": "Investing.com News",
+      "publishedAt": 1789326141000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBoZSBp",
+      "title": "Trump says he is lifting tariffs on Irish whiskey",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-he-is-lifting-tariffs-on-irish-whiskey-4898747",
+      "source": "Investing.com News",
+      "publishedAt": 1789322428000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-V2FzaGluZ3RvbiBzY3Jh",
       "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
@@ -25,6 +57,38 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgY2FsbHMgJDUs",
+      "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
+      "source": "Investing.com News",
+      "publishedAt": 1789321708000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgcmVpdGVyYXRl",
+      "title": "Trump reiterates support for united Ireland, says won’t talk about Scotland ’yet’",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-reiterates-support-for-united-ireland-says-wont-talk-about-scotland-yet-4898746",
+      "source": "Investing.com News",
+      "publishedAt": 1789320269000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -73,6 +137,85 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-QW50aHJvcGljIHNlbGVj",
+      "title": "Anthropic selects Nasdaq for IPO, Business Insider reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-selects-nasdaq-for-ipo-business-insider-reports-4898744",
+      "source": "Investing.com News",
+      "publishedAt": 1789316666000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2lsbCBTZWNyZXRhcnkg",
+      "title": "Will Secretary Scott Bessent fire his bazooka to avert yields climbing above 5%?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/will-secretary-scott-bessent-fire-his-bazooka-to-avert-yields-climbing-above-5-4898743",
+      "source": "Investing.com News",
+      "publishedAt": 1789316382000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UyZQIERvdyBKb25lcyBJ",
+      "title": "S&P Dow Jones Indices loosens Canadian index inclusion criteria",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sp-dow-jones-indicesloosens-canadian-index-inclusion-criteria-4898741",
+      "source": "Investing.com News",
+      "publishedAt": 1789315232000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IGF0dGFja3MgaW4g",
+      "title": "New attacks in Hormuz and Saudi test nerves as war’s spread worsens oil disruption",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
+      "source": "Investing.com News",
+      "publishedAt": 1789313801000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FuYWRpYW4gYm95Y290",
+      "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/canadian-boycott-of-us-products-pushes-grocers-to-adapt-explore-new-supply-sources-4898644",
+      "source": "Investing.com News",
+      "publishedAt": 1789312707000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-SSZhcG9zO20gYSBwc3lj",
       "title": "I&apos;m a psychologist who studies couples: Emotionally intelligent partners ask 1 question every morning—that most neglect",
       "summary": "",
@@ -85,6 +228,22 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2VudHJhbCBiYW5rcyBz",
+      "title": "Central banks should favor market inflation expectations when setting policy - UBS",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/central-banks-should-favor-market-inflation-expectations-when-setting-policy--ubs-4898740",
+      "source": "Investing.com News",
+      "publishedAt": 1789311933000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -133,70 +292,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.30%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-130-4898732",
-      "source": "Investing.com News",
-      "publishedAt": 1789303503000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiBlcXVpdHkgRVRG",
-      "title": "U.S. equity ETFs see outflows of $4.5 billion as traders price in Fed rate hike",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-equity-etfs-see-outflows-of-45-billion-as-traders-price-in-fed-rate-hike-4898731",
-      "source": "Investing.com News",
-      "publishedAt": 1789303023000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgcGlwZWxpbmUg",
-      "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-4898730",
-      "source": "Investing.com News",
-      "publishedAt": 1789302624000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IHJlcG9ydCBvZiBh",
-      "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
-      "source": "Investing.com News",
-      "publishedAt": 1789301544000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
       "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
       "summary": "",
@@ -227,81 +322,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJv4oCZ",
-      "title": "InvestingPro’s Fair Value spotted 65% gain in Inspire Medical stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-65-gain-in-inspire-medical-stock-93CH-4898728",
-      "source": "Investing.com News",
-      "publishedAt": 1789297745000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJvIEZh",
-      "title": "InvestingPro Fair Value predicted 57% drop in Rackspace Technology",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-predicted-57-drop-in-rackspace-technology-93CH-4898727",
-      "source": "Investing.com News",
-      "publishedAt": 1789297306000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RyZWV0IGNhbGxzIG9m",
-      "title": "Street calls of the week: Sept. 7–11, 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-sept-711-2026-93CH-4898686",
-      "source": "Investing.com News",
-      "publishedAt": 1789293603000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WGkgcHVzaGVzIENoaW5h",
-      "title": "Xi pushes China’s open-source AI vision at BRICS summit",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/xi-pushes-chinas-opensource-ai-vision-at-brics-summit-4898725",
-      "source": "Investing.com News",
-      "publishedAt": 1789293431000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJlbmNoIEFJIGJvb20g",
-      "title": "French AI boom exposes Europe’s funding gap as startups turn to U.S.",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/french-ai-boom-exposes-europes-funding-gap-as-startups-turn-to-us-4898724",
-      "source": "Investing.com News",
-      "publishedAt": 1789293055000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2hpbmEmYXBvcztzIFhp",
       "title": "China&apos;s Xi urges BRICS nations to work towards peace in the Middle East",
       "summary": "",
@@ -313,24 +333,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyBi",
-      "title": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "source": "Investing.com News",
-      "publishedAt": 1789291603000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
