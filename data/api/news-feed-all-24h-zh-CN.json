@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789478697743,
-  "crawlUpdatedAt": 1789478697743,
+  "updatedAt": 1789494260002,
+  "crawlUpdatedAt": 1789494260002,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,371 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIEtl",
+      "title": "Judge blocks Kennedy Center board from returning Trump&apos;s name to building",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789494240000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBvaWwgdG9wcyAk",
+      "title": "U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789494101000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2F1ZGkgcGlwZWxpbmUg",
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789493655000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789478549000,
+      "publishedAt": 1789493607000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [
         "UST10Y",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3BlbkFJIGV4cGxvcmVz",
+      "title": "OpenAI explores Canada investment opportunities under Carney",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
+      "source": "Investing.com News",
+      "publishedAt": 1789493378000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW5icmlkZ2Ugc2Vla3Mg",
+      "title": "Enbridge seeks interest for West Texas gas pipeline project",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/enbridge-seeks-interest-for-west-texas-gas-pipeline-project-93CH-4902347",
+      "source": "Investing.com News",
+      "publishedAt": 1789493376000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFyaW5lbWF4IHN0b2Nr",
+      "title": "Marinemax stock hits 52-week high at $52.46",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/marinemax-stock-hits-52week-high-at-5246-93CH-4902346",
+      "source": "Investing.com News",
+      "publishedAt": 1789493124000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwbGFpbmVyLUZyb20g",
+      "title": "Explainer-From hallucinating AI chatbots to wiping out humanity: How did we get here?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/explainerfrom-hallucinating-ai-chatbots-to-wiping-out-humanity-how-did-we-get-here-4901154",
+      "source": "Investing.com News",
+      "publishedAt": 1789493104000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
+      "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+      "source": "Investing.com News",
+      "publishedAt": 1789493089000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUJvZWlu",
+      "title": "Exclusive-Boeing set to salvage delayed Turkish Airlines order, sources say",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveboeing-salvages-delayed-turkish-airlines-order-sources-say-4902268",
+      "source": "Investing.com News",
+      "publishedAt": 1789493073000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGVubnBldHJvIEVuZXJn",
+      "title": "Pennpetro Energy shifts reverse takeover target to Canadian firm",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/pennpetro-energy-shifts-reverse-takeover-target-to-canadian-firm-93CH-4902345",
+      "source": "Investing.com News",
+      "publishedAt": 1789492964000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUwgU29sdXRpb25zIHN0",
+      "title": "UL Solutions stock hits 52-week low at 66.16 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ul-solutions-stock-hits-52week-low-at-6616-usd-93CH-4902344",
+      "source": "Investing.com News",
+      "publishedAt": 1789492948000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVzc2VudCBjYWxscyBV",
+      "title": "Bessent calls US yen intervention \"nominal,\" defends trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bessent-calls-us-yen-intervention-nominal-defends-trade-4902343",
+      "source": "Investing.com News",
+      "publishedAt": 1789492934000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlyZmFyZXMsIGdhcyBh",
+      "title": "Airfares, gas and hotel prices were up this summer—Americans traveled anyway",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/fall-travel-costs-vacation-demand.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789492926000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWNvcGV0cm9sIG5hbWVz",
+      "title": "Ecopetrol names Alfonso Barco acting CEO effective today",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ecopetrol-names-alfonso-barco-acting-ceo-effective-today-93CH-4902341",
+      "source": "Investing.com News",
+      "publishedAt": 1789492839000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yZCBpbmNyZWFzZXMg",
+      "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789492354000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2lsbCBBSSByZWFsbHkg",
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789491673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2hhdCB0byBleHBlY3Qg",
+      "title": "What to expect from stocks and bonds if interest rates remain higher for longer, according to investing pros",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/what-higher-for-longer-interest-rates-mean-for-your-investments.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789490907000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TXVzayB1cmdlcyB0b3Ag",
+      "title": "Musk urges top AI labs, Chinese companies to test each other&apos;s models amid calls for slowdown",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789488869000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3JhbWVyIHNheXMgdGhl",
+      "title": "Cramer says these 2 stocks are still buys, warns against playing Fed rate &apos;parlor game&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/cramer-says-these-2-stocks-are-still-buys-warns-against-playing-fed-rate-parlor-game.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789488779000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgY2FsbHMgU3Vw",
+      "title": "Trump calls Supreme Court mail ballot ruling &apos;big loss for Republicans&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789486637000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9ydGdhZ2UgY3JlZGl0",
+      "title": "Mortgage credit scores are evolving. What homebuyers need to know",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/mortgage-credit-scores-vantagescore-fico-homebuyers.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789485576000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmlrZSBjby1mb3VuZGVy",
+      "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789484401000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Tm8gb25lIGFuZCBkb25l",
+      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789480973000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
         "FED"
       ],
       "sentimentHint": "neutral",
@@ -61,205 +414,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWF0dGVsIGF0IEdvbGRt",
-      "title": "Mattel at Goldman Sachs conference: bets on brands, growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/mattel-at-goldman-sachs-conference-bets-on-brands-growth-93CH-4901863",
-      "source": "Investing.com News",
-      "publishedAt": 1789477952000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S0tSIGF0IGJhcmNsYXlz",
-      "title": "KKR at barclays conference: private credit push gains scale",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/kkr-at-barclays-conference-private-credit-push-gains-scale-93CH-4901850",
-      "source": "Investing.com News",
-      "publishedAt": 1789477897000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmVybnN0ZWluIHJlc3Vt",
-      "title": "Bernstein resumes coverage on National Grid on regulated growth outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bernstein-resumes-coverage-on-national-grid-on-regulated-growth-outlook-4901838",
-      "source": "Investing.com News",
-      "publishedAt": 1789477806000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3BlYW4gZXF1aXRp",
-      "title": "European equities slide to multi-month lows as Fed hike odds batters sentiment",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-slip-ahead-of-fed-meeting-amid-expanding-gulf-conflict-4900853",
-      "source": "Investing.com News",
-      "publishedAt": 1789477775000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmlvY2VyZXMgUTQgRlky",
-      "title": "Bioceres Q4 FY26 slides: profitability improves despite revenue miss",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/bioceres-q4-fy26-slides-profitability-improves-despite-revenue-miss-93CH-4901837",
-      "source": "Investing.com News",
-      "publishedAt": 1789477771000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VsbHMgRmFyZ28gYXQg",
-      "title": "Wells Fargo at barclays global financial services conference: growth broadens",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/wells-fargo-at-barclays-global-financial-services-conference-growth-broadens-93CH-4901834",
-      "source": "Investing.com News",
-      "publishedAt": 1789477702000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW5kaWHigJlzIGJhbGFu",
-      "title": "India’s balance of payments surplus jumps to $20.8 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/indias-balance-of-payments-surplus-jumps-to-208-billion-93CH-4901833",
-      "source": "Investing.com News",
-      "publishedAt": 1789477695000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGltaXQgQUkgbm93IG9y",
-      "title": "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/limit-ai-now-or-humanity-will-lose-its-agency-says-nobel-laureate-ressa-4901759",
-      "source": "Investing.com News",
-      "publishedAt": 1789477610000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVsb3MgRGF0YSwgYSBj",
-      "title": "Delos Data, a chip startup founded by Intel veterans, raises $100 million for AI networks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/delos-data-a-chipstartupfounded-by-intel-veterans-raises-100-million-for-ai-networks-4901827",
-      "source": "Investing.com News",
-      "publishedAt": 1789477589000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXDigJlzIG9wcG9z",
-      "title": "Trump’s opposition to AI rules undercuts industry&apos;s calls for a slowdown",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789477582000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFRlbmV0IEhl",
-      "title": "Why is Tenet Healthcare stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tenet-healthcare-stock-sliding-today-93CH-4901820",
-      "source": "Investing.com News",
-      "publishedAt": 1789477543000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWl0Y2ggTWNDb25uZWxs",
-      "title": "Mitch McConnell returns to Senate after three-month health absence",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789477086000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHJpdmF0ZSBzZWN0b3Ig",
-      "title": "Private sector is &apos;the right place&apos; to solve AI threats, White House&apos;s Hassett says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789476398000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2FudG9saTogVGhlIHlv",
       "title": "Santoli: The youthful phase of AI is over. What it means for investors",
       "summary": "",
@@ -271,23 +425,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hhdCB0byB3YXRjaCBh",
-      "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789475341000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -322,23 +459,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Tm8gb25lIGFuZCBkb25l",
-      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789473153000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2ls4oCZcyBzYWZldHkg",
       "title": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
       "summary": "",
@@ -354,18 +474,21 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R00gbGF1bmNoaW5nIG5l",
-      "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
+      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
+      "title": "Treasury yields are hovering above a critical threshold. Here&apos;s what it means for stocks",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html",
+      "url": "https://www.cnbc.com/2026/09/15/treasury-yields-stocks-investors.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789470001000,
+      "publishedAt": 1789471191000,
       "lang": "zh-CN",
       "topics": [
+        "rates",
         "macro"
       ],
-      "symbols": [],
-      "sentimentHint": "positive",
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -431,21 +554,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIGV4dGVuZHMgZ2Fp",
-      "title": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789456949000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VS5TLiBzZWVrcyB0byBz",
       "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
       "summary": "",
@@ -476,83 +584,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBy",
-      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789433316000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnJvYWRjb20gQ0VPIGFk",
-      "title": "Broadcom CEO addresses Anthropic&apos;s slowdown push, says AI revenue targets haven&apos;t changed",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789425805000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAtbGlua2VkIHN1",
-      "title": "Trump-linked super PAC reports roughly $21 million in spending across key midterm races",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/trump-super-pac-midterms-no-going-back-pac.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789424158000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJlYXN1cnkgaGl0cyBS",
-      "title": "Treasury hits Russia&apos;s VTB Bank with new sanctions over Iran ties",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/treasury-bessent-russia-vtb-bank-iran-sanctions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789422800000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgcGhvbmVzIE52",
-      "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789421523000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2Fyc2gmYXBvcztzIGNy",
       "title": "Warsh&apos;s credibility is on the line this week as Trump policies put pressure on Fed to hike",
       "summary": "",
@@ -566,21 +597,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789418752000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -614,21 +630,6 @@
         "FED"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGUgcmVsZWFzZXMg",
-      "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789412740000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
