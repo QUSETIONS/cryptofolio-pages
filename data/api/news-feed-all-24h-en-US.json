@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789584470178,
-  "crawlUpdatedAt": 1789584470178,
+  "updatedAt": 1789596128764,
+  "crawlUpdatedAt": 1789596128764,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,27 +13,12 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SG91c2Ugdm90ZXMgdG8g",
-      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+      "id": "CNBC Markets-QW5hbHlzaXM6IEhvdyBU",
+      "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh&apos;s rate hike",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+      "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789584385000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIGFwcHJvdmVzIGlu",
-      "title": "Fed approves interest rate hike, signals one more to come this year",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789584280000,
+      "publishedAt": 1789595448000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -45,12 +30,241 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-QW1hem9uIG9idGFpbnMg",
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company&apos;s share price by over 40%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789594818000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2ltb24gUHJvcGVydHkg",
+      "title": "Simon Property Group at BofA NY Global Real Estate Conference 2026: growth holds",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/simon-property-group-at-bofa-ny-global-real-estate-conference-2026-growth-holds-93CH-4904606",
+      "source": "Investing.com News",
+      "publishedAt": 1789594744000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGhhbHRzIHN1cmdl",
+      "title": "Oil halts surge after key Saudi pipeline said to restart at half capacity in days",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-dip-as-us-inventory-build-offsets-meast-supply-jitters-4902840",
+      "source": "Investing.com News",
+      "publishedAt": 1789594724000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVrbm92YSBsYXVuY2hl",
+      "title": "Teknova launches Fill-Tek dispensing system for custom reagents",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/teknova-launches-filltek-dispensing-system-for-custom-reagents-93CH-4904604",
+      "source": "Investing.com News",
+      "publishedAt": 1789594595000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiBTYWNocyBz",
+      "title": "Goldman Sachs sees slightly softer fixed income, currencies, commodities business, higher costs",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-ceo-says-fixed-income-currencies-commodities-business-slightly-softer-in-q3-4904385",
+      "source": "Investing.com News",
+      "publishedAt": 1789594590000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TSZUIEJhbmsgcmFpc2Vz",
+      "title": "M&T Bank raises prime lending rate to 7.00%",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/mt-bank-raises-prime-lending-rate-to-700-93CH-4904603",
+      "source": "Investing.com News",
+      "publishedAt": 1789594587000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBCYW5jb3JwIHJh",
+      "title": "U.S. Bancorp raises prime lending rate to 7.00 percent",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/us-bancorp-raises-prime-lending-rate-to-700-percent-93CH-4904602",
+      "source": "Investing.com News",
+      "publishedAt": 1789594586000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWF0b24gYXQgTW9yZ2Fu",
+      "title": "Eaton at Morgan Stanley laguna conference: growth and margins rise",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/eaton-at-morgan-stanley-laguna-conference-growth-and-margins-rise-93CH-4904601",
+      "source": "Investing.com News",
+      "publishedAt": 1789594576000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnlkZXIgYXQgTW9yZ2Fu",
+      "title": "Ryder at Morgan Stanley laguna conference: growth holds in weak freight",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/ryder-at-morgan-stanley-laguna-conference-growth-holds-in-weak-freight-93CH-4904599",
+      "source": "Investing.com News",
+      "publishedAt": 1789594529000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgREZDIGFwcHJvdmVz",
+      "title": "US DFC approves €85 million loan to Ukraine’s DTEK",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-dfc-approves-85-million-loan-to-ukraines-dtek-4904594",
+      "source": "Investing.com News",
+      "publishedAt": 1789594227000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZGVtYW5kcyAx",
+      "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789594138000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXh4b25tb2JpbCBpbiB0",
+      "title": "Exxonmobil in talks to return to Venezuela, Bloomberg reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exxonmobil-in-talks-to-return-to-venezuela-bloomberg-reports-4904592",
+      "source": "Investing.com News",
+      "publishedAt": 1789593995000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2Ugdm90ZXMgdG8g",
+      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789592055000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIEtl",
+      "title": "Trump&apos;s Kennedy Center closure is &apos;unlawful,&apos; Rep. Beatty tells judge in emergency hearing request",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789590774000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U2NpZW5jZSBm",
+      "title": "&apos;Science fiction&apos;: Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789590144000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield hovers at 4.98% as Fed hikes, Warsh highlights inflation risks",
+      "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789584156000,
+      "publishedAt": 1789589401000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -63,132 +277,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UHJlbHVkZSBUaGVyYXBl",
-      "title": "Prelude Therapeutics at H.C. Wainwright conference: pipeline gains momentum",
+      "id": "CNBC Markets-VHJ1bXAgZG9ub3IgSGFy",
+      "title": "Trump donor Harold Hamm&apos;s Continental Resources to develop oil region in Venezuela",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/prelude-therapeutics-at-hc-wainwright-conference-pipeline-gains-momentum-93CH-4904303",
-      "source": "Investing.com News",
-      "publishedAt": 1789584078000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmF6eiBQaGFybWFjZXV0",
-      "title": "Jazz Pharmaceuticals at Morgan Stanley conference: oncology drives growth",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/jazz-pharmaceuticals-at-morgan-stanley-conference-oncology-drives-growth-93CH-4904299",
-      "source": "Investing.com News",
-      "publishedAt": 1789583853000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJjdXRpcyBhdCBNb3Jn",
-      "title": "Arcutis at Morgan Stanley conference: zoryve drives growth push",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/arcutis-at-morgan-stanley-conference-zoryve-drives-growth-push-93CH-4904298",
-      "source": "Investing.com News",
-      "publishedAt": 1789583829000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-b25zZW1pIHRhcmdldHMg",
-      "title": "onsemi targets $213 billion market with power density solutions",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/onsemi-targets-213-billion-market-with-power-density-solutions-93CH-4904297",
-      "source": "Investing.com News",
-      "publishedAt": 1789583793000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-b25zZW1pIHVudmVpbHMg",
-      "title": "onsemi unveils embedded power platform for AI and EV markets",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/onsemi-unveils-embedded-power-platform-for-ai-and-ev-markets-93CH-4904295",
-      "source": "Investing.com News",
-      "publishedAt": 1789583792000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3ViYXJ1IHRvIGV2YWx1",
-      "title": "Subaru to evaluate onsemi power tech for electric vehicles",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/subaru-to-evaluate-onsemi-power-tech-for-electric-vehicles-93CH-4904296",
-      "source": "Investing.com News",
-      "publishedAt": 1789583792000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmFsdm9saW5lIHN0b2Nr",
-      "title": "Valvoline stock hits 52-week low at $27.69",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/valvoline-stock-hits-52week-low-at-2769-93CH-4904294",
-      "source": "Investing.com News",
-      "publishedAt": 1789583770000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VnVsY2FuIE1hdGVyaWFs",
-      "title": "Vulcan Materials stock hits 52-week low at 246.1 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vulcan-materials-stock-hits-52week-low-at-2461-usd-93CH-4904293",
-      "source": "Investing.com News",
-      "publishedAt": 1789583768000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789583753000,
+      "publishedAt": 1789589275000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Si5CLiBIdW50IHN0b2Nr",
+      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789588836000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -198,12 +307,45 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R3VicmEgYXQgTW9yZ2Fu",
-      "title": "Gubra at Morgan Stanley healthcare conference: deeper pipeline, longer hold",
+      "id": "CNBC Markets-QW50aHJvcGljIHBvbGlj",
+      "title": "Anthropic policy chief says AI companies can&apos;t be expected to operate on &apos;honor code&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/gubra-at-morgan-stanley-healthcare-conference-deeper-pipeline-longer-hold-93CH-4904292",
-      "source": "Investing.com News",
-      "publishedAt": 1789583748000,
+      "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789588569000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmVmZiBHdW5kbGFjaCBz",
+      "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789587521000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9laW5nIENFTzogNzM3",
+      "title": "Boeing CEO: 737 Max production taking &apos;a little bit longer&apos; to stabilize than expected",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789587384000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -213,17 +355,81 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWdldGlzIFRoZXJhcGV1",
-      "title": "Egetis Therapeutics at Morgan Stanley conference: U.S. launch nears",
+      "id": "CNBC Markets-V2hpdGUgSG91c2UgY2hp",
+      "title": "White House chief of staff Susie Wiles says she&apos;s cancer free",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/egetis-therapeutics-at-morgan-stanley-conference-us-launch-nears-93CH-4904291",
-      "source": "Investing.com News",
-      "publishedAt": 1789583673000,
+      "url": "https://www.cnbc.com/2026/09/16/susie-wiles-trump-cancer.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789587071000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SHlwZXJzY2FsZXIgZGVi",
+      "title": "Hyperscaler debt signals warning sign, Apollo cautions",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789586958000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIHJhaXNlcyByYXRl",
+      "title": "Fed raises rates: What it means for your credit cards, mortgages, savings accounts and auto loans",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789586258000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVnc2V0aCBhdm9pZHMg",
+      "title": "Hegseth avoids impeachment vote with early House election recess",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/hegseth-impeachment-house-election-recess.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789585953000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIGRlbGl2ZXJzIGl0",
+      "title": "Fed delivers its first hike in 3 years. Plus, what&apos;s moving Starbucks and GE Vernova",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789585214000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -243,42 +449,29 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-SGVyZSBpcyB3aGF0IGNo",
+      "title": "Here is what changed in the new Fed statement under Warsh",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789582734000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-U2VuLiBCbHVtZW50aGFs",
       "title": "Sen. Blumenthal urges AI oversight: &apos;We&apos;re on the verge of losing control&apos;",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
       "source": "CNBC Markets",
       "publishedAt": 1789582689000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q29udGluZW50YWwgUmVz",
-      "title": "Continental Resources to develop massive oil patch in Venezuela",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789582491000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7U2NpZW5jZSBm",
-      "title": "&apos;Science fiction&apos;: Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789581028000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -330,81 +523,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SHlwZXJzY2FsZXIgZGVi",
-      "title": "Hyperscaler debt signals warning sign, Apollo cautions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789577478000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Si5CLiBIdW50IHN0b2Nr",
-      "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789577293000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBzaWdu",
-      "title": "We&apos;re significantly trimming a stock that has not gone to plan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/were-significantly-trimming-a-stock-that-has-not-gone-to-plan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789576642000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VuYXRlIGlzIHN0aWxs",
-      "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789576001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljLCBPcGVu",
-      "title": "Anthropic, OpenAI proposed new &apos;neutral&apos; AI watchdogs. Why you should worry about the idea",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789575952000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -483,51 +601,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UmVkZGl0IGNvLWZvdW5k",
-      "title": "Reddit co-founder says tech industry has been &apos;tone deaf&apos; in explaining AI: &apos;Misinformation flying around&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789567067000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwsIFNLIEh5bml4",
-      "title": "Intel, SK Hynix shares jump on report they&apos;re discussing U.S. memory chip manufacturing",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789566143000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJvcGljYWwgU21vb3Ro",
-      "title": "Tropical Smoothie Cafe is getting a makeover as it prepares for its &apos;next 3,000&apos; locations",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/tropical-smoothie-cafe-announces-new-branding-plans-for-new-locations.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789564600000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qml6YXJyZSB2b2xhdGls",
       "title": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
       "summary": "",
@@ -545,36 +618,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2F1ZGkgc2F5cyBIb3V0",
-      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789560390000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9ydGdhZ2UgZGVtYW5k",
-      "title": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/mortgage-demand-from-homebuyers-drops-19percent-from-a-year-ago.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789559231000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TGl2aW5nIGFicm9hZCBk",
       "title": "Living abroad doesn&apos;t end your U.S. tax obligations. What young expats need to know",
       "summary": "",
@@ -587,36 +630,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rmx5ZXJzIGFyZSBoYXBw",
-      "title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789552801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBDRU8gTWFyayBa",
-      "title": "Meta CEO Mark Zuckerberg sides with Nvidia&apos;s Huang on AI safety and slowdown debate",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789523807000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     }
   ]
