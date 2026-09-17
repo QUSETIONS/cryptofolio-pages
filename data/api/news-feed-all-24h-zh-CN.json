@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789644774203,
-  "crawlUpdatedAt": 1789644774203,
+  "updatedAt": 1789663697049,
+  "crawlUpdatedAt": 1789663697049,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,15 +13,46 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+      "id": "CNBC Markets-QUkgbmVlZHMgdG8gaGF2",
+      "title": "AI needs to have &apos;reasonable guidelines,&apos; Palantir&apos;s Karp tells CNBC",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789644642000,
+      "publishedAt": 1789663680000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789663646000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RvY2tzIHN0YWdlIGEg",
+      "title": "Stocks stage a comeback after Fed-induced declines — plus, what&apos;s ailing Boeing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/stocks-stage-a-comeback-after-fed-induced-declines-plus-whats-ailing-boeing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789663020000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
       ],
       "symbols": [
         "FED"
@@ -30,27 +61,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England keeps interest rates steady, hints at future hikes",
+      "id": "Investing.com News-R00gZG91YmxlcyBkb3du",
+      "title": "GM doubles down on diesel pickups as rivals tap hybrids",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bank-of-england-keeps-interest-rates-on-hold-at-375-4905319",
+      "url": "https://www.investing.com/news/stock-market-news/gm-doubles-down-on-diesel-pickups-as-rivals-tap-hybrids-4906141",
       "source": "Investing.com News",
-      "publishedAt": 1789644404000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJlbWFya2V0IG1vdmVy",
-      "title": "Premarket movers: Generac, Nebius rally, BCB Bancorp sinks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/premarket-movers-generac-nebius-rally-bcb-bancorp-sinks-4905356",
-      "source": "Investing.com News",
-      "publishedAt": 1789644332000,
+      "publishedAt": 1789663014000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -60,12 +76,104 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSByYWlz",
-      "title": "Guggenheim raises Salesforce stock price target to $300 on AI strategy",
+      "id": "Investing.com News-R29sZG1hbiBzZWVzIGFn",
+      "title": "Goldman sees agency MBS as attractive buy after spread widening",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-salesforce-stock-price-target-to-300-on-ai-strategy-93CH-4905354",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sees-agency-mbs-as-attractive-buy-after-spread-widening-93CH-4906140",
       "source": "Investing.com News",
-      "publishedAt": 1789644294000,
+      "publishedAt": 1789662993000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R0UgQWVyb3NwYWNlIHNh",
+      "title": "GE Aerospace says GE9X mid-seal issue won’t delay Boeing 777X entry into service",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ge-aerospace-says-ge9x-midseal-issue-wont-delay-boeing-777x-entry-into-service-4906139",
+      "source": "Investing.com News",
+      "publishedAt": 1789662992000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gTmFtZXMg",
+      "title": "JPMorgan Names Top U.S. Auto Suppliers Amid Industry Shifts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-names-top-us-auto-suppliers-amid-industry-shifts-93CH-4906138",
+      "source": "Investing.com News",
+      "publishedAt": 1789662962000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UVFRIGNyb3NzZXMgNTAt",
+      "title": "QQQ crosses 50-day average for 13th time since early August",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/qqq-crosses-50day-average-for-13th-time-since-early-august-93CH-4906137",
+      "source": "Investing.com News",
+      "publishedAt": 1789662833000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmVlZGhhbSBhbm5vdW5j",
+      "title": "Needham announces Drone Dominance Gauntlet II winners",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/needham-announces-drone-dominance-gauntlet-ii-winners-93CH-4906136",
+      "source": "Investing.com News",
+      "publishedAt": 1789662697000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWltIEltbXVub1RlY2gg",
+      "title": "Aim ImmunoTech CEO & president buys $2,310 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/aim-immunotech-ceo--president-buys-2310-in-company-stock-93CH-4906135",
+      "source": "Investing.com News",
+      "publishedAt": 1789662666000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFuayBvZiBFbmdsYW5k",
+      "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
+      "source": "Investing.com News",
+      "publishedAt": 1789662629000,
       "lang": "zh-CN",
       "topics": [
         "rates"
@@ -75,27 +183,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-R3VnZ2VuaGVpbSByZWl0",
-      "title": "Guggenheim reiterates Paychex stock rating ahead of earnings",
+      "id": "Investing.com News-S2Fsc2hpIGxlYWRzIHBy",
+      "title": "Kalshi leads prediction market with 76% share in NFL week 1",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-paychex-stock-rating-ahead-of-earnings-93CH-4905353",
+      "url": "https://www.investing.com/news/stock-market-news/kalshi-leads-prediction-market-with-76-share-in-nfl-week-1-93CH-4906132",
       "source": "Investing.com News",
-      "publishedAt": 1789644290000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmVlZGhhbSBhc3N1bWVz",
-      "title": "Needham assumes Everpure stock coverage with buy rating, $140 target",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/needham-assumes-everpure-stock-coverage-with-buy-rating-140-target-93CH-4905352",
-      "source": "Investing.com News",
-      "publishedAt": 1789644286000,
+      "publishedAt": 1789662575000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,12 +198,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T3BwZW5oZWltZXIgaW5p",
-      "title": "Oppenheimer initiates Kopin stock with Outperform rating",
+      "id": "Investing.com News-R2xvYmFsIFNoaXAgTGVh",
+      "title": "Global Ship Lease stock hits 52-week high at 46.52 USD",
       "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-initiates-kopin-stock-with-outperform-rating-93CH-4905351",
+      "url": "https://www.investing.com/news/company-news/global-ship-lease-stock-hits-52week-high-at-4652-usd-93CH-4906131",
       "source": "Investing.com News",
-      "publishedAt": 1789644282000,
+      "publishedAt": 1789662482000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -120,12 +213,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2FybmV5IHNheXMgQ2Fu",
-      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+      "id": "CNBC Markets-SG93IHJlY29yZCBkaWVz",
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789644207000,
+      "publishedAt": 1789661688000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -135,118 +228,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RlcmxpbmcgdG9kYXk6",
-      "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
+      "id": "CNBC Markets-VHJ1bXAgcGhvdG8gc2Vl",
+      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
       "summary": "",
-      "url": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
-      "source": "Investing.com News",
-      "publishedAt": 1789644053000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F2aWxscyBhcHBvaW50",
-      "title": "Savills appoints John Nixon as non-executive director",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/savills-appoints-john-nixon-as-nonexecutive-director-93CH-4905347",
-      "source": "Investing.com News",
-      "publishedAt": 1789644049000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3BwZW5oZWltZXIgcmVp",
-      "title": "Oppenheimer reiterates Salesforce stock rating after investor day",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-after-investor-day-93CH-4905346",
-      "source": "Investing.com News",
-      "publishedAt": 1789644002000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFuIGNvdXJ0IHJ1",
-      "title": "German court rules Meta liable for fake ads on Instagram, Facebook",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/german-court-rules-meta-liable-for-fake-ads-on-instagram-facebook-4905194",
-      "source": "Investing.com News",
-      "publishedAt": 1789643926000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789643867000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGFib3IgY3Jpc2lzIGlu",
-      "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789642801000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2luZyBDaGFybGVzIHRv",
-      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789640611000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGV4dGVuZHMgbG9z",
-      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789639956000,
+      "publishedAt": 1789661198000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -261,11 +248,179 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789639201000,
+      "publishedAt": 1789660817000,
       "lang": "zh-CN",
       "topics": [
         "rates",
         "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R00gdG91dHMgbmV3IFYt",
+      "title": "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789655980000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QSBDaGluZXNlIEFJIGNv",
+      "title": "A Chinese AI company just connected its model to Wall Street&apos;s leading data providers",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789655425000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7SG9zdGlsZSBh",
+      "title": "&apos;Hostile act&apos;: Trump threatens EU with tariffs over Canada associate membership proposal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789655319000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmlsbGlvbmFpcmUgS3Jh",
+      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore&apos;s Palestine comments",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789654027000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789652774000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U0VDIGNsZWFycyBwYXRo",
+      "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789650028000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2FybmV5IHNheXMgQ2Fu",
+      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789648614000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
+      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789648030000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGFib3IgY3Jpc2lzIGlu",
+      "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789646561000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hhcml0aWVzIHNheSBn",
+      "title": "Charities say gifts by deceased donors are getting held up at financial firms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789645808000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2luZyBDaGFybGVzIHRv",
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789640611000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -287,27 +442,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmlsbGlvbmFpcmUgS3Jh",
-      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore&apos;s Palestine comments",
+      "id": "CNBC Markets-VHJ1bXAgZ2FpbnMgYSB0",
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
+      "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789633488000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmVkZGl0IGNvLWZvdW5k",
-      "title": "Reddit co-founder says tech industry has been &apos;tone deaf&apos; in explaining AI: &apos;Misinformation flying around&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789629178000,
+      "publishedAt": 1789634764000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -347,21 +487,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmFwYW7igJlzIGNvcnBv",
-      "title": "Japan’s corporate leaders sound alarm over weak yen — even dollar-earners are voicing concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789615174000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG91c2UgYWR2YW5jZXMg",
       "title": "House advances bill to rein in AI data center utility costs",
       "summary": "",
@@ -373,23 +498,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBz",
-      "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789602302000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -439,53 +547,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QXJtIENFTyBzYXlzIGhl",
-      "title": "Arm CEO says he&apos;s more confident its new AI chip can meet a loftier $2B revenue goal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789599140000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91c2UgcGFzc2VzIHN3",
-      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789597938000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IEhvdyBU",
-      "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh&apos;s rate hike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789595448000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW1hem9uIG9idGFpbnMg",
       "title": "Amazon obtains right to buy stock in Generac, boosting power company&apos;s share price by over 40%",
       "summary": "",
@@ -514,21 +575,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG91c2Ugdm90ZXMgdG8g",
-      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789592055000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -563,23 +609,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmVmZiBHdW5kbGFjaCBz",
-      "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789587521000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Qm9laW5nIENFTzogNzM3",
       "title": "Boeing CEO: 737 Max production taking &apos;a little bit longer&apos; to stabilize than expected",
       "summary": "",
@@ -591,38 +620,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SHlwZXJzY2FsZXIgZGVi",
-      "title": "Hyperscaler debt signals warning sign, Apollo cautions",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789586958000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIGRlbGl2ZXJzIGl0",
-      "title": "Fed delivers its first hike in 3 years. Plus, what&apos;s moving Starbucks and GE Vernova",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789585214000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
