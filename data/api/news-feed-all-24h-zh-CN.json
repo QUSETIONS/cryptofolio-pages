@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789663697049,
-  "crawlUpdatedAt": 1789663697049,
+  "updatedAt": 1789675747707,
+  "crawlUpdatedAt": 1789675747707,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,198 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-QUkgbmVlZHMgdG8gaGF2",
-      "title": "AI needs to have &apos;reasonable guidelines,&apos; Palantir&apos;s Karp tells CNBC",
+      "id": "CNBC Markets-QXMgUmVwdWJsaWNhbnMg",
+      "title": "As Republicans tout Trump&apos;s &apos;big beautiful bill,&apos; here&apos;s who the tax breaks benefited most",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789663680000,
+      "publishedAt": 1789675719000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3BvdCBnb2xkIHNldCB0",
+      "title": "Spot gold set to snap three-day losing streak a day after Fed’s rate hike",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+      "source": "Investing.com News",
+      "publishedAt": 1789674846000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3JhbWVkIFBoYXJtYWNl",
+      "title": "Oramed Pharmaceuticals shareholders approve board, stock plan amendment at annual meeting",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/oramed-pharmaceuticals-shareholders-approve-board-stock-plan-amendment-at-annual-meeting-93CH-4906308",
+      "source": "Investing.com News",
+      "publishedAt": 1789674765000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RkRBIGFwcHJvdmVzIFVs",
+      "title": "FDA approves Ultragenyx’s Fayuvi for Sanfilippo syndrome Type A",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fda-approves-ultragenyxs-fayuvi-for-sanfilippo-syndrome-type-a-93CH-4906307",
+      "source": "Investing.com News",
+      "publishedAt": 1789674751000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBhcHByb3ZlcyBw",
+      "title": "U.S. approves possible $24.3 billion F-35 sale to Saudi Arabia",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-approves-possible-243-billion-f35-sale-to-saudi-arabia-4906300",
+      "source": "Investing.com News",
+      "publishedAt": 1789674642000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmlnbWEgc3RvY2sgYW5h",
+      "title": "Figma stock analysis: IPO hangover, strong fundamentals, and a contested valuation",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/figma-stock-analysis-ipo-hangover-strong-fundamentals-and-a-contested-valuation-93CH-4906299",
+      "source": "Investing.com News",
+      "publishedAt": 1789674634000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVNEL1NHRCB0cmFkZSBv",
+      "title": "USD/SGD trade outlook: MAS tightening points to further SGD gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/usdsgd-trade-outlook-mas-tightening-points-to-further-sgd-gains-93CH-4906298",
+      "source": "Investing.com News",
+      "publishedAt": 1789674599000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdCByZWJvdW5k",
+      "title": "Wall St rebounds after Fed’s first rate hike in years as oil, Treasury yields dip",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+      "source": "Investing.com News",
+      "publishedAt": 1789674505000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y",
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um9iaW5ob29kIHZzLiBD",
+      "title": "Robinhood vs. Coinbase: fundamentals, valuation, and the pairs trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/robinhood-vs-coinbase-fundamentals-valuation-and-the-pairs-trade-93CH-4906296",
+      "source": "Investing.com News",
+      "publishedAt": 1789674443000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG93IG1hbnkgc3RvY2tz",
+      "title": "How many stocks to hold in a beginner portfolio",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/how-many-stocks-to-hold-in-a-beginner-portfolio-93CH-4906295",
+      "source": "Investing.com News",
+      "publishedAt": 1789674441000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rml2ZSBFVEZzIHRvIHdh",
+      "title": "Five ETFs to watch: shipping, cybersecurity, biotech, crypto and Korea semis",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/five-etfs-to-watch-shipping-cybersecurity-biotech-crypto-and-korea-semis-93CH-4906294",
+      "source": "Investing.com News",
+      "publishedAt": 1789674176000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgcGhvdG8gYXBw",
+      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789672518000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW50ZWwgYW5kIE1pY3Jv",
+      "title": "Intel and Micron lead our portfolio higher, and J&J strengthens our case for owning it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/intel-and-micron-lead-our-portfolio-higher-and-jjs-strengthens-our-case-for-owning-it-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789671829000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +219,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789663646000,
+      "publishedAt": 1789671120000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,62 +229,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3RvY2tzIHN0YWdlIGEg",
-      "title": "Stocks stage a comeback after Fed-induced declines — plus, what&apos;s ailing Boeing",
+      "id": "CNBC Markets-QmlsbCB0byBjdXJiIEFJ",
+      "title": "Bill to curb AI data center utility costs hits snag in Senate",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/stocks-stage-a-comeback-after-fed-induced-declines-plus-whats-ailing-boeing.html",
+      "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789663020000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R00gZG91YmxlcyBkb3du",
-      "title": "GM doubles down on diesel pickups as rivals tap hybrids",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/gm-doubles-down-on-diesel-pickups-as-rivals-tap-hybrids-4906141",
-      "source": "Investing.com News",
-      "publishedAt": 1789663014000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBzZWVzIGFn",
-      "title": "Goldman sees agency MBS as attractive buy after spread widening",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sees-agency-mbs-as-attractive-buy-after-spread-widening-93CH-4906140",
-      "source": "Investing.com News",
-      "publishedAt": 1789662993000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R0UgQWVyb3NwYWNlIHNh",
-      "title": "GE Aerospace says GE9X mid-seal issue won’t delay Boeing 777X entry into service",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ge-aerospace-says-ge9x-midseal-issue-wont-delay-boeing-777x-entry-into-service-4906139",
-      "source": "Investing.com News",
-      "publishedAt": 1789662992000,
+      "publishedAt": 1789670136000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -108,27 +244,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SlBNb3JnYW4gTmFtZXMg",
-      "title": "JPMorgan Names Top U.S. Auto Suppliers Amid Industry Shifts",
+      "id": "CNBC Markets-SmVuc2VuIEh1YW5nIHNh",
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-names-top-us-auto-suppliers-amid-industry-shifts-93CH-4906138",
-      "source": "Investing.com News",
-      "publishedAt": 1789662962000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UVFRIGNyb3NzZXMgNTAt",
-      "title": "QQQ crosses 50-day average for 13th time since early August",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/qqq-crosses-50day-average-for-13th-time-since-early-august-93CH-4906137",
-      "source": "Investing.com News",
-      "publishedAt": 1789662833000,
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789669405000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -138,12 +259,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmVlZGhhbSBhbm5vdW5j",
-      "title": "Needham announces Drone Dominance Gauntlet II winners",
+      "id": "CNBC Markets-U2VjdXJpdGl6ZSBqdW1w",
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/needham-announces-drone-dominance-gauntlet-ii-winners-93CH-4906136",
-      "source": "Investing.com News",
-      "publishedAt": 1789662697000,
+      "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789667991000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -153,12 +274,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWltIEltbXVub1RlY2gg",
-      "title": "Aim ImmunoTech CEO & president buys $2,310 in company stock",
+      "id": "CNBC Markets-QW1pZCBjYWxscyBmb3Ig",
+      "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/aim-immunotech-ceo--president-buys-2310-in-company-stock-93CH-4906135",
-      "source": "Investing.com News",
-      "publishedAt": 1789662666000,
+      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789666920000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -168,42 +289,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
+      "id": "CNBC Markets-U3RlcGhlbiBDdXJyeSBz",
+      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
-      "source": "Investing.com News",
-      "publishedAt": 1789662629000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2Fsc2hpIGxlYWRzIHBy",
-      "title": "Kalshi leads prediction market with 76% share in NFL week 1",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/kalshi-leads-prediction-market-with-76-share-in-nfl-week-1-93CH-4906132",
-      "source": "Investing.com News",
-      "publishedAt": 1789662575000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsIFNoaXAgTGVh",
-      "title": "Global Ship Lease stock hits 52-week high at 46.52 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/global-ship-lease-stock-hits-52week-high-at-4652-usd-93CH-4906131",
-      "source": "Investing.com News",
-      "publishedAt": 1789662482000,
+      "url": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789666035000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -214,11 +305,11 @@
     },
     {
       "id": "CNBC Markets-SG93IHJlY29yZCBkaWVz",
-      "title": "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789661688000,
+      "publishedAt": 1789664527000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -228,12 +319,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgcGhvdG8gc2Vl",
-      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "id": "CNBC Markets-QUkgbmVlZHMgdG8gaGF2",
+      "title": "AI needs to have &apos;reasonable guidelines,&apos; Palantir&apos;s Karp tells CNBC",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789661198000,
+      "publishedAt": 1789663680000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -412,21 +503,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-S2luZyBDaGFybGVzIHRv",
-      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789640611000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TkFTQ0FSIENFTyBTdGV2",
       "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
       "summary": "",
@@ -487,36 +563,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SG91c2UgYWR2YW5jZXMg",
-      "title": "House advances bill to rein in AI data center utility costs",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789603681000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U25hcCB0cmllcyB0byBi",
-      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789602005000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2FsZXNmb3JjZSBpc3N1",
       "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
       "summary": "",
@@ -562,59 +608,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSBhcmUgZml2ZSBr",
-      "title": "Here are five key takeaways from Wednesday&apos;s Fed rate hike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789593831000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIEtl",
-      "title": "Trump&apos;s Kennedy Center closure is &apos;unlawful,&apos; Rep. Beatty tells judge in emergency hearing request",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789590774000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-JmFwb3M7U2NpZW5jZSBm",
       "title": "&apos;Science fiction&apos;: Transport companies — the backbone of economy — are sounding alarm on fuel prices",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
       "source": "CNBC Markets",
       "publishedAt": 1789590144000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qm9laW5nIENFTzogNzM3",
-      "title": "Boeing CEO: 737 Max production taking &apos;a little bit longer&apos; to stabilize than expected",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789587384000,
       "lang": "zh-CN",
       "topics": [
         "macro"
