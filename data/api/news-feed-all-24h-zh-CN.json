@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789759828163,
-  "crawlUpdatedAt": 1789759828163,
+  "updatedAt": 1789768163324,
+  "crawlUpdatedAt": 1789768163324,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,249 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
-      "title": "Trump says he&apos;s banning MS NOW, CNN and Politico from White House",
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
+      "title": "Trump says U.S. to build a &apos;large Military presence&apos; in Greenland as part of a security deal with it and Denmark",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789759712000,
+      "publishedAt": 1789768125000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIHNlbGVj",
+      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei&apos;s slowdown proposal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789767458000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJJmFwb3M7cyBs",
+      "title": "OpenAI&apos;s latest AI revelation is a &apos;serious situation,&apos; Microsoft&apos;s Suleyman tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789767355000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9sZWN1bGluIEJpb3Rl",
+      "title": "Moleculin Biotech receives Nasdaq delisting notice after minimum bid price violation",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/moleculin-biotech-receives-nasdaq-delisting-notice-after-minimum-bid-price-violation-93CH-4907937",
+      "source": "Investing.com News",
+      "publishedAt": 1789767119000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV4aWNvIHN0b2NrcyBs",
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.78%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-078-4907933",
+      "source": "Investing.com News",
+      "publishedAt": 1789767003000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SG9uZXl3ZWxsIHdpbnMg",
+      "title": "Honeywell wins $53.9M Navy contract for navigation parts",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/honeywell-wins-539m-navy-contract-for-navigation-parts-93CH-4907932",
+      "source": "Investing.com News",
+      "publishedAt": 1789766914000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGVpZG9zIHdpbnMgJDg1",
+      "title": "Leidos wins $85m Air Force contract for aerospace design",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/leidos-wins-85m-air-force-contract-for-aerospace-design-93CH-4907931",
+      "source": "Investing.com News",
+      "publishedAt": 1789766869000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TG9ja2hlZWQgTWFydGlu",
+      "title": "Lockheed Martin wins $871 million F-35 contract modification",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-871-million-f35-contract-modification-93CH-4907930",
+      "source": "Investing.com News",
+      "publishedAt": 1789766849000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFyYWRpdW0uQUkgZW50",
+      "title": "Paradium.AI enters ten-year platform agreement with RTB Digital and minority stake sale is planned",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/paradiumai-enters-tenyear-platform-agreement-with-rtb-digital-and-minority-stake-sale-is-planned-93CH-4907929",
+      "source": "Investing.com News",
+      "publishedAt": 1789766845000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29sb21iaWEgc3RvY2tz",
+      "title": "Colombia stocks higher at close of trade; COLCAP up 1.05%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-105-4907927",
+      "source": "Investing.com News",
+      "publishedAt": 1789766703000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xlYW5TcGFyayBwcmlj",
+      "title": "CleanSpark prices $2.28 billion senior secured notes offering",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cleanspark-prices-228-billion-senior-secured-notes-offering-93CH-4907926",
+      "source": "Investing.com News",
+      "publishedAt": 1789766676000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgaXMgdGFsa2lu",
+      "title": "Trump is talking with Senate’s Thune about bill to cut data-center electricity costs",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-is-talking-with-senatesthune-about-bill-to-cut-datacenter-electricity-costs-4907925",
+      "source": "Investing.com News",
+      "publishedAt": 1789766667000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnVzZW1hY2hpbmVzIHJl",
+      "title": "Fusemachines receives Nasdaq notice for minimum bid price non-compliance",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/fusemachines-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4907923",
+      "source": "Investing.com News",
+      "publishedAt": 1789766584000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
+      "title": "Trump says he&apos;s banning MS NOW, CNN and Politico from White House",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789766417000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgY2xvdWQgcHJvdmlk",
+      "title": "AI cloud provider Nscale files to go public",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789765708000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmlrZSBwYXJ0cyB3YXlz",
+      "title": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789759855000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -40,175 +271,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW1zdGVkIEluZHVzdHJp",
-      "title": "Amsted Industries explores sale of Baltimore Aircoil on data center demand - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/amsted-industries-explores-sale-of-baltimore-aircoil-on-data-center-demand--bloomberg-93CH-4907797",
-      "source": "Investing.com News",
-      "publishedAt": 1789758772000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVkRXgsIEFkdmVudC1s",
-      "title": "FedEx, Advent-led consortium secures over 89% of InPost shares in takeover offer",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/fedex-adventled-consortium-secures-over-89-of-inpost-shares-in-takeover-offer-4907796",
-      "source": "Investing.com News",
-      "publishedAt": 1789758754000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEdlbmVyYWwg",
-      "title": "Why is General Motors stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-general-motors-stock-sliding-today-93CH-4907795",
-      "source": "Investing.com News",
-      "publishedAt": 1789758689000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGFydG5lcnMgR3JvdXAg",
-      "title": "Partners Group explores €800M continuation fund for credit loans - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/partners-group-explores-800m-continuation-fund-for-credit-loans--bloomberg-93CH-4907793",
-      "source": "Investing.com News",
-      "publishedAt": 1789758522000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIENvaW5iYXNl",
-      "title": "Why is Coinbase stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-surging-today-93CH-4907792",
-      "source": "Investing.com News",
-      "publishedAt": 1789758425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Vm9sa3N3YWdlbiBjcmlz",
-      "title": "Volkswagen crisis worsens with $11.5 billion profit warning, largely due to Porsche struggles",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/volkswagen-and-porsche-holding-cut-outlook-4907633",
-      "source": "Investing.com News",
-      "publishedAt": 1789758026000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VzdGVybiBVbmlvbiBz",
-      "title": "Western Union stock hits 52-week low at 6.26 USD",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/western-union-stock-hits-52week-low-at-626-usd-93CH-4907788",
-      "source": "Investing.com News",
-      "publishedAt": 1789757870000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2FtaW5nICYgTGVpc3Vy",
-      "title": "Gaming & Leisure Properties stock hits 52-week low at $39.68",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/gaming--leisure-properties-stock-hits-52week-low-at-3968-93CH-4907787",
-      "source": "Investing.com News",
-      "publishedAt": 1789757838000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmlrZSBwYXJ0cyB3YXlz",
-      "title": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789757773000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
-      "title": "US Treasury’s Bessent plans to discuss AI and rare earths with China’s He, source says",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-treasurys-bessent-plans-to-discuss-ai-and-rare-earths-with-chinas-he-source-says-4907786",
-      "source": "Investing.com News",
-      "publishedAt": 1789757682000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFF1YWxjb21t",
-      "title": "Why is Qualcomm stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-sliding-today-93CH-4907785",
-      "source": "Investing.com News",
-      "publishedAt": 1789757483000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -456,21 +518,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3BlbkFJJmFwb3M7cyBs",
-      "title": "OpenAI&apos;s latest AI revelation is a &apos;serious situation,&apos; Microsoft&apos;s Suleyman tells CNBC",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789742215000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-UmVwLiBDaGlwIFJveSBk",
       "title": "Rep. Chip Roy doesn&apos;t want to regulate AI, but says Congress should have an oversight role",
       "summary": "",
@@ -558,51 +605,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VU4gbWlzc2lvbiBmaW5k",
-      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789732981000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgdHJhZGUgcmVib3Vu",
-      "title": "AI trade rebound sparks flurry of unusually bullish options activity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/ai-trade-rebound-sparks-flurry-of-unusually-bullish-options-activity.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789730456000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW50aHJvcGljIGFuZCBP",
-      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789724297000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
