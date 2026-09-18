@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789713055656,
-  "crawlUpdatedAt": 1789713055656,
-  "crawlCount": 37,
+  "updatedAt": 1789733455629,
+  "crawlUpdatedAt": 1789733455629,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-T3Jpb2xlIFJlc291cmNl",
-      "title": "Oriole Resources sells Turkey royalty for $1.2 million",
+      "id": "CNBC Markets-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: &apos;Father Time always wins&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/oriole-resources-sells-turkey-royalty-for-12-million-93CH-4906712",
-      "source": "Investing.com News",
-      "publishedAt": 1789712011000,
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789733042000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VU4gbWlzc2lvbiBmaW5k",
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789732981000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnJlbmNoIHByb3NlY3V0",
-      "title": "French prosecutors and regulators step up scrutiny on smart glasses",
+      "id": "Investing.com News-V2h5IGlzIEFscGhhYmV0",
+      "title": "Why is Alphabet stock climbing today?",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/french-prosecutors-and-regulators-step-up-scrutiny-on-smart-glasses-4906711",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-climbing-today-93CH-4907193",
       "source": "Investing.com News",
-      "publishedAt": 1789711949000,
+      "publishedAt": 1789732567000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFJFTksgc3Rv",
+      "title": "Why is RENK stock rallying today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-renk-stock-rallying-today-93CH-4907191",
+      "source": "Investing.com News",
+      "publishedAt": 1789732508000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +73,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2h1a2EgTWluZXJhbHMg",
-      "title": "Shuka Minerals assigns convertible loan to new investor and CEO",
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald raises Ultragenyx stock price target on gene therapy approval",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/shuka-minerals-assigns-convertible-loan-to-new-investor-and-ceo-93CH-4906710",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-ultragenyx-stock-price-target-on-gene-therapy-approval-93CH-4907185",
       "source": "Investing.com News",
-      "publishedAt": 1789711780000,
+      "publishedAt": 1789732254000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +88,134 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGF0YSBHcm91cCBzdG9j",
-      "title": "Tata Group stocks fall after $2.6 billion SP Group stake sale plan",
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Neutral on HubSpot stock at $200",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tata-group-stocks-fall-after-26-billion-sp-group-stake-sale-plan-93CH-4906709",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-on-hubspot-stock-at-200-93CH-4907183",
       "source": "Investing.com News",
-      "publishedAt": 1789711740000,
+      "publishedAt": 1789732250000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Overweight on Upexi stock at $2 target",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-on-upexi-stock-at-2-target-93CH-4907184",
+      "source": "Investing.com News",
+      "publishedAt": 1789732250000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFpcmQgcmVpdGVyYXRl",
+      "title": "Baird reiterates Coinbase stock rating at Neutral, cites SEC move",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/baird-reiterates-coinbase-stock-rating-at-neutral-cites-sec-move-93CH-4907182",
+      "source": "Investing.com News",
+      "publishedAt": 1789732244000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Evommune stock rating at Overweight",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-evommune-stock-rating-at-overweight-93CH-4907181",
+      "source": "Investing.com News",
+      "publishedAt": 1789732242000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FycmVuIEJ1ZmZldHQg",
+      "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-names-warren-buffett-as-chairman-emeritus-4906996",
+      "source": "Investing.com News",
+      "publishedAt": 1789732129000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE9yYW5nZSBz",
+      "title": "Why is Orange stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-orange-stock-sliding-today-93CH-4907180",
+      "source": "Investing.com News",
+      "publishedAt": 1789732072000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiB1cGdyYWRl",
+      "title": "Goldman upgrades Renk to “buy,” sees 62% upside on defense growth outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-upgrades-renk-to-buy-sees-62-upside-on-defense-growth-outlook-4907179",
+      "source": "Investing.com News",
+      "publishedAt": 1789731966000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHV0aW4gdGFyZ2V0cyBO",
+      "title": "Putin targets Nestle&apos;s Russian business as Kremlin tightens grip on Western assets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789730925000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgdHJhZGUgcmVib3Vu",
+      "title": "AI trade rebound sparks flurry of unusually bullish options activity",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/ai-trade-rebound-sparks-flurry-of-unusually-bullish-options-activity.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789730456000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,12 +225,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U0sgSHluaXjigJlzIFNv",
-      "title": "SK Hynix’s Solidigm unit is weighing NAND memory chip factory in US, sources say",
+      "id": "CNBC Markets-QUkgc2FmZXR5IGRlYmF0",
+      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year&apos;s models are enough",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say-4906708",
-      "source": "Investing.com News",
-      "publishedAt": 1789711607000,
+      "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789729201000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +240,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJpYWQgR3JvdXAgZ3Jh",
-      "title": "Triad Group grants 50,000 share units to commercial director",
+      "id": "CNBC Markets-QmVhdXR5LCBoZWFsdGgg",
+      "title": "Beauty, health and wellness are converging into one retail category",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/triad-group-grants-50000-share-units-to-commercial-director-93CH-4906706",
-      "source": "Investing.com News",
-      "publishedAt": 1789711571000,
+      "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789729201000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFyZW50cyBhcmUgaW50",
+      "title": "Parents are interfering with teens’ first jobs. Here’s why employers say it can backfire",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/parents-more-involved-in-kids-work-lives.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789725601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWlyQXNpYSZhcG9zO3Mg",
+      "title": "AirAsia&apos;s Fernandes refutes financial concerns, points to new growth plans",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789724688000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +285,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q1hNVCBwbGFucyBmbGFz",
-      "title": "CXMT plans flash memory chip expansion amid global shortage- Reuters",
+      "id": "CNBC Markets-QW50aHJvcGljIGFuZCBP",
+      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/cxmt-plans-flash-memory-chip-expansion-amid-global-shortage-reuters-93CH-4906704",
-      "source": "Investing.com News",
-      "publishedAt": 1789711534000,
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789724297000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +300,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGFpd2FuIHN0b2NrcyBo",
-      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.80%",
+      "id": "CNBC Markets-QW4gaW50ZW5zZSBib2Fy",
+      "title": "An intense boardroom battle is brewing at India&apos;s giant Tata Group",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-180-4906703",
-      "source": "Investing.com News",
-      "publishedAt": 1789711504000,
+      "url": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789723781000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +315,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGF0YSBTdGVlbCByZWNl",
-      "title": "Tata Steel receives ESG score of 68.3 from SES ESG Research",
+      "id": "CNBC Markets-QSBDaGluZXNlIEFJIGNv",
+      "title": "A Chinese AI company just connected its model to Wall Street&apos;s leading data providers",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/tata-steel-receives-esg-score-of-683-from-ses-esg-research-93CH-4906700",
-      "source": "Investing.com News",
-      "publishedAt": 1789711374000,
+      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789720871000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,15 +330,45 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIERyIFJlZGR5",
-      "title": "Why is Dr Reddy’s Laboratories stock gaining today?",
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-dr-reddys-laboratories-stock-gaining-today-93CH-4906699",
-      "source": "Investing.com News",
-      "publishedAt": 1789711113000,
+      "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789720175000,
       "lang": "zh-CN",
       "topics": [
         "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789718540000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IEphcGFu4oCZcyBt",
+      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789717229000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -193,51 +405,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VU4gbWlzc2lvbiBmaW5k",
-      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789700962000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789695338000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHJlY29yZCBkaWVz",
-      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789693446000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TGVhZGluZyBBSSBsYWJz",
       "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir&apos;s Karp tells CNBC",
       "summary": "",
@@ -250,6 +417,23 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
+      "title": "Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/17/jim-cramer-fed-rate-hike-investing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789685908000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -283,12 +467,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1lcmljYeKAmXMgQUkg",
-      "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
+      "id": "CNBC Markets-SmVuc2VuIEh1YW5nIHNh",
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789679819000,
+      "publishedAt": 1789678847000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -298,12 +482,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmVuc2VuIEh1YW5nIHNh",
-      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "id": "CNBC Markets-QmlsbCB0byBjdXJiIEFJ",
+      "title": "Bill to curb AI data center utility costs hits snag in Senate",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789678847000,
+      "publishedAt": 1789678601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -343,21 +527,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJ1bXAgcGhvdG8gYXBw",
-      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789676540000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TGF3bWFrZXJzIG11c3Qg",
       "title": "Lawmakers must &apos;keep their options open&apos; on Social Security reform, former Treasury Secretary Jack Lew says",
       "summary": "",
@@ -372,21 +541,6 @@
         "UST10Y"
       ],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789671120000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -426,143 +580,6 @@
       "url": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
       "source": "CNBC Markets",
       "publishedAt": 1789655980000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QSBDaGluZXNlIEFJIGNv",
-      "title": "A Chinese AI company just connected its model to Wall Street&apos;s leading data providers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789655425000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7SG9zdGlsZSBh",
-      "title": "&apos;Hostile act&apos;: Trump threatens EU with tariffs over Canada associate membership proposal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789655319000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlsbGlvbmFpcmUgS3Jh",
-      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore&apos;s Palestine comments",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789654027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
-      "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789652774000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U0VDIGNsZWFycyBwYXRo",
-      "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789650028000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FybmV5IHNheXMgQ2Fu",
-      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789648614000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFuayBvZiBFbmdsYW5k",
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789648030000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIGFuZCBBbnRo",
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789635601000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZ2FpbnMgYSB0",
-      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789634764000,
       "lang": "zh-CN",
       "topics": [
         "macro"
