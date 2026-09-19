@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789823984316,
-  "crawlUpdatedAt": 1789823984316,
-  "crawlCount": 37,
+  "updatedAt": 1789836243371,
+  "crawlUpdatedAt": 1789836243371,
+  "crawlCount": 34,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,209 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TVMgTk9XIGpvdXJuYWxp",
-      "title": "MS NOW journalists blocked from White House after Trump bans three media outlets",
+      "id": "CNBC Markets-TVMgTk9XLCBDTk4gYW5k",
+      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789823494000,
+      "publishedAt": 1789835961000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGlnaGVyIGludGVyZXN0",
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789833789000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IHRoZSBGZWQgaGlr",
+      "title": "Why the Fed hiked into a supply shock?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/why-the-fed-hiked-into-a-supply-shock-4908102",
+      "source": "Investing.com News",
+      "publishedAt": 1789833018000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXJlcyBNYW5hZ2VtZW50",
+      "title": "Ares Management weighs minority deal with Copenhagen Infrastructure Partners",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/ares-management-weighs-minority-deal-with-copenhagen-infrastructure-partners-4908100",
+      "source": "Investing.com News",
+      "publishedAt": 1789832021000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlbmNoIGZpbmFuY2Ug",
+      "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908097",
+      "source": "Investing.com News",
+      "publishedAt": 1789830779000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgZmFzaGlvbiBjb3Vu",
+      "title": "US fashion council CEO Kolb resigns after clash with runway show protesters",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-fashion-council-ceo-kolb-resigns-after-clash-with-runway-show-protesters-4908048",
+      "source": "Investing.com News",
+      "publishedAt": 1789830026000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVUgcHJlc3NlcyBnbG9i",
+      "title": "EU presses global allies to plug Ukraine’s $27 bln funding gap",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/eu-presses-global-allies-to-plug-ukraines-27-bln-funding-gap-4908092",
+      "source": "Investing.com News",
+      "publishedAt": 1789829006000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwbG9zaW9uIGFuZCBi",
+      "title": "Explosion and black smoke reported at Riyadh airport following Saudi alert",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
+      "source": "Investing.com News",
+      "publishedAt": 1789828688000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IEFyYml0Zmxvd+KA",
+      "title": "Why Arbitflow’s Spot-Only Model Stands Out in Managed Crypto Trading",
+      "summary": "",
+      "url": "https://www.investing.com/news/press-releases/why-arbitflows-spotonly-model-stands-out-in-managed-crypto-trading-4908091",
+      "source": "Investing.com News",
+      "publishedAt": 1789828265000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2hlIHBheXMgJDk2IGEg",
+      "title": "She pays $96 a month to live in Yellowstone National Park: &apos;Being here has changed my life&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789827002000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMganVkZ2Ugc2lnbmFs",
+      "title": "US judge signals rejection of part of TikTok privacy settlement",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-signals-rejection-of-part-of-tiktok-privacy-settlement-4908089",
+      "source": "Investing.com News",
+      "publishedAt": 1789826432000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RUNCIHNob3VsZCBzdGF5",
+      "title": "ECB should stay vigilant on inflation but avoid hasty rate moves - Stournaras",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ecb-should-stay-vigilant-on-inflation-but-avoid-hasty-rate-moves--stournaras-4908086",
+      "source": "Investing.com News",
+      "publishedAt": 1789826090000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmxhbWVzIHJlcG9ydGVk",
+      "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789825684000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3R1ZGVudCBsb2FuIGJv",
+      "title": "Student loan borrowers exiting SAVE may face sharply higher payments if they don&apos;t take action soon",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/19/save-student-loan-deadline-avoid-higher-payments.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789824601000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -75,36 +272,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RmxhbWVzLCBzbW9rZSBz",
-      "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-      "source": "Investing.com News",
-      "publishedAt": 1789821383000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJlbmNoIGRyYWZ0IGJ1",
-      "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/french-draft-budget-caps-spending-growth-to-satisfy-eu-despite-rising-debt-burden-4908083",
-      "source": "Investing.com News",
-      "publishedAt": 1789821044000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIEFJIGtpbGwgc3dp",
       "title": "The AI kill switch, explained: &apos;It&apos;s not too little, but it&apos;s probably too late&apos;",
       "summary": "",
@@ -120,117 +287,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UG9yc2NoZSBjb3VsZCBm",
-      "title": "Porsche could face another 4,000 job cuts, Handelsblatt reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/porsche-could-face-another-4000-job-cuts-handelsblatt-reports-4908079",
-      "source": "Investing.com News",
-      "publishedAt": 1789818529000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FuYWRhIG9wdGltaXN0",
-      "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
-      "source": "Investing.com News",
-      "publishedAt": 1789817428000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VvUGFyayBkZWxpdmVy",
-      "title": "GeoPark delivers 67% return after InvestingPro Fair Value call",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/geopark-delivers-67-return-after-investingpro-fair-value-call-93CH-4908077",
-      "source": "Investing.com News",
-      "publishedAt": 1789816179000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0aW5nUHJvIEZh",
-      "title": "InvestingPro Fair Value predicted Sterling Infrastructure 40% decline",
-      "summary": "",
-      "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-predicted-sterling-infrastructure-40-decline-93CH-4908076",
-      "source": "Investing.com News",
-      "publishedAt": 1789815713000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgc2F5cyBVLlMu",
       "title": "Trump says U.S. to build a &apos;large Military presence&apos; in Greenland as part of a security deal with it and Denmark",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
       "source": "CNBC Markets",
       "publishedAt": 1789814178000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVuIGRheXMgdGhhdCBj",
-      "title": "Ten days that changed the course of AI",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/ten-days-that-changed-the-course-of-ai-4908072",
-      "source": "Investing.com News",
-      "publishedAt": 1789812415000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVyb3Bl4oCZcyB3aW50",
-      "title": "Europe’s winter power prices jump as gas supply concerns grow - Bloomberg",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/europes-winter-power-prices-jump-as-gas-supply-concerns-grow--bloomberg-4908070",
-      "source": "Investing.com News",
-      "publishedAt": 1789811785000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGF1bmNoIFZlY3RvciBQ",
-      "title": "Launch Vector Portfolio Company Surpasses $1 Million in Profit Within 4.5 Months of Acquisition aur Satya",
-      "summary": "",
-      "url": "https://www.investing.com/news/press-releases/launch-vector-portfolio-company-surpasses-1-million-in-profit-within-45-months-of-acquisition-aur-satya-4908069",
-      "source": "Investing.com News",
-      "publishedAt": 1789810276000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -360,21 +422,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2hhdCBpdCB3aWxsIHRh",
-      "title": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/what-it-will-take-for-us-to-buy-the-dip-in-dupont-plus-profit-taking-hits-cyber-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789756375000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RmVkIHN0YWZmIHNob3Vs",
       "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
       "summary": "",
@@ -415,21 +462,6 @@
       "url": "https://www.cnbc.com/2026/09/18/mcdonalds-is-the-new-value-meal-says-trader-mike-khouw.html",
       "source": "CNBC Markets",
       "publishedAt": 1789755107000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGlja2V0IHByaWNlcyBy",
-      "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789754499000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -490,81 +522,6 @@
       "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
       "source": "CNBC Markets",
       "publishedAt": 1789750952000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgc2FmZXR5IGRlYmF0",
-      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year&apos;s models are enough",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789749063000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGlzbmV5IG5hbWVzIENU",
-      "title": "Disney names CTO for the first time as media giant expands tech push",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789748066000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2VuZHkmYXBvcztzIGZy",
-      "title": "Wendy&apos;s franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789747980000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BvcnRzYm9va3MgcmVt",
-      "title": "Sportsbooks remain king this football season, but upstarts are making a run for the money",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/sportsbooks-remain-king-this-football-season-but-upstarts-are-making-a-run-for-the-money.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789744604000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmVwLiBDaGlwIFJveSBk",
-      "title": "Rep. Chip Roy doesn&apos;t want to regulate AI, but says Congress should have an oversight role",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789741246000,
       "lang": "zh-CN",
       "topics": [
         "macro"
