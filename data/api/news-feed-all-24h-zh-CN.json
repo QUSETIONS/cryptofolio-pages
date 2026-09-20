@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789913976197,
-  "crawlUpdatedAt": 1789913976197,
-  "crawlCount": 21,
+  "updatedAt": 1789925847065,
+  "crawlUpdatedAt": 1789925847065,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,17 +13,193 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-VS5TLiB1cmdlcyBBbWVy",
-      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+      "id": "Investing.com News-SXJhbiBhbmQgVVMgdHJh",
+      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789913924000,
+      "url": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
+      "source": "Investing.com News",
+      "publishedAt": 1789925430000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBLYXNoa2Fy",
+      "title": "Fed’s Kashkari says inflation is still too high in ’all aspects’ of US economy, in Fox News interview",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-to-fox-news-interview-4908180",
+      "source": "Investing.com News",
+      "publishedAt": 1789924343000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzc2VudCBtZWV0cyBD",
+      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789923374000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9ydGggS29yZWEgZmly",
+      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
+      "source": "Investing.com News",
+      "publishedAt": 1789922526000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyAx",
+      "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
+      "source": "Investing.com News",
+      "publishedAt": 1789920487000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
+      "title": "US Treasury’s Bessent and China’s He launch talks on AI, trade and critical minerals",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
+      "source": "Investing.com News",
+      "publishedAt": 1789920385000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q0lCQyBzdGFuZHMgb3V0",
+      "title": "CIBC stands out as the value pick among Canada’s major bank stocks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/cibc-stands-out-as-the-value-pick-among-canadas-major-bank-stocks-93CH-4908183",
+      "source": "Investing.com News",
+      "publishedAt": 1789918163000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWlubmVhcG9saXMgRmVk",
+      "title": "Minneapolis Fed’s Kashkari says inflation remains too high",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/minneapolis-feds-kashkari-says-inflation-remains-too-high-4908181",
+      "source": "Investing.com News",
+      "publishedAt": 1789917182000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlICZhcG9zO3JvYm90",
+      "title": "The &apos;robot relations&apos; department may become reality in workplace of the future",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789915054000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiB1cmdlcyBBbWVy",
+      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789914233000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgY29udmVydHMg",
+      "title": "Trump converts planned triumphal arch into drone facility",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-converts-planned-triumphal-arch-into-drone-facility-93CH-4908179",
+      "source": "Investing.com News",
+      "publishedAt": 1789914206000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hv4oCZcyB3aG8gaW4g",
+      "title": "Who’s who in Fed’s September 2026 dot plot?",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/whos-who-in-feds-september-2026-dot-plot-4908178",
+      "source": "Investing.com News",
+      "publishedAt": 1789913847000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -43,80 +219,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiB3YXJucyBhZ2Fp",
-      "title": "Iran warns against new escalation by US and allies",
+      "id": "CNBC Markets-OCBzaWducyB5b3UmYXBv",
+      "title": "8 signs you&apos;re raising a resilient, emotionally mature child, says psychologist",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
-      "source": "Investing.com News",
-      "publishedAt": 1789910672000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUksIGRhdGEgY2VudGVy",
-      "title": "AI, data center alarms dominate Congressional Black Caucus week in Washington",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/20/ai-data-center-alarms-dominate-cbc-week-in-washington.html",
+      "url": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
       "source": "CNBC Markets",
-      "publishedAt": 1789910276000,
+      "publishedAt": 1789911241000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGksIEd1bGYgc3Rv",
-      "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/saudi-gulf-stocks-fall-after-houthisclaim-riyadh-attacks-4908151",
-      "source": "Investing.com News",
-      "publishedAt": 1789909247000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW52ZXN0b3JzIGZvY3Vz",
-      "title": "Investors focus on rate path, AI slowdown after Fed hike",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/investors-focus-on-rate-path-ai-slowdown-after-fed-hike-4908174",
-      "source": "Investing.com News",
-      "publishedAt": 1789909230000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHN0",
-      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.26%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-026-4908173",
-      "source": "Investing.com News",
-      "publishedAt": 1789908603000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -129,36 +243,6 @@
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VFNYIG1pbmVycyB0byB3",
-      "title": "TSX miners to watch next week as analysts flag further upside",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-miners-to-watch-next-week-as-analysts-flag-further-upside-93CH-4908172",
-      "source": "Investing.com News",
-      "publishedAt": 1789908094000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Vm9sdm8gQ2FycyBuYW1l",
-      "title": "Volvo Cars names Klaus Zellmer as next CEO",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/volvo-cars-names-klaus-zellmer-as-next-ceo-93CH-4908169",
-      "source": "Investing.com News",
-      "publishedAt": 1789907024000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -225,57 +309,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2FuIEZyYW5jaXNjbyBU",
-      "title": "San Francisco Tribune Releases List of Top Startups Shaping the Next Phase of Enterprise AI",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/san-francisco-tribune-releases-list-of-top-startups-shaping-the-next-phase-of-enterprise-ai-4908166",
-      "source": "Investing.com News",
-      "publishedAt": 1789903848000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TnZpZGlhIENFTyBKZW5z",
       "title": "Nvidia CEO Jensen Huang emerges as Trump&apos;s top ally in AI safety debate",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
       "source": "CNBC Markets",
       "publishedAt": 1789903508000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGhlc2UgMyBmYWN0b3Jz",
-      "title": "These 3 factors \"remain significant risks\" to stock market valuations: analyst",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/these-3-factors-remain-significant-risks-to-stock-market-valuations-analyst-4908164",
-      "source": "Investing.com News",
-      "publishedAt": 1789903142000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm9ydGggS29yZWEgZmly",
-      "title": "North Korea fires two ballistic missiles off east coast in three hours",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
-      "source": "Investing.com News",
-      "publishedAt": 1789902728000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -309,21 +348,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGlnaGVyIGludGVyZXN0",
-      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789833789000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
