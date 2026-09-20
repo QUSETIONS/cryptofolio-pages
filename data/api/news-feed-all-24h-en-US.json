@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789881497652,
-  "crawlUpdatedAt": 1789881497652,
-  "crawlCount": 18,
+  "updatedAt": 1789898518988,
+  "crawlUpdatedAt": 1789898518988,
+  "crawlCount": 19,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,147 +13,166 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q2hpbmEga2VlcHMgbGVu",
-      "title": "China keeps lending rates on hold as room for monetary easing narrows",
+      "id": "Investing.com News-V2hhdCB0byBleHBlY3Qg",
+      "title": "What to expect from upcoming summit between Presidents Trump and Xi",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/china-keeps-lending-rates-on-hold-as-room-for-monetary-easing-narrows-4908136",
+      "url": "https://www.investing.com/news/economy-news/what-to-expect-from-upcoming-summit-between-presidents-trump-and-xi-4908152",
       "source": "Investing.com News",
-      "publishedAt": 1789875225000,
+      "publishedAt": 1789894640000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGksIEd1bGYgc3Rv",
+      "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/saudi-gulf-stocks-fall-after-houthisclaim-riyadh-attacks-4908151",
+      "source": "Investing.com News",
+      "publishedAt": 1789891946000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVmb3JtIFVL4oCZcyBy",
+      "title": "Reform UK’s record donations face risk from election spending review",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/reform-uks-record-donations-face-risk-from-election-spending-review-4908150",
+      "source": "Investing.com News",
+      "publishedAt": 1789891901000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhLCBVa3JhaW5l",
+      "title": "Russia, Ukraine trade major drone attacks as Moscow oil refinery hit",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/russia-ukraine-trade-major-drone-attacks-as-moscow-oil-refinery-hit-4908148",
+      "source": "Investing.com News",
+      "publishedAt": 1789889055000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiB0cmFwcGVk",
+      "title": "Bitcoin trapped between $78.5K-$82K in breakout standoff: Live",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "source": "Investing.com News",
+      "publishedAt": 1789887743000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMsIENoaW5hIHNldCBm",
+      "title": "US, China set for talks on AI, tariffs and critical minerals ahead of summit",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-china-set-for-talks-on-ai-tariffs-and-critical-minerals-ahead-of-summit-4908147",
+      "source": "Investing.com News",
+      "publishedAt": 1789886482000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2VybWFueeKAmXMgSVcg",
+      "title": "Germany’s IW institute triples growth forecast for 2026",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/germanys-iw-institute-triples-growth-forecast-for-2026-4908145",
+      "source": "Investing.com News",
+      "publishedAt": 1789884421000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBzZXRzIHRlcm1z",
+      "title": "Iran sets terms for US talks as Houthis step up attacks on Saudi Arabia",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144",
+      "source": "Investing.com News",
+      "publishedAt": 1789884348000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IEdyZWVrIGJhbmtz",
+      "title": "Why Greek banks deserve your attention",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/why-greek-banks-deserve-your-attention-4908143",
+      "source": "Investing.com News",
+      "publishedAt": 1789882273000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
+      "title": "US Treasury’s Bessent, China’s He to launch talks on AI, trade, critical minerals",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
+      "source": "Investing.com News",
+      "publishedAt": 1789881170000,
       "lang": "en-US",
       "topics": [
         "rates"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VG90YWxFbmVyZ2llcyBz",
-      "title": "TotalEnergies signs deal paving way for return to Venezuela",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/totalenergies-signs-deal-paving-way-for-return-to-venezuela-4908135",
-      "source": "Investing.com News",
-      "publishedAt": 1789873330000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+      "symbols": [
+        "UST10Y"
       ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UG9seW1hcmtldCBmcmF1",
-      "title": "Polymarket fraud concerns mount as company prepares for potential IPO - WSJ",
+      "id": "CNBC Markets-RnJhbmNl4oCZcyB3aW5l",
+      "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/polymarket-fraud-concerns-mount-as-company-prepares-for-potential-ipo--wsj-4908134",
-      "source": "Investing.com News",
-      "publishedAt": 1789871562000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2hhdCBkb2VzIHRoZSBF",
-      "title": "What does the EU have that the U.S. does not?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/what-does-the-eu-have-that-the-us-does-not-4908133",
-      "source": "Investing.com News",
-      "publishedAt": 1789869644000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEga2VlcHMgYmVu",
-      "title": "China keeps benchmark lending rates unchanged for 16th month in September",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/china-keeps-benchmark-lending-rates-unchanged-for-16th-month-in-september-4908131",
-      "source": "Investing.com News",
-      "publishedAt": 1789868205000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGXigJlzIENvb2sg",
-      "title": "Apple’s Cook calls Australia’s social media curbs ‘world-leading,’ PM says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/apples-cook-calls-australias-social-media-curbs-worldleading-pm-says-4908129",
-      "source": "Investing.com News",
-      "publishedAt": 1789867698000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGXigJlzIFRpbSBD",
-      "title": "Apple’s Tim Cook sees Australia’s social media curbs as ’world-leading’, PM says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apples-tim-cook-sees-australias-social-media-curbs-as-worldleading-pm-says-4908128",
-      "source": "Investing.com News",
-      "publishedAt": 1789866388000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VU5DIGVuZG93bWVudCBy",
-      "title": "UNC endowment returns 37.8% fueled by early SpaceX investment",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/unc-endowment-returns-378-fueled-by-early-spacex-investment-4908127",
-      "source": "Investing.com News",
-      "publishedAt": 1789865064000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGZpemVyIHRvIHNoYXJl",
-      "title": "Pfizer to share overseas drug revenue with HHS under pricing deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/pfizer-to-share-overseas-drug-revenue-with-hhs-under-pricing-deal-4908125",
-      "source": "Investing.com News",
-      "publishedAt": 1789862326000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmxhbWVzLCBzbW9rZSBz",
-      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-      "source": "Investing.com News",
-      "publishedAt": 1789860986000,
+      "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789880401000,
       "lang": "en-US",
       "topics": [
         "macro"
