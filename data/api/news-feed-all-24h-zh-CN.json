@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1789925847065,
-  "crawlUpdatedAt": 1789925847065,
+  "updatedAt": 1789936852744,
+  "crawlUpdatedAt": 1789936852744,
   "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,53 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-U3BlY2lhbGlzZWQgVGhl",
+      "title": "Specialised Therapeutics expands Incyte partnership to Australia",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/specialised-therapeutics-expands-incyte-partnership-to-australia-93CH-4908193",
+      "source": "Investing.com News",
+      "publishedAt": 1789934677000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgdG8gbWVldCB3",
+      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789931176000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiB0cmFwcGVk",
+      "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "source": "Investing.com News",
+      "publishedAt": 1789930930000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "Investing.com News-SXJhbiBhbmQgVVMgdHJh",
       "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
@@ -187,38 +234,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hv4oCZcyB3aG8gaW4g",
-      "title": "Who’s who in Fed’s September 2026 dot plot?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/whos-who-in-feds-september-2026-dot-plot-4908178",
-      "source": "Investing.com News",
-      "publishedAt": 1789913847000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXVsdGktQXNzZXQgVHJh",
-      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
-      "source": "Investing.com News",
-      "publishedAt": 1789912837000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-OCBzaWducyB5b3UmYXBv",
       "title": "8 signs you&apos;re raising a resilient, emotionally mature child, says psychologist",
       "summary": "",
@@ -330,21 +345,6 @@
       "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
       "source": "CNBC Markets",
       "publishedAt": 1789880401000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TVMgTk9XLCBDTk4gYW5k",
-      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789841535000,
       "lang": "zh-CN",
       "topics": [
         "macro"
