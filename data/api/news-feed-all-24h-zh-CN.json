@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789945718893,
-  "crawlUpdatedAt": 1789945718893,
-  "crawlCount": 22,
+  "updatedAt": 1789954194794,
+  "crawlUpdatedAt": 1789954194794,
+  "crawlCount": 23,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,134 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-T2lsIHJpc2VzIGFmdGVy",
-      "title": "Oil rises after Houthi attack on Saudi capital",
+      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
+      "title": "US Treasury’s Bessent and China’s He launch talks on AI, trade and critical minerals",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
+      "source": "Investing.com News",
+      "publishedAt": 1789953204000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9ydGggS29yZWEgZmly",
+      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
+      "source": "Investing.com News",
+      "publishedAt": 1789953152000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0sgSHluaXggc3F1ZWV6",
+      "title": "SK Hynix squeezed below ₩1,911,000 resistance: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-squeezed-below-1911000-resistance-live-levels-93CH-4908215",
+      "source": "Investing.com News",
+      "publishedAt": 1789952670000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tmlra2VpIDIyNSB0ZXN0",
+      "title": "Nikkei 225 tests 200 SMA resistance at 65,337: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
+      "source": "Investing.com News",
+      "publishedAt": 1789952663000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJlbmNoIGZpbmFuY2Ug",
+      "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908213",
+      "source": "Investing.com News",
+      "publishedAt": 1789952481000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXJhbiBhbmQgVVMgdHJh",
+      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
+      "source": "Investing.com News",
+      "publishedAt": 1789952446000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGV4dGVuZHMgZGVj",
+      "title": "Oil extends decline amid U.S.-Iran diplomacy hopes",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-extends-decline-amid-usiran-diplomacy-hopes-4908212",
+      "source": "Investing.com News",
+      "publishedAt": 1789951785000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzc2VudCBjYWxscyBt",
+      "title": "Bessent calls meeting with China Vice Premier He Lifeng &apos;successful&apos; ahead of Trump-Xi summit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789951526000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIHNsaXBzIGFzIGlu",
+      "title": "Oil slips as investors assess Saudi export recovery",
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
       "source": "Investing.com News",
-      "publishedAt": 1789942705000,
+      "publishedAt": 1789951370000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,59 +150,42 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmVmZmVyaWVzIHN0YXlz",
-      "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
+      "id": "Investing.com News-VGVjaCBsZWFkcyBzaGFy",
+      "title": "Tech leads shares higher in Asia, oil eases",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-stays-bullish-on-sp-500-sees-9000-by-end2027-4908198",
+      "url": "https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
       "source": "Investing.com News",
-      "publishedAt": 1789941824000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWlkdGVybSBlbGVjdGlv",
-      "title": "Midterm elections: What do equity markets typically do and what is priced?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/midterm-elections-what-do-equity-markets-typically-do-and-what-is-priced-4908197",
-      "source": "Investing.com News",
-      "publishedAt": 1789941674000,
+      "publishedAt": 1789951350000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "id": "Investing.com News-Q2hpbmEgUmFyZSBFYXJ0",
+      "title": "China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908195",
+      "url": "https://www.investing.com/news/stock-market-news/china-rare-earth-group-in-talks-to-buy-mp-materials-shareholder-shenghe-resources-sources-say-4908159",
       "source": "Investing.com News",
-      "publishedAt": 1789939203000,
+      "publishedAt": 1789951006000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3BlY2lhbGlzZWQgVGhl",
-      "title": "Specialised Therapeutics expands Incyte partnership to Australia",
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDMg",
+      "title": "Here are the 3 big things we&apos;re watching in the stock market this week",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/specialised-therapeutics-expands-incyte-partnership-to-australia-93CH-4908193",
-      "source": "Investing.com News",
-      "publishedAt": 1789934677000,
+      "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789947720000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -101,103 +206,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiB0cmFwcGVk",
-      "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "source": "Investing.com News",
-      "publishedAt": 1789930930000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXJhbiBhbmQgVVMgdHJh",
-      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
-      "source": "Investing.com News",
-      "publishedAt": 1789925430000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVk4oCZcyBLYXNoa2Fy",
-      "title": "Fed’s Kashkari says inflation is still too high in ’all aspects’ of US economy, in Fox News interview",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-to-fox-news-interview-4908180",
-      "source": "Investing.com News",
-      "publishedAt": 1789924343000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVzc2VudCBtZWV0cyBD",
-      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789923374000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm9ydGggS29yZWEgZmly",
-      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
-      "source": "Investing.com News",
-      "publishedAt": 1789922526000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiBzbGlwcyAx",
-      "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
-      "source": "Investing.com News",
-      "publishedAt": 1789920487000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
