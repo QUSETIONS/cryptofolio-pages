@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1789954194794,
-  "crawlUpdatedAt": 1789954194794,
-  "crawlCount": 23,
+  "updatedAt": 1789974245032,
+  "crawlUpdatedAt": 1789974245032,
+  "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,29 +13,89 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-VVMgVHJlYXN1cnnigJlz",
-      "title": "US Treasury’s Bessent and China’s He launch talks on AI, trade and critical minerals",
+      "id": "Investing.com News-UHVyZVRlY2jigJlzIExZ",
+      "title": "PureTech’s LYT-200 receives FDA fast track for blood cancer",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
+      "url": "https://www.investing.com/news/company-news/puretechs-lyt200-receives-fda-fast-track-for-blood-cancer-93CH-4908310",
       "source": "Investing.com News",
-      "publishedAt": 1789953204000,
+      "publishedAt": 1789973176000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgY29mZmVlIGNoYWlu",
+      "title": "US coffee chain Starbucks plans tech centre in India, source says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-coffee-chain-starbucks-plans-tech-centre-in-india-source-says-4908308",
+      "source": "Investing.com News",
+      "publishedAt": 1789972963000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SkQgU3BvcnRzIGVudGVy",
+      "title": "JD Sports enters Mexico through Grupo Axo franchise deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/jd-sports-enters-mexico-through-grupo-axo-franchise-deal-93CH-4908307",
+      "source": "Investing.com News",
+      "publishedAt": 1789972950000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyBEYWlseSBPcGVu",
+      "title": "CNBC Daily Open: May the &apos;AI Force&apos; be with you",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789972894000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBjbGltYnMg",
+      "title": "Bitcoin climbs toward $82k as tokenized-stock move boosts crypto sentiment",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "source": "Investing.com News",
+      "publishedAt": 1789972788000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
       ],
       "symbols": [
-        "UST10Y"
+        "BTC"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Tm9ydGggS29yZWEgZmly",
-      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
+      "id": "Investing.com News-Q29udGFuZ28gSG9sZGlu",
+      "title": "Contango Holdings repays investor loans, plans maiden dividend",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
+      "url": "https://www.investing.com/news/company-news/contango-holdings-repays-investor-loans-plans-maiden-dividend-93CH-4908304",
       "source": "Investing.com News",
-      "publishedAt": 1789953152000,
+      "publishedAt": 1789972754000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -45,12 +105,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U0sgSHluaXggc3F1ZWV6",
-      "title": "SK Hynix squeezed below ₩1,911,000 resistance: Live levels",
+      "id": "Investing.com News-Rm9yZXNpZ2h0IEVudmly",
+      "title": "Foresight Environmental Infrastructure adds Investec as broker",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-squeezed-below-1911000-resistance-live-levels-93CH-4908215",
+      "url": "https://www.investing.com/news/company-news/foresight-environmental-infrastructure-adds-investec-as-broker-93CH-4908302",
       "source": "Investing.com News",
-      "publishedAt": 1789952670000,
+      "publishedAt": 1789972559000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -60,12 +120,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Tmlra2VpIDIyNSB0ZXN0",
-      "title": "Nikkei 225 tests 200 SMA resistance at 65,337: Live levels",
+      "id": "Investing.com News-SHVtYW5vaWQgcm9ib3Qg",
+      "title": "Humanoid robot sales reach 7,000 units worldwide in 2025",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
+      "url": "https://www.investing.com/news/stock-market-news/humanoid-robot-sales-reach-7000-units-worldwide-in-2025-93CH-4908300",
       "source": "Investing.com News",
-      "publishedAt": 1789952663000,
+      "publishedAt": 1789972404000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -75,12 +135,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnJlbmNoIGZpbmFuY2Ug",
-      "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+      "id": "Investing.com News-QmVhY29u4oCZcyBnZW5l",
+      "title": "Beacon’s gene therapy meets primary endpoint in pivotal trial",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908213",
+      "url": "https://www.investing.com/news/company-news/beacons-gene-therapy-meets-primary-endpoint-in-pivotal-trial-93CH-4908299",
       "source": "Investing.com News",
-      "publishedAt": 1789952481000,
+      "publishedAt": 1789972332000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -90,12 +150,47 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SXJhbiBhbmQgVVMgdHJh",
-      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+      "id": "Investing.com News-QXVzdHJhbGlhIHN0b2Nr",
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.01%",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4908298",
       "source": "Investing.com News",
-      "publishedAt": 1789952446000,
+      "publishedAt": 1789972204000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "SPX"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGFtYWsgc2VsbHMgOCBi",
+      "title": "Hamak sells 8 bitcoin to fund Ghana gold project assessment",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/hamak-sells-8-bitcoin-to-fund-ghana-gold-project-assessment-93CH-4908297",
+      "source": "Investing.com News",
+      "publishedAt": 1789972109000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC",
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmVzZSBiaW9waGFy",
+      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789964433000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -105,12 +200,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIGV4dGVuZHMgZGVj",
-      "title": "Oil extends decline amid U.S.-Iran diplomacy hopes",
+      "id": "CNBC Markets-SXJhbiB2b3dzICZhcG9z",
+      "title": "Iran vows &apos;painful&apos; retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-extends-decline-amid-usiran-diplomacy-hopes-4908212",
-      "source": "Investing.com News",
-      "publishedAt": 1789951785000,
+      "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789963458000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SWYgeW91ciBraWQgZG9l",
+      "title": "If your kid does these 8 things, they&apos;re more emotionally mature than most, says psychologist",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1789956432000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -132,51 +242,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHNsaXBzIGFzIGlu",
-      "title": "Oil slips as investors assess Saudi export recovery",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
-      "source": "Investing.com News",
-      "publishedAt": 1789951370000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGVjaCBsZWFkcyBzaGFy",
-      "title": "Tech leads shares higher in Asia, oil eases",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
-      "source": "Investing.com News",
-      "publishedAt": 1789951350000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgUmFyZSBFYXJ0",
-      "title": "China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/china-rare-earth-group-in-talks-to-buy-mp-materials-shareholder-shenghe-resources-sources-say-4908159",
-      "source": "Investing.com News",
-      "publishedAt": 1789951006000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -231,21 +296,6 @@
       "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1789914233000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-OCBzaWducyB5b3UmYXBv",
-      "title": "8 signs you&apos;re raising a resilient, emotionally mature child, says psychologist",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789911241000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -336,21 +386,6 @@
       "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
       "source": "CNBC Markets",
       "publishedAt": 1789903508000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJhbmNl4oCZcyB3aW5l",
-      "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1789880401000,
       "lang": "zh-CN",
       "topics": [
         "macro"
