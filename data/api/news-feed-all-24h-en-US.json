@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1790111469196,
-  "crawlUpdatedAt": 1790111469196,
-  "crawlCount": 40,
+  "updatedAt": 1790120750197,
+  "crawlUpdatedAt": 1790120750197,
+  "crawlCount": 38,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -14,162 +14,240 @@
   "items": [
     {
       "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790120628000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2hv",
+      "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790120623000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2xlYW4gQWlyIE1ldGFs",
+      "title": "Clean Air Metals closes C$6.2 million private placement",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/clean-air-metals-closes-c62-million-private-placement-93CH-4911867",
+      "source": "Investing.com News",
+      "publishedAt": 1790120443000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWN0aXZpc3QgSmFuYSBQ",
+      "title": "Activist Jana Partners calls for Six Flags sale- WSJ",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/activist-jana-partners-calls-for-six-flags-sale-wsj-4911865",
+      "source": "Investing.com News",
+      "publishedAt": 1790120218000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZC5jb20gZGlyZWN0",
+      "title": "Gold.com director Benjamin sells $1.74m in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/goldcom-director-benjamin-sells-174m-in-shares-93CH-4911862",
+      "source": "Investing.com News",
+      "publishedAt": 1790119872000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlnaXRhbE9jZWFuIENF",
+      "title": "DigitalOcean CEO Srinivasan sells $1.6m in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/digitalocean-ceo-srinivasan-sells-16m-in-shares-93CH-4911861",
+      "source": "Investing.com News",
+      "publishedAt": 1790119867000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc3VwcG9ydHMg",
+      "title": "Trump supports diesel export ban as fuel prices hit records",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466",
+      "source": "Investing.com News",
+      "publishedAt": 1790119466000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VzdGVybiBOZXcgRW5n",
+      "title": "Western New England Bancorp SVP sells $47,498 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-stock-93CH-4911850",
+      "source": "Investing.com News",
+      "publishedAt": 1790118956000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgZW1wbG95ZXJz4oCZ",
+      "title": "UK employers’ pay awards cool to 3%, Brightmine data shows",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/uk-employers-pay-awards-cool-to-3-brightmine-data-shows-4911840",
+      "source": "Investing.com News",
+      "publishedAt": 1790118750000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VW5pdGVkIFBhcmtzICYg",
+      "title": "United Parks & Resorts appoints Kyle Miller as president, amends bylaws",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/united-parks--resorts-appoints-kyle-miller-as-president-amends-bylaws-93CH-4911839",
+      "source": "Investing.com News",
+      "publishedAt": 1790118259000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2tTa3kgdGVjaG5v",
+      "title": "BlackSky technology general counsel & CAO Lin sells $138,600 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/blacksky-technology-general-counsel--cao-lin-sells-138600-in-stock-93CH-4911835",
+      "source": "Investing.com News",
+      "publishedAt": 1790118059000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2tTa3kgQ0ZPIER1",
+      "title": "BlackSky CFO Dubois sells $91,880 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/blacksky-cfo-dubois-sells-91880-in-company-stock-93CH-4911834",
+      "source": "Investing.com News",
+      "publishedAt": 1790118053000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TGVubmFyIHNoYXJlcyBw",
+      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790116550000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgZGlzY2xvc2Vz",
+      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790114613000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Um95YWwgQ2FyaWJiZWFu",
+      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790112342000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
       "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
       "source": "CNBC Markets",
       "publishedAt": 1790111241000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2VkYnVzaCBkb3duZ3Jh",
-      "title": "Wedbush downgrades Compass Therapeutics stock rating on FDA trial concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/wedbush-downgrades-compass-therapeutics-stock-rating-on-fda-trial-concerns-93CH-4911695",
-      "source": "Investing.com News",
-      "publishedAt": 1790110609000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9yY2ggR3JvdXAgc3Rv",
-      "title": "Porch Group stock initiated with buy rating at Texas Capital",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/porch-group-stock-initiated-with-buy-rating-at-texas-capital-93CH-4911694",
-      "source": "Investing.com News",
-      "publishedAt": 1790110604000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SGFsb3p5bWUgVGhlcmFw",
-      "title": "Halozyme Therapeutics completes $1.5 billion convertible notes offering",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/halozyme-therapeutics-completes-15-billion-convertible-notes-offering-93CH-4911693",
-      "source": "Investing.com News",
-      "publishedAt": 1790110596000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmluYW5jaWFsIHN0b2Nr",
-      "title": "Financial stocks fall with AI and flattening yield curve in focus",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/financial-stocks-fall-with-ai-and-flattening-yield-curve-in-focus-4911692",
-      "source": "Investing.com News",
-      "publishedAt": 1790110505000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBvbGxvIHByaXZhdGUg",
-      "title": "Apollo private credit fund redemption requests ease in third quarter",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apollo-private-credit-fund-redemption-requests-ease-in-third-quarter-4911691",
-      "source": "Investing.com News",
-      "publishedAt": 1790110483000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFdvcnRoaW5n",
-      "title": "Why is Worthington Industries stock up over 15% today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-worthington-industries-stock-up-over-15-today-93CH-4911690",
-      "source": "Investing.com News",
-      "publishedAt": 1790110435000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Vm95YWdlciBUZWNobm9s",
-      "title": "Voyager Technologies stock falls on $350M debt offering plan",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/voyager-technologies-stock-falls-on-350m-debt-offering-plan-93CH-4911689",
-      "source": "Investing.com News",
-      "publishedAt": 1790110365000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBy",
-      "title": "Raymond James reiterates Strong Buy on Rapport Therapeutics stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-rapport-therapeutics-stock-93CH-4911688",
-      "source": "Investing.com News",
-      "publishedAt": 1790110363000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXJlcyBDb21tZXJjaWFs",
-      "title": "Ares Commercial Real Estate completes $64 million sale of North Carolina office property",
-      "summary": "",
-      "url": "https://www.investing.com/news/sec-filings/ares-commercial-real-estate-completes-64-million-sale-of-north-carolina-office-property-93CH-4911687",
-      "source": "Investing.com News",
-      "publishedAt": 1790110362000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3BpcmUgR2xvYmFsIHN0",
-      "title": "Spire Global stock gains on $33.2M NOAA contract win",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spire-global-stock-gains-on-332m-noaa-contract-win-93CH-4911676",
-      "source": "Investing.com News",
-      "publishedAt": 1790110207000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -224,21 +302,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TGVubmFyIHNoYXJlcyBw",
-      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790109079000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
       "title": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
       "summary": "",
@@ -254,53 +317,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2hv",
-      "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790107644000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790107145000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Um95YWwgQ2FyaWJiZWFu",
-      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790106673000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW50aHJvcGljIGFuZCBP",
       "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
       "summary": "",
@@ -313,21 +329,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgZGlzY2xvc2Vz",
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790105403000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -577,36 +578,6 @@
       "url": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
       "source": "CNBC Markets",
       "publishedAt": 1790074801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGV4YXMgR292LiBBYmJv",
-      "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790030786000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAsIFhpIHNlZWsg",
-      "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790029533000,
       "lang": "en-US",
       "topics": [
         "macro"
