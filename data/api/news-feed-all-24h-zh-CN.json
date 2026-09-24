@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1790229703924,
-  "crawlUpdatedAt": 1790229703924,
+  "updatedAt": 1790251623793,
+  "crawlUpdatedAt": 1790251623793,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SnVkZ2UgaGVhcnMgYXJn",
-      "title": "Judge hears arguments on Trump White House media ban, hopes to rule &apos;soon&apos;",
+      "id": "CNBC Markets-MzAteWVhciBUcmVhc3Vy",
+      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790229326000,
+      "publishedAt": 1790251577000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAsIFhpIGV4cGVj",
+      "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790251392000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +45,329 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGVocmFuIHRha2VzIGFp",
-      "title": "Tehran takes aim at Canada for not condemning Trump&apos;s threat to destroy Iran",
+      "id": "Investing.com News-V2h5IGlzIEF0cmVzbWVk",
+      "title": "Why is Atresmedia stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195",
+      "source": "Investing.com News",
+      "publishedAt": 1790250686000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgbGlmdHMgVHJ1",
+      "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790250675000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG95b3RhIE1vdG9yIENy",
+      "title": "Toyota Motor Credit lists €750m notes on London exchange",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/toyota-motor-credit-lists-750m-notes-on-london-exchange-93CH-4915192",
+      "source": "Investing.com News",
+      "publishedAt": 1790250652000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Aclaris stock rating on LP opportunity",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-aclaris-stock-rating-on-lp-opportunity-93CH-4915191",
+      "source": "Investing.com News",
+      "publishedAt": 1790250650000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FudG9yIEZpdHpnZXJh",
+      "title": "Cantor Fitzgerald reiterates Roivant Sciences stock rating",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-roivant-sciences-stock-rating-93CH-4915189",
+      "source": "Investing.com News",
+      "publishedAt": 1790250645000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVydm8gRW5lcmd5IHN0",
+      "title": "Fervo Energy stock rises after Cape Station achieves first power",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/fervo-energy-stock-rises-after-cape-station-achieves-first-power-93CH-4915187",
+      "source": "Investing.com News",
+      "publishedAt": 1790250544000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UXVhbGNvbW0sIEFwcGxl",
+      "title": "Qualcomm, Apple extend licensing agreement for chips",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/qualcomm-apple-extend-licensing-agreement-for-chips-4915186",
+      "source": "Investing.com News",
+      "publishedAt": 1790250511000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIERyb3Bib3gg",
+      "title": "Why is Dropbox stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-dropbox-stock-sliding-today-93CH-4915185",
+      "source": "Investing.com News",
+      "publishedAt": 1790250490000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFV4aW4gc3Rv",
+      "title": "Why is Uxin stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-uxin-stock-surging-today-93CH-4915173",
+      "source": "Investing.com News",
+      "publishedAt": 1790250368000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2FsbCBTdHJlZXQgc2Vl",
+      "title": "Wall Street sees Muse as Meta’s next big catalyst after Connect event",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-sees-muse-as-metas-next-big-catalyst-after-connect-event-4915180",
+      "source": "Investing.com News",
+      "publishedAt": 1790250362000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzIHRvIHNo",
+      "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790250358000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UGFsbyBBbHRvIENFTyBz",
+      "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24//palo-alto-networks-nikesh-arora-ai-slowdown.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790250322000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3Vpbm5lc3MgVkNUIGFw",
+      "title": "Guinness VCT approves share buyback, director re-elections",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/guinness-vct-approves-share-buyback-director-reelections-93CH-4915176",
+      "source": "Investing.com News",
+      "publishedAt": 1790250274000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3dpdHplcmxhbmQgaXMg",
+      "title": "Switzerland is keeping rates at 0% — for now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790249696000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IFRydW1wJmFwb3M7",
+      "title": "Why Trump&apos;s &apos;big beautiful bill&apos; may shrink or boost your charitable tax break for 2026",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/trump-big-beautiful-bill-taxes-charitable-deduction-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790247601000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgY29uZmlybXMg",
+      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790245099000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3liZXIgc3RhcnR1cCBJ",
+      "title": "Cyber startup Island hits $6.4 billion valuation in new round as AI attacks fuel spending wave",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790244001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RlcGhlbiBDdXJyeSBz",
+      "title": "Stephen Curry says WNBA needs to keep conversations about the league &apos;focused on basketball&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/stephen-curry-wants-conversation-about-wnba-to-focus-on-basketball.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790244001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmV3IFlvcmsgRmVk4oCZ",
+      "title": "New York Fed’s Williams says it&apos;s &apos;reasonable&apos; to expect another rate hike by year-end",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790240778000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyByaXNl",
+      "title": "Oil prices rise sharply as investors seek progress on U.S.-Iran talks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790239182000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2xvYmFsIGRlYnQgdG9w",
+      "title": "Global debt tops $365 trillion as economists sound alarm over &apos;vicious cycle&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790237581000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVocmFuIGNyaXRpY2l6",
+      "title": "Tehran criticizes Canada for not condemning Trump&apos;s threat to destroy Iran",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/24/us-iran-war-trump-hormuz-canada-carney-bessent.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790228863000,
+      "publishedAt": 1790231995000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +377,42 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RnJhbmNlIGZhY2VzIGEg",
-      "title": "France faces a fresh budget battle that threatens to topple another government as debt costs spiral",
+      "id": "CNBC Markets-RnJhbmNlJmFwb3M7cyBm",
+      "title": "France&apos;s fresh budget battle threatens to topple another government",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790226002000,
+      "publishedAt": 1790230860000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Tm92byZhcG9zO3MgbmV3",
+      "title": "Novo&apos;s new strategy hinges on something it can&apos;t manufacture: investor trust",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790230812000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWlhbWkmYXBvcztzIHVs",
+      "title": "Miami&apos;s ultra-luxury housing market booms as cash transactions dominate, high-end brands like Bugatti and Porsche jump in",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/miami-luxury-housing-boom-bugatti-bubble.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790230773000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,217 +452,17 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIGZhbGxzIG9uIHJl",
-      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIEFJ",
+      "title": "China&apos;s AI chip blitz arms Xi with a message for Trump: &apos;You can&apos;t choke us off&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+      "url": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790223999000,
+      "publishedAt": 1790221083000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhIHNheXMg",
-      "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-4914110",
-      "source": "Investing.com News",
-      "publishedAt": 1790223862000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIE5FQyBzdG9j",
-      "title": "Why is NEC stock gaining today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nec-stock-gaining-today-93CH-4914404",
-      "source": "Investing.com News",
-      "publishedAt": 1790223150000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW7igJlzIEthdGF5",
-      "title": "Japan’s Katayama says principles of Japan-US FX intervention remain in place",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/japans-katayama-says-principles-of-japanus-fx-intervention-remain-in-place-4914402",
-      "source": "Investing.com News",
-      "publishedAt": 1790223147000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIE1ldGFwbGFu",
-      "title": "Why is Metaplanet stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-metaplanet-stock-surging-today-93CH-4914403",
-      "source": "Investing.com News",
-      "publishedAt": 1790223147000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIFN1bWl0b21v",
-      "title": "Why is Sumitomo Electric Industries stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sumitomo-electric-industries-stock-surging-today-93CH-4914401",
-      "source": "Investing.com News",
-      "publishedAt": 1790223143000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhIHVuZW1w",
-      "title": "Australia unemployment rate hits 5-yr high, but RBA hike bets remain",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/australia-jobs-beat-forecasts-in-aug-but-unemployment-hits-5yr-high-4914356",
-      "source": "Investing.com News",
-      "publishedAt": 1790223130000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGlzdG9yaWMgZGF5IGZv",
-      "title": "Historic day for global bonds as 10-year Treasury and JGB yields hit highest in decades",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790222814000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V29ybGQgaGVhZHMgaW50",
-      "title": "World heads into food crises &apos;blind&apos; as U.S. aid cuts squeeze UN food agency, experts warn",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790222546000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2lmdCBOaWZ0eSA1MCBi",
-      "title": "Gift Nifty 50 bear flag nears completion at 23,069.5: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-23511-resistance-in-bear-flag-live-levels-93CH-4908246",
-      "source": "Investing.com News",
-      "publishedAt": 1790222534000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXVzdHJhbGlhIGhvdXNp",
-      "title": "Australia housing runs out of rescuers as RBA is set to hike rates",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/australia-housing-runs-out-of-rescuers-as-rba-is-set-to-hike-rates-4914399",
-      "source": "Investing.com News",
-      "publishedAt": 1790222428000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgYW5kIEluZGlhbiB0",
-      "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-and-indian-top-diplomats-discuss-russia-sanctions-bill-signed-by-trump-4914397",
-      "source": "Investing.com News",
-      "publishedAt": 1790222067000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEliaWRlbiBz",
-      "title": "Why is Ibiden stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ibiden-stock-surging-today-93CH-4914396",
-      "source": "Investing.com News",
-      "publishedAt": 1790221973000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3Mgd2hh",
-      "title": "Here&apos;s what happens to the economy when Treasury yields soar like they are now",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790218212000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -309,6 +473,36 @@
       "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
       "source": "CNBC Markets",
       "publishedAt": 1790215010000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1lcmljYeKAmXMgQXNp",
+      "title": "America’s Asian allies want a Trump-Xi truce — but not at their expense",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/24/uss-asian-allies-want-a-trump-xi-truce-but-not-at-their-expense.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790214986000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWV0YSZhcG9zO3Mgc3Rh",
+      "title": "Meta&apos;s standoff with Amazon over Muse could be a sign of things to come",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790214323000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -333,12 +527,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
+      "id": "CNBC Markets-RmxvY2ssIEF4b24gZG9k",
+      "title": "Flock, Axon dodge Senate hearing after invite from Chair Josh Hawley",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+      "url": "https://www.cnbc.com/2026/09/23/flock-axon-senate-hearing-josh-hawley.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790208114000,
+      "publishedAt": 1790205303000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -348,15 +542,15 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIHRpbWVseSB0YXgg",
-      "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
+      "id": "CNBC Markets-QXMgVHJ1bXAgYW5kIFhp",
+      "title": "As Trump and Xi meet, Chinese automakers could be a Pandora&apos;s box for U.S. auto industry",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790207261000,
+      "publishedAt": 1790198701000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -378,21 +572,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWNEb25hbGQmYXBvcztz",
-      "title": "McDonald&apos;s CEO expects high inflation, lackluster traffic are here to stay",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790195032000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2h5IE1jRG9uYWxkJmFw",
       "title": "Why McDonald&apos;s is following Walmart and Amazon into the advertising business",
       "summary": "",
@@ -404,23 +583,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
-      "title": "10-year Treasury yield rockets to 19-year high. Here&apos;s what&apos;s driving the spike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790194070000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -440,181 +602,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGlnaGVyIGludGVyZXN0",
-      "title": "Higher interest rates squeeze younger and lower-income households. &apos;A rate hike is a blunt tool,&apos; says expert",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/fed-rate-hike-borrowing-costs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790191868000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T2lsIGluZHVzdHJ5IHdh",
       "title": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/23/trump-diesel-export-ban-gas-prices.html",
       "source": "CNBC Markets",
       "publishedAt": 1790191854000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGVzbGEgUm9hZHN0ZXIg",
-      "title": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790189531000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkZXJhbCBwcm9zZWN1",
-      "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790188883000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFya2V0IHNlZXMgbmV4",
-      "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790187138000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV3IFNvY2lhbCBTZWN1",
-      "title": "New Social Security bill would lower retirement age to 60 for some workers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790186327000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXJhbiZhcG9zO3MgcHJl",
-      "title": "Iran&apos;s president blames U.S., Israel for global instability in defiant UN speech",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790185127000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWNEb25hbGQmYXBvcztz",
-      "title": "McDonald&apos;s stock falls as it unveils plan to spend big on restaurant upgrades",
-      "summary": "NEXT.]]>",
-      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790183362000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWN0aXZpc3QgVG9tcyBD",
-      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790181276000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW9uUSBzaGFyZXMgcmlz",
-      "title": "IonQ shares rise after company says it made a major quantum computing breakthrough",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790177863000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWZmb3JkYWJpbGl0eSBj",
-      "title": "Affordability concerns loom large for advisors&apos; clients ahead of midterm elections, survey finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/social-security-medicare-affordability-cfp-survey.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790176725000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-NzIlIG9mIEFtZXJpY2Fu",
-      "title": "72% of Americans would slow financial progress to enjoy life now, SoFi survey finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/23/lifemaxxing-financial-goals-spending-saving.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790169577000,
       "lang": "zh-CN",
       "topics": [
         "macro"
