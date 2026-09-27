@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1790531695243,
-  "crawlUpdatedAt": 1790531695243,
-  "crawlCount": 23,
+  "updatedAt": 1790543698637,
+  "crawlUpdatedAt": 1790543698637,
+  "crawlCount": 22,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-Q2hpbmEgd2VpZ2hzIGFs",
-      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+      "id": "Investing.com News-UmVkd29vZCBUcnVzdCBD",
+      "title": "Redwood Trust CHRO Macomber buys $19,967 in common stock",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
+      "url": "https://www.investing.com/news/insider-trading-news/redwood-trust-chro-macomber-buys-19967-in-common-stock-93CH-4919134",
       "source": "Investing.com News",
-      "publishedAt": 1790528806000,
+      "publishedAt": 1790542868000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnV0bGVyIE5hdGlvbmFs",
+      "title": "Butler National Corp director Joseph Daly buys $16,400 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/butler-national-corp-director-joseph-daly-buys-16400-in-shares-93CH-4919135",
+      "source": "Investing.com News",
+      "publishedAt": 1790542868000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +48,7 @@
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-4919063",
       "source": "Investing.com News",
-      "publishedAt": 1790528791000,
+      "publishedAt": 1790542831000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,27 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2hhdCBhcmUgdGhlIGJv",
-      "title": "What are the bond yield effects on European equities? UBS answers",
+      "id": "Investing.com News-QmFyY2xheXMgc2VlcyBs",
+      "title": "Barclays sees lasting labor-market pressures as immigration slows, population ages",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/what-are-the-bond-yield-effects-on-european-equities-ubs-answers-4919062",
+      "url": "https://www.investing.com/news/economy-news/barclays-sees-lasting-labormarket-pressures-as-immigration-slows-population-ages-4919127",
       "source": "Investing.com News",
-      "publishedAt": 1790528673000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2hpbmEgbWF5IHBlcm1p",
-      "title": "China may permit Alibaba, ByteDance to buy new Nvidia chips – The Information",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061",
-      "source": "Investing.com News",
-      "publishedAt": 1790528417000,
+      "publishedAt": 1790542355000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +73,42 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDQg",
-      "title": "Here are the 4 big things we&apos;re watching in the stock market in the week ahead",
+      "id": "Investing.com News-TWVkcGFjZSBIb2xkaW5n",
+      "title": "Medpace Holdings CEO August J. Troendle sells $6.75m in stock",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "url": "https://www.investing.com/news/insider-trading-news/medpace-holdings-ceo-august-j-troendle-sells-675m-in-stock-93CH-4919117",
+      "source": "Investing.com News",
+      "publishedAt": 1790541085000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIENFTyBB",
+      "title": "Anthropic CEO Amodei to meet Trump privately ahead of AI summit",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089",
+      "source": "Investing.com News",
+      "publishedAt": 1790536653000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIENFTyBB",
+      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790525803000,
+      "publishedAt": 1790536407000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,17 +118,19 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmVvc3RlbGxhciBjYXBp",
-      "title": "Neostellar capital chairman Klein buys $39,550 in common stock",
+      "id": "Investing.com News-Qml0Y29pbiBzdGFsbHMg",
+      "title": "Bitcoin stalls in bull flag below $87,363: Live levels",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/neostellar-capital-chairman-klein-buys-39550-in-common-stock-93CH-4919056",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "source": "Investing.com News",
-      "publishedAt": 1790525760000,
+      "publishedAt": 1790535746000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "crypto"
       ],
-      "symbols": [],
+      "symbols": [
+        "BTC"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -108,7 +140,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790525745000,
+      "publishedAt": 1790534727000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,12 +150,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QkNCIEJhbmNvcnAgQ0VP",
-      "title": "BCB Bancorp CEO Thomas O’Brien purchases $1.24m in company stock",
+      "id": "CNBC Markets-Tm9yJmFwb3M7ZWFzdGVy",
+      "title": "Nor&apos;easter delays hundreds of flights, airlines waive change fees",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/bcb-bancorp-ceo-thomas-obrien-purchases-124m-in-company-stock-93CH-4919051",
-      "source": "Investing.com News",
-      "publishedAt": 1790524875000,
+      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790534601000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -133,12 +165,57 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmlsbCBHYXRlcyBqb2lu",
-      "title": "Bill Gates joins calls for AI safeguards, including legislation",
+      "id": "Investing.com News-S2FsdHVyYSBvZmZpY2Vy",
+      "title": "Kaltura officer Eynav Azaria sells $5,771 in common stock",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/bill-gates-joins-calls-for-ai-safeguards-including-legislation-4919049",
+      "url": "https://www.investing.com/news/insider-trading-news/kaltura-officer-eynav-azaria-sells-5771-in-common-stock-93CH-4919078",
       "source": "Investing.com News",
-      "publishedAt": 1790524162000,
+      "publishedAt": 1790532958000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RvY2sgeWFyZHMgYmFu",
+      "title": "Stock yards bancorp Sr. VP Michael Woods sells $10,983 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/stock-yards-bancorp-sr-vp-michael-woods-sells-10983-in-shares-93CH-4919075",
+      "source": "Investing.com News",
+      "publishedAt": 1790532058000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwb25lbnQgZ3JvdXAg",
+      "title": "Exponent group VP Souri buys $12,593 in EXPO common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/exponent-group-vp-souri-buys-12593-in-expo-common-stock-93CH-4919069",
+      "source": "Investing.com News",
+      "publishedAt": 1790531175000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgdGhlIDQg",
+      "title": "Here are the 4 big things we&apos;re watching in the stock market in the week ahead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790525803000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -178,72 +255,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VHJ1bXA6IE9pbCBwcmlj",
-      "title": "Trump: Oil prices will plummet after war ends ‘very soon’",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/iran-says-it-wont-soften-hormuz-demands-after-trump-rejects-proposal-4918887",
-      "source": "Investing.com News",
-      "publishedAt": 1790522308000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2lsbCBhIGZhbGxpbmcg",
-      "title": "Will a falling unemployment rate keep U.S. inflation above target?",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/will-a-falling-unemployment-rate-keep-us-inflation-above-target-4919042",
-      "source": "Investing.com News",
-      "publishedAt": 1790520512000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TWV0YSZhcG9zO3MgTXVz",
       "title": "Meta&apos;s Muse agent is attacking one of the economy&apos;s most profitable weak spots",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
       "source": "CNBC Markets",
       "publishedAt": 1790519602000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWlybGluZXMgd2FpdmUg",
-      "title": "Airlines waive change fees ahead of nor&apos;easter as flight disruptions trickle in",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790516351000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SG93IG1pZ2h0IGEgVS5T",
-      "title": "How might a U.S. fiscal crisis unfold? Capital Economics charts the path",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/how-might-a-us-fiscal-crisis-unfold-capital-economics-charts-the-path-4919024",
-      "source": "Investing.com News",
-      "publishedAt": 1790515131000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -319,36 +336,6 @@
       "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
       "source": "CNBC Markets",
       "publishedAt": 1790457664000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVyZSZhcG9zO3MgZXhh",
-      "title": "Here&apos;s exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790450636000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2hpdGUgSG91c2UgbW92",
-      "title": "White House moves to block $810 million in funding through pocket rescission",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790448408000,
       "lang": "en-US",
       "topics": [
         "macro"
