@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1790781113022,
-  "crawlUpdatedAt": 1790781113022,
+  "updatedAt": 1790799325848,
+  "crawlUpdatedAt": 1790799325848,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,194 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RmVk4oCZcyBwcmVmZXJy",
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "id": "CNBC Markets-U3RlbGxhbnRpcyBDRU8g",
+      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker&apos;s shares hit new low",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790780888000,
+      "publishedAt": 1790799307000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R29vZ2xlIHJvbGxzIG91",
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790799274000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury is higher as traders look past inflation data, await jobs report",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790799183000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWF0dGVsIG5hbWVzIFJv",
+      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790799106000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxvbiBNdXNrLCBQYWxt",
+      "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790798587000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUFudGhy",
+      "title": "Exclusive-Anthropic’s IPO pitch embraces AI’s promise and peril",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropics-ipo-pitch-embraces-ais-promise-and-peril-4925792",
+      "source": "Investing.com News",
+      "publishedAt": 1790798069000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGVmZW5zZSBFVEYgcGlj",
+      "title": "Defense ETF picks: sector oversold with RSI readings below 30",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/defense-etf-picks-sector-oversold-with-rsi-readings-below-30-93CH-4925788",
+      "source": "Investing.com News",
+      "publishedAt": 1790797884000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9ydGhyb3AgR3J1bW1h",
+      "title": "Northrop Grumman stock analysis after F/A-XX contract loss",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/northrop-grumman-stock-analysis-after-faxx-contract-loss-93CH-4925787",
+      "source": "Investing.com News",
+      "publishedAt": 1790797877000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhY2tzdG9uZSBNb3J0",
+      "title": "Blackstone Mortgage Trust stock hits 52-week low at 11.47 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/blackstone-mortgage-trust-stock-hits-52week-low-at-1147-usd-93CH-4925785",
+      "source": "Investing.com News",
+      "publishedAt": 1790797868000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMganVkZ2UgYWxsb3dz",
+      "title": "US judge allows Paramount to close Warner Bros acquisition",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773",
+      "source": "Investing.com News",
+      "publishedAt": 1790797712000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmljaSBQcm9wZXJ0aWVz",
+      "title": "Vici Properties stock hits 52-week low at $22.95",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/vici-properties-stock-hits-52week-low-at-2295-93CH-4925784",
+      "source": "Investing.com News",
+      "publishedAt": 1790797632000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEdlbmVyYWwg",
+      "title": "Why is General Motors stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-general-motors-stock-sliding-today-93CH-4925783",
+      "source": "Investing.com News",
+      "publishedAt": 1790797626000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIHdhdGNoZG9nIGZp",
+      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790797577000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -30,12 +212,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXhlbGl4aXMgc3RvY2sg",
-      "title": "Exelixis stock hits all-time high at 59.73 USD",
+      "id": "Investing.com News-Q2VyZWJyYXMgc3RvY2sg",
+      "title": "Cerebras stock analysis: what does today’s news tell investors?",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/exelixis-stock-hits-alltime-high-at-5973-usd-93CH-4925480",
+      "url": "https://www.investing.com/news/stock-market-news/cerebras-stock-analysis-what-does-todays-news-tell-investors-93CH-4925782",
       "source": "Investing.com News",
-      "publishedAt": 1790780082000,
+      "publishedAt": 1790797551000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -45,12 +227,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VG9ycXVlIE1ldGFscyBh",
-      "title": "Torque Metals at Mining Forum Americas 2026: drilling for scale",
+      "id": "CNBC Markets-Q3J1ZGUgb2lsIGV4cG9y",
+      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/torque-metals-at-mining-forum-americas-2026-drilling-for-scale-93CH-4925479",
-      "source": "Investing.com News",
-      "publishedAt": 1790780054000,
+      "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790797487000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -60,12 +242,258 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UGVvcGxlcyBCYW5jb3Jw",
-      "title": "Peoples Bancorp falls, Capital Bancorp rises amid all-stock deal",
+      "id": "Investing.com News-U3lub3BzeXMgc3RvY2sg",
+      "title": "Synopsys stock analysis: what does today’s news tell investors?",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/peoples-bancorp-falls-capital-bancorp-rises-amid-allstock-deal-4925478",
+      "url": "https://www.investing.com/news/stock-market-news/synopsys-stock-analysis-what-does-todays-news-tell-investors-93CH-4925779",
       "source": "Investing.com News",
-      "publishedAt": 1790779955000,
+      "publishedAt": 1790797484000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29sb21iaWEgY2VudHJh",
+      "title": "Colombia central bank raises interest rate to 12.25%",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/colombia-central-bank-raises-interest-rate-to-1225-93CH-4925778",
+      "source": "Investing.com News",
+      "publishedAt": 1790797451000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRvcnMgY2xpbmNo",
+      "title": "Senators clinch construction permitting deal before election jet-set",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790796953000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuLiBIYXdsZXk6IE9w",
+      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790796851000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2VuYXRlIERlbW9jcmF0",
+      "title": "Senate Democrats sink &apos;toothless&apos; stock trading ban, data center bill in last act before election recess",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790795032000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQgaXMg",
+      "title": "Wall Street is closing out a strong quarter. Plus, Lilly&apos;s mixed obesity drug trial data",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/wall-streets-strong-quarter-plus-lillys-mixed-obesity-drug-trial-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790794622000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHdvIHRyYWRlcyB0aGF0",
+      "title": "Two trades that just happened in &apos;Magnificent Seven&apos; stocks point to big gains ahead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790794055000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RE9KIGFjY3VzZXMgTWlu",
+      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790792675000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TUdNIENFTyBsZWF2ZXMg",
+      "title": "MGM CEO leaves door open to People Inc. bid as casino dealmaking heats up",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/mgm-barry-diller-people-inc-casino-dealmaking.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790790649000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIGxh",
+      "title": "Trump&apos;s latest global tariffs face trade court challenge",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790789625000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-S2Fsc2hpIHRyYWRlcnMg",
+      "title": "Kalshi traders see high odds Anthropic&apos;s IPO is announced this year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-traders-see-high-odds-anthropics-ipo-is-announced-this-year-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790789269000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIG1hcmtldCBzZWFy",
+      "title": "The market search for balance sheet cash cow &apos;quality&apos; stocks is shifting with mega AI spend",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790789144000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5zaWRlIE1hbjogSG93",
+      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790788883000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29tbWVyY2UgU2VjcmV0",
+      "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790785842000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790785187000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgbGF1bmNo",
+      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790783775000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RlRDIGlzIGludmVzdGln",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790783678000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -75,123 +503,33 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Conagra beats Q1 2026 EPS forecast as shares fall",
+      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG1l",
+      "title": "Trump&apos;s meeting with tech leaders leaves AI safety more unsettled than ever",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-conagra-beats-q1-2026-eps-forecast-as-shares-fall-93CH-4925477",
-      "source": "Investing.com News",
-      "publishedAt": 1790779948000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIHJlaXRlcmF0",
-      "title": "Stifel reiterates Dyne Therapeutics stock rating on trial data",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-dyne-therapeutics-stock-rating-on-trial-data-93CH-4925475",
-      "source": "Investing.com News",
-      "publishedAt": 1790779843000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RpZmVsIHJlaXRlcmF0",
-      "title": "Stifel reiterates Fox Factory stock rating on margin boost",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-fox-factory-stock-rating-on-margin-boost-93CH-4925476",
-      "source": "Investing.com News",
-      "publishedAt": 1790779843000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2hhcmVob2xkZXIgZ3Jv",
-      "title": "Shareholder groups press Starbucks to restore labor committee, cite lack of union contract",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/shareholder-groups-press-starbucks-to-restore-labor-committee-cite-lack-of-union-contract-4925443",
-      "source": "Investing.com News",
-      "publishedAt": 1790779814000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JlZWNlIHN0b2NrcyBo",
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.02%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-102-4925474",
-      "source": "Investing.com News",
-      "publishedAt": 1790779804000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmFjdGJveC1XZWlnaHQt",
-      "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/factboxweightloss-drug-developers-line-up-to-tap-lucrative-market-as-competition-heats-up-4925473",
-      "source": "Investing.com News",
-      "publishedAt": 1790779773000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2VybWFuIGluZmxhdGlv",
-      "title": "German inflation hits highest level in almost 3 years",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/german-unemployment-rises-much-more-than-expected-in-september-4924280",
-      "source": "Investing.com News",
-      "publishedAt": 1790779749000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RlbGxhbnRpcyBDRU8g",
-      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker&apos;s shares hit new low",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+      "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
       "source": "CNBC Markets",
-      "publishedAt": 1790779711000,
+      "publishedAt": 1790782580000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7U3VwZXIgaW50",
+      "title": "&apos;Super intelligence is a national security issue,&apos; Jay Clayton says; dodges AI &apos;czar&apos; question",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1790781377000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -201,21 +539,6 @@
       "url": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
       "source": "CNBC Markets",
       "publishedAt": 1790779324000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFyZW50cyB3aG8gd2Fu",
-      "title": "Parents who want to help their kids in a tough job market should avoid this 1 move, says career expert",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/parents-avoid-meddling-adult-kids-job-search.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790779245000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -255,201 +578,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Qm9laW5nIHNlY3VyZXMg",
-      "title": "Boeing secures U.S. Navy deal to develop next-generation fighter jet",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790778584000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIGxh",
-      "title": "Trump&apos;s latest global tariffs face trade court challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790777086000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-JmFwb3M7U3VwZXIgaW50",
-      "title": "&apos;Super intelligence is a national security issue,&apos; Jay Clayton says; dodges AI &apos;czar&apos; question",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790776750000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Um9iaW5ob29kIHVudmVp",
-      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790776574000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIG1l",
-      "title": "Trump&apos;s meeting with tech leaders leaves AI safety more unsettled than ever",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790776446000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBzY29v",
-      "title": "We&apos;re scooping up shares of 2 stocks that fell victim to a September swoon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/were-scooping-up-shares-of-2-stocks-that-fell-victim-to-a-september-swoon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790775513000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWF0dGVsIG5hbWVzIFJv",
-      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790774377000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-S2VuIEdyaWZmaW4gcGxl",
-      "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in &apos;historic&apos; gift",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790774133000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9uIGVhcm5pbmdz",
-      "title": "Micron earnings hit Wall Street after the bell. Here&apos;s how options traders are positioned into the report",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790773648000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9saWRheSByZXRhaWwg",
-      "title": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790772526000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9yZSBBbWVyaWNhbnMg",
-      "title": "More Americans are tapping investments to pay for spending, analysis finds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/more-americans-tap-investment-accounts-to-fund-spending-analysis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790770502000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGVvcGxlIHN3aXRjaGlu",
-      "title": "People switching to Novo&apos;s Wegovy pill from obesity injections kept losing weight in real-world study",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790770028000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCBDRU8gc2F5cyBp",
-      "title": "Ford CEO says it&apos;s &apos;too late&apos; for Europe to fend off Chinese automakers, but not for U.S.",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790769932000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-T3BlbkFJIGZvbGxvd3Mg",
       "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
       "summary": "",
@@ -480,136 +608,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RGFuIEl2ZXMgcHJlcGFy",
-      "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790769411000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFuIENpdHkgZ3VpbHR5",
-      "title": "Man City guilty of ‘sham’ sponsorship deals after decade of English soccer dominance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/manchester-city-guilty-premier-league-financial-rules.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790769322000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790768347000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIE1hbjogSG93",
-      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790765749000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkmYXBvcztzIGNvbWlu",
-      "title": "AI&apos;s coming roadblock in regulation: Antitrust hawks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/ai-regulation-congress-antitrust.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790763996000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgZGVuaWVzIG9m",
       "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
       "summary": "",
       "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
       "source": "CNBC Markets",
       "publishedAt": 1790761554000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhIHRhcmdldHMg",
-      "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790757189000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVkZ2UgZnVuZHMgaG9s",
-      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790727549000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2xpZW50cyBzYWlkIHRv",
-      "title": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/09/29/morgan-stanleys-deal-leak-mandates-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1790722801000,
       "lang": "en-US",
       "topics": [
         "macro"
