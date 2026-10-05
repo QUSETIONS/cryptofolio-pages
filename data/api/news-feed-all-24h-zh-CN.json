@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1791215435696,
-  "crawlUpdatedAt": 1791215435696,
-  "crawlCount": 36,
+  "updatedAt": 1791239399191,
+  "crawlUpdatedAt": 1791239399191,
+  "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,315 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-QUkgcmVzZWFyY2hlciB3",
+      "title": "AI researcher warns &apos;we are racing to build and grow our own adversary&apos; in NYC hearing",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791239252000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rm9ydGl0dWRlIE1pbmlu",
+      "title": "Fortitude Mining signs letter of intent for Bitmain equipment",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fortitude-mining-signs-letter-of-intent-for-bitmain-equipment-93CH-4933017",
+      "source": "Investing.com News",
+      "publishedAt": 1791238596000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHViTWF0aWMgQ0VPIFJh",
+      "title": "PubMatic CEO Rajeev K. Goel sells $953k in company shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-k-goel-sells-953k-in-company-shares-93CH-4933016",
+      "source": "Investing.com News",
+      "publishedAt": 1791238593000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHViTWF0aWMgZ2VuZXJh",
+      "title": "PubMatic general counsel Andrew Woods sells $108,984 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-general-counsel-andrew-woods-sells-108984-in-shares-93CH-4933015",
+      "source": "Investing.com News",
+      "publishedAt": 1791238575000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHVibWF0aWMgQ0ZPIFN0",
+      "title": "Pubmatic CFO Steven Pantelick sells $445k in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-cfo-steven-pantelick-sells-445k-in-shares-93CH-4933014",
+      "source": "Investing.com News",
+      "publishedAt": 1791238562000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHViTWF0aWMgcHJlc2lk",
+      "title": "PubMatic president of engineering Mukul Kumar sells $149k in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-president-of-engineering-mukul-kumar-sells-149k-in-stock-93CH-4933013",
+      "source": "Investing.com News",
+      "publishedAt": 1791238559000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW1lcmljYW4gV2VsbCBD",
+      "title": "American Well CFO Mark Hirschhorn sells $55,666 AMWL stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/american-well-cfo-mark-hirschhorn-sells-55666-amwl-stock-93CH-4933003",
+      "source": "Investing.com News",
+      "publishedAt": 1791237673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW50ZWxsaW5ldGljcyBk",
+      "title": "Intellinetics director Paul Seid buys $834 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/intellinetics-director-paul-seid-buys-834-in-company-stock-93CH-4933002",
+      "source": "Investing.com News",
+      "publishedAt": 1791237662000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBob3ZlcnMg",
+      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "source": "Investing.com News",
+      "publishedAt": 1791237315000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWF0dGVsIGludmVzdG9y",
+      "title": "Mattel investor Ariel pushes for sale as turnaround stalls",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/mattel-faces-growing-shareholder-pressure-to-consider-a-sale-wsj-reports-4932853",
+      "source": "Investing.com News",
+      "publishedAt": 1791237256000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGF0YSBjZW50cmUgb3Bl",
+      "title": "Data centre operator DayOne reveals revenue surge in US IPO filing",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/dayone-data-centers-files-for-us-ipo-4932909",
+      "source": "Investing.com News",
+      "publishedAt": 1791236897000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG91c2UgRGVtb2NyYXQg",
+      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791235465000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-THVjaWQmYXBvcztzIFEz",
+      "title": "Lucid&apos;s Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791234257000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7V2UgaGFkIGEg",
+      "title": "&apos;We had a threat&apos;: Trump explains U.S. moving long-range bombers from UK",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791233613000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnJhemlsaWFuIHN0b2Nr",
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791232883000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHN0b2NrIGNs",
+      "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791231013000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VE5UIFNwb3J0cyBoZWFk",
+      "title": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791229162000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQgcmV3",
+      "title": "Wall Street rewards Microsoft&apos;s AI pivot. A longtime skeptic says it&apos;s just the beginning",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791225792000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzIHJlY292",
+      "title": "Starbucks recovery plan is working. Here&apos;s how Mike Khouw says to trade the coffee giant",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791225635000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmFpcnNoYWtlIGNyeXB0",
+      "title": "Fairshake crypto PAC network backs 32 House candidates in midterms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/05/fairshake-crypto-super-pac-house-races.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791223936000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VGhlc2UgYXJlIHRoZSBj",
       "title": "These are the cheapest and most expensive U.S. flights this November",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791215109000,
+      "publishedAt": 1791223191000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -33,7 +336,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791214612000,
+      "publishedAt": 1791222013000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,162 +346,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VUsgZ3JvY2VyIFNhaW5z",
-      "title": "UK grocer Sainsbury’s held merger talks with rival Morrisons, reports say",
+      "id": "CNBC Markets-Q2hpbmEgc2h1dHMgaHVu",
+      "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/uk-grocer-sainsburys-held-merger-talks-with-rival-morrisons-reports-say-4932399",
-      "source": "Investing.com News",
-      "publishedAt": 1791214605000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgU3VwcmVtZSBDb3Vy",
-      "title": "US Supreme Court hears bid by oil companies to avoid climate lawsuit",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-weighs-bid-by-oil-companies-to-avoid-climate-lawsuit-4931499",
-      "source": "Investing.com News",
-      "publishedAt": 1791214592000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UG9sYW5kIHN0b2NrcyBo",
-      "title": "Poland stocks higher at close of trade; WIG30 up 1.50%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-150-4932543",
-      "source": "Investing.com News",
-      "publishedAt": 1791214503000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0YSwgVGlrVG9rIGFu",
-      "title": "Meta, TikTok and X challenge UK regulator over data demands",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/meta-tiktok-and-x-challenge-uk-regulator-over-data-demands-4932542",
-      "source": "Investing.com News",
-      "publishedAt": 1791214385000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0YSwgVGlrVG9rLCBY",
-      "title": "Meta, TikTok, X challenge UK watchdog over online safety data demands",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/meta-tiktok-x-challenge-uk-watchdog-over-online-safety-data-demands-4932529",
-      "source": "Investing.com News",
-      "publishedAt": 1791214257000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VEQgQ293ZW4gcmVpdGVy",
-      "title": "TD Cowen reiterates Buy on BridgeBio Pharma stock, cites cardiac data",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-bridgebio-pharma-stock-cites-cardiac-data-93CH-4932541",
-      "source": "Investing.com News",
-      "publishedAt": 1791214254000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgYW5kIEdlcm1hbiBz",
-      "title": "US and German scientists win Nobel medicine prize for work on light and brain",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/american-deisseroth-and-germans-hegemann-and-nagel-win-2026-nobel-medicine-prize-4931412",
-      "source": "Investing.com News",
-      "publishedAt": 1791214242000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHVya2V5IHN0b2NrcyBo",
-      "title": "Turkey stocks higher at close of trade; BIST 100 up 1.42%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-142-4932540",
-      "source": "Investing.com News",
-      "publishedAt": 1791214233000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVubWFyayBzdG9ja3Mg",
-      "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.54%",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-054-4932533",
-      "source": "Investing.com News",
-      "publishedAt": 1791214204000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGF2aWQgRWxsaXNvbiBq",
-      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+      "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791214153000,
+      "publishedAt": 1791218460000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVyb25leHQgd2hlYXQg",
-      "title": "Euronext wheat hits three-week high on weak euro and Saudi deal",
+      "id": "CNBC Markets-VHJ1bXAgdGVsbHMgU291",
+      "title": "Trump tells South Korea to sign on to Alaska LNG deal or &apos;I&apos;ll just charge them more&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/euronext-wheat-hits-threeweek-high-on-weak-euro-and-saudi-deal-93CH-4932532",
-      "source": "Investing.com News",
-      "publishedAt": 1791214150000,
+      "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791216842000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -213,7 +381,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791213399000,
+      "publishedAt": 1791215856000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -228,7 +396,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791213377000,
+      "publishedAt": 1791215475000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -238,20 +406,32 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VHJlYXN1cnkgeWllbGRz",
-      "title": "Treasury yields rise to start the week; traders look ahead to Fed minutes",
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyAk",
+      "title": "Nvidia&apos;s $20 billion Groq deal faces lawsuit alleging startup&apos;s stockholders were shortchanged",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
+      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791212035000,
+      "publishedAt": 1791215209000,
       "lang": "zh-CN",
       "topics": [
-        "rates"
+        "macro"
       ],
-      "symbols": [
-        "UST10Y",
-        "FED"
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RGF2aWQgRWxsaXNvbiBq",
+      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791214153000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
       ],
+      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -292,36 +472,6 @@
       "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
       "source": "CNBC Markets",
       "publishedAt": 1791207435000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2hpbmEgc2h1dHMgaHVu",
-      "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791206626000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791205180000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -376,21 +526,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U2F1ZGkgQXJhbWNvIGNo",
-      "title": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791198027000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q3V0IHNwZW5kaW5nIHRv",
       "title": "Cut spending to curb runaway borrowing costs, Goldman&apos;s Gutman tells governments",
       "summary": "",
@@ -420,21 +555,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UnVzc2lhIHJhbXBzIHVw",
-      "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791187941000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -481,81 +601,6 @@
       "symbols": [
         "UST10Y"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-4oCYVW53ZWxjb21lIGFu",
-      "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791166512000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhleSBzdXJ2aXZlZCBX",
-      "title": "They survived World War II and lost decades, but not 2026. Japan&apos;s century-old businesses are disappearing at a record pace",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791162490000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdGVsbHMgU291",
-      "title": "Trump tells South Korea to sign on to Alaska LNG deal or &apos;I&apos;ll just charge them more&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791161267000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBK",
-      "title": "Supreme Court Justice Alito said he&apos;s &apos;thought about&apos; retirement as Senate control hangs in balance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791151714000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxsIFUuUy4gYm9tYmVy",
-      "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791150375000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     }
