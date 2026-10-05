@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1791150660133,
-  "crawlUpdatedAt": 1791150660133,
+  "updatedAt": 1791160917791,
+  "crawlUpdatedAt": 1791160917791,
   "crawlCount": 25,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -12,6 +12,131 @@
     "CrawlerRSS"
   ],
   "items": [
+    {
+      "id": "Investing.com News-VS5TLiBzdG9jayBmdXR1",
+      "title": "U.S. stock futures tick higher as soft jobs data eases Fed hike bets",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-as-soft-jobs-data-eases-fed-hike-bets-4930969",
+      "source": "Investing.com News",
+      "publishedAt": 1791159564000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVmbGF0aW9uaXN0IGV4",
+      "title": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/reflationist-exboj-policymaker-calls-end-to-low-rates-big-spending-4930968",
+      "source": "Investing.com News",
+      "publishedAt": 1791159509000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWt6b05vYmVsIHRvIHNl",
+      "title": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/akzonobel-could-sell-unit-to-nippon-paint-for-over-1-billion-ft-reports-4930948",
+      "source": "Investing.com News",
+      "publishedAt": 1791158429000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BFQysgYWdyZWVzIHRv",
+      "title": "OPEC+ agrees to keep November oil output targets steady",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
+      "source": "Investing.com News",
+      "publishedAt": 1791158066000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBwZWFscyBjb3VydCBw",
+      "title": "Appeals court pauses reinstatement of fired Seattle federal prosecutor",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/appeals-court-pauses-reinstatement-of-fired-seattle-federal-prosecutor-4930965",
+      "source": "Investing.com News",
+      "publishedAt": 1791155527000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3BlbkFJ4oCZcyBBbHRt",
+      "title": "OpenAI’s Altman says AI benefits warrant accepting some risks",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/openais-altman-says-ai-benefits-warrant-accepting-some-risks-4930964",
+      "source": "Investing.com News",
+      "publishedAt": 1791153387000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T2lsIGNsaW1icyBhZnRl",
+      "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-4930963",
+      "source": "Investing.com News",
+      "publishedAt": 1791152312000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBK",
+      "title": "Supreme Court Justice Alito said he&apos;s &apos;thought about&apos; retirement as Senate control hangs in balance",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791151714000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
     {
       "id": "CNBC Markets-QWxsIFUuUy4gYm9tYmVy",
       "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
@@ -28,72 +153,42 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-VUsgc2V0IHRvIGltcG9z",
+      "title": "UK set to impose Chinese EV levies amid EU trade pressure - report",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+      "source": "Investing.com News",
+      "publishedAt": 1791150177000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWRvYmUgc3RvY2s6IEhl",
+      "title": "Adobe stock: Here are 5 strategic questions into new leadership",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/adobe-stock-here-are-5-strategic-questions-into-new-leadership-4930961",
+      "source": "Investing.com News",
+      "publishedAt": 1791150072000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930959",
       "source": "Investing.com News",
       "publishedAt": 1791148803000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-MTMgSGlnaC1Db252aWN0",
-      "title": "13 High-Conviction & Catalyst-Driven Long Ideas for 4Q 2026",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/13-highconviction--catalystdriven-long-ideas-for-4q--2026-4930958",
-      "source": "Investing.com News",
-      "publishedAt": 1791148645000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmF4Y3l0ZSB0byBwcmVz",
-      "title": "Vaxcyte to present phase 3 trial data for vaccine candidate",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/vaxcyte-to-present-phase-3-trial-data-for-vaccine-candidate-93CH-4930957",
-      "source": "Investing.com News",
-      "publishedAt": 1791147877000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybWVyIEFudGhyb3Bp",
-      "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/former-anthropic-researcher-coxon-to-testify-at-new-york-city-ai-hearing-bloomberg-news-reports-4930955",
-      "source": "Investing.com News",
-      "publishedAt": 1791146909000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Rm9ybWVyIEFudGhyb3Bp",
-      "title": "Former Anthropic researcher to testify at NYC Council AI hearing - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/former-anthropic-researcher-to-testify-at-nyc-council-ai-hearing--report-4930954",
-      "source": "Investing.com News",
-      "publishedAt": 1791146304000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,21 +213,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TGVmdGlzdCBhbmQgbmF0",
-      "title": "Leftist and nationalists lead in election for Bosnia’s tripartite presidency",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
-      "source": "Investing.com News",
-      "publishedAt": 1791145830000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgcmVpdGVyYXRl",
       "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
       "summary": "",
@@ -145,81 +225,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2NobmVpZGVyIEVsZWN0",
-      "title": "Schneider Electric close to $20 bln deal of U.S. software maker PTC - report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/schneider-electric-close-to-20-bln-deal-of-us-software-maker-ptc--report-4930953",
-      "source": "Investing.com News",
-      "publishedAt": 1791145694000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RGVsZmluIHRvIHRlbmRl",
-      "title": "Delfin to tender full 17.6% Monte dei Paschi stake into Intesa’s takeover offer",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/delfin-to-tender-full-176-monte-dei-paschi-stake-into-intesas-takeover-offer-4930952",
-      "source": "Investing.com News",
-      "publishedAt": 1791145047000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxhc2thIExORyBzaGlw",
-      "title": "Alaska LNG shipping savings justifies billions in investment, developer says",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alaska-lng-shipping-savings-justifies-billions-in-investment-developer-says-4930951",
-      "source": "Investing.com News",
-      "publishedAt": 1791143667000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RnJhbmNl4oCZcyBTY2hu",
-      "title": "France’s Schneider Electric nears $20 billion deal to buy US software group PTC, FT reports",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/frances-schneider-electric-nears-20-billion-deal-to-buy-us-software-group-ptc-ft-reports-4930950",
-      "source": "Investing.com News",
-      "publishedAt": 1791143351000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3VwcmVtZSBDb3VydCBK",
-      "title": "Supreme Court Justice Alito said he&apos;s &apos;thought about&apos; retirement as Senate control hangs in balance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791136391000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
