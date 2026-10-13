@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1791856634849,
-  "crawlUpdatedAt": 1791856634849,
-  "crawlCount": 39,
+  "updatedAt": 1791883044029,
+  "crawlUpdatedAt": 1791883044029,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,149 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RG9sbGFyIGhvbGRzIG5l",
-      "title": "Dollar holds near 18-month high as geopolitical risks rise",
+      "id": "CNBC Markets-SW4gY2hhcnRzOiBIb3cg",
+      "title": "In charts: How one of the world&apos;s biggest economies got trapped by debt",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
+      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791882237000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJlbmNoIHN1cGVybWFy",
+      "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791882226000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9uLCBTb2Z0QmFu",
+      "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791881770000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGkgd2FybmluZyBz",
+      "title": "Saudi warning system stayed silent before deadly airport attacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/saudi-warning-system-stayed-silent-before-deadly-airport-attacks-4945258",
       "source": "Investing.com News",
-      "publishedAt": 1791856103000,
+      "publishedAt": 1791880581000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFNjaGFlZmZs",
+      "title": "Why is Schaeffler stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-schaeffler-stock-sliding-today-93CH-4945797",
+      "source": "Investing.com News",
+      "publishedAt": 1791880494000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RW1weXJlYW4gdXBkYXRl",
+      "title": "Empyrean updates progress on Indonesia Mako gas project",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/empyrean-updates-progress-on-indonesia-mako-gas-project-93CH-4945795",
+      "source": "Investing.com News",
+      "publishedAt": 1791880480000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBUcmVhc3VyeSB5",
+      "title": "U.S. Treasury yields fall as energy prices pull back",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791880297000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WGVyaXMgQmlvcGhhcm1h",
+      "title": "Xeris Biopharma CLO Beth Hecht sells $156,792 in XERS shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/xeris-biopharma-clo-beth-hecht-sells-156792-in-xers-shares-93CH-4945793",
+      "source": "Investing.com News",
+      "publishedAt": 1791880267000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Um90aHNjaGlsZCBSZWRi",
+      "title": "Rothschild Redburn initiates MiniMed stock with buy on product gains",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-initiates-minimed-stock-with-buy-on-product-gains-93CH-4945792",
+      "source": "Investing.com News",
+      "publishedAt": 1791880254000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SFNCQyBkb3duZ3JhZGVz",
+      "title": "HSBC downgrades Adobe stock rating on open-source competition",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/hsbc-downgrades-adobe-stock-rating-on-opensource-competition-93CH-4945791",
+      "source": "Investing.com News",
+      "publishedAt": 1791880253000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +165,209 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmV3ZXR0IENhbWVyb24g",
-      "title": "Jewett Cameron Trading Co Ltd 10% owner buys $23,066 in JCTC",
+      "id": "Investing.com News-SW5kb25lc2lhIHN0b2Nr",
+      "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.54%",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-ltd-10-owner-buys-23066-in-jctc-93CH-4945307",
+      "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-054-4945785",
       "source": "Investing.com News",
-      "publishedAt": 1791855089000,
+      "publishedAt": 1791880204000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGx1czUwMCBzdG9jayBy",
+      "title": "Plus500 stock rises after Hedge Capital Markets acquisition",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/plus500-stock-rises-after-hedge-capital-markets-acquisition-93CH-4945784",
+      "source": "Investing.com News",
+      "publishedAt": 1791880156000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljIHdhcm5z",
+      "title": "Anthropic warns AI models could soon copy themselves across home devices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791880040000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2xvYmFsIGNoaXAgc2Vs",
+      "title": "Global chip selloff deepens as AI worries, China competition weigh",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/global-chip-selloff-deepens-as-ai-worries-china-competition-weigh-4945783",
+      "source": "Investing.com News",
+      "publishedAt": 1791880017000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gZG93bmdy",
+      "title": "JPMorgan downgrades Allient stock rating on valuation concerns",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-allient-stock-rating-on-valuation-concerns-93CH-4945768",
+      "source": "Investing.com News",
+      "publishedAt": 1791879892000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgJmFwb3M7Q29ja3Jv",
+      "title": "As &apos;Cockroach&apos; protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791875866000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VmlzYSBnZXRzIEJlaWpp",
+      "title": "Visa gets Beijing&apos;s green light for bank card business after 40 years of working with China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791872455000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V29ybGQgQmFuayBqb2Jz",
+      "title": "World Bank jobs council urges &apos;crisis-era&apos; employment support measures as IMF warns of AI ‘tsunami’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791869057000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SU1GIHdhcm5zIGJvbmQg",
+      "title": "IMF warns bond yields could see a &apos;disorderly&apos; spike as debt, inflation risks worsen",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791867247000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SU1GIHNlZXMgbWlsZGVy",
+      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791864649000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
+      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791863363000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGlnaGVyIHJhdGVzIGNv",
+      "title": "Higher rates could be needed to avoid &apos;inflationary mindset&apos; taking hold, says Fed&apos;s Hammack",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791860291000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IFJlZCBCdWxsJmFw",
+      "title": "How Red Bull&apos;s F1 team is using AI to make split-second decisions for Max Verstappen",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791859028000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2l4IEZsYWdzIHNoYXJl",
+      "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791858554000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -55,128 +389,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgd2FybmluZyBz",
-      "title": "Saudi warning system stayed silent before deadly airport attacks",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/saudi-warning-system-stayed-silent-before-deadly-airport-attacks-4945258",
-      "source": "Investing.com News",
-      "publishedAt": 1791854676000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgY2FwaXRhbOKA",
-      "title": "Saudi capital’s airport to remain shut this week as airlines cancel services",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/skies-over-saudi-capital-riyadh-largely-empty-after-deadly-houthi-strikes-on-airport-4943442",
-      "source": "Investing.com News",
-      "publishedAt": 1791854665000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZCBzbGlwcyBuZWFy",
-      "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
-      "source": "Investing.com News",
-      "publishedAt": 1791854439000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW50aHJvcGljIHNheXMg",
-      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-4945295",
-      "source": "Investing.com News",
-      "publishedAt": 1791853946000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0sgSHluaXggb3ZlcnNv",
-      "title": "SK Hynix oversold at KRW 1,500,000 below Fib support: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-      "source": "Investing.com News",
-      "publishedAt": 1791853613000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SmFwYW7igJlzIE9tcm9u",
-      "title": "Japan’s Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/japans-omron-to-buy-us-industrial-pc-firmonlogic-for-675-million-in-physical-ai-push-4945294",
-      "source": "Investing.com News",
-      "publishedAt": 1791853582000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tmlra2VpIDIyNSBzbGlj",
-      "title": "Nikkei 225 slices below Ichimoku cloud near oversold RSI: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-      "source": "Investing.com News",
-      "publishedAt": 1791853563000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtVVMgeWll",
-      "title": "Analysis-US yield surge triggers mortgage hedging, adds to bond market pressure",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/analysisus-yield-surge-triggers-mortgage-hedging-adds-to-bond-market-pressure-4944828",
-      "source": "Investing.com News",
-      "publishedAt": 1791853227000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -206,23 +418,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
-      "title": "CNBC&apos;s The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791846001000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -364,38 +559,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2h5IG9sZGVyIEFtZXJp",
-      "title": "Why older Americans&apos; wealth may be helping keep consumer spending strong",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791825815000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGlnaGVyIHJhdGVzIGNv",
-      "title": "Higher rates could be needed to avoid &apos;inflationary mindset&apos; taking hold, says Fed&apos;s Hammack",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791825321000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RkFBIHdhcm5zIFUuUy4g",
       "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
       "summary": "",
@@ -411,72 +574,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VW5pdGVkSGVhbHRoIHNo",
-      "title": "UnitedHealth shares are doing something unusual ahead of earnings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791823333000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RGVsdGEgZGVsYXlzIGRl",
       "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
       "source": "CNBC Markets",
       "publishedAt": 1791820108000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5mbGF0aW9uIGxpa2Vs",
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791819446000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGFyZW50aW5nIGluIHRo",
-      "title": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
-      "summary": "",
-      "url": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791817388000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWNEb25hbGQmYXBvcztz",
-      "title": "McDonald&apos;s is leaning into chicken and drinks to grow. New data shows it could be a tough task",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791817002000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -501,81 +604,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWljcm9zb2Z0IHRvIHJl",
-      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791813856000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmFua3MgYXJlIHNldCB0",
-      "title": "Banks are set to report this week. Here&apos;s what the options market expects",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791811640000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwsIEJyb2FkY29t",
-      "title": "Intel, Broadcom CEOs warn capital crunch could become AI&apos;s biggest bottleneck",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791810271000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2F1ZGkgQXJhYmlhIHNh",
-      "title": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791810109000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SGVhbHRoIGluc3VyYW5j",
-      "title": "Health insurance open enrollment: Use this &apos;algorithm&apos; to pick a plan, financial advisor says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791807301000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW5kaWHigJlzIHJldGFp",
       "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
       "summary": "",
@@ -588,21 +616,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V29ybGQgQmFuayBqb2Jz",
-      "title": "World Bank jobs council urges &apos;crisis-era&apos; employment support measures as IMF warns of AI ‘tsunami’",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791795534000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
