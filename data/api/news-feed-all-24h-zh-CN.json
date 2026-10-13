@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1791834283374,
-  "crawlUpdatedAt": 1791834283374,
+  "updatedAt": 1791856634849,
+  "crawlUpdatedAt": 1791856634849,
   "crawlCount": 39,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-TW9yZ2FuIFN0YW5sZXkg",
-      "title": "Morgan Stanley Direct Lending Fund stock hits 52-week low at $13.23",
+      "id": "Investing.com News-RG9sbGFyIGhvbGRzIG5l",
+      "title": "Dollar holds near 18-month high as geopolitical risks rise",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/morgan-stanley-direct-lending-fund-stock-hits-52week-low-at-1323-93CH-4945102",
+      "url": "https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
       "source": "Investing.com News",
-      "publishedAt": 1791834036000,
+      "publishedAt": 1791856103000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmV3ZXR0IENhbWVyb24g",
+      "title": "Jewett Cameron Trading Co Ltd 10% owner buys $23,066 in JCTC",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-ltd-10-owner-buys-23066-in-jctc-93CH-4945307",
+      "source": "Investing.com News",
+      "publishedAt": 1791855089000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,12 +43,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U2lnbmV0IEpld2VsZXJz",
-      "title": "Signet Jewelers options analysis: a bull call spread targets $115 by November",
+      "id": "CNBC Markets-JmFwb3M7Qm9yaW5nIGlz",
+      "title": "&apos;Boring is not bad&apos;: CEO of Southeast Asia&apos;s largest bank pitches Singapore as a haven amid global turmoil",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/signet-jewelers-options-analysis-a-bull-call-spread-targets-115-by-november-93CH-4945100",
-      "source": "Investing.com News",
-      "publishedAt": 1791833995000,
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791854801000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,12 +58,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIENlcmVicmFz",
-      "title": "Why is Cerebras Systems stock sliding to a new 52-week low today?",
+      "id": "Investing.com News-U2F1ZGkgd2FybmluZyBz",
+      "title": "Saudi warning system stayed silent before deadly airport attacks",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-to-a-new-52week-low-today-93CH-4945099",
+      "url": "https://www.investing.com/news/commodities-news/saudi-warning-system-stayed-silent-before-deadly-airport-attacks-4945258",
       "source": "Investing.com News",
-      "publishedAt": 1791833861000,
+      "publishedAt": 1791854676000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -58,12 +73,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SW50ZWwgdW52ZWlscyBH",
-      "title": "Intel unveils GPU D-series for AI inference at OCP summit",
+      "id": "Investing.com News-U2F1ZGkgY2FwaXRhbOKA",
+      "title": "Saudi capital’s airport to remain shut this week as airlines cancel services",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/intel-unveils-gpu-dseries-for-ai-inference-at-ocp-summit-93CH-4945098",
+      "url": "https://www.investing.com/news/stock-market-news/skies-over-saudi-capital-riyadh-largely-empty-after-deadly-houthi-strikes-on-airport-4943442",
       "source": "Investing.com News",
-      "publishedAt": 1791833797000,
+      "publishedAt": 1791854665000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -73,27 +88,104 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFyaW5ncyBDb3Jwb3Jh",
-      "title": "Barings Corporate Investors declares $0.40 quarterly dividend",
+      "id": "Investing.com News-R29sZCBzbGlwcyBuZWFy",
+      "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/barings-corporate-investors-declares-040-quarterly-dividend-93CH-4945097",
+      "url": "https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
       "source": "Investing.com News",
-      "publishedAt": 1791833790000,
+      "publishedAt": 1791854439000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW50aHJvcGljIHNheXMg",
+      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-4945295",
+      "source": "Investing.com News",
+      "publishedAt": 1791853946000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U0sgSHluaXggb3ZlcnNv",
+      "title": "SK Hynix oversold at KRW 1,500,000 below Fib support: Live",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+      "source": "Investing.com News",
+      "publishedAt": 1791853613000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmFwYW7igJlzIE9tcm9u",
+      "title": "Japan’s Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/japans-omron-to-buy-us-industrial-pc-firmonlogic-for-675-million-in-physical-ai-push-4945294",
+      "source": "Investing.com News",
+      "publishedAt": 1791853582000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tmlra2VpIDIyNSBzbGlj",
+      "title": "Nikkei 225 slices below Ichimoku cloud near oversold RSI: Live",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
+      "source": "Investing.com News",
+      "publishedAt": 1791853563000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QW5hbHlzaXMtVVMgeWll",
+      "title": "Analysis-US yield surge triggers mortgage hedging, adds to bond market pressure",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/analysisus-yield-surge-triggers-mortgage-hedging-adds-to-bond-market-pressure-4944828",
+      "source": "Investing.com News",
+      "publishedAt": 1791853227000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFyaW5ncyBQYXJ0aWNp",
-      "title": "Barings Participation Investors declares $0.37 quarterly dividend",
+      "id": "CNBC Markets-U2luZ2Fwb3JlIFBNIFdv",
+      "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/barings-participation-investors-declares-037-quarterly-dividend-93CH-4945096",
-      "source": "Investing.com News",
-      "publishedAt": 1791833789000,
+      "url": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791851976000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +195,89 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TW9kZWwgYmxpdHogYXQg",
-      "title": "Model blitz at Paris motor show as Europe-China rivalry heats up",
+      "id": "CNBC Markets-R00gQ0VPOiBXZSZhcG9z",
+      "title": "GM CEO: We&apos;re making leaps and bounds toward &apos;eyes-off, hands-off&apos; driving",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/european-chinese-automakers-launch-product-blitz-at-paris-car-show-in-fight-for-market-share-4943173",
-      "source": "Investing.com News",
-      "publishedAt": 1791833779000,
+      "url": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791851063000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791846001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgJmFwb3M7bm90",
+      "title": "Trump &apos;not happy&apos; with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791844019000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxvbiBNdXNrIGdpdmVz",
+      "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791839878000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSZhcG9zO3MgYSBj",
+      "title": "Here&apos;s a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791838929000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWFybmluZ3MgYmVhdHMg",
+      "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1791837351000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -124,66 +293,6 @@
       "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
       "source": "CNBC Markets",
       "publishedAt": 1791833748000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VmlzYSBvcHRpb25zIGFj",
-      "title": "Visa options activity shows call-heavy flow with 2.6:1 ratio",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/visa-options-activity-shows-callheavy-flow-with-261-ratio-93CH-4945094",
-      "source": "Investing.com News",
-      "publishedAt": 1791833516000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHJhbGxpZXMsIHNl",
-      "title": "Oil rallies, sending dollar higher on expectations of higher US rates",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/shares-cautious-in-asia-as-earnings-loom-oil-slips-4942949",
-      "source": "Investing.com News",
-      "publishedAt": 1791833420000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHByaWNlcyByaXNl",
-      "title": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump’s diesel deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-climbs-as-mideast-conflict-tanker-attacks-persist-4942900",
-      "source": "Investing.com News",
-      "publishedAt": 1791833097000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0LCBNaWNy",
-      "title": "Microsoft, Micron and Meta make news. Here&apos;s what the updates mean for our stakes",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791830878000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -236,21 +345,6 @@
       "symbols": [
         "FED"
       ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIGJ1bGwgbWFya2V0",
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791829119000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -392,42 +486,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VmFuY2Ugc2F5cyBNaWNy",
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791815224000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3RhcmJ1Y2tzIHNheXMg",
       "title": "Starbucks says it is not buying Chipotle after takeover speculation",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
       "source": "CNBC Markets",
       "publishedAt": 1791814968000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Tm9iZWwgcHJpemUgaW4g",
-      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791814142000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -512,93 +576,33 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QmVja2hhbSwgWWFvIE1p",
-      "title": "Beckham, Yao Ming attend NBA China Games in a boost to Macao&apos;s live events",
+      "id": "CNBC Markets-SW5kaWHigJlzIHJldGFp",
+      "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
+      "url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791806676000,
+      "publishedAt": 1791802164000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SnVkZ2Ugb3JkZXJzIFRy",
-      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "id": "CNBC Markets-V29ybGQgQmFuayBqb2Jz",
+      "title": "World Bank jobs council urges &apos;crisis-era&apos; employment support measures as IMF warns of AI ‘tsunami’",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1791803064000,
+      "publishedAt": 1791795534000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgRk9NTyBkcml2aW5n",
-      "title": "AI FOMO driving some family offices into tech investments, survey suggests",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791800728000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QUkgbWF5IGNoYW5nZSB0",
-      "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791784938000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgTWVkaWEgYWR2",
-      "title": "Trump Media advisor Katie Zacharia named White House press secretary",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791757000000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSBp",
-      "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791754245000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
