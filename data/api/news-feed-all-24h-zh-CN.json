@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1792040622537,
-  "crawlUpdatedAt": 1792040622537,
+  "updatedAt": 1792059271849,
+  "crawlUpdatedAt": 1792059271849,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,181 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-U291dGggS29yZWHigJlz",
-      "title": "South Korea’s KOSPI triggers circuit breaker in tech-led selloff",
+      "id": "CNBC Markets-VWtyYWluZSB0byByZXN1",
+      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an &apos;energy ceasefire&apos;",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/south-koreas-kospi-triggers-circuit-breaker-in-techled-selloff-4950522",
+      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792059205000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJhbmNlIGlzIOKAmHB1",
+      "title": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792058753000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0RnVGdSBsYXVuY2hl",
+      "title": "BitFuFu launches tokenized Bitcoin mining product with Finloop",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/bitfufu-launches-tokenized-bitcoin-mining-product-with-finloop-93CH-4951013",
       "source": "Investing.com News",
-      "publishedAt": 1792040439000,
+      "publishedAt": 1792058676000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2FudGFuZGVyIHJlcHVy",
+      "title": "Santander repurchases 6.1 million shares in buyback programme",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/santander-repurchases-61-million-shares-in-buyback-programme-93CH-4951014",
+      "source": "Investing.com News",
+      "publishedAt": 1792058676000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Ti1hYmxlIHN0dWR5IGZp",
+      "title": "N-able study finds 75% of firms lack trust in AI remediation",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/nable-study-finds-75-of-firms-lack-trust-in-ai-remediation-93CH-4951015",
+      "source": "Investing.com News",
+      "publishedAt": 1792058676000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T3JnYW5pZ3JhbSBhbm5v",
+      "title": "Organigram announces restructuring to cut costs by up to $10M",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/organigram-announces-restructuring-to-cut-costs-by-up-to-10m-93CH-4951010",
+      "source": "Investing.com News",
+      "publishedAt": 1792058673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmVhbSBHbG9iYWzigJlz",
+      "title": "Beam Global’s acquisition target ScoutDI receives nuclear order",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/beam-globals-acquisition-target-scoutdi-receives-nuclear-order-93CH-4951011",
+      "source": "Investing.com News",
+      "publishedAt": 1792058673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmV5b25kIE1lYXQgbGF1",
+      "title": "Beyond Meat launches caffeinated protein drink line",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/beyond-meat-launches-caffeinated-protein-drink-line-93CH-4951012",
+      "source": "Investing.com News",
+      "publishedAt": 1792058673000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWVyaXRleCwgR29sZG1h",
+      "title": "Meritex, Goldman Sachs recapitalize Atlanta industrial portfolio",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/meritex-goldman-sachs-recapitalize-atlanta-industrial-portfolio-93CH-4951008",
+      "source": "Investing.com News",
+      "publishedAt": 1792058672000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFzdGVyY2FyZCBsYXVu",
+      "title": "Mastercard launches platform integrating fiat and stablecoins",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/mastercard-launches-platform-integrating-fiat-and-stablecoins-93CH-4951009",
+      "source": "Investing.com News",
+      "publishedAt": 1792058672000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VmVudHVyZSBHbG9iYWwg",
+      "title": "Venture Global to build power plants for AI data centers",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/venture-global-to-build-power-plants-for-ai-data-centers-93CH-4951000",
+      "source": "Investing.com News",
+      "publishedAt": 1792058508000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmFua3MgbmVlZCDigJli",
+      "title": "Banks need ’bare metal’ recovery in face of AI risks, says BoE’s Breeden",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/banks-need-bare-metal-recovery-in-face-of-ai-risks-says-boes-breeden-4950999",
+      "source": "Investing.com News",
+      "publishedAt": 1792058496000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,57 +197,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SmFwYW4gdG8gaW52ZXN0",
-      "title": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
+      "id": "CNBC Markets-V2hhdCB0byBrbm93IGFi",
+      "title": "What to know about Starshield, SpaceX&apos;s military-focused Starlink service",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/japan-to-invest-up-to-21-billion-in-two-us-chip-factories-to-be-run-by-globalfoundries-4949222",
-      "source": "Investing.com News",
-      "publishedAt": 1792040423000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UHJvbG9uZ2VkIHdhciwg",
-      "title": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/prolonged-war-renewed-disruptions-pose-biggest-risk-to-middle-east-region-imf-says-4950509",
-      "source": "Investing.com News",
-      "publishedAt": 1792040062000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qm9F4oCZcyBQaWxsIHNh",
-      "title": "BoE’s Pill says a rate hike need not be start of long series",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/boes-pill-says-a-rate-hike-need-not-be-start-of-long-series-4950517",
-      "source": "Investing.com News",
-      "publishedAt": 1792039701000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RmVyZ3Vzb24gRW50ZXJw",
-      "title": "Ferguson Enterprises legal officer Ian Graham sells $405k in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ferguson-enterprises-legal-officer-ian-graham-sells-405k-in-shares-93CH-4950516",
-      "source": "Investing.com News",
-      "publishedAt": 1792039572000,
+      "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792058320000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,82 +212,80 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG9vckRhc2ggQ0ZPIFJh",
-      "title": "DoorDash CFO Ravi Inukonda sells $198,315 in company stock",
+      "id": "CNBC Markets-QW5hbHlzaXM6IFdoeSBh",
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America&apos;s biggest economic challenge",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/doordash-cfo-ravi-inukonda-sells-198315-in-company-stock-93CH-4950515",
-      "source": "Investing.com News",
-      "publishedAt": 1792039566000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYW4gc3RvY2tzIHNl",
-      "title": "Asian stocks sell off as AI trades crumble after hot US inflation data",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
-      "source": "Investing.com News",
-      "publishedAt": 1792039366000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9ybmluZyBCaWQ6IE1h",
-      "title": "Morning Bid: Market picks CoreWeave as AI rout deepens",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-market-picks-coreweave-as-ai-rout-deepens-4950508",
-      "source": "Investing.com News",
-      "publishedAt": 1792039351000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWtyYWluZSB0byByZXN1",
-      "title": "Ukraine to resume strikes on Russian refineries, Zelenksy tells FT",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/ukraine-to-resume-strikes-on-russian-refineries-zelenksy-tells-ft-4950507",
-      "source": "Investing.com News",
-      "publishedAt": 1792039131000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9sbGFyIHJldHJlYXRz",
-      "title": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/dollar-retreats-from-18month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets-4950378",
-      "source": "Investing.com News",
-      "publishedAt": 1792038978000,
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792056606000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [
-        "UST10Y",
-        "FED"
+        "UST10Y"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEgaW5kaWNhdGVz",
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792054951000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VUsgZWNvbm9teSBncmV3",
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792053857000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhLCBBTUQsIE1p",
+      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792052294000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VFNNQyBwb3N0cyByZWNv",
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792051777000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -172,7 +294,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792037512000,
+      "publishedAt": 1792050682000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -182,18 +304,33 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIGlu",
-      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency&apos;s report",
+      "id": "CNBC Markets-SW5kaWHigJlzIElEQkkg",
+      "title": "India’s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada&apos;s Fairfax",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+      "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792037358000,
+      "publishedAt": 1792044724000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJvbSAmYXBvcztEdW5l",
+      "title": "From &apos;Dune&apos; to &apos;Wicker,&apos; how this ‘tiny’ European country became a hub for Hollywood",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792044541000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -227,53 +364,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U0sgSHluaXggc2hhcmVz",
-      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792026421000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792024213000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciBleHBs",
-      "title": "Jim Cramer explains why even strong bank earnings couldn&apos;t save their stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792018086000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
       "title": "Jim Cramer says don&apos;t give up on this unpredictable market. Here&apos;s why",
       "summary": "",
@@ -295,21 +385,6 @@
       "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
       "source": "CNBC Markets",
       "publishedAt": 1792012749000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgdG8gYXBwZWFs",
-      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792012726000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -376,21 +451,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGVsbCBzdG9jayBwbHVu",
-      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about &apos;enterprise AI timing&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792009165000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -471,42 +531,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+      "id": "CNBC Markets-TWVyY2sgQ0VPIHRlbGxz",
+      "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+      "url": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792000441000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJ4oCZcyBTYWNo",
-      "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791998734000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHN0ZWVsIHN0b2Nr",
-      "title": "The steel stock that has the shorts and options traders on edge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/the-steel-stock-that-has-the-shorts-and-options-traders-on-edge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791998575000,
+      "publishedAt": 1791999237000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -570,36 +600,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmxhY2tSb2NrJmFwb3M7",
-      "title": "BlackRock&apos;s Larry Fink warns a data center moratorium could trigger a recession",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791995232000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TmV0ZmxpeCB0byBsYXkg",
-      "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1791990239000,
-      "lang": "zh-CN",
-      "topics": [
-        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
