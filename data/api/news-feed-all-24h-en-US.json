@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1792180316775,
-  "crawlUpdatedAt": 1792180316775,
+  "updatedAt": 1792190658111,
+  "crawlUpdatedAt": 1792190658111,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,119 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-RGVidCBpcyBlYXRpbmcg",
-      "title": "Debt is eating up a bigger chunk of your raise, research shows",
+      "id": "CNBC Markets-QW5hbHlzaXM6IFdoeSBh",
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America&apos;s biggest economic challenge",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792180066000,
+      "publishedAt": 1792189985000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXBwbGXigJlzICQxLDk5",
+      "title": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792189886000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXRob3MgVGVjaG5vbG9n",
+      "title": "Ethos Technologies CEO sells over $4.6m in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-ceo-sells-over-46m-in-company-stock-93CH-4954920",
+      "source": "Investing.com News",
+      "publishedAt": 1792188971000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXRob3MgVGVjaG5vbG9n",
+      "title": "Ethos Technologies president Wang Lingke sells $4.5m in LIFE shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-president-wang-lingke-sells-45m-in-life-shares-93CH-4954918",
+      "source": "Investing.com News",
+      "publishedAt": 1792188970000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29uaWMgQXV0b21vdGl2",
+      "title": "Sonic Automotive director Paul Rusnak buys $752,044 in stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-752044-in-stock-93CH-4954917",
+      "source": "Investing.com News",
+      "publishedAt": 1792188969000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29wcGVyIExha2UgUmVz",
+      "title": "Copper Lake Resources closes $5M private placement",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/copper-lake-resources-closes-5m-private-placement-93CH-4954911",
+      "source": "Investing.com News",
+      "publishedAt": 1792188521000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgbGlmdHMgcmVzdHJp",
+      "title": "US lifts restrictions on new Mexican flights from capital’s airports",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-lifts-restrictions-on-new-mexican-flights-from-capitals-airports-4954901",
+      "source": "Investing.com News",
+      "publishedAt": 1792188022000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGVzbGEgc2hhcmVzIGNh",
+      "title": "Tesla shares caught up in tech rout despite new Roadster with flight capabilities",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
+      "source": "Investing.com News",
+      "publishedAt": 1792187903000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +135,104 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-Qml0Y29pbiBzZXQgZm9y",
+      "title": "Bitcoin set for a two-week losing streak as ’uptober’ trend fails to materialize",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
+      "source": "Investing.com News",
+      "publishedAt": 1792187699000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3J5bnNwYW4gaG9sZHMg",
+      "title": "Grynspan holds lead for next UN chief as race enters decisive stage",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/grynspan-holds-lead-for-next-un-chief-as-race-enters-decisive-stage-4954900",
+      "source": "Investing.com News",
+      "publishedAt": 1792187666000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2FicmllbCBSZXNvdXJj",
+      "title": "Gabriel Resources closes initial C$3.29M private placement",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/gabriel-resources-closes-initial-c329m-private-placement-93CH-4954894",
+      "source": "Investing.com News",
+      "publishedAt": 1792186840000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVFCIGFwcG9pbnRzIFZp",
+      "title": "EQB appoints Vivian Abdelmessih to board of directors",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/eqb-appoints-vivian-abdelmessih-to-board-of-directors-93CH-4954891",
+      "source": "Investing.com News",
+      "publishedAt": 1792186590000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-S2F0aWUgWmFjaGFyaWEg",
       "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792180046000,
+      "publishedAt": 1792185975000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2h5IGRpZCBDb3JlV2Vh",
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792182835000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2F5cyBXaGl0",
+      "title": "Trump says White House didn&apos;t order Starlink restrictions in Ukraine",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792182490000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -48,7 +247,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792179941000,
+      "publishedAt": 1792180941000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,18 +257,18 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U3RvY2tzIHNsaXAgYXMg",
-      "title": "Stocks slip as dollar heads for weekly loss",
+      "id": "CNBC Markets-RGVidCBpcyBlYXRpbmcg",
+      "title": "Debt is eating up a bigger chunk of your raise, research shows",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade-4952993",
-      "source": "Investing.com News",
-      "publishedAt": 1792179738000,
+      "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792180066000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -88,57 +287,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2lsIHRvdWNoZXMgJDEx",
-      "title": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
-      "source": "Investing.com News",
-      "publishedAt": 1792179397000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TURCIENhcGl0YWwgSG9s",
-      "title": "MDB Capital Holdings co-founder Marlett buys $1,769 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/mdb-capital-holdings-cofounder-marlett-buys-1769-in-stock-93CH-4954768",
-      "source": "Investing.com News",
-      "publishedAt": 1792179067000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U3BhY2VYIEFJIHBvbGlj",
       "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
       "source": "CNBC Markets",
       "publishedAt": 1792179051000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBXaGl0",
-      "title": "Trump says White House didn&apos;t order Starlink restrictions in Ukraine",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792178926000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -163,21 +317,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmVhcmx5IDEyLDAwMCBD",
-      "title": "Nearly 12,000 California residents bought EVs using state rebate program",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nearly-12000-california-residents-bought-evs-using-state-rebate-program-4954764",
-      "source": "Investing.com News",
-      "publishedAt": 1792178666000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIGFmZm9yZGFiaWxp",
       "title": "The affordability crisis isn&apos;t hitting all voters equally. Here&apos;s why",
       "summary": "",
@@ -193,130 +332,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGVzbGEgYnJlYWtzICQz",
-      "title": "Tesla breaks $350 support with bearish momentum: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tesla-rangebound-at-380-with-weak-trend-live-levels-93CH-4944787",
-      "source": "Investing.com News",
-      "publishedAt": 1792178304000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiB0ZXN0cyAk",
-      "title": "Bitcoin tests $81,120 support as double top plays out: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "source": "Investing.com News",
-      "publishedAt": 1792178303000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q3J1ZGUgT2lsIFdUSSBv",
-      "title": "Crude Oil WTI overbought at $101.49 with RSI 78: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-stuck-in-tight-range-near-91-live-levels-93CH-4943297",
-      "source": "Investing.com News",
-      "publishedAt": 1792178300000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TG9uZG9uIEdhcyBPaWwg",
-      "title": "London Gas Oil consolidates at $1,457 in tight range: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-200sma-support-after-double-top-live-93CH-4943301",
-      "source": "Investing.com News",
-      "publishedAt": 1792178299000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QWxwaGFiZXQgQyB0ZXN0",
-      "title": "Alphabet C tests $334 support amid bearish trend: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
-      "source": "Investing.com News",
-      "publishedAt": 1792178299000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmFzZGFxIDEwMCBicmVh",
-      "title": "Nasdaq 100 breaks 29,361 support, RSI at 23.5: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
-      "source": "Investing.com News",
-      "publishedAt": 1792178297000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBwbGXigJlzICQxLDk5",
-      "title": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792176917000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBkb3du",
-      "title": "We&apos;re downgrading this retail stock after a big comeback. Plus, AI names slide again",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792176379000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VGhlIEF1c3RpbiBQb3dl",
       "title": "The Austin Powers steamroller: How to trade CoreWeave&apos;s slow moving crisis",
       "summary": "",
@@ -328,23 +343,6 @@
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW5hbHlzaXM6IFdoeSBh",
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America&apos;s biggest economic challenge",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792173860000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "UST10Y"
-      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
