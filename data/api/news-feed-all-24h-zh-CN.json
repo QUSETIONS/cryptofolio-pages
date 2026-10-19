@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1792386601885,
-  "crawlUpdatedAt": 1792386601885,
-  "crawlCount": 26,
+  "updatedAt": 1792408125685,
+  "crawlUpdatedAt": 1792408125685,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,93 +13,290 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-R29sZCByaXNlcyBhcyBX",
-      "title": "Gold rises as Warsh remarks temper Fed hike bets, futures top $4,200",
+      "id": "Investing.com News-Q0JJWiBtaXNzZXMgdGhp",
+      "title": "CBIZ misses third quarter estimates on earnings and revenue",
       "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185",
+      "url": "https://www.investing.com/news/earnings/cbiz-misses-third-quarter-estimates-on-earnings-and-revenue-4956917",
       "source": "Investing.com News",
-      "publishedAt": 1792385577000,
+      "publishedAt": 1792406843000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Union Bank of India posts strong Q2 2026 profit growth",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-union-bank-of-india-posts-strong-q2-2026-profit-growth-93CH-4956916",
+      "source": "Investing.com News",
+      "publishedAt": 1792406790000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUJTIHNlZXMgRVVSL1VT",
+      "title": "UBS sees EUR/USD recovering as markets turn too pessimistic on Europe",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ubs-sees-eurusd-recovering-as-markets-turn-too-pessimistic-on-europe-4956913",
+      "source": "Investing.com News",
+      "publishedAt": 1792406713000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZG1hbiB3YXJucyBo",
+      "title": "Goldman warns high investor conviction could amplify volatility as sentiment shift",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-warns-high-investor-conviction-could-amplify-volatility-as-sentiment-shift-4956908",
+      "source": "Investing.com News",
+      "publishedAt": 1792406707000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWV0aXMgVGVjaEJpbyBp",
+      "title": "Metis TechBio inks up to $1.1 billion deal with Eli Lilly for drug delivery tech",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/metis-techbio-inks-up-to-11-billion-deal-with-eli-lilly-for-drug-delivery-tech-4956907",
+      "source": "Investing.com News",
+      "publishedAt": 1792406643000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RnJhbmNlIHJlZWxzIGZy",
+      "title": "France reels from weekend violence as mayors rebuke government for security failings",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
+      "source": "Investing.com News",
+      "publishedAt": 1792406627000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TW9ybmluZyBCaWQ6IFdh",
+      "title": "Morning Bid: Wavering waiver?",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/morning-bid-wavering-waiver-4956886",
+      "source": "Investing.com News",
+      "publishedAt": 1792406613000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VWJlciB3aW5zIGJpZCB0",
+      "title": "Uber wins bid to throw out UK mass lawsuit by black cab drivers",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/uber-wins-bid-to-throw-out-uk-mass-lawsuit-by-black-cab-drivers-4956748",
+      "source": "Investing.com News",
+      "publishedAt": 1792406595000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RVUgY2hhcmdlcyBLS1Ig",
+      "title": "EU charges KKR with misleading regulators over Telecom Italia network deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/eu-says-kkr-might-have-misled-it-over-telecom-italia-deal-4956776",
+      "source": "Investing.com News",
+      "publishedAt": 1792406580000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S2V5QmFuYyB1cGdyYWRl",
+      "title": "KeyBanc upgrades Global Payments stock rating on capital return outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-upgrades-global-payments-stock-rating-on-capital-return-outlook-93CH-4956906",
+      "source": "Investing.com News",
+      "publishedAt": 1792406563000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJlbmNoIHVucmVzdCBj",
+      "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792406263000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UHV0aW4gcmVwb3J0ZWRs",
+      "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792406207000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWxvbiBNdXNrIHNheXMg",
+      "title": "Elon Musk says he&apos;ll give a SpaceX share to every child in America next year",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792405299000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Um9ib3QgZmFjdG9yaWVz",
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792404001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW5kaWHigJlzIGZpbmFu",
+      "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792398213000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW4gcGljdHVyZXM6IE1v",
+      "title": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792397426000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIENY",
+      "title": "China&apos;s CXMT shares fall nearly 8% as investors look past chipmaker&apos;s profit turnaround",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792396133000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3BlbkFJIGJ1Z2dpbmcg",
+      "title": "OpenAI bugging suspect WhatsApp&apos;ed Saudi royal days before arrest, feds reveal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792390018000,
       "lang": "zh-CN",
       "topics": [
         "rates"
       ],
       "symbols": [
-        "XAU",
         "FED"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VGhlc2UgdGVjaCBzdG9j",
-      "title": "These tech stocks held up during the early-Oct AI selloff",
+      "id": "CNBC Markets-SmFwYW5lc2UgUHJpbWUg",
+      "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/these-tech-stocks-held-up-during-the-earlyoct-ai-selloff-93CH-4956327",
-      "source": "Investing.com News",
-      "publishedAt": 1792385206000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5kaWHigJlzIEZpbmFu",
-      "title": "India’s Finance Minister says easy exits and excess liquidity fuel equity market&apos;s underperformance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "url": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792385186000,
+      "publishedAt": 1792387791000,
       "lang": "zh-CN",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TW9ybmluZyBCaWQ6IE1h",
-      "title": "Morning Bid: Markets left to figure out sanctions",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-markets-left-to-figure-out-sanctions-4956314",
-      "source": "Investing.com News",
-      "publishedAt": 1792384957000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBzdG9ja3MgZWRn",
-      "title": "Asia stocks edge lower despite stronger China growth as AI jitters persist",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-lower-despite-stronger-china-growth-as-ai-jitters-persist-4956316",
-      "source": "Investing.com News",
-      "publishedAt": 1792384762000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEhlbmd0b25n",
-      "title": "Why is Hengtong Optic Electric stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-hengtong-optic-electric-stock-surging-today-93CH-4956315",
-      "source": "Investing.com News",
-      "publishedAt": 1792384629000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -121,111 +318,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Q2FzdGVsbHVtIGdlbmVy",
-      "title": "Castellum general counsel buys $747 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/castellum-general-counsel-buys-747-in-company-stock-93CH-4956312",
-      "source": "Investing.com News",
-      "publishedAt": 1792384256000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtR2xvYmFs",
-      "title": "Analysis-Global food inflation is expected to intensify as supply shocks pile up",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/analysisglobal-food-inflation-is-expected-to-intensify-as-supply-shocks-pile-up-4956295",
-      "source": "Investing.com News",
-      "publishedAt": 1792384224000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIE5pZGVjIHN0",
-      "title": "Why is Nidec stock sliding to a decade low today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-sliding-to-a-decade-low-today-93CH-4956305",
-      "source": "Investing.com News",
-      "publishedAt": 1792384047000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V29ybGQgZmFjZXMgbmF0",
-      "title": "World faces nature reality check at UN biodiversity conference",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/world-faces-nature-reality-check-at-un-biodiversity-conference-4956303",
-      "source": "Investing.com News",
-      "publishedAt": 1792383516000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYSBGWCB0aWNrcyBo",
-      "title": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
-      "summary": "",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
-      "source": "Investing.com News",
-      "publishedAt": 1792383455000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UHV0aW4gcmVwb3J0ZWRs",
-      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792382163000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RnJhbmNlIGhpdCBieSB3",
-      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792379931000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SW5kb25lc2lhbiBzdG9j",
       "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
       "summary": "",
@@ -241,18 +333,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIENY",
-      "title": "China&apos;s CXMT sees shares drop over 6% as investors look past chipmaker&apos;s profit turnaround",
+      "id": "CNBC Markets-QW50aHJvcGljIGNvbW1p",
+      "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792374994000,
+      "publishedAt": 1792366571000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -355,51 +447,6 @@
       "lang": "zh-CN",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VtaWNvbmR1Y3RvciBt",
-      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792321844000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAmYXBvcztzIFJ1",
-      "title": "Trump&apos;s Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792308127000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IGhlZGdlIGZ1bmRz",
-      "title": "Why hedge funds could be making a bond market shock more likely",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792303985000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
