@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1792633447281,
-  "crawlUpdatedAt": 1792633447281,
+  "updatedAt": 1792653962072,
+  "crawlUpdatedAt": 1792653962072,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -14,11 +14,42 @@
   "items": [
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Pantoro posts strong Q1 2026 cash flow, shares rise",
+      "title": "Earnings call transcript: Norske Skog Q3 2026 shares fall as costs bite",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-posts-strong-q1-2026-cash-flow-shares-rise-93CH-4964516",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-norske-skog-q3-2026-shares-fall-as-costs-bite-93CH-4964801",
       "source": "Investing.com News",
-      "publishedAt": 1792632753000,
+      "publishedAt": 1792653309000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
+      "title": "European stocks buckle as French yields cross 5% barrier",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-buckle-as-french-yields-cross-5-barrier-4964797",
+      "source": "Investing.com News",
+      "publishedAt": 1792653300000,
+      "lang": "en-US",
+      "topics": [
+        "rates",
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Billerud posts stronger q3 2026 margin recovery",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-billerud-posts-stronger-q3-2026-margin-recovery-93CH-4964798",
+      "source": "Investing.com News",
+      "publishedAt": 1792653292000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +59,162 @@
       "quality": "fresh"
     },
     {
+      "id": "Investing.com News-VUNCIHJhaXNlcyAyMDI2",
+      "title": "UCB raises 2026 outlook on strong US Bimzelx and Cimzia sales",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ucb-raises-2026-outlook-on-strong-us-bimzelx-and-cimzia-sales-93CH-4964796",
+      "source": "Investing.com News",
+      "publishedAt": 1792653276000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Tm9yZGljIFNlbWljb25k",
+      "title": "Nordic Semiconductor Q3 2026 slides: record revenue, 30% market share",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/nordic-semiconductor-q3-2026-slides-record-revenue-30-market-share-93CH-4964795",
+      "source": "Investing.com News",
+      "publishedAt": 1792653248000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-YXJnZW54IEFEUiBlYXJu",
+      "title": "argenx ADR earnings missed by $0.10, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/argenx-adr-earnings-missed-by-010-revenue-topped-estimates-4964794",
+      "source": "Investing.com News",
+      "publishedAt": 1792653237000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gZG93bmdy",
+      "title": "JPMorgan downgrades Ultrapar stock rating to neutral on valuation",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-ultrapar-stock-rating-to-neutral-on-valuation-93CH-4964793",
+      "source": "Investing.com News",
+      "publishedAt": 1792653177000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SlBNb3JnYW4gZG93bmdy",
+      "title": "JPMorgan downgrades Ultrapar stock rating to neutral on valuation",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-ultrapar-stock-rating-to-neutral-on-valuation-93CH-4964792",
+      "source": "Investing.com News",
+      "publishedAt": 1792653173000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-S0NSIFJlc2lkZW50aWFs",
+      "title": "KCR Residential REIT reports 15% revenue rise to £2.17m",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/kcr-residential-reit-reports-15-revenue-rise-to-217m-93CH-4964791",
+      "source": "Investing.com News",
+      "publishedAt": 1792653151000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Kitron posts strong Q3 2026 growth as stock slips",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kitron-posts-strong-q3-2026-growth-as-stock-slips-93CH-4964786",
+      "source": "Investing.com News",
+      "publishedAt": 1792653058000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBwdWxscyBkaXBs",
+      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792643754000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpbmEmYXBvcztzIHN0",
+      "title": "China&apos;s stock market sinks into bear territory as CSI 300 extends 10-week rout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792641738000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U292ZXJlaWduIHdlYWx0",
+      "title": "Sovereign wealth funds&apos; China and Hong Kong investments surge 190% after a bruising slump",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1792635650000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-QmFuayBvZiBLb3JlYSBo",
       "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792632493000,
+      "publishedAt": 1792635509000,
       "lang": "en-US",
       "topics": [
         "rates"
@@ -43,57 +224,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QmFuayBvZiBLb3JlYSBo",
-      "title": "Bank of Korea holds rates at 3% after back-to-back hikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-at-3-after-backtoback-hikes-won-strengthens-4964507",
-      "source": "Investing.com News",
-      "publishedAt": 1792632463000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tmlja2VsIEluZHVzdHJp",
-      "title": "Nickel Industries Q3 2026 slides: mining hits record amid RKEF squeeze",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/nickel-industries-q3-2026-slides-mining-hits-record-amid-rkef-squeeze-93CH-4964506",
-      "source": "Investing.com News",
-      "publishedAt": 1792632355000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2FsbCBTdCBzZWVzIFRl",
-      "title": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
-      "source": "Investing.com News",
-      "publishedAt": 1792632262000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U291dGhlYXN0IEFzaWEg",
       "title": "Southeast Asia is hungry for AI — and the money isn&apos;t just in subscriptions",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1792632142000,
+      "publishedAt": 1792634508000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -112,96 +248,6 @@
       "lang": "en-US",
       "topics": [
         "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2xvYmFsIGRpZXNlbCBw",
-      "title": "Global diesel prices seen staying high despite Trump’s deal with Russia",
-      "summary": "",
-      "url": "https://www.investing.com/news/economic-indicators/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia-4962231",
-      "source": "Investing.com News",
-      "publishedAt": 1792631922000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TmV3IFdvcmxkIHNjcmV3",
-      "title": "New World screwworm cases confirmed in wildlife in Texas, beef cow in New Mexico",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-agriculture-dept-confirms-first-detection-of-new-world-screwworm-in-us-wildlife-4964342",
-      "source": "Investing.com News",
-      "publishedAt": 1792631905000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmV0dGVyIGhvbWUgJiBm",
-      "title": "Better home & finance director sells $13,899 in BETR stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/better-home--finance-director-sells-13899-in-betr-stock-93CH-4964502",
-      "source": "Investing.com News",
-      "publishedAt": 1792631765000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmV0dGVyIGhvbWUgJiBm",
-      "title": "Better home & finance general counsel Tuffin sells $12,838 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/better-home--finance-general-counsel-tuffin-sells-12838-in-shares-93CH-4964503",
-      "source": "Investing.com News",
-      "publishedAt": 1792631765000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Nickel Industries posts strong Q3 2026 operating gains",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nickel-industries-posts-strong-q3-2026-operating-gains-93CH-4964500",
-      "source": "Investing.com News",
-      "publishedAt": 1792631663000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFuayBvZiBLb3JlYSBo",
-      "title": "Bank of Korea holds rates after back-to-back hikes",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-after-backtoback-hikes-4964499",
-      "source": "Investing.com News",
-      "publishedAt": 1792631585000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -235,21 +281,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U292ZXJlaWduIHdlYWx0",
-      "title": "Sovereign wealth funds&apos; China and Hong Kong investments surge 190% after a bruising slump",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792630058000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -418,21 +449,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TXVzayZhcG9zO3MgU3Bh",
-      "title": "Musk&apos;s SpaceX stock gift is &apos;tip of the iceberg&apos; for Trump Accounts, Altimeter&apos;s Gerstner says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792612331000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXBwbGUmYXBvcztzIGlQ",
       "title": "Apple&apos;s iPhone Duo in short supply — plus, the 2 stocks fueling an AI rebound",
       "summary": "",
@@ -559,21 +575,6 @@
       "url": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
       "source": "CNBC Markets",
       "publishedAt": 1792593602000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VW5pdGVkIEFpcmxpbmVz",
-      "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1792590275000,
       "lang": "en-US",
       "topics": [
         "macro"
