@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1793078913639,
-  "crawlUpdatedAt": 1793078913639,
+  "updatedAt": 1793098390656,
+  "crawlUpdatedAt": 1793098390656,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,185 +13,307 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-SFNCQyBhbm5vdW5jZXMg",
-      "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+      "id": "CNBC Markets-R00gd2lsbCBzd2l0Y2gg",
+      "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793078864000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXBwbGUgc2F5cyBpdCB3",
-      "title": "Apple says it will replace iPhone Duo units showing screen problems",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-4973703",
-      "source": "Investing.com News",
-      "publishedAt": 1793077941000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIGZhbGxzIGFzIHJl",
-      "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793077799000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tmlra2VpIDIyNSB0ZXN0",
-      "title": "Nikkei 225 tests VWAP/Kijun resistance in counter-trend bounce: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-in-strong-downtrend-tests-key-support-live-levels-93CH-4971336",
-      "source": "Investing.com News",
-      "publishedAt": 1793077601000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U0sgSHluaXggdGVzdHMg",
-      "title": "SK Hynix tests SuperTrend resistance at KRW 1,348,500: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-      "source": "Investing.com News",
-      "publishedAt": 1793077573000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TVNDSSBnZW5lcmFsIGNv",
-      "title": "MSCI general counsel Robert Gutowski sells $1.48M in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/msci-general-counsel-robert-gutowski-sells-148m-in-stock-93CH-4974187",
-      "source": "Investing.com News",
-      "publishedAt": 1793077279000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGFpd2FuIGNlbnRyYWwg",
-      "title": "Taiwan central bank sees strong tech demand driving exports into 2027",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/taiwan-central-bank-sees-strong-tech-demand-driving-exports-into-2027-4974186",
-      "source": "Investing.com News",
-      "publishedAt": 1793077260000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WWVuIGVhc2VzIG9uIHJp",
-      "title": "Yen eases on risk-on mood ahead of central bank bonanza",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/yen-eases-on-riskon-mood-ahead-of-central-bank-bonanza-4974178",
-      "source": "Investing.com News",
-      "publishedAt": 1793077242000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIGVhc2VzIG9uIE1p",
-      "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-4974185",
-      "source": "Investing.com News",
-      "publishedAt": 1793077225000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SFNCQ+KAmXMgdGhpcmQt",
-      "title": "HSBC’s third-quarter profit jumps 32%, launches buyback of up to $1 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/hsbcs-thirdquarter-profit-jumps-32-launches-buyback-of-up-to-1-billion-4974179",
-      "source": "Investing.com News",
-      "publishedAt": 1793076917000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QXNpYW4gc3RvY2tzIHN1",
-      "title": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/asian-stocks-surge-as-anthropic-ipo-lifts-sentiment-ahead-of-earnings-central-banks-4974177",
-      "source": "Investing.com News",
-      "publishedAt": 1793076881000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZG1hbiBTYWNocyBu",
-      "title": "Goldman Sachs names top EU construction stocks amid market headwinds",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-eu-construction-stocks-amid-market-headwinds-4974176",
-      "source": "Investing.com News",
-      "publishedAt": 1793076656000,
+      "publishedAt": 1793098185000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [
-        "XAU"
+        "NDX"
       ],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T2lsIHByaWNlcyBzZWVz",
+      "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793097661000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXRyaXVtIGRvc2VzIGZp",
+      "title": "Atrium doses first patient in PRKAG2 syndrome trial",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/atrium-doses-first-patient-in-prkag2-syndrome-trial-93CH-4974851",
+      "source": "Investing.com News",
+      "publishedAt": 1793097402000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWthbWFpIGxhdW5jaGVz",
+      "title": "Akamai launches AI inference and agent sandbox products",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/akamai-launches-ai-inference-and-agent-sandbox-products-93CH-4974850",
+      "source": "Investing.com News",
+      "publishedAt": 1793097401000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIGZpcm1zIG9u",
+      "title": "Dollar firms on AI rebound as euro trips on French worries",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+      "source": "Investing.com News",
+      "publishedAt": 1793097386000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R00gdG8gdHJhbnNmZXIg",
+      "title": "GM to transfer stock listing to Nasdaq",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/gm-to-transfer-stock-listing-to-nasdaq-4974848",
+      "source": "Investing.com News",
+      "publishedAt": 1793097382000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q1JFIGRlYnQgaXMgZHVl",
+      "title": "CRE debt is due, presenting a &apos;massive&apos; opportunity",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793097351000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q01TIEVuZXJneSBlYXJu",
+      "title": "CMS Energy earnings beat by $0.21, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/cms-energy-earnings-beat-by-021-revenue-topped-estimates-4974847",
+      "source": "Investing.com News",
+      "publishedAt": 1793097346000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Sumitomo Chemical India misses Q2 2026 profit view",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sumitomo-chemical-india-misses-q2-2026-profit-view-93CH-4974846",
+      "source": "Investing.com News",
+      "publishedAt": 1793097340000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UHJvdmlkZW50IEZpbmFu",
+      "title": "Provident Financial posts mixed Q1 results with earnings miss",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/provident-financial-posts-mixed-q1-results-with-earnings-miss-93CH-4974845",
+      "source": "Investing.com News",
+      "publishedAt": 1793097301000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2l0aXplbnMgcmVpdGVy",
+      "title": "Citizens reiterates TKO Group stock rating on strong demand outlook",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-tko-group-stock-rating-on-strong-demand-outlook-93CH-4974844",
+      "source": "Investing.com News",
+      "publishedAt": 1793097293000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVycm92aWFsIHNoYXJl",
+      "title": "Ferrovial shares climb 8% on Tennessee concession payment details",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ferrovial-shares-climb-8-on-tennessee-concession-payment-details-93CH-4974843",
+      "source": "Investing.com News",
+      "publishedAt": 1793097276000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJhdmVsICsgTGVpc3Vy",
+      "title": "Travel + Leisure Co earnings beat by $0.15, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/travel--leisure-co-earnings-beat-by-015-revenue-topped-estimates-4974840",
+      "source": "Investing.com News",
+      "publishedAt": 1793097211000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q29jYS1Db2xhIGlzIGFi",
+      "title": "Coca-Cola is about to report earnings. Here&apos;s what to expect",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793096702000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VVBTIGJlYXRzIHF1YXJ0",
+      "title": "UPS beats quarterly expectations, raises full-year guidance again",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793096641000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UG9yc2NoZSBwcm9maXQg",
+      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793095731000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U2lsaWNvbiBWYWxsZXkg",
+      "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793095201000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIHRvIGludmVz",
+      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793092061000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SFNCQyBzaGFyZXMgc2x1",
+      "title": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793089681000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlICZhcG9zO3N0YWJs",
+      "title": "The &apos;stablecoin sandwich&apos;: Why speeding up payments isn&apos;t so simple, according to Mastercard",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793085395000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -201,21 +323,6 @@
       "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
       "source": "CNBC Markets",
       "publishedAt": 1793076030000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgRE9KIHVubGF3",
-      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793074370000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -315,12 +422,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
-      "title": "CNBC&apos;s The China Connection newsletter: The &apos;cliff&apos; beneath China&apos;s cities",
+      "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
+      "title": "Anthropic&apos;s IPO puts power in the hands of founders, giving everyday shareholders little voice",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793056216000,
+      "publishedAt": 1793060123000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -405,12 +512,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UHJlZGljdGlvbiBtYXJr",
-      "title": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
+      "id": "CNBC Markets-QXMgQUkgYmVjb21lcyBt",
+      "title": "As AI becomes more fractured, one names stands out: AMD",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+      "url": "https://www.cnbc.com/2026/10/26/-as-ai-becomes-more-fractured-one-names-stands-out-amd.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793045337000,
+      "publishedAt": 1793043497000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -482,36 +589,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-THVsYSB3aW5zIEJyYXpp",
-      "title": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793035777000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RWxvbiBNdXNrIHNheXMg",
-      "title": "Elon Musk says more than 200 neoclouds face &apos;guppy-level death&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793031863000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-TkJBIGVudGVycyBwcmVk",
       "title": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
       "summary": "",
@@ -539,81 +616,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QXBvbGxvIHRvIGJ1eSBu",
-      "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793027981000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBoZSZh",
-      "title": "Trump says he&apos;ll soon decide whether to ‘make a deal’ with Iran or ‘finish it off&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793025363000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QnJhemlsaWFuIHN0b2Nr",
-      "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793023778000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBhbm5vdW5jZXMg",
-      "title": "Meta announces $95 billion stock offering to fund AI expansion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793023536000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q2FyZWdpdmluZyBmb3Ig",
-      "title": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793016901000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
