@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1793118187915,
-  "crawlUpdatedAt": 1793118187915,
+  "updatedAt": 1793134433804,
+  "crawlUpdatedAt": 1793134433804,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,18 +13,423 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-V29ybGQgQmFuayZhcG9z",
-      "title": "World Bank&apos;s Banga: Availability of capital &apos;not really an issue&apos; as AI demand drives up borrowing costs",
+      "id": "CNBC Markets-V2FsbWFydCBzYXlzIEFJ",
+      "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793117735000,
+      "publishedAt": 1793134118000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RWFybHkgdGhpcmQtcXVh",
+      "title": "Early third-quarter earnings show a &apos;resilient&apos; U.S. consumer, with signs of strain",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793133737000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Um9iaW5ob29kIHNoYXJl",
+      "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793133589000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q29TdGFyIEdyb3VwIHN0",
+      "title": "CoStar Group stock plungs 12% despite topping Q3 estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/costar-group-stock-plungs-12-despite-topping-q3-estimates-93CH-4976887",
+      "source": "Investing.com News",
+      "publishedAt": 1793133283000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SW52ZW50cnVzdCBQcm9w",
+      "title": "Inventrust Properties earnings beat by $0.21, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/inventrust-properties-earnings-beat-by-021-revenue-topped-estimates-4976883",
+      "source": "Investing.com News",
+      "publishedAt": 1793133212000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGlnaHdvb2RzIFByb3Bl",
+      "title": "Highwoods Properties earnings beat by $0.07, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/highwoods-properties-earnings-beat-by-007-revenue-topped-estimates-4976882",
+      "source": "Investing.com News",
+      "publishedAt": 1793133198000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Ty1JIEdsYXNzIGVhcm5p",
+      "title": "O-I Glass earnings missed by $0.26, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/oi-glass-earnings-missed-by-026-revenue-fell-short-of-estimates-4976881",
+      "source": "Investing.com News",
+      "publishedAt": 1793133188000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TWFkaXNvbiBTcXVhcmUg",
+      "title": "Madison Square Garden Entertainment outlines board overlaps and conflict policies",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/madison-square-garden-entertainment-outlines-board-overlaps-and-conflict-policies-93CH-4976879",
+      "source": "Investing.com News",
+      "publishedAt": 1793133181000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGFuZ2VuYmVyZyB1cGdy",
+      "title": "Langenberg upgrades Boeing stock rating on backlog strength",
+      "summary": "",
+      "url": "https://www.investing.com/news/analyst-ratings/langenberg-upgrades-boeing-stock-rating-on-backlog-strength-93CH-4976878",
+      "source": "Investing.com News",
+      "publishedAt": 1793133179000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rmlyc3RFbmVyZ3kgZWFy",
+      "title": "FirstEnergy earnings beat by $0.07, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/firstenergy-earnings-beat-by-007-revenue-topped-estimates-4976877",
+      "source": "Investing.com News",
+      "publishedAt": 1793133170000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwYW5kIEVuZXJneSBi",
+      "title": "Expand Energy beats third quarter estimates on strong revenue",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/expand-energy-beats-third-quarter-estimates-on-strong-revenue-4976876",
+      "source": "Investing.com News",
+      "publishedAt": 1793133152000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9laW5nIHNheXMgaXQg",
+      "title": "Boeing says it won&apos;t significantly ramp up 737 Max production until late 2027",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793133144000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBzdG9ja3MgaGln",
+      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.03%",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-003-4976864",
+      "source": "Investing.com News",
+      "publishedAt": 1793133065000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rmlyc3QgRmluYW5jaWFs",
+      "title": "First Financial Bancorp earnings beat by $0.02, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/first-financial-bancorp-earnings-beat-by-002-revenue-topped-estimates-4976857",
+      "source": "Investing.com News",
+      "publishedAt": 1793133036000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BlYWtlciBNaWtlIEpv",
+      "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793132936000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmV0Qmx1ZSBzdG9jayBz",
+      "title": "JetBlue stock surges as company outlook calms investors",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793132001000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgZGVidCBmZWFycyBl",
+      "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here&apos;s what to watch.",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793131055000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3JhY2xlIGludGVncmF0",
+      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793130701000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TmVpbCBZb3VuZyBzdWVz",
+      "title": "Neil Young sues Trump committee for $10M for playing &apos;Rockin&apos; in the Free World&apos; at rally",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793130558000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9laW5nIHNoYXJlcyBz",
+      "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793128880000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uJmFwb3M7cyBh",
+      "title": "Amazon&apos;s anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793127465000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWFyZ2luIGRlYnQgZ3Jv",
+      "title": "Margin debt growth slows sharply as stock market warning signs build",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793127198000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R0xQLTEgZHJ1ZyBjb3Zl",
+      "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793123877000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG9uZGEgd2FybnMgNTAl",
+      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793123627000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgYmxhc3RzIHBy",
+      "title": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793122775000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
+      "title": "Anthropic&apos;s IPO could be &apos;speculative fiction&apos; or a &apos;generational moment&apos; — investors are split",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793121994000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXMgaG9saWRheSBzaG9w",
+      "title": "As holiday shopping approaches, seasonal hiring gives &apos;mixed signals,&apos; experts say",
+      "summary": "",
+      "url": "https://www.cnbc.com/make-it/2026/10/27/seasonal-hiring-2026-holiday-jobs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793119257000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UmlwcGxlIHN0cmlrZXMg",
+      "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793118945000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -34,156 +439,6 @@
       "url": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
       "source": "CNBC Markets",
       "publishedAt": 1793117721000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QU1EIHN0b2NrIHJhbGxp",
-      "title": "AMD stock rallies on expanded Meta AI infrastructure deal and broader chip rally",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/amd-stock-rallies-on-expanded-meta-ai-infrastructure-deal-and-broader-chip-rally-4976452",
-      "source": "Investing.com News",
-      "publishedAt": 1793117657000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q3JhbWVyIHNheXMgc29t",
-      "title": "Cramer says something is missing in Tuesday&apos;s market rally and he&apos;s not eager to jump in",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793117587000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmxhZGV4IFEzIDIwMjYg",
-      "title": "Bladex Q3 2026 slides: commercial portfolio hits record $15B",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/bladex-q3-2026-slides-commercial-portfolio-hits-record-15b-93CH-4976449",
-      "source": "Investing.com News",
-      "publishedAt": 1793117567000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIGFkZHMgbmV0",
-      "title": "Oracle adds networking features for AI workloads in cloud service",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/oracle-adds-networking-features-for-ai-workloads-in-cloud-service-93CH-4976448",
-      "source": "Investing.com News",
-      "publishedAt": 1793117558000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIHRvIG9mZmVy",
-      "title": "Oracle to offer Google TPUs on cloud infrastructure in 2027",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/oracle-to-offer-google-tpus-on-cloud-infrastructure-in-2027-93CH-4976446",
-      "source": "Investing.com News",
-      "publishedAt": 1793117555000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SlBNb3JnYW4gc2F5cyBl",
-      "title": "JPMorgan says ex-banker Rana pushed sister, friend to lie to support sexual assault case",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-says-exbanker-rana-pushed-sister-friend-to-lie-to-support-sexual-assault-case-4976447",
-      "source": "Investing.com News",
-      "publishedAt": 1793117555000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIHBhcnRuZXJz",
-      "title": "Oracle partners with OpenAI on enterprise AI integration",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/oracle-partners-with-openai-on-enterprise-ai-integration-93CH-4976445",
-      "source": "Investing.com News",
-      "publishedAt": 1793117554000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIGxhdW5jaGVz",
-      "title": "Oracle launches AI security mesh powered by OpenAI models",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/oracle-launches-ai-security-mesh-powered-by-openai-models-93CH-4976443",
-      "source": "Investing.com News",
-      "publishedAt": 1793117553000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIHVudmVpbHMg",
-      "title": "Oracle unveils AI data platform with ontology capabilities",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/oracle-unveils-ai-data-platform-with-ontology-capabilities-93CH-4976444",
-      "source": "Investing.com News",
-      "publishedAt": 1793117553000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIHRvIG9mZmVy",
-      "title": "Oracle to offer Snowflake as native service on its cloud",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/oracle-to-offer-snowflake-as-native-service-on-its-cloud-93CH-4976442",
-      "source": "Investing.com News",
-      "publishedAt": 1793117552000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -208,53 +463,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qm9laW5nIFEzIDIwMjYg",
-      "title": "Boeing Q3 2026 slides: defense strength offsets commercial headwinds",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/boeing-q3-2026-slides-defense-strength-offsets-commercial-headwinds-93CH-4976438",
-      "source": "Investing.com News",
-      "publishedAt": 1793117284000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T2lsIHByaWNlcyBmYWxs",
-      "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793117086000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RmVkIGV4cGVjdGVkIHRv",
-      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793116346000,
-      "lang": "zh-CN",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [
-        "FED"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW50aHJvcGljJmFwb3M7",
       "title": "Anthropic&apos;s IPO is risky business",
       "summary": "",
@@ -267,81 +475,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG9uZGEgd2FybnMgNTAl",
-      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793116112000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Qm9laW5nIHN0b2NrIHNp",
-      "title": "Boeing stock sinks 9% as company says it won&apos;t significantly ramp up 737 Max production until late 2027",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793115949000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWFuIGNoYXJnZWQgd2l0",
-      "title": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793115671000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VVBTIGJlYXRzIHF1YXJ0",
-      "title": "UPS beats quarterly expectations, raises full-year guidance again",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793114989000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RXgtRkJJIG9mZmljaWFs",
-      "title": "Ex-FBI official&apos;s lawyers slam unusual new criminal charge: &apos;Outrageous government conduct&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793114390000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -390,21 +523,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-UmlwcGxlIHN0cmlrZXMg",
-      "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793110696000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QSAmYXBvcztjYW5hcnkg",
       "title": "A &apos;canary in the coal mine&apos;: Measles resurgence exposes weaknesses in U.S. public health, experts say",
       "summary": "",
@@ -435,57 +553,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SXNyYWVsIGVsZWN0aW9u",
-      "title": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793104132000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RnJvemVuIGhvdXNpbmcg",
       "title": "Frozen housing market sends remodelers mixed messages",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
       "source": "CNBC Markets",
       "publishedAt": 1793103659000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5oZXJpdGVkIElSQXMg",
-      "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here&apos;s how to reduce it",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793103301000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmVzc2VudCBkaW5lcyBh",
-      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793103107000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -510,53 +583,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-R00gd2lsbCBzd2l0Y2gg",
-      "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793098185000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Q1JFIGRlYnQgaXMgZHVl",
-      "title": "CRE debt is due, presenting a &apos;massive&apos; opportunity",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793097351000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UG9yc2NoZSBwcm9maXQg",
-      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793095731000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2lsaWNvbiBWYWxsZXkg",
       "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
       "summary": "",
@@ -572,21 +598,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SnVkZ2UgZmFzdC10cmFj",
-      "title": "Judge fast-tracks DOJ&apos;s Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793076030000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RnJvbSBXYWxsIFN0cmVl",
       "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;",
       "summary": "",
@@ -599,21 +610,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXNyYWVsaSBlbGVjdGlv",
-      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793054795000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
