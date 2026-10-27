@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1793047326397,
-  "crawlUpdatedAt": 1793047326397,
-  "crawlCount": 35,
+  "updatedAt": 1793060414474,
+  "crawlUpdatedAt": 1793060414474,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,27 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-V2h5IGlzIEFta29yIFRl",
-      "title": "Why is Amkor Technology stock rallying today?",
+      "id": "CNBC Markets-QmFuayBvZiBKYXBhbiBp",
+      "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-amkor-technology-stock-rallying-today-93CH-4973666",
+      "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793060264000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RGlzdHJpYnV0aW9uIFNv",
+      "title": "Distribution Solutions Group completes GradeEight acquisition",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/distribution-solutions-group-completes-gradeeight-acquisition-93CH-4973982",
       "source": "Investing.com News",
-      "publishedAt": 1793047188000,
+      "publishedAt": 1793059469000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -28,57 +43,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-V2h5IGlzIENlbGVzdGlj",
-      "title": "Why is Celestica stock surging today?",
+      "id": "Investing.com News-T3B0aW11bSBDb21tdW5p",
+      "title": "Optimum Communications director Neil Subin buys nearly $1.16m stock",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-surging-today-93CH-4973665",
+      "url": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-buys-nearly-116m-stock-93CH-4973979",
       "source": "Investing.com News",
-      "publishedAt": 1793047176000,
+      "publishedAt": 1793059264000,
       "lang": "zh-CN",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG9ybWFuIGVhcm5pbmdz",
-      "title": "Dorman earnings beat by $0.08, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/dorman-earnings-beat-by-008-revenue-fell-short-of-estimates-4973664",
-      "source": "Investing.com News",
-      "publishedAt": 1793047123000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QW5hbHlzaXMtTm93IGhv",
-      "title": "Analysis-Now home, Venezuela opposition leader Machado walks tightrope with supporters, Trump",
-      "summary": "",
-      "url": "https://www.investing.com/news/world-news/analysisnow-home-venezuela-opposition-leader-machado-walks-tightrope-with-supporters-trump-4973368",
-      "source": "Investing.com News",
-      "publishedAt": 1793047052000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-V2FsbCBTdHJlZXQgYmFu",
-      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom chips for Anthropic",
+      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
       "summary": "",
       "url": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
       "source": "Investing.com News",
-      "publishedAt": 1793047039000,
+      "publishedAt": 1793059241000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -88,12 +73,177 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-UmFtYnVzIGZhbGxzIGRl",
-      "title": "Rambus falls despite earnings beat on muted guidance outlook",
+      "id": "Investing.com News-SW4gQ2hpbmEsIHRoZSBB",
+      "title": "In China, the AI bubble has already burst",
       "summary": "",
-      "url": "https://www.investing.com/news/earnings/rambus-falls-despite-earnings-beat-on-muted-guidance-outlook-4973661",
+      "url": "https://www.investing.com/news/economy-news/analysisin-china-the-ai-bubble-has-already-burst-4972445",
       "source": "Investing.com News",
-      "publishedAt": 1793047030000,
+      "publishedAt": 1793059224000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2FuZHMgQ2hpbmEgcGxh",
+      "title": "Sands China plans senior unsecured notes offering",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/sands-china-plans-senior-unsecured-notes-offering-93CH-4973969",
+      "source": "Investing.com News",
+      "publishedAt": 1793058753000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QWRhcHRpdmUgQmlvdGVj",
+      "title": "Adaptive Biotechnologies president and COO Julie Rubinstein sells $897k shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-897k-shares-93CH-4973964",
+      "source": "Investing.com News",
+      "publishedAt": 1793058383000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmlwcG9uIExpZmUsIENv",
+      "title": "Nippon Life, Corebridge Financial director, buys $8.66M in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/nippon-life-corebridge-financial-director-buys-866m-in-shares-93CH-4973963",
+      "source": "Investing.com News",
+      "publishedAt": 1793058358000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QktWIENvcnAgc2VuaW9y",
+      "title": "BKV Corp senior VP Hinojosa sells $103,549 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/bkv-corp-senior-vp-hinojosa-sells-103549-in-shares-93CH-4973961",
+      "source": "Investing.com News",
+      "publishedAt": 1793058354000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SmV0Qmx1ZSBzZWVrcyB0",
+      "title": "JetBlue seeks to reassure investors as losses deepen",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/jetblue-airways-posts-wider-quarterly-loss-on-surging-fuel-costs-4973617",
+      "source": "Investing.com News",
+      "publishedAt": 1793058144000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U291dGggS29yZWEgR0RQ",
+      "title": "South Korea GDP grows more than expected in Q3 on AI boost",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
+      "source": "Investing.com News",
+      "publishedAt": 1793057586000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: The &apos;cliff&apos; beneath China&apos;s cities",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793056216000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJvbSBXYWxsIFN0cmVl",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793055007000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SXNyYWVsaSBlbGVjdGlv",
+      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793054795000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RE9KIGNoYXJnZXMgZXgt",
+      "title": "DOJ charges ex-FBI Director James Comey in new case",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793053476000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciB3YXJu",
+      "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793052575000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,12 +253,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RG9vckRhc2ggaW4gdGFs",
-      "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says",
+      "id": "CNBC Markets-QmVzc2VudCBkaW5lcyBh",
+      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/doordash-in-talks-to-buy-instacart-wsj-reports-4973478",
-      "source": "Investing.com News",
-      "publishedAt": 1793047026000,
+      "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793050697000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -118,12 +268,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RnJlbmNoIHN0dWRlbnRz",
-      "title": "French students vow more protests despite Macron government’s concessions",
+      "id": "CNBC Markets-SmV0Qmx1ZSBwb3N0cyBi",
+      "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
       "summary": "",
-      "url": "https://www.investing.com/news/world-news/french-student-protesters-say-government-offered-them-deal-but-they-want-more-4973382",
-      "source": "Investing.com News",
-      "publishedAt": 1793047011000,
+      "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793049487000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -133,12 +283,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TWlzc2lvbiBCYW5jb3Jw",
-      "title": "Mission Bancorp reports Q3 net income of $9.2 million",
+      "id": "CNBC Markets-TWljcm9zb2Z0IG9mZmVy",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/mission-bancorp-reports-q3-net-income-of-92-million-93CH-4973660",
-      "source": "Investing.com News",
-      "publishedAt": 1793046996000,
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793047490000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -148,12 +298,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QXBvZ2VlIE1pbmVyYWxz",
-      "title": "Apogee Minerals to change name to Northmark Metals, adds director",
+      "id": "CNBC Markets-TWV0YSwgU3BhY2VYLCBB",
+      "title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/apogee-minerals-to-change-name-to-northmark-metals-adds-director-93CH-4973659",
-      "source": "Investing.com News",
-      "publishedAt": 1793046994000,
+      "url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793046386000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -210,36 +360,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T2lsIHRpY2tzIGxvd2Vy",
-      "title": "Oil ticks lower as Saudi defense minister meets with Iran&apos;s president in Tehran to de-escalate",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793040605000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SiZKJmFwb3M7cyBwb3Rl",
-      "title": "J&J&apos;s potential &apos;game-changer&apos; drug — plus, what Microsoft&apos;s mass buyouts mean",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793040333000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QXBwbGUgcmVzcG9uZHMg",
       "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
       "summary": "",
@@ -261,21 +381,6 @@
       "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
       "source": "CNBC Markets",
       "publishedAt": 1793039821000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0IG9mZmVy",
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793036430000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -465,21 +570,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TWFyYyBMb3Jl4oCZcyBX",
-      "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793018954000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-Q2FuIEdPUCBSZXAuIEJy",
       "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who&apos;s bucked Trump, keep his Pennsylvania swing seat?",
       "summary": "",
@@ -516,21 +606,6 @@
       "url": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
       "source": "CNBC Markets",
       "publishedAt": 1793016493000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IHdhciwgc2VjdXJp",
-      "title": "How war, security and coalition math are shaping the Israeli election",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793008019000,
       "lang": "zh-CN",
       "topics": [
         "macro"
