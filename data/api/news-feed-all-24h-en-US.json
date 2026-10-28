@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1793214150005,
-  "crawlUpdatedAt": 1793214150005,
+  "updatedAt": 1793230040293,
+  "crawlUpdatedAt": 1793230040293,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,12 +13,44 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-T3JhY2xlIHN0b2NrIHBv",
-      "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "id": "CNBC Markets-VGhlICZhcG9zO01hZ25p",
+      "title": "The &apos;Magnificent Seven&apos; is no more. Time to pick winners and losers as group&apos;s correlation breaks down",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793214126000,
+      "publishedAt": 1793229877000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVkIGxlYXZlcyByYXRl",
+      "title": "Fed leaves rates unchanged as it awaits ’accumulation of more information’",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information-4980411",
+      "source": "Investing.com News",
+      "publishedAt": 1793229545000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RG9vckRhc2gmYXBvcztz",
+      "title": "DoorDash&apos;s deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793229437000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,27 +60,27 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-T3B0aW9ucyB0cmFkZXJz",
-      "title": "Options traders break down a massive Alphabet trade into earnings",
+      "id": "Investing.com News-UnlkZXIgU3lzdGVtIGV4",
+      "title": "Ryder System executive chair Sanchez sells $9.7M in stock",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793214063000,
+      "url": "https://www.investing.com/news/insider-trading-news/ryder-system-executive-chair-sanchez-sells-97m-in-stock-93CH-4981195",
+      "source": "Investing.com News",
+      "publishedAt": 1793229375000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
       "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Central Pacific Financial beats EPS in Q3 2026",
+      "title": "Earnings call transcript: Rush Street Interactive Q3 2026 results beat on EPS",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-central-pacific-financial-beats-eps-in-q3-2026-93CH-4980465",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-rush-street-interactive-q3-2026-results-beat-on-eps-93CH-4981190",
       "source": "Investing.com News",
-      "publishedAt": 1793213192000,
+      "publishedAt": 1793229196000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -58,12 +90,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-Qmx1ZSBBbnQgTWVkaWEg",
-      "title": "Blue Ant Media at Planet MicroCap Showcase: Toronto 2026: growth via global rights",
+      "id": "Investing.com News-TmV1UGF0aCBIZWFsdGgg",
+      "title": "NeuPath Health at Planet MicroCap Showcase: Toronto 2026: growth plan",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/blue-ant-media-at-planet-microcap-showcase-toronto-2026-growth-via-global-rights-93CH-4980464",
+      "url": "https://www.investing.com/news/transcripts/neupath-health-at-planet-microcap-showcase-toronto-2026-growth-plan-93CH-4981189",
       "source": "Investing.com News",
-      "publishedAt": 1793213185000,
+      "publishedAt": 1793229185000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,12 +105,27 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RHluYWNvciBhdCBQbGFu",
-      "title": "Dynacor at Planet MicroCap Showcase: Toronto 2026: growth tests and new markets",
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: Hudson Technologies Q3 2026 miss sends shares lower",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/dynacor-at-planet-microcap-showcase-toronto-2026-growth-tests-and-new-markets-93CH-4980463",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hudson-technologies-q3-2026-miss-sends-shares-lower-93CH-4981188",
       "source": "Investing.com News",
-      "publishedAt": 1793213148000,
+      "publishedAt": 1793228969000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3JvdmUgQ29sbGFib3Jh",
+      "title": "Grove Collaborative at Emerging Growth Conference 97: turnaround gains traction",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/grove-collaborative-at-emerging-growth-conference-97-turnaround-gains-traction-93CH-4981187",
+      "source": "Investing.com News",
+      "publishedAt": 1793228903000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -88,12 +135,134 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-TmV3IEhvcml6b24gQWly",
-      "title": "New Horizon Aircraft at Planet MicroCap Showcase: Toronto 2026: hybrid bet",
+      "id": "Investing.com News-SU5FTyBUZWNoIGF0IEVt",
+      "title": "INEO Tech at Emerging Growth Conference 97: growth, profit path",
       "summary": "",
-      "url": "https://www.investing.com/news/transcripts/new-horizon-aircraft-at-planet-microcap-showcase-toronto-2026-hybrid-bet-93CH-4980462",
+      "url": "https://www.investing.com/news/transcripts/ineo-tech-at-emerging-growth-conference-97-growth-profit-path-93CH-4981186",
       "source": "Investing.com News",
-      "publishedAt": 1793213139000,
+      "publishedAt": 1793228879000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Rmx1ZW5jZSBRMyAyMDI2",
+      "title": "Fluence Q3 2026 slides: margin expansion drives profitability surge",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/fluence-q3-2026-slides-margin-expansion-drives-profitability-surge-93CH-4981185",
+      "source": "Investing.com News",
+      "publishedAt": 1793228867000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-WmlsbG93IHRvIHBheSAk",
+      "title": "Zillow to pay $212.5 million to settle class action over failed real estate venture",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/zillow-to-pay-2125-million-to-settle-class-action-over-failed-real-estate-venture-4981184",
+      "source": "Investing.com News",
+      "publishedAt": 1793228833000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RUNCIHRvIGhvbGQgcmF0",
+      "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/ecb-to-hold-rates-as-investors-focus-on-french-bondslagardes-future-4981183",
+      "source": "Investing.com News",
+      "publishedAt": 1793228817000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGFuZHMtb24gd2l0aCBB",
+      "title": "Hands-on with Apple&apos;s first touchscreen laptop: Touch is totally optional",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793227121000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TWljcm9zb2Z0IHN0b2Nr",
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793226896000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkRXggYmVhdHMgZXhw",
+      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793226420000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hpcG90bGUgc2hhcmVz",
+      "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793225548000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QWxwaGFiZXQgc2lua3Mg",
+      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793225237000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -108,7 +277,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793213080000,
+      "publishedAt": 1793225059000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -118,102 +287,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-QWVyQ2FwIEhvbGRpbmdz",
-      "title": "AerCap Holdings NV stock hits all-time high at 158.81 USD",
+      "id": "CNBC Markets-TnZpZGlhJmFwb3M7cyAk",
+      "title": "Nvidia&apos;s $12.9 billion Hugging Face deal draws DOJ scrutiny",
       "summary": "",
-      "url": "https://www.investing.com/news/company-news/aercap-holdings-nv-stock-hits-alltime-high-at-15881-usd-93CH-4980460",
-      "source": "Investing.com News",
-      "publishedAt": 1793213053000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIENhbmFkaWFu",
-      "title": "Why is Canadian Natural Resources stock climbing today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-climbing-today-93CH-4980461",
-      "source": "Investing.com News",
-      "publishedAt": 1793213053000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: Route Mobile beats Q2 2026 estimates as stock slips",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-route-mobile-beats-q2-2026-estimates-as-stock-slips-93CH-4980459",
-      "source": "Investing.com News",
-      "publishedAt": 1793213022000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T3JhY2xlIGV4cGVjdHMg",
-      "title": "Oracle expects to turn cash flow positive in second half of fiscal 2028",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/oracle-expects-to-turn-cash-flow-positive-in-second-half-of-fiscal-2028-4980458",
-      "source": "Investing.com News",
-      "publishedAt": 1793212980000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0YSBkZWxheXMgaW5k",
-      "title": "Meta delays indefinitely its rollout of new commercial terms after publishers’ concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/meta-delays-indefinitely-its-rollout-of-new-commercial-terms-after-publishers-concerns-4980457",
-      "source": "Investing.com News",
-      "publishedAt": 1793212964000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-WnVybiBFbGtheSBXYXRl",
-      "title": "Zurn Elkay Water Solutions stock hits 52-week low at $43.05",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/zurn-elkay-water-solutions-stock-hits-52week-low-at-4305-93CH-4980456",
-      "source": "Investing.com News",
-      "publishedAt": 1793212890000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2UmYXBvcztyZSBhZGRp",
-      "title": "We&apos;re adding a new, high-profile AI play to our Bullpen stocks to watch list",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+      "url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793212433000,
+      "publishedAt": 1793224731000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -223,12 +302,111 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW50aHJvcGljIElQTyBm",
-      "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+      "id": "CNBC Markets-Rm9yZCByZXBvcnRzIG1p",
+      "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+      "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793212365000,
+      "publishedAt": 1793223744000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SGVyZSBhcmUgZml2ZSBr",
+      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793223106000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmVzc2VudCBzYXlzICZh",
+      "title": "Bessent says &apos;not necessarily&apos; a mistake if the Fed hikes again",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793221597000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIGxlYXZlcyByYXRl",
+      "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793221163000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhyZWUgbWVkaWEgb3V0",
+      "title": "Three media outlets seek full White House access in amended lawsuit",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793218863000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-MTAteWVhciBUcmVhc3Vy",
+      "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793218639000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y",
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-T3B0aW9ucyB0cmFkZXJz",
+      "title": "Options traders break down a massive Alphabet trade into earnings",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793218439000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -238,12 +416,108 @@
       "quality": "fresh"
     },
     {
+      "id": "CNBC Markets-T3JhY2xlIHN0b2NrIHBv",
+      "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793217644000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Qm9uZCBpbnZlc3RvciBK",
+      "title": "Bond investor Jeff Gundlach on Fed&apos;s rate pause: &apos;What are you waiting for?&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793217230000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-UGVsdG9sYSBjYW1wYWln",
       "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793211734000,
+      "publishedAt": 1793217126000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIGhvbGRzIHJhdGVz",
+      "title": "Fed holds rates steady despite concerns over inflation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793216628000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TG9va2luZyBmb3IgeWll",
+      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793215834000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RmVkIGNoYWlybWFuIHRh",
+      "title": "Fed chairman talks tough on inflation — plus, what&apos;s behind Micron&apos;s big rally",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793215055000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2UmYXBvcztyZSBhZGRp",
+      "title": "We&apos;re adding a new, high-profile AI play to our Bullpen stocks to watch list",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793212433000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -270,117 +544,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TG9va2luZyBmb3IgeWll",
-      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793210480000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgaXMgdXNpbmcg",
       "title": "Trump is using tariffs as a &apos;tool for grift,&apos; Raskin says in demand for donor records",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
       "source": "CNBC Markets",
       "publishedAt": 1793209183000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgc2V0IHRv",
-      "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793205202000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QW1lcmljYSZhcG9zO3Mg",
-      "title": "America&apos;s largest budget airline reports 71% jump in airfare",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793204949000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXNyYWVsaSBib25kcywg",
-      "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793204069000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWljcm9zb2Z0IGVhcm5p",
-      "title": "Microsoft earnings will land after the close",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793203201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZCBNb3RvciBpcyBz",
-      "title": "Ford Motor is set to report earnings after the bell. Here&apos;s what Wall Street expects",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793203201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VUsgYnJpbmdzIGZvcndh",
-      "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793202799000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -405,21 +574,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIFVLIGN1dHMgZW5l",
-      "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793201954000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RkVDIGNhbXBhaWduIGZp",
       "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
       "summary": "",
@@ -435,132 +589,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Um9iaW5ob29kIHNoYXJl",
-      "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793199002000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2VuZHkmYXBvcztzIHNo",
       "title": "Wendy&apos;s shares jump 15% as Nelson Peltz&apos;s Trian offers $1.4 billion to buy burger chain",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
       "source": "CNBC Markets",
       "publishedAt": 1793198151000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RHJhZnRLaW5ncyBDRU8g",
-      "title": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793198125000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R29vZ2xlIGFsdGVycyBp",
-      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793195547000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RlbGxhbnRpcyBzdG9j",
-      "title": "Stellantis stock rises 12% as automaker&apos;s turnaround plan, cost cuts gain traction",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793195285000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-V2h5IENoaW5hIGlzIGRl",
-      "title": "Why China is desperate to ship cars outside of the country",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793193440000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlICZhcG9zO01hZ25p",
-      "title": "The &apos;Magnificent Seven&apos; is no more. Time to pick winners and losers as group&apos;s correlation breaks down",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793192948000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJ1bXAgc2F5cyBJcmFu",
-      "title": "Trump says Iran war will end &apos;when I want it to&apos; as costs reportedly balloon to $47 billion",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793190349000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VHJhZGVycyBhcmUgYmV0",
-      "title": "Traders are betting big against this restaurant giant into earnings",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793189087000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -582,21 +616,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TW9ydGdhZ2UgcmF0ZXMg",
-      "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793187223000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
