@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": 1793348880490,
-  "crawlUpdatedAt": 1793348880490,
+  "updatedAt": 1793373360168,
+  "crawlUpdatedAt": 1793373360168,
   "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
@@ -13,168 +13,448 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-RXVyb3BlYW4gc2hhcmVz",
-      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
+      "id": "CNBC Markets-TXVzayBhbmQgWnVja2Vy",
+      "title": "Musk and Zuckerberg echo Trump&apos;s push to rebrand AI as &apos;super intelligence&apos; on earnings calls. Others do not",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-amazon-intel-stoke-ai-cashburn-fears-4985916",
-      "source": "Investing.com News",
-      "publishedAt": 1793348189000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3BhaW7igJlzIGluZmxh",
-      "title": "Spain’s inflation rate holds steady at 4.9% in October",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/spains-inflation-rate-holds-steady-at-49-in-october-93CH-4986015",
-      "source": "Investing.com News",
-      "publishedAt": 1793348109000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T2lsIHJpc2VzIG5lYXIg",
-      "title": "Oil rises near 6-mth high as Trump weighs military options against Iran",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693",
-      "source": "Investing.com News",
-      "publishedAt": 1793348038000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U1BJRSBvcmdhbmljIGdy",
-      "title": "SPIE organic growth accelerates as North-West Europe delivers surprise rebound",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/spie-organic-growth-accelerates-as-northwest-europe-delivers-surprise-rebound-4985999",
-      "source": "Investing.com News",
-      "publishedAt": 1793348023000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2l0aXplbnMgZG93bmdy",
-      "title": "Citizens downgrades Reddit stock rating on user growth concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-downgrades-reddit-stock-rating-on-user-growth-concerns-93CH-4985995",
-      "source": "Investing.com News",
-      "publishedAt": 1793347978000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VEQgQ293ZW4gZG93bmdy",
-      "title": "TD Cowen downgrades Hershey stock rating on sales outlook concerns",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-hershey-stock-rating-on-sales-outlook-concerns-93CH-4985993",
-      "source": "Investing.com News",
-      "publishedAt": 1793347972000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q2FudG9yIGRvd25ncmFk",
-      "title": "Cantor downgrades Instacart stock rating on DoorDash acquisition",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/cantor-downgrades-instacart-stock-rating-on-doordash-acquisition-93CH-4985991",
-      "source": "Investing.com News",
-      "publishedAt": 1793347970000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-S2V5QmFuYyBkb3duZ3Jh",
-      "title": "KeyBanc downgrades Coursera stock rating on softer demand outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/keybanc-downgrades-coursera-stock-rating-on-softer-demand-outlook-93CH-4985992",
-      "source": "Investing.com News",
-      "publishedAt": 1793347970000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFpcmQgZG93bmdyYWRl",
-      "title": "Baird downgrades Bright Horizons stock rating on childcare woes",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/baird-downgrades-bright-horizons-stock-rating-on-childcare-woes-93CH-4985990",
-      "source": "Investing.com News",
-      "publishedAt": 1793347969000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIE5hdFdlc3Qg",
-      "title": "Why is NatWest stock sliding today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-natwest-stock-sliding-today-93CH-4985989",
-      "source": "Investing.com News",
-      "publishedAt": 1793347943000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlnZ2VzdC1ldmVyIGNy",
-      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793347768000,
+      "publishedAt": 1793373267000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3dpc3MgY2VudHJhbCBi",
+      "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793372868000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "XAU"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIHNh",
+      "title": "Saudi Arabia says drone intercepted and destroyed near Islam’s holiest city - AP",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/saudi-arabia-says-drone-intercepted-and-destroyed-near-islams-holiest-city--ap-4988176",
+      "source": "Investing.com News",
+      "publishedAt": 1793372085000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Uml2aWFuIHN0b2NrOiBK",
+      "title": "Rivian stock: Jefferies upgrades to Buy, sees recent sell-off as an entry point",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/rivian-stock-jefferies-upgrades-to-buy-sees-recent-selloff-as-an-entry-point-4988175",
+      "source": "Investing.com News",
+      "publishedAt": 1793372065000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE9yYWNsZSBz",
+      "title": "Why is Oracle stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-4988173",
+      "source": "Investing.com News",
+      "publishedAt": 1793372064000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVk4oCZcyBCYXJraW4g",
+      "title": "Fed’s Barkin says US central bank’s direction ’straightforward,’ the question is pace, SiriusXM reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/feds-barkin-says-us-central-banks-direction-straightforward-the-question-is-pace-siriusxm-reports-4988174",
+      "source": "Investing.com News",
+      "publishedAt": 1793372064000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJlYXN1cnkgRGVwYXJ0",
+      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793371992000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "UST10Y"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIFNwYWNlIEV4",
+      "title": "Why is Space Exploration Technologies stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4988171",
+      "source": "Investing.com News",
+      "publishedAt": 1793371961000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SGFzaGRleCBOYXNkYXEg",
+      "title": "Hashdex Nasdaq CME Crypto Index ETF enters agreement with Jane Street Capital",
+      "summary": "",
+      "url": "https://www.investing.com/news/sec-filings/hashdex-nasdaq-cme-crypto-index-etf-enters-agreement-with-jane-street-capital-93CH-4988170",
+      "source": "Investing.com News",
+      "publishedAt": 1793371954000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXBvbGxvIEdsb2JhbCBN",
+      "title": "Apollo Global Management stock hits 52-week low at 24.99 USD",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/apollo-global-management-stock-hits-52week-low-at-2499-usd-93CH-4988169",
+      "source": "Investing.com News",
+      "publishedAt": 1793371909000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2FwaXRhbCBDbGVhbiBF",
+      "title": "Capital Clean Energy earnings beat by $0.07, revenue topped estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/capital-clean-energy-earnings-beat-by-007-revenue-topped-estimates-4988168",
+      "source": "Investing.com News",
+      "publishedAt": 1793371876000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIEJyb2FkY29t",
+      "title": "Why is Broadcom stock sliding today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-4988165",
+      "source": "Investing.com News",
+      "publishedAt": 1793371803000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIE5ldGZsaXgg",
+      "title": "Why is Netflix stock gaining today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-gaining-today-93CH-4988164",
+      "source": "Investing.com News",
+      "publishedAt": 1793371763000,
       "lang": "en-US",
       "topics": [
         "crypto"
       ],
       "symbols": [],
-      "sentimentHint": "negative",
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JDYuMyBiaWxsaW9uIEJp",
+      "title": "$6.3 billion Binance hack is largest crypto theft on record",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793371706000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2FtYmxlIG9uIGRlbW9j",
+      "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793371614000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAsIFZhbmNlIHNj",
+      "title": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793369600000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3RhcmJ1Y2tzIHNhbGVz",
+      "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793366990000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-JmFwb3M7QmFkIHRpbWUg",
+      "title": "&apos;Bad time to troll&apos;: Binance cofounder Changpeng Zhao asks Elon Musk for &apos;respect&apos; after post about bitcoin hack",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793366974000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Friday",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/10/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793364223000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmluYW5jZSZhcG9zO3Mg",
+      "title": "Binance&apos;s $6.3 billion hack: What we know and what comes next",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793363933000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGJpZyBxdWVzdGlv",
+      "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793363256000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2hldnJvbiBhbmQgRXh4",
+      "title": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793360151000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-UnVzc2lhbiBzdHJpa2Vz",
+      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793359799000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RXVybyB6b25lIGVjb25v",
+      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793359006000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQgYnJh",
+      "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793358737000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCBnaWFudHMgbmVl",
+      "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793358001000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-R2VuIFogaXMgZGl0Y2hp",
+      "title": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793356366000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QlDigJlzIHRoaXJkLXF1",
+      "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793350824000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm94Y29ubiBob3BlcyB0",
+      "title": "Foxconn hopes to own 50% of the global AI server market within a couple years",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793346219000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -199,21 +479,6 @@
       "url": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
       "source": "CNBC Markets",
       "publishedAt": 1793340001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RE9KIGVzY2FsYXRlcyBB",
-      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793334543000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -250,51 +515,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29tZSBQb2x5bWFya2V0",
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793324796000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwgcGx1bmdlcyBv",
-      "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793322367000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwgc3RvY2sgcGx1",
-      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793320792000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -343,21 +563,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-QW1hem9uIHBvc3RzIG5l",
-      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793312689000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-QW1hem9uIEFXUyBwb3N0",
       "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
       "summary": "",
@@ -370,21 +575,6 @@
       ],
       "symbols": [],
       "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SVJTIENFTyBCaXNpZ25h",
-      "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793310942000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
@@ -403,77 +593,19 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-U3RhcmJ1Y2tzIHNhbGVz",
-      "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+      "id": "CNBC Markets-Q29pbmJhc2UgbmV0IGlu",
+      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793309399000,
+      "publishedAt": 1793309896000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "crypto"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgZWFybmlu",
-      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793304963000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+      "symbols": [
+        "BTC"
       ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxwaGFiZXQgdGFua3Mg",
-      "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793304919000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Tm9yd2VnaWFuIHNoYXJl",
-      "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793304855000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U2VydmljZU5vdyBzaGFy",
-      "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793304152000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
       "sentimentHint": "positive",
       "quality": "fresh"
     },
@@ -490,127 +622,6 @@
       ],
       "symbols": [],
       "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lcjogV2h5",
-      "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/10/29/jim-cramer-why-investors-are-punishing-alphabet-and-giving-microsoft-a-pass.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793302233000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TnZpZGlhIHJlc3BvbmRz",
-      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were &apos;investigated and debunked&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793301392000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UmFyZSBTdGFubGV5IERy",
-      "title": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793300030000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmlnIE9pbCBlYXJuaW5n",
-      "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793297612000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhpcmQtcXVhcnRlciBV",
-      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793297191000,
-      "lang": "en-US",
-      "topics": [
-        "rates",
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29tZSBpbnZlc3RvcnMg",
-      "title": "Some investors have midterm election jitters. Here’s what history shows about stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793294830000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3RldmUgRWlzbWFuIGdl",
-      "title": "Steve Eisman gets more conservative with portfolio as AI trade nears &apos;tipping point&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793283343000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SXQmYXBvcztzIGEgJmFw",
-      "title": "It&apos;s a &apos;socialist&apos; bank — and North Dakota Republicans love it",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793268001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
       "quality": "fresh"
     }
   ]
