@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1793477609818,
-  "crawlUpdatedAt": 1793477609818,
-  "crawlCount": 36,
+  "updatedAt": 1793489819245,
+  "crawlUpdatedAt": 1793489819245,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,72 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-U3BhY2VYIGxvc2VzIGJp",
-      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "id": "Investing.com News-SnVkZ2UgZW5kcyBUcnVt",
+      "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+      "source": "Investing.com News",
+      "publishedAt": 1793487635000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VG9wIHRha2Vhd2F5cyBm",
+      "title": "Top takeaways from Bernstein’s annual Global Sportswear survey",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+      "source": "Investing.com News",
+      "publishedAt": 1793487425000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QmluYW5jZSBzYXlzIDkw",
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793477557000,
+      "publishedAt": 1793485676000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VUsgUE0gQnVybmhhbSBz",
+      "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+      "source": "Investing.com News",
+      "publishedAt": 1793484023000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+      "source": "Investing.com News",
+      "publishedAt": 1793481603000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -33,7 +93,69 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793477439000,
+      "publishedAt": 1793480753000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiByaXNlcyBh",
+      "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+      "source": "Investing.com News",
+      "publishedAt": 1793480219000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-T1BFQysgc2V0IHRvIGhv",
+      "title": "OPEC+ set to hold December oil output steady, Reuters reports",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+      "source": "Investing.com News",
+      "publishedAt": 1793479465000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SXNvbGF0ZWQgY2xhc2hl",
+      "title": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
+      "source": "Investing.com News",
+      "publishedAt": 1793477559000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIGxvc2VzIGJp",
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793477557000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -73,21 +195,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMganVkZ2UgZGlzbWlz",
-      "title": "US judge dismisses Trump’s lawsuit against Wall Street Journal with prejudice",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-      "source": "Investing.com News",
-      "publishedAt": 1793475381000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-Q2l0aSBzZWVzIEV1cm9w",
       "title": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
       "summary": "",
@@ -109,113 +216,6 @@
       "url": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
       "source": "Investing.com News",
       "publishedAt": 1793474658000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmluYW5jZSBzYXlzIDkw",
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793474185000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IHRoZSBzZWxsLW9m",
-      "title": "Why the sell-off in French bonds is a warning for global governments",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
-      "source": "Investing.com News",
-      "publishedAt": 1793472818000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Q291bnRyaWVzIHJlYWNo",
-      "title": "Countries reach COP17 deal to speed up biodiversity action, but money still short",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/countries-reach-cop17-deal-to-speed-up-biodiversity-action-but-money-still-short-4989314",
-      "source": "Investing.com News",
-      "publishedAt": 1793471782000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVNDQiBGaW5hbmNpYWwg",
-      "title": "USCB Financial Holdings director buys $20,000 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
-      "source": "Investing.com News",
-      "publishedAt": 1793471474000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Qml0Y29pbiByaXNlcyBh",
-      "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-      "source": "Investing.com News",
-      "publishedAt": 1793469516000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [
-        "BTC"
-      ],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SXNvbGF0ZWQgY2xhc2hl",
-      "title": "Isolated clashes in France, as tensions erupt after peaceful marches",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
-      "source": "Investing.com News",
-      "publishedAt": 1793467820000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWV0YSBidWlsZHMgaHVt",
-      "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
-      "source": "Investing.com News",
-      "publishedAt": 1793467766000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -422,21 +422,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIHJpc2Ugb2YgdGhl",
-      "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
-      "summary": "",
-      "url": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793442439000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-VHJ1bXAgY2FsbGVkIG91",
       "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
       "summary": "",
@@ -458,98 +443,6 @@
       "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
       "source": "CNBC Markets",
       "publishedAt": 1793426402000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxhc2thIFNlbmF0ZSBl",
-      "title": "Alaska Senate election: DOJ wants to &apos;segregate&apos; all ballots for 2nd Sullivan candidate",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793401075000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SmltIENyYW1lciBzYXlz",
-      "title": "Jim Cramer says it&apos;s time to look beyond tech. Here are 4 consumer stocks he likes",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793400724000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TWV0YSBvdXRsb29rIHJl",
-      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793400146000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "SPX"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2FtYmxlIG9uIGRlbW9j",
-      "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793397653000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QmluYW5jZSBsb3NlcyAk",
-      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-      "summary": "",
-      "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793396752000,
-      "lang": "en-US",
-      "topics": [
-        "crypto"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW50ZWwgc3RvY2sgaGFz",
-      "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government&apos;s stake",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793392257000,
       "lang": "en-US",
       "topics": [
         "macro"
