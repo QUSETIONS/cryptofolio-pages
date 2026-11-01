@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1793557822746,
-  "crawlUpdatedAt": 1793557822746,
-  "crawlCount": 26,
+  "updatedAt": 1793572889967,
+  "crawlUpdatedAt": 1793572889967,
+  "crawlCount": 24,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,164 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-RXZlcnl0aGluZyBjaGFu",
+      "title": "Everything changed for the oil, AI and bond trades over the past month",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793572060000,
+      "lang": "zh-CN",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2VzdHBhY+KAmXMgZnVs",
+      "title": "Westpac’s full-year profit ticks higher, flags slowing loan demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
+      "source": "Investing.com News",
+      "publishedAt": 1793569353000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhjbHVzaXZlLUF1c3Ry",
+      "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
+      "source": "Investing.com News",
+      "publishedAt": 1793569340000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SnVkZ2UgZGlzbWlzc2Vz",
+      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1793568303000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+      "source": "Investing.com News",
+      "publishedAt": 1793568003000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgc2F5cyBVUywg",
+      "title": "Trump says US, Canada have ’concept’ of a new trade deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-us-canada-have-concept-of-a-new-trade-deal-4989778",
+      "source": "Investing.com News",
+      "publishedAt": 1793567539000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-RGVtb2NyYXRpYyBSZXAu",
-      "title": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
+      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793556965000,
+      "publishedAt": 1793567202000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXhwbGFpbmVyLUhvdyBV",
+      "title": "Explainer-How US news organizations will make midterm race calls",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
+      "source": "Investing.com News",
+      "publishedAt": 1793567183000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UnVzc2lhbiBzdHJpa2Vz",
+      "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707",
+      "source": "Investing.com News",
+      "publishedAt": 1793563924000,
+      "lang": "zh-CN",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Qml0Y29pbiBmYWNlcyBm",
+      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+      "source": "Investing.com News",
+      "publishedAt": 1793559849000,
+      "lang": "zh-CN",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmluYW5jZSBzZWVzIHNw",
+      "title": "Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+      "source": "Investing.com News",
+      "publishedAt": 1793557482000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -43,42 +195,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Q29ubmVjdGljdXQgU2Vu",
-      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793556513000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "Investing.com News-U2VyYmlhbnMgbWFyayBy",
       "title": "Serbians mark railway disaster that led to rise of victorious student movement",
       "summary": "",
       "url": "https://www.investing.com/news/commodities-news/serbians-mark-railway-disaster-that-led-to-rise-of-victorious-student-movement-4989758",
       "source": "Investing.com News",
       "publishedAt": 1793554579000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-QWxhc2thIFNlbi4gU3Vs",
-      "title": "Alaska Sen. Sullivan says he&apos;ll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793553179000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -103,45 +225,15 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RXZlcnl0aGluZyBjaGFu",
-      "title": "Everything changed for the oil, AI and bond trades over the past month",
+      "id": "CNBC Markets-Rm9yIEpQTW9yZ2FuLCBB",
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
       "source": "CNBC Markets",
-      "publishedAt": 1793548704000,
+      "publishedAt": 1793550883000,
       "lang": "zh-CN",
       "topics": [
         "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmluYW5jZSBzZWVzIHNw",
-      "title": "Binance sees spike in customers pulling funds out after covering bulk of stolen $6.3 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
-      "source": "Investing.com News",
-      "publishedAt": 1793548459000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmF5bW9uZCBKYW1lcyBj",
-      "title": "Raymond James cuts Oil States stock price target on guidance outlook",
-      "summary": "",
-      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
-      "source": "Investing.com News",
-      "publishedAt": 1793547660000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
@@ -193,102 +285,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-SG9ybmJlY2sgZWFybmlu",
-      "title": "Hornbeck earnings up next: First test for Helix merger",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/hornbeck-earnings-up-next-first-test-for-helix-merger-93CH-4989757",
-      "source": "Investing.com News",
-      "publishedAt": 1793543758000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SHViIEdyb3VwIGVhcm5p",
-      "title": "Hub Group earnings up next: Can intermodal rebound offset woes?",
-      "summary": "",
-      "url": "https://www.investing.com/news/earnings/hub-group-earnings-up-next-can-intermodal-rebound-offset-woes-93CH-4989756",
-      "source": "Investing.com News",
-      "publishedAt": 1793543704000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-V2h5IEFJIGlzIGJvb3N0",
       "title": "Why AI is boosting Meta&apos;s ad business while hurting Google search",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
       "source": "CNBC Markets",
       "publishedAt": 1793543489000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmFuZ2xhZGVzaCBzZXRz",
-      "title": "Bangladesh sets up wage board as garment workers’ unrest shuts factories",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
-      "source": "Investing.com News",
-      "publishedAt": 1793541983000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Tm9yZEZYIExhdW5jaGVz",
-      "title": "NordFX Launches Oil Loss Insurance for New Brent and WTI Traders",
-      "summary": "",
-      "url": "https://www.investing.com/news/press-releases/nordfx-launches-oil-loss-insurance-for-new-brent-and-wti-traders-4989749",
-      "source": "Investing.com News",
-      "publishedAt": 1793541744000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TWlkdGVybSBVUyBlbGVj",
-      "title": "Midterm US elections, earnings, jobs data loom for AI-wary stock market",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/midterm-us-elections-earnings-jobs-data-loom-for-aiwary-stock-market-4989748",
-      "source": "Investing.com News",
-      "publishedAt": 1793541626000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T1BFQysga2VlcHMgRGVj",
-      "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/opec-set-to-keep-oil-output-targets-steady-sources-say-4989496",
-      "source": "Investing.com News",
-      "publishedAt": 1793540180000,
       "lang": "zh-CN",
       "topics": [
         "macro"
@@ -370,36 +372,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U3BhY2VYIGxvc2VzIGJp",
-      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793477557000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-T3BlbkFJIHBhcmVzIGZ1",
-      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1793476583000,
-      "lang": "zh-CN",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     }
   ]
