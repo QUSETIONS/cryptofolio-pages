@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1794097347060,
-  "crawlUpdatedAt": 1794097347060,
-  "crawlCount": 33,
+  "updatedAt": 1794119704970,
+  "crawlUpdatedAt": 1794119704970,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,29 @@
   ],
   "items": [
     {
-      "id": "Investing.com News-SG93IHRvIGludmVzdCBp",
-      "title": "How to invest in AI amid AI spending worries?",
+      "id": "Investing.com News-Qml0Y29pbiBob2xkcyBi",
+      "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
       "source": "Investing.com News",
-      "publishedAt": 1794095596000,
+      "publishedAt": 1794117607000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [
+        "BTC"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q2F0aGllIFdvb2QgJmFw",
+      "title": "Cathie Wood &apos;always feels better when the market is worried&apos; — here&apos;s why",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1794117601000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,12 +45,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-T2NlYW5GaXJzdCBkaXJl",
-      "title": "OceanFirst director Jack Farris buys $10,008 in company stock",
+      "id": "Investing.com News-Q2hpbmEgZW5lcmd5IGlu",
+      "title": "China energy investment to hit $940 billion in 2026 as grid spending rises",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+      "url": "https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
       "source": "Investing.com News",
-      "publishedAt": 1794094266000,
+      "publishedAt": 1794115409000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -43,18 +60,123 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-U291dGhlcm4gQ28gY29t",
-      "title": "Southern Co comptroller Matthew Kim sells $9,339 in shares",
+      "id": "Investing.com News-U2F1ZGkgQXJhYmlhIGxp",
+      "title": "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
       "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+      "url": "https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
       "source": "Investing.com News",
-      "publishedAt": 1794094259000,
+      "publishedAt": 1794114272000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VVMgbWlsaXRhcnkgc2F5",
+      "title": "US military says it disabled cargo vessel in Gulf of Oman",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055",
+      "source": "Investing.com News",
+      "publishedAt": 1794114025000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFjaXJhIGVhcm5pbmdz",
+      "title": "Pacira earnings missed by $0.03, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+      "source": "Investing.com News",
+      "publishedAt": 1794111463000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-SnVkZ2Ugb3JkZXJzIGV0",
+      "title": "Judge orders ethics probe into Trump’s Washington golf course project",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/judge-orders-ethics-probe-into-trumps-washington-golf-course-project-5010119",
+      "source": "Investing.com News",
+      "publishedAt": 1794109236000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hhdCBhcmUgdGhlIEFJ",
+      "title": "What are the AI lab compute commitments?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/what-are-the-ai-lab-compute-commitments-5010113",
+      "source": "Investing.com News",
+      "publishedAt": 1794107156000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV3IFplYWxhbmQgZWxl",
+      "title": "New Zealand election puts tax reform party in kingmaker role as majority hangs",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/new-zealand-election-puts-tax-reform-party-in-kingmaker-role-as-majority-hangs-5010108",
+      "source": "Investing.com News",
+      "publishedAt": 1794104764000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VS5TLiBtaWxpdGFyeSBk",
+      "title": "U.S. military disables cargo vessel attempting to breach Iran blockade",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
+      "source": "Investing.com News",
+      "publishedAt": 1794102227000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QUkgc3RvY2sgc2VsbG9m",
+      "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+      "source": "Investing.com News",
+      "publishedAt": 1794099645000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -70,36 +192,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Vm95YWdlciBUZWNobm9s",
-      "title": "Voyager Technologies selected for NASA’s $10B lunar contract",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
-      "source": "Investing.com News",
-      "publishedAt": 1794092674000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmluYW5jZSBDRk8gS2Fp",
-      "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
-      "source": "Investing.com News",
-      "publishedAt": 1794091736000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -124,81 +216,6 @@
       "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
       "source": "CNBC Markets",
       "publishedAt": 1794088750000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V29ybGQgQWNjZXB0YW5j",
-      "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
-      "source": "Investing.com News",
-      "publishedAt": 1794087973000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RHJvcGJveCBjaGllZiBh",
-      "title": "Dropbox chief accounting officer sells $74,884 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
-      "source": "Investing.com News",
-      "publishedAt": 1794087958000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RW1lcmdpbmcgbWFya2V0",
-      "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
-      "source": "Investing.com News",
-      "publishedAt": 1794087171000,
-      "lang": "en-US",
-      "topics": [
-        "rates"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VVMgbWlsaXRhcnkgc2F5",
-      "title": "US military says it disabled cargo vessel in Gulf of Oman",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055",
-      "source": "Investing.com News",
-      "publishedAt": 1794086643000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UnVzc2lhIHN0b2NrcyBs",
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010054",
-      "source": "Investing.com News",
-      "publishedAt": 1794086403000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -469,36 +486,6 @@
       "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
       "source": "CNBC Markets",
       "publishedAt": 1794037056000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIHJhY2UgaXMgb24g",
-      "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1794031201000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIHRoZSBjYXJk",
-      "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1794016801000,
       "lang": "en-US",
       "topics": [
         "macro"
