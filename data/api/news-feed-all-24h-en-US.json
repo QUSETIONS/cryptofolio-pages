@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1795406275129,
-  "crawlUpdatedAt": 1795406275129,
-  "crawlCount": 22,
+  "updatedAt": 1795443908912,
+  "crawlUpdatedAt": 1795443908912,
+  "crawlCount": 29,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,194 +13,389 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-TnZpZGlhIHJlaW5zdGF0",
+      "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795443772000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
+      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "summary": "",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795443425000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-V2FsbCBTdHJlZXQmYXBv",
+      "title": "Wall Street&apos;s &apos;Fear Gauge&apos; just flashed a buy sign",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795443268000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VG9rZW5pemVkIHN0b2Nr",
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795442836000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [
+        "NDX"
+      ],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXZlbiBhZmZsdWVudCBz",
+      "title": "Even affluent shoppers are embracing buy now, pay later, Block data shows",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/even-affluent-shoppers-are-embracing-buy-now-pay-later-block-data-shows-5045810",
+      "source": "Investing.com News",
+      "publishedAt": 1795442798000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TnZpZGlhIHJlaW5zdGF0",
+      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809",
+      "source": "Investing.com News",
+      "publishedAt": 1795442782000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
+      "title": "Earnings call transcript: BioLineRx Q3 2026 loss widens as GLIX1 advances",
+      "summary": "",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-biolinerx-q3-2026-loss-widens-as-glix1-advances-93CH-5045808",
+      "source": "Investing.com News",
+      "publishedAt": 1795442751000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UmVkYXB0aXZlIGFwcG9p",
+      "title": "Redaptive appoints former EnerNOC CEO to board",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/redaptive-appoints-former-enernoc-ceo-to-board-93CH-5045807",
+      "source": "Investing.com News",
+      "publishedAt": 1795442676000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R3JhaGFtIGFjcXVpcmVz",
+      "title": "Graham acquires Hauschild to expand mixing technology business",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/graham-acquires-hauschild-to-expand-mixing-technology-business-93CH-5045806",
+      "source": "Investing.com News",
+      "publishedAt": 1795442675000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U3RhbmRhcmQgTnVjbGVh",
+      "title": "Standard Nuclear submits safety analyses for two fuel facilities",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/standard-nuclear-submits-safety-analyses-for-two-fuel-facilities-93CH-5045805",
+      "source": "Investing.com News",
+      "publishedAt": 1795442673000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGlmZXdhcmQgdW52ZWls",
+      "title": "Lifeward unveils next generation AlterG anti-gravity treadmill",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/lifeward-unveils-next-generation-alterg-antigravity-treadmill-93CH-5045803",
+      "source": "Investing.com News",
+      "publishedAt": 1795442672000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R2FtZUdvbGYgcGFydG5l",
+      "title": "GameGolf partners with The Bay Golf Club in TGL league deal",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/gamegolf-partners-with-the-bay-golf-club-in-tgl-league-deal-93CH-5045804",
+      "source": "Investing.com News",
+      "publishedAt": 1795442672000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Wm9vbWNhciBRMiBGWTI3",
+      "title": "Zoomcar Q2 FY27 slides: first profit posted as unit economics improve",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/zoomcar-q2-fy27-slides-first-profit-posted-as-unit-economics-improve-93CH-5045798",
+      "source": "Investing.com News",
+      "publishedAt": 1795442671000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RXh4b25Nb2JpbCBjb21w",
+      "title": "ExxonMobil completes $1.76 billion debt tender offer",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/exxonmobil-completes-176-billion-debt-tender-offer-93CH-5045799",
+      "source": "Investing.com News",
+      "publishedAt": 1795442671000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-WmVsZW5za3l5IHByYWlz",
+      "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795440495000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-4oCYV29yc3QgQ09QIGV2",
+      "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795439798000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TW9yZSBBbWVyaWNhbnMg",
+      "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795439701000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3BhY2VYIHN1ZWQgYnkg",
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795437637000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGhlIGJpZ2dlc3QgbW9u",
+      "title": "The biggest money-making energy trade looks over. What to buy instead",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795435220000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U3R1Y2s6IEhvdyBhIGZy",
+      "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795428001000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RnJlbmNoIGJpb3RlY2gg",
+      "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/abivax-scorpion-capital-obefazimod.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795427142000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Rm9yZ2V0IEFudGhyb3Bp",
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795423716000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SW52ZXN0b3JzIGdpdmVz",
+      "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795418724000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SG93IEFzaWFuIGNvdW50",
+      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795416648000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VS5TLiBwcm9iZXMgTWVn",
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795410483000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-WWVtZW4mYXBvcztzIEhv",
       "title": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
       "source": "CNBC Markets",
       "publishedAt": 1795405937000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-QmxhY2tTa3kgQ0VPIE/i",
-      "title": "BlackSky CEO O’Toole sells $1.18M in shares for tax obligations",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/blacksky-ceo-otoole-sells-118m-in-shares-for-tax-obligations-93CH-5044287",
-      "source": "Investing.com News",
-      "publishedAt": 1795405576000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VWx0YSBCZWF1dHkgZGly",
-      "title": "Ulta Beauty director Lorna Nagler sells $322,387 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ulta-beauty-director-lorna-nagler-sells-322387-in-stock-93CH-5044286",
-      "source": "Investing.com News",
-      "publishedAt": 1795405573000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T29tYSBDRU8gRXJpYyBT",
-      "title": "Ooma CEO Eric Stang sells $919,709 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ooma-ceo-eric-stang-sells-919709-in-company-stock-93CH-5044285",
-      "source": "Investing.com News",
-      "publishedAt": 1795405572000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-T29tYSB2cCAmIGNoaWVm",
-      "title": "Ooma vp & chief accounting officer sells $57,546 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/ooma-vp--chief-accounting-officer-sells-57546-in-stock-93CH-5044284",
-      "source": "Investing.com News",
-      "publishedAt": 1795405560000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TE1FIGNvcHBlciBicmll",
-      "title": "LME copper briefly falls below $12,000 a ton as tech selloff deepens",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/lme-copper-briefly-falls-below-12000-a-ton-as-tech-selloff-deepens-5044280",
-      "source": "Investing.com News",
-      "publishedAt": 1795405224000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-V2h5IGlzIEluZnJhZ3Jl",
-      "title": "Why is Infragreen stock surging today?",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-infragreen-stock-surging-today-93CH-5044279",
-      "source": "Investing.com News",
-      "publishedAt": 1795404946000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RG93bmVyIHNoYXJlcyBq",
-      "title": "Downer shares jump over 3% on $730 million NSW transmission contract",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/downer-shares-jump-over-3-on-730-million-nsw-transmission-contract-5044278",
-      "source": "Investing.com News",
-      "publishedAt": 1795404827000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R29sZCByZWJvdW5kcyBm",
-      "title": "Gold rebounds from 14-mth low as tech selloff lifts safe-haven demand",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271",
-      "source": "Investing.com News",
-      "publishedAt": 1795403754000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "XAU"
-      ],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VGF0YSBTdGVlbCB0byBh",
-      "title": "Tata Steel to acquire 26.4% in APL Apollo Tubes for $1.67 billion",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/tata-steel-to-acquire-264-in-apl-apollo-tubes-for-167-billion-5044262",
-      "source": "Investing.com News",
-      "publishedAt": 1795403623000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U2F1ZGkgQXJhYmlh4oCZ",
-      "title": "Saudi Arabia’s influence loomed large over failed COP31 deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/commodities-news/saudi-arabias-influence-loomed-large-over-failed-cop31-deal-5044261",
-      "source": "Investing.com News",
-      "publishedAt": 1795403558000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MyBiaWcgdGhpbmdzIHdl",
-      "title": "3 big things we&apos;re watching in the market this Thanksgiving week",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795394574000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-TGV0JmFwb3M7cyB3ZWln",
-      "title": "Let&apos;s weigh the cons — and pros — of this brutal market to find a way forward",
-      "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795391384000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -225,21 +420,6 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SeKAmXZlIHN0dWRpZWQg",
-      "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-      "summary": "",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795368805000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-RGlyZWN0b3Igb2YgTmF0",
       "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
       "summary": "",
@@ -261,83 +441,6 @@
       "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
       "source": "CNBC Markets",
       "publishedAt": 1795357801000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-MjYteWVhci1vbGQgR29v",
-      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-      "summary": "",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795356001000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UGl6emEgY2hhaW5zIGFy",
-      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795352401000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9wIFdhbGwgU3RyZWV0",
-      "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795349636000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VGhlIE5hc2RhcSBpcyBp",
-      "title": "The Nasdaq is in freefall. Here&apos;s one stock to look at",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795349439000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [
-        "NDX"
-      ],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-UXVhbnR1bSBjb21wdXRp",
-      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795327201000,
       "lang": "en-US",
       "topics": [
         "macro"
