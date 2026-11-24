@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1795443908912,
-  "crawlUpdatedAt": 1795443908912,
-  "crawlCount": 29,
+  "updatedAt": 1795485008671,
+  "crawlUpdatedAt": 1795485008671,
+  "crawlCount": 40,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,12 +13,359 @@
   ],
   "items": [
     {
-      "id": "CNBC Markets-TnZpZGlhIHJlaW5zdGF0",
-      "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
+      "id": "CNBC Markets-QXNpYW4gTnZpZGlhLXJl",
+      "title": "Asian Nvidia-related stocks jump after Huang&apos;s return, with Taiwan&apos;s near price limits",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795484430000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RmVybWkgQ0VPIExlZSBN",
+      "title": "Fermi CEO Lee McIntire sells $48,321 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/fermi-ceo-lee-mcintire-sells-48321-in-company-stock-93CH-5046826",
+      "source": "Investing.com News",
+      "publishedAt": 1795483873000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U29GaSBUZWNobm9sb2dp",
+      "title": "SoFi Technologies EVP Kelli Keough sells $134,911 in company stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/sofi-technologies-evp-kelli-keough-sells-134911-in-company-stock-93CH-5046827",
+      "source": "Investing.com News",
+      "publishedAt": 1795483873000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q3Jvd2RTdHJpa2UgQ0VP",
+      "title": "CrowdStrike CEO George Kurtz sells $4.79M in CRWD shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-479m-in-crwd-shares-93CH-5046825",
+      "source": "Investing.com News",
+      "publishedAt": 1795483864000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-UGFsYW50aXIgQ1RPIFNo",
+      "title": "Palantir CTO Shyam Sankar sells $47.9M in PLTR shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/palantir-cto-shyam-sankar-sells-479m-in-pltr-shares-93CH-5046824",
+      "source": "Investing.com News",
+      "publishedAt": 1795483863000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QXNpYW4gc3RvY2tzIHJh",
+      "title": "Asian stocks rally as Huang’s Nvidia return revives AI trade",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade-5046823",
+      "source": "Investing.com News",
+      "publishedAt": 1795483821000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-U2luZ2Fwb3JlIHJhaXNl",
+      "title": "Singapore raises 2026 GDP forecast to 6% on AI demand",
+      "summary": "",
+      "url": "https://www.investing.com/news/economic-indicators/singapore-raises-2026-gdp-forecast-to-6-on-ai-demand-5046818",
+      "source": "Investing.com News",
+      "publishedAt": 1795483209000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgcmV3cml0ZXMg",
+      "title": "Trump rewrites the lame-duck rules with flex on Nvidia CEO",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-nvidia-board-made-right-call-on-huang-reinstatement-5045885",
+      "source": "Investing.com News",
+      "publishedAt": 1795483143000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIGNsaW1icyBh",
+      "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+      "summary": "",
+      "url": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
+      "source": "Investing.com News",
+      "publishedAt": 1795483106000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-Q2F0aGllIFdvb2TigJlz",
+      "title": "Cathie Wood’s ARK adds CRISPR stock, trims 3IQ Ether",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-adds-crispr-stock-trims-3iq-ether-93CH-5046812",
+      "source": "Investing.com News",
+      "publishedAt": 1795483088000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TGVueiBUaGVyYXBldXRp",
+      "title": "Lenz Therapeutics director Braden Leonard buys $114,025 in shares",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/lenz-therapeutics-director-braden-leonard-buys-114025-in-shares-93CH-5046811",
+      "source": "Investing.com News",
+      "publishedAt": 1795483004000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIGZhY2VzIEZB",
+      "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795481770000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q3Jvd2RTdHJpa2UgQ0VP",
+      "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a &apos;winning combination&apos;",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795478000000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QUkgYWRvcHRpb24gZ3Jv",
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795477347000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgc2VhbGVkIGRl",
+      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795477337000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIHNldHMgb3B0",
+      "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795476242000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmltIENyYW1lciBzZWVz",
+      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795475674000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RE5JIEpheSBDbGF5dG9u",
+      "title": "DNI Jay Clayton tapped as acting national cyber director",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795474938000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-Q05CQyZhcG9zO3MgVGhl",
+      "title": "CNBC&apos;s The China Connection newsletter: AI race spreads from robots to smartphones",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795474801000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-TnZpZGlhIHN1cmdlOiBX",
+      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795473818000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QXZlcmFnZSA0MDEoayks",
+      "title": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795471795000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-RVNQTiwgTkZMIHRvIHNo",
+      "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795470927000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VGVjaCBzdG9ja3Mgc2Vl",
+      "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795468933000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-SmVuc2VuIEh1YW5nIHJl",
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795443772000,
+      "publishedAt": 1795468085000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -28,209 +375,44 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-SmltIENyYW1lciZhcG9z",
-      "title": "Jim Cramer&apos;s top 10 things to watch in the stock market Monday",
+      "id": "CNBC Markets-Q3Jvd2RTdHJpa2UgdG8g",
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
       "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/11/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795443425000,
+      "publishedAt": 1795467843000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-V2FsbCBTdHJlZXQmYXBv",
-      "title": "Wall Street&apos;s &apos;Fear Gauge&apos; just flashed a buy sign",
+      "id": "CNBC Markets-RmVkJmFwb3M7cyBKb2hu",
+      "title": "Fed&apos;s John Williams indicates higher interest rates likely &apos;over time&apos; to address inflation",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795443268000,
+      "publishedAt": 1795467737000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VG9rZW5pemVkIHN0b2Nr",
-      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795442836000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "rates"
       ],
       "symbols": [
-        "NDX"
+        "FED"
       ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXZlbiBhZmZsdWVudCBz",
-      "title": "Even affluent shoppers are embracing buy now, pay later, Block data shows",
+      "id": "CNBC Markets-UGV0ZXJzb246IEhlcmXi",
+      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
       "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/even-affluent-shoppers-are-embracing-buy-now-pay-later-block-data-shows-5045810",
-      "source": "Investing.com News",
-      "publishedAt": 1795442798000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TnZpZGlhIHJlaW5zdGF0",
-      "title": "Nvidia reinstates Jensen Huang as CEO",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809",
-      "source": "Investing.com News",
-      "publishedAt": 1795442782000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RWFybmluZ3MgY2FsbCB0",
-      "title": "Earnings call transcript: BioLineRx Q3 2026 loss widens as GLIX1 advances",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-biolinerx-q3-2026-loss-widens-as-glix1-advances-93CH-5045808",
-      "source": "Investing.com News",
-      "publishedAt": 1795442751000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UmVkYXB0aXZlIGFwcG9p",
-      "title": "Redaptive appoints former EnerNOC CEO to board",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/redaptive-appoints-former-enernoc-ceo-to-board-93CH-5045807",
-      "source": "Investing.com News",
-      "publishedAt": 1795442676000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R3JhaGFtIGFjcXVpcmVz",
-      "title": "Graham acquires Hauschild to expand mixing technology business",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/graham-acquires-hauschild-to-expand-mixing-technology-business-93CH-5045806",
-      "source": "Investing.com News",
-      "publishedAt": 1795442675000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-U3RhbmRhcmQgTnVjbGVh",
-      "title": "Standard Nuclear submits safety analyses for two fuel facilities",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/standard-nuclear-submits-safety-analyses-for-two-fuel-facilities-93CH-5045805",
-      "source": "Investing.com News",
-      "publishedAt": 1795442673000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TGlmZXdhcmQgdW52ZWls",
-      "title": "Lifeward unveils next generation AlterG anti-gravity treadmill",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/lifeward-unveils-next-generation-alterg-antigravity-treadmill-93CH-5045803",
-      "source": "Investing.com News",
-      "publishedAt": 1795442672000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-R2FtZUdvbGYgcGFydG5l",
-      "title": "GameGolf partners with The Bay Golf Club in TGL league deal",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/gamegolf-partners-with-the-bay-golf-club-in-tgl-league-deal-93CH-5045804",
-      "source": "Investing.com News",
-      "publishedAt": 1795442672000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-Wm9vbWNhciBRMiBGWTI3",
-      "title": "Zoomcar Q2 FY27 slides: first profit posted as unit economics improve",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/zoomcar-q2-fy27-slides-first-profit-posted-as-unit-economics-improve-93CH-5045798",
-      "source": "Investing.com News",
-      "publishedAt": 1795442671000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXh4b25Nb2JpbCBjb21w",
-      "title": "ExxonMobil completes $1.76 billion debt tender offer",
-      "summary": "",
-      "url": "https://www.investing.com/news/company-news/exxonmobil-completes-176-billion-debt-tender-offer-93CH-5045799",
-      "source": "Investing.com News",
-      "publishedAt": 1795442671000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-WmVsZW5za3l5IHByYWlz",
-      "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795440495000,
+      "publishedAt": 1795467659000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -240,12 +422,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-4oCYV29yc3QgQ09QIGV2",
-      "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+      "id": "CNBC Markets-SW52ZXN0b3JzIGFyZSBt",
+      "title": "Investors are missing the bigger picture in CrowdStrike&apos;s deal to buy Zscaler",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795439798000,
+      "publishedAt": 1795465599000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -255,12 +437,72 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-TW9yZSBBbWVyaWNhbnMg",
-      "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
+      "id": "CNBC Markets-Q29uZ3Jlc3Mgc2hyZWRz",
+      "title": "Congress shreds Nvidia&apos;s &apos;outrageous&apos; decision to bring back Huang: &apos;Failure of character&apos;",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795439701000,
+      "publishedAt": 1795465369000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-VHJ1bXAgYWRtaW5pc3Ry",
+      "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795463188000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW1hem9uIHRvIGFjcXVp",
+      "title": "Amazon to acquire AI startup Decart&apos;s chip software, hire founders",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795462478000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QW4gb3B0aW9ucyBzdHJh",
+      "title": "An options strategy for making even more of your money back in Nvidia",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795459966000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-4oCYVGhpcyBlc3RhYmxp",
+      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795456847000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -275,7 +517,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795437637000,
+      "publishedAt": 1795452331000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -285,17 +527,19 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-VGhlIGJpZ2dlc3QgbW9u",
-      "title": "The biggest money-making energy trade looks over. What to buy instead",
+      "id": "CNBC Markets-VG9rZW5pemVkIHN0b2Nr",
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795435220000,
+      "publishedAt": 1795447827000,
       "lang": "en-US",
       "topics": [
         "macro"
       ],
-      "symbols": [],
+      "symbols": [
+        "NDX"
+      ],
       "sentimentHint": "neutral",
       "quality": "fresh"
     },
@@ -305,7 +549,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795428001000,
+      "publishedAt": 1795447323000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -315,63 +559,18 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RnJlbmNoIGJpb3RlY2gg",
-      "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
+      "id": "CNBC Markets-TmV0ZmxpeOKAmXMg4oCY",
+      "title": "Netflix’s ‘The Altruists’ sparks FTX portrayal debate among crypto bigwigs from CZ to Star Xu",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/abivax-scorpion-capital-obefazimod.html",
+      "url": "https://www.cnbc.com/2026/11/23/netflix-the-altruists-crypto-ftx-collapse.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795427142000,
+      "publishedAt": 1795447131000,
       "lang": "en-US",
       "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Rm9yZ2V0IEFudGhyb3Bp",
-      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795423716000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
+        "crypto"
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW52ZXN0b3JzIGdpdmVz",
-      "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795418724000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "negative",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SG93IEFzaWFuIGNvdW50",
-      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795416648000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -380,7 +579,7 @@
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795410483000,
+      "publishedAt": 1795444811000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -390,57 +589,27 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-WWVtZW4mYXBvcztzIEhv",
-      "title": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "id": "CNBC Markets-VHJ1bXAgaG9zdHMgY3J5",
+      "title": "Trump hosts crypto gala as his meme coin falls below $1",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "url": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795405937000,
+      "publishedAt": 1795443342000,
       "lang": "en-US",
       "topics": [
-        "macro"
+        "crypto"
       ],
       "symbols": [],
-      "sentimentHint": "neutral",
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-RW1wbG95ZWVzIGF0IEVy",
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens",
+      "id": "CNBC Markets-TW9yZSBBbWVyaWNhbnMg",
+      "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "url": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795373705000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-RGlyZWN0b3Igb2YgTmF0",
-      "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795367643000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-U29jaWFsIFNlY3VyaXR5",
-      "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795357801000,
+      "publishedAt": 1795439701000,
       "lang": "en-US",
       "topics": [
         "macro"
