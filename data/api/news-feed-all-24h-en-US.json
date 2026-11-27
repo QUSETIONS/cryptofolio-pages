@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": 1795719388355,
-  "crawlUpdatedAt": 1795719388355,
-  "crawlCount": 34,
+  "updatedAt": 1795745213455,
+  "crawlUpdatedAt": 1795745213455,
+  "crawlCount": 32,
   "lastErrorCode": "",
   "quality": "fresh",
   "topic": "all",
@@ -13,72 +13,195 @@
   ],
   "items": [
     {
+      "id": "CNBC Markets-Q2hpbmEgaW5kdXN0cmlh",
+      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795745049000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJlbnQgdHJhZGVzIG5l",
+      "title": "Brent trades near month’s high as Mideast conflict threatens supply",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810",
+      "source": "Investing.com News",
+      "publishedAt": 1795744823000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2h5IGlzIDNQIExlYXJu",
+      "title": "Why is 3P Learning stock surging today?",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-3p-learning-stock-surging-today-93CH-5052808",
+      "source": "Investing.com News",
+      "publishedAt": 1795744009000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-R29sZCBzdGVhZGllcyBu",
+      "title": "Gold steadies near 15-month low as Fed hike bets offset tech-led rally",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+      "source": "Investing.com News",
+      "publishedAt": 1795742872000,
+      "lang": "en-US",
+      "topics": [
+        "rates"
+      ],
+      "symbols": [
+        "XAU",
+        "FED"
+      ],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VHJ1bXAgZGVtYW5kcyBw",
+      "title": "Trump demands probe of GDP data released before midterms",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/trump-demands-probe-of-gdp-data-released-before-midterms-5052586",
+      "source": "Investing.com News",
+      "publishedAt": 1795741974000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-TmV0aGVybGFuZHMgd2ls",
+      "title": "Netherlands will ask Washington not to enforce MATCH Act, minister says",
+      "summary": "",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
+      "source": "Investing.com News",
+      "publishedAt": 1795741959000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-RG9sbGFyIGxpbmdlcnMg",
+      "title": "Dollar lingers near 22-month peak as AI worries simmer",
+      "summary": "",
+      "url": "https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
+      "source": "Investing.com News",
+      "publishedAt": 1795741942000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-VGhhbmtzZ2l2aW5nIHN0",
+      "title": "Thanksgiving storm knocks out power, disrupts flights on US East Coast",
+      "summary": "",
+      "url": "https://www.investing.com/news/commodities-news/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast-5052706",
+      "source": "Investing.com News",
+      "publishedAt": 1795740867000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "positive",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QmxhZGUgUmVzb3VyY2Vz",
+      "title": "Blade Resources closes first tranche of private placement at $0.30",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/blade-resources-closes-first-tranche-of-private-placement-at-030-93CH-5052801",
+      "source": "Investing.com News",
+      "publishedAt": 1795740760000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-V2hpdGVmaWVsZCBRMiAy",
+      "title": "Whitefield Q2 2026 slides: profit rises 5%, buyback boosts NTA",
+      "summary": "",
+      "url": "https://www.investing.com/news/company-news/whitefield-q2-2026-slides-profit-rises-5-buyback-boosts-nta-93CH-5052800",
+      "source": "Investing.com News",
+      "publishedAt": 1795740703000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "Investing.com News-QnJvYWRyaWRnZSBkaXJl",
+      "title": "Broadridge director Maura Markus sells $556,552 in common stock",
+      "summary": "",
+      "url": "https://www.investing.com/news/insider-trading-news/broadridge-director-maura-markus-sells-556552-in-common-stock-93CH-5052797",
+      "source": "Investing.com News",
+      "publishedAt": 1795740371000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-U292ZXJlaWduIHdlYWx0",
+      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795738949000,
+      "lang": "en-US",
+      "topics": [
+        "macro"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
+      "quality": "fresh"
+    },
+    {
       "id": "CNBC Markets-VHJ1bXAgZGVtYW5kcyBw",
       "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "source": "CNBC Markets",
-      "publishedAt": 1795718655000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VS5TLiByZXRhaWxlcnMg",
-      "title": "U.S. retailers offer Thanksgiving deals even as meal costs, turkey prices rise",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/us-retailers-offer-thanksgiving-deals-even-as-meal-costs-turkey-prices-rise-5052672",
-      "source": "Investing.com News",
-      "publishedAt": 1795718238000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VW1oIFByb3BlcnRpZXMg",
-      "title": "Umh Properties director Kenneth K. Quigley Jr. buys $35,700 in stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/umh-properties-director-kenneth-k-quigley-jr-buys-35700-in-stock-93CH-5052668",
-      "source": "Investing.com News",
-      "publishedAt": 1795717877000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW50YXBwIG1hcmtldGlu",
-      "title": "Intapp marketing chief sells $303,750 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/intapp-marketing-chief-sells-303750-in-company-stock-93CH-5052667",
-      "source": "Investing.com News",
-      "publishedAt": 1795717866000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-VHJvbm94IENFTyBKb2hu",
-      "title": "Tronox CEO John Romano buys $139,320 in company stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/tronox-ceo-john-romano-buys-139320-in-company-stock-93CH-5052666",
-      "source": "Investing.com News",
-      "publishedAt": 1795717865000,
+      "publishedAt": 1795727597000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -103,36 +226,6 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-VVMgTWFybGJvcm8gbWFr",
-      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "source": "Investing.com News",
-      "publishedAt": 1795717458000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-SW1wZXJpYWwgc3RvY2sg",
-      "title": "Imperial stock sees best day since 1999 on Altria, Japan Tobacco takeover interest",
-      "summary": "",
-      "url": "https://www.investing.com/news/stock-market-news/imperial-shares-jump-to-highest-since-2017-on-japan-tobacco-deal-report-5052501",
-      "source": "Investing.com News",
-      "publishedAt": 1795715609000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-U2VtaWNvbmR1Y3RvciBj",
       "title": "Semiconductor chips are the new oil. Here&apos;s why",
       "summary": "",
@@ -148,57 +241,12 @@
       "quality": "fresh"
     },
     {
-      "id": "Investing.com News-RXVyb3BlYW4gc3RvY2tz",
-      "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+      "id": "CNBC Markets-TnZpZGlhIGNoaXAgYnV5",
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
       "summary": "",
-      "url": "https://www.investing.com/news/economy-news/european-stocks-rally-as-tech-and-banks-rebound-tariff-fears-ease-5052228",
-      "source": "Investing.com News",
-      "publishedAt": 1795715314000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-UGlsYSBQaGFybWEgYXQg",
-      "title": "Pila Pharma at Stora Aktiedagarna 2026: human trial reset",
-      "summary": "",
-      "url": "https://www.investing.com/news/transcripts/pila-pharma-at-stora-aktiedagarna-2026-human-trial-reset-93CH-5052659",
-      "source": "Investing.com News",
-      "publishedAt": 1795715125000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-TXVlbGxlciBJbmR1c3Ry",
-      "title": "Mueller Industries director sells $103,020 in common stock",
-      "summary": "",
-      "url": "https://www.investing.com/news/insider-trading-news/mueller-industries-director-sells-103020-in-common-stock-93CH-5052657",
-      "source": "Investing.com News",
-      "publishedAt": 1795714285000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "Investing.com News-RXVybyBjb3VudHJpZXMg",
-      "title": "Euro countries pick Spain’s De Cos as ECB chief, Costa says",
-      "summary": "",
-      "url": "https://www.investing.com/news/economy-news/euro-countries-pick-spains-de-cos-as-ecb-chief-costa-says-5052656",
-      "source": "Investing.com News",
-      "publishedAt": 1795714224000,
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795712694000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -220,6 +268,21 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
+      "quality": "fresh"
+    },
+    {
+      "id": "CNBC Markets-QnV5ZXIgYmV3YXJlPyBO",
+      "title": "Buyer beware? Nvidia&apos;s volatile swings expose risks of single-stock ETFs",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "source": "CNBC Markets",
+      "publishedAt": 1795708801000,
+      "lang": "en-US",
+      "topics": [
+        "crypto"
+      ],
+      "symbols": [],
+      "sentimentHint": "negative",
       "quality": "fresh"
     },
     {
@@ -280,21 +343,6 @@
       ],
       "symbols": [],
       "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-R2xvYmFsIHN0b2NrcyBy",
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to &apos;fish for bargains&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795695745000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
       "quality": "fresh"
     },
     {
@@ -403,42 +451,12 @@
       "quality": "fresh"
     },
     {
-      "id": "CNBC Markets-Tm9ydGggS29yZWEmYXBv",
-      "title": "North Korea&apos;s Kim calls for nuclear arsenal expansion, says status &apos;will never change&apos;",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795672234000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
       "id": "CNBC Markets-SG93IFRydW1w4oCZcyBs",
       "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
       "source": "CNBC Markets",
       "publishedAt": 1795666338000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SnVkZ2UgYmxvY2tzIEZD",
-      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795665615000,
       "lang": "en-US",
       "topics": [
         "macro"
@@ -471,51 +489,6 @@
       "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
       "source": "CNBC Markets",
       "publishedAt": 1795662823000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-Sy1iZWF1dHkgc3RvY2tz",
-      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795662587000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "positive",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-SW5zaWRlIEluZGlhIG5l",
-      "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795651936000,
-      "lang": "en-US",
-      "topics": [
-        "macro"
-      ],
-      "symbols": [],
-      "sentimentHint": "neutral",
-      "quality": "fresh"
-    },
-    {
-      "id": "CNBC Markets-VmFuY2Ugc2F5cyBoZSB3",
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "source": "CNBC Markets",
-      "publishedAt": 1795640408000,
       "lang": "en-US",
       "topics": [
         "macro"
